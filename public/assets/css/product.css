@@ -650,7 +650,7 @@ body.loggedIn #retail-price {
 .tree-content h3 {
   margin: 0;
   color: var(--brand-color);
-  background: var(--primary-background);
+  background: var(--secondary-background);
   text-align: left;
   border-radius: 8px;
   padding: 6px 12px;
