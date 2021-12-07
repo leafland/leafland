@@ -76,7 +76,7 @@ class Accordion {
         height: [startHeight, endHeight],
       },
       {
-        duration: 200,
+        duration: 300,
         easing: "ease-out",
       }
     );
@@ -103,7 +103,7 @@ class Accordion {
     const startHeight = `${this.el.offsetHeight}px`;
     // Calculate the open height of the element (summary height + content height)
     const endHeight = `${
-      this.summary.offsetHeight + this.content.offsetHeight
+      this.summary.offsetHeight + this.content.offsetHeight + 20
     }px`;
 
     // If there is already an animation running
@@ -119,7 +119,7 @@ class Accordion {
         height: [startHeight, endHeight],
       },
       {
-        duration: 200,
+        duration: 300,
         easing: "ease-out",
       }
     );

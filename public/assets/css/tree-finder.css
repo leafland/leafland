@@ -240,6 +240,9 @@ details > summary {
     flex-wrap: wrap;
     gap: 1rem;
     padding: 1rem;
+    background: var(--secondary-background);
+    border-radius: 8px;
+    margin-top: 20px;
   }
 
   #filter .options-group > div {
