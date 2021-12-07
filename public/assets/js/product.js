@@ -28,6 +28,8 @@ let productImageData = [];
 let productStockData = [];
 let gradeImages = [];
 
+let maximumQuantityReached = false;
+
 let productTrees = JSON.parse(localStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
@@ -1624,6 +1626,10 @@ function addTreeToLocalStorage() {
                 standardHeightSelect.value.split("?q=")[0]
               ) {
                 productTrees[i].quantity += parseInt(treeQuantity.value, 10);
+                if (productTrees[i].quantity > productTrees[i].maxQuantity) {
+                  productTrees[i].quantity = productTrees[i].maxQuantity;
+                  maximumQuantityReached = true;
+                }
                 break;
               }
             }
@@ -1658,11 +1664,24 @@ function addEventListeners() {
     addTreeToLocalStorage();
     window.dispatchEvent(productAdded);
 
+    if (maximumQuantityReached) {
+      document.querySelector(
+        "#success-message-text"
+      ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
+      maximumQuantityReached = false;
+    } else {
+      document.querySelector(
+        "#success-message-text"
+      ).innerHTML = `${quantity.value}<span class="lowercase">x</span> ${treeBotanicalName.textContent} (<span class="accent-color">${treeCommonName.textContent}</span>) ${gradeSizeSelect.value} added to order.`;
+    }
+
     successMessage.style.setProperty("opacity", "1");
+    successMessage.style.setProperty("z-index", "10");
 
     setTimeout(() => {
       successMessage.style.setProperty("opacity", "0");
-    }, 4000);
+      successMessage.style.setProperty("z-index", "-1");
+    }, 5000);
   });
 
   gradeSizeSelect.addEventListener("change", (event) => {
