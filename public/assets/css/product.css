@@ -18,7 +18,7 @@ main h2 {
   font-size: 1rem;
   background: var(--secondary-background);
   border-radius: 8px;
-  padding: 4px 8px;
+  padding: 8px 16px;
   display: inline-block;
   margin-top: 1rem;
 }
@@ -653,7 +653,7 @@ body.loggedIn #retail-price {
   background: var(--primary-background);
   text-align: left;
   border-radius: 8px;
-  padding: 4px 8px;
+  padding: 6px 12px;
   float: left;
   margin-top: 0.4rem;
   font-size: 0.9rem;
