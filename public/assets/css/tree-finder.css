@@ -70,7 +70,7 @@ input[type="checkbox"] {
   background: var(--secondary-background);
   text-align: left;
   border-radius: 8px;
-  padding: 0.5rem;
+  padding: 0.3rem 0.6rem;
   float: left;
   margin-top: 0.4rem;
   font-size: 0.9rem;

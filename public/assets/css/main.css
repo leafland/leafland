@@ -357,7 +357,7 @@ button,
 input[type="submit"] {
   border: 2px solid var(--border-color);
   font-weight: bold;
-  padding: 4px 8px;
+  padding: 0.3rem 0.6rem;
   text-transform: uppercase;
   background: none;
   transition: color 0.3s, background 0.3s;

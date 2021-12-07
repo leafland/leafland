@@ -146,7 +146,7 @@ body.search-loaded #search-results {
   color: var(--primary-text);
   background: var(--secondary-background);
   border-radius: 8px;
-  padding: 0.5rem;
+  padding: 0.3rem 0.6rem;
   display: inline-block;
   font-size: 0.9rem;
   font-weight: bold;
