@@ -1,0 +1,687 @@
+---
+layout: layouts/base.njk
+title: Tree Finder
+type: tree-finder
+---
+
+<div id="content">
+
+    <div id="finder-content">
+
+        <h1>Tree Finder</h1>
+
+        {# <h2 id="select-filter-title">Filter</h2> #}
+
+        <button id="clear-select-filter" disabled="true">Clear all</button>
+
+        <select multiple="true" title="Filter results">
+
+            <optgroup label="Uses">
+                <option value="attracts-birds">Attracts Birds</option>
+                <option value="attracts-bees">Attracts Bees</option>
+                <option value="driveways-avenues">Driveways/Avenues</option>
+                <option value="hedging-screening">Hedging/Screening</option>
+                <option value="narrow-spaces">Narrow Spaces</option>
+                <option value="paddocks-shade">Paddocks/Shade</option>
+                <option value="pleaching">Pleaching</option>
+                <option value="small-garden">Small Garden</option>
+                <option value="street">Street</option>
+                <option value="topiary">Topiary</option>
+            </optgroup>
+
+            <optgroup label="Tolerates">
+                <option value="clay">Clay Soils</option>
+                <option value="coastal">Coastal Sites</option>
+                <option value="dry">Dry Sites</option>
+                <option value="wet">Wet Sites</option>
+                <option value="windy">Windy Sites</option>
+            </optgroup>
+
+            <optgroup label="Types">
+                <option value="conifer">Conifer</option>
+                <option value="edible">Edible</option>
+                <option value="weeping">Weeping</option>
+            </optgroup>
+
+            <optgroup label="Winter Foliage">
+                <option value="deciduous">Deciduous</option>
+                <option value="evergreen">Evergreen</option>
+                <option value="semi-evergreen">Semi-Evergreen</option>
+            </optgroup>
+
+            <optgroup label="Origin">
+                <option value="exotic">Exotic</option>
+                <option value="native">Native</option>
+            </optgroup>
+
+            <optgroup label="Height">
+                <option value="0.5m-h">0.5m</option>
+                <option value="1m-h">1m</option>
+                <option value="2m-h">2m</option>
+                <option value="3m-h">3m</option>
+                <option value="4m-h">4m</option>
+                <option value="5m-h">5m</option>
+                <option value="6m-h">6m</option>
+                <option value="7m-h">7m</option>
+                <option value="8m-h">8m</option>
+                <option value="9m-h">9m</option>
+                <option value="10m-h">10m</option>
+            </optgroup>
+
+            <optgroup label="Width">
+                <option value="0.5m-w">0.5m</option>
+                <option value="1m-w">1m</option>
+                <option value="2m-w">2m</option>
+                <option value="3m-w">3m</option>
+                <option value="4m-w">4m</option>
+                <option value="5m-w">5m</option>
+                <option value="6m-w">6m</option>
+                <option value="7m-w">7m</option>
+                <option value="8m-w">8m</option>
+            </optgroup>
+
+            <optgroup label="Fruiting Season">
+                <option value="summer-fs">Summer</option>
+                <option value="autumn-fs">Autumn</option>
+                <option value="winter-fs">Winter</option>
+                <option value="spring-fs">Spring</option>
+            </optgroup>
+
+            <optgroup label="Flowering Season">
+                <option value="summer-fls">Summer</option>
+                <option value="autumn-fls">Autumn</option>
+                <option value="winter-fls">Winter</option>
+                <option value="spring-fls">Spring</option>
+            </optgroup>
+
+            <optgroup label="Flower Colour">
+                <option value="blue-fc">Blue</option>
+                <option value="grey-fc">Grey</option>
+                <option value="red-fc">Red</option>
+                <option value="orange-fc">Orange</option>
+                <option value="yellow-fc">Yellow</option>
+                <option value="purple-fc">Purple</option>
+                <option value="pink-fc">Pink</option>
+                <option value="green-fc">Green</option>
+                <option value="white-fc">White</option>
+            </optgroup>
+
+            <optgroup label="Autumn Colour">
+                <option value="red-ac">Red</option>
+                <option value="orange-ac">Orange</option>
+                <option value="yellow-ac">Yellow</option>
+                <option value="purple-ac">Purple</option>
+            </optgroup>
+
+            <optgroup label="Foliage Colour">
+                <option value="blue-flc">Blue</option>
+                <option value="grey-flc">Grey</option>
+                <option value="red-flc">Red</option>
+                <option value="orange-flc">Orange</option>
+                <option value="yellow-flc">Yellow</option>
+                <option value="purple-flc">Purple</option>
+                <option value="pink-flc">Pink</option>
+                <option value="green-flc">Green</option>
+                <option value="white-flc">White</option>
+            </optgroup>
+
+        </select>
+
+        <div id="grid-content-left">
+            
+            {# <h2 id="checkbox-filter-title">Filter</h2> #}
+
+            <button id="clear-checkbox-filter" disabled="true">Clear all</button>
+            
+            <div id="filter">
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Uses</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="attracts-birds" value="attracts-birds">
+                        <label for="attracts-birds">Attracts Birds</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="attracts-bees" value="attracts-bees">
+                        <label for="attracts-bees">Attracts Bees</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="driveways-avenues" value="driveways-avenues">
+                        <label for="driveways-avenues">Driveways/Avenues</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="hedging-screening" value="hedging-screening">
+                        <label for="hedging-screening">Hedging/Screening</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="narrow-spaces" value="narrow-spaces">
+                        <label for="narrow-spaces">Narrow Spaces</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="paddocks-shade" value="paddocks-shade">
+                        <label for="paddocks-shade">Paddocks/Shade</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="pleaching" value="pleaching">
+                        <label for="pleaching">Pleaching</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="small-garden" value="small-garden">
+                        <label for="small-garden">Small Garden</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="street" value="street">
+                        <label for="street">Street</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="topiary" value="topiary">
+                        <label for="topiary">Topiary</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Tolerates</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="clay" value="clay">
+                        <label for="clay">Clay Soils</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="coastal" value="coastal">
+                        <label for="coastal">Coastal Sites</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="dry" value="dry">
+                        <label for="dry">Dry Sites</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="wet" value="wet">
+                        <label for="wet">Wet Sites</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="windy" value="windy">
+                        <label for="windy">Windy Sites</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Types</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="conifer" value="conifer">
+                        <label for="conifer">Conifer</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="edible" value="edible">
+                        <label for="edible">Edible</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="weeping" value="weeping">
+                        <label for="weeping">Weeping</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Winter Foliage</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="deciduous" value="deciduous">
+                        <label for="deciduous">Deciduous</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="evergreen" value="evergreen">
+                        <label for="evergreen">Evergreen</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="semi-evergreen" value="semi-evergreen">
+                        <label for="semi-evergreen">Semi-Evergreen</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+                
+                    <summary>
+                    
+                        <span>Origin</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="exotic" value="exotic">
+                        <label for="exotic">Exotic</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="native" value="native">
+                        <label for="native">Native</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Height</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="0.5m-h" value="0.5m-h">
+                        <label for="0.5m-h">0.5m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="1m-h" value="1m-h">
+                        <label for="1m-h">1m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="2m-h" value="2m-h">
+                        <label for="2m-h">2m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="3m-h" value="3m-h">
+                        <label for="3m-h">3m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="4m-h" value="4m-h">
+                        <label for="4m-h">4m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="5m-h" value="5m-h">
+                        <label for="5m-h">5m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="6m-h" value="6m-h">
+                        <label for="6m-h">6m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="7m-h" value="7m-h">
+                        <label for="7m-h">7m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="8m-h" value="8m-h">
+                        <label for="8m-h">8m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="9m-h" value="9m-h">
+                        <label for="9m-h">9m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="10m-h" value="10m-h">
+                        <label for="10m-h">10m</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Width</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="0.5m-w" value="0.5m-w">
+                        <label for="0.5m-w">0.5m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="1m-w" value="1m-w">
+                        <label for="1m-w">1m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="2m-w" value="2m-w">
+                        <label for="2m-w">2m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="3m-w" value="3m-w">
+                        <label for="3m-w">3m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="4m-w" value="4m-w">
+                        <label for="4m-w">4m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="5m-w" value="5m-w">
+                        <label for="5m-w">5m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="6m-w" value="6m-w">
+                        <label for="6m-w">6m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="7m-w" value="7m-w">
+                        <label for="7m-w">7m</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="8m-w" value="8m-w">
+                        <label for="8m-w">8m</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Fruiting Season</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="summer-fs" value="summer-fs">
+                        <label for="summer-fs">Summer</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="autumn-fs" value="autumn-fs">
+                        <label for="autumn-fs">Autumn</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="winter-fs" value="winter-fs">
+                        <label for="winter-fs">Winter</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="spring-fs" value="spring-fs">
+                        <label for="spring-fs">Spring</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Flowering Season</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="summer-fls" value="summer-fls">
+                        <label for="summer-fls">Summer</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="autumn-fls" value="autumn-fls">
+                        <label for="autumn-fls">Autumn</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="winter-fls" value="winter-fls">
+                        <label for="winter-fls">Winter</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="spring-fls" value="spring-fls">
+                        <label for="spring-fls">Spring</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Flower Colour</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="blue-fc" value="blue-fc">
+                        <label for="blue-fc">Blue</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="grey-fc" value="grey-fc">
+                        <label for="grey-fc">Grey</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="red-fc" value="red-fc">
+                        <label for="red-fc">Red</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="orange-fc" value="orange-fc">
+                        <label for="orange-fc">Orange</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="yellow-fc" value="yellow-fc">
+                        <label for="yellow-fc">Yellow</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="purple-fc" value="purple-fc">
+                        <label for="purple-fc">Purple</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="pink-fc" value="pink-fc">
+                        <label for="pink-fc">Pink</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="green-fc" value="green-fc">
+                        <label for="green-fc">Green</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="white-fc" value="white-fc">
+                        <label for="white-fc">White</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Autumn Colour</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="red-ac" value="red-ac">
+                        <label for="red-ac">Red</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="orange-ac" value="orange-ac">
+                        <label for="orange-ac">Orange</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="yellow-ac" value="yellow-ac">
+                        <label for="yellow-ac">Yellow</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="purple-ac" value="purple-ac">
+                        <label for="purple-ac">Purple</label>
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+
+                    <summary>
+                    
+                        <span>Foliage Colour</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div>
+                        <input type="checkbox" id="blue-flc" value="blue-flc">
+                        <label for="blue-flc">Blue</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="grey-flc" value="grey-flc">
+                        <label for="grey-flc">Grey</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="red-flc" value="red-flc">
+                        <label for="red-flc">Red</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="orange-flc" value="orange-flc">
+                        <label for="orange-flc">Orange</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="yellow-flc" value="yellow-flc">
+                        <label for="yellow-flc">Yellow</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="purple-flc" value="purple-flc">
+                        <label for="purple-flc">Purple</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="pink-flc" value="pink-flc">
+                        <label for="pink-flc">Pink</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="green-flc" value="green-flc">
+                        <label for="green-flc">Green</label>
+                    </div>
+
+                    <div>
+                        <input type="checkbox" id="white-flc" value="white-flc">
+                        <label for="white-flc">White</label>
+                    </div>
+
+                </details>
+
+            </div>
+
+        </div>
+
+        <div id="grid-content-right">
+
+            <div id="tree-wrapper"></div>
+
+            <div id="button-div">
+                <button id='load-more'>Load more</button>
+                <button id='return-to-top'>Return to top</button>
+            </div>
+        </div>
+
+    </div>
+
+</div>

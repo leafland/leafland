@@ -1,0 +1,191 @@
+main {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
+main button {
+  padding: 8px 16px;
+}
+
+main h1 {
+  font-size: 2.5rem;
+}
+
+main h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+#hero {
+  display: grid;
+  height: 750px;
+}
+
+#hero > * {
+  grid-area: 1 / -1;
+}
+
+#surface-content {
+  z-index: 2;
+  padding: 20px;
+  display: grid;
+  place-content: center;
+  gap: 3rem;
+}
+
+#link-block {
+  text-align: center;
+  grid-row-start: 3;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  opacity: 0;
+}
+
+#link-block button:nth-of-type(1) {
+  background: var(--button-background);
+}
+
+#hero-images {
+  display: grid;
+  filter: brightness(0.8);
+}
+
+#hero-images > * {
+  grid-area: 1 / -1;
+}
+
+#image-2 {
+  opacity: 0;
+}
+
+#image-3 {
+  opacity: 0;
+}
+
+.hero-image {
+  transition: opacity 2s ease;
+  object-fit: cover;
+  width: 100%;
+  height: 750px;
+  filter: brightness(0.7);
+}
+
+#hero-text {
+  color: var(--inverse-text-color);
+  align-self: start;
+  grid-row-start: 2;
+  opacity: 0;
+}
+
+#hero-text h1 {
+  margin: 0;
+  color: var(--secondary-background);
+}
+
+#hero-text .subtitle {
+  text-transform: uppercase;
+  background: var(--secondary-background);
+  display: inline-block;
+  color: var(--brand-color);
+  border-radius: 8px;
+  padding: 4px 8px;
+  font-weight: bold;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+#hero .button {
+  color: var(--secondary-background);
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.split-section {
+  margin: 5rem 1rem;
+  padding: 2rem 1rem;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  opacity: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+  align-items: center;
+  justify-items: end;
+}
+
+.split-section img {
+  max-width: 750px;
+  border-radius: 8px;
+}
+.split-section-text {
+  max-width: 500px;
+  justify-self: start;
+}
+
+.split-section video {
+  max-width: 750px;
+}
+.banner-section {
+  min-height: 400px;
+  display: grid;
+  padding: 1rem;
+}
+.banner-section-inner {
+  margin: auto;
+  text-align: center;
+  display: grid;
+  grid-gap: 3rem;
+}
+
+.banner-section-inner .button {
+  margin-bottom: 2rem;
+  justify-self: center;
+  border-color: var(--primary-text);
+  background: none;
+  font-size: 0.9rem;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #hero .button:hover {
+    color: var(--primary-text);
+  }
+
+  .banner-section-inner .button:hover {
+    background: var(--primary-text);
+    color: var(--secondary-background);
+  }
+}
+
+@media (min-width: 800px) {
+  .split-section {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2rem;
+  }
+  #hero,
+  .hero-image {
+    height: 1000px;
+  }
+
+  .banner-section-inner .button,
+  #hero .button,
+  #hero-text .subtitle {
+    font-size: 1.25rem;
+  }
+
+  main h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .banner-section-inner .button,
+  #hero .button,
+  #hero-text .subtitle {
+    font-size: 1.5rem;
+  }
+  main h1 {
+    font-size: 3.5rem;
+  }
+}

@@ -1,0 +1,123 @@
+---
+eleventyExcludeFromCollections: true
+layout: layouts/base.njk
+title: Submit Order
+type: submit-order
+---
+
+<div id="content">
+
+    <h1>Submit Order</h1>
+
+    <p>Once you have submitted your order, we will confirm we can supply the trees and grades you are after. We will also double-check the freight and let you know if there will be any extra costs (like a surcharge for rural addresses). Then we will send you an invoice that will have our bank details on for payment. We do not take payment via any sort of card.</p>
+
+    <p id="empty-message" class="paragraph-title">Order is empty, please add products before submitting order.</p>
+
+    <form id="grid-content" class="submit-form">
+
+        <div id="grid-content-left">
+        
+            <h2>Contact and Delivery Details:</h2>
+
+            <div id="grid-content-left-inner">
+
+                <p>
+                    <label for="name">Full Name</label>
+                    <input type="text" name="name" required />
+                </p>
+
+                <p>
+                    <label for="email">Email</label>
+                    <input type="email" name="email" required />
+                </p>
+
+                <p>
+                    <label for="phone">Phone</label>
+                    <input type="tel" name="phone" required />
+                </p>
+
+                <p>
+                    <label for="streetAddress">Street Address</label>
+                    <input type="text" id="street-address" name="streetAddress" required />
+                </p>
+
+                <p>
+                    <label for="townCity">Town/City</label>
+                    <input type="text" id="town-city" name="townCity" required />
+                </p>
+
+                <p>
+                    <label for="returningCustomer">Returning Customer?</label>
+                    <select type="text" name="returningCustomer" required>
+                    <option value="No">No</option>
+                    <option value="Yes">Yes</option>
+                    </select>
+                </p>
+
+                <p>
+                    <label for="notes">Notes and Delivery Instructions (Optional)</label>
+                    <textarea id="notes" name="notes" cols="35" rows="10"></textarea>
+                </p>
+
+            </div>
+
+            <p>
+                <label for="trees" style="visibility:hidden">Trees</label>
+                <textarea id="trees" name="trees" style="visibility:hidden" cols="50"></textarea>
+            </p>
+            
+        </div>
+
+        <div id="grid-content-right">
+
+            <h2>Trees:</h2>
+
+            <div id="form-trees"></div>
+
+            <div id="order-totals">
+
+                <p id="freight-total"></p>
+                <p id="tree-total"></p>
+                <p id="order-total"></p>
+
+            </div>
+
+            <p class="region-select">
+                <label for="region">Choose region/city to calculate freight (Freight for Northland and Manawatū will be quoted separately, P.O.A = Price on application)</label>
+                <select type="text" name="region" id="region" required>
+                <option value="Northland">Northland</option>
+                <option value="Auckland">Auckland</option>
+                <option value="Hamilton">Hamilton</option>
+                <option value="Tauranga">Tauranga</option>
+                <option value="Whakatane">Whakatāne</option>
+                <option value="Taupo/Rotorua">Taupō/Rotorua</option>
+                <option value="Taranaki">Taranaki</option>
+                <option value="Gisborne">Gisborne</option>
+                <option value="Hawkes Bay">Hawke's Bay</option>
+                <option value="Whanganui">Whanganui</option>
+                <option value="Manawatu">Manawatū</option>
+                <option value="Wairarapa">Wairarapa</option>
+                <option value="Wellington/Lower North Island">Wellington</option>
+                <option value="Blenheim/Nelson">Blenheim/Nelson</option>
+                <option value="Christchurch">Christchurch</option>
+                <option value="Ashburton/Timaru/Oamaru">Ashburton/Timaru/Oamaru</option>
+                <option value="Dunedin/West Coast">Dunedin/West Coast</option>
+                <option value="Balclutha/Gore">Balclutha/Gore</option>
+                <option value="Invercargill/Central Otago">Invercargill/Central Otago</option>
+                </select>
+            </p>
+
+            <p class="checkbox-field">
+                <input type="checkbox" id="terms-of-trade" name="terms-of-trade" required>
+                <label for="terms-of-trade">I agree to Leafland's <a href="/terms-of-trade/" class="accent-color">Terms of Trade</a></label>
+            </p>
+
+            <p>
+                <button type="submit" class="send-order">Submit order</button>
+            </p>
+
+        </div>
+
+    </form>
+
+</div>

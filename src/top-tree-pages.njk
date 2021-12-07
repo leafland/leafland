@@ -1,0 +1,13 @@
+---
+pagination:
+    addAllPagesToCollections: true
+    data: top-trees
+    size: 1
+    alias: tree
+permalink: "/top-trees/{{ tree.url | safe }}/"
+layout: layouts/top-trees.njk
+type: top-trees
+eleventyComputed:
+    title: "{{tree.title | safe }}"
+    id: "{{tree.id | safe }}"
+---

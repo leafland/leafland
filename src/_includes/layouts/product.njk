@@ -1,0 +1,135 @@
+---
+layout: layouts/base.njk
+type: product
+---
+
+<div id="content">
+
+    <div id="tree-name-block">
+        <h1 class="tree-botanical-name">{{ botanicalName }}</h1>
+        <h2 class="tree-common-name accent-color">{{ commonName }}</h2>
+    </div>
+
+    <div id="grid-content">
+
+        <div id="grid-content-left">
+
+            <div id="main-image">
+
+                <button id="image-left-button">
+
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="left-icon"><g data-name="Layer 2"><g data-name="arrow-ios-back"><rect width="24" height="24" transform="rotate(90 12 12)" opacity="0"/><path d="M13.83 19a1 1 0 0 1-.78-.37l-4.83-6a1 1 0 0 1 0-1.27l5-6a1 1 0 0 1 1.54 1.28L10.29 12l4.32 5.36a1 1 0 0 1-.78 1.64z"/></g></g></svg>
+
+                </button>
+
+                <button id="image-right-button">
+
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                </button>
+            
+                <div id="main-image-inner"></div>
+            
+            </div>
+
+            <div class="images"></div>
+
+        </div>
+
+        <div id="grid-content-right">
+
+            <div id="tree-info">
+
+                <div id="tree-info-left">
+
+                    <p class="tree-description">{{ description | safe}}</p>
+
+                </div>
+
+                <div id="tree-info-right">
+
+                    <div id="tree-icons">
+
+                        <div id="tree-attributes"></div>
+
+                        <div id="color-section"></div>
+
+                    </div>
+
+                    <div id="tree-shape">
+
+                        <p class="paragraph-title">10 Year Size</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="order-block">
+
+            <h2 id="grade-sizes-heading">Add to order</h2>
+
+            <div id="grade-sizes">
+
+                <div id="grade-select">
+
+                    <div>
+                        <label for="grade-size">Grade</label>
+                        <select name="grade-size" id="grade-size-select"></select>
+                    </div>
+
+                    <div>
+                        <label for="height">Average height</label>
+                        <select name="height" id="height-select"></select>
+                    </div>
+
+                    <div>
+                        <label for="standard-height">Standard height</label>
+                        <select name="standard-height" id="standard-height-select"></select>
+                    </div>
+
+                    <div>
+                        <label for="quantity">Quantity</label>
+                        <input name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
+                    </div>
+
+                    <button id="add-product">Add to order</button>
+
+                </div>
+
+                <div id="stock-values"></div>
+
+            </div>
+
+            <p id="coming-on">Grades coming on:</p>
+
+            <p id="success-message" class="paragraph-title">Tree grade added to order.</p>
+
+            <div id="stock-information">
+
+                <p>The <span class="accent-color">grade size</span> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
+
+                <p>The <span class="accent-color">average height</span> is the overall height of the tree from the bottom of the trunk to the top of the tree, averaged across the trees we have in this grade.</p>
+
+                <p>The <span class="accent-color">standard height</span> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted). If you don't want a standard tree, select 'None' as the standard height.</p>
+
+                <p>Grades that are <span class="accent-color">coming on</span> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
+
+            </div>
+
+            <p class="product-disclaimer">Photos are for reference only and do not necessarily reflect the final product delivered. Prices subject to change without notice. Actual stock quantity may differ. Heights are given in good faith but we give no guarantee as to the height of the final product. If you would like a current photo of any of the grades, please get in touch.</p>
+
+        </div>
+
+    </div>
+
+
+
+    <h2 id="related-trees-heading">You may also like</h2>
+
+    <div id="related-trees"></div>
+
+</div>

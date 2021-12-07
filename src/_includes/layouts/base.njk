@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    {% if type === "product" %}
+    <meta name="description" content="{{ metaDescription }}"/>
+    {% else %}
+    <meta name="description" content="{{ description | safe }}"/>
+    {% endif %}
+
+    <link rel='preconnect' href="https://ik.imagekit.io/leafland">
+    <link rel='dns-prefetch' href="https://ik.imagekit.io/leafland">
+    <link rel='preconnect' href="https://files.leafland.co.nz">
+    <link rel='dns-prefetch' href="https://files.leafland.co.nz">
+    <link rel='preconnect' href="https://api.leafland.co.nz">
+    <link rel='dns-prefetch' href="https://api.leafland.co.nz">
+
+    <style>
+      #search-overlay, #login-overlay, #main-menu-overlay, #order-overlay{
+        opacity: 0;
+        z-index: -9999;
+      }
+
+      .dropdown-sub-menu{
+        opacity: 0
+      }
+
+      #view{
+        opacity:0
+      }
+    </style>
+
+    <link rel="stylesheet" href="/public/assets/css/main.css"/>
+    <link rel="stylesheet" href="/public/assets/css/menu.css"/>
+    <link rel="stylesheet" href="/public/assets/css/order.css"/>
+    <link rel="stylesheet" href="/public/assets/css/search.css"/>
+    <link rel="stylesheet" href="/public/assets/css/login.css"/>
+
+    <script defer src="/public/assets/js/login.js"></script>
+    <script defer src="/public/assets/js/main.js"></script>
+    <script defer src="/public/assets/js/menu.js"></script>
+    <script defer src="/public/assets/js/order.js"></script>
+    <script defer src="/public/assets/js/search.js"></script>
+
+
+    {% if type === "product" %}
+      {% include "components/head/_product.njk"%}
+
+    {% elif type === "submit-order" %}
+      {% include "components/head/_page.njk"%}
+      {% include "components/head/_submit-order.njk"%}
+
+    {% elif type === "tree-finder" %}
+      {% include "components/head/_tree-finder.njk"%}
+
+    {% elif type === 'index' %}
+      {% include "components/head/_index.njk"%}
+
+    {% elif type === 'page' %}
+      {% include "components/head/_page.njk"%}
+
+    {% elif type === 'top-trees' %}
+      {% include "components/head/_top-trees.njk"%}
+
+    {% elif type === 'retail' %}
+      {% include "components/head/_page.njk"%}
+      {% include "components/head/_retail-list.njk"%}
+
+    {% elif type === 'wholesale' %}
+      {% include "components/head/_page.njk"%}
+      {% include "components/head/_wholesale-list.njk"%}
+
+    {% elif type === 'freight-charges' %}
+      {% include "components/head/_page.njk"%}
+      {% include "components/head/_freight-charges.njk"%}
+    {% endif %}
+
+    <title>
+    {% if type === "index" %}Leafland Wholesale Tree Nursery
+    {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Wholesale Tree Nursery
+    {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Wholesale Tree Nursery
+    {% else %}{{ title | safe }} - Leafland Wholesale Tree Nursery
+    {% endif %}
+    </title>
+
+    {% if type === 'product' %}
+
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/", 
+          "@type": "Product", 
+          "name": "{{ botanicalName | safe}}",
+          "image": "{{ image | safe}}",
+          "description": "{{ description | safe}}",
+          "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1"
+          },
+          "brand": "Leafland Limited",
+          "publisher": {
+                "@type": "Organization",
+            "name": "Leafland Limited",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
+            }
+            }
+        }
+      </script>
+    {% else %}
+
+      <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "{{ title | safe }}",
+            "description": "{{description | safe }}",
+            "publisher": {
+                "@type": "Organization",
+            "name": "Leafland Limited",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
+            }
+            }
+        }
+      </script>
+    {% endif %}
+
+  </head>
+
+  <body {% if type === "top-trees" %} data-id="{{ id }}" {% endif %}>
+
+    <div id="view">
+
+      {% include "components/_header.njk"%}
+
+      <main>
+        {{ content | safe }}
+      </main>
+
+    </div>
+
+    {% include "components/_footer.njk"%}
+
+    <div id="search-overlay">
+
+      <svg fill="#000000" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" class="close-icon" id="close-search"><path d="M37.304 11.282l1.414 1.414-26.022 26.02-1.414-1.413z"/><path d="M12.696 11.282l26.022 26.02-1.414 1.415-26.022-26.02z"/></svg>
+
+      <div id="search-inner">
+
+        <div id="search-section">
+
+          <input type="text" id="search" placeholder="Search trees..." />
+
+        </div>
+
+        <div id="search-results">
+        
+          <div id="search-results-inner"></div>
+
+          <div id="search-load-more-div">
+
+            <button id='search-load-more'>Load more</button>
+
+          </div>
+        
+        </div>
+        
+      </div>
+
+    </div>
+
+    <div id="login-overlay">
+
+      <svg fill="#000000" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" class="close-icon" id="close-login"><path d="M37.304 11.282l1.414 1.414-26.022 26.02-1.414-1.413z"/><path d="M12.696 11.282l26.022 26.02-1.414 1.415-26.022-26.02z"/></svg>
+
+      <div id='login-inner'>
+
+        <h1>Login</h1>
+
+        <div id="login-form-container">
+
+          <h3 id="login-message">You are logged in.</h3>
+
+          <button id="log-out">Log out</button>
+
+          <form id='login-form'>
+
+          <label>Email</label><input type='email' name='email' />
+          <input type='submit' value="Log in" id="log-in">
+          
+          </form>
+
+          <p id="return-message"></p>
+
+          <p>This login is for wholesale customers only. If you have an account, submit your email above and you will be emailed a login link. If you are a wholesale customer and do not have an acccount please get in touch with us.</p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    {% include "components/_order.njk"%}
+
+    {% include "components/_main-menu.njk"%}
+
+    {% if type === 'product' %}
+
+    <div id="image-lightbox">
+    
+      <svg fill="#000000" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" class="close-icon" id="image-lightbox-close"><path d="M37.304 11.282l1.414 1.414-26.022 26.02-1.414-1.413z"/><path d="M12.696 11.282l26.022 26.02-1.414 1.415-26.022-26.02z"/></svg>
+
+      <div id="image-lightbox-inner">
+
+          <div id="image-lightbox-div"></div>
+
+      </div>
+
+    </div>
+
+    {% endif %}
+
+    <div id="loading-overlay">
+
+      <h2>Loading</h2>
+      <p>Just a moment</p>
+    
+    </div>
+
+  </body>
+
+</html>
