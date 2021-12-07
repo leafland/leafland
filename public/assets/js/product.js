@@ -477,7 +477,12 @@ async function createStockValues() {
           standardHeight.standardHeight.toLowerCase().trim() !== "ct"
         ) {
           standardHeightValue.value = `${standardHeight.standardHeight}?q=${standardHeight.quantity}`;
-          standardHeightValue.textContent = standardHeight.standardHeight + "m";
+          if (standardHeight.standardHeight.match(/\d+/g) !== null) {
+            standardHeightValue.textContent =
+              standardHeight.standardHeight + "m";
+          } else {
+            standardHeightValue.textContent = standardHeight.standardHeight;
+          }
           standardHeightSelect.appendChild(standardHeightValue);
         } else if (
           standardHeight.standardHeight.toLowerCase().trim() !== "column"
@@ -1736,8 +1741,19 @@ function addEventListeners() {
               .trim() !== "ct"
           ) {
             standardHeightValue.value = `${grades[i].heights[0].standardHeights[j].standardHeight}?q=${grades[i].heights[0].standardHeights[j].quantity}`;
-            standardHeightValue.textContent =
-              grades[i].heights[0].standardHeights[j].standardHeight + "m";
+
+            if (
+              grades[i].heights[0].standardHeights[j].standardHeight.match(
+                /\d+/g
+              ) !== null
+            ) {
+              standardHeightValue.textContent =
+                grades[i].heights[0].standardHeights[j].standardHeight + "m";
+            } else {
+              standardHeightValue.textContent =
+                grades[i].heights[0].standardHeights[j].standardHeight;
+            }
+
             standardHeightSelect.appendChild(standardHeightValue);
           } else if (
             grades[i].heights[0].standardHeights[j].standardHeight
@@ -1830,8 +1846,20 @@ function addEventListeners() {
                   .trim() !== "ct"
               ) {
                 standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}`;
-                standardHeightValue.textContent =
-                  grades[i].heights[j].standardHeights[k].standardHeight + "m";
+
+                if (
+                  grades[i].heights[j].standardHeights[k].standardHeight.match(
+                    /\d+/g
+                  ) !== null
+                ) {
+                  standardHeightValue.textContent =
+                    grades[i].heights[j].standardHeights[k].standardHeight +
+                    "m";
+                } else {
+                  standardHeightValue.textContent =
+                    grades[i].heights[j].standardHeights[k].standardHeight;
+                }
+
                 standardHeightSelect.appendChild(standardHeightValue);
               } else if (
                 grades[i].heights[j].standardHeights[k].standardHeight

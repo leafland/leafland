@@ -130,11 +130,14 @@ async function updateOrder() {
       }</span>`;
 
       let itemStandardHeight = document.createElement("p");
-      itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${
-        tree.standardHeight.toLowerCase() === "none"
-          ? tree.standardHeight
-          : tree.standardHeight + "<span class='lowercase'>m</span>"
-      }</span>`;
+
+      if (tree.standardHeight.match(/\d+/g) !== null) {
+        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${
+          tree.standardHeight + "<span class='lowercase'>m</span>"
+        }</span>`;
+      } else {
+        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${tree.standardHeight}</span>`;
+      }
 
       let itemPrice = document.createElement("p");
 
