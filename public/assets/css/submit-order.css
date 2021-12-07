@@ -100,7 +100,7 @@ h2 {
   background: var(--primary-background);
   margin-top: 0.3rem;
   display: inline-block;
-  padding: 6px 12px;
+  padding: 0.5rem;
   border-radius: 8px;
 }
 

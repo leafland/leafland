@@ -87,18 +87,13 @@
 }
 
 .order-common-name {
-  font-size: 1.25rem;
-  margin: 0;
-}
-
-.order-common-name {
   margin: 0;
   text-align: left;
   font-size: 0.9rem;
   background: var(--primary-background);
   margin-top: 0.3rem;
   display: inline-block;
-  padding: 6px 12px;
+  padding: 0.5rem;
   border-radius: 8px;
 }
 
