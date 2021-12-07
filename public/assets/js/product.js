@@ -1670,9 +1670,15 @@ function addEventListeners() {
       ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
       maximumQuantityReached = false;
     } else {
-      document.querySelector(
-        "#success-message-text"
-      ).innerHTML = `${quantity.value}<span class="lowercase">x</span> ${treeBotanicalName.textContent} (<span class="accent-color">${treeCommonName.textContent}</span>) ${gradeSizeSelect.value} added to order.`;
+      document.querySelector("#success-message-text").innerHTML = `${
+        quantity.value
+      }<span class="lowercase">x</span> ${treeBotanicalName.textContent} ${
+        treeCommonName.textContent !== ""
+          ? '(<span class="accent-color">' +
+            treeCommonName.textContent +
+            "</span>)"
+          : ""
+      } ${gradeSizeSelect.value} added to order.`;
     }
 
     successMessage.style.setProperty("opacity", "1");
