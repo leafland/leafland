@@ -310,7 +310,7 @@ p.paragraph-title {
   text-transform: uppercase;
 }
 
-main p a {
+main p a:not(label a) {
   border-bottom: 2px solid var(--primary-text);
 }
 
