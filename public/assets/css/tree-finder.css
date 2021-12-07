@@ -194,6 +194,7 @@ details > summary {
 
 #filter .right-icon {
   display: block;
+  transition: transform 0.3s;
 }
 
 #filter .down-icon {
@@ -201,17 +202,12 @@ details > summary {
 }
 
 #filter details[open] > summary .right-icon {
-  display: none;
+  transform: rotate(90deg);
 }
 
-#filter details[open] > summary .down-icon {
+/* #filter details[open] > summary .down-icon {
   display: block;
-}
-
-details > div {
-  margin: 1rem 0;
-  padding-left: 0.5rem;
-}
+} */
 
 @media (min-width: 1000px) {
   #tree-wrapper {
@@ -243,6 +239,10 @@ details > div {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+    padding: 1rem;
+    background: var(--secondary-background);
+    border-radius: 8px;
+    margin-top: 20px;
   }
 
   #filter .options-group > div {
