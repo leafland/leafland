@@ -1,8 +1,4 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addFilter("date", function (date, dateFormat) {
-    return format(date, dateFormat);
-  });
-
   eleventyConfig.setTemplateFormats([
     // Templates:
     "html",
