@@ -226,6 +226,10 @@ details > div {
 }
 
 @media (hover: hover) and (pointer: fine) {
+  #no-products {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
   select[multiple],
   /* #select-filter-title, */
   #clear-select-filter {

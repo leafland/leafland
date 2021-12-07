@@ -238,8 +238,11 @@ async function populatePage(
   }
 
   if (treeDataSubset.length === 0) {
-    let noProducts = document.createElement("h2");
+    let noProducts = document.createElement("p");
     noProducts.id = "no-products";
+    noProducts.classList.add("paragraph-title");
+
+    buttonDiv.style.setProperty("opacity", "0");
 
     treeWrapper.innerHTML = "";
     noProducts.textContent = "No trees found. Try a different filter query.";
@@ -249,6 +252,7 @@ async function populatePage(
     returnToTopButton.disabled = true;
   } else {
     returnToTopButton.disabled = false;
+    buttonDiv.style.setProperty("opacity", "1");
 
     for (let i = 0; i < treeDataSubset.length; i++) {
       if (!(treeDataSubset[i] === undefined || treeDataSubset[i] === null)) {
