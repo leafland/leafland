@@ -178,7 +178,11 @@ async function populateForm() {
 
     treesDisplay.appendChild(formTree);
 
-    if (region.value !== "Northland" && region.value !== "Manawatu") {
+    if (
+      region.value !== "Northland" &&
+      region.value !== "Manawatu" &&
+      region.value !== "Pickup"
+    ) {
       if (freightPriceValue === "P.O.A") {
         poaGrade = true;
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
@@ -241,7 +245,11 @@ async function populateForm() {
     }
   });
 
-  if (region.value !== "Northland" && region.value !== "Manawatu") {
+  if (
+    region.value !== "Northland" &&
+    region.value !== "Manawatu" &&
+    region.value !== "Pickup"
+  ) {
     if (poaGrade) {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
         freightTotal.innerHTML = `Freight total: <span class="accent-color">${minimumCharge}+GST (Minimum freight charge, excluding freight for P.O.A grades)</span>`;
