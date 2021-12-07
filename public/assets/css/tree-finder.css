@@ -13,7 +13,6 @@ main {
 
 input[type="checkbox"] {
   margin: 0;
-  margin-right: 0.5rem;
 }
 
 .tree-item {
@@ -92,6 +91,8 @@ input[type="checkbox"] {
 main h1 {
   grid-column-start: 1;
   grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
   margin: 0;
 }
 
@@ -233,6 +234,19 @@ details > div {
   #filter {
     display: grid;
   }
+
+  #filter .options-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  #filter .options-group > div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
   #filter-container,
   /* #checkbox-filter-title, */
   #clear-checkbox-filter {
@@ -241,8 +255,18 @@ details > div {
   #finder-content {
     display: grid;
     grid-template-columns: 300px 1fr;
+    grid-template-rows: auto auto 1fr;
     grid-column-gap: 2rem;
     grid-row-gap: 3rem;
+  }
+
+  #grid-content-left,
+  #grid-content-right {
+    grid-row-start: 3;
+  }
+
+  #tree-wrapper {
+    margin-top: 0;
   }
 
   #button-div button:hover:enabled {
