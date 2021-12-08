@@ -1332,9 +1332,27 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg";
       break;
 
+    case "liriodendron-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-general.svg";
+      break;
+    case "liriodendron-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-upright.svg";
+      break;
+
     case "lophozonia-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/lophozonia/lophozonia-general.svg";
+      break;
+
+    case "magnolia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-general.svg";
+      break;
+    case "magnolia-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-upright.svg";
       break;
 
     case "pittosporum-general":
