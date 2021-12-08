@@ -300,9 +300,9 @@ body.page-loaded #order-block {
 }
 
 #tree-attributes {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 40px);
-  grid-column-gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
 }
 
 #color-section {
