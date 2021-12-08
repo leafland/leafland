@@ -109,6 +109,8 @@ h6 {
     var(--brand-hue) calc(var(--brand-saturation) / 2)
       calc(var(--brand-lightness) / 1.5)
   );
+
+  --shadow-color: 128deg 10% 67%;
 }
 
 [data-theme="dark"] {
