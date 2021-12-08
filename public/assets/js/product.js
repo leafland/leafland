@@ -1308,6 +1308,30 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/griselinia/griselinia-general.svg";
       break;
 
+    case "hoheria-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/hoheria/hoheria-general.svg";
+      break;
+
+    case "lagerstroemia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg";
+      break;
+
+    case "leptospermum-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/leptospermum/leptospermum-general.svg";
+      break;
+
+    case "liquidambar-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-general.svg";
+      break;
+    case "liquidambar-topiary":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg";
+      break;
+
     case "lophozonia-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/lophozonia/lophozonia-general.svg";

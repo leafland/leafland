@@ -8365,7 +8365,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria populnea",
@@ -8383,7 +8384,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria populnea 'Alba Variegata'",
@@ -8401,7 +8403,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green, white",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria populnea 'Aurea'",
@@ -8419,7 +8422,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green, yellow",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria populnea 'Purple Wave'",
@@ -8437,7 +8441,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"purple, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria sexstylosa",
@@ -8455,7 +8460,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hoheria sexstylosa 'Purple Lace'",
@@ -8473,7 +8479,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"purple, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "hoheria-general"
   },
   {
      "botanicalName":"Hymenosporum flavum",
@@ -8821,7 +8828,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Crimson Red'",
@@ -8840,7 +8847,7 @@
      "autumnColor":"",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia \"De'Puard\"",
@@ -8859,7 +8866,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Kimono'",
@@ -8878,7 +8885,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Saint Emilion'",
@@ -8898,7 +8905,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers, small-gardens",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Sioux'",
@@ -8917,7 +8924,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia \"Soir D'ete\"",
@@ -8936,7 +8943,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Townhouse'",
@@ -8955,7 +8962,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Tuscarora'",
@@ -8974,7 +8981,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagerstroemia 'Yangtze'",
@@ -8993,7 +9000,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape": "lagerstroemia-general"
   },
   {
      "botanicalName":"Lagunaria patersonii",
@@ -9102,7 +9109,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"purple, red",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Leptospermum scoparium",
@@ -9120,7 +9128,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Leptospermum scoparium 'Electric Red'",
@@ -9138,7 +9147,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"purple, red, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Leptospermum scoparium 'Red Damask'",
@@ -9156,7 +9166,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"red, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Leptospermum scoparium 'Wiri Donna'",
@@ -9174,7 +9185,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green, red, purple",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Leptospermum scoparium 'Wiri Joan'",
@@ -9192,7 +9204,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green, red, purple",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "leptospermum-general"
   },
   {
      "botanicalName":"Libocedrus plumosa",
@@ -9228,7 +9241,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua",
@@ -9248,13 +9262,13 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"autumn-color, paddocks-shade",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Burgundy'",
      "commonName":"American Sweetgum",
      "url":"liquidambar-styraciflua-burgundy-american-sweetgum",
-     "description":"Selected clone with a very narrow, pyramidal form. Larger maple-shaped leaves which emerge earlier than other varieties. Rich, red-burgundy autumn leaves which persist well into winter. Colours well in all climates. Excellent street tree. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
+     "description":"Selected clone with a narrow, pyramidal form when young, broadening with age. Larger maple-shaped leaves which emerge earlier than other varieties. Rich, red-burgundy autumn leaves which persist well into winter. Colours well in all climates. Excellent street tree. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
      "uses":"street, narrow-spaces",
      "tolerates":"",
      "winterFoliage":"deciduous",
@@ -9267,7 +9281,7 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Festeri'",
@@ -9286,7 +9300,7 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Golden Treasure'",
@@ -9305,7 +9319,7 @@
      "autumnColor":"yellow, purple, red",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Gumball'",
@@ -9325,7 +9339,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"topiary",
-     "treeShape":"globe-topiary"
+     "treeShape": "liquidambar-topiary"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Lane Roberts'",
@@ -9344,7 +9358,7 @@
      "autumnColor":"purple, red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Lees Red'",
@@ -9363,7 +9377,7 @@
      "autumnColor":"purple, red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Little Richard'",
@@ -9382,7 +9396,7 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Rotundiloba'",
@@ -9401,7 +9415,7 @@
      "autumnColor":"purple, red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Worplesdon'",
@@ -9421,7 +9435,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"driveways-avenues",
-     "treeShape":"upright-spreader"
+     "treeShape": "liquidambar-general"
   },
   {
      "botanicalName":"Liriodendron chinense",
