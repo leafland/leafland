@@ -25,7 +25,6 @@ main h2 {
 
 #tree-info-left {
   grid-template-rows: 1fr auto;
-  gap: 3rem;
   display: grid;
   justify-self: start;
 }
@@ -311,6 +310,8 @@ body.page-loaded #order-block {
   margin-top: 2rem;
   gap: 2rem;
   flex-wrap: wrap;
+  grid-column-start: 1;
+  grid-column-end: 3;
 }
 
 .color-div {
@@ -323,7 +324,6 @@ body.page-loaded #order-block {
 .color-div p {
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 1rem;
   margin: 0;
 }
 
@@ -369,6 +369,10 @@ body.page-loaded #order-block {
 }
 .brown {
   background: #443730;
+}
+
+.tree-icons {
+  grid-row-start: 2;
 }
 
 #tree-attributes .tree-icon {
@@ -485,8 +489,7 @@ body.lightbox-open #image-lightbox {
   display: grid;
   grid-template-rows: auto 1fr;
   justify-items: center;
-  grid-row-gap: 75px;
-  grid-column-gap: 2rem;
+  grid-gap: 3rem;
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 1rem;
@@ -501,6 +504,8 @@ body.lightbox-open #image-lightbox {
   justify-items: center;
   max-width: 200px;
   justify-self: center;
+  grid-row-start: 2;
+  grid-column-start: 2;
 }
 
 #tree-shape p {
