@@ -1355,6 +1355,19 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-upright.svg";
       break;
 
+    case "malus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-general.svg";
+      break;
+    case "malus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-upright.svg";
+      break;
+    case "malus-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-weeping.svg";
+      break;
+
     case "pittosporum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";

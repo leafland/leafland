@@ -11319,7 +11319,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus baccata 'Jackii'",
@@ -11338,7 +11338,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Ballerina Maypole'",
@@ -11356,7 +11356,8 @@
      "flowerColor":"red, pink",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus 'Barbara Ann'",
@@ -11375,7 +11376,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Coronet Peak'",
@@ -11394,7 +11395,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Echtermeyer'",
@@ -11413,7 +11414,7 @@
      "autumnColor":"",
      "foliageColor":"purple, red",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"malus-weeping"
   },
   {
      "botanicalName":"Malus 'Ellerslie'",
@@ -11432,7 +11433,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"malus-weeping"
   },
   {
      "botanicalName":"Malus 'Flamingo'",
@@ -11450,7 +11451,8 @@
      "flowerColor":"red, pink",
      "autumnColor":"",
      "foliageColor":"purple, red",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus floribunda",
@@ -11469,7 +11471,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Gorgeous'",
@@ -11488,7 +11490,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus ioensis 'Plena'",
@@ -11508,7 +11510,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers, pleaching",
-     "treeShape":"vase-shape"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Jack Humm'",
@@ -11527,7 +11529,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Jelly King'",
@@ -11545,7 +11547,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Kaitoke'",
@@ -11564,7 +11567,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Lambada'",
@@ -11583,7 +11586,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"malus-weeping"
   },
   {
      "botanicalName":"Malus 'Mt Aurum'",
@@ -11601,7 +11604,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Mt Earnslaw'",
@@ -11619,7 +11623,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Profusion'",
@@ -11638,7 +11643,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Red Jade'",
@@ -11657,7 +11662,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"malus-weeping"
   },
   {
      "botanicalName":"Malus 'Red Top'",
@@ -11675,7 +11680,8 @@
      "flowerColor":"pink",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus sieboldii 'Snowbright'",
@@ -11694,7 +11700,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Malus 'Strathmore'",
@@ -11712,7 +11718,8 @@
      "flowerColor":"pink",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus trilobata",
@@ -11730,7 +11737,8 @@
      "flowerColor":"white",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus tschonoskii",
@@ -11748,7 +11756,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus 'Van Eseltine'",
@@ -11767,7 +11776,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-spaces"
+     "topTrees":"narrow-spaces",
+     "treeShape":"malus-upright"
   },
   {
      "botanicalName":"Malus 'Wrights Scarlet'",
@@ -11786,7 +11796,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"malus-general"
   },
   {
      "botanicalName":"Melia azedarach",
