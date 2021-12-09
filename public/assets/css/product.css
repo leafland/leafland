@@ -263,7 +263,7 @@ body.page-loaded #order-block {
 .images {
   margin-top: 1rem;
   display: grid;
-  gap: 20px 10px;
+  gap: 1rem;
   grid-template-columns: repeat(auto-fill, 50px);
   grid-template-rows: repeat(auto-fit, 50px);
 }
