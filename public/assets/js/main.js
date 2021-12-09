@@ -61,6 +61,14 @@ document
   .addEventListener("submit", (event) => {
     event.preventDefault();
 
+    document.querySelector("#subscribe").textContent = "Subscribing...";
+    document
+      .querySelector("#subscribe")
+      .style.setProperty("background", "var(--primary-text)");
+    document
+      .querySelector("#subscribe")
+      .style.setProperty("color", "var(--secondary-background)");
+
     const { subscriberFirstName, subscriberLastName, subscriberEmail } =
       event.target;
 
