@@ -161,7 +161,7 @@ select[multiple] {
   cursor: default;
 }
 
-label {
+main label {
   display: inline-block;
   text-transform: none;
 }
@@ -283,8 +283,8 @@ details > summary {
     background: var(--secondary-background);
   }
 
-  input:hover,
-  label:hover {
+  main input:hover,
+  main label:hover {
     cursor: pointer;
   }
 
