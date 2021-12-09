@@ -38,7 +38,11 @@ async function populateForm() {
   let totalFreight = 0;
   let freightRegion = [];
   let minimumCharge = "";
-  if (region.value !== "Northland" && region.value !== "Manawatu") {
+  if (
+    region.value !== "Northland" &&
+    region.value !== "Manawatu" &&
+    region.value.toLowerCase() !== "pickup"
+  ) {
     freightData.forEach((datum) => {
       if (datum[0] === region.value) {
         freightRegion.push({ grade: datum[1], price: datum[2] });
@@ -77,12 +81,17 @@ async function populateForm() {
     }
 
     let freightPriceValue = "";
-    if (region.value !== "Northland" && region.value !== "Manawatu") {
-      freightRegion.forEach((freight) => {
-        if (freight.grade.search(tree.grade) !== -1) {
-          freightPriceValue = freight.price;
+    if (
+      region.value !== "Northland" &&
+      region.value !== "Manawatu" &&
+      region.value.toLowerCase() !== "pickup"
+    ) {
+      for (i = 0; i < freightRegion.length; i++) {
+        if (freightRegion[i].grade.search(tree.grade) !== -1) {
+          freightPriceValue = freightRegion[i].price;
+          break;
         }
-      });
+      }
     }
 
     let formTree = document.createElement("div");
