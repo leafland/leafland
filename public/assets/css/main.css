@@ -517,7 +517,7 @@ footer p {
 #footer-grid {
   display: grid;
   grid-template-rows: repeat(2, auto);
-  grid-gap: 3rem;
+  grid-gap: 5rem;
 }
 
 #email-signup {
