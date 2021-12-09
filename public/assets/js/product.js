@@ -1475,6 +1475,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/plum/plum-general.svg";
       break;
 
+    case "podocarpus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/podocarpus/podocarpus-general.svg";
+      break;
+
     default:
       break;
   }

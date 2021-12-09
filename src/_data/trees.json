@@ -14771,7 +14771,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus gracilior",
@@ -14790,7 +14791,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-screening"
+     "topTrees":"hedging-screening",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus henkelii",
@@ -14808,7 +14810,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus macrophyllus",
@@ -14827,7 +14830,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus macrophyllus var. maki",
@@ -14845,7 +14849,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus parlatorei",
@@ -14863,7 +14868,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus totara",
@@ -14881,7 +14887,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus totara 'Aurea'",
@@ -14899,7 +14906,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"yellow",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Podocarpus totara 'Matapouri Blue'",
@@ -14917,7 +14925,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"blue",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "podocarpus-general"
   },
   {
      "botanicalName":"Poliothyrsis sinensis",
