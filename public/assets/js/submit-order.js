@@ -361,13 +361,10 @@ submitForm.addEventListener("submit", (event) => {
   let treeTotal = document.querySelector("#tree-total");
   let orderTotal = document.querySelector("#order-total");
 
-  let submitText = document.createElement("p");
-  submitText.textContent = "Submitting order...";
-  submitText.style.setProperty("margin-top", "2rem");
-  submitText.style.setProperty("font-size", "1.75rem");
-  submitText.style.setProperty("font-weight", "bold");
-  submitText.style.setProperty("text-transform", "uppercase");
-  gridContentRight.appendChild(submitText);
+  send.textContent = "Submitting...";
+  send.style.setProperty("background", "var(--primary-text");
+  send.style.setProperty("color", "var(--secondary-background");
+  send.style.setProperty("cursor", "default");
 
   const {
     name,
