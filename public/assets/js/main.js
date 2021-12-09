@@ -69,6 +69,8 @@ document
       .querySelector("#subscribe")
       .style.setProperty("color", "var(--secondary-background)");
 
+    document.querySelector("#subscribe").style.setProperty("cursor", "default");
+
     const { subscriberFirstName, subscriberLastName, subscriberEmail } =
       event.target;
 
