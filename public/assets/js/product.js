@@ -1428,6 +1428,16 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/olive/olive-general.svg";
       break;
 
+    case "peach-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/peach/peach-general.svg";
+      break;
+
+    case "pear-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pear/pear-general.svg";
+      break;
+
     case "pittosporum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";

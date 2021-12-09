@@ -13273,7 +13273,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Peach 'Black Boy'",
@@ -13292,7 +13292,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Peach 'Golden Queen'",
@@ -13311,7 +13311,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Peach 'Hiawatha'",
@@ -13330,7 +13330,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Peach \"Scarlet O'Hara\"",
@@ -13349,7 +13349,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Peacherine \"Healy's\"",
@@ -13368,7 +13368,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"vase-shape"
+     "treeShape":"peach-general"
   },
   {
      "botanicalName":"Pear 'Conference'",
@@ -13387,7 +13387,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Doyenne du Comice'",
@@ -13406,7 +13406,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Doyenne du Comice/Conference'",
@@ -13425,7 +13425,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Red Bartlett'",
@@ -13444,7 +13444,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Reddy Robin'",
@@ -13463,7 +13463,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Seckel'",
@@ -13482,7 +13482,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear \"Taylor's Gold\"",
@@ -13501,7 +13501,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear \"Williams' Bon Chretien\"",
@@ -13520,7 +13520,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear \"Williams' Bon Chretien/Conference\"",
@@ -13539,7 +13539,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Pear 'Winter Cole'",
@@ -13558,7 +13558,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"pear-general"
   },
   {
      "botanicalName":"Persimmon 'Fuyu'",
