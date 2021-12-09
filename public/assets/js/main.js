@@ -81,5 +81,13 @@ document
         .then((response) => response.json())
         .then((data) => data)
         .catch((error) => {});
+
+      document
+        .querySelector("#email-signup")
+        .style.setProperty("grid-template-columns", "1fr");
+
+      document.querySelector(
+        "#email-signup"
+      ).innerHTML = `<p class="paragraph-title">Thanks for subscribing!</p>`;
     })();
   });
