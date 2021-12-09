@@ -55,3 +55,31 @@ window.addEventListener("storage", () => {
     document.body.classList.remove("loggedIn");
   }
 });
+
+document
+  .querySelector("#subscribe-form")
+  .addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const { subscriberFirstName, subscriberLastName, subscriberEmail } =
+      event.target;
+
+    const endpoint = "https://api.leafland.co.nz/default/add-new-subscriber";
+
+    const body = JSON.stringify({
+      subscriberFirstName: subscriberFirstName.value,
+      subscriberLastName: subscriberLastName.value,
+      subscriberEmail: subscriberEmail.value,
+    });
+    const requestOptions = {
+      method: "POST",
+      body,
+    };
+
+    (async function () {
+      await fetch(endpoint, requestOptions)
+        .then((response) => response.json())
+        .then((data) => data)
+        .catch((error) => {});
+    })();
+  });

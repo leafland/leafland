@@ -503,15 +503,59 @@ aside button {
 /* FOOTER */
 footer {
   margin-top: 10rem;
-  padding: 1rem;
+  padding: 2rem;
 }
 footer p {
   font-weight: bold;
   text-transform: uppercase;
+}
+
+#footer-links p {
   text-align: center;
 }
 
 #footer-grid {
+  display: grid;
+  grid-template-rows: repeat(2, auto);
+  grid-gap: 3rem;
+}
+
+#email-signup {
+  width: 100%;
+  display: grid;
+  grid-gap: 3rem 5rem;
+  background: var(--secondary-background);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+#email-signup p {
+  align-self: center;
+  justify-self: center;
+}
+
+#subscribe-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-self: center;
+}
+
+#subscribe-form label {
+  margin-bottom: 0.5rem;
+}
+
+#subscribe-form input {
+  border: 2px solid var(--primary-text);
+}
+
+#subscribe-form button[type="submit"] {
+  border: 2px solid var(--primary-text);
+  border-radius: 8px;
+  align-self: end;
+}
+
+#footer-links {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
@@ -555,6 +599,11 @@ body.menu-open #main-menu-overlay {
   a:hover {
     color: var(--primary-text);
   }
+
+  #subscribe-form button[type="submit"]:hover {
+    color: var(--secondary-background);
+    background: var(--primary-text);
+  }
 }
 
 @media (min-width: 650px) {
@@ -565,9 +614,6 @@ body.menu-open #main-menu-overlay {
 }
 
 @media (min-width: 800px) {
-  #footer-grid {
-    grid-template-columns: repeat(3, auto);
-  }
   p {
     font-size: 1.3rem;
   }
@@ -585,6 +631,12 @@ body.menu-open #main-menu-overlay {
   }
 }
 
+@media (min-width: 1000px) {
+  #footer-links {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
 @media (min-width: 1200px) {
   p {
     font-size: 1.5rem;
@@ -598,5 +650,14 @@ body.menu-open #main-menu-overlay {
 
   h3 {
     font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 1350px) {
+  #email-signup {
+    grid-template-columns: auto 1fr;
+  }
+  #subscribe-form {
+    justify-self: end;
   }
 }
