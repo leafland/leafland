@@ -14334,7 +14334,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus x acerifolia 'Pyramidalis'",
@@ -14352,7 +14352,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"platanus-upright"
   },
   {
      "botanicalName":"Platanus x acerifolia 'Suttneri'",
@@ -14371,7 +14372,7 @@
      "autumnColor":"",
      "foliageColor":"white, green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis",
@@ -14391,7 +14392,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"paddocks-shade",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis 'Ace of Clubs'",
@@ -14410,7 +14411,7 @@
      "autumnColor":"orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis 'Alford Flame'",
@@ -14429,7 +14430,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis 'Autumn Glory'",
@@ -14448,7 +14449,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis 'Digitata'",
@@ -14467,7 +14468,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Platanus orientalis 'Fitzherbert'",
@@ -14486,7 +14487,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"platanus-general"
   },
   {
      "botanicalName":"Plum 'Billington'",

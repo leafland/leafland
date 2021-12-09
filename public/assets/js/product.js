@@ -1461,6 +1461,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg";
       break;
 
+    case "platanus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-general.svg";
+      break;
+    case "platanus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-upright.svg";
+      break;
+
     default:
       break;
   }
