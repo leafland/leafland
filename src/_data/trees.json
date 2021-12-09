@@ -14505,7 +14505,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Black Doris'",
@@ -14523,7 +14524,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, autumn"
+     "fruitingSeason":"summer, autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Burbank'",
@@ -14541,7 +14543,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Fortune'",
@@ -14559,7 +14562,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Hawera'",
@@ -14577,7 +14581,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, autumn"
+     "fruitingSeason":"summer, autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Lusia'",
@@ -14595,7 +14600,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Omega'",
@@ -14613,7 +14619,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"autumn"
+     "fruitingSeason":"autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Purple King'",
@@ -14631,7 +14638,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Reine Claude de Bavay'",
@@ -14649,7 +14657,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"autumn"
+     "fruitingSeason":"autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Ruby Queen'",
@@ -14667,7 +14676,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, autumn"
+     "fruitingSeason":"summer, autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Santa Rosa'",
@@ -14685,7 +14695,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, autumn"
+     "fruitingSeason":"summer, autumn",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Satsuma'",
@@ -14703,7 +14714,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Shiro'",
@@ -14721,7 +14733,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Plum 'Sultan'",
@@ -14739,7 +14752,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer"
+     "fruitingSeason":"summer",
+     "treeShape": "plum-general"
   },
   {
      "botanicalName":"Podocarpus cunninghamii",
