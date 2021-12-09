@@ -14999,7 +14999,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Amanogawa'",
@@ -15018,7 +15018,8 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-spaces"
+     "topTrees":"narrow-spaces",
+     "treeShape":"prunus-pillar"
   },
   {
      "botanicalName":"Prunus x blireiana",
@@ -15037,7 +15038,7 @@
      "autumnColor":"purple",
      "foliageColor":"purple, red",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus campanulata 'Felix Jury'",
@@ -15055,7 +15056,8 @@
      "flowerColor":"red, pink",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus campanulata 'Okame'",
@@ -15074,7 +15076,7 @@
      "autumnColor":"orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus campanulata 'Pink Cloud'",
@@ -15093,7 +15095,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus campanulata 'Superba'",
@@ -15111,7 +15113,8 @@
      "flowerColor":"red, pink",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus cerasifera 'Thundercloud'",
@@ -15130,7 +15133,7 @@
      "autumnColor":"purple",
      "foliageColor":"purple, red",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus cerasus 'Rhexii'",
@@ -15149,7 +15152,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus x hillieri 'Spire'",
@@ -15167,7 +15170,8 @@
      "flowerColor":"pink, white",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"prunus-pillar"
   },
   {
      "botanicalName":"Prunus 'Ichiyo'",
@@ -15186,7 +15190,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus \"Jim's Delight\"",
@@ -15205,7 +15209,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Kanzan'",
@@ -15224,7 +15228,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Kiku-shidare-zakura'",
@@ -15243,7 +15247,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"prunus-weeping"
   },
   {
      "botanicalName":"Prunus laurocerasus",
@@ -15262,7 +15266,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching"
+     "topTrees":"pleaching",
+     "treeShape":"prunus-bushy"
   },
   {
      "botanicalName":"Prunus lusitanica",
@@ -15281,7 +15286,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape":"prunus-bushy"
   },
   {
      "botanicalName":"Prunus mume 'The Geisha'",
@@ -15300,7 +15306,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Pink Perfection'",
@@ -15319,7 +15325,7 @@
      "autumnColor":"orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus serrula",
@@ -15338,7 +15344,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Shimidsu-sakura'",
@@ -15358,7 +15364,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Shirotae'",
@@ -15376,7 +15382,7 @@
      "flowerColor":"white",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus subhirtella 'Autumnalis Rosea'",
@@ -15395,7 +15401,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus subhirtella 'Falling Snow'",
@@ -15414,7 +15420,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus subhirtella 'Peggy Wilson'",
@@ -15433,7 +15439,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus subhirtella 'Pendula Rosea'",
@@ -15452,7 +15458,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"prunus-weeping"
   },
   {
      "botanicalName":"Prunus subhirtella 'Southern Gem'",
@@ -15471,7 +15477,7 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Tai-haku'",
@@ -15490,7 +15496,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus 'Ukon'",
@@ -15509,7 +15515,7 @@
      "autumnColor":"purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus yedoensis",
@@ -15528,7 +15534,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus yedoensis 'Awanui'",
@@ -15547,7 +15553,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus yedoensis 'Awanui'",
@@ -15567,7 +15573,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"driveways-avenues",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus yedoensis 'Mountain Haze'",
@@ -15586,7 +15592,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Prunus yedoensis 'Perpendens'",
@@ -15605,7 +15611,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"prunus-weeping"
   },
   {
      "botanicalName":"Prunus yedoensis 'Te Mara'",
@@ -15624,7 +15630,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"prunus-general"
   },
   {
      "botanicalName":"Pseudopanax arboreus",

@@ -1480,6 +1480,23 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/podocarpus/podocarpus-general.svg";
       break;
 
+    case "prunus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-general.svg";
+      break;
+    case "prunus-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-weeping.svg";
+      break;
+    case "prunus-bushy":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-bushy.svg";
+      break;
+    case "prunus-pillar":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-pillar.svg";
+      break;
+
     default:
       break;
   }
