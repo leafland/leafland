@@ -1443,6 +1443,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/photinia/photinia-general.svg";
       break;
 
+    case "picea-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-general.svg";
+      break;
+    case "picea-tall":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-tall.svg";
+      break;
+
     case "pittosporum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";

@@ -13707,7 +13707,7 @@
      "autumnColor":"",
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
-     "treeShape":"conifer-upright"
+     "treeShape":"picea-tall"
   },
   {
      "botanicalName":"Picea pungens",
@@ -13726,7 +13726,7 @@
      "autumnColor":"",
      "foliageColor":"blue, green",
      "fruitingSeason":"",
-     "treeShape":"conifer-bushy"
+     "treeShape":"picea-general"
   },
   {
      "botanicalName":"Picea pungens 'Baby Blue'",
@@ -13746,7 +13746,7 @@
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
      "topTrees":"narrow-spaces",
-     "treeShape":"conifer-bushy"
+     "treeShape":"picea-general"
   },
   {
      "botanicalName":"Picea pungens 'Glauca'",
@@ -13765,7 +13765,7 @@
      "autumnColor":"",
      "foliageColor":"blue, green",
      "fruitingSeason":"",
-     "treeShape":"conifer-bushy"
+     "treeShape":"picea-general"
   },
   {
      "botanicalName":"Picea sitchensis",
@@ -13784,7 +13784,7 @@
      "autumnColor":"",
      "foliageColor":"blue, green",
      "fruitingSeason":"",
-     "treeShape":"conifer-upright"
+     "treeShape":"picea-tall"
   },
   {
      "botanicalName":"Picea smithiana",
@@ -13803,7 +13803,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"conifer-bushy"
+     "treeShape":"picea-general"
   },
   {
      "botanicalName":"Pinus pinea",
