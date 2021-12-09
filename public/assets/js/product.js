@@ -118,24 +118,50 @@ async function getProductStockData() {
     .catch((error) => {});
 
   for (let i = 0; i < productStockData.length; i++) {
-    if (
-      treeBotanicalName.textContent
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/ var. /g, " ")
-        .replace(/ x /g, " ")
-        .toLowerCase()
-        .trim() !==
-      productStockData[i][0]
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/ var. /g, " ")
-        .replace(/ x /g, " ")
-        .toLowerCase()
-        .trim()
-    ) {
-      productStockData.splice(i, 1);
-      i--;
+    if (treeCommonName.textContent.toLowerCase() === "serrula interstem") {
+      if (
+        `${treeBotanicalName.textContent} serrula interstem`
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/ var. /g, " ")
+          .replace(/ x /g, " ")
+          .replace(/\(/g, "")
+          .replace(/\)/g, "")
+          .toLowerCase()
+          .trim() !==
+        productStockData[i][0]
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/ var. /g, " ")
+          .replace(/ x /g, " ")
+          .replace(/\(/g, "")
+          .replace(/\)/g, "")
+          .toLowerCase()
+          .trim()
+      ) {
+        productStockData.splice(i, 1);
+        i--;
+      }
+    } else {
+      if (
+        treeBotanicalName.textContent
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/ var. /g, " ")
+          .replace(/ x /g, " ")
+          .toLowerCase()
+          .trim() !==
+        productStockData[i][0]
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/ var. /g, " ")
+          .replace(/ x /g, " ")
+          .toLowerCase()
+          .trim()
+      ) {
+        productStockData.splice(i, 1);
+        i--;
+      }
     }
   }
 }
