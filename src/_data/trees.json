@@ -11961,7 +11961,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers",
-     "treeShape":"large-round-head"
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros excelsa 'Aurea'",
@@ -11979,7 +11979,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros excelsa 'Lighthouse'",
@@ -11997,7 +11998,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros excelsa 'Maori Princess'",
@@ -12016,7 +12018,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-avenues"
+     "topTrees":"driveways-avenues",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros excelsa 'Scarlet Pimpernel'",
@@ -12034,7 +12037,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros excelsa 'Vibrance'",
@@ -12052,7 +12056,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros kermadecensis 'Variegata'",
@@ -12070,7 +12075,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"yellow, white, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros 'Maungapiko'",
@@ -12088,7 +12094,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros 'Mistral'",
@@ -12106,7 +12113,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros robusta",
@@ -12124,7 +12132,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros robusta 'Kawa Copper'",
@@ -12142,7 +12151,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Metrosideros umbellata",
@@ -12161,7 +12171,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"metrosideros-general"
   },
   {
      "botanicalName":"Michelia 'Allure'",
@@ -12180,7 +12190,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Bubbles'",
@@ -12199,7 +12209,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia doltsopa",
@@ -12218,7 +12228,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia doltsopa 'Silver Cloud'",
@@ -12237,7 +12247,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Fairy Blush'",
@@ -12256,7 +12266,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Fairy Cream'",
@@ -12276,7 +12286,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"pleaching",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Fairy White'",
@@ -12296,7 +12306,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"hedging-screening",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia figo",
@@ -12316,7 +12326,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia gracipes",
@@ -12336,7 +12346,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"topiary",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Inspiration'",
@@ -12355,7 +12365,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Lemon Fragrant'",
@@ -12374,7 +12384,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Melody'",
@@ -12393,7 +12403,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Mixed Up Miss'",
@@ -12412,7 +12422,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Paton Pink'",
@@ -12431,7 +12441,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Princess Cinderella'",
@@ -12450,7 +12460,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Star Bright'",
@@ -12469,7 +12479,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia 'Touch of Pink'",
@@ -12488,7 +12498,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia yunnanensis",
@@ -12507,7 +12517,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia yunnanensis 'Princess Isabella'",
@@ -12526,7 +12536,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Michelia yunnanensis 'Velvet and Cream'",
@@ -12545,7 +12555,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"michelia-general"
   },
   {
      "botanicalName":"Morus alba 'Pendula'",
