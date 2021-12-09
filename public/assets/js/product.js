@@ -1404,6 +1404,30 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/michelia/michelia-general.svg";
       break;
 
+    case "nectarine-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/nectarine/nectarine-general.svg";
+      break;
+
+    case "nyssa-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-general.svg";
+      break;
+    case "nyssa-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-weeping.svg";
+      break;
+
+    case "olearia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/olearia/olearia-general.svg";
+      break;
+
+    case "olive-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/olive/olive-general.svg";
+      break;
+
     case "pittosporum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";

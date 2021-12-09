@@ -12705,7 +12705,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"nectarine-general"
   },
   {
      "botanicalName":"Nectarine 'Goldmine'",
@@ -12724,7 +12724,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"nectarine-general"
   },
   {
      "botanicalName":"Nectarine 'Mabel'",
@@ -12743,7 +12743,7 @@
      "autumnColor":"",
      "foliageColor":"purple",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"nectarine-general"
   },
   {
      "botanicalName":"Nectarine 'Queen Giant'",
@@ -12762,7 +12762,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"nectarine-general"
   },
   {
      "botanicalName":"Nectarine 'Snow Queen'",
@@ -12781,7 +12781,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"vase-shape"
+     "treeShape":"nectarine-general"
   },
   {
      "botanicalName":"Nestegis cunninghamii",
@@ -12835,7 +12835,8 @@
      "flowerColor":"",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "nyssa-general"
   },
   {
      "botanicalName":"Nyssa sylvatica",
@@ -12854,7 +12855,8 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color"
+     "topTrees":"autumn-color",
+     "treeShape": "nyssa-general"
   },
   {
      "botanicalName":"Nyssa sylvatica 'Autumn Cascade'",
@@ -12872,7 +12874,8 @@
      "flowerColor":"",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "nyssa-weeping"
   },
   {
      "botanicalName":"Nyssa sylvatica 'Sheffield Park'",
@@ -12890,7 +12893,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, purple, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "nyssa-general"
   },
   {
      "botanicalName":"Nyssa sylvatica var. biflora",
@@ -12908,7 +12912,8 @@
      "flowerColor":"",
      "autumnColor":"purple, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "nyssa-general"
   },
   {
      "botanicalName":"Olearia albida",
@@ -12926,7 +12931,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "olearia-general"
   },
   {
      "botanicalName":"Olearia paniculata",
@@ -12944,7 +12950,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "olearia-general"
   },
   {
      "botanicalName":"Olearia paniculata 'Kaikoura'",
@@ -12962,7 +12969,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "olearia-general"
   },
   {
      "botanicalName":"Olearia traversiorum",
@@ -12980,7 +12988,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "olearia-general"
   },
   {
      "botanicalName":"Olive 'Ascolano'",
@@ -12999,7 +13008,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Barnea'",
@@ -13018,7 +13027,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'El Greco'",
@@ -13038,7 +13047,7 @@
      "foliageColor":"green",
      "fruitingSeason":"autumn",
      "topTrees":"hedging-screening, pleaching",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Frantoio'",
@@ -13057,7 +13066,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'J5'",
@@ -13076,7 +13085,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Koroneiki'",
@@ -13095,7 +13104,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Leccino'",
@@ -13114,7 +13123,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Manzanillo'",
@@ -13133,7 +13142,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Mission'",
@@ -13152,7 +13161,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Picual'",
@@ -13171,7 +13180,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Olive 'Verdale'",
@@ -13190,7 +13199,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"large-round-head"
+     "treeShape":"olive-general"
   },
   {
      "botanicalName":"Parrotia persica",
