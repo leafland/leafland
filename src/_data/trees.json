@@ -13630,7 +13630,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"red, purple, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"photinia-general"
   },
   {
      "botanicalName":"Photinia 'Red Robin'",
@@ -13649,7 +13650,8 @@
      "autumnColor":"",
      "foliageColor":"red, green",
      "fruitingSeason":"",
-     "topTrees":"pleaching"
+     "topTrees":"pleaching",
+     "treeShape":"photinia-general"
   },
   {
      "botanicalName":"Photinia 'Superhedge'",
@@ -13667,7 +13669,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"red, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"photinia-general"
   },
   {
      "botanicalName":"Phyllocladus trichomanoides",
