@@ -247,7 +247,7 @@ input[type="number"],
 input[type="text"],
 input[type="tel"],
 input[type="email"] {
-  padding: 4px 8px;
+  padding: 0.4rem;
 }
 
 input[type="checkbox"] {
@@ -405,10 +405,10 @@ input:focus {
 }
 
 select {
-  border-radius: 4px;
+  border-radius: 8px;
   font-weight: bold;
   font-size: 1rem;
-  padding: 4px;
+  padding: 0.3rem;
 }
 
 select:focus {
