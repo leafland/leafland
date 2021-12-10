@@ -1497,6 +1497,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-pillar.svg";
       break;
 
+    case "pseudopanax-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg";
+      break;
+    case "pseudopanax-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-upright.svg";
+      break;
+
     default:
       break;
   }
