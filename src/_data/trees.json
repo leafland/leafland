@@ -16087,7 +16087,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus bicolor",
@@ -16105,7 +16106,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus canariensis",
@@ -16123,7 +16125,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus canariensis x robur",
@@ -16141,7 +16144,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus cerris",
@@ -16159,7 +16163,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus coccinea",
@@ -16177,7 +16182,8 @@
      "flowerColor":"",
      "autumnColor":"red",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus ellipsoidalis",
@@ -16195,7 +16201,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus ilex",
@@ -16214,7 +16221,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching, topiary"
+     "topTrees":"pleaching, topiary",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus laurina",
@@ -16232,7 +16240,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus mexicana",
@@ -16250,7 +16259,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus palustris",
@@ -16269,7 +16279,8 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, driveways-avenues"
+     "topTrees":"autumn-color, driveways-avenues",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus petraea x robur",
@@ -16287,7 +16298,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus robur",
@@ -16306,7 +16318,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks-shade"
+     "topTrees":"paddocks-shade",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus robur 'Fastigiata'",
@@ -16324,7 +16337,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-upright"
   },
   {
      "botanicalName":"Quercus rubra",
@@ -16342,7 +16356,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quercus suber",
@@ -16360,7 +16375,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "quercus-general"
   },
   {
      "botanicalName":"Quince 'Pineapple'",

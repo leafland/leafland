@@ -1519,6 +1519,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-upright.svg";
       break;
 
+    case "quercus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-general.svg";
+      break;
+    case "quercus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-upright.svg";
+      break;
+
     default:
       break;
   }
