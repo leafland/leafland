@@ -15971,7 +15971,8 @@
      "flowerColor":"white",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"pyrus-weeping"
   },
   {
      "botanicalName":"Pyrus calleryana 'Aristocrat'",
@@ -15991,7 +15992,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"autumn-color, pleaching",
-     "treeShape":"upright-spreader"
+     "treeShape":"pyrus-general"
   },
   {
      "botanicalName":"Pyrus calleryana 'Bradford'",
@@ -16010,7 +16011,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"pyrus-general"
   },
   {
      "botanicalName":"Pyrus calleryana 'Candelabra'",
@@ -16030,7 +16031,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"driveways-avenues, narrow-spaces",
-     "treeShape":"upright-bushy"
+     "treeShape":"pyrus-upright"
   },
   {
      "botanicalName":"Pyrus calleryana 'Kea'",
@@ -16049,7 +16050,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"pyrus-general"
   },
   {
      "botanicalName":"Pyrus salicifolia 'Pendula'",
@@ -16067,7 +16068,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"white, green, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"pyrus-weeping"
   },
   {
      "botanicalName":"Quercus afares",

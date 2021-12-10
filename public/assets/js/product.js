@@ -1506,6 +1506,19 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-upright.svg";
       break;
 
+    case "pyrus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-general.svg";
+      break;
+    case "pyrus-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-weeping.svg";
+      break;
+    case "pyrus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-upright.svg";
+      break;
+
     default:
       break;
   }
