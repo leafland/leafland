@@ -49,6 +49,8 @@ async function displayData(dataSet, wholesaleStart, wholesaleEnd) {
   if (dataSet.length < 1) {
     stockDataDiv.innerHTML = `<h2 class="message">No results found</h2>`;
     resultTotals.innerHTML = `Showing 0 to 0 of 0 results`;
+    nextButton.disabled = true;
+    prevButton.disabled = true;
   } else {
     stockDataDiv.innerHTML = "";
 
@@ -101,9 +103,9 @@ async function displayData(dataSet, wholesaleStart, wholesaleEnd) {
   }
 
   if (wholesaleStart === 0) {
-    prevButton.style.setProperty("visibility", "hidden");
+    prevButton.disabled = true;
   } else {
-    prevButton.style.setProperty("visibility", "visible");
+    prevButton.disabled = false;
   }
 
   if (dataSet.length !== 0) {

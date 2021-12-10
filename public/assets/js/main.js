@@ -1,4 +1,4 @@
-// let stockLinks = document.querySelectorAll(".stock-link");
+let stockLinks = document.querySelectorAll(".stock-link");
 let loggedIn = false;
 
 if (localStorage.getItem("trees") === null) {
@@ -18,17 +18,17 @@ window.addEventListener("loginUpdated", () => {
   }
 
   if (loggedIn) {
-    // for (let i = 0; i < stockLinks.length; i++) {
-    //   stockLinks[
-    //     i
-    //   ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
-    // }
+    for (let i = 0; i < stockLinks.length; i++) {
+      stockLinks[
+        i
+      ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+    }
     document.body.classList.add("loggedIn");
   } else {
-    // for (let i = 0; i < stockLinks.length; i++) {
-    //   stockLinks[i].innerHTML =
-    //     '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
-    // }
+    for (let i = 0; i < stockLinks.length; i++) {
+      stockLinks[i].innerHTML =
+        '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
+    }
     document.body.classList.remove("loggedIn");
   }
 });
@@ -41,17 +41,17 @@ window.addEventListener("storage", () => {
   }
 
   if (loggedIn) {
-    // for (let i = 0; i < stockLinks.length; i++) {
-    //   stockLinks[
-    //     i
-    //   ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
-    // }
+    for (let i = 0; i < stockLinks.length; i++) {
+      stockLinks[
+        i
+      ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+    }
     document.body.classList.add("loggedIn");
   } else {
-    // for (let i = 0; i < stockLinks.length; i++) {
-    //   stockLinks[i].innerHTML =
-    //     '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
-    // }
+    for (let i = 0; i < stockLinks.length; i++) {
+      stockLinks[i].innerHTML =
+        '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
+    }
     document.body.classList.remove("loggedIn");
   }
 });

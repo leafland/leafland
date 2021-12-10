@@ -6,6 +6,8 @@ main {
   overflow: auto;
   min-height: 30rem;
   width: 100%;
+  border: 2px solid var(--primary-text);
+  border-radius: 8px;
 }
 
 #stock-data table {
@@ -20,7 +22,7 @@ main {
   background: var(--surface1-light);
   text-align: center;
   padding: 5px;
-  /* border-bottom: 2px solid var(--border-color); */
+  border-bottom: 2px solid var(--primary-text);
   text-overflow: ellipsis;
   white-space: nowrap;
 }
