@@ -23,26 +23,28 @@ let heading = [
   "COMING ON",
 ];
 
-(async function () {
-  stockData = await fetch(
-    "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
-  )
-    .then((response) => response.json())
-    .catch((error) => {});
+window.addEventListener("loginUpdated", () => {
+  (async function () {
+    stockData = await fetch(
+      "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
+    )
+      .then((response) => response.json())
+      .catch((error) => {});
 
-  await displayData(stockData, wholesaleStart, wholesaleEnd);
+    await displayData(stockData, wholesaleStart, wholesaleEnd);
 
-  document.body.classList.add("page-loaded");
+    wholesaleSearchInput.removeAttribute("disabled");
+    wholesaleSearchInput.addEventListener("input", (e) => {
+      if (e.target.value.length <= 0) {
+        displayData(stockData, wholesaleStart, wholesaleEnd);
+      } else {
+        searchRetailData(e.target.value);
+      }
+    });
 
-  wholesaleSearchInput.removeAttribute("disabled");
-  wholesaleSearchInput.addEventListener("input", (e) => {
-    if (e.target.value.length <= 0) {
-      displayData(stockData, wholesaleStart, wholesaleEnd);
-    } else {
-      searchWholesaleData(e.target.value);
-    }
-  });
-})();
+    document.body.classList.add("page-loaded");
+  })();
+});
 
 // display passed data in a table
 async function displayData(dataSet, wholesaleStart, wholesaleEnd) {
