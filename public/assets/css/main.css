@@ -2,11 +2,13 @@
   font-family: "Inter";
   src: url("/public/assets/fonts/Inter-Bold.woff2") format("woff2");
   font-weight: bold;
+  font-display: swap;
 }
 @font-face {
   font-family: "Inter";
   src: url("/public/assets/fonts/Inter-Regular.woff2") format("woff2");
   font-weight: normal;
+  font-display: swap;
 }
 
 /* RESET */
