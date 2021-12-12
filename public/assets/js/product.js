@@ -1542,6 +1542,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-topiary.svg";
       break;
 
+    case "salix-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-general.svg";
+      break;
+    case "salix-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-weeping.svg";
+      break;
+
     default:
       break;
   }

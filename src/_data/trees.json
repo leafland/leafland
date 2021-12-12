@@ -16641,7 +16641,8 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks-shade"
+     "topTrees":"paddocks-shade",
+     "treeShape": "salix-weeping"
   },
   {
      "botanicalName":"Salix caprea 'Pendula'",
@@ -16659,7 +16660,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "salix-weeping"
   },
   {
      "botanicalName":"Salix matsudana 'Tortuosa'",
@@ -16677,7 +16679,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "salix-general"
   },
   {
      "botanicalName":"Salix vitellina 'Pendula Aurea'",
@@ -16695,7 +16698,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "salix-weeping"
   },
   {
      "botanicalName":"Schinus molle",
