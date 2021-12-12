@@ -276,6 +276,11 @@ html {
   background-color: var(--primary-text);
 }
 
+:focus-visible {
+  outline: 2px solid var(--brand-color);
+  border-radius: 8px;
+}
+
 /* MAIN PAGE SECTIONS */
 body {
   margin: 0;
@@ -402,19 +407,11 @@ ul {
   list-style: none;
 }
 
-input:focus {
-  outline: none;
-}
-
 select {
   border-radius: 8px;
   font-weight: bold;
   font-size: 1rem;
   padding: 0.3rem;
-}
-
-select:focus {
-  outline: none;
 }
 
 button,
