@@ -315,7 +315,7 @@ p.paragraph-title {
 }
 
 main p a:not(label a) {
-  border-bottom: 2px solid var(--primary-text);
+  text-decoration: underline;
 }
 
 .lowercase {
