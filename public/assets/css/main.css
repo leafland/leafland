@@ -322,6 +322,15 @@ main p a:not(label a) {
   text-transform: lowercase;
 }
 
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 5px auto Highlight;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+
 h1,
 h2,
 h3 {

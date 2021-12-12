@@ -97,6 +97,10 @@
   border-radius: 8px;
 }
 
+.order-common-name a:hover {
+  color: var(--primary-text);
+}
+
 .order-product p {
   font-weight: bold;
   text-transform: uppercase;
