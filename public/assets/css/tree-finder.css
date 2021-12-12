@@ -284,16 +284,13 @@ details > summary {
   }
 
   main input:hover,
-  main label:hover {
+  main label:hover,
+  details > summary:hover {
     cursor: pointer;
   }
 
   #clear-checkbox-filter:hover:enabled {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
-
-  details > summary:hover {
-    cursor: pointer;
   }
 }
