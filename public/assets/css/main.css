@@ -276,6 +276,7 @@ html {
   background-color: var(--primary-text);
 }
 
+:focus,
 :focus-visible {
   outline: 2px solid var(--brand-color);
   border-radius: 8px;
