@@ -198,73 +198,73 @@ async function populatePage(
     filteredData = trees.filter((tree) => {
       let compareValue = "";
 
-      if (tree.uses !== "") {
+      if (tree.uses !== "" && tree.uses !== undefined) {
         let compareArray = tree.uses.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}`;
         });
       }
-      if (tree.tolerates !== "") {
+      if (tree.tolerates !== "" && tree.tolerates !== undefined) {
         let compareArray = tree.tolerates.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}`;
         });
       }
-      if (tree.winterFoliage !== "") {
+      if (tree.winterFoliage !== "" && tree.winterFoliage !== undefined) {
         let compareArray = tree.winterFoliage.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}`;
         });
       }
-      if (tree.origin !== "") {
+      if (tree.origin !== "" && tree.origin !== undefined) {
         let compareArray = tree.origin.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}`;
         });
       }
-      if (tree.types !== "") {
+      if (tree.types !== "" && tree.types !== undefined) {
         let compareArray = tree.types.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}`;
         });
       }
-      if (tree.height !== "") {
+      if (tree.height !== "" && tree.height !== undefined) {
         let compareArray = tree.height.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-h`;
         });
       }
-      if (tree.width !== "") {
+      if (tree.width !== "" && tree.width !== undefined) {
         let compareArray = tree.width.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-w`;
         });
       }
-      if (tree.floweringSeason !== "") {
+      if (tree.floweringSeason !== "" && tree.floweringSeason !== undefined) {
         let compareArray = tree.floweringSeason.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fls`;
         });
       }
-      if (tree.flowerColor !== "") {
+      if (tree.flowerColor !== "" && tree.flowerColor !== undefined) {
         let compareArray = tree.flowerColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fc`;
         });
       }
-      if (tree.autumnColor !== "") {
+      if (tree.autumnColor !== "" && tree.autumnColor !== undefined) {
         let compareArray = tree.autumnColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-ac`;
         });
       }
-      if (tree.foliageColor !== "") {
+      if (tree.foliageColor !== "" && tree.foliageColor !== undefined) {
         let compareArray = tree.foliageColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-flc`;
         });
       }
-      if (tree.fruitingSeason !== "") {
+      if (tree.fruitingSeason !== "" && tree.fruitingSeason !== undefined) {
         let compareArray = tree.fruitingSeason.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fs`;
