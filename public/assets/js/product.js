@@ -1528,6 +1528,20 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-upright.svg";
       break;
 
+    case "quince-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/quince/quince-general.svg";
+      break;
+
+    case "robinia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-general.svg";
+      break;
+    case "robinia-topiary":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-topiary.svg";
+      break;
+
     default:
       break;
   }
