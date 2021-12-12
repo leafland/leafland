@@ -1551,6 +1551,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-weeping.svg";
       break;
 
+    case "sequoia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/sequoia/sequoia-general.svg";
+      break;
+
     default:
       break;
   }

@@ -16753,7 +16753,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sequoia-general"
   },
   {
      "botanicalName":"Sequoia sempervirens 'Korbel'",
@@ -16771,7 +16772,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green, grey, blue",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sequoia-general"
   },
   {
      "botanicalName":"Sequoiadendron giganteum",
@@ -16789,7 +16791,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sequoia-general"
   },
   {
      "botanicalName":"Sophora chathamica",
