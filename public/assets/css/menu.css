@@ -12,7 +12,6 @@
   background: var(--primary-background);
   transition: all 0.5s;
   display: grid;
-  place-content: center;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -23,14 +22,16 @@
 }
 
 #main-menu-inner {
-  padding: 3rem 2rem 2rem 2rem;
+  padding: 2rem;
   display: grid;
-  max-height: 100vh;
+  position: relative;
+  grid-template-rows: auto 1fr auto;
+  grid-gap: 2rem;
 }
 
-#main-menu-inner > * {
+/* #main-menu-inner > * {
   grid-area: 1 / -1;
-}
+} */
 
 /* #main-menu-inner h2 {
   background: var(--secondary-background);
@@ -44,8 +45,10 @@
   margin: 0;
   padding: 0;
   display: grid;
-  align-items: center;
   transition: opacity 0.3s;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+  grid-gap: 3rem;
+  place-content: center;
 }
 
 #top-trees-sub-menu {
@@ -55,6 +58,27 @@
 #main-menu-inner ul li {
   background: var(--secondary-background);
   padding: 1rem;
+  border-radius: 8px;
+  max-height: 400px;
+  height: 100%;
+}
+
+#main-menu-inner ul li a,
+.sub-menu-button button {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-rows: auto 1fr;
+  width: 100%;
+}
+
+#main-menu-inner p {
+  font-size: 1.3rem;
+}
+
+.menu-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
   border-radius: 8px;
 }
 
@@ -68,20 +92,8 @@
   font-size: 1.2rem;
 }
 
-.back-button {
-  border-color: var(--primary-text);
-}
-
 #main-menu-inner .button {
   border: none;
-}
-
-#close-menu {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  cursor: pointer;
-  border-color: var(--primary-text);
 }
 
 #desktop-menu {
@@ -136,8 +148,21 @@
   font-size: 1rem;
 }
 
+#back-button,
+#close-menu {
+  cursor: pointer;
+  border-color: var(--primary-text);
+  place-self: center;
+}
+
 #main-menu-inner #resources-sub-menu,
 #main-menu-inner #top-trees-sub-menu {
+  display: none;
+}
+
+#main-menu-inner #resources-sub-menu,
+#main-menu-inner #top-trees-sub-menu,
+#back-button {
   opacity: 0;
   z-index: 0;
 }
@@ -147,13 +172,14 @@
   border: none;
 }
 
-li.sub-menu-button button {
+li.sub-menu-button button div {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  align-self: start;
 }
 
-li.sub-menu-button button svg {
+li.sub-menu-button button div svg {
   height: 22px;
   width: 22px;
 }
@@ -165,8 +191,7 @@ li.sub-menu-button button svg {
     background: none;
   }
 
-  #resources-back-button:hover,
-  #top-trees-back-button:hover,
+  #back-button:hover,
   #close-menu:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
@@ -181,6 +206,43 @@ li.sub-menu-button button svg {
 
   .dropdown-menu:hover > .dropdown-menu-button {
     background: var(--button-background-hover);
+  }
+}
+
+@media (min-width: 400px) {
+  #main-menu-inner ul li a,
+  .sub-menu-button button {
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 100px;
+  }
+
+  #main-menu-inner ul li a p,
+  li.sub-menu-button button div {
+    justify-self: start;
+    align-self: center;
+  }
+
+  #main-menu-inner ul li a img,
+  .sub-menu-button button img {
+    justify-self: end;
+  }
+}
+
+@media (min-width: 600px) {
+  #main-menu-inner ul li a,
+  .sub-menu-button button {
+    grid-template-columns: 1fr 200px;
+  }
+
+  .menu-image {
+    width: 200px;
+    height: 200px;
+  }
+  #main-menu-inner ul li {
+    padding: 2rem;
+  }
+  #main-menu-inner p {
+    font-size: 1.5rem;
   }
 }
 
