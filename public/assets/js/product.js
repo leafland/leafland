@@ -1069,6 +1069,11 @@ function createTreeShape(productTreeData) {
   let treeShapeImage = document.createElement("img");
   treeShapeImage.id = "tree-shape-image";
   switch (productTreeData[0].treeShape) {
+    case "abies-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/abies/abies-general.svg";
+      break;
+
     case "acer-palmatum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg";
