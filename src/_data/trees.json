@@ -35,13 +35,13 @@
      "autumnColor":"",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acacia-general"
   },
   {
      "botanicalName":"Acacia floribunda",
      "commonName":"Gossamer Wattle, White Sallow Wattle",
      "url":"acacia-floribunda-gossamer-wattle-white-sallow-wattle",
-     "description":"A graceful spreading bushy tree with an open form. A slender willow-like habit with narrow leaves. Pale-yellow, fragrant flowers in fluffy balls through late-summer. Tolerates poor dry soils. Grow in full sun.",
+     "description":"A graceful spreading bushy tree with an open form and narrow leaves. Pale-yellow, fragrant flowers in fluffy balls through late-summer. Tolerates poor dry soils. Grow in full sun.",
      "uses":"",
      "tolerates":"dry",
      "winterFoliage":"evergreen",
@@ -54,7 +54,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acacia-general"
   },
   {
      "botanicalName":"Acacia howittii",
@@ -73,7 +73,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"small-weeping"
+     "treeShape":"acacia-weeping"
   },
   {
      "botanicalName":"Acacia melanoxylon",
@@ -92,7 +92,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acacia-large"
   },
   {
      "botanicalName":"Acer buergerianum",
