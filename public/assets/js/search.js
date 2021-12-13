@@ -126,7 +126,9 @@ async function search(terms) {
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")} ${usesValue} ${toleratesValue} ${
         searchData[i].winterFoliage
-      } ${searchData[i].origin} ${typesValue}`
+      } ${searchData[i].origin} ${typesValue} ${searchData[i].flowerColor} ${
+        searchData[i].foliageColor
+      } ${searchData[i].autumnColor}`
         .replace(/'/g, "")
         .replace(/"/g, "")
         .replace(/\(/g, "")
