@@ -31,9 +31,8 @@
   position: absolute;
   top: 10px;
   right: 10px;
-  width: 30px;
-  height: 30px;
   cursor: pointer;
+  border-color: var(--primary-text);
 }
 
 #login-form {
@@ -80,7 +79,8 @@
 
 @media (hover: hover) and (pointer: fine) {
   #log-out:hover,
-  #log-in:hover {
+  #log-in:hover,
+  #close-login:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
