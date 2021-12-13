@@ -1569,6 +1569,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-low-bushy.svg";
       break;
 
+    case "tilia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-general.svg";
+      break;
+    case "tilia-tall-graceful":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-tall-graceful.svg";
+      break;
+
     default:
       break;
   }

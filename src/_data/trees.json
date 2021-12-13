@@ -17297,7 +17297,8 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching"
+     "topTrees":"pleaching",
+     "treeShape": "tilia-general"
   },
   {
      "botanicalName":"Tilia x europaea",
@@ -17315,7 +17316,8 @@
      "flowerColor":"yellow",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "tilia-general"
   },
   {
      "botanicalName":"Tilia platyphyllos",
@@ -17333,7 +17335,8 @@
      "flowerColor":"yellow",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "tilia-general"
   },
   {
      "botanicalName":"Tilia tomentosa",
@@ -17351,13 +17354,14 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "tilia-general"
   },
   {
      "botanicalName":"Tilia tomentosa 'Orbicularis'",
      "commonName":"Silver Lime, Silver Linden",
      "url":"tilia-tomentosa-orbicularis-silver-lime-silver-linden",
-     "description":"Robust, narrow, conical-grower with side branches. Dark-green, heart-shaped leaves are silver underneath and look lovely when ruffled by breezes. Produces a mass of pale-yellow, sweetly-scented flowers in summer which attract bees.",
+     "description":"Robust, narrow, conical-grower with graceful side branches. Dark-green, heart-shaped leaves are silver underneath and look lovely when ruffled by breezes. Produces a mass of pale-yellow, sweetly-scented flowers in summer which attract bees.",
      "uses":"",
      "tolerates":"",
      "winterFoliage":"deciduous",
@@ -17369,7 +17373,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "tilia-tall-graceful"
   },
   {
      "botanicalName":"Tilia tomentosa 'Petiolaris'",
@@ -17387,7 +17392,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "tilia-tall-graceful"
   },
   {
      "botanicalName":"Trachycarpus fortunei",
