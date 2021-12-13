@@ -1578,6 +1578,31 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-tall-graceful.svg";
       break;
 
+    case "ulmus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-general.svg";
+      break;
+    case "ulmus-horizontal":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-horizontal.svg";
+      break;
+    case "ulmus-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-weeping.svg";
+      break;
+    case "ulmus-small":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-small.svg";
+      break;
+    case "ulmus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-upright.svg";
+      break;
+    case "ulmus-semi-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-semi-upright.svg";
+      break;
+
     default:
       break;
   }

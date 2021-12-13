@@ -17430,7 +17430,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"white, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-general"
   },
   {
      "botanicalName":"Ulmus 'Frontier'",
@@ -17448,7 +17449,8 @@
      "flowerColor":"",
      "autumnColor":"purple, red",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-general"
   },
   {
      "botanicalName":"Ulmus glabra 'Camperdownii'",
@@ -17467,7 +17469,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape": "ulmus-weeping"
   },
   {
      "botanicalName":"Ulmus glabra 'Horizontalis'",
@@ -17485,7 +17487,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-horizontal"
   },
   {
      "botanicalName":"Ulmus glabra 'Pendula'",
@@ -17504,7 +17507,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape": "ulmus-weeping"
   },
   {
      "botanicalName":"Ulmus x hollandica 'Jacqueline Hillier'",
@@ -17522,7 +17525,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-small"
   },
   {
      "botanicalName":"Ulmus x hollandica 'Wredei'",
@@ -17540,7 +17544,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"yellow",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-upright"
   },
   {
      "botanicalName":"Ulmus 'Lobel'",
@@ -17558,7 +17563,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "ulmus-semi-upright"
   },
   {
      "botanicalName":"Ulmus 'Louis van Houtte'",
@@ -17578,7 +17584,7 @@
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
      "topTrees":"autumn-color",
-     "treeShape":"large-round-head"
+     "treeShape": "ulmus-general"
   },
   {
      "botanicalName":"Ulmus parvifolia",
@@ -17597,7 +17603,8 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks-shade"
+     "topTrees":"paddocks-shade",
+     "treeShape": "ulmus-general"
   },
   {
      "botanicalName":"Viburnum opulus 'Roseum'",
