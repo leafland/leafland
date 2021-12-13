@@ -23,7 +23,7 @@
 }
 
 #order-inner {
-  padding: 2rem;
+  padding: 3rem 2rem 2rem 2rem;
   height: 100%;
   display: grid;
   grid-template-rows: 100px 1fr auto auto;
