@@ -16810,7 +16810,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora fulvida",
@@ -16828,7 +16829,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora godleyi",
@@ -16846,7 +16848,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora godleyi 'Goldies Mantle'",
@@ -16864,7 +16867,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora longicarinata",
@@ -16882,7 +16886,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora microphylla",
@@ -16902,7 +16907,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers",
-     "treeShape":"large-round-head"
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sophora molloyi",
@@ -16920,7 +16925,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "sophora-bushy"
   },
   {
      "botanicalName":"Sophora molloyi 'Dragon's Gold'",
@@ -16939,7 +16945,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens"
+     "topTrees":"small-gardens",
+     "treeShape": "sophora-low-bushy"
   },
   {
      "botanicalName":"Sophora tetraptera",
@@ -16957,7 +16964,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"sophora-general"
   },
   {
      "botanicalName":"Sorbus aria 'Lutescens'",

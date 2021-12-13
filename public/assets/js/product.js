@@ -1556,6 +1556,19 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/sequoia/sequoia-general.svg";
       break;
 
+    case "sophora-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-general.svg";
+      break;
+    case "sophora-bushy":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-bushy.svg";
+      break;
+    case "sophora-low-bushy":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-low-bushy.svg";
+      break;
+
     default:
       break;
   }
