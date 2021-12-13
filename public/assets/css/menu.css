@@ -23,7 +23,7 @@
 }
 
 #main-menu-inner {
-  padding: 20px;
+  padding: 3rem 2rem 2rem 2rem;
   display: grid;
   max-height: 100vh;
 }
