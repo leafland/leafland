@@ -1889,7 +1889,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"pleaching, topiary",
-     "treeShape":"large-round-head"
+     "treeShape":"alectryon-general"
   },
   {
      "botanicalName":"Almond 'All-In-One'",
@@ -1908,7 +1908,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"vase-shape"
+     "treeShape":"almond-general"
   },
   {
      "botanicalName":"Almond 'Monovale'",
@@ -1927,7 +1927,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"vase-shape"
+     "treeShape":"almond-general"
   },
   {
      "botanicalName":"Alnus cordata",

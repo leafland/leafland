@@ -1166,6 +1166,16 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/albizia/albizia-general.svg";
       break;
 
+    case "alectryon-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/alectryon/alectryon-general.svg";
+      break;
+
+    case "almond-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/almond/almond-general.svg";
+      break;
+
     case "alnus-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/alnus/alnus-general.svg";
