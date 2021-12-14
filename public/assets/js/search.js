@@ -4,6 +4,7 @@ let searchResultsInner = document.querySelector("#search-results-inner");
 let openSearch = document.querySelector("#open-search");
 let closeSearch = document.querySelector("#close-search");
 let searchLoadMoreButton = document.querySelector("#search-load-more");
+let searchReturnToTopButton = document.querySelector("#search-return-to-top");
 let searchData = [];
 let searchResults = [];
 let searchResultsImages = [];
@@ -246,6 +247,7 @@ let doneTypingInterval = 500;
   searchInput.addEventListener("keyup", (event) => {
     clearTimeout(typingTimer);
     searchLoadMoreButton.style.setProperty("visibility", "hidden");
+    searchReturnToTopButton.style.setProperty("visibility", "hidden");
     searchResultsInner.innerHTML = ``;
     document.body.classList.remove("search-loaded");
 
@@ -255,14 +257,17 @@ let doneTypingInterval = 500;
 
         if (searchResults.length > 0) {
           searchLoadMoreButton.style.setProperty("visibility", "hidden");
+          searchReturnToTopButton.style.setProperty("visibility", "hidden");
           searchResultsInner.innerHTML = ``;
 
           resetStartEnd();
           await displayResults(searchResults);
           searchLoadMoreButton.style.setProperty("visibility", "visible");
+          searchReturnToTopButton.style.setProperty("visibility", "visible");
           document.body.classList.add("search-loaded");
         } else {
           searchLoadMoreButton.style.setProperty("visibility", "hidden");
+          searchReturnToTopButton.style.setProperty("visibility", "hidden");
           searchResultsInner.innerHTML = ``;
           let emptyMessage = document.createElement("p");
           emptyMessage.textContent = "No results.";
@@ -290,4 +295,8 @@ searchLoadMoreButton.addEventListener("click", () => {
   start += 12;
   end += 12;
   displayResults(searchResults);
+});
+
+searchReturnToTopButton.addEventListener("click", () => {
+  document.querySelector("#search-overlay").scroll({ top: 0, left: 0 });
 });

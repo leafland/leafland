@@ -12,12 +12,15 @@
   background: var(--primary-background);
   transition: all 0.5s;
   display: grid;
-  place-content: center;
+  grid-template-rows: auto 1fr;
+  justify-content: center;
+  grid-gap: 3rem;
+  padding: 1rem;
 }
 
 #login-inner {
   max-width: 50rem;
-  padding: 1rem;
+  align-self: center;
 }
 
 #login-form-container {
@@ -28,11 +31,10 @@
 }
 
 #close-login {
-  position: absolute;
-  top: 10px;
-  right: 10px;
   cursor: pointer;
   border-color: var(--primary-text);
+  align-self: start;
+  justify-self: center;
 }
 
 #login-form {
