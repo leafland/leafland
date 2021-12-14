@@ -7,7 +7,7 @@ let openLogin = document.querySelector("#open-login");
 let closeLogin = document.querySelector("#close-login");
 
 async function logIn(event) {
-  returnMessage.textContent = "Logging in...";
+  document.querySelector("#log-in").value = "Logging in...";
 
   login = await fetch(
     `https://api.leafland.co.nz/default/supabase-login?email=${event.target[0].value}`
@@ -49,10 +49,14 @@ loginForm.addEventListener("submit", (event) => {
     await logIn(event);
     if (login === "false") {
       returnMessage.textContent = "Invalid email address. Please try again.";
+      document.querySelector("#log-in").value = "Log in";
+      document.querySelector("#log-in").disabled = false;
       localStorage.setItem("loggedIn", "false");
     } else {
       await sendLoginLink(event);
       returnMessage.textContent = "Check your inbox for the login link.";
+      document.querySelector("#log-in").value = "Log in";
+      document.querySelector("#log-in").disabled = true;
     }
   })();
 });
@@ -90,6 +94,8 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 openLogin.addEventListener("click", () => {
+  document.querySelector("#log-in").disabled = false;
+  returnMessage.textContent = "";
   document.body.classList.add("login-open");
 });
 

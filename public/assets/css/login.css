@@ -87,6 +87,11 @@
     background: var(--primary-text);
     color: var(--secondary-background);
   }
+  #log-in:hover:disabled {
+    background: none;
+    color: var(--primary-text);
+    cursor: default;
+  }
 }
 
 body.loggedIn #log-out {
