@@ -1332,7 +1332,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green, pink, white",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-pseudoplatanus-general"
   },
   {
      "botanicalName":"Acer pseudoplatanus 'Leopoldii'",
@@ -1351,7 +1351,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green, white",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-pseudoplatanus-general"
   },
   {
      "botanicalName":"Acer pseudoplatanus 'Purpureum'",
@@ -1371,7 +1371,7 @@
      "foliageColor":"purple, green",
      "fruitingSeason":"",
      "topTrees":"paddocks-shade",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-pseudoplatanus-general"
   },
   {
      "botanicalName":"Acer pseudoplatanus 'Worley'",
@@ -1390,7 +1390,7 @@
      "autumnColor":"yellow",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-pseudoplatanus-general"
   },
   {
      "botanicalName":"Acer rubrum",

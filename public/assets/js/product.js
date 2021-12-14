@@ -1101,6 +1101,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-negundo/acer-negundo-general.svg";
       break;
 
+    case "acer-pseudoplatanus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg";
+      break;
+
     case "acer-palmatum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg";
