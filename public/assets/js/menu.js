@@ -43,7 +43,7 @@ backButton.addEventListener("click", () => {
   mainMenu.style.setProperty("z-index", "9");
   topTreesSubMenu.style.setProperty(
     "grid-template-columns",
-    "repeat(auto-fit, minmax(0px, 50px))"
+    "repeat(auto-fit, minmax(0px, 1px))"
   );
   backButton.style.setProperty("opacity", "0");
   backButton.style.setProperty("z-index", "0");
@@ -59,7 +59,7 @@ resourcesSubMenuButton.addEventListener("click", () => {
   mainMenu.style.setProperty("z-index", "0");
   topTreesSubMenu.style.setProperty(
     "grid-template-columns",
-    "repeat(auto-fit, minmax(0px, 50px))"
+    "repeat(auto-fit, minmax(0px, 1px))"
   );
   // mainMenu.style.setProperty("visibility", "hidden");
   // mainMenu.style.setProperty("position", "absolute");

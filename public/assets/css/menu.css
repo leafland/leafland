@@ -48,7 +48,7 @@
 }
 
 #main-menu-inner #top-trees-sub-menu {
-  grid-template-columns: repeat(auto-fit, minmax(0px, 50px));
+  grid-template-columns: repeat(auto-fit, minmax(0px, 1px));
 }
 
 #main-menu-inner ul li {
@@ -65,6 +65,18 @@
   grid-template-rows: auto 1fr;
   width: 100%;
   padding: 1rem;
+}
+
+#main-menu-inner ul li a p,
+li.sub-menu-button button div {
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+#main-menu-inner ul li a img,
+.sub-menu-button button img {
+  justify-self: center;
 }
 
 #main-menu-inner p {
@@ -206,6 +218,7 @@ li.sub-menu-button button div svg {
   li.sub-menu-button button div {
     justify-self: start;
     align-self: center;
+    text-align: left;
   }
 
   #main-menu-inner ul li a img,
