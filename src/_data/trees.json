@@ -111,7 +111,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer campbellii 'Gwavas'",
@@ -130,7 +130,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer campestre",
@@ -149,7 +149,7 @@
      "autumnColor":"yellow, red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-large"
   },
   {
      "botanicalName":"Acer capillipes",
@@ -168,7 +168,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer cappadocicum 'Rubrum'",
@@ -187,7 +187,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer caudatifolium 'Summer Surprise'",
@@ -206,7 +206,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer davidii",
@@ -225,7 +225,7 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer gracefield",
@@ -244,7 +244,7 @@
      "autumnColor":"orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer griseum",
@@ -263,7 +263,7 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer japonicum 'Vitifolium'",
@@ -282,7 +282,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Acer monspessulanum",
@@ -301,7 +301,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-large"
   },
   {
      "botanicalName":"Acer negundo 'Flamingo'",

@@ -1087,6 +1087,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-large.svg";
       break;
 
+    case "acer-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-general.svg";
+      break;
+    case "acer-large":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-large.svg";
+      break;
+
     case "acer-palmatum-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg";
