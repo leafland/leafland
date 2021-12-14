@@ -6,174 +6,218 @@
 
     <button id="close-menu">Close</button>
 
-    <ul id="main-menu">
+    <div id="main-menu-items">
 
-      {# <li><h2>Menu</h2></li> #}
+      <ul id="main-menu">
 
-      <li>
-          <a href="/" class="button">
+        {# <li><h2>Menu</h2></li> #}
+
+        <li>
+            <a href="/" class="button">
+            
+              <p>Home</p>
+              <img class="menu-image" src="https://ik.imagekit.io/leafland/images/home/leafland-truck-south-island.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            
+            </a>
+        </li>
+
+        <li>
+            <a href="/trees/" class="button">
+            
+              <p>Tree Finder</p>
+              <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/prunus-accolade-flowering-cherry/prunus-accolade-flowering-cherry-garden.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+
+            </a>
+        </li>
+
+        <li class="sub-menu-button">
+          <button id="top-trees-sub-menu-button">
+
+            <div>
+              <p>Top Trees</p>
+
+              <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+            </div>
+
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum-street.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+
+          </button>
+
+        </li>
+
+        <li>
+            <a href="/about-us/" class="button">
+            
+              <p>About Us</p>
+              <img class="menu-image" src="https://ik.imagekit.io/leafland/images/home/aerial-view-of-leafland-nursery-full.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            
+            </a>
+        </li>
+
+        <li>
+            <a href="/contact-us/" class="button">
+            
+              <p>Contact Us</p>
+              <img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-nurseries-google-map.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            
+            </a>
+        </li>
           
-            <p>Home</p>
-            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/home/leafland-truck-south-island.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+        <li class="sub-menu-button">
+          <button id="resources-sub-menu-button">
+
+            <div>
+              <p>Resources</p>
+
+              <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+            </div>
+
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/publications/leaflands-street-tree-book.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </button>
+        </li>
+
+      </ul>
+
+      <ul id="top-trees-sub-menu" class="sub-menu">
+        {# <li><h2>Top Trees</h2></li> #}
+        <li>
+          <a href="/top-trees/autumn-colour/" class="button">
+
+            <p>Autumn Colour</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/liquidambar-styraciflua-gumball-american-sweetgum/liquidambar-styraciflua-gumball-american-sweetgum.jpeg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
           
           </a>
-      </li>
+        </li>
 
-      <li>
-          <a href="/trees/" class="button">
-          
-            <p>Tree Finder</p>
-            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/prunus-accolade-flowering-cherry/prunus-accolade-flowering-cherry-garden.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+        <li>
+          <a href="/top-trees/beautiful-flowers/" class="button">
 
-          </a>
-      </li>
-
-      <li class="sub-menu-button">
-        <button id="top-trees-sub-menu-button">
-
-          <div>
-            <p>Top Trees</p>
-
-            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
-          </div>
-
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum-street.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-
-        </button>
-
-      </li>
-
-      <li>
-          <a href="/about-us/" class="button">
-          
-            <p>About Us</p>
-            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/home/aerial-view-of-leafland-nursery-full.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            <p>Beautiful Flowers</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/camellia-high-fragrance-hybrid-camellia/camellia-high-fragrance-hybrid-camellia.jpeg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
           
           </a>
-      </li>
+        </li>
 
-      <li>
-          <a href="/contact-us/" class="button">
-          
-            <p>Contact Us</p>
-            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-nurseries-google-map.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+        <li>
+          <a href="/top-trees/driveways-avenues/" class="button">
+
+            <p>Driveways and Avenues</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
           
           </a>
-      </li>
+        </li>
+
+        <li>
+          <a href="/top-trees/hedging-screening/" class="button">
+          
+            <p>Hedging and Screening</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/thuja-plicata-western-red-cedar/thuja-plicata-western-red-cedar.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+          <a href="/top-trees/narrow-spaces/" class="button">
+          
+            <p>Narrow Spaces</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/ulmus-x-hollandica-wredei-golden-elm/ulmus-x-hollandica-wredei-golden-elm.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+          <a href="/top-trees/paddocks-shade/" class="button">
+          
+            <p>Paddocks and Shade</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/quercus-robur-english-oak/quercus-robur-english-oak-field.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+
+          </a>
+        </li>
+
+        <li>
+          <a href="/top-trees/pleaching/" class="button">
+          
+            <p>Pleaching</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/carpinus-betulus-european-hornbeam/carpinus-betulus-european-hornbeam-pleached.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+          <a href="/top-trees/small-gardens/" class="button">
+          
+            <p>Small Gardens</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/acer-palmatum-dissectum-tamukeyama-japanese-maple/acer-palmatum-dissectum-tamukeyama-japanese-maple.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+          <a href="/top-trees/topiary/" class="button">
+          
+            <p>Topiary</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/alectryon-excelsus-titoki-new-zealand-oak/alectryon-excelsus-titoki-new-zealand-oak.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+      </ul>
+
+      <ul id="resources-sub-menu">
+        {# <li><h2>Resources</h2></li> #}
+        <li class="stock-link"></li>
+
+        <li>
+          <a href="/publications/" class="button">
+          
+            <p>Publications</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/publications/leafland-2021-catalogue.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+        <a href="/credit-application/" class="button">
         
-      <li class="sub-menu-button">
-        <button id="resources-sub-menu-button">
-
-          <div>
-            <p>Resources</p>
-
-            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
-          </div>
-
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/publications/leaflands-street-tree-book.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </button>
-      </li>
-
-    </ul>
-
-    <ul id="top-trees-sub-menu" class="sub-menu">
-      {# <li><h2>Top Trees</h2></li> #}
-      <li>
-        <a href="/top-trees/autumn-colour/" class="button">
-
-          <p>Autumn Colour</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/liquidambar-styraciflua-gumball-american-sweetgum/liquidambar-styraciflua-gumball-american-sweetgum.jpeg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/beautiful-flowers/" class="button">
-
-          <p>Beautiful Flowers</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/camellia-high-fragrance-hybrid-camellia/camellia-high-fragrance-hybrid-camellia.jpeg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/driveways-avenues/" class="button">
-
-          <p>Driveways and Avenues</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/hedging-screening/" class="button">
-        
-          <p>Hedging and Screening</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/thuja-plicata-western-red-cedar/thuja-plicata-western-red-cedar.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/narrow-spaces/" class="button">
-        
-          <p>Narrow Spaces</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/ulmus-x-hollandica-wredei-golden-elm/ulmus-x-hollandica-wredei-golden-elm.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/paddocks-shade/" class="button">
-        
-          <p>Paddocks and Shade</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/quercus-robur-english-oak/quercus-robur-english-oak-field.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-
-        </a>
-      </li>
-
-      <li>
-        <a href="/top-trees/pleaching/" class="button">
-        
-          <p>Pleaching</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/carpinus-betulus-european-hornbeam/carpinus-betulus-european-hornbeam-pleached.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            <p>Credit Application</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-credit-application-form.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
         
         </a>
-      </li>
+        </li>
 
-      <li>
-        <a href="/top-trees/small-gardens/" class="button">
+        <li>
+          <a href="/pro-pots/" class="button">
+          
+            <p>Pro-Pots</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/pro-pots/line-of-pro-pots-in-nursery.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
+
+        <li>
+        <a href="/terms-of-trade/" class="button">
         
-          <p>Small Gardens</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/acer-palmatum-dissectum-tamukeyama-japanese-maple/acer-palmatum-dissectum-tamukeyama-japanese-maple.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+            <p>Terms of Trade</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-terms-of-trade.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
         
         </a>
-      </li>
+        </li>
 
-      <li>
-        <a href="/top-trees/topiary/" class="button">
-        
-          <p>Topiary</p>
-          <img class="menu-image" src="https://ik.imagekit.io/leafland/images/trees/alectryon-excelsus-titoki-new-zealand-oak/alectryon-excelsus-titoki-new-zealand-oak.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
-        
-        </a>
-      </li>
+        <li>
+          <a href="/tree-planting-guide/" class="button">
+          
+            <p>Tree Planting Guide</p>
+            <img class="menu-image" src="https://ik.imagekit.io/leafland/images/tree-planting-guide/tree-planting-guide-diagram.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy">
+          
+          </a>
+        </li>
 
-    </ul>
+        {# <button id="resources-back-button" class="back-button">Back</button> #}
+      
+      </ul>
 
-    <ul id="resources-sub-menu">
-      {# <li><h2>Resources</h2></li> #}
-      <li class="stock-link"></li>
-      <li><a href="/publications/" class="button">Publications</a></li>
-      <li><a href="/credit-application/" class="button">Credit Application</a></li>
-      <li><a href="/pro-pots/" class="button">Pro-Pots</a></li>
-      <li><a href="/terms-of-trade/" class="button">Terms of Trade</a></li>
-      <li><a href="/tree-planting-guide/" class="button">Tree Planting Guide</a></li>
-
-      {# <button id="resources-back-button" class="back-button">Back</button> #}
-    
-    </ul>
+    </div>
 
     <button id="back-button">Back</button>
 
