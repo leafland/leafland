@@ -21,13 +21,13 @@ window.addEventListener("loginUpdated", () => {
     for (let i = 0; i < stockLinks.length; i++) {
       stockLinks[
         i
-      ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+      ].innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
     }
     document.body.classList.add("loggedIn");
   } else {
     for (let i = 0; i < stockLinks.length; i++) {
       stockLinks[i].innerHTML =
-        '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
+        '<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>';
     }
     document.body.classList.remove("loggedIn");
   }
@@ -44,13 +44,13 @@ window.addEventListener("storage", () => {
     for (let i = 0; i < stockLinks.length; i++) {
       stockLinks[
         i
-      ].innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+      ].innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
     }
     document.body.classList.add("loggedIn");
   } else {
     for (let i = 0; i < stockLinks.length; i++) {
       stockLinks[i].innerHTML =
-        '<a href="/retail-stock-list/" class="button">Retail Stock List</a>';
+        '<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>';
     }
     document.body.classList.remove("loggedIn");
   }
