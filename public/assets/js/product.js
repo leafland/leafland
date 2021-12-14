@@ -1146,9 +1146,24 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/aesculus/aesculus-general.svg";
       break;
 
+    case "afrocarpus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/afrocarpus/afrocarpus-general.svg";
+      break;
+
     case "agathis-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/agathis/agathis-general.svg";
+      break;
+
+    case "agonis-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/agonis/agonis-general.svg";
+      break;
+
+    case "albizia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/albizia/albizia-general.svg";
       break;
 
     case "alnus-general":

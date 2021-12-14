@@ -1564,7 +1564,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-large"
   },
   {
      "botanicalName":"Acer saccharum",
@@ -1583,7 +1583,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"acer-large"
   },
   {
      "botanicalName":"Acer shirasawanum 'Autumn Moon'",
@@ -1602,7 +1602,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"acer-general"
   },
   {
      "botanicalName":"Aesculus x carnea",
@@ -1754,7 +1754,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"afrocarpus-general"
   },
   {
      "botanicalName":"Agathis australis",
@@ -1811,7 +1811,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"agonis-general"
   },
   {
      "botanicalName":"Albizia julibrissin 'Red Silk'",
@@ -1831,7 +1831,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"beautiful-flowers",
-     "treeShape":"large-round-head"
+     "treeShape":"albizia-general"
   },
   {
      "botanicalName":"Albizia julibrissin 'Rosea'",
@@ -1850,7 +1850,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"albizia-general"
   },
   {
      "botanicalName":"Albizia julibrissin 'Summer Chocolate'",
@@ -1869,7 +1869,7 @@
      "autumnColor":"",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"albizia-general"
   },
   {
      "botanicalName":"Alectryon excelsus",
