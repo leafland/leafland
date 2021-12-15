@@ -74,8 +74,13 @@ tr:nth-child(odd):not(tr:first-child) {
   background: var(--surface1-light);
 }
 
-tr td:not(tr td:nth-child(1)):not(tr td:nth-child(2)) {
+tr td {
   text-align: center;
+}
+
+tr td:nth-child(1),
+tr td:nth-child(2) {
+  text-align: left;
 }
 
 #stock-data table th:nth-child(1),
