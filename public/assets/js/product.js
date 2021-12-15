@@ -1215,6 +1215,16 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/astelia/astelia-general.svg";
       break;
 
+    case "avocado-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/avocado/avocado-general.svg";
+      break;
+
+    case "azara-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/azara/azara-general.svg";
+      break;
+
     case "betula-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-general.svg";

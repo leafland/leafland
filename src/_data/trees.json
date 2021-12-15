@@ -2632,7 +2632,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"spring, autumn, winter",
-     "treeShape":"vase-shape"
+     "treeShape":"avocado-general"
   },
   {
      "botanicalName":"Avocado 'Hass'",
@@ -2651,7 +2651,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer, spring, autumn",
-     "treeShape":"vase-shape"
+     "treeShape":"avocado-general"
   },
   {
      "botanicalName":"Azara microphylla",
@@ -2670,7 +2670,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"vase-shape"
+     "treeShape":"azara-general"
   },
   {
      "botanicalName":"Banksia integrifolia",
