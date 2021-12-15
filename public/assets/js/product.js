@@ -1235,6 +1235,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/beilschmiedia/beilschmiedia-general.svg";
       break;
 
+    case "berberis-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/berberis/berberis-general.svg";
+      break;
+
     case "betula-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-general.svg";
