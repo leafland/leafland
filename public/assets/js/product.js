@@ -1225,6 +1225,16 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/azara/azara-general.svg";
       break;
 
+    case "banksia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/banksia/banksia-general.svg";
+      break;
+
+    case "beilschmiedia-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/beilschmiedia/beilschmiedia-general.svg";
+      break;
+
     case "betula-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-general.svg";

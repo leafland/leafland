@@ -2689,7 +2689,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"banksia-general"
   },
   {
      "botanicalName":"Beilschmiedia tarairi",
@@ -2708,7 +2708,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-tall"
+     "treeShape":"beilschmiedia-general"
   },
   {
      "botanicalName":"Beilschmiedia tawa",
@@ -2727,7 +2727,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-tall"
+     "treeShape":"beilschmiedia-general"
   },
   {
      "botanicalName":"Berberis thunbergii f. atropurpurea 'Helmond Pillar'",
