@@ -1205,6 +1205,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/araucaria/araucaria-general.svg";
       break;
 
+    case "arbutus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/arbutus/arbutus-general.svg";
+      break;
+
     case "astelia-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/astelia/astelia-general.svg";
