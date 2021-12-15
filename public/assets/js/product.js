@@ -1181,6 +1181,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/alnus/alnus-general.svg";
       break;
 
+    case "amelanchier-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/amelanchier/amelanchier-general.svg";
+      break;
+
     case "apple-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/apple/apple-general.svg";
@@ -1193,6 +1198,11 @@ function createTreeShape(productTreeData) {
     case "apricot-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/apricot/apricot-general.svg";
+      break;
+
+    case "araucaria-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/araucaria/araucaria-general.svg";
       break;
 
     case "astelia-general":

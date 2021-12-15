@@ -2119,7 +2119,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"autumn-color",
-     "treeShape":"large-round-head"
+     "treeShape":"amelanchier-general"
   },
   {
      "botanicalName":"Apple 'Braeburn'",
@@ -2518,7 +2518,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"conifer-pine"
+     "treeShape":"araucaria-general"
   },
   {
      "botanicalName":"Araucaria heterophylla",
@@ -2537,7 +2537,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"conifer-pine"
+     "treeShape":"araucaria-general"
   },
   {
      "botanicalName":"Arbutus canariensis",
