@@ -3910,7 +3910,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"hedging-screening, pleaching",
-     "treeShape":"large-round-head"
+     "treeShape":"carpinus-general"
   },
   {
      "botanicalName":"Carpinus betulus 'Fastigiata'",
@@ -3929,7 +3929,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-bushy"
+     "treeShape":"carpinus-upright"
   },
   {
      "botanicalName":"Carpinus japonica",
@@ -3948,13 +3948,13 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"carpinus-general"
   },
   {
      "botanicalName":"Carpodetus serratus",
      "commonName":"Putaputawētā, Marbleleaf",
      "url":"carpodetus-serratus-putaputaweta-marbleleaf",
-     "description":"An attractive tree with spreading branches. Juvenile leaves are brown while the adult leaves are larger and dark-green with lighter marbling. A profusion of small, white flowers from late-spring to early-autumn. Prefers moisture.",
+     "description":"An attractive tree with spreading branches. Juvenile leaves are brown while the adult leaves are larger and dark-green with lighter marbling. A profusion of small, white flowers from late-spring to early-autumn. Does not tolerate drought or wind.",
      "uses":"attracts-bees, paddocks-shade",
      "tolerates":"",
      "winterFoliage":"evergreen",
@@ -3967,7 +3967,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"carpodetus-general"
   },
   {
      "botanicalName":"Castanea sativa",

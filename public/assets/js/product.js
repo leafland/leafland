@@ -1285,6 +1285,20 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/camellia/camellia-general.svg";
       break;
 
+    case "carpinus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-general.svg";
+      break;
+    case "carpinus-upright":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-upright.svg";
+      break;
+
+    case "carpodetus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/carpodetus/carpodetus-general.svg";
+      break;
+
     case "cedrus-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-general.svg";
