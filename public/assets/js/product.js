@@ -1262,6 +1262,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-large.svg";
       break;
 
+    case "buxus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/buxus/buxus-general.svg";
+      break;
+
     case "callistemon-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-general.svg";
