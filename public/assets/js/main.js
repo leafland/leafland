@@ -1,4 +1,5 @@
-let stockLinks = document.querySelectorAll(".stock-link");
+let headerStockLink = document.querySelector("#header-stock-link");
+let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
 if (localStorage.getItem("trees") === null) {
@@ -18,17 +19,15 @@ window.addEventListener("loginUpdated", () => {
   }
 
   if (loggedIn) {
-    for (let i = 0; i < stockLinks.length; i++) {
-      stockLinks[
-        i
-      ].innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
-    }
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+
+    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
+
     document.body.classList.add("loggedIn");
   } else {
-    for (let i = 0; i < stockLinks.length; i++) {
-      stockLinks[i].innerHTML =
-        '<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>';
-    }
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Retail Stock List</a>`;
+
+    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
     document.body.classList.remove("loggedIn");
   }
 });
@@ -41,17 +40,14 @@ window.addEventListener("storage", () => {
   }
 
   if (loggedIn) {
-    for (let i = 0; i < stockLinks.length; i++) {
-      stockLinks[
-        i
-      ].innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
-    }
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+
+    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
     document.body.classList.add("loggedIn");
   } else {
-    for (let i = 0; i < stockLinks.length; i++) {
-      stockLinks[i].innerHTML =
-        '<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>';
-    }
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Retail Stock List</a>`;
+
+    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://ik.imagekit.io/leafland/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy"></a>`;
     document.body.classList.remove("loggedIn");
   }
 });
