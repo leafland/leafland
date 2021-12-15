@@ -126,8 +126,8 @@
 #close-order {
   cursor: pointer;
   border-color: var(--primary-text);
-  align-self: start;
-  justify-self: center;
+  align-self: center;
+  justify-self: end;
 }
 
 #submit-order {
