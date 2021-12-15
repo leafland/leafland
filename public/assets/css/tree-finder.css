@@ -27,7 +27,8 @@ input[type="checkbox"] {
 }
 
 .tree-item-loaded {
-  animation: fadeInUp 0.5s forwards calc(var(--animation-order) * 100ms);
+  animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
+    cubic-bezier(0.31, 0.87, 0.32, 1);
   visibility: visible;
 }
 

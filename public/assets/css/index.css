@@ -149,7 +149,8 @@ main h2 {
 
 @media (hover: hover) and (pointer: fine) {
   #hero .button:hover {
-    color: var(--primary-text);
+    background: var(--primary-text);
+    border-color: var(--primary-text);
   }
 
   .banner-section-inner .button:hover {

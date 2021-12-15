@@ -45,7 +45,7 @@ const callback = function (entries) {
     if (entry.isIntersecting) {
       entry.target.style.setProperty(
         "animation",
-        "fadeInUp 1.1s ease forwards"
+        "fadeInUp 1s forwards cubic-bezier(0.31,0.87,0.32,1)"
       );
     }
   });
@@ -66,7 +66,7 @@ const heroTextObserver = new IntersectionObserver(
       if (entry.isIntersecting) {
         entry.target.style.setProperty(
           "animation",
-          "fadeInUp 1.1s ease 500ms forwards"
+          "fadeInUp 1s 500ms forwards cubic-bezier(0.31,0.87,0.32,1)"
         );
       }
     });
@@ -80,7 +80,7 @@ const linkBlockObserver = new IntersectionObserver(
       if (entry.isIntersecting) {
         entry.target.style.setProperty(
           "animation",
-          "fadeInUp 1.1s ease 500ms forwards"
+          "fadeInUp 1s 500ms forwards cubic-bezier(0.31,0.87,0.32,1)"
         );
       }
     });

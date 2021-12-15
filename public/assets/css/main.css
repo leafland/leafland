@@ -368,7 +368,7 @@ input[type="submit"] {
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
   background: none;
-  transition: color 0.3s, background 0.3s;
+  transition: all 0.3s;
   cursor: pointer;
   border-radius: 8px;
   font-size: 1rem;
@@ -593,6 +593,12 @@ body.menu-open #main-menu-overlay {
   input[type="submit"]:hover {
     cursor: pointer;
     background: var(--button-background-hover);
+  }
+
+  #header-buttons button:hover {
+    background: var(--primary-text);
+    color: var(--secondary-background);
+    border-color: var(--primary-text);
   }
   a:hover:not(header a) {
     color: var(--brand-color);
