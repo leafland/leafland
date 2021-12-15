@@ -1253,6 +1253,15 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-upright.svg";
       break;
 
+    case "brachychiton-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-general.svg";
+      break;
+    case "brachychiton-large":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-large.svg";
+      break;
+
     case "callistemon-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-general.svg";

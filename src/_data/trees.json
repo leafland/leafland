@@ -3108,7 +3108,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-tall"
+     "treeShape":"brachychiton-general"
   },
   {
      "botanicalName":"Brachychiton rupestris",
@@ -3127,7 +3127,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"brachychiton-large"
   },
   {
      "botanicalName":"Buxus sempervirens 'Graham Blandy'",
