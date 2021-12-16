@@ -1346,6 +1346,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-weeping.svg";
       break;
 
+    case "chamaecyparis-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/chamaecyparis/chamaecyparis-general.svg";
+      break;
+
     case "cherry-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cherry/cherry-general.svg";
