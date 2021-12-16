@@ -1063,809 +1063,814 @@ function createOtherAttributes(productTreeData) {
   }
 }
 
-function createTreeShape(productTreeData) {
-  let treeShapeDiv = document.querySelector("#tree-shape");
-
-  let treeShapeImage = document.createElement("img");
-  treeShapeImage.id = "tree-shape-image";
-  switch (productTreeData[0].treeShape) {
-    case "abies-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/abies/abies-general.svg";
-      break;
-
-    case "acacia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-general.svg";
-      break;
-    case "acacia-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-weeping.svg";
-      break;
-    case "acacia-large":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-large.svg";
-      break;
-
-    case "acer-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-general.svg";
-      break;
-    case "acer-large":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-large.svg";
-      break;
-
-    case "acer-negundo-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-negundo/acer-negundo-general.svg";
-      break;
-
-    case "acer-pseudoplatanus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg";
-      break;
-
-    case "acer-palmatum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg";
-      break;
-    case "acer-palmatum-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg";
-      break;
-    case "acer-palmatum-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-upright.svg";
-      break;
-
-    case "acer-platanoides-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-general.svg";
-      break;
-    case "acer-platanoides-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-upright.svg";
-      break;
-    case "acer-platanoides-topiary":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-topiary.svg";
-      break;
-
-    case "acer-rubrum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg";
-      break;
-    case "acer-rubrum-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg";
-      break;
-
-    case "aesculus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/aesculus/aesculus-general.svg";
-      break;
-
-    case "afrocarpus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/afrocarpus/afrocarpus-general.svg";
-      break;
-
-    case "agathis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/agathis/agathis-general.svg";
-      break;
-
-    case "agonis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/agonis/agonis-general.svg";
-      break;
-
-    case "albizia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/albizia/albizia-general.svg";
-      break;
-
-    case "alectryon-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/alectryon/alectryon-general.svg";
-      break;
-
-    case "almond-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/almond/almond-general.svg";
-      break;
-
-    case "alnus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/alnus/alnus-general.svg";
-      break;
-
-    case "amelanchier-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/amelanchier/amelanchier-general.svg";
-      break;
-
-    case "apple-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/apple/apple-general.svg";
-      break;
-    case "apple-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/apple/apple-weeping.svg";
-      break;
-
-    case "apricot-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/apricot/apricot-general.svg";
-      break;
-
-    case "araucaria-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/araucaria/araucaria-general.svg";
-      break;
-
-    case "arbutus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/arbutus/arbutus-general.svg";
-      break;
-
-    case "astelia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/astelia/astelia-general.svg";
-      break;
-
-    case "avocado-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/avocado/avocado-general.svg";
-      break;
-
-    case "azara-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/azara/azara-general.svg";
-      break;
-
-    case "banksia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/banksia/banksia-general.svg";
-      break;
-
-    case "beilschmiedia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/beilschmiedia/beilschmiedia-general.svg";
-      break;
-
-    case "berberis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/berberis/berberis-general.svg";
-      break;
-
-    case "betula-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-general.svg";
-      break;
-    case "betula-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-weeping.svg";
-      break;
-    case "betula-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-upright.svg";
-      break;
-
-    case "brachychiton-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-general.svg";
-      break;
-    case "brachychiton-large":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-large.svg";
-      break;
-
-    case "buxus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/buxus/buxus-general.svg";
-      break;
-
-    case "callistemon-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-general.svg";
-      break;
-    case "callistemon-large":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-large.svg";
-      break;
-    case "callistemon-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-weeping.svg";
-      break;
-
-    case "camellia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/camellia/camellia-general.svg";
-      break;
-
-    case "carpinus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-general.svg";
-      break;
-    case "carpinus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-upright.svg";
-      break;
-
-    case "carpodetus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/carpodetus/carpodetus-general.svg";
-      break;
-
-    case "castanea-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/castanea/castanea-general.svg";
-      break;
-
-    case "catalpa-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/catalpa/catalpa-general.svg";
-      break;
-
-    case "cedrela-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cedrela/cedrela-general.svg";
-      break;
-
-    case "cedrus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-general.svg";
-      break;
-    case "cedrus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-weeping.svg";
-      break;
-
-    case "celtis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/celtis/celtis-general.svg";
-      break;
-
-    case "cercidiphyllum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-general.svg";
-      break;
-    case "cercidiphyllum-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-weeping.svg";
-      break;
-
-    case "cercis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-general.svg";
-      break;
-    case "cercis-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-weeping.svg";
-      break;
-
-    case "chamaecyparis-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/chamaecyparis/chamaecyparis-general.svg";
-      break;
-
-    case "cherry-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cherry/cherry-general.svg";
-      break;
-
-    case "chimonanthus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/chimonanthus/chimonanthus-general.svg";
-      break;
-
-    case "choisya-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/choisya/choisya-general.svg";
-      break;
-
-    case "cinnamomum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cinnamomum/cinnamomum-general.svg";
-      break;
-
-    case "citrus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/citrus/citrus-general.svg";
-      break;
-
-    case "coprosma-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-general.svg";
-      break;
-    case "coprosma-low-growing":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-low-growing.svg";
-      break;
-    case "coprosma-small":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-small.svg";
-      break;
-
-    case "cordyline-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cordyline/cordyline-general.svg";
-      break;
-
-    case "cornus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-general.svg";
-      break;
-    case "cornus-shrub":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-shrub.svg";
-      break;
-    case "cornus-tiered":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-tiered.svg";
-      break;
-    case "cornus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-weeping.svg";
-      break;
-
-    case "corokia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/corokia/corokia-general.svg";
-      break;
-
-    case "corylus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/corylus/corylus-general.svg";
-      break;
-
-    case "corymbia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/corymbia/corymbia-general.svg";
-      break;
-
-    case "corynocarpus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/corynocarpus/corynocarpus-general.svg";
-      break;
-
-    case "cotinus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cotinus/cotinus-general.svg";
-      break;
-
-    case "crataegus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/crataegus/crataegus-general.svg";
-      break;
-
-    case "cryptomeria-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cryptomeria/cryptomeria-general.svg";
-      break;
-
-    case "cupressus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cupressus/cupressus-general.svg";
-      break;
-    case "cupressus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cupressus/cupressus-upright.svg";
-      break;
-
-    case "cyathea-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/cyathea/cyathea-general.svg";
-      break;
-
-    case "dicksonia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/dicksonia/dicksonia-general.svg";
-      break;
-
-    case "eucalyptus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/eucalyptus/eucalyptus-general.svg";
-      break;
-
-    case "fagus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-general.svg";
-      break;
-    case "fagus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-upright.svg";
-      break;
-    case "fagus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-weeping.svg";
-      break;
-
-    case "feijoa-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/feijoa/feijoa-general.svg";
-      break;
-
-    case "fig-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fig/fig-general.svg";
-      break;
-
-    case "fraxinus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-general.svg";
-      break;
-    case "fraxinus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-upright.svg";
-      break;
-    case "fraxinus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-weeping.svg";
-      break;
-    case "fraxinus-bushy":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-bushy.svg";
-      break;
-
-    case "fuscospora-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/fuscospora/fuscospora-general.svg";
-      break;
-
-    case "ginkgo-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-general.svg";
-      break;
-    case "ginkgo-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-upright.svg";
-      break;
-    case "ginkgo-small":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-small.svg";
-      break;
-    case "ginkgo-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-weeping.svg";
-      break;
-
-    case "gleditsia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/gleditsia/gleditsia-general.svg";
-      break;
-    case "gleditsia-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/gleditsia/gleditsia-weeping.svg";
-      break;
-
-    case "griselinia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/griselinia/griselinia-general.svg";
-      break;
-
-    case "hoheria-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/hoheria/hoheria-general.svg";
-      break;
-
-    case "lagerstroemia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg";
-      break;
-
-    case "leptospermum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/leptospermum/leptospermum-general.svg";
-      break;
-
-    case "liquidambar-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-general.svg";
-      break;
-    case "liquidambar-topiary":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg";
-      break;
-
-    case "liriodendron-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-general.svg";
-      break;
-    case "liriodendron-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-upright.svg";
-      break;
-
-    case "lophozonia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/lophozonia/lophozonia-general.svg";
-      break;
-
-    case "magnolia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-general.svg";
-      break;
-    case "magnolia-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-upright.svg";
-      break;
-
-    case "malus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-general.svg";
-      break;
-    case "malus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-upright.svg";
-      break;
-    case "malus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-weeping.svg";
-      break;
-
-    case "metrosideros-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/metrosideros/metrosideros-general.svg";
-      break;
-
-    case "michelia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/michelia/michelia-general.svg";
-      break;
-
-    case "nectarine-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/nectarine/nectarine-general.svg";
-      break;
-
-    case "nyssa-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-general.svg";
-      break;
-    case "nyssa-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-weeping.svg";
-      break;
-
-    case "olearia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/olearia/olearia-general.svg";
-      break;
-
-    case "olive-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/olive/olive-general.svg";
-      break;
-
-    case "peach-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/peach/peach-general.svg";
-      break;
-
-    case "pear-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pear/pear-general.svg";
-      break;
-
-    case "photinia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/photinia/photinia-general.svg";
-      break;
-
-    case "picea-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-general.svg";
-      break;
-    case "picea-tall":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-tall.svg";
-      break;
-
-    case "pittosporum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";
-      break;
-    case "pittosporum-low-growing":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg";
-      break;
-
-    case "platanus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-general.svg";
-      break;
-    case "platanus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-upright.svg";
-      break;
-
-    case "plum-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/plum/plum-general.svg";
-      break;
-
-    case "podocarpus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/podocarpus/podocarpus-general.svg";
-      break;
-
-    case "prunus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-general.svg";
-      break;
-    case "prunus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-weeping.svg";
-      break;
-    case "prunus-bushy":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-bushy.svg";
-      break;
-    case "prunus-pillar":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-pillar.svg";
-      break;
-
-    case "pseudopanax-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg";
-      break;
-    case "pseudopanax-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-upright.svg";
-      break;
-
-    case "pyrus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-general.svg";
-      break;
-    case "pyrus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-weeping.svg";
-      break;
-    case "pyrus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-upright.svg";
-      break;
-
-    case "quercus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-general.svg";
-      break;
-    case "quercus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-upright.svg";
-      break;
-
-    case "quince-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/quince/quince-general.svg";
-      break;
-
-    case "robinia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-general.svg";
-      break;
-    case "robinia-topiary":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-topiary.svg";
-      break;
-
-    case "salix-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-general.svg";
-      break;
-    case "salix-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-weeping.svg";
-      break;
-
-    case "sequoia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/sequoia/sequoia-general.svg";
-      break;
-
-    case "sophora-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-general.svg";
-      break;
-    case "sophora-bushy":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-bushy.svg";
-      break;
-    case "sophora-low-bushy":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-low-bushy.svg";
-      break;
-
-    case "tilia-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-general.svg";
-      break;
-    case "tilia-tall-graceful":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-tall-graceful.svg";
-      break;
-
-    case "ulmus-general":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-general.svg";
-      break;
-    case "ulmus-horizontal":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-horizontal.svg";
-      break;
-    case "ulmus-weeping":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-weeping.svg";
-      break;
-    case "ulmus-small":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-small.svg";
-      break;
-    case "ulmus-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-upright.svg";
-      break;
-    case "ulmus-semi-upright":
-      treeShapeImage.src =
-        "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-semi-upright.svg";
-      break;
-
-    default:
-      break;
-  }
-
-  let heightDiv = document.createElement("div");
-  heightDiv.id = "height-div";
-  let heightSpan = document.createElement("span");
-  heightSpan.id = "height-span";
-  heightSpan.textContent = productTreeData[0].height;
-
-  let heightUpArrow = document.createElement("span");
-  heightUpArrow.textContent = "↑";
-  heightUpArrow.classList.add("arrow");
-  heightUpArrow.id = "arrow-up";
-
-  let heightDownArrow = document.createElement("span");
-  heightDownArrow.textContent = "↓";
-  heightDownArrow.classList.add("arrow");
-  heightDownArrow.id = "arrow-down";
-
-  heightDiv.appendChild(heightUpArrow);
-  heightDiv.appendChild(heightSpan);
-  heightDiv.appendChild(heightDownArrow);
-
-  let widthDiv = document.createElement("div");
-  widthDiv.id = "width-div";
-  let widthSpan = document.createElement("span");
-  widthSpan.id = "width-span";
-  widthSpan.textContent = productTreeData[0].width;
-
-  let widthLeftArrow = document.createElement("span");
-  widthLeftArrow.textContent = "←";
-  widthLeftArrow.classList.add("arrow");
-  widthLeftArrow.id = "arrow-left";
-
-  let widthRightArrow = document.createElement("span");
-  widthRightArrow.textContent = "→";
-  widthRightArrow.classList.add("arrow");
-  widthRightArrow.id = "arrow-right";
-
-  widthDiv.appendChild(widthLeftArrow);
-  widthDiv.appendChild(widthSpan);
-  widthDiv.appendChild(widthRightArrow);
-
-  treeShapeDiv.appendChild(treeShapeImage);
-  treeShapeDiv.appendChild(heightDiv);
-  treeShapeDiv.appendChild(widthDiv);
-}
+// function createTreeShape(productTreeData) {
+//   let treeShapeDiv = document.querySelector("#tree-shape");
+
+//   let treeShapeImage = document.createElement("img");
+//   treeShapeImage.id = "tree-shape-image";
+//   switch (productTreeData[0].treeShape) {
+//     case "abies-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/abies/abies-general.svg";
+//       break;
+
+//     case "acacia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-general.svg";
+//       break;
+//     case "acacia-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-weeping.svg";
+//       break;
+//     case "acacia-large":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acacia/acacia-large.svg";
+//       break;
+
+//     case "acer-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-general.svg";
+//       break;
+//     case "acer-large":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer/acer-large.svg";
+//       break;
+
+//     case "acer-negundo-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-negundo/acer-negundo-general.svg";
+//       break;
+
+//     case "acer-pseudoplatanus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg";
+//       break;
+
+//     case "acer-palmatum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg";
+//       break;
+//     case "acer-palmatum-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg";
+//       break;
+//     case "acer-palmatum-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-palmatum/acer-palmatum-upright.svg";
+//       break;
+
+//     case "acer-platanoides-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-general.svg";
+//       break;
+//     case "acer-platanoides-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-upright.svg";
+//       break;
+//     case "acer-platanoides-topiary":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-platanoides/acer-platanoides-topiary.svg";
+//       break;
+
+//     case "acer-rubrum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg";
+//       break;
+//     case "acer-rubrum-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg";
+//       break;
+
+//     case "aesculus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/aesculus/aesculus-general.svg";
+//       break;
+
+//     case "afrocarpus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/afrocarpus/afrocarpus-general.svg";
+//       break;
+
+//     case "agathis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/agathis/agathis-general.svg";
+//       break;
+
+//     case "agonis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/agonis/agonis-general.svg";
+//       break;
+
+//     case "albizia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/albizia/albizia-general.svg";
+//       break;
+
+//     case "alectryon-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/alectryon/alectryon-general.svg";
+//       break;
+
+//     case "almond-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/almond/almond-general.svg";
+//       break;
+
+//     case "alnus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/alnus/alnus-general.svg";
+//       break;
+
+//     case "amelanchier-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/amelanchier/amelanchier-general.svg";
+//       break;
+
+//     case "apple-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/apple/apple-general.svg";
+//       break;
+//     case "apple-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/apple/apple-weeping.svg";
+//       break;
+
+//     case "apricot-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/apricot/apricot-general.svg";
+//       break;
+
+//     case "araucaria-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/araucaria/araucaria-general.svg";
+//       break;
+
+//     case "arbutus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/arbutus/arbutus-general.svg";
+//       break;
+
+//     case "astelia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/astelia/astelia-general.svg";
+//       break;
+
+//     case "avocado-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/avocado/avocado-general.svg";
+//       break;
+
+//     case "azara-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/azara/azara-general.svg";
+//       break;
+
+//     case "banksia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/banksia/banksia-general.svg";
+//       break;
+
+//     case "beilschmiedia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/beilschmiedia/beilschmiedia-general.svg";
+//       break;
+
+//     case "berberis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/berberis/berberis-general.svg";
+//       break;
+
+//     case "betula-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-general.svg";
+//       break;
+//     case "betula-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-weeping.svg";
+//       break;
+//     case "betula-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/betula/betula-upright.svg";
+//       break;
+
+//     case "brachychiton-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-general.svg";
+//       break;
+//     case "brachychiton-large":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/brachychiton/brachychiton-large.svg";
+//       break;
+
+//     case "buxus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/buxus/buxus-general.svg";
+//       break;
+
+//     case "callistemon-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-general.svg";
+//       break;
+//     case "callistemon-large":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-large.svg";
+//       break;
+//     case "callistemon-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/callistemon/callistemon-weeping.svg";
+//       break;
+
+//     case "camellia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/camellia/camellia-general.svg";
+//       break;
+
+//     case "carpinus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-general.svg";
+//       break;
+//     case "carpinus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/carpinus/carpinus-upright.svg";
+//       break;
+
+//     case "carpodetus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/carpodetus/carpodetus-general.svg";
+//       break;
+
+//     case "castanea-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/castanea/castanea-general.svg";
+//       break;
+
+//     case "catalpa-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/catalpa/catalpa-general.svg";
+//       break;
+
+//     case "cedrela-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrela/cedrela-general.svg";
+//       break;
+
+//     case "cedrus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-general.svg";
+//       break;
+//     case "cedrus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-weeping.svg";
+//       break;
+
+//     case "celtis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/celtis/celtis-general.svg";
+//       break;
+
+//     case "cercidiphyllum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-general.svg";
+//       break;
+//     case "cercidiphyllum-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-weeping.svg";
+//       break;
+
+//     case "cercis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-general.svg";
+//       break;
+//     case "cercis-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-weeping.svg";
+//       break;
+
+//     case "chamaecyparis-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/chamaecyparis/chamaecyparis-general.svg";
+//       break;
+
+//     case "cherry-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cherry/cherry-general.svg";
+//       break;
+
+//     case "chimonanthus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/chimonanthus/chimonanthus-general.svg";
+//       break;
+
+//     case "choisya-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/choisya/choisya-general.svg";
+//       break;
+
+//     case "cinnamomum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cinnamomum/cinnamomum-general.svg";
+//       break;
+
+//     case "citrus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/citrus/citrus-general.svg";
+//       break;
+
+//     case "coprosma-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-general.svg";
+//       break;
+//     case "coprosma-low-growing":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-low-growing.svg";
+//       break;
+//     case "coprosma-small":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-small.svg";
+//       break;
+
+//     case "cordyline-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cordyline/cordyline-general.svg";
+//       break;
+
+//     case "cornus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-general.svg";
+//       break;
+//     case "cornus-shrub":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-shrub.svg";
+//       break;
+//     case "cornus-tiered":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-tiered.svg";
+//       break;
+//     case "cornus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cornus/cornus-weeping.svg";
+//       break;
+
+//     case "corokia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/corokia/corokia-general.svg";
+//       break;
+
+//     case "corylus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/corylus/corylus-general.svg";
+//       break;
+
+//     case "corymbia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/corymbia/corymbia-general.svg";
+//       break;
+
+//     case "corynocarpus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/corynocarpus/corynocarpus-general.svg";
+//       break;
+
+//     case "cotinus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cotinus/cotinus-general.svg";
+//       break;
+
+//     case "crataegus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/crataegus/crataegus-general.svg";
+//       break;
+
+//     case "cryptomeria-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cryptomeria/cryptomeria-general.svg";
+//       break;
+
+//     case "cunonia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cunonia/cunonia-general.svg";
+//       break;
+
+//     case "cupressus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cupressus/cupressus-general.svg";
+//       break;
+//     case "cupressus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cupressus/cupressus-upright.svg";
+//       break;
+
+//     case "cyathea-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/cyathea/cyathea-general.svg";
+//       break;
+
+//     case "dicksonia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/dicksonia/dicksonia-general.svg";
+//       break;
+
+//     case "eucalyptus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/eucalyptus/eucalyptus-general.svg";
+//       break;
+
+//     case "fagus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-general.svg";
+//       break;
+//     case "fagus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-upright.svg";
+//       break;
+//     case "fagus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fagus/fagus-weeping.svg";
+//       break;
+
+//     case "feijoa-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/feijoa/feijoa-general.svg";
+//       break;
+
+//     case "fig-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fig/fig-general.svg";
+//       break;
+
+//     case "fraxinus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-general.svg";
+//       break;
+//     case "fraxinus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-upright.svg";
+//       break;
+//     case "fraxinus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-weeping.svg";
+//       break;
+//     case "fraxinus-bushy":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fraxinus/fraxinus-bushy.svg";
+//       break;
+
+//     case "fuscospora-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/fuscospora/fuscospora-general.svg";
+//       break;
+
+//     case "ginkgo-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-general.svg";
+//       break;
+//     case "ginkgo-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-upright.svg";
+//       break;
+//     case "ginkgo-small":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-small.svg";
+//       break;
+//     case "ginkgo-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ginkgo/ginkgo-weeping.svg";
+//       break;
+
+//     case "gleditsia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/gleditsia/gleditsia-general.svg";
+//       break;
+//     case "gleditsia-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/gleditsia/gleditsia-weeping.svg";
+//       break;
+
+//     case "griselinia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/griselinia/griselinia-general.svg";
+//       break;
+
+//     case "hoheria-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/hoheria/hoheria-general.svg";
+//       break;
+
+//     case "lagerstroemia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg";
+//       break;
+
+//     case "leptospermum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/leptospermum/leptospermum-general.svg";
+//       break;
+
+//     case "liquidambar-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-general.svg";
+//       break;
+//     case "liquidambar-topiary":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg";
+//       break;
+
+//     case "liriodendron-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-general.svg";
+//       break;
+//     case "liriodendron-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/liriodendron/liriodendron-upright.svg";
+//       break;
+
+//     case "lophozonia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/lophozonia/lophozonia-general.svg";
+//       break;
+
+//     case "magnolia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-general.svg";
+//       break;
+//     case "magnolia-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/magnolia/magnolia-upright.svg";
+//       break;
+
+//     case "malus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-general.svg";
+//       break;
+//     case "malus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-upright.svg";
+//       break;
+//     case "malus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/malus/malus-weeping.svg";
+//       break;
+
+//     case "metrosideros-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/metrosideros/metrosideros-general.svg";
+//       break;
+
+//     case "michelia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/michelia/michelia-general.svg";
+//       break;
+
+//     case "nectarine-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/nectarine/nectarine-general.svg";
+//       break;
+
+//     case "nyssa-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-general.svg";
+//       break;
+//     case "nyssa-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/nyssa/nyssa-weeping.svg";
+//       break;
+
+//     case "olearia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/olearia/olearia-general.svg";
+//       break;
+
+//     case "olive-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/olive/olive-general.svg";
+//       break;
+
+//     case "peach-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/peach/peach-general.svg";
+//       break;
+
+//     case "pear-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pear/pear-general.svg";
+//       break;
+
+//     case "photinia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/photinia/photinia-general.svg";
+//       break;
+
+//     case "picea-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-general.svg";
+//       break;
+//     case "picea-tall":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/picea/picea-tall.svg";
+//       break;
+
+//     case "pittosporum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-general.svg";
+//       break;
+//     case "pittosporum-low-growing":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg";
+//       break;
+
+//     case "platanus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-general.svg";
+//       break;
+//     case "platanus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/platanus/platanus-upright.svg";
+//       break;
+
+//     case "plum-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/plum/plum-general.svg";
+//       break;
+
+//     case "podocarpus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/podocarpus/podocarpus-general.svg";
+//       break;
+
+//     case "prunus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-general.svg";
+//       break;
+//     case "prunus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-weeping.svg";
+//       break;
+//     case "prunus-bushy":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-bushy.svg";
+//       break;
+//     case "prunus-pillar":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/prunus/prunus-pillar.svg";
+//       break;
+
+//     case "pseudopanax-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg";
+//       break;
+//     case "pseudopanax-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pseudopanax/pseudopanax-upright.svg";
+//       break;
+
+//     case "pyrus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-general.svg";
+//       break;
+//     case "pyrus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-weeping.svg";
+//       break;
+//     case "pyrus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/pyrus/pyrus-upright.svg";
+//       break;
+
+//     case "quercus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-general.svg";
+//       break;
+//     case "quercus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/quercus/quercus-upright.svg";
+//       break;
+
+//     case "quince-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/quince/quince-general.svg";
+//       break;
+
+//     case "robinia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-general.svg";
+//       break;
+//     case "robinia-topiary":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/robinia/robinia-topiary.svg";
+//       break;
+
+//     case "salix-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-general.svg";
+//       break;
+//     case "salix-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/salix/salix-weeping.svg";
+//       break;
+
+//     case "sequoia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/sequoia/sequoia-general.svg";
+//       break;
+
+//     case "sophora-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-general.svg";
+//       break;
+//     case "sophora-bushy":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-bushy.svg";
+//       break;
+//     case "sophora-low-bushy":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/sophora/sophora-low-bushy.svg";
+//       break;
+
+//     case "tilia-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-general.svg";
+//       break;
+//     case "tilia-tall-graceful":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/tilia/tilia-tall-graceful.svg";
+//       break;
+
+//     case "ulmus-general":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-general.svg";
+//       break;
+//     case "ulmus-horizontal":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-horizontal.svg";
+//       break;
+//     case "ulmus-weeping":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-weeping.svg";
+//       break;
+//     case "ulmus-small":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-small.svg";
+//       break;
+//     case "ulmus-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-upright.svg";
+//       break;
+//     case "ulmus-semi-upright":
+//       treeShapeImage.src =
+//         "https://files.leafland.co.nz/images/icons/tree-shapes/ulmus/ulmus-semi-upright.svg";
+//       break;
+
+//     default:
+//       break;
+//   }
+
+//   let heightDiv = document.createElement("div");
+//   heightDiv.id = "height-div";
+//   let heightSpan = document.createElement("span");
+//   heightSpan.id = "height-span";
+//   heightSpan.textContent = productTreeData[0].height;
+
+//   let heightUpArrow = document.createElement("span");
+//   heightUpArrow.textContent = "↑";
+//   heightUpArrow.classList.add("arrow");
+//   heightUpArrow.id = "arrow-up";
+
+//   let heightDownArrow = document.createElement("span");
+//   heightDownArrow.textContent = "↓";
+//   heightDownArrow.classList.add("arrow");
+//   heightDownArrow.id = "arrow-down";
+
+//   heightDiv.appendChild(heightUpArrow);
+//   heightDiv.appendChild(heightSpan);
+//   heightDiv.appendChild(heightDownArrow);
+
+//   let widthDiv = document.createElement("div");
+//   widthDiv.id = "width-div";
+//   let widthSpan = document.createElement("span");
+//   widthSpan.id = "width-span";
+//   widthSpan.textContent = productTreeData[0].width;
+
+//   let widthLeftArrow = document.createElement("span");
+//   widthLeftArrow.textContent = "←";
+//   widthLeftArrow.classList.add("arrow");
+//   widthLeftArrow.id = "arrow-left";
+
+//   let widthRightArrow = document.createElement("span");
+//   widthRightArrow.textContent = "→";
+//   widthRightArrow.classList.add("arrow");
+//   widthRightArrow.id = "arrow-right";
+
+//   widthDiv.appendChild(widthLeftArrow);
+//   widthDiv.appendChild(widthSpan);
+//   widthDiv.appendChild(widthRightArrow);
+
+//   treeShapeDiv.appendChild(treeShapeImage);
+//   treeShapeDiv.appendChild(heightDiv);
+//   treeShapeDiv.appendChild(widthDiv);
+// }
 
 async function populateTreeAttributes(productTreeData) {
-  createTreeShape(productTreeData);
+  // createTreeShape(productTreeData);
   createFoliageAttributes(productTreeData);
   createFlowerAttributes(productTreeData);
   // createFruitAttributes(productTreeData);
