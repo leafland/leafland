@@ -6003,7 +6003,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "corylus-general"
   },
   {
      "botanicalName":"Corymbia ficifolia",
@@ -6040,7 +6041,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"corynocarpus-general"
   },
   {
      "botanicalName":"Cotinus coggygria 'Golden Spirit'",

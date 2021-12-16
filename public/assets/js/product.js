@@ -1416,9 +1416,19 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/corokia/corokia-general.svg";
       break;
 
+    case "corylus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/corylus/corylus-general.svg";
+      break;
+
     case "corymbia-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/corymbia/corymbia-general.svg";
+      break;
+
+    case "corynocarpus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/corynocarpus/corynocarpus-general.svg";
       break;
 
     case "cotinus-general":
