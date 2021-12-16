@@ -6156,7 +6156,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"crataegus-general"
   },
   {
      "botanicalName":"Crataegus laevigata 'Rosea Flore Pleno'",
@@ -6175,7 +6175,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"crataegus-general"
   },
   {
      "botanicalName":"Cryptomeria japonica",
@@ -6194,7 +6194,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-screening"
+     "topTrees":"hedging-screening",
+     "treeShape": "cryptomeria-general"
   },
   {
      "botanicalName":"Cryptomeria japonica 'Egmont'",
@@ -6212,7 +6213,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape": "cryptomeria-general"
   },
   {
      "botanicalName":"Cunonia capensis",

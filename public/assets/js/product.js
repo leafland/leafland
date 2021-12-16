@@ -1436,6 +1436,16 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/cotinus/cotinus-general.svg";
       break;
 
+    case "crataegus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/crataegus/crataegus-general.svg";
+      break;
+
+    case "cryptomeria-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/cryptomeria/cryptomeria-general.svg";
+      break;
+
     case "cupressus-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cupressus/cupressus-general.svg";
