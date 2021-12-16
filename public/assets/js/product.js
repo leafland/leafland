@@ -1356,6 +1356,21 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/cherry/cherry-general.svg";
       break;
 
+    case "chimonanthus-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/chimonanthus/chimonanthus-general.svg";
+      break;
+
+    case "choisya-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/choisya/choisya-general.svg";
+      break;
+
+    case "cinnamomum-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/cinnamomum/cinnamomum-general.svg";
+      break;
+
     case "citrus-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/citrus/citrus-general.svg";

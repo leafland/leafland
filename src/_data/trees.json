@@ -4501,15 +4501,15 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"chimonanthus-general"
   },
   {
      "botanicalName":"Choisya ternata",
      "commonName":"Mexican Orange Blossom",
      "url":"choisya-ternata-mexican-orange-blossom",
-     "description":"Compact, rounded bush with a distinctive fragrance. Attractive, deep-green leaves. Fantastic for hedging or as a gap filler in the garden. Hardy. Produces clusters of pure-white flowers throughout spring.",
+     "description":"Compact, rounded bush with a distinctive fragrance. Attractive, deep-green leaves. Fantastic for hedging or as a gap filler in the garden. Hardy. Produces clusters of pure-white flowers throughout spring. Tolerates drought and prefers well-drained soils.",
      "uses":"hedging-screening, attracts-bees",
-     "tolerates":"",
+     "tolerates":"dry",
      "winterFoliage":"evergreen",
      "origin":"exotic",
      "types":"",
@@ -4520,7 +4520,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"choisya-general"
   },
   {
      "botanicalName":"Cinnamomum camphora",
@@ -4539,7 +4539,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"cinnamomum-general"
   },
   {
      "botanicalName":"Citrus grapefruit 'Golden Special'",
