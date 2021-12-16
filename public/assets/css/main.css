@@ -113,6 +113,7 @@ h6 {
   );
 
   --shadow-color: 128deg 10% 67%;
+  --default-animation-easing: cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 [data-theme="dark"] {
@@ -332,7 +333,7 @@ h3 {
   text-transform: uppercase;
   font-weight: bold;
   line-height: 1.2;
-  transition: color 0.25s;
+  transition: color 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 h1 {
@@ -368,7 +369,7 @@ input[type="submit"] {
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
   background: none;
-  transition: all 0.3s;
+  transition: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
   cursor: pointer;
   border-radius: 8px;
   font-size: 1rem;
@@ -379,7 +380,7 @@ input[type="submit"] {
 a {
   text-decoration: none;
   color: var(--primary-text);
-  transition: color 0.25s;
+  transition: color 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 h1 {
@@ -421,7 +422,7 @@ input {
 
 #content {
   opacity: 0;
-  transition: opacity 1s;
+  transition: opacity 1s cubic-bezier(0.31, 0.87, 0.32, 1);
   overflow-y: hidden;
 }
 
@@ -462,7 +463,7 @@ header {
   gap: 1rem;
   padding: 1rem;
   opacity: 0;
-  transition: opacity 1s;
+  transition: opacity 1s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 body.page-loaded #header {

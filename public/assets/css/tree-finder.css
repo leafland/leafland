@@ -28,7 +28,7 @@ input[type="checkbox"] {
 
 .tree-item-loaded {
   animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    cubic-bezier(0.31, 0.87, 0.32, 1);
+    var(--default-animation-easing);
   visibility: visible;
 }
 
@@ -82,7 +82,7 @@ input[type="checkbox"] {
   border: 2px solid var(--secondary-background);
   color: var(--secondary-background);
   background: none;
-  transition: all 0.3s;
+  transition: all 0.3s var(--default-animation-easing);
 }
 
 .title-container {
@@ -102,7 +102,7 @@ main h1 {
   display: grid;
   grid-gap: 2rem;
   grid-template-columns: 1fr;
-  transition: opacity 1s;
+  transition: opacity 1s var(--default-animation-easing);
   opacity: 1;
 }
 
@@ -195,7 +195,7 @@ details > summary {
 
 #filter .right-icon {
   display: block;
-  transition: transform 0.3s;
+  transition: transform 0.3s var(--default-animation-easing);
 }
 
 #filter .down-icon {

@@ -27,7 +27,7 @@
   width: 100%;
   height: 90%;
   opacity: 0;
-  transition: opacity 0.5s;
+  transition: opacity 0.5s var(--default-animation-easing);
 }
 
 body.search-loaded #search-results {
@@ -76,7 +76,7 @@ body.search-loaded #search-results {
 
 .search-result-loaded {
   animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    cubic-bezier(0.31, 0.87, 0.32, 1);
+    var(--default-animation-easing);
 }
 
 .search-result > * {
@@ -115,7 +115,7 @@ body.search-loaded #search-results {
   height: 100%;
   width: 100%;
   background: var(--primary-background);
-  transition: all 0.5s;
+  transition: all 0.5s var(--default-animation-easing);
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;

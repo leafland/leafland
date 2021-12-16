@@ -43,7 +43,7 @@ main h2 {
 
 #success-message {
   opacity: 0;
-  transition: all 0.5s ease;
+  transition: all 0.5s var(--default-animation-easing);
   position: fixed;
   top: 1rem;
   left: 0;
@@ -185,15 +185,15 @@ main
 }
 
 body.page-loaded #grid-content-left {
-  animation: fadeInUp 0.75s forwards cubic-bezier(0.31, 0.87, 0.32, 1);
+  animation: fadeInUp 0.75s forwards var(--default-animation-easing);
 }
 
 body.page-loaded #grid-content-right {
-  animation: fadeInUp 0.75s 200ms forwards cubic-bezier(0.31, 0.87, 0.32, 1);
+  animation: fadeInUp 0.75s 200ms forwards var(--default-animation-easing);
 }
 
 body.page-loaded #order-block {
-  animation: fadeInUp 0.75s 400ms forwards cubic-bezier(0.31, 0.87, 0.32, 1);
+  animation: fadeInUp 0.75s 400ms forwards var(--default-animation-easing);
 }
 
 .tree-description {
@@ -202,7 +202,7 @@ body.page-loaded #order-block {
 
 .main-img {
   opacity: 0;
-  transition: all 0.5s;
+  transition: all 0.5s var(--default-animation-easing);
 }
 
 #main-image {
@@ -250,7 +250,7 @@ body.page-loaded #order-block {
 #main-image-inner {
   width: 100%;
   height: 400px;
-  transition: all 0.5s;
+  transition: all 0.5s var(--default-animation-easing);
 }
 
 #main-image-inner img {
@@ -293,7 +293,7 @@ body.page-loaded #order-block {
   position: absolute;
   top: -40px;
   font-size: 0.8rem;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.3s var(--default-animation-easing);
   display: inline-block;
   background: var(--primary-background);
   border-radius: 4px;
@@ -455,7 +455,7 @@ body.page-loaded #order-block {
   width: 100%;
   height: 100%;
   background-color: var(--primary-background);
-  transition: all 0.5s;
+  transition: all 0.5s var(--default-animation-easing);
   visibility: hidden;
   display: grid;
   grid-template-rows: auto 1fr;
@@ -467,9 +467,6 @@ body.lightbox-open #image-lightbox {
   opacity: 1;
   z-index: 8;
   visibility: visible;
-}
-
-#image-lightbox-inner {
 }
 
 #image-lightbox-div {
@@ -636,7 +633,7 @@ body.loggedIn #retail-price {
 
 .related-tree-loaded {
   animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    cubic-bezier(0.31, 0.87, 0.32, 1);
+    var(--default-animation-easing);
   visibility: visible;
 }
 
@@ -691,7 +688,7 @@ body.loggedIn #retail-price {
   border: 2px solid var(--secondary-background);
   color: var(--secondary-background);
   background: none;
-  transition: all 0.3s;
+  transition: all 0.3s var(--default-animation-easing);
 }
 
 #stock-information {
