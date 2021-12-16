@@ -298,16 +298,19 @@ body.page-loaded #order-block {
   background: var(--primary-background);
   border-radius: 4px;
   padding: 0.3rem 0.6rem;
-  min-width: 100px;
   font-weight: bold;
   white-space: nowrap;
+}
+
+.tooltip::first-letter {
+  text-transform: uppercase;
 }
 
 .tree-icon {
   border: none;
 }
 
-#tree-attributes {
+#tree-icons {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
@@ -723,11 +726,11 @@ body.loggedIn #retail-price {
     background: none;
     color: var(--primary-text);
   }
-  .wet:hover + .wet-tooltip {
+  .tree-icon:hover + .tooltip {
     opacity: 1;
   }
 
-  .dry:hover + .dry-tooltip {
+  /* .dry:hover + .dry-tooltip {
     opacity: 1;
   }
 
@@ -737,7 +740,7 @@ body.loggedIn #retail-price {
 
   .clay:hover + .clay-tooltip {
     opacity: 1;
-  }
+  } */
 
   .tree-content a:hover {
     color: var(--primary-text);

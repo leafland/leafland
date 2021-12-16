@@ -50,7 +50,7 @@ type: product
 
                     <div id="color-section">
 
-                        {% if foliageColor !== "" %}
+                        {% if foliageColor !== "" and foliageColor.length > 0 %}
 
                             <div class="color-div">
 
@@ -70,7 +70,7 @@ type: product
 
                         {% endif %}
 
-                        {% if autumnColor !== "" %}
+                        {% if autumnColor !== "" and autumnColor.length > 0 %}
 
                             <div class="color-div">
 
@@ -90,7 +90,7 @@ type: product
 
                         {% endif %}
 
-                        {% if flowerColor !== "" %}
+                        {% if flowerColor !== "" and flowerColor.length > 0 %}
 
                             <div class="color-div">
 
@@ -114,7 +114,85 @@ type: product
 
                     <div id="tree-icons">
 
-                        <div id="tree-attributes"></div>
+                        {% if tolerates !== "" and tolerates.length > 0 %}
+
+                            {% for item in tolerates.split(", ") %}
+
+                                <div class="icon-div">
+                                
+                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                    <span class="tooltip">Tolerates {{ item }} sites</span>
+                                
+                                </div>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if types !== "" and types.length > 0 %}
+
+                            {% for item in types.split(", ") %}
+
+                                <div class="icon-div">
+                                
+                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                    <span class="tooltip">{{ item }}</span>
+                                
+                                </div>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if uses !== "" and uses.length > 0 %}
+
+                            {% for item in uses.split(", ") %}
+
+                                {% if item.search('-') !== -1 %}
+
+                                    <div class="icon-div">
+                                    
+                                        <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                        <span class="tooltip">{{ item.replace('-', ' ').replace('-', ' ') }}</span>
+                                    
+                                    </div>
+
+                                {% else %}
+
+                                    <div class="icon-div">
+                                    
+                                        <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                        <span class="tooltip">{{ item }}</span>
+                                    
+                                    </div>
+
+                                {% endif %}
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if origin !== "" and origin.length > 0 %}
+
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg">
+                                <span class="tooltip">{{ origin }}</span>
+                            
+                            </div>
+
+                        {% endif %}
+
+                        {% if winterFoliage !== "" and winterFoliage.length > 0 %}
+
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg">
+                                <span class="tooltip">{{ winterFoliage }}</span>
+                            
+                            </div>
+
+                        {% endif %}
 
                     </div>
 
