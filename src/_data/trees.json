@@ -3986,7 +3986,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"castanea-general"
   },
   {
      "botanicalName":"Castanea sativa '1005'",
@@ -4005,7 +4005,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "treeShape":"upright-spreader"
+     "treeShape":"castanea-general"
   },
   {
      "botanicalName":"Catalpa bignonioides",
@@ -4024,7 +4024,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"catalpa-general"
   },
   {
      "botanicalName":"Cedrela sinensis 'Flamingo'",
