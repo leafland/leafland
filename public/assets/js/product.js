@@ -1309,6 +1309,11 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/catalpa/catalpa-general.svg";
       break;
 
+    case "cedrela-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/cedrela/cedrela-general.svg";
+      break;
+
     case "cedrus-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-general.svg";
