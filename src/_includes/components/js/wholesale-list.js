@@ -81,17 +81,6 @@ async function displayData(dataSet, wholesaleStart, wholesaleEnd) {
 
         cell.textContent = dataSet[i][j];
 
-        // on the ready total column, change background colors depending on stock levels
-        if (j === 8) {
-          if (parseInt(dataSet[i][8], 10) <= 0) {
-            cell.classList.add("ready-red");
-          } else if (parseInt(dataSet[i][8], 10) < 10) {
-            cell.classList.add("ready-yellow");
-          } else {
-            cell.classList.add("ready-green");
-          }
-        }
-
         row.appendChild(cell);
       }
 

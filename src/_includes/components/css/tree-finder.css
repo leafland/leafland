@@ -129,14 +129,6 @@ main h1 {
   gap: 2rem;
 }
 
-/* #select-filter-title {
-  display: block;
-}
-
-#checkbox-filter-title {
-  display: none;
-} */
-
 select[multiple] {
   display: block;
   margin-bottom: 3rem;
@@ -206,10 +198,6 @@ details > summary {
   transform: rotate(90deg);
 }
 
-/* #filter details[open] > summary .down-icon {
-  display: block;
-} */
-
 @media (min-width: 1000px) {
   #tree-wrapper {
     grid-template-columns: repeat(2, 1fr);
@@ -228,7 +216,6 @@ details > summary {
     grid-column-end: 3;
   }
   select[multiple],
-  /* #select-filter-title, */
   #clear-select-filter {
     display: none;
   }
@@ -253,7 +240,6 @@ details > summary {
   }
 
   #filter-container,
-  /* #checkbox-filter-title, */
   #clear-checkbox-filter {
     display: block;
   }

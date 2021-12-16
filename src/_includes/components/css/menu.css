@@ -41,7 +41,6 @@
   margin: 0;
   padding: 0;
   display: grid;
-  /* transition: opacity 0.3s; */
   grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
   grid-gap: 3rem;
   place-content: center;

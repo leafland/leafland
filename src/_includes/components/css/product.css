@@ -88,14 +88,6 @@ main h2 {
   height: 40px;
 }
 
-/* #grade-select div:last-child {
-  align-self: end;
-}
-
-#grade-select div:last-child label {
-  margin-bottom: 0.5rem;
-} */
-
 #grade-select div {
   align-self: flex-end;
   display: flex;
@@ -117,7 +109,6 @@ main h2 {
 
 #grade-sizes-heading {
   display: inline-block;
-  /* border-bottom: 5px solid var(--brand-light); */
 }
 
 #stock-values {
@@ -729,18 +720,6 @@ body.loggedIn #retail-price {
   .tree-icon:hover + .tooltip {
     opacity: 1;
   }
-
-  /* .dry:hover + .dry-tooltip {
-    opacity: 1;
-  }
-
-  .windy:hover + .windy-tooltip {
-    opacity: 1;
-  }
-
-  .clay:hover + .clay-tooltip {
-    opacity: 1;
-  } */
 
   .tree-content a:hover {
     color: var(--primary-text);

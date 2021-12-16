@@ -294,7 +294,6 @@ body > footer {
 }
 
 #view {
-  /* position: relative; */
   transition: transform 0.5s ease;
 }
 main {

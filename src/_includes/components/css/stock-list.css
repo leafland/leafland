@@ -11,7 +11,6 @@ main {
 }
 
 #stock-data table {
-  /* table-layout: fixed; */
   border-spacing: 0px;
   width: 100%;
 }
@@ -43,30 +42,6 @@ main {
   border-bottom-right-radius: 8px;
 }
 
-/* #stock-data table tr:first-child th:first-child {
-  border-left: 2px solid var(--border-color);
-}
-
-#stock-data table tr:first-child th {
-  border-top: 2px solid var(--border-color);
-}
-
-#stock-data table tr td:first-child {
-  border-left: 2px solid var(--border-color);
-}
-
-#stock-data table tr td:last-child {
-  border-right: 2px solid var(--border-color);
-}
-
-#stock-data table tr:last-child td {
-  border-bottom: 2px solid var(--border-color);
-}
-
-#stock-data table th {
-  border-right: 2px solid var(--border-color);
-} */
-
 tr:nth-child(even):not(tr:first-child) {
   background: var(--secondary-background);
 }
@@ -89,20 +64,12 @@ tr td:nth-child(2) {
 }
 
 #stock-data table td {
-  /* min-width: 100px; */
   text-overflow: ellipsis;
   white-space: nowrap;
   padding: 4px 8px;
   font-weight: bold;
   font-size: 0.85rem;
 }
-/* #stock-data table td:not(td:last-child) {
-  border-right: 1px solid var(--border-color);
-}
-
-#stock-data table td:not(tr:last-child td) {
-  border-bottom: 1px solid var(--border-color);
-} */
 
 .message {
   font-size: 2rem;
@@ -155,16 +122,6 @@ tr td:nth-child(2) {
   margin-bottom: 2rem;
   font-weight: bold;
 }
-
-/* .ready-red {
-  background-color: #f4c7c3;
-}
-.ready-yellow {
-  background-color: #fce8b2;
-}
-.ready-green {
-  background-color: #00ff00;
-} */
 
 @media (hover: hover) and (pointer: fine) {
   #pagination #next:hover:enabled,
