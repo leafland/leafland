@@ -574,393 +574,393 @@ async function createStockValues() {
   }
 }
 
-function checkColors(colorData, spanNode) {
-  switch (colorData) {
-    case "blue":
-      spanNode.classList.add("blue");
-      break;
-    case "grey":
-      spanNode.classList.add("grey");
-      break;
-    case "red":
-      spanNode.classList.add("red");
-      break;
-    case "orange":
-      spanNode.classList.add("orange");
-      break;
-    case "yellow":
-      spanNode.classList.add("yellow");
-      break;
-    case "purple":
-      spanNode.classList.add("purple");
-      break;
-    case "pink":
-      spanNode.classList.add("pink");
-      break;
-    case "green":
-      spanNode.classList.add("green");
-      break;
-    case "white":
-      spanNode.classList.add("white");
-      break;
-    case "brown":
-      spanNode.classList.add("brown");
-      break;
-    default:
-      break;
-  }
-}
-
-function createFoliageAttributes(productTreeData) {
-  // if (productTreeData[0].winterFoliage.length !== 0) {
-  //   let icon = document.createElement("span");
-
-  //   icon.classList.add("tree-icon");
-
-  //   switch (productTreeData[0].winterFoliage) {
-  //     case "deciduous":
-  //       icon.classList.add("deciduous");
-  //       break;
-  //     case "evergreen":
-  //       icon.classList.add("evergreen");
-  //       break;
-  //     case "semi-evergreen":
-  //       icon.classList.add("semi-evergreen");
-  //       break;
-  //     default:
-  //       break;
-  //   }
-
-  //   treeAttributes.appendChild(icon);
-  // }
-
-  if (productTreeData[0].foliageColor.length !== 0) {
-    let mainDiv = document.createElement("div");
-    mainDiv.classList.add("color-div");
-
-    let foliageColorHeading = document.createElement("p");
-    foliageColorHeading.textContent = "Foliage Colour";
-
-    let colorDiv = document.createElement("div");
-    colorDiv.classList.add("color-spans");
-
-    productTreeData[0].foliageColor.split(", ").forEach((color) => {
-      let innerColor = document.createElement("span");
-      innerColor.classList.add("tree-color");
-
-      checkColors(color, innerColor);
-
-      colorDiv.appendChild(innerColor);
-    });
-
-    mainDiv.appendChild(foliageColorHeading);
-    mainDiv.appendChild(colorDiv);
-    colorSection.appendChild(mainDiv);
-  }
-
-  if (productTreeData[0].autumnColor.length !== 0) {
-    let mainDiv = document.createElement("div");
-    mainDiv.classList.add("color-div");
-
-    let autumnColorHeading = document.createElement("p");
-    autumnColorHeading.textContent = "Autumn Colour";
-
-    let colorDiv = document.createElement("div");
-    colorDiv.classList.add("color-spans");
-
-    productTreeData[0].autumnColor.split(", ").forEach((color) => {
-      let innerColor = document.createElement("span");
-      innerColor.classList.add("tree-color");
-
-      checkColors(color, innerColor);
-
-      colorDiv.appendChild(innerColor);
-    });
-
-    mainDiv.appendChild(autumnColorHeading);
-    mainDiv.appendChild(colorDiv);
-    colorSection.appendChild(mainDiv);
-  }
-}
-
-function createFlowerAttributes(productTreeData) {
-  if (productTreeData[0].flowerColor.length !== 0) {
-    let mainDiv = document.createElement("div");
-    mainDiv.classList.add("color-div");
-
-    let flowerColorHeading = document.createElement("p");
-    flowerColorHeading.textContent = "Flower Colour";
-
-    let colorDiv = document.createElement("div");
-    colorDiv.classList.add("color-spans");
-
-    productTreeData[0].flowerColor.split(", ").forEach((color) => {
-      let innerColor = document.createElement("span");
-      innerColor.classList.add("tree-color");
-
-      checkColors(color, innerColor);
-
-      colorDiv.appendChild(innerColor);
-    });
-
-    mainDiv.appendChild(flowerColorHeading);
-    mainDiv.appendChild(colorDiv);
-    colorSection.appendChild(mainDiv);
-  }
-
-  // let flowersHeading = document.createElement("h2");
-  // flowersHeading.textContent = "Flowers";
-
-  // let flowers = document.createElement("div");
-  // flowers.id = "tree-flowers";
-  // flowers.classList.add("attribute-grid");
-
-  // if (productTreeData[0].floweringSeason.length !== 0) {
-  //   let floweringSeasonDiv = document.createElement("div");
-  //   floweringSeasonDiv.classList.add("attribute-sub-grid");
-
-  //   let floweringSeasonHeading = document.createElement("p");
-  //   floweringSeasonHeading.textContent = `Flowering Season`;
-  //   floweringSeasonHeading.classList.add("attribute-sub-grid-heading");
-
-  //   let floweringSeasonValue = document.createElement("p");
-
-  //   let floweringSeasonArray = productTreeData[0].floweringSeason.split(", ");
-  //   floweringSeasonArray.forEach((season) => {
-  //     if (
-  //       floweringSeasonArray.indexOf(season) ===
-  //       floweringSeasonArray.length - 1
-  //     ) {
-  //       floweringSeasonValue.textContent += season
-  //         .toLowerCase()
-  //         .replace(/\w/, (firstLetter) => firstLetter.toUpperCase());
-  //     } else {
-  //       floweringSeasonValue.textContent +=
-  //         season
-  //           .toLowerCase()
-  //           .replace(/\w/, (firstLetter) => firstLetter.toUpperCase()) + ", ";
-  //     }
-  //   });
-
-  //   floweringSeasonDiv.appendChild(floweringSeasonHeading);
-  //   floweringSeasonDiv.appendChild(floweringSeasonValue);
-  //   flowers.appendChild(floweringSeasonDiv);
-
-  //   if (!treeAttributes.contains(flowersHeading)) {
-  //     treeAttributes.appendChild(flowersHeading);
-  //   }
-  //   if (!treeAttributes.contains(flowers)) {
-  //     treeAttributes.appendChild(flowers);
-  //   }
-  // }
-
-  // if (productTreeData[0].flowerColor.length !== 0) {
-  //   let flowerColorDiv = document.createElement("div");
-  //   flowerColorDiv.classList.add("attribute-sub-grid");
-
-  //   let flowerColorHeading = document.createElement("p");
-  //   flowerColorHeading.classList.add("attribute-sub-grid-heading");
-  //   flowerColorHeading.textContent = "Flower Colour";
-
-  //   let colorDiv = document.createElement("div");
-
-  //   productTreeData[0].flowerColor.split(", ").forEach((color) => {
-  //     let innerColor = document.createElement("span");
-  //     innerColor.classList.add("tree-color");
-
-  //     checkColors(color, innerColor);
-
-  //     colorDiv.appendChild(innerColor);
-  //   });
-
-  //   flowerColorDiv.appendChild(colorDiv);
-  //   flowerColorDiv.appendChild(flowerColorHeading);
-  //   flowers.appendChild(flowerColorDiv);
-
-  //   if (!treeAttributes.contains(flowerColorHeading)) {
-  //     treeAttributes.appendChild(flowerColorHeading);
-  //   }
-  //   if (!treeAttributes.contains(flowers)) {
-  //     treeAttributes.appendChild(flowers);
-  //   }
-  // }
-}
-
-function createFruitAttributes(productTreeData) {
-  let fruitHeading = document.createElement("h2");
-  fruitHeading.textContent = "Fruit";
-
-  let fruit = document.createElement("div");
-  fruit.id = "tree-fruit";
-  fruit.classList.add("attribute-grid");
-
-  if (productTreeData[0].fruitingSeason.length !== 0) {
-    let fruitingSeasonDiv = document.createElement("div");
-    fruitingSeasonDiv.classList.add("attribute-sub-grid");
-
-    let fruitingSeasonHeading = document.createElement("p");
-    fruitingSeasonHeading.classList.add("attribute-sub-grid-heading");
-    fruitingSeasonHeading.textContent = `Fruiting Season`;
-
-    let fruitingSeasonValue = document.createElement("p");
-
-    let fruitingSeasonArray = productTreeData[0].fruitingSeason.split(", ");
-    fruitingSeasonArray.forEach((season) => {
-      if (
-        fruitingSeasonArray.indexOf(season) ===
-        fruitingSeasonArray.length - 1
-      ) {
-        fruitingSeasonValue.textContent += season
-          .toLowerCase()
-          .replace(/\w/, (firstLetter) => firstLetter.toUpperCase());
-      } else {
-        fruitingSeasonValue.textContent +=
-          season
-            .toLowerCase()
-            .replace(/\w/, (firstLetter) => firstLetter.toUpperCase()) + ", ";
-      }
-    });
-
-    fruitingSeasonDiv.appendChild(fruitingSeasonHeading);
-    fruitingSeasonDiv.appendChild(fruitingSeasonValue);
-    fruit.appendChild(fruitingSeasonDiv);
-
-    if (!treeAttributes.contains(fruitHeading)) {
-      treeAttributes.appendChild(fruitHeading);
-    }
-    if (!treeAttributes.contains(fruit)) {
-      treeAttributes.appendChild(fruit);
-    }
-  }
-}
-
-function createUsesAttributes(productTreeData) {
-  let usesHeading = document.createElement("h2");
-  usesHeading.textContent = "Uses";
-
-  let uses = document.createElement("div");
-  uses.id = "tree-uses";
-  uses.classList.add("attribute-grid");
-
-  if (productTreeData[0].uses.length !== 0) {
-    productTreeData[0].uses.split(", ").forEach((type) => {
-      let usesItemDiv = document.createElement("div");
-      usesItemDiv.classList.add("attribute-sub-grid");
-
-      let usesItemValue = document.createElement("p");
-      usesItemValue.classList.add("attribute-sub-grid-heading");
-
-      let icon = document.createElement("span");
-      icon.classList.add("tree-icon");
-
-      switch (type) {
-        case "attracts-birds":
-          icon.classList.add("attracts-birds");
-          usesItemValue.textContent = `Attracts Birds`;
-          break;
-        case "attracts-bees":
-          icon.classList.add("attracts-bees");
-          usesItemValue.textContent = `Attracts Bees`;
-          break;
-        case "driveways-avenues":
-          icon.classList.add("avenue");
-          usesItemValue.textContent = `Driveways/Avenues`;
-          break;
-        case "hedging-screening":
-          icon.classList.add("hedge");
-          usesItemValue.textContent = `Hedging/Screening`;
-          break;
-        case "paddocks-shade":
-          icon.classList.add("paddock");
-          usesItemValue.textContent = `Paddocks/Shade`;
-          break;
-        case "pleaching":
-          icon.classList.add("pleaching");
-          usesItemValue.textContent = `Pleaching`;
-          break;
-        case "small-garden":
-          icon.classList.add("garden");
-          usesItemValue.textContent = `Small Gardens`;
-          break;
-        case "street":
-          icon.classList.add("street");
-          usesItemValue.textContent = `Street`;
-          break;
-        case "topiary":
-          icon.classList.add("topiary");
-          usesItemValue.textContent = `Topiary`;
-          break;
-        case "narrow-spaces":
-          icon.classList.add("narrow-spaces");
-          usesItemValue.textContent = `Narrow Spaces`;
-          break;
-        default:
-          break;
-      }
-
-      usesItemDiv.appendChild(icon);
-      usesItemDiv.appendChild(usesItemValue);
-      uses.appendChild(usesItemDiv);
-    });
-
-    if (!treeAttributes.contains(usesHeading)) {
-      treeAttributes.appendChild(usesHeading);
-    }
-    if (!treeAttributes.contains(uses)) {
-      treeAttributes.appendChild(uses);
-    }
-  }
-}
-
-function createTypesAttributes(productTreeData) {
-  let typesHeading = document.createElement("h2");
-  typesHeading.textContent = "Types";
-
-  let types = document.createElement("div");
-  types.id = "tree-types";
-  types.classList.add("attribute-grid");
-
-  if (productTreeData[0].types.length !== 0) {
-    productTreeData[0].types.split(", ").forEach((type) => {
-      let typesItemDiv = document.createElement("div");
-      typesItemDiv.classList.add("attribute-sub-grid");
-
-      let typesItemValue = document.createElement("p");
-      typesItemValue.classList.add("attribute-sub-grid-heading");
-
-      let icon = document.createElement("span");
-      icon.classList.add("tree-icon");
-
-      switch (type) {
-        case "conifer":
-          icon.classList.add("conifer");
-          typesItemValue.textContent = `Conifer`;
-          break;
-        case "edible":
-          icon.classList.add("edible");
-          typesItemValue.textContent = `Edible`;
-          break;
-        case "weeping":
-          icon.classList.add("weeping");
-          typesItemValue.textContent = `Weeping`;
-          break;
-        default:
-          break;
-      }
-
-      typesItemDiv.appendChild(icon);
-      typesItemDiv.appendChild(typesItemValue);
-      types.appendChild(typesItemDiv);
-    });
-
-    if (!treeAttributes.contains(typesHeading)) {
-      treeAttributes.appendChild(typesHeading);
-    }
-    if (!treeAttributes.contains(types)) {
-      treeAttributes.appendChild(types);
-    }
-  }
-}
+// function checkColors(colorData, spanNode) {
+//   switch (colorData) {
+//     case "blue":
+//       spanNode.classList.add("blue");
+//       break;
+//     case "grey":
+//       spanNode.classList.add("grey");
+//       break;
+//     case "red":
+//       spanNode.classList.add("red");
+//       break;
+//     case "orange":
+//       spanNode.classList.add("orange");
+//       break;
+//     case "yellow":
+//       spanNode.classList.add("yellow");
+//       break;
+//     case "purple":
+//       spanNode.classList.add("purple");
+//       break;
+//     case "pink":
+//       spanNode.classList.add("pink");
+//       break;
+//     case "green":
+//       spanNode.classList.add("green");
+//       break;
+//     case "white":
+//       spanNode.classList.add("white");
+//       break;
+//     case "brown":
+//       spanNode.classList.add("brown");
+//       break;
+//     default:
+//       break;
+//   }
+// }
+
+// function createFoliageAttributes(productTreeData) {
+//   // if (productTreeData[0].winterFoliage.length !== 0) {
+//   //   let icon = document.createElement("span");
+
+//   //   icon.classList.add("tree-icon");
+
+//   //   switch (productTreeData[0].winterFoliage) {
+//   //     case "deciduous":
+//   //       icon.classList.add("deciduous");
+//   //       break;
+//   //     case "evergreen":
+//   //       icon.classList.add("evergreen");
+//   //       break;
+//   //     case "semi-evergreen":
+//   //       icon.classList.add("semi-evergreen");
+//   //       break;
+//   //     default:
+//   //       break;
+//   //   }
+
+//   //   treeAttributes.appendChild(icon);
+//   // }
+
+//   if (productTreeData[0].foliageColor.length !== 0) {
+//     let mainDiv = document.createElement("div");
+//     mainDiv.classList.add("color-div");
+
+//     let foliageColorHeading = document.createElement("p");
+//     foliageColorHeading.textContent = "Foliage Colour";
+
+//     let colorDiv = document.createElement("div");
+//     colorDiv.classList.add("color-spans");
+
+//     productTreeData[0].foliageColor.split(", ").forEach((color) => {
+//       let innerColor = document.createElement("span");
+//       innerColor.classList.add("tree-color");
+
+//       checkColors(color, innerColor);
+
+//       colorDiv.appendChild(innerColor);
+//     });
+
+//     mainDiv.appendChild(foliageColorHeading);
+//     mainDiv.appendChild(colorDiv);
+//     colorSection.appendChild(mainDiv);
+//   }
+
+//   if (productTreeData[0].autumnColor.length !== 0) {
+//     let mainDiv = document.createElement("div");
+//     mainDiv.classList.add("color-div");
+
+//     let autumnColorHeading = document.createElement("p");
+//     autumnColorHeading.textContent = "Autumn Colour";
+
+//     let colorDiv = document.createElement("div");
+//     colorDiv.classList.add("color-spans");
+
+//     productTreeData[0].autumnColor.split(", ").forEach((color) => {
+//       let innerColor = document.createElement("span");
+//       innerColor.classList.add("tree-color");
+
+//       checkColors(color, innerColor);
+
+//       colorDiv.appendChild(innerColor);
+//     });
+
+//     mainDiv.appendChild(autumnColorHeading);
+//     mainDiv.appendChild(colorDiv);
+//     colorSection.appendChild(mainDiv);
+//   }
+// }
+
+// function createFlowerAttributes(productTreeData) {
+//   if (productTreeData[0].flowerColor.length !== 0) {
+//     let mainDiv = document.createElement("div");
+//     mainDiv.classList.add("color-div");
+
+//     let flowerColorHeading = document.createElement("p");
+//     flowerColorHeading.textContent = "Flower Colour";
+
+//     let colorDiv = document.createElement("div");
+//     colorDiv.classList.add("color-spans");
+
+//     productTreeData[0].flowerColor.split(", ").forEach((color) => {
+//       let innerColor = document.createElement("span");
+//       innerColor.classList.add("tree-color");
+
+//       checkColors(color, innerColor);
+
+//       colorDiv.appendChild(innerColor);
+//     });
+
+//     mainDiv.appendChild(flowerColorHeading);
+//     mainDiv.appendChild(colorDiv);
+//     colorSection.appendChild(mainDiv);
+//   }
+
+//   // let flowersHeading = document.createElement("h2");
+//   // flowersHeading.textContent = "Flowers";
+
+//   // let flowers = document.createElement("div");
+//   // flowers.id = "tree-flowers";
+//   // flowers.classList.add("attribute-grid");
+
+//   // if (productTreeData[0].floweringSeason.length !== 0) {
+//   //   let floweringSeasonDiv = document.createElement("div");
+//   //   floweringSeasonDiv.classList.add("attribute-sub-grid");
+
+//   //   let floweringSeasonHeading = document.createElement("p");
+//   //   floweringSeasonHeading.textContent = `Flowering Season`;
+//   //   floweringSeasonHeading.classList.add("attribute-sub-grid-heading");
+
+//   //   let floweringSeasonValue = document.createElement("p");
+
+//   //   let floweringSeasonArray = productTreeData[0].floweringSeason.split(", ");
+//   //   floweringSeasonArray.forEach((season) => {
+//   //     if (
+//   //       floweringSeasonArray.indexOf(season) ===
+//   //       floweringSeasonArray.length - 1
+//   //     ) {
+//   //       floweringSeasonValue.textContent += season
+//   //         .toLowerCase()
+//   //         .replace(/\w/, (firstLetter) => firstLetter.toUpperCase());
+//   //     } else {
+//   //       floweringSeasonValue.textContent +=
+//   //         season
+//   //           .toLowerCase()
+//   //           .replace(/\w/, (firstLetter) => firstLetter.toUpperCase()) + ", ";
+//   //     }
+//   //   });
+
+//   //   floweringSeasonDiv.appendChild(floweringSeasonHeading);
+//   //   floweringSeasonDiv.appendChild(floweringSeasonValue);
+//   //   flowers.appendChild(floweringSeasonDiv);
+
+//   //   if (!treeAttributes.contains(flowersHeading)) {
+//   //     treeAttributes.appendChild(flowersHeading);
+//   //   }
+//   //   if (!treeAttributes.contains(flowers)) {
+//   //     treeAttributes.appendChild(flowers);
+//   //   }
+//   // }
+
+//   // if (productTreeData[0].flowerColor.length !== 0) {
+//   //   let flowerColorDiv = document.createElement("div");
+//   //   flowerColorDiv.classList.add("attribute-sub-grid");
+
+//   //   let flowerColorHeading = document.createElement("p");
+//   //   flowerColorHeading.classList.add("attribute-sub-grid-heading");
+//   //   flowerColorHeading.textContent = "Flower Colour";
+
+//   //   let colorDiv = document.createElement("div");
+
+//   //   productTreeData[0].flowerColor.split(", ").forEach((color) => {
+//   //     let innerColor = document.createElement("span");
+//   //     innerColor.classList.add("tree-color");
+
+//   //     checkColors(color, innerColor);
+
+//   //     colorDiv.appendChild(innerColor);
+//   //   });
+
+//   //   flowerColorDiv.appendChild(colorDiv);
+//   //   flowerColorDiv.appendChild(flowerColorHeading);
+//   //   flowers.appendChild(flowerColorDiv);
+
+//   //   if (!treeAttributes.contains(flowerColorHeading)) {
+//   //     treeAttributes.appendChild(flowerColorHeading);
+//   //   }
+//   //   if (!treeAttributes.contains(flowers)) {
+//   //     treeAttributes.appendChild(flowers);
+//   //   }
+//   // }
+// }
+
+// function createFruitAttributes(productTreeData) {
+//   let fruitHeading = document.createElement("h2");
+//   fruitHeading.textContent = "Fruit";
+
+//   let fruit = document.createElement("div");
+//   fruit.id = "tree-fruit";
+//   fruit.classList.add("attribute-grid");
+
+//   if (productTreeData[0].fruitingSeason.length !== 0) {
+//     let fruitingSeasonDiv = document.createElement("div");
+//     fruitingSeasonDiv.classList.add("attribute-sub-grid");
+
+//     let fruitingSeasonHeading = document.createElement("p");
+//     fruitingSeasonHeading.classList.add("attribute-sub-grid-heading");
+//     fruitingSeasonHeading.textContent = `Fruiting Season`;
+
+//     let fruitingSeasonValue = document.createElement("p");
+
+//     let fruitingSeasonArray = productTreeData[0].fruitingSeason.split(", ");
+//     fruitingSeasonArray.forEach((season) => {
+//       if (
+//         fruitingSeasonArray.indexOf(season) ===
+//         fruitingSeasonArray.length - 1
+//       ) {
+//         fruitingSeasonValue.textContent += season
+//           .toLowerCase()
+//           .replace(/\w/, (firstLetter) => firstLetter.toUpperCase());
+//       } else {
+//         fruitingSeasonValue.textContent +=
+//           season
+//             .toLowerCase()
+//             .replace(/\w/, (firstLetter) => firstLetter.toUpperCase()) + ", ";
+//       }
+//     });
+
+//     fruitingSeasonDiv.appendChild(fruitingSeasonHeading);
+//     fruitingSeasonDiv.appendChild(fruitingSeasonValue);
+//     fruit.appendChild(fruitingSeasonDiv);
+
+//     if (!treeAttributes.contains(fruitHeading)) {
+//       treeAttributes.appendChild(fruitHeading);
+//     }
+//     if (!treeAttributes.contains(fruit)) {
+//       treeAttributes.appendChild(fruit);
+//     }
+//   }
+// }
+
+// function createUsesAttributes(productTreeData) {
+//   let usesHeading = document.createElement("h2");
+//   usesHeading.textContent = "Uses";
+
+//   let uses = document.createElement("div");
+//   uses.id = "tree-uses";
+//   uses.classList.add("attribute-grid");
+
+//   if (productTreeData[0].uses.length !== 0) {
+//     productTreeData[0].uses.split(", ").forEach((type) => {
+//       let usesItemDiv = document.createElement("div");
+//       usesItemDiv.classList.add("attribute-sub-grid");
+
+//       let usesItemValue = document.createElement("p");
+//       usesItemValue.classList.add("attribute-sub-grid-heading");
+
+//       let icon = document.createElement("span");
+//       icon.classList.add("tree-icon");
+
+//       switch (type) {
+//         case "attracts-birds":
+//           icon.classList.add("attracts-birds");
+//           usesItemValue.textContent = `Attracts Birds`;
+//           break;
+//         case "attracts-bees":
+//           icon.classList.add("attracts-bees");
+//           usesItemValue.textContent = `Attracts Bees`;
+//           break;
+//         case "driveways-avenues":
+//           icon.classList.add("avenue");
+//           usesItemValue.textContent = `Driveways/Avenues`;
+//           break;
+//         case "hedging-screening":
+//           icon.classList.add("hedge");
+//           usesItemValue.textContent = `Hedging/Screening`;
+//           break;
+//         case "paddocks-shade":
+//           icon.classList.add("paddock");
+//           usesItemValue.textContent = `Paddocks/Shade`;
+//           break;
+//         case "pleaching":
+//           icon.classList.add("pleaching");
+//           usesItemValue.textContent = `Pleaching`;
+//           break;
+//         case "small-garden":
+//           icon.classList.add("garden");
+//           usesItemValue.textContent = `Small Gardens`;
+//           break;
+//         case "street":
+//           icon.classList.add("street");
+//           usesItemValue.textContent = `Street`;
+//           break;
+//         case "topiary":
+//           icon.classList.add("topiary");
+//           usesItemValue.textContent = `Topiary`;
+//           break;
+//         case "narrow-spaces":
+//           icon.classList.add("narrow-spaces");
+//           usesItemValue.textContent = `Narrow Spaces`;
+//           break;
+//         default:
+//           break;
+//       }
+
+//       usesItemDiv.appendChild(icon);
+//       usesItemDiv.appendChild(usesItemValue);
+//       uses.appendChild(usesItemDiv);
+//     });
+
+//     if (!treeAttributes.contains(usesHeading)) {
+//       treeAttributes.appendChild(usesHeading);
+//     }
+//     if (!treeAttributes.contains(uses)) {
+//       treeAttributes.appendChild(uses);
+//     }
+//   }
+// }
+
+// function createTypesAttributes(productTreeData) {
+//   let typesHeading = document.createElement("h2");
+//   typesHeading.textContent = "Types";
+
+//   let types = document.createElement("div");
+//   types.id = "tree-types";
+//   types.classList.add("attribute-grid");
+
+//   if (productTreeData[0].types.length !== 0) {
+//     productTreeData[0].types.split(", ").forEach((type) => {
+//       let typesItemDiv = document.createElement("div");
+//       typesItemDiv.classList.add("attribute-sub-grid");
+
+//       let typesItemValue = document.createElement("p");
+//       typesItemValue.classList.add("attribute-sub-grid-heading");
+
+//       let icon = document.createElement("span");
+//       icon.classList.add("tree-icon");
+
+//       switch (type) {
+//         case "conifer":
+//           icon.classList.add("conifer");
+//           typesItemValue.textContent = `Conifer`;
+//           break;
+//         case "edible":
+//           icon.classList.add("edible");
+//           typesItemValue.textContent = `Edible`;
+//           break;
+//         case "weeping":
+//           icon.classList.add("weeping");
+//           typesItemValue.textContent = `Weeping`;
+//           break;
+//         default:
+//           break;
+//       }
+
+//       typesItemDiv.appendChild(icon);
+//       typesItemDiv.appendChild(typesItemValue);
+//       types.appendChild(typesItemDiv);
+//     });
+
+//     if (!treeAttributes.contains(typesHeading)) {
+//       treeAttributes.appendChild(typesHeading);
+//     }
+//     if (!treeAttributes.contains(types)) {
+//       treeAttributes.appendChild(types);
+//     }
+//   }
+// }
 
 function createToleratesAttributes(productTreeData) {
   if (productTreeData[0].tolerates.length !== 0) {
@@ -1016,52 +1016,52 @@ function createToleratesAttributes(productTreeData) {
   }
 }
 
-function createOtherAttributes(productTreeData) {
-  let otherHeading = document.createElement("h2");
-  otherHeading.textContent = "Other";
+// function createOtherAttributes(productTreeData) {
+//   let otherHeading = document.createElement("h2");
+//   otherHeading.textContent = "Other";
 
-  let other = document.createElement("div");
-  other.id = "tree-other";
-  other.classList.add("attribute-grid");
+//   let other = document.createElement("div");
+//   other.id = "tree-other";
+//   other.classList.add("attribute-grid");
 
-  if (productTreeData[0].origin.length !== 0) {
-    let originDiv = document.createElement("div");
-    originDiv.classList.add("attribute-sub-grid");
+//   if (productTreeData[0].origin.length !== 0) {
+//     let originDiv = document.createElement("div");
+//     originDiv.classList.add("attribute-sub-grid");
 
-    let originHeading = document.createElement("p");
-    originHeading.textContent = "Origin";
-    originHeading.classList.add("attribute-sub-grid-heading");
+//     let originHeading = document.createElement("p");
+//     originHeading.textContent = "Origin";
+//     originHeading.classList.add("attribute-sub-grid-heading");
 
-    let originValue = document.createElement("p");
-    let icon = document.createElement("span");
-    icon.classList.add("tree-icon");
+//     let originValue = document.createElement("p");
+//     let icon = document.createElement("span");
+//     icon.classList.add("tree-icon");
 
-    switch (productTreeData[0].origin) {
-      case "exotic":
-        originValue.textContent = "Exotic";
-        icon.classList.add("exotic");
-        break;
-      case "native":
-        originValue.textContent = "Native";
-        icon.classList.add("native");
-        break;
-      default:
-        break;
-    }
+//     switch (productTreeData[0].origin) {
+//       case "exotic":
+//         originValue.textContent = "Exotic";
+//         icon.classList.add("exotic");
+//         break;
+//       case "native":
+//         originValue.textContent = "Native";
+//         icon.classList.add("native");
+//         break;
+//       default:
+//         break;
+//     }
 
-    originDiv.appendChild(icon);
-    originDiv.appendChild(originHeading);
-    originDiv.appendChild(originValue);
-    other.appendChild(originDiv);
+//     originDiv.appendChild(icon);
+//     originDiv.appendChild(originHeading);
+//     originDiv.appendChild(originValue);
+//     other.appendChild(originDiv);
 
-    if (!treeAttributes.contains(otherHeading)) {
-      treeAttributes.appendChild(otherHeading);
-    }
-    if (!treeAttributes.contains(other)) {
-      treeAttributes.appendChild(other);
-    }
-  }
-}
+//     if (!treeAttributes.contains(otherHeading)) {
+//       treeAttributes.appendChild(otherHeading);
+//     }
+//     if (!treeAttributes.contains(other)) {
+//       treeAttributes.appendChild(other);
+//     }
+//   }
+// }
 
 // function createTreeShape(productTreeData) {
 //   let treeShapeDiv = document.querySelector("#tree-shape");
