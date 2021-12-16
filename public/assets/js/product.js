@@ -1871,8 +1871,8 @@ function createOtherAttributes(productTreeData) {
 
 async function populateTreeAttributes(productTreeData) {
   // createTreeShape(productTreeData);
-  createFoliageAttributes(productTreeData);
-  createFlowerAttributes(productTreeData);
+  // createFoliageAttributes(productTreeData);
+  // createFlowerAttributes(productTreeData);
   // createFruitAttributes(productTreeData);
   // createUsesAttributes(productTreeData);
   // createTypesAttributes(productTreeData);

@@ -48,7 +48,69 @@ type: product
 
                 <div id="tree-info-right">
 
-                    <div id="color-section"></div>
+                    <div id="color-section">
+
+                        {% if foliageColor !== "" %}
+
+                            <div class="color-div">
+
+                                <p>Foliage Colour</p>
+
+                                <div class="color-spans">
+
+                                    {% for color in foliageColor.split(", ") %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
+
+                                </div>
+
+                            </div>
+
+                        {% endif %}
+
+                        {% if autumnColor !== "" %}
+
+                            <div class="color-div">
+
+                                    <p>Autumn Colour</p>
+
+                                    <div class="color-spans">
+
+                                        {% for color in autumnColor.split(", ") %}
+
+                                            <span class="tree-color {{color}}"></span>
+
+                                        {% endfor %}
+
+                                    </div>
+
+                            </div>
+
+                        {% endif %}
+
+                        {% if flowerColor !== "" %}
+
+                            <div class="color-div">
+
+                                    <p>Flower Colour</p>
+
+                                    <div class="color-spans">
+
+                                        {% for color in flowerColor.split(", ") %}
+
+                                            <span class="tree-color {{color}}"></span>
+
+                                        {% endfor %}
+
+                                    </div>
+
+                            </div>
+
+                        {% endif %}
+                    
+                    </div>
 
                     <div id="tree-icons">
 
