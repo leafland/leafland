@@ -35,19 +35,6 @@
       }
     </style>
 
-    {# <link rel="stylesheet" href="/styles.css"/> #}
-    {# <link rel="stylesheet" href="/public/assets/css/menu.min.css"/>
-    <link rel="stylesheet" href="/public/assets/css/order.min.css"/>
-    <link rel="stylesheet" href="/public/assets/css/search.min.css"/>
-    <link rel="stylesheet" href="/public/assets/css/login.min.css"/> #}
-
-    {# <script defer src="/public/assets/js/login.min.js"></script>
-    <script defer src="/public/assets/js/main.min.js"></script>
-    <script defer src="/public/assets/js/menu.min.js"></script>
-    <script defer src="/public/assets/js/order.min.js"></script>
-    <script defer src="/public/assets/js/search.min.js"></script> #}
-
-
     {% if type === "product" %}
       {% include "components/head/_product.njk"%}
 
@@ -75,11 +62,11 @@
     {% endif %}
 
     <title>
-    {% if type === "index" %}Leafland Wholesale Tree Nursery
-    {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Wholesale Tree Nursery
-    {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Wholesale Tree Nursery
-    {% else %}{{ title | safe }} - Leafland Wholesale Tree Nursery
-    {% endif %}
+      {% if type === "index" %}Leafland Wholesale Tree Nursery
+      {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Wholesale Tree Nursery
+      {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Wholesale Tree Nursery
+      {% else %}{{ title | safe }} - Leafland Wholesale Tree Nursery
+      {% endif %}
     </title>
 
     {% if type === 'product' %}
