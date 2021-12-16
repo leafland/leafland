@@ -1,0 +1,265 @@
+#main-menu-overlay {
+  opacity: 0;
+  visibility: hidden;
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  background: var(--primary-background);
+  transition: all 0.5s var(--default-animation-easing);
+  display: grid;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#main-menu {
+  opacity: 1;
+  z-index: 9;
+}
+
+#main-menu-inner {
+  padding: 1rem;
+  display: grid;
+  position: relative;
+  grid-template-rows: auto 1fr auto;
+  grid-gap: 2rem;
+}
+
+#main-menu-items {
+  display: grid;
+}
+
+#main-menu-items > * {
+  grid-area: 1 / -1;
+}
+
+#main-menu-inner ul {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  /* transition: opacity 0.3s; */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+  grid-gap: 3rem;
+  place-content: center;
+}
+
+#main-menu-inner #top-trees-sub-menu {
+  grid-template-columns: repeat(auto-fit, minmax(0px, 1px));
+}
+
+#main-menu-inner ul li {
+  background: var(--secondary-background);
+  border-radius: 8px;
+  max-height: 400px;
+  height: 100%;
+}
+
+#main-menu-inner ul li a,
+.sub-menu-button button {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-rows: auto 1fr;
+  width: 100%;
+  padding: 1rem;
+}
+
+#main-menu-inner ul li a p,
+li.sub-menu-button button div {
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+#main-menu-inner ul li a img,
+.sub-menu-button button img {
+  justify-self: center;
+}
+
+#main-menu-inner p {
+  font-size: 1.3rem;
+}
+
+.menu-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+#main-menu-inner ul .button,
+#main-menu-inner ul button {
+  font-size: 1.2rem;
+}
+
+#main-menu-inner .button {
+  border: none;
+}
+
+#desktop-menu {
+  display: none;
+  position: relative;
+  grid-auto-flow: column;
+  align-items: center;
+  grid-gap: 1rem;
+  padding: 0;
+}
+
+#desktop-menu .button,
+#desktop-menu button,
+#main-menu .button {
+  border: none;
+  font-size: 1.2rem;
+}
+
+.dropdown-sub-menu {
+  opacity: 0;
+  visibility: hidden;
+  z-index: -1;
+  transition: 300ms all 150ms;
+  display: grid;
+  grid-gap: 2rem;
+  position: absolute;
+  top: 110%;
+  left: 0;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px;
+  border: 2px solid var(--border-color);
+}
+
+.dropdown-menu-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dropdown-menu-button svg {
+  height: 1.2rem;
+  width: 1.2rem;
+}
+
+.dropdown-menu {
+  position: relative;
+}
+
+#desktop-menu .dropdown-sub-menu .button {
+  font-size: 1rem;
+}
+
+#back-button,
+#close-menu {
+  cursor: pointer;
+  border-color: var(--primary-text);
+}
+
+#back-button {
+  place-self: center;
+}
+
+#close-menu {
+  align-self: center;
+  justify-self: end;
+}
+
+#main-menu-inner #resources-sub-menu,
+#main-menu-inner #top-trees-sub-menu,
+#back-button {
+  opacity: 0;
+  z-index: 0;
+}
+
+#top-trees-sub-menu-button,
+#resources-sub-menu-button {
+  border: none;
+}
+
+li.sub-menu-button button div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  align-self: start;
+}
+
+li.sub-menu-button button div svg {
+  height: 22px;
+  width: 22px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #main-menu-inner ul .button:hover,
+  #main-menu-inner ul button:hover:not(.back-button) {
+    color: var(--brand-color);
+    background: none;
+  }
+
+  #back-button:hover,
+  #close-menu:hover {
+    background: var(--primary-text);
+    color: var(--secondary-background);
+  }
+
+  .dropdown-menu-button:hover + .dropdown-sub-menu,
+  .dropdown-sub-menu:hover {
+    opacity: 1;
+    visibility: visible;
+    z-index: 5;
+  }
+
+  .dropdown-menu:hover > .dropdown-menu-button {
+    background: var(--button-background-hover);
+  }
+}
+
+@media (min-width: 400px) {
+  #main-menu-inner ul li a,
+  .sub-menu-button button {
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 100px;
+  }
+
+  #main-menu-inner ul li a p,
+  li.sub-menu-button button div {
+    justify-self: start;
+    align-self: center;
+    text-align: left;
+  }
+
+  #main-menu-inner ul li a img,
+  .sub-menu-button button img {
+    justify-self: end;
+  }
+}
+
+@media (min-width: 600px) {
+  #main-menu-inner ul li a,
+  .sub-menu-button button {
+    grid-template-columns: 1fr 200px;
+  }
+
+  .menu-image {
+    width: 200px;
+    height: 200px;
+  }
+  #main-menu-inner ul li a,
+  .sub-menu-button button {
+    padding: 2rem;
+  }
+  #main-menu-inner p {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 1500px) {
+  #open-menu {
+    display: none;
+  }
+
+  #desktop-menu {
+    display: grid;
+  }
+}

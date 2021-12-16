@@ -35,11 +35,11 @@
       }
     </style>
 
-    <link rel="stylesheet" href="/public/assets/css/main.min.css"/>
-    <link rel="stylesheet" href="/public/assets/css/menu.min.css"/>
+    {# <link rel="stylesheet" href="/styles.css"/> #}
+    {# <link rel="stylesheet" href="/public/assets/css/menu.min.css"/>
     <link rel="stylesheet" href="/public/assets/css/order.min.css"/>
     <link rel="stylesheet" href="/public/assets/css/search.min.css"/>
-    <link rel="stylesheet" href="/public/assets/css/login.min.css"/>
+    <link rel="stylesheet" href="/public/assets/css/login.min.css"/> #}
 
     <script defer src="/public/assets/js/login.min.js"></script>
     <script defer src="/public/assets/js/main.min.js"></script>
@@ -52,7 +52,6 @@
       {% include "components/head/_product.njk"%}
 
     {% elif type === "submit-order" %}
-      {% include "components/head/_page.njk"%}
       {% include "components/head/_submit-order.njk"%}
 
     {% elif type === "tree-finder" %}
@@ -68,16 +67,11 @@
       {% include "components/head/_top-trees.njk"%}
 
     {% elif type === 'retail' %}
-      {% include "components/head/_page.njk"%}
       {% include "components/head/_retail-list.njk"%}
 
     {% elif type === 'wholesale' %}
-      {% include "components/head/_page.njk"%}
       {% include "components/head/_wholesale-list.njk"%}
 
-    {% elif type === 'freight-charges' %}
-      {% include "components/head/_page.njk"%}
-      {% include "components/head/_freight-charges.njk"%}
     {% endif %}
 
     <title>
