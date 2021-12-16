@@ -4862,7 +4862,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"medium-bushy"
+     "treeShape":"coprosma-general"
   },
   {
      "botanicalName":"Coprosma grandifolia",
@@ -4881,7 +4881,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"medium-bushy"
+     "treeShape":"coprosma-general"
   },
   {
      "botanicalName":"Coprosma 'Inferno'",
@@ -4900,26 +4900,26 @@
      "autumnColor":"",
      "foliageColor":"red",
      "fruitingSeason":"",
-     "treeShape":"short-rounded-bushy"
+     "treeShape":"coprosma-small"
   },
   {
      "botanicalName":"Coprosma kirkii 'Variegata'",
      "commonName":"Taupata",
      "url":"coprosma-kirkii-variegata-taupata",
-     "description":"A cascade of branches. Small, sage-green leaves are edged cream-white. A hardy native which can be pruned to keep compact. Eye-catching contrast to lighten up areas. Excellent for containers.",
+     "description":"A low-growing native. Small, sage-green leaves are edged cream-white. Eye-catching contrast to lighten up areas. Excellent for containers. Great for groundcovers and low-hedges.",
      "uses":"",
      "tolerates":"coastal, dry, windy",
      "winterFoliage":"evergreen",
      "origin":"native",
      "types":"",
-     "height":"1m",
-     "width":"1m",
+     "height":"0.5m",
+     "width":"2m",
      "floweringSeason":"",
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green, white",
      "fruitingSeason":"",
-     "treeShape":"very-short-bushy"
+     "treeShape":"coprosma-low-growing"
   },
   {
      "botanicalName":"Coprosma repens",
@@ -4938,13 +4938,13 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"medium-bushy"
+     "treeShape":"coprosma-general"
   },
   {
      "botanicalName":"Coprosma repens 'Poor Knights'",
      "commonName":"Taupata",
      "url":"coprosma-repens-poor-knights-taupata",
-     "description":"A prostrate form of Coprosma repens. Great for use as a ground cover in coastal gardens as it tolerates dry, windy conditions and is good for erosion control. Grows wider than it does high.",
+     "description":"A prostrate form of Coprosma repens. Great for use as a groundcover in coastal gardens as it tolerates dry, windy conditions and is good for erosion control. Grows wider than it does high.",
      "uses":"",
      "tolerates":"coastal, dry, windy",
      "winterFoliage":"evergreen",
@@ -4957,7 +4957,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"very-short-bushy"
+     "treeShape":"coprosma-low-growing"
   },
   {
      "botanicalName":"Coprosma virescens",
@@ -4976,7 +4976,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"medium-bushy"
+     "treeShape":"coprosma-general"
   },
   {
      "botanicalName":"Cordyline australis",

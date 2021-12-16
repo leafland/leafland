@@ -1376,6 +1376,19 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/citrus/citrus-general.svg";
       break;
 
+    case "coprosma-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-general.svg";
+      break;
+    case "coprosma-low-growing":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-low-growing.svg";
+      break;
+    case "coprosma-small":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/coprosma/coprosma-small.svg";
+      break;
+
     case "cordyline-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cordyline/cordyline-general.svg";
