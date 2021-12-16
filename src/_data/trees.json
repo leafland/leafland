@@ -4138,7 +4138,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-round-head"
+     "treeShape":"celtis-general"
   },
   {
      "botanicalName":"Cercidiphyllum japonicum",
@@ -4157,7 +4157,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"upright-spreader"
+     "treeShape":"cercidiphyllum-general"
   },
   {
      "botanicalName":"Cercidiphyllum japonicum 'Pendulum'",
@@ -4176,7 +4176,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"large-weeping"
+     "treeShape":"cercidiphyllum-weeping"
   },
   {
      "botanicalName":"Cercis canadensis 'Forest Pansy'",

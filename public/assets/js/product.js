@@ -1323,6 +1323,20 @@ function createTreeShape(productTreeData) {
         "https://files.leafland.co.nz/images/icons/tree-shapes/cedrus/cedrus-weeping.svg";
       break;
 
+    case "celtis-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/celtis/celtis-general.svg";
+      break;
+
+    case "cercidiphyllum-general":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-general.svg";
+      break;
+    case "cercidiphyllum-weeping":
+      treeShapeImage.src =
+        "https://files.leafland.co.nz/images/icons/tree-shapes/cercidiphyllum/cercidiphyllum-weeping.svg";
+      break;
+
     case "cercis-general":
       treeShapeImage.src =
         "https://files.leafland.co.nz/images/icons/tree-shapes/cercis/cercis-general.svg";
