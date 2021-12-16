@@ -38,7 +38,7 @@ window.addEventListener("loginUpdated", () => {
       if (e.target.value.length <= 0) {
         displayData(stockData, wholesaleStart, wholesaleEnd);
       } else {
-        searchRetailData(e.target.value);
+        searchWholesaleData(e.target.value);
       }
     });
 
