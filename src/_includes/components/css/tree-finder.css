@@ -12,7 +12,6 @@ main {
 }
 
 input[type="checkbox"] {
-  margin: 0;
 }
 
 .tree-item {
@@ -59,13 +58,12 @@ input[type="checkbox"] {
 
 .title-link-box h2 {
   color: var(--secondary-background);
-  margin: 0;
+
   text-align: left;
-  font-size: 1.75rem;
+  font-size: var(--font-size-4);
 }
 
 .title-link-box h3 {
-  margin: 0;
   color: var(--brand-color);
   background: var(--secondary-background);
   text-align: left;
@@ -73,7 +71,7 @@ input[type="checkbox"] {
   padding: 0.3rem 0.6rem;
   float: left;
   margin-top: 0.4rem;
-  font-size: 0.9rem;
+  font-size: var(--font-size-2);
 }
 
 .title-link-box a {
@@ -83,6 +81,7 @@ input[type="checkbox"] {
   color: var(--secondary-background);
   background: none;
   transition: all 0.3s var(--default-animation-easing);
+  font-size: var(--font-size-2);
 }
 
 .title-container {
@@ -94,7 +93,6 @@ main h1 {
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 2;
-  margin: 0;
 }
 
 #tree-wrapper {

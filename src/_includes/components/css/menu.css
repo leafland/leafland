@@ -38,7 +38,6 @@
 }
 
 #main-menu-inner ul {
-  margin: 0;
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
@@ -78,9 +77,9 @@ li.sub-menu-button button div {
   justify-self: center;
 }
 
-#main-menu-inner p {
+/* #main-menu-inner p {
   font-size: 1.3rem;
-}
+} */
 
 .menu-image {
   width: 100px;
@@ -89,10 +88,10 @@ li.sub-menu-button button div {
   border-radius: 8px;
 }
 
-#main-menu-inner ul .button,
+/* #main-menu-inner ul .button,
 #main-menu-inner ul button {
   font-size: 1.2rem;
-}
+} */
 
 #main-menu-inner .button {
   border: none;
@@ -111,7 +110,11 @@ li.sub-menu-button button div {
 #desktop-menu button,
 #main-menu .button {
   border: none;
-  font-size: 1.2rem;
+  font-size: var(--font-size-3);
+}
+
+#header-buttons button {
+  font-size: var(--font-size-2);
 }
 
 .dropdown-sub-menu {
@@ -147,7 +150,7 @@ li.sub-menu-button button div {
 }
 
 #desktop-menu .dropdown-sub-menu .button {
-  font-size: 1rem;
+  font-size: var(--font-size-2);
 }
 
 #back-button,
@@ -248,9 +251,9 @@ li.sub-menu-button button div svg {
   .sub-menu-button button {
     padding: 2rem;
   }
-  #main-menu-inner p {
+  /* #main-menu-inner p {
     font-size: 1.5rem;
-  }
+  } */
 }
 
 @media (min-width: 1500px) {

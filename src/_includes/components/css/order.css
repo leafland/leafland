@@ -18,10 +18,9 @@
   overflow-y: auto;
 }
 
-#order-inner h2 {
-  margin: 0;
-  font-size: 1.5rem;
-}
+/* #order-inner h2 {
+  text-align: center;
+} */
 
 .empty-message {
   text-align: center;
@@ -30,7 +29,7 @@
 #order-inner {
   height: 100%;
   display: grid;
-  grid-template-rows: 100px 1fr auto auto;
+  grid-template-rows: 1fr auto auto;
   grid-gap: 1rem;
   margin: auto;
   text-transform: uppercase;
@@ -39,7 +38,7 @@
 #order-inner ul {
   list-style: none;
   padding: 0;
-  margin: 0;
+
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
@@ -54,7 +53,7 @@
 #order-inner h1 {
   text-transform: uppercase;
   text-align: center;
-  margin: 0;
+
   align-self: center;
   display: inline-block;
 }
@@ -89,15 +88,26 @@
   justify-self: start;
 }
 
+.order-botanical-name {
+  font-size: var(--font-size-4);
+}
+
+.order-botanical-name a {
+  font-size: var(--font-size-4);
+}
+
 .order-common-name {
-  margin: 0;
   text-align: left;
-  font-size: 0.9rem;
+  font-size: var(--font-size-2);
   background: var(--primary-background);
   margin-top: 0.3rem;
   display: inline-block;
   padding: 0.3rem 0.6rem;
   border-radius: 8px;
+}
+
+.order-common-name a {
+  font-size: var(--font-size-2);
 }
 
 .order-common-name a:hover {
@@ -107,7 +117,7 @@
 .order-product p {
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 1rem;
+  font-size: var(--font-size-2);
 }
 
 .order-product input {

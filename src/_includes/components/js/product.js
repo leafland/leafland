@@ -550,8 +550,9 @@ async function createStockValues() {
     }
   } else {
     gradeSizesDiv.innerHTML = ``;
-    let message = document.createElement("h2");
+    let message = document.createElement("p");
     message.textContent = "Currently out of stock.";
+    message.classList.add("bold-up");
     gradeSizesDiv.appendChild(message);
     gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
     gradeSizesDiv.style.setProperty("margin-top", "0");

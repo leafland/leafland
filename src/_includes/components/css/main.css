@@ -114,6 +114,15 @@ h6 {
 
   --shadow-color: 128deg 10% 67%;
   --default-animation-easing: cubic-bezier(0.31, 0.87, 0.32, 1);
+
+  --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
+  --font-size-2: clamp(0.88rem, 0.83rem + 0.24vw, 1rem);
+  --font-size-3: clamp(1.09rem, 1rem + 0.47vw, 1.33rem);
+  --font-size-4: clamp(1.37rem, 1.21rem + 0.8vw, 1.78rem);
+  --font-size-5: clamp(1.71rem, 1.45rem + 1.29vw, 2.37rem);
+  --font-size-6: clamp(2.14rem, 1.74rem + 1.99vw, 3.16rem);
+  --font-size-7: clamp(2.67rem, 2.07rem + 3vw, 4.21rem);
+  --font-size-8: clamp(3.34rem, 2.45rem + 4.43vw, 5.61rem);
 }
 
 [data-theme="dark"] {
@@ -203,13 +212,11 @@ h6 {
 }
 
 #loading-overlay h2 {
-  font-size: 2.5rem;
-  margin: 0;
+  /* font-size: 2.5rem; */
 }
 
 #loading-overlay p {
-  font-size: 1.25rem;
-  margin: 0;
+  /* font-size: 1.25rem; */
 }
 
 body.page-loaded #loading-overlay {
@@ -237,7 +244,7 @@ textarea {
   color: var(--primary-text);
   border: 2px solid var(--border-color);
   border-radius: 8px;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   font-weight: bold;
   background: var(--secondary-background);
 }
@@ -279,7 +286,6 @@ html {
 
 /* MAIN PAGE SECTIONS */
 body {
-  margin: 0;
   overflow-x: hidden;
   overflow-y: scroll;
   font-family: var(--global-font-family);
@@ -303,10 +309,6 @@ main {
   margin-top: 10rem;
   padding: 1rem;
   overflow-x: hidden;
-}
-
-p {
-  font-size: 1.1rem;
 }
 
 p.paragraph-title {
@@ -336,15 +338,35 @@ h3 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: var(--font-size-8);
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: var(--font-size-7);
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: var(--font-size-6);
+}
+
+p,
+a {
+  font-size: var(--font-size-4);
+}
+
+p.bold-up {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+button,
+.button {
+  font-size: var(--font-size-2);
+}
+
+input,
+select {
+  font-size: var(--font-size-2);
 }
 
 input,
@@ -371,7 +393,7 @@ input[type="submit"] {
   transition: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
   cursor: pointer;
   border-radius: 8px;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   opacity: 1;
   color: var(--primary-text);
 }
@@ -409,7 +431,7 @@ ul {
 select {
   border-radius: 8px;
   font-weight: bold;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   padding: 0.3rem;
 }
 
@@ -470,17 +492,14 @@ body.page-loaded #header {
 }
 
 header a {
-  margin: 0;
 }
 
 header button {
-  margin: 0;
 }
-
-header button,
+/* header button,
 aside button {
   font-size: 1rem;
-}
+} */
 
 #header-buttons {
   display: flex;
@@ -491,7 +510,6 @@ aside button {
 }
 
 #header-buttons > button {
-  margin: 0;
 }
 
 .logo {
@@ -501,7 +519,7 @@ aside button {
 /* FOOTER */
 footer {
   margin-top: 10rem;
-  padding: 2rem;
+  padding: 1rem;
 }
 footer p {
   font-weight: bold;
@@ -523,7 +541,7 @@ footer p {
   display: grid;
   grid-gap: 3rem 5rem;
   background: var(--secondary-background);
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 8px;
 }
 
@@ -615,9 +633,14 @@ body.menu-open #main-menu-overlay {
   #header {
     padding: 2rem;
   }
+
+  footer,
+  #email-signup {
+    padding: 2rem;
+  }
 }
 
-@media (min-width: 800px) {
+/* @media (min-width: 800px) {
   p {
     font-size: 1.3rem;
   }
@@ -633,7 +656,7 @@ body.menu-open #main-menu-overlay {
   h3 {
     font-size: 2rem;
   }
-}
+} */
 
 @media (min-width: 1000px) {
   #footer-links {
@@ -641,7 +664,7 @@ body.menu-open #main-menu-overlay {
   }
 }
 
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   p {
     font-size: 1.5rem;
   }
@@ -655,7 +678,7 @@ body.menu-open #main-menu-overlay {
   h3 {
     font-size: 2.5rem;
   }
-}
+} */
 
 @media (min-width: 1350px) {
   #email-signup {

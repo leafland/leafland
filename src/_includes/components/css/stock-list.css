@@ -68,11 +68,11 @@ tr td:nth-child(2) {
   white-space: nowrap;
   padding: 4px 8px;
   font-weight: bold;
-  font-size: 0.85rem;
+  /* font-size: 0.85rem; */
 }
 
 .message {
-  font-size: 2rem;
+  /* font-size: 2rem; */
   text-align: center;
   font-weight: bold;
 }
@@ -85,8 +85,8 @@ tr td:nth-child(2) {
 }
 .search {
   width: 100%;
-  font-size: 1rem;
-  margin: 0;
+  /* font-size: 1rem; */
+
   min-height: 30px;
 }
 .search::placeholder {
