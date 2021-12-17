@@ -106,7 +106,7 @@ async function populateForm() {
     let treeUrlBotanical = document.createElement("a");
     treeUrlBotanical.href = tree.url;
 
-    let botanicalName = document.createElement("h2");
+    let botanicalName = document.createElement("p");
     botanicalName.textContent = tree.botanicalName;
     botanicalName.classList.add("botanical-name");
 
@@ -118,7 +118,7 @@ async function populateForm() {
       let treeUrlCommon = document.createElement("a");
       treeUrlCommon.href = tree.url;
 
-      let commonName = document.createElement("h2");
+      let commonName = document.createElement("p");
       commonName.textContent = tree.commonName;
       commonName.classList.add("common-name");
       commonName.classList.add("accent-color");
