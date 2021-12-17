@@ -4,16 +4,9 @@ main {
   margin-top: 0;
 }
 
-/* main button {
-  padding: 8px 16px;
-} */
 main .button {
   font-size: var(--font-size-4);
 }
-
-/* main h1 {
-  font-size: 2.5rem;
-} */
 
 main h2 {
   margin-top: 0;
@@ -98,14 +91,11 @@ main h3 {
   border-radius: 8px;
   padding: 4px 8px;
   font-weight: bold;
-
-  /* font-size: 0.9rem; */
 }
 
 #hero .button {
   color: var(--secondary-background);
   text-align: left;
-  /* font-size: 0.9rem; */
 }
 
 .split-section {
@@ -150,7 +140,6 @@ main h3 {
   justify-self: center;
   border-color: var(--primary-text);
   background: none;
-  /* font-size: 0.9rem; */
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -180,25 +169,4 @@ main h3 {
   .split-section img {
     justify-self: end;
   }
-
-  /* .banner-section-inner .button,
-  #hero .button,
-  #hero-text .subtitle {
-    font-size: 1.25rem;
-  } */
-
-  /* main h1 {
-    font-size: 3rem;
-  } */
 }
-
-/* @media (min-width: 1200px) {
-  .banner-section-inner .button,
-  #hero .button,
-  #hero-text .subtitle {
-    font-size: 1.5rem;
-  }
-  main h1 {
-    font-size: 3.5rem;
-  }
-} */

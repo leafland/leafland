@@ -272,7 +272,6 @@ body.page-loaded #order-block {
   opacity: 0;
   position: absolute;
   top: -40px;
-  /* font-size: 0.8rem; */
   transition: opacity 0.3s var(--default-animation-easing);
   display: inline-block;
   background: var(--primary-background);
@@ -664,13 +663,6 @@ body.loggedIn #retail-price {
   #related-trees {
     grid-template-columns: repeat(2, 1fr);
   }
-  /* .tree-common-name {
-    font-size: 1.25rem;
-  }
-
-  .tree-botanical-name {
-    font-size: 3.5rem;
-  } */
 }
 
 @media (min-width: 1000px) {
@@ -692,12 +684,6 @@ body.loggedIn #retail-price {
   #order-block {
     grid-column-end: 3;
   }
-  /* .tree-common-name {
-    font-size: 1.5rem;
-  }
-  .tree-botanical-name {
-    font-size: 5rem;
-  } */
 }
 
 @media (min-width: 1350px) {

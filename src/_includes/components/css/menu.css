@@ -77,21 +77,12 @@ li.sub-menu-button button div {
   justify-self: center;
 }
 
-/* #main-menu-inner p {
-  font-size: 1.3rem;
-} */
-
 .menu-image {
   width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 8px;
 }
-
-/* #main-menu-inner ul .button,
-#main-menu-inner ul button {
-  font-size: 1.2rem;
-} */
 
 #main-menu-inner .button {
   border: none;
@@ -251,9 +242,6 @@ li.sub-menu-button button div svg {
   .sub-menu-button button {
     padding: 2rem;
   }
-  /* #main-menu-inner p {
-    font-size: 1.5rem;
-  } */
 }
 
 @media (min-width: 1500px) {

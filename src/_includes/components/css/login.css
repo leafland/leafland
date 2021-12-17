@@ -24,7 +24,6 @@
 }
 
 #login-form-container {
-  /* margin-top: 3rem; */
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 2rem;
@@ -48,7 +47,6 @@
 
 #login-form label {
   text-transform: uppercase;
-  /* font-size: 1.5rem; */
 }
 
 #login-form input[type="email"] {

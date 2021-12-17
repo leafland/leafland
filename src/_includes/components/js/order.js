@@ -104,7 +104,7 @@ async function updateOrder() {
       itemImage.height = "300";
       itemImage.loading = "lazy";
 
-      let itemBotanicalName = document.createElement("h2");
+      let itemBotanicalName = document.createElement("p");
       itemBotanicalName.innerHTML = `<a href='${tree.url}'>${tree.botanicalName}</a>`;
       itemBotanicalName.classList.add("order-botanical-name");
 
@@ -113,7 +113,7 @@ async function updateOrder() {
       nameDiv.appendChild(itemBotanicalName);
 
       if (tree.commonName !== "") {
-        let itemCommonName = document.createElement("h3");
+        let itemCommonName = document.createElement("p");
         itemCommonName.innerHTML = `<a href='${tree.url}' class="accent-color">${tree.commonName}</a>`;
         itemCommonName.classList.add("order-common-name");
         nameDiv.appendChild(itemCommonName);
