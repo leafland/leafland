@@ -38,15 +38,20 @@
 
 #login-form {
   visibility: visible;
+  margin-bottom: 2rem;
+}
+
+.form-inputs {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   gap: 1rem;
-  margin-bottom: 2rem;
 }
 
 #login-form label {
   text-transform: uppercase;
+  margin-bottom: 1rem;
+  font-size: var(--font-size-3);
 }
 
 #login-form input[type="email"] {
