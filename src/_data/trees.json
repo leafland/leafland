@@ -13271,7 +13271,8 @@
      "flowerColor":"purple",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/paulownia/paulownia-general.svg"
   },
   {
      "botanicalName":"Peach 'April White'",
