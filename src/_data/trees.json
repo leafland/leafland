@@ -11893,7 +11893,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/meryta/meryta-general.svg"
   },
   {
      "botanicalName":"Metasequoia glyptostroboides",
@@ -11911,7 +11912,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, brown, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/metasequoia/metasequoia-general.svg"
   },
   {
      "botanicalName":"Metasequoia glyptostroboides 'Gold Rush'",
@@ -11929,7 +11931,8 @@
      "flowerColor":"",
      "autumnColor":"orange",
      "foliageColor":"yellow",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/metasequoia/metasequoia-general.svg"
   },
   {
      "botanicalName":"Metasequoia glyptostroboides 'Sheridan Spire'",
@@ -11947,7 +11950,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, brown, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/metasequoia/metasequoia-general.svg"
   },
   {
      "botanicalName":"Metrosideros excelsa",
