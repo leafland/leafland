@@ -12699,7 +12699,7 @@
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
      "topTrees":"small-gardens",
-     "treeShape":"images/icons/tree-shapes/very-short-bushy/very-short-bushy.svg"
+     "treeShape":"images/icons/tree-shapes/nandina/nandina-general.svg"
   },
   {
      "botanicalName":"Nectarine Flatto 'Button Bright'",
@@ -12812,7 +12812,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/nestegis/nestegis-general.svg"
   },
   {
      "botanicalName":"Nestegis montana",
@@ -12830,7 +12831,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/nestegis/nestegis-general.svg"
   },
   {
      "botanicalName":"Nyssa sinensis",
