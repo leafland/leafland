@@ -11818,7 +11818,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/melia/melia-general.svg"
   },
   {
      "botanicalName":"Melicope ternata",
@@ -11836,7 +11836,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/melicope/melicope-general.svg"
   },
   {
      "botanicalName":"Melicytus chathamicus",
@@ -11854,7 +11855,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/melicytus/melicytus-general.svg"
   },
   {
      "botanicalName":"Melicytus ramiflorus",
@@ -11872,7 +11874,8 @@
      "flowerColor":"green, yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/melicytus/melicytus-general.svg"
   },
   {
      "botanicalName":"Meryta sinclairii",
