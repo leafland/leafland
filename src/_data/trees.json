@@ -12890,7 +12890,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/nyssa-weeping/nyssa-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/nyssa/nyssa-weeping.svg"
   },
   {
      "botanicalName":"Nyssa sylvatica 'Sheffield Park'",
@@ -13233,7 +13233,8 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color"
+     "topTrees":"autumn-color",
+     "treeShape":"images/icons/tree-shapes/parrotia/parrotia-general.svg"
   },
   {
      "botanicalName":"Parrotia persica 'Pendula'",
@@ -13251,7 +13252,8 @@
      "flowerColor":"red",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/parrotia/parrotia-weeping.svg"
   },
   {
      "botanicalName":"Paulownia tomentosa",
