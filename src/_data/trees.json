@@ -12621,7 +12621,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/muehlenbeckia/muehlenbeckia-general.svg"
   },
   {
      "botanicalName":"Myoporum laetum",
@@ -12640,7 +12641,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/myoporum/myoporum-general.svg"
   },
   {
      "botanicalName":"Myrsine australis",
@@ -12658,7 +12659,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/myrsine/myrsine-general.svg"
   },
   {
      "botanicalName":"Myrsine salicina",
@@ -12676,7 +12678,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/myrsine/myrsine-general.svg"
   },
   {
      "botanicalName":"Nandina 'Firepower'",
