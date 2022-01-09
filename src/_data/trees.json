@@ -12584,7 +12584,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"images/icons/tree-shapes/large/large-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/morus/morus-weeping.svg"
   },
   {
      "botanicalName":"Morus nigra",
@@ -12603,7 +12603,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/morus/morus-general.svg"
   },
   {
      "botanicalName":"Muehlenbeckia astonii",
@@ -17384,7 +17384,7 @@
      "autumnColor":"",
      "foliageColor":"green, grey",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/tilia-tall-graceful/tilia-tall-graceful.svg"
+     "treeShape":"images/icons/tree-shapes/tilia/tilia-tall-graceful.svg"
   },
   {
      "botanicalName":"Tilia tomentosa 'Petiolaris'",
@@ -17403,7 +17403,7 @@
      "autumnColor":"",
      "foliageColor":"green, grey",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/tilia-tall-graceful/tilia-tall-graceful.svg"
+     "treeShape":"images/icons/tree-shapes/tilia/tilia-tall-graceful.svg"
   },
   {
      "botanicalName":"Trachycarpus fortunei",
@@ -17479,7 +17479,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ulmus-weeping/ulmus-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/ulmus/ulmus-weeping.svg"
   },
   {
      "botanicalName":"Ulmus glabra 'Horizontalis'",
@@ -17498,7 +17498,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ulmus-horizontal/ulmus-horizontal.svg"
+     "treeShape":"images/icons/tree-shapes/ulmus/ulmus-horizontal.svg"
   },
   {
      "botanicalName":"Ulmus glabra 'Pendula'",
@@ -17517,7 +17517,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ulmus-weeping/ulmus-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/ulmus/ulmus-weeping.svg"
   },
   {
      "botanicalName":"Ulmus x hollandica 'Jacqueline Hillier'",
@@ -17574,7 +17574,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ulmus-semi-upright/ulmus-semi-upright.svg"
+     "treeShape":"images/icons/tree-shapes/ulmus/ulmus-semi-upright.svg"
   },
   {
      "botanicalName":"Ulmus 'Louis van Houtte'",
