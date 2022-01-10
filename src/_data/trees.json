@@ -16959,7 +16959,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/images/icons/tree-shapes/sophora/sophora-bushy.svg/images/icons/tree-shapes/sophora/sophora-bushy.svg.svg"
+     "treeShape":"images/icons/tree-shapes/sophora/sophora-bushy.svg"
   },
   {
      "botanicalName":"Sophora molloyi 'Dragon's Gold'",
@@ -16979,7 +16979,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"small-gardens",
-     "treeShape":"images/icons/tree-shapes/images/icons/tree-shapes/sophora/sophora-low-bushy.svg/images/icons/tree-shapes/sophora/sophora-low-bushy.svg.svg"
+     "treeShape":"images/icons/tree-shapes/sophora/sophora-low-bushy.svg"
   },
   {
      "botanicalName":"Sophora tetraptera",
@@ -17016,7 +17016,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/sorbus/sorbus-general.svg"
   },
   {
      "botanicalName":"Sorbus aucuparia 'Scarlet King'",
@@ -17034,7 +17035,8 @@
      "flowerColor":"white",
      "autumnColor":"orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/sorbus/sorbus-general.svg"
   },
   {
      "botanicalName":"Sorbus devonensis",
@@ -17052,7 +17054,8 @@
      "flowerColor":"white",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/sorbus/sorbus-general.svg"
   },
   {
      "botanicalName":"Styrax japonicus",
@@ -17071,7 +17074,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/styrax/styrax-general.svg"
   },
   {
      "botanicalName":"Syagrus romanzoffiana",
@@ -17090,7 +17093,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/tall-palm/tall-palm.svg"
+     "treeShape":"images/icons/tree-shapes/syagrus/syagrus-general.svg"
   },
   {
      "botanicalName":"Sycoparrotia semidecidua",
@@ -17108,7 +17111,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/sycoparrotia/sycoparrotia-general.svg"
   },
   {
      "botanicalName":"Syzygium australe",
@@ -17126,7 +17130,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/syzygium/syzygium-general.svg"
   },
   {
      "botanicalName":"Syzygium australe 'Resilience'",
@@ -17145,7 +17150,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape":"images/icons/tree-shapes/syzygium/syzygium-general.svg"
   },
   {
      "botanicalName":"Taxodium distichum",
