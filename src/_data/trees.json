@@ -17226,7 +17226,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/taxus/taxus-general.svg"
   },
   {
      "botanicalName":"Taxus baccata 'Fastigiata'",
@@ -17244,7 +17245,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/taxus/taxus-upright.svg"
   },
   {
      "botanicalName":"Thuja occidentalis 'Pyramidalis'",
