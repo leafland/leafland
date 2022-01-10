@@ -13594,7 +13594,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/persimmon/persimmon-general.svg"
   },
   {
      "botanicalName":"Phebalium squameum",
