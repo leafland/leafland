@@ -17265,7 +17265,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues"
+     "topTrees":"driveways-and-avenues",
+     "treeShape":"images/icons/tree-shapes/thuja/thuja-narrow.svg"
   },
   {
      "botanicalName":"Thuja occidentalis 'Smaragd'",
@@ -17284,7 +17285,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-spaces"
+     "topTrees":"narrow-spaces",
+     "treeShape":"images/icons/tree-shapes/thuja/thuja-narrow.svg"
   },
   {
      "botanicalName":"Thuja plicata",
@@ -17303,7 +17305,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening"
+     "topTrees":"hedging-and-screening",
+     "treeShape":"images/icons/tree-shapes/thuja/thuja-general.svg"
   },
   {
      "botanicalName":"Thuja standishii x plicata 'Green Giant'",
@@ -17321,7 +17324,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/thuja/thuja-general.svg"
   },
   {
      "botanicalName":"Tilia cordata",
