@@ -13844,7 +13844,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"autumn"
+     "fruitingSeason":"autumn",
+     "treeShape":"images/icons/tree-shapes/pinus/pinus-umbrella.svg"
   },
   {
      "botanicalName":"Pistacia chinensis",
@@ -13862,7 +13863,8 @@
      "flowerColor":"",
      "autumnColor":"red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/pistacia/pistacia-general.svg"
   },
   {
      "botanicalName":"Pittosporum crassifolium",
@@ -14319,7 +14321,8 @@
      "flowerColor":"green",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/plagianthus/plagianthus-general.svg"
   },
   {
      "botanicalName":"Planchonella costata",
@@ -14338,7 +14341,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/planchonella/planchonella-general.svg"
   },
   {
      "botanicalName":"Platanus x acerifolia",
@@ -14967,7 +14970,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/poliothyrsis/poliothyrsis-general.svg"
   },
   {
      "botanicalName":"Prumnopitys ferruginea",
@@ -14985,7 +14989,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/prumnopitys/prumnopitys-general.svg"
   },
   {
      "botanicalName":"Prumnopitys taxifolia",
@@ -15003,7 +15008,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/prumnopitys/prumnopitys-general.svg"
   },
   {
      "botanicalName":"Prunus 'Accolade'",
