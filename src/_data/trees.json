@@ -13613,7 +13613,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/phebalium/phebalium-general.svg"
   },
   {
      "botanicalName":"Phebalium squameum 'Illumination'",
@@ -13631,7 +13632,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green, yellow",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/phebalium/phebalium-general.svg"
   },
   {
      "botanicalName":"Photinia 'Dark Knight'",
