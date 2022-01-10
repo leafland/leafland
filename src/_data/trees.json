@@ -15982,7 +15982,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"yellow, green, red",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/pseudowintera/pseudowintera-general.svg"
   },
   {
      "botanicalName":"Pyrus betulifolia 'Autumn Leaves'",
@@ -16367,7 +16368,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/quercus-upright/quercus-upright.svg"
+     "treeShape":"images/icons/tree-shapes/quercus/quercus-upright.svg"
   },
   {
      "botanicalName":"Quercus rubra",
