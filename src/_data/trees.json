@@ -9226,7 +9226,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/libocedrus/libocedrus-general.svg"
   },
   {
      "botanicalName":"Liquidambar acalycina",
@@ -13709,7 +13710,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/phyllocladus/phyllocladus-general.svg"
   },
   {
      "botanicalName":"Picea engelmannii subsp. mexicana",
