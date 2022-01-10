@@ -8666,7 +8666,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":"autumn"
+     "fruitingSeason":"autumn",
+     "treeShape":"images/icons/tree-shapes/juglans/juglans-general.svg"
   },
   {
      "botanicalName":"Juglans regia",
@@ -8684,7 +8685,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/juglans/juglans-general.svg"
   },
   {
      "botanicalName":"Juniperus chinensis 'Kaizuka'",
@@ -17670,7 +17672,8 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens"
+     "topTrees":"small-gardens",
+     "treeShape":"images/icons/tree-shapes/viburnum/viburnum-general.svg"
   },
   {
      "botanicalName":"Viburnum tinus 'Eve Price'",
@@ -17688,7 +17691,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/viburnum/viburnum-general.svg"
   },
   {
      "botanicalName":"Vitex lucens",
@@ -17707,7 +17711,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/vitex/vitex-general.svg"
   },
   {
      "botanicalName":"Walnut 'Meyric'",
@@ -17725,7 +17729,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/walnut/walnut-general.svg"
   },
   {
      "botanicalName":"Walnut 'Shannon'",
@@ -17743,7 +17748,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/walnut/walnut-general.svg"
   },
   {
      "botanicalName":"Walnut 'Wilsons Wonder'",
@@ -17761,7 +17767,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/walnut/walnut-general.svg"
   },
   {
      "botanicalName":"Washingtonia robusta",
@@ -17799,7 +17806,8 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, paddocks-and-shade"
+     "topTrees":"autumn-color, paddocks-and-shade",
+     "treeShape":"images/icons/tree-shapes/zelkova/zelkova-general.svg"
   },
   {
      "botanicalName":"Zelkova serrata 'Kiwi Sunset'",
@@ -17817,6 +17825,7 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/zelkova/zelkova-general.svg"
   }
 ]
