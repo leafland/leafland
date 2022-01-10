@@ -17169,7 +17169,8 @@
      "flowerColor":"",
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/taxodium/taxodium-general.svg"
   },
   {
      "botanicalName":"Taxodium distichum 'McLaren Falls'",
@@ -17187,7 +17188,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/taxodium/taxodium-weeping.svg"
   },
   {
      "botanicalName":"Taxodium distichum var. mexicanum",
@@ -17206,7 +17208,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/taxodium/taxodium-wide.svg"
   },
   {
      "botanicalName":"Taxus baccata",
