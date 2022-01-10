@@ -16673,7 +16673,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"paddocks-and-shade",
-     "treeShape":"images/icons/tree-shapes/salix-weeping/salix-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/salix/salix-weeping.svg"
   },
   {
      "botanicalName":"Salix caprea 'Pendula'",
@@ -16692,7 +16692,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/salix-weeping/salix-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/salix/salix-weeping.svg"
   },
   {
      "botanicalName":"Salix matsudana 'Tortuosa'",
@@ -16730,7 +16730,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/salix-weeping/salix-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/salix/salix-weeping.svg"
   },
   {
      "botanicalName":"Schinus molle",
@@ -16748,7 +16748,8 @@
      "flowerColor":"yellow, white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/schinus/schinus-general.svg"
   },
   {
      "botanicalName":"Sciadopitys verticillata",
@@ -16766,7 +16767,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/sciadopitys/sciadopitys-general.svg"
   },
   {
      "botanicalName":"Sequoia sempervirens",
