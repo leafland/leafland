@@ -16481,7 +16481,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/radermachera/radermachera-general.svg"
   },
   {
      "botanicalName":"Rhopalostylis sapida",
@@ -16500,7 +16501,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/tall-palm/tall-palm.svg"
+     "treeShape":"images/icons/tree-shapes/rhopalostylis/rhopalostylis-general.svg"
   },
   {
      "botanicalName":"Rhopalostylis sapida var. chathamica",
@@ -16519,7 +16520,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/tall-palm/tall-palm.svg"
+     "treeShape":"images/icons/tree-shapes/rhopalostylis/rhopalostylis-general.svg"
   },
   {
      "botanicalName":"Robinia \"Bella's Gold\"",
