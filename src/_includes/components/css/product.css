@@ -287,12 +287,14 @@ body.page-loaded #order-block {
 
 .tree-icon {
   border: none;
+  width: 40px;
+  height: 40px;
 }
 
 #tree-icons {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 #color-section {
