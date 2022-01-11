@@ -85,6 +85,11 @@
           "width": "{{ width | safe}}",
           "winterFoliage": "{{ winterFoliage | safe }}",
           "origin": "{{ origin | safe }}",
+          "uses": "{{ uses | safe }}",
+          "types": "{{ types | safe }}",
+          "soilType": "{{ soilType | safe }}",
+          "tolerates": "{{ tolerates | safe }}",
+          "sunShade": "{{ sunShade | safe }}",
           "flowerColor": "{{ flowerColor | safe }}",
           "autumnColor": "{{ autumnColor | safe }}",
           "foliageColor": "{{ foliageColor | safe }}",
@@ -95,7 +100,10 @@
             "ratingValue": "5",
             "reviewCount": "1"
           },
-          "brand": "Leafland Limited",
+          "brand": {
+            "@type": "Organization",
+            "name": "Leafland Limited"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Leafland Limited",
@@ -103,7 +111,7 @@
               "@type": "ImageObject",
               "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
             }
-            }
+          }
         }
       </script>
     {% else %}
