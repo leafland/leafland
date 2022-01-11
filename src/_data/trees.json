@@ -530,7 +530,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Crimson Queen'",
@@ -549,7 +549,7 @@
      "autumnColor":"red",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Emerald Lace'",
@@ -568,7 +568,7 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Flavescens'",
@@ -587,7 +587,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Garnet'",
@@ -606,7 +606,7 @@
      "autumnColor":"purple, red",
      "foliageColor":"purple, red",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Inaba-shidare'",
@@ -625,7 +625,7 @@
      "autumnColor":"red",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Orangeola'",
@@ -644,7 +644,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Palmatifidum'",
@@ -682,7 +682,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Raraflora'",
@@ -758,7 +758,7 @@
      "autumnColor":"red",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Tamukeyama'",
@@ -777,7 +777,7 @@
      "autumnColor":"red",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum dissectum 'Viridis'",
@@ -796,7 +796,7 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-weeping/acer-palmatum-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg"
   },
   {
      "botanicalName":"Acer palmatum 'Fireglow'",
@@ -1102,7 +1102,7 @@
      "foliageColor":"purple",
      "fruitingSeason":"",
      "topTrees":"narrow-spaces",
-     "treeShape":"images/icons/tree-shapes/acer-palmatum-upright/acer-palmatum-upright.svg"
+     "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-upright.svg"
   },
   {
      "botanicalName":"Acer palmatum 'Sumi-nagashi'",
@@ -1235,7 +1235,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-platanoides-upright/acer-platanoides-upright.svg"
+     "treeShape":"images/icons/tree-shapes/acer-platanoides/acer-platanoides-upright.svg"
   },
   {
      "botanicalName":"Acer platanoides 'Drummondii'",
@@ -1274,7 +1274,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"topiary",
-     "treeShape":"images/icons/tree-shapes/acer-platanoides-topiary/acer-platanoides-topiary.svg"
+     "treeShape":"images/icons/tree-shapes/acer-platanoides/acer-platanoides-topiary.svg"
   },
   {
      "botanicalName":"Acer platanoides 'Nigrum'",
@@ -1428,7 +1428,7 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-rubrum-upright/acer-rubrum-upright.svg"
+     "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg"
   },
   {
      "botanicalName":"Acer rubrum 'Autumn Glory'",
@@ -1467,7 +1467,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"narrow-spaces",
-     "treeShape":"images/icons/tree-shapes/acer-rubrum-upright/acer-rubrum-upright.svg"
+     "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg"
   },
   {
      "botanicalName":"Acer rubrum 'Brandywine'",
@@ -1505,7 +1505,7 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/acer-rubrum-upright/acer-rubrum-upright.svg"
+     "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg"
   },
   {
      "botanicalName":"Acer rubrum 'Jeffersred'",
@@ -6231,7 +6231,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/cunonia/cunonia-general.svg"
   },
   {
      "botanicalName":"Cupressus arizonica var. glabra 'Blue Ice'",
@@ -6268,7 +6269,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"blue, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/cupressus/cupressus-general.svg"
   },
   {
      "botanicalName":"Cupressus gigantea",
@@ -6286,7 +6288,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"blue, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/cupressus/cupressus-general.svg"
   },
   {
      "botanicalName":"Cupressus x leylandii 'Ferndown'",
@@ -6534,7 +6537,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/cycas/cycas-general.svg"
   },
   {
      "botanicalName":"Dacrycarpus dacrydioides",
