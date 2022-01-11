@@ -114,18 +114,25 @@ type: product
 
                     <div id="tree-icons">
 
-                        {% if tolerates !== "" and tolerates.length > 0 %}
+                        {% if origin !== "" and origin.length > 0 %}
 
-                            {% for item in tolerates.split(", ") %}
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg">
+                                <span class="tooltip">{{ origin }} origin</span>
+                            
+                            </div>
 
-                                <div class="icon-div">
-                                
-                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
-                                    <span class="tooltip">Tolerates {{ item.replace('-', ' ') }} sites</span>
-                                
-                                </div>
+                        {% endif %}
 
-                            {% endfor %}
+                        {% if winterFoliage !== "" and winterFoliage.length > 0 %}
+
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg">
+                                <span class="tooltip">{{ winterFoliage }}</span>
+                            
+                            </div>
 
                         {% endif %}
 
@@ -137,6 +144,21 @@ type: product
                                 
                                     <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
                                     <span class="tooltip">{{ item }}</span>
+                                
+                                </div>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if tolerates !== "" and tolerates.length > 0 %}
+
+                            {% for item in tolerates.split(", ") %}
+
+                                <div class="icon-div">
+                                
+                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                    <span class="tooltip">Tolerates {{ item.replace('-', ' ') }} sites</span>
                                 
                                 </div>
 
@@ -169,28 +191,6 @@ type: product
                                 {% endif %}
 
                             {% endfor %}
-
-                        {% endif %}
-
-                        {% if origin !== "" and origin.length > 0 %}
-
-                            <div class="icon-div">
-                            
-                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg">
-                                <span class="tooltip">{{ origin }}</span>
-                            
-                            </div>
-
-                        {% endif %}
-
-                        {% if winterFoliage !== "" and winterFoliage.length > 0 %}
-
-                            <div class="icon-div">
-                            
-                                <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg">
-                                <span class="tooltip">{{ winterFoliage }}</span>
-                            
-                            </div>
 
                         {% endif %}
 
