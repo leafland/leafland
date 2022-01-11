@@ -71,49 +71,102 @@
 
     {% if type === 'product' %}
 
-      <script type="application/ld+json">
-        {
-          "@context": "https://schema.org/", 
-          "@type": "Product", 
-          "name": "{{ botanicalName | safe}}",
-          "botanicalName": "{{ botanicalName | safe}}",
-          "commonName": "{{ commonName | safe}}",
-          "image": "{{ image | safe}}",
-          "description": "{{ description | safe}}",
-          "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
-          "height": "{{ height | safe}}",
-          "width": "{{ width | safe}}",
-          "winterFoliage": "{{ winterFoliage | safe }}",
-          "origin": "{{ origin | safe }}",
-          "uses": "{{ uses | safe }}",
-          "types": "{{ types | safe }}",
-          "soilType": "{{ soilType | safe }}",
-          "tolerates": "{{ tolerates | safe }}",
-          "sunShade": "{{ sunShade | safe }}",
-          "flowerColor": "{{ flowerColor | safe }}",
-          "autumnColor": "{{ autumnColor | safe }}",
-          "foliageColor": "{{ foliageColor | safe }}",
-          "fruitingSeason": "{{ fruitingSeason | safe }}",
-          "floweringSeason": "{{ floweringSeason | safe }}",
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "1"
-          },
-          "brand": {
-            "@type": "Organization",
-            "name": "Leafland Limited"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Leafland Limited",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
-            }
+      {% if commonName === "" %}
+
+        <script type="application/ld+json">
+          {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+
+              "name": "{{ botanicalName | safe}}",
+              "botanicalName": "{{ botanicalName | safe}}",
+              "commonName": "{{ commonName | safe}}",
+              "image": "{{ image | safe}}",
+              "description": "{{ description | safe}}",
+              "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
+              "height": "{{ height | safe}}",
+              "width": "{{ width | safe}}",
+              "winterFoliage": "{{ winterFoliage | safe }}",
+              "origin": "{{ origin | safe }}",
+              "uses": "{{ uses | replace('-', ' ') | safe }}",
+              "types": "{{ types | replace('-', ' ') | safe }}",
+              "soilType": "{{ soilType | replace('-', ' ') | safe }}",
+              "tolerates": "{{ tolerates | replace('-', ' ') | safe }}",
+              "sunShade": "{{ sunShade | replace('-', ' ') | safe }}",
+              "flowerColor": "{{ flowerColor | safe }}",
+              "autumnColor": "{{ autumnColor | safe }}",
+              "foliageColor": "{{ foliageColor | safe }}",
+              "fruitingSeason": "{{ fruitingSeason | safe }}",
+              "floweringSeason": "{{ floweringSeason | safe }}",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+              },
+              "brand": {
+                "@type": "Organization",
+                "name": "Leafland Limited"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Leafland Limited",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
+                }
+              }
           }
-        }
-      </script>
+        </script>
+
+      {% else %}
+
+        <script type="application/ld+json">
+          {
+            "@context": "https://schema.org/", 
+            "@type": "Product", 
+
+              "name": "{{ botanicalName | safe}} ({{ commonName | safe}})",
+              "botanicalName": "{{ botanicalName | safe}}",
+              "commonName": "{{ commonName | safe}}",
+              "image": "{{ image | safe}}",
+              "description": "{{ description | safe}}",
+              "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
+              "height": "{{ height | safe}}",
+              "width": "{{ width | safe}}",
+              "winterFoliage": "{{ winterFoliage | safe }}",
+              "origin": "{{ origin | safe }}",
+              "uses": "{{ uses | replace('-', ' ') | safe }}",
+              "types": "{{ types | replace('-', ' ') | safe }}",
+              "soilType": "{{ soilType | replace('-', ' ') | safe }}",
+              "tolerates": "{{ tolerates | replace('-', ' ') | safe }}",
+              "sunShade": "{{ sunShade | replace('-', ' ') | safe }}",
+              "flowerColor": "{{ flowerColor | safe }}",
+              "autumnColor": "{{ autumnColor | safe }}",
+              "foliageColor": "{{ foliageColor | safe }}",
+              "fruitingSeason": "{{ fruitingSeason | safe }}",
+              "floweringSeason": "{{ floweringSeason | safe }}",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+              },
+              "brand": {
+                "@type": "Organization",
+                "name": "Leafland Limited"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Leafland Limited",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
+                }
+              }
+          }
+        </script>
+
+      {% endif %}
+
     {% else %}
 
       <script type="application/ld+json">
@@ -124,11 +177,11 @@
             "description": "{{description | safe }}",
             "publisher": {
                 "@type": "Organization",
-            "name": "Leafland Limited",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
-            }
+                "name": "Leafland Limited",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://new.leafland.co.nz/public/assets/logo/leafland-logo.svg"
+                }
             }
         }
       </script>
