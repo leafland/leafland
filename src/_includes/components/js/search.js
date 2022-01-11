@@ -129,7 +129,11 @@ async function search(terms) {
         searchData[i].winterFoliage
       } ${searchData[i].origin} ${typesValue} ${searchData[i].flowerColor} ${
         searchData[i].foliageColor
-      } ${searchData[i].autumnColor}`
+      } ${searchData[i].autumnColor} ${searchData[i].soilType} ${
+        searchData[i].uses
+      } ${searchData[i].sunShade} ${searchData[i].tolerates} ${
+        searchData[i].types
+      }`
         .replace(/'/g, "")
         .replace(/"/g, "")
         .replace(/\(/g, "")
