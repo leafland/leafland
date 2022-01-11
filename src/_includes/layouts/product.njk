@@ -109,6 +109,38 @@ type: product
                             </div>
 
                         {% endif %}
+
+                        {% if fruitingSeason !== "" and fruitingSeason.length > 0 %}
+
+                            <div class="season-div">
+
+                                    <p class="bold-up">Fruiting Season</p>
+
+                                    {% for item in fruitingSeason.split(", ") %}
+
+                                        <span class="season">{{item[0].toUpperCase()}}{{item.substring(1)}}</span>
+
+                                    {% endfor %}
+
+                            </div>
+
+                        {% endif %}
+
+                        {% if floweringSeason !== "" and floweringSeason.length > 0 %}
+
+                            <div class="season-div">
+
+                                    <p class="bold-up">Flowering Season</p>
+
+                                    {% for item in floweringSeason.split(", ") %}
+
+                                        <span class="season">{{item[0].toUpperCase()}}{{item.substring(1)}}</span>
+
+                                    {% endfor %}
+
+                            </div>
+
+                        {% endif %}
                     
                     </div>
 

@@ -359,6 +359,22 @@ body.page-loaded #order-block {
   background: #443730;
 }
 
+.season-div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+.season {
+  font-size: var(--font-size-2);
+  background: var(--primary-text);
+  color: var(--secondary-background);
+  border-radius: 8px;
+  font-weight: bold;
+  padding: 0.3rem 0.6rem;
+}
+
 .tree-icons {
   grid-row-start: 2;
 }
