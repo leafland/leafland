@@ -362,7 +362,7 @@ body.page-loaded #order-block {
 .season-div {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
 }
 
