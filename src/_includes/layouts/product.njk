@@ -155,12 +155,25 @@ type: product
 
                             {% for item in tolerates.split(", ") %}
 
-                                <div class="icon-div">
-                                
-                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
-                                    <span class="tooltip">Tolerates {{ item.replace('-', ' ') }} sites</span>
-                                
-                                </div>
+                                {% if item === 'drought' or item === 'heavy-rainfall' %}
+
+                                    <div class="icon-div">
+                                    
+                                        <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                        <span class="tooltip">Tolerates {{ item.replace('-', ' ') }}</span>
+                                    
+                                    </div>
+
+                                {% else %}
+
+                                    <div class="icon-div">
+                                    
+                                        <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                        <span class="tooltip">Tolerates {{ item.replace('-', ' ') }} sites</span>
+                                    
+                                    </div>
+
+                                {% endif %}
 
                             {% endfor %}
 
