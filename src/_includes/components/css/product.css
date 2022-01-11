@@ -309,8 +309,6 @@ body.page-loaded #order-block {
   margin-top: 2rem;
   gap: 2rem;
   flex-wrap: wrap;
-  grid-column-start: 1;
-  grid-column-end: 3;
 }
 
 .color-div {
@@ -455,8 +453,6 @@ body.lightbox-open #image-lightbox {
   justify-items: center;
   max-width: 200px;
   justify-self: center;
-  grid-row-start: 2;
-  grid-column-start: 2;
 }
 
 #tree-shape p {
@@ -678,6 +674,14 @@ body.loggedIn #retail-price {
 
   #grid-content-right {
     padding: 2rem;
+  }
+  #color-section {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+  #tree-shape {
+    grid-row-start: 2;
+    grid-column-start: 2;
   }
 }
 
