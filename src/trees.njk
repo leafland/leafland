@@ -19,7 +19,7 @@ type: tree-finder
                 <option value="attracts-bees">Attracts Bees</option>
                 <option value="driveways-and-avenues">Driveways and Avenues</option>
                 <option value="hedging-and-screening">Hedging and Screening</option>
-                <option value="narrow-spaces">Narrow Spaces</option>
+                <option value="narrow-sites">Narrow Sites</option>
                 <option value="paddocks">Paddocks</option>
                 <option value="pleaching">Pleaching</option>
                 <option value="small-garden">Small Garden</option>
@@ -29,9 +29,11 @@ type: tree-finder
             </optgroup>
 
             <optgroup label="Tolerates">
-                <option value="clay">Clay Soils</option>
                 <option value="coastal">Coastal Sites</option>
-                <option value="dry">Dry Sites</option>
+                <option value="drought">Drought</option>
+                <option value="heavy-frost">Heavy Frost</option>
+                <option value="heavy-rainfall">Heavy Rainfall</option>
+                <option value="light-frost">Light Frost</option>
                 <option value="wet">Wet Sites</option>
                 <option value="windy">Windy Sites</option>
             </optgroup>
@@ -39,6 +41,9 @@ type: tree-finder
             <optgroup label="Types">
                 <option value="conifer">Conifer</option>
                 <option value="edible">Edible</option>
+                <option value="ornamental-bark">Ornamental Bark</option>
+                <option value="toxic-to-animals">Toxic To Animals</option>
+                <option value="upright">Upright</option>
                 <option value="weeping">Weeping</option>
             </optgroup>
 
@@ -51,6 +56,22 @@ type: tree-finder
             <optgroup label="Origin">
                 <option value="exotic">Exotic</option>
                 <option value="native">Native</option>
+            </optgroup>
+
+            <optgroup label="Soil Type">
+                <option value="clay-soils">Clay Soils</option>
+                <option value="dry-soils">Dry Soils</option>
+                <option value="peat-soils">Peat Soils</option>
+                <option value="poor-draining-soils">Poor Draining Soils</option>
+                <option value="pumice-soils">Pumice Soils</option>
+                <option value="rocky-soils">Rocky Soils</option>
+                <option value="sandy-soils">Sandy Soils</option>
+            </optgroup>
+
+            <optgroup label="Sun and Shade">
+                <option value="full-sun">Full Sun</option>
+                <option value="full-shade">Full Shade</option>
+                <option value="part-shade">Part Shade</option>
             </optgroup>
 
             <optgroup label="Height">
@@ -220,23 +241,28 @@ type: tree-finder
                     <div class="options-group">
 
                         <div>
-                            <input type="checkbox" id="clay" value="clay">
-                            <label for="clay">Clay Soils</label>
-                        </div>
-
-                        <div>
                             <input type="checkbox" id="coastal" value="coastal">
                             <label for="coastal">Coastal Sites</label>
                         </div>
 
                         <div>
-                            <input type="checkbox" id="dry" value="dry">
-                            <label for="dry">Dry Sites</label>
+                            <input type="checkbox" id="drought" value="drought">
+                            <label for="drought">Drought</label>
                         </div>
 
                         <div>
-                            <input type="checkbox" id="wet" value="wet">
-                            <label for="wet">Wet Sites</label>
+                            <input type="checkbox" id="heavy-frost" value="heavy-frost">
+                            <label for="heavy-frost">Heavy Frost</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="heavy-rainfall" value="heavy-rainfall">
+                            <label for="heavy-rainfall">Heavy Rainfall</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="light-frost" value="light-frost">
+                            <label for="light-frost">Light Frost</label>
                         </div>
 
                         <div>
@@ -270,6 +296,21 @@ type: tree-finder
                         <div>
                             <input type="checkbox" id="edible" value="edible">
                             <label for="edible">Edible</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="ornamental-bark" value="ornamental-bark">
+                            <label for="ornamental-bark">Ornamental Bark</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="toxic-to-animals" value="toxic-to-animals">
+                            <label for="toxic-to-animals">Toxic To Animals</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="upright" value="upright">
+                            <label for="upright">Upright</label>
                         </div>
 
                         <div>
@@ -336,6 +377,92 @@ type: tree-finder
                         <div>
                             <input type="checkbox" id="native" value="native">
                             <label for="native">Native</label>
+                        </div>
+
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+                
+                    <summary>
+                    
+                        <span>Soil Type</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div class="options-group">
+
+                        <div>
+                            <input type="checkbox" id="clay-soils" value="clay-soils">
+                            <label for="clay-soils">Clay Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="dry-soils" value="dry-soils">
+                            <label for="dry-soils">Dry Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="peat-soils" value="peat-soils">
+                            <label for="peat-soils">Peat Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="poor-draining-soils" value="poor-draining-soils">
+                            <label for="poor-draining-soils">Poor Draining Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="pumice-soils" value="pumice-soils">
+                            <label for="pumice-soils">Pumice Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="rocky-soils" value="rocky-soils">
+                            <label for="rocky-soils">Rocky Soils</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="sandy-soils" value="sandy-soils">
+                            <label for="sandy-soils">Sandy Soils</label>
+                        </div>
+
+                    </div>
+
+                </details>
+
+                <details class="checkbox-group">
+                
+                    <summary>
+                    
+                        <span>Sun and Shade</span>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="right-icon"><g data-name="Layer 2"><g data-name="arrow-ios-forward"><rect width="24" height="24" transform="rotate(-90 12 12)" opacity="0"/><path d="M10 19a1 1 0 0 1-.64-.23 1 1 0 0 1-.13-1.41L13.71 12 9.39 6.63a1 1 0 0 1 .15-1.41 1 1 0 0 1 1.46.15l4.83 6a1 1 0 0 1 0 1.27l-5 6A1 1 0 0 1 10 19z"/></g></g></svg>
+
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="down-icon"><g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/><path d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/></g></g></svg>
+                    
+                    </summary>
+
+                    <div class="options-group">
+
+                        <div>
+                            <input type="checkbox" id="full-sun" value="full-sun">
+                            <label for="full-sun">Full Sun</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="full-shade" value="full-shade">
+                            <label for="full-shade">Full Shade</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="part-shade" value="part-shade">
+                            <label for="part-shade">Part Shade</label>
                         </div>
 
                     </div>

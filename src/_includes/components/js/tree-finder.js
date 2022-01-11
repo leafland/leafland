@@ -222,6 +222,18 @@ async function populatePage(
           compareValue += `${value}`;
         });
       }
+      if (tree.soilType !== "" && tree.soilType !== undefined) {
+        let compareArray = tree.soilType.split(", ");
+        compareArray.forEach((value) => {
+          compareValue += `${value}`;
+        });
+      }
+      if (tree.sunShade !== "" && tree.sunShade !== undefined) {
+        let compareArray = tree.sunShade.split(", ");
+        compareArray.forEach((value) => {
+          compareValue += `${value}`;
+        });
+      }
       if (tree.types !== "" && tree.types !== undefined) {
         let compareArray = tree.types.split(", ");
         compareArray.forEach((value) => {
