@@ -286,6 +286,11 @@ body.page-loaded #order-block {
   text-transform: uppercase;
 }
 
+.tree-icon:hover + .tooltip {
+  opacity: 1;
+  z-index: 1;
+}
+
 .tree-icon {
   border: none;
   width: 40px;
@@ -655,10 +660,6 @@ body.loggedIn #retail-price {
   #add-product:hover:disabled {
     background: none;
     color: var(--primary-text);
-  }
-  .tree-icon:hover + .tooltip {
-    opacity: 1;
-    z-index: 1;
   }
 
   .tree-content a:hover {
