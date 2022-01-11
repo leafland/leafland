@@ -295,6 +295,7 @@ body.page-loaded #order-block {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  align-content: start;
 }
 
 #color-section {
