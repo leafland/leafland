@@ -194,6 +194,21 @@ type: product
 
                         {% endif %}
 
+                        {% if sunShade !== "" and sunShade.length > 0 %}
+
+                            {% for item in sunShade.split(", ") %}
+
+                                <div class="icon-div">
+                                
+                                    <img class="tree-icon" src="https://files.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg">
+                                    <span class="tooltip">{{ item.replace('-', ' ').replace('-', ' ') }}</span>
+                                
+                                </div>
+
+                            {% endfor %}
+
+                        {% endif %}
+
                         {% if uses !== "" and uses.length > 0 %}
 
                             {% for item in uses.split(", ") %}
