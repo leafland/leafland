@@ -9696,7 +9696,8 @@
      "flowerColor":"red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/knightia/knightia-general.svg"
   },
   {
      "botanicalName":"Koelreuteria paniculata",
@@ -9716,7 +9717,8 @@
      "flowerColor":"yellow",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/koelreuteria/koelreuteria-general.svg"
   },
   {
      "botanicalName":"Kunzea ericoides",
@@ -9736,7 +9738,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/kunzea/kunzea-general.svg"
   },
   {
      "botanicalName":"Laburnum alpinum 'Pendulum'",
@@ -10009,7 +10012,8 @@
      "flowerColor":"pink",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/lagunaria/lagunaria-general.svg"
   },
   {
      "botanicalName":"Larix kaempferi",
@@ -10029,7 +10033,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/larix/larix-general.svg"
   },
   {
      "botanicalName":"Laurelia novae-zelandiae",
@@ -10049,7 +10054,8 @@
      "flowerColor":"green, white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/laurelia/laurelia-general.svg"
   },
   {
      "botanicalName":"Laurus nobilis",
@@ -10070,7 +10076,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape":"images/icons/tree-shapes/laurus/laurus-general.svg"
   },
   {
      "botanicalName":"Laurus nobilis 'BayGold'",
@@ -10090,7 +10097,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"yellow, green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/laurus/laurus-general.svg"
   },
   {
      "botanicalName":"Leptospermum nitidum 'Copper Sheen'",
@@ -10365,7 +10373,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"topiary",
-     "treeShape":"images/icons/tree-shapes/liquidambar-topiary/liquidambar-topiary.svg"
+     "treeShape":"images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg"
   },
   {
      "botanicalName":"Liquidambar styraciflua 'Lane Roberts'",
@@ -10577,7 +10585,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/liriodendron-upright/liriodendron-upright.svg"
+     "treeShape":"images/icons/tree-shapes/liriodendron/liriodendron-upright.svg"
   },
   {
      "botanicalName":"Liriodendron tulipifera 'Snowbird'",
@@ -10598,7 +10606,7 @@
      "autumnColor":"yellow",
      "foliageColor":"white, green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/liriodendron-upright/liriodendron-upright.svg"
+     "treeShape":"images/icons/tree-shapes/liriodendron/liriodendron-upright.svg"
   },
   {
      "botanicalName":"Lophostemon confertus",
@@ -10618,7 +10626,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/lophostemon/lophostemon-general.svg"
   },
   {
      "botanicalName":"Lophozonia menziesii",
@@ -10659,7 +10668,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/loquat/loquat-general.svg"
   },
   {
      "botanicalName":"Loquat japonica",
@@ -10679,7 +10689,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, spring"
+     "fruitingSeason":"summer, spring",
+     "treeShape":"images/icons/tree-shapes/loquat/loquat-general.svg"
   },
   {
      "botanicalName":"Macadamia 'Beaumont'",
@@ -10700,7 +10711,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"images/icons/tree-shapes/vase-shape/vase-shape.svg"
+     "treeShape":"images/icons/tree-shapes/macadamia/macadamia-general.svg"
   },
   {
      "botanicalName":"Macadamia 'GT 205'",
@@ -10721,7 +10732,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"summer, autumn",
-     "treeShape":"images/icons/tree-shapes/vase-shape/vase-shape.svg"
+     "treeShape":"images/icons/tree-shapes/macadamia/macadamia-general.svg"
   },
   {
      "botanicalName":"Magnolia acuminata 'Koban Dori'",
@@ -10911,7 +10922,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/magnolia-upright/magnolia-upright.svg"
+     "treeShape":"images/icons/tree-shapes/magnolia/magnolia-upright.svg"
   },
   {
      "botanicalName":"Magnolia 'Butterflies'",
@@ -11080,7 +11091,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"narrow-sites",
-     "treeShape":"images/icons/tree-shapes/magnolia-upright/magnolia-upright.svg"
+     "treeShape":"images/icons/tree-shapes/magnolia/magnolia-upright.svg"
   },
   {
      "botanicalName":"Magnolia denudata",
@@ -11775,7 +11786,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/magnolia-upright/magnolia-upright.svg"
+     "treeShape":"images/icons/tree-shapes/magnolia/magnolia-upright.svg"
   },
   {
      "botanicalName":"Magnolia 'Red As'",
@@ -12217,7 +12228,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/magnolia-upright/magnolia-upright.svg"
+     "treeShape":"images/icons/tree-shapes/magnolia/magnolia-upright.svg"
   },
   {
      "botanicalName":"Magnolia 'Sundance'",
