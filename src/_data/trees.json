@@ -7603,7 +7603,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/eucryphia/eucryphia-general.svg"
   },
   {
      "botanicalName":"Eucryphia x nymansensis 'Nymansay'",
@@ -7623,7 +7624,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/eucryphia/eucryphia-general.svg"
   },
   {
      "botanicalName":"Fagus sylvatica",
@@ -8340,7 +8342,7 @@
      "autumnColor":"yellow",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/fraxinus-weeping/fraxinus-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-weeping.svg"
   },
   {
      "botanicalName":"Fraxinus excelsior 'Green Glow'",
@@ -8384,7 +8386,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"driveways-and-avenues",
-     "treeShape":"images/icons/tree-shapes/fraxinus-upright/fraxinus-upright.svg"
+     "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-upright.svg"
   },
   {
      "botanicalName":"Fraxinus griffithii",
@@ -8405,7 +8407,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/fraxinus-bushy/fraxinus-bushy.svg"
+     "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-bushy.svg"
   },
   {
      "botanicalName":"Fraxinus ornus",
@@ -8510,7 +8512,8 @@
      "flowerColor":"green",
      "autumnColor":"",
      "foliageColor":"blue, grey",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/furcraea/furcraea-general.svg"
   },
   {
      "botanicalName":"Fuscospora cliffortioides",
