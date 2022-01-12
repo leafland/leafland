@@ -9019,7 +9019,7 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "topTrees":"paddocks",
-     "treeShape":"images/icons/tree-shapes/large-round-head/large-round-head.svg"
+     "treeShape":"images/icons/tree-shapes/grevillea/grevillea-general.svg"
   },
   {
      "botanicalName":"Griselinia littoralis",
@@ -9230,7 +9230,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/hedycarya/hedycarya-general.svg"
   },
   {
      "botanicalName":"Hibiscus syriacus 'Snowdrift'",
@@ -9250,7 +9251,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/hibiscus/hibiscus-general.svg"
   },
   {
      "botanicalName":"Hoheria angustifolia",
@@ -9417,7 +9419,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/hymenosporum/hymenosporum-general.svg"
   },
   {
      "botanicalName":"Idesia polycarpa 'Female'",
@@ -9437,7 +9440,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/idesia/idesia-general.svg"
   },
   {
      "botanicalName":"Idesia polycarpa 'Male'",
@@ -9457,7 +9461,8 @@
      "flowerColor":"",
      "autumnColor":"yellow",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/idesia/idesia-general.svg"
   },
   {
      "botanicalName":"Ilex x altaclerensis 'Hendersonii'",
@@ -9477,7 +9482,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/ilex/ilex-upright.svg"
   },
   {
      "botanicalName":"Ilex crenata 'Sky Pencil'",
@@ -9498,7 +9504,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites, small-gardens"
+     "topTrees":"narrow-sites, small-gardens",
+     "treeShape":"images/icons/tree-shapes/ilex/ilex-narrow.svg"
   },
   {
      "botanicalName":"Ilex 'Largo'",
@@ -9519,7 +9526,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape":"images/icons/tree-shapes/ilex/ilex-upright.svg"
   },
   {
      "botanicalName":"Ilex x meserveae 'Blue Angel'",
@@ -9539,7 +9547,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/ilex/ilex-upright.svg"
   },
   {
      "botanicalName":"Ilex x meserveae 'Blue Prince'",
@@ -9559,7 +9568,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/ilex/ilex-upright.svg"
   },
   {
      "botanicalName":"Jacaranda mimosifolia",
@@ -9580,7 +9590,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers"
+     "topTrees":"beautiful-flowers",
+     "treeShape":"images/icons/tree-shapes/jacaranda/jacaranda-general.svg"
   },
   {
      "botanicalName":"Juglans nigra",
@@ -9642,7 +9653,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/juniperus/juniperus-exotic.svg"
   },
   {
      "botanicalName":"Juniperus scopulorum 'Skyrocket'",
@@ -9663,7 +9675,8 @@
      "autumnColor":"",
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites"
+     "topTrees":"narrow-sites",
+     "treeShape":"images/icons/tree-shapes/juniperus/juniperus-upright.svg"
   },
   {
      "botanicalName":"Knightia excelsa",
