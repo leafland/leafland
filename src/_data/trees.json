@@ -7244,7 +7244,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/dacrycarpus/dacrycarpus-general.svg"
   },
   {
      "botanicalName":"Dacrydium cupressinum",
@@ -7264,7 +7265,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/dacrydium/dacrydium-general.svg"
   },
   {
      "botanicalName":"Daphniphyllum macropodum",
@@ -7284,7 +7286,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/daphniphyllum/daphniphyllum-general.svg"
   },
   {
      "botanicalName":"Davidia involucrata",
@@ -7304,7 +7307,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/davidia/davidia-general.svg"
   },
   {
      "botanicalName":"Dicksonia fibrosa",
@@ -7366,7 +7370,8 @@
      "flowerColor":"green, yellow, red",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/dodonaea/dodonaea-general.svg"
   },
   {
      "botanicalName":"Dodonaea viscosa 'Purpurea'",
@@ -7386,7 +7391,8 @@
      "flowerColor":"green, yellow, red",
      "autumnColor":"",
      "foliageColor":"purple",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/dodonaea/dodonaea-general.svg"
   },
   {
      "botanicalName":"Drepanostachyum falcatum",
@@ -7406,7 +7412,8 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/drepanostachyum/drepanostachyum-general.svg"
   },
   {
      "botanicalName":"Dysoxylum spectabile",
@@ -7426,7 +7433,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/dysoxylum/dysoxylum-general.svg"
   },
   {
      "botanicalName":"Elaeagnus x submacrophylla",
@@ -7447,7 +7455,8 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary"
+     "topTrees":"topiary",
+     "treeShape":"images/icons/tree-shapes/elaeagnus/elaeagnus-general.svg"
   },
   {
      "botanicalName":"Eucalyptus cinerea",
