@@ -8617,7 +8617,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/gardenia/gardenia-general.svg"
   },
   {
      "botanicalName":"Garrya elliptica",
@@ -8637,7 +8638,8 @@
      "flowerColor":"green, grey",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/garrya/garrya-general.svg"
   },
   {
      "botanicalName":"Ginkgo biloba",
@@ -8701,7 +8703,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ginkgo-upright/ginkgo-upright.svg"
+     "treeShape":"images/icons/tree-shapes/ginkgo/ginkgo-upright.svg"
   },
   {
      "botanicalName":"Ginkgo biloba 'Jade Butterflies'",
@@ -8722,7 +8724,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ginkgo-small/ginkgo-small.svg"
+     "treeShape":"images/icons/tree-shapes/ginkgo/ginkgo-small.svg"
   },
   {
      "botanicalName":"Ginkgo biloba 'Little Weeper'",
@@ -8764,7 +8766,7 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/ginkgo-small/ginkgo-small.svg"
+     "treeShape":"images/icons/tree-shapes/ginkgo/ginkgo-small.svg"
   },
   {
      "botanicalName":"Ginkgo biloba 'Pendula'",
@@ -8931,7 +8933,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/gordonia/gordonia-general.svg"
   },
   {
      "botanicalName":"Gordonia yunnanensis",
@@ -8951,7 +8954,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/gordonia/gordonia-general.svg"
   },
   {
      "botanicalName":"Gordonia yunnanensis 'Moonlight Magic'",
@@ -8971,7 +8975,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/gordonia/gordonia-general.svg"
   },
   {
      "botanicalName":"Gordonia yunnanensis 'Red Tips'",
@@ -8991,7 +8996,8 @@
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/gordonia/gordonia-general.svg"
   },
   {
      "botanicalName":"Grevillea robusta",
@@ -9738,7 +9744,7 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/large/large-weeping.svg"
+     "treeShape":"images/icons/tree-shapes/laburnum/laburnum-weeping.svg"
   },
   {
      "botanicalName":"Laburnum x watereri 'Vossii'",
@@ -9758,7 +9764,8 @@
      "flowerColor":"yellow",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":""
+     "fruitingSeason":"",
+     "treeShape":"images/icons/tree-shapes/laburnum/laburnum-general.svg"
   },
   {
      "botanicalName":"Lagerstroemia 'Bergerac'",
