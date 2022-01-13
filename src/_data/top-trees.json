@@ -25,9 +25,9 @@
         "url": "narrow-spaces"
     },
     {
-        "title": "Top Trees for Paddocks and Shade",
-        "id": "paddocks-and-shade",
-        "url": "paddocks-shade"
+        "title": "Top Trees for Paddocks",
+        "id": "paddocks",
+        "url": "paddocks"
     },
     {
         "title": "Top Trees for Pleaching",
@@ -38,6 +38,11 @@
         "title": "Top Trees for Small Gardens",
         "id": "small-gardens",
         "url": "small-gardens"
+    },
+    {
+        "title": "Top Trees for Shade",
+        "id": "shade",
+        "url": "shade"
     },
     {
         "title": "Top Trees for Topiary",
