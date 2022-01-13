@@ -578,6 +578,10 @@ async function createRelatedTrees(productTreeData) {
     "uses",
     "tolerates",
     "winterFoliage",
+    "soilType",
+    "sunShade",
+    "height",
+    "width",
     "origin",
     "types",
     "floweringSeason",
@@ -612,60 +616,56 @@ async function createRelatedTrees(productTreeData) {
       if (
         relatedTreesData[i].botanicalName !== productTreeData[0].botanicalName
       ) {
-        let add = false;
-
-        for (let j = 0; j < relatedTreesKeywords.length; j++) {
-          if (
-            productTreeData[0][relatedTreesKeywords[j]] ===
-            relatedTreesData[i][relatedTreesKeywords[j]]
-          ) {
-            add = true;
-          } else {
-            add = false;
-            break;
-          }
-        }
-
-        if (add) {
-          relatedTrees.push(relatedTreesData[i]);
-        }
-      }
-    }
-
-    if (relatedTrees.length === 0) {
-      let compareName = "";
-      for (i = 0; i < relatedTreesData.length; i++) {
-        if (relatedTrees.length > 11) {
-          break;
-        }
-
         if (
-          relatedTreesData[i].botanicalName !== productTreeData[0].botanicalName
+          relatedTreesData[i].botanicalName.split(" ")[0] ===
+          productTreeData[0].botanicalName.split(" ")[0]
         ) {
           if (
             productTreeData[0].botanicalName.split(" ")[1].search("'") === -1 &&
-            productTreeData[0].botanicalName.split(" ")[1] !== "x"
+            productTreeData[0].botanicalName.split(" ")[1] !== "x" &&
+            relatedTreesData[i].botanicalName.split(" ")[1].search("'") ===
+              -1 &&
+            relatedTreesData[i].botanicalName.split(" ")[1] !== "x"
           ) {
-            compareName = `${productTreeData[0].botanicalName.split(" ")[0]} ${
-              productTreeData[0].botanicalName.split(" ")[1]
-            }`;
             if (
-              compareName.search(
-                relatedTreesData[i].botanicalName.split(" ")[0]
-              ) !== -1 &&
-              compareName.search(
-                relatedTreesData[i].botanicalName.split(" ")[1]
-              ) !== -1
+              relatedTreesData[i].botanicalName.split(" ")[1] ===
+              productTreeData[0].botanicalName.split(" ")[1]
             ) {
               relatedTrees.push(relatedTreesData[i]);
             }
           } else {
-            compareName = `${productTreeData[0].botanicalName.split(" ")[0]}`;
+            relatedTrees.push(relatedTreesData[i]);
+          }
+        }
+      }
+    }
+
+    if (relatedTrees.length < 12) {
+      for (let i = 0; i < relatedTreesData.length; i++) {
+        if (relatedTrees.length > 11) {
+          break;
+        }
+        if (
+          relatedTreesData[i].botanicalName !== productTreeData[0].botanicalName
+        ) {
+          let add = 0;
+
+          for (let j = 0; j < relatedTreesKeywords.length; j++) {
             if (
-              compareName.search(
-                relatedTreesData[i].botanicalName.split(" ")[0]
-              ) !== -1
+              productTreeData[0][relatedTreesKeywords[j]] ===
+              relatedTreesData[i][relatedTreesKeywords[j]]
             ) {
+              add++;
+            }
+          }
+
+          if (add > 8) {
+            const result = relatedTrees.find(
+              ({ botanicalName }) =>
+                botanicalName === relatedTreesData[i].botanicalName
+            );
+
+            if (result === undefined) {
               relatedTrees.push(relatedTreesData[i]);
             }
           }
