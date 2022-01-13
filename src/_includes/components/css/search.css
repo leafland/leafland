@@ -176,7 +176,7 @@ body.search-loaded #search-results {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #search:hover {
+  input#search:hover {
     cursor: text;
   }
 
@@ -199,19 +199,19 @@ body.search-loaded #search-results {
 }
 
 @media (min-width: 800px) {
-  #search-results-inner {
+  div#search-results-inner {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 1200px) {
-  #search-results-inner {
+  div#search-results-inner {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media (min-width: 1500px) {
-  #search-results-inner {
+  div#search-results-inner {
     grid-template-columns: repeat(4, 1fr);
   }
 }

@@ -40,7 +40,7 @@ main img {
 }
 
 @media (min-width: 1200px) {
-  #content-grid {
+  div#content-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }

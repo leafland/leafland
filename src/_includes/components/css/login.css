@@ -85,9 +85,9 @@
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #log-out:hover,
-  #log-in:hover,
-  #close-login:hover {
+  button#log-out:hover,
+  input#log-in:hover,
+  button#close-login:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

@@ -18,7 +18,6 @@ main textarea {
   margin-top: 5rem;
   grid-template-columns: 1fr;
   justify-items: center;
-  padding: 0.5rem;
 }
 
 #grid-content-right,
@@ -171,7 +170,7 @@ main label {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #grid-content-right .send-order:hover {
+  div#grid-content-right .send-order:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
@@ -197,7 +196,7 @@ main label {
 }
 
 @media (min-width: 1000px) {
-  #grid-content-left-inner {
+  div#grid-content-left-inner {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -208,7 +207,7 @@ main label {
 }
 
 @media (min-width: 1100px) {
-  #form-trees {
+  div#form-trees {
     grid-template-columns: repeat(2, 1fr);
   }
 }

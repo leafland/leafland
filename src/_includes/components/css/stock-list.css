@@ -121,9 +121,9 @@ tr td:nth-child(2) {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #pagination #next:hover:enabled,
-  #pagination #prev:hover:enabled,
-  #content .button:hover {
+  div#pagination #next:hover:enabled,
+  div#pagination #prev:hover:enabled,
+  div#content .button:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

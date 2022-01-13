@@ -308,7 +308,7 @@ p.paragraph-title {
   text-transform: uppercase;
 }
 
-main p a:not(label a) {
+main p a {
   text-decoration: underline;
 }
 
@@ -616,7 +616,7 @@ body.menu-open #main-menu-overlay {
 
 @media (min-width: 650px) {
   main,
-  #header {
+  nav#header {
     padding: 2rem;
   }
 
@@ -627,13 +627,13 @@ body.menu-open #main-menu-overlay {
 }
 
 @media (min-width: 1000px) {
-  #footer-links {
+  div#footer-links {
     grid-template-columns: repeat(3, auto);
   }
 }
 
 @media (min-width: 1350px) {
-  #email-signup {
+  div#email-signup {
     grid-template-columns: auto 1fr;
   }
   #subscribe-form {

@@ -648,8 +648,8 @@ body.loggedIn #retail-price {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #add-product:hover,
-  #image-lightbox-close:hover {
+  input#add-product:hover,
+  button#image-lightbox-close:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
@@ -665,7 +665,7 @@ body.loggedIn #retail-price {
 }
 
 @media (min-width: 650px) {
-  #tree-info-right {
+  div#tree-info-right {
     grid-template-columns: repeat(2, 1fr);
   }
   #tree-shape {
@@ -686,25 +686,25 @@ body.loggedIn #retail-price {
 }
 
 @media (min-width: 800px) {
-  #related-trees {
+  div#related-trees {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 1000px) {
-  #stock-information {
+  div#stock-information {
     grid-template-columns: 1fr 1fr;
   }
 }
 
 @media (min-width: 1100px) {
-  #grade-sizes {
+  div#grade-sizes {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 1200px) {
-  #grid-content {
+  div#grid-content {
     grid-template-columns: repeat(2, 1fr);
   }
   #order-block {
@@ -713,7 +713,7 @@ body.loggedIn #retail-price {
 }
 
 @media (min-width: 1350px) {
-  #related-trees {
+  div#related-trees {
     grid-template-columns: repeat(3, 1fr);
   }
 }

@@ -197,19 +197,19 @@ details > summary {
 }
 
 @media (min-width: 1000px) {
-  #tree-wrapper {
+  div#tree-wrapper {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 1500px) {
-  #tree-wrapper {
+  div#tree-wrapper {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #no-products {
+  div#no-products {
     grid-column-start: 1;
     grid-column-end: 3;
   }
