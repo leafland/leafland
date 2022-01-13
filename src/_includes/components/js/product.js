@@ -575,20 +575,20 @@ async function createStockValues() {
 
 async function createRelatedTrees(productTreeData) {
   let relatedTreesKeywords = [
-    "uses",
-    "tolerates",
-    "winterFoliage",
-    "soilType",
-    "sunShade",
-    "height",
-    "width",
-    "origin",
-    "types",
-    "floweringSeason",
-    "flowerColor",
-    "autumnColor",
-    "foliageColor",
-    "fruitingSeason",
+    { keyword: "uses", weight: "2" },
+    { keyword: "tolerates", weight: "2" },
+    { keyword: "winterFoliage", weight: "1" },
+    { keyword: "soilType", weight: "1" },
+    { keyword: "sunShade", weight: "1" },
+    { keyword: "height", weight: "1" },
+    { keyword: "width", weight: "1" },
+    { keyword: "origin", weight: "1" },
+    { keyword: "types", weight: "2" },
+    { keyword: "floweringSeason", weight: "2" },
+    { keyword: "flowerColor", weight: "2" },
+    { keyword: "autumnColor", weight: "2" },
+    { keyword: "foliageColor", weight: "2" },
+    { keyword: "fruitingSeason", weight: "2" },
   ];
 
   let relatedTreesData = await fetch(
@@ -648,18 +648,18 @@ async function createRelatedTrees(productTreeData) {
         if (
           relatedTreesData[i].botanicalName !== productTreeData[0].botanicalName
         ) {
-          let add = 0;
+          let weightedValue = 0;
 
           for (let j = 0; j < relatedTreesKeywords.length; j++) {
             if (
-              productTreeData[0][relatedTreesKeywords[j]] ===
-              relatedTreesData[i][relatedTreesKeywords[j]]
+              productTreeData[0][relatedTreesKeywords[j].keyword] ===
+              relatedTreesData[i][relatedTreesKeywords[j].keyword]
             ) {
-              add++;
+              weightedValue += parseInt(relatedTreesKeywords[j].weight);
             }
           }
 
-          if (add > 8) {
+          if (weightedValue > 12) {
             const result = relatedTrees.find(
               ({ botanicalName }) =>
                 botanicalName === relatedTreesData[i].botanicalName
