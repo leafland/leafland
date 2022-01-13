@@ -460,7 +460,7 @@ async function createStockValues() {
 
       gradeSizeSelect.appendChild(selectValue);
 
-      if (parseInt(grade.comingOn) !== 0) {
+      if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
         if (comingOn.textContent.length === 17) {
           comingOn.innerHTML += ` ${grade.grade} (<span class="accent-color">${grade.comingOn}</span>)`;
         } else {
