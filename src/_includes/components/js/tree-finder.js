@@ -363,7 +363,7 @@ async function populatePage(
     buttonDiv.style.setProperty("opacity", "0");
 
     treeWrapper.innerHTML = "";
-    noProducts.textContent = "No trees found. Try a different filter query.";
+    noProducts.textContent = "No trees found. Try different filter options.";
     treeWrapper.insertAdjacentElement("afterbegin", noProducts);
 
     loadMoreButton.disabled = true;
