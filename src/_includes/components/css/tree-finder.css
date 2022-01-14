@@ -196,6 +196,50 @@ details > summary {
   transform: rotate(90deg);
 }
 
+.filter-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.tree-color {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  display: inline-block;
+}
+
+.blue {
+  background: #2196f3;
+}
+.grey {
+  background: #808080;
+}
+.red {
+  background: #e22525;
+}
+.orange {
+  background: #ff9800;
+}
+.yellow {
+  background: #ffeb3b;
+}
+.purple {
+  background: #9c27b0;
+}
+.pink {
+  background: #ffbdbd;
+}
+.green {
+  background: #8bc34a;
+}
+.white {
+  background: #ffffff;
+}
+.brown {
+  background: #443730;
+}
+
 @media (min-width: 1000px) {
   div#tree-wrapper {
     grid-template-columns: repeat(2, 1fr);
@@ -222,9 +266,8 @@ details > summary {
   }
 
   #filter .options-group {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
+    display: grid;
+    grid-gap: 1rem;
     padding: 1rem;
     background: var(--secondary-background);
     border-radius: 8px;
@@ -234,7 +277,7 @@ details > summary {
   #filter .options-group > div {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 1rem;
   }
 
   #filter-container,
