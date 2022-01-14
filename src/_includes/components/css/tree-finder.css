@@ -253,7 +253,7 @@ details > summary {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  div#no-products {
+  p#no-products {
     grid-column-start: 1;
     grid-column-end: 3;
   }
