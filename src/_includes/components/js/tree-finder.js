@@ -199,46 +199,25 @@ async function populatePage(
       let compareValue = "";
 
       if (tree.uses !== "" && tree.uses !== undefined) {
-        let compareArray = tree.uses.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.uses}`;
       }
       if (tree.tolerates !== "" && tree.tolerates !== undefined) {
-        let compareArray = tree.tolerates.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.tolerates}`;
       }
       if (tree.winterFoliage !== "" && tree.winterFoliage !== undefined) {
-        let compareArray = tree.winterFoliage.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.winterFoliage}`;
       }
       if (tree.origin !== "" && tree.origin !== undefined) {
-        let compareArray = tree.origin.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.origin}`;
       }
       if (tree.soilType !== "" && tree.soilType !== undefined) {
-        let compareArray = tree.soilType.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.soilType}`;
       }
       if (tree.sunShade !== "" && tree.sunShade !== undefined) {
-        let compareArray = tree.sunShade.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.sunShade}`;
       }
       if (tree.types !== "" && tree.types !== undefined) {
-        let compareArray = tree.types.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}`;
-        });
+        compareValue += `${tree.types}`;
       }
       if (tree.height !== "" && tree.height !== undefined) {
         let compareArray = tree.height.split(", ");
