@@ -658,6 +658,11 @@ body.loggedIn #retail-price {
     color: var(--primary-text);
   }
 
+  #add-product:hover:enabled {
+    background: var(--primary-text);
+    color: var(--secondary-background);
+  }
+
   .tree-content a:hover {
     color: var(--primary-text);
     background: var(--secondary-background);
