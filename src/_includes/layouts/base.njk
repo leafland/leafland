@@ -9,11 +9,7 @@
     <link rel="preload" href="/public/assets/fonts/Inter-Bold.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/public/assets/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 
-    {% if type === "product" %}
-    <meta name="description" content="{{ metaDescription }}"/>
-    {% else %}
-    <meta name="description" content="{{ description | safe }}"/>
-    {% endif %}
+    <meta name="description" content="{{ description | escape }}"/>
 
     <link rel='preconnect' href="https://ik.imagekit.io/leafland">
     <link rel='dns-prefetch' href="https://ik.imagekit.io/leafland">

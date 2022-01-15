@@ -10,7 +10,6 @@ type: product
 eleventyComputed:
     botanicalName: "{{ tree.botanicalName | safe }}"
     commonName: "{{ tree.commonName | safe }}"
-    metaDescription: "{{ tree.description }}"
     description: "{{ tree.description | safe }}"
     image: "https://ik.imagekit.io/leafland/images/trees/{{tree.url | safe}}.jpg?tr:w-1000,q-75,f-auto"
     url: "{{tree.url | safe }}"
