@@ -121,8 +121,8 @@ h6 {
   --font-size-4: clamp(1.37rem, 1.21rem + 0.8vw, 1.78rem);
   --font-size-5: clamp(1.71rem, 1.45rem + 1.29vw, 2.37rem);
   --font-size-6: clamp(2.14rem, 1.74rem + 1.99vw, 3.16rem);
-  --font-size-7: clamp(2.67rem, 2.07rem + 3vw, 4.21rem);
-  --font-size-8: clamp(3.34rem, 2.45rem + 4.43vw, 5.61rem);
+  --font-size-7: clamp(2rem, 2.07rem + 3vw, 4.21rem);
+  --font-size-8: clamp(1.5rem, 1rem + 5vw, 5.5rem);
 }
 
 [data-theme="dark"] {
@@ -491,7 +491,7 @@ header button {
   display: flex;
   justify-self: end;
   gap: 1rem;
-  margin-right: 2rem;
+  /* margin-right: 2rem; */
   flex-wrap: wrap;
 }
 
@@ -505,7 +505,7 @@ header button {
 /* FOOTER */
 footer {
   margin-top: 10rem;
-  padding: 1rem;
+  /* padding: 1rem; */
 }
 footer p {
   font-weight: bold;
