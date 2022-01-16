@@ -158,6 +158,11 @@
     background: var(--primary-text);
     color: var(--secondary-background);
   }
+  #order-inner button:hover {
+    background: var(--primary-text);
+    color: var(--secondary-background);
+    border-color: var(--primary-text);
+  }
 }
 
 @media (min-width: 450px) {
