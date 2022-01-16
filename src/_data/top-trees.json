@@ -2,51 +2,61 @@
     {
         "title": "Top Trees for Autumn Colour",
         "id": "autumn-color",
-        "url": "autumn-colour"
+        "url": "autumn-colour",
+        "description": "Leafland's top trees for stunning autumn colors."
     },
     {
         "title": "Top Trees for Beautiful Flowers",
         "id": "beautiful-flowers",
-        "url": "beautiful-flowers"
+        "url": "beautiful-flowers",
+        "description": "Leafland's top trees for beautiful flowers."
     },
     {
         "title": "Top Trees for Driveways and Avenues",
         "id": "driveways-and-avenues",
-        "url": "driveways-avenues"
+        "url": "driveways-avenues",
+        "description": "Leafland's top trees for lining driveways and avenues."
     },
     {
         "title": "Top Trees for Hedging and Screening",
         "id": "hedging-and-screening",
-        "url": "hedging-screening"
+        "url": "hedging-screening",
+        "description": "Leafland's top trees for privacy hedging and screening."
     },
     {
-        "title": "Top Trees for Narrow Spaces",
-        "id": "narrow-spaces",
-        "url": "narrow-spaces"
+        "title": "Top Trees for Narrow Sites",
+        "id": "narrow-sites",
+        "url": "narrow-sites",
+        "description": "Leafland's top trees for restricted and narrow sites."
     },
     {
         "title": "Top Trees for Paddocks",
         "id": "paddocks",
-        "url": "paddocks"
+        "url": "paddocks",
+        "description": "Leafland's top trees for farms and paddocks."
     },
     {
         "title": "Top Trees for Pleaching",
         "id": "pleaching",
-        "url": "pleaching"
+        "url": "pleaching",
+        "description": "Leafland's top trees for pleaching."
     },
     {
         "title": "Top Trees for Small Gardens",
         "id": "small-gardens",
-        "url": "small-gardens"
+        "url": "small-gardens",
+        "description": "Leafland's top trees for small gardens."
     },
     {
         "title": "Top Trees for Shade",
         "id": "shade",
-        "url": "shade"
+        "url": "shade",
+        "description": "Leafland's top trees for shade."
     },
     {
         "title": "Top Trees for Topiary",
         "id": "topiary",
-        "url": "topiary"
+        "url": "topiary",
+        "description": "Leafland's top trees for topiary."
     }
 ]
