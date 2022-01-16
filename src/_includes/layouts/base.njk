@@ -62,10 +62,10 @@
     {% endif %}
 
     <title>
-      {% if type === "index" %}Leafland Wholesale Tree Nursery
-      {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Wholesale Tree Nursery
-      {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Wholesale Tree Nursery
-      {% else %}{{ title | safe }} - Leafland Wholesale Tree Nursery
+      {% if type === "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% else %}{{ title | safe }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
       {% endif %}
     </title>
 
