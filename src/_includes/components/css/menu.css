@@ -206,6 +206,10 @@ li.sub-menu-button button div svg {
   .dropdown-menu:hover > .dropdown-menu-button {
     background: var(--button-background-hover);
   }
+
+  #desktop-menu .button:hover {
+    color: var(--primary-text);
+  }
 }
 
 @media (min-width: 400px) {
