@@ -593,7 +593,7 @@ body.loggedIn #retail-price {
   display: grid;
   grid-gap: 2rem;
   grid-template-rows: 1fr auto;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .tree-content > div {
@@ -690,6 +690,9 @@ body.loggedIn #retail-price {
   #tree-shape {
     grid-row-start: 2;
     grid-column-start: 2;
+  }
+  .tree-content {
+    padding: 2rem;
   }
 }
 

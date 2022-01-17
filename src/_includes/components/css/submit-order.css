@@ -7,7 +7,7 @@ main input[type="tel"],
 main input[type="email"],
 main select,
 main textarea {
-  min-width: 300px;
+  /* min-width: 300px; */
   width: 100%;
   border-color: var(--primary-text);
 }

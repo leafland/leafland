@@ -192,13 +192,13 @@ body.search-loaded #search-results {
   }
 }
 
-@media (min-width: 400px) {
+@media (min-width: 650px) {
   .surface-content {
     padding: 2rem;
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 700px) {
   div#search-results-inner {
     grid-template-columns: repeat(2, 1fr);
   }

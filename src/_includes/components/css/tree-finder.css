@@ -53,7 +53,7 @@ input[type="checkbox"] {
   display: grid;
   grid-gap: 2rem;
   grid-template-rows: 1fr auto;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .title-link-box h2 {
@@ -238,6 +238,12 @@ details > summary {
 }
 .brown {
   background: #443730;
+}
+
+@media (min-width: 650px) {
+  .title-link-box {
+    padding: 2rem;
+  }
 }
 
 @media (min-width: 1000px) {
