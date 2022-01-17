@@ -8,9 +8,6 @@ main h2 {
   text-transform: uppercase;
 }
 
-.tree-botanical-name {
-}
-
 .tree-common-name {
   font-size: var(--font-size-4);
   background: var(--secondary-background);

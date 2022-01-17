@@ -284,6 +284,7 @@ body {
   min-height: 100vh;
   color: var(--primary-text);
   background: var(--primary-background);
+  word-break: break-word;
 }
 
 body > footer {
