@@ -149,6 +149,7 @@
 
 #order-overlay-total .info-pill {
   font-size: var(--font-size-3);
+  white-space: normal;
 }
 
 #close-order {
