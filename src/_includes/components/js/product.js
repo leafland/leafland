@@ -461,16 +461,12 @@ async function createStockValues() {
       gradeSizeSelect.appendChild(selectValue);
 
       if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
-        if (comingOn.textContent.length === 17) {
-          comingOn.innerHTML += ` ${grade.grade} (<span class="accent-color">${grade.comingOn}</span>)`;
-        } else {
-          comingOn.innerHTML += `, ${grade.grade} (<span class="accent-color">${grade.comingOn}</span>)`;
-        }
+        comingOn.innerHTML += `<span class="info-pill">${grade.grade} - ${grade.comingOn} total</span>`;
       }
     });
 
     if (comingOn.textContent.length === 17) {
-      comingOn.innerHTML += ' <span class="accent-color">none</span>';
+      comingOn.innerHTML += ' <span class="info-pill">none</span>';
     }
 
     let noStandardHeightQuantity = 0;
@@ -522,10 +518,10 @@ async function createStockValues() {
     standardHeightSelect.appendChild(standardHeightValue);
 
     let quantity = document.createElement("p");
-    quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="quantity accent-color">${grades[0].heights[0].standardHeights[0].quantity}</span>`;
+    quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${grades[0].heights[0].standardHeights[0].quantity}</span>`;
 
     let stockPrice = document.createElement("p");
-    stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="accent-color">${grades[0].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="accent-color">${grades[0].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+    stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[0].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[0].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
 
     stockValuesDiv.appendChild(quantity);
     stockValuesDiv.appendChild(stockPrice);
@@ -974,10 +970,10 @@ function addEventListeners() {
         }
 
         let quantity = document.createElement("p");
-        quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="quantity accent-color">${standardQuantity}</span>`;
+        quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${standardQuantity}</span>`;
 
         let stockPrice = document.createElement("p");
-        stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="accent-color">${grades[i].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="accent-color">${grades[i].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+        stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
 
         stockValuesDiv.appendChild(quantity);
         stockValuesDiv.appendChild(stockPrice);
@@ -1081,10 +1077,10 @@ function addEventListeners() {
             }
 
             let quantity = document.createElement("p");
-            quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="quantity accent-color">${standardQuantity}</span>`;
+            quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${standardQuantity}</span>`;
 
             let stockPrice = document.createElement("p");
-            stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="accent-color">${grades[i].heights[j].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="accent-color">${grades[i].heights[j].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+            stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
 
             stockValuesDiv.appendChild(quantity);
             stockValuesDiv.appendChild(stockPrice);
@@ -1131,10 +1127,10 @@ function addEventListeners() {
                 event.target.value.split("?q=")[0]
               ) {
                 let quantity = document.createElement("p");
-                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="quantity accent-color">${grades[i].heights[j].standardHeights[k].quantity}</span>`;
+                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${grades[i].heights[j].standardHeights[k].quantity}</span>`;
 
                 let stockPrice = document.createElement("p");
-                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="accent-color">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="accent-color">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
+                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
 
                 stockValuesDiv.appendChild(quantity);
                 stockValuesDiv.appendChild(stockPrice);
@@ -1164,12 +1160,12 @@ function addEventListeners() {
                 break;
               } else if (event.target.value.split("?q=")[0] === "None") {
                 let quantity = document.createElement("p");
-                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="quantity accent-color">${
+                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
                   event.target.value.split("?q=")[1]
                 }</span>`;
 
                 let stockPrice = document.createElement("p");
-                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="accent-color">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="accent-color">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
+                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
 
                 stockValuesDiv.appendChild(quantity);
                 stockValuesDiv.appendChild(stockPrice);
