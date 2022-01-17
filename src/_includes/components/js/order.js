@@ -17,9 +17,9 @@ let orderTrees;
 
 function updateOrderTotal() {
   if (loggedIn) {
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${totalWholesaleCost}.00+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span class="info-pill">$${totalWholesaleCost}.00+GST (excluding freight)</span>`;
   } else {
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${totalRetailCost}.00+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span class="info-pill">$${totalRetailCost}.00+GST (excluding freight)</span>`;
   }
 }
 
@@ -113,17 +113,21 @@ async function updateOrder() {
       nameDiv.appendChild(itemBotanicalName);
 
       if (tree.commonName !== "") {
-        let itemCommonName = document.createElement("p");
-        itemCommonName.innerHTML = `<a href='${tree.url}' class="accent-color">${tree.commonName}</a>`;
+        let itemCommonName = document.createElement("a");
+        itemCommonName.href = `${tree.url}`;
+        itemCommonName.textContent = `${tree.commonName}`;
         itemCommonName.classList.add("order-common-name");
         nameDiv.appendChild(itemCommonName);
       }
 
+      let itemDiv = document.createElement("div");
+      itemDiv.classList.add("order-item-details");
+
       let itemGrade = document.createElement("p");
-      itemGrade.innerHTML = `Grade Size: <span class="accent-color">${tree.grade}</span>`;
+      itemGrade.innerHTML = `Grade Size: <span class="info-pill">${tree.grade}</span>`;
 
       let itemAverageHeight = document.createElement("p");
-      itemAverageHeight.innerHTML = `Average Height: <span class="accent-color">${
+      itemAverageHeight.innerHTML = `Average Height: <span class="info-pill">${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "<span class='lowercase'>m</span>"
@@ -132,19 +136,19 @@ async function updateOrder() {
       let itemStandardHeight = document.createElement("p");
 
       if (tree.standardHeight.match(/\d+/g) !== null) {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${
+        itemStandardHeight.innerHTML = `Standard Height: <span class="info-pill">${
           tree.standardHeight + "<span class='lowercase'>m</span>"
         }</span>`;
       } else {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${tree.standardHeight}</span>`;
+        itemStandardHeight.innerHTML = `Standard Height: <span class="info-pill">${tree.standardHeight}</span>`;
       }
 
       let itemPrice = document.createElement("p");
 
       if (loggedIn) {
-        itemPrice.innerHTML = `Price: <span class="accent-color">${tree.wholesalePrice}+GST (Wholesale)</span>`;
+        itemPrice.innerHTML = `Price: <span class="info-pill">${tree.wholesalePrice}+GST (Wholesale)</span>`;
       } else {
-        itemPrice.innerHTML = `Price: <span class="accent-color">${tree.retailPrice}+GST (Retail)</span>`;
+        itemPrice.innerHTML = `Price: <span class="info-pill">${tree.retailPrice}+GST (Retail)</span>`;
       }
 
       let itemQuantity = document.createElement("input");
@@ -268,10 +272,11 @@ async function updateOrder() {
       });
 
       leftDiv.appendChild(nameDiv);
-      leftDiv.appendChild(itemGrade);
-      leftDiv.appendChild(itemAverageHeight);
-      leftDiv.appendChild(itemStandardHeight);
-      leftDiv.appendChild(itemPrice);
+      leftDiv.appendChild(itemDiv);
+      itemDiv.appendChild(itemGrade);
+      itemDiv.appendChild(itemAverageHeight);
+      itemDiv.appendChild(itemStandardHeight);
+      itemDiv.appendChild(itemPrice);
       leftDiv.appendChild(itemQuantity);
       leftDiv.appendChild(removeItem);
 

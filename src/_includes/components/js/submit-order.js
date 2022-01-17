@@ -117,13 +117,8 @@ async function populateForm() {
     if (tree.commonName !== "") {
       let treeUrlCommon = document.createElement("a");
       treeUrlCommon.href = tree.url;
-
-      let commonName = document.createElement("p");
-      commonName.textContent = tree.commonName;
-      commonName.classList.add("common-name");
-      commonName.classList.add("accent-color");
-
-      treeUrlCommon.appendChild(commonName);
+      treeUrlCommon.textContent = tree.commonName;
+      treeUrlCommon.classList.add("common-name");
 
       treeNameDiv.appendChild(treeUrlCommon);
     }
@@ -134,27 +129,27 @@ async function populateForm() {
     treeInfoDiv.classList.add("tree-info");
 
     let gradeSize = document.createElement("p");
-    gradeSize.innerHTML = `Grade size: <span class="accent-color">${tree.grade}</span>`;
+    gradeSize.innerHTML = `Grade size: <span class="info-pill">${tree.grade}</span>`;
 
     let averageHeight = document.createElement("p");
-    averageHeight.innerHTML = `Average height: <span class="accent-color">${
+    averageHeight.innerHTML = `Average height: <span class="info-pill">${
       tree.averageHeight.toLowerCase() === "n/a"
         ? tree.averageHeight
         : tree.averageHeight + "<span class='lowercase'>m</span>"
     }</span>`;
 
     let standardHeight = document.createElement("p");
-    standardHeight.innerHTML = `Standard height: <span class="accent-color">${
+    standardHeight.innerHTML = `Standard height: <span class="info-pill">${
       tree.standardHeight.toLowerCase() === "none"
         ? tree.standardHeight
         : tree.standardHeight + "<span class='lowercase'>m</span>"
     }</span>`;
 
     let quantity = document.createElement("p");
-    quantity.innerHTML = `Quantity: <span class="accent-color">${tree.quantity}</span>`;
+    quantity.innerHTML = `Quantity: <span class="info-pill">${tree.quantity}</span>`;
 
     let price = document.createElement("p");
-    price.innerHTML = `Price per tree: <span class="accent-color">${
+    price.innerHTML = `Price per tree: <span class="info-pill">${
       loggedIn
         ? tree.wholesalePrice + "+GST (Wholesale)"
         : tree.retailPrice + "+GST (Retail)"
@@ -194,7 +189,7 @@ async function populateForm() {
     ) {
       if (freightPriceValue === "P.O.A") {
         poaGrade = true;
-        freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
+        freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">P.O.A</span></p>`;
 
         treesField.value += `<p style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b> || Grade: <b>${
           tree.grade
@@ -212,7 +207,7 @@ async function populateForm() {
             : tree.retailPrice + "+GST (Retail)"
         }</b> || Freight per tree: <b>P.O.A</b> </p><br>`;
       } else {
-        freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
+        freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">${freightPriceValue}+GST</span></p>`;
 
         treesField.value += `<p style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b> || Grade: <b>${
           tree.grade
@@ -234,7 +229,7 @@ async function populateForm() {
           parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
       }
     } else {
-      freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
+      freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">N/A</span></p>`;
 
       treesField.value += `<p style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b> || Grade: <b>${
         tree.grade
@@ -261,14 +256,14 @@ async function populateForm() {
   ) {
     if (poaGrade) {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">${minimumCharge}+GST (Minimum freight charge, excluding freight for P.O.A grades)</span>`;
+        freightTotal.innerHTML = `Freight total: <span class="info-pill">${minimumCharge}+GST (Minimum freight charge, excluding freight for P.O.A grades)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">$${totalFreight.toFixed(
+        freightTotal.innerHTML = `Freight total: <span class="info-pill">$${totalFreight.toFixed(
           2
         )}+GST (excluding freight for P.O.A grades)</span>`;
       }
 
-      orderTotal.innerHTML = `Order total: <span class="accent-color">$${
+      orderTotal.innerHTML = `Order total: <span class="info-pill">$${
         freightTotal.textContent.search("(Minimum freight charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
@@ -277,14 +272,14 @@ async function populateForm() {
       }+GST (excluding freight for P.O.A grades)</span>`;
     } else {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">${minimumCharge}+GST (Minimum freight charge)</span>`;
+        freightTotal.innerHTML = `Freight total: <span class="info-pill">${minimumCharge}+GST (Minimum freight charge)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">$${totalFreight.toFixed(
+        freightTotal.innerHTML = `Freight total: <span class="info-pill">$${totalFreight.toFixed(
           2
         )}+GST</span>`;
       }
 
-      orderTotal.innerHTML = `Order total: <span class="accent-color">$${
+      orderTotal.innerHTML = `Order total: <span class="info-pill">$${
         freightTotal.textContent.search("(Minimum freight charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
@@ -293,16 +288,16 @@ async function populateForm() {
       }+GST</span>`;
     }
 
-    treeTotal.innerHTML = `Tree total: <span class="accent-color">$${total}.00+GST</span>`;
+    treeTotal.innerHTML = `Tree total: <span class="info-pill">$${total}.00+GST</span>`;
   } else {
-    freightTotal.innerHTML = `Freight total: <span class="accent-color">N/A</span>`;
+    freightTotal.innerHTML = `Freight total: <span class="info-pill">N/A</span>`;
 
-    treeTotal.innerHTML = `Tree total: <span class="accent-color">$${parseInt(
+    treeTotal.innerHTML = `Tree total: <span class="info-pill">$${parseInt(
       total,
       10
     ).toFixed(2)}+GST</span>`;
 
-    orderTotal.innerHTML = `Order total: <span class="accent-color">$${parseInt(
+    orderTotal.innerHTML = `Order total: <span class="info-pill">$${parseInt(
       total,
       10
     ).toFixed(2)}+GST</span>`;
