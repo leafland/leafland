@@ -157,6 +157,11 @@ main label {
   text-transform: none;
 }
 
+footer label {
+  display: block;
+  text-transform: uppercase;
+}
+
 details > summary:focus {
   outline: none;
 }

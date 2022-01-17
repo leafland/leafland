@@ -142,6 +142,10 @@ main h3 {
   background: none;
 }
 
+footer {
+  padding: 1rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
   div#hero .button:hover {
     background: var(--primary-text);
