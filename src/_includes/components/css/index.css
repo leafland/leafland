@@ -157,6 +157,13 @@ footer {
     color: var(--secondary-background);
   }
 }
+
+@media (min-width: 650px) {
+  footer {
+    padding-bottom: 2rem;
+  }
+}
+
 @media (min-width: 1000px) {
   div#hero,
   .hero-image {

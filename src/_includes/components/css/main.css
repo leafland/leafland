@@ -569,6 +569,14 @@ footer p {
   grid-gap: 1rem;
   place-items: center;
 }
+
+/* #footer-links p:first-child {
+  justify-self: start;
+}
+
+#footer-links p:last-child {
+  justify-self: end;
+} */
 /*************************************/
 
 #page-content {
