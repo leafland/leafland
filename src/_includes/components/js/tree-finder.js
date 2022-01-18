@@ -438,7 +438,12 @@ async function populatePage(
                 imageDataSubset[imageDataSubset.length - 1].lastIndexOf(".")
               )
               .replace(/-/g, " ");
-            treeImage.loading = "lazy";
+
+            if (i === 0 || i === 1 || i === 2 || i === 3) {
+              treeImage.loading = "eager";
+            } else {
+              treeImage.loading = "lazy";
+            }
 
             imageDiv.appendChild(treeImage);
             treeItem.appendChild(imageDiv);
