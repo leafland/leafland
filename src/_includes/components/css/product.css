@@ -159,13 +159,13 @@ main
   grid-template-rows: auto 1fr;
 }
 
-#grid-content-left,
+/* #grid-content-left,
 #grid-content-right,
 #order-block {
   opacity: 0;
-}
+} */
 
-body.page-loaded #grid-content-left {
+/* body.page-loaded #grid-content-left {
   animation: fadeInUp 0.75s forwards var(--default-animation-easing);
 }
 
@@ -175,7 +175,7 @@ body.page-loaded #grid-content-right {
 
 body.page-loaded #order-block {
   animation: fadeInUp 0.75s 400ms forwards var(--default-animation-easing);
-}
+} */
 
 .tree-description {
 }
