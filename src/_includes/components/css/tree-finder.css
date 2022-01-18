@@ -11,6 +11,10 @@ main {
   margin-top: 5rem;
 }
 
+#grid-content-right {
+  min-height: 1500px;
+}
+
 input[type="checkbox"] {
 }
 
