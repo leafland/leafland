@@ -72,101 +72,51 @@
 
     {% if type === 'product' %}
 
-      {% if commonName === "" %}
+      
 
         <script type="application/ld+json">
           {
             "@context": "https://schema.org/", 
             "@type": "Product", 
-
-              "name": "{{ botanicalName | escape}}",
-              "botanicalName": "{{ botanicalName | escape}}",
-              "commonName": "{{ commonName | escape}}",
-              "image": "{{ image | safe}}",
-              "description": "{{ description | escape}}",
-              "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
-              "height": "{{ height | safe}}",
-              "width": "{{ width | safe}}",
-              "winterFoliage": "{{ winterFoliage | title | safe }}",
-              "origin": "{{ origin | title | safe }}",
-              "uses": "{{ uses | replace('-', ' ') | title | safe }}",
-              "types": "{{ types | replace('-', ' ') | title | safe }}",
-              "soilType": "{{ soilType | replace('-', ' ') | title | safe }}",
-              "tolerates": "{{ tolerates | replace('-', ' ') | title | safe }}",
-              "sunShade": "{{ sunShade | replace('-', ' ') | title | safe }}",
-              "flowerColour": "{{ flowerColor | title | safe }}",
-              "autumnColour": "{{ autumnColor | title | safe }}",
-              "foliageColour": "{{ foliageColor | title | safe }}",
-              "fruitingSeason": "{{ fruitingSeason | title | safe }}",
-              "floweringSeason": "{{ floweringSeason | title | safe }}",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "reviewCount": "10"
-              },
-              "brand": {
-                "@type": "Organization",
-                "name": "Leafland"
-              },
-              "publisher": {
-                "@type": "Organization",
-                "name": "Leafland Limited",
-                "logo": {
-                  "@type": "ImageObject",
-                  "url": "https://leafland.co.nz/public/assets/logo/leafland-logo.svg"
-                }
+            "name": "{% if commonName === "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
+            "botanicalName": "{{ botanicalName | escape}}",
+            {% if commonName !== "" %}"commonName": "{{ commonName | escape}}",{% endif %}
+            "image": "{{ image | safe}}",
+            "description": "{{ description | escape}}",
+            "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
+            "height": "{{ height | safe}}",
+            "width": "{{ width | safe}}",
+            "winterFoliage": "{{ winterFoliage | title | safe }}",
+            "origin": "{{ origin | title | safe }}",
+            "uses": "{{ uses | replace('-', ' ') | title | safe }}",
+            "types": "{{ types | replace('-', ' ') | title | safe }}",
+            "soilType": "{{ soilType | replace('-', ' ') | title | safe }}",
+            "tolerates": "{{ tolerates | replace('-', ' ') | title | safe }}",
+            "sunShade": "{{ sunShade | replace('-', ' ') | title | safe }}",
+            "flowerColour": "{{ flowerColor | title | safe }}",
+            "autumnColour": "{{ autumnColor | title | safe }}",
+            "foliageColour": "{{ foliageColor | title | safe }}",
+            "fruitingSeason": "{{ fruitingSeason | title | safe }}",
+            "floweringSeason": "{{ floweringSeason | title | safe }}",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "10"
+            },
+            "brand": {
+              "@type": "Organization",
+              "name": "Leafland"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Leafland Limited",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://leafland.co.nz/public/assets/logo/leafland-logo.svg"
               }
+            }
           }
         </script>
-
-      {% else %}
-
-        <script type="application/ld+json">
-          {
-            "@context": "https://schema.org/", 
-            "@type": "Product", 
-
-              "name": "{{ botanicalName | escape}} ({{ commonName | escape}})",
-              "botanicalName": "{{ botanicalName | escape}}",
-              "commonName": "{{ commonName | escape}}",
-              "image": "{{ image | safe}}",
-              "description": "{{ description | escape}}",
-              "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
-              "height": "{{ height | safe}}",
-              "width": "{{ width | safe}}",
-              "winterFoliage": "{{ winterFoliage | title | safe }}",
-              "origin": "{{ origin | title | safe }}",
-              "uses": "{{ uses | replace('-', ' ') | title | safe }}",
-              "types": "{{ types | replace('-', ' ') | title | safe }}",
-              "soilType": "{{ soilType | replace('-', ' ') | title | safe }}",
-              "tolerates": "{{ tolerates | replace('-', ' ') | title | safe }}",
-              "sunShade": "{{ sunShade | replace('-', ' ') | title | safe }}",
-              "flowerColour": "{{ flowerColor | title | safe }}",
-              "autumnColour": "{{ autumnColor | title | safe }}",
-              "foliageColour": "{{ foliageColor | title | safe }}",
-              "fruitingSeason": "{{ fruitingSeason | title | safe }}",
-              "floweringSeason": "{{ floweringSeason | title | safe }}",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "reviewCount": "10"
-              },
-              "brand": {
-                "@type": "Organization",
-                "name": "Leafland"
-              },
-              "publisher": {
-                "@type": "Organization",
-                "name": "Leafland Limited",
-                "logo": {
-                  "@type": "ImageObject",
-                  "url": "https://leafland.co.nz/public/assets/logo/leafland-logo.svg"
-                }
-              }
-          }
-        </script>
-
-      {% endif %}
 
     {% else %}
 
