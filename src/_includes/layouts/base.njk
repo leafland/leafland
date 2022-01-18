@@ -34,6 +34,21 @@
       #view{
         opacity:1
       }
+
+      {% if type === 'product' %}
+        #image-lightbox{
+          opacity: 0;
+          position: fixed;
+          z-index: -1;
+          left: 0;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          width: 100%;
+          height: 100%;
+          visibility: hidden;
+        }
+      {% endif %}
     </style>
 
     {% if type === "product" %}
