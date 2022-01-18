@@ -191,43 +191,39 @@ async function populateForm() {
         poaGrade = true;
         freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">P.O.A</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td>Grade: <b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
           tree.grade
-        }</b></td> <td>Average Height: <b>${
+        }</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
-        }</b></td> <td>Standard Height: <b>${
+        }</b></td> <td><b>${
           tree.standardHeight.toLowerCase() === "none"
             ? tree.standardHeight
             : tree.standardHeight + "m"
-        }</b></td> <td>Quantity: <b>${
-          tree.quantity
-        }</b></td> <td>Price per tree: <b>${
+        }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
           loggedIn
             ? tree.wholesalePrice + "+GST (Wholesale)"
             : tree.retailPrice + "+GST (Retail)"
-        }</b></td> <td>Freight per tree: <b>P.O.A</b><td> </tr>`;
+        }</b></td> <td><b>P.O.A</b><td> </tr>`;
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">${freightPriceValue}+GST</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td>Grade: <b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
           tree.grade
-        }</b></td> <td>Average Height: <b>${
+        }</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
-        }</b></td> <td>Standard Height: <b>${
+        }</b></td> <td><b>${
           tree.standardHeight.toLowerCase() === "none"
             ? tree.standardHeight
             : tree.standardHeight + "m"
-        }</b></td> <td>Quantity: <b>${
-          tree.quantity
-        }</b></td> <td>Price per tree: <b>${
+        }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
           loggedIn
             ? tree.wholesalePrice + "+GST (Wholesale)"
             : tree.retailPrice + "+GST (Retail)"
-        }</b></td> <td>Freight per tree: <b>${freightPriceValue}+GST</b></td> </tr>`;
+        }</b></td> <td><b>${freightPriceValue}+GST</b></td> </tr>`;
 
         totalFreight +=
           parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
@@ -235,23 +231,21 @@ async function populateForm() {
     } else {
       freightPrice.innerHTML = `<p>Freight per tree: <span class="info-pill">N/A</span></p>`;
 
-      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td>Grade: <b>${
+      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
         tree.grade
-      }</b></td> <td>Average Height: <b>${
+      }</b></td> <td><b>${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "m"
-      }</b></td> <td>Standard Height: <b>${
+      }</b></td> <td><b>${
         tree.standardHeight.toLowerCase() === "none"
           ? tree.standardHeight
           : tree.standardHeight + "m"
-      }</b></td> <td>Quantity: <b>${
-        tree.quantity
-      }</b></td> <td>Price per tree: <b>${
+      }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
         loggedIn
           ? tree.wholesalePrice + "+GST (Wholesale)"
           : tree.retailPrice + "+GST (Retail)"
-      }</b></td> <td>Freight per tree: <b>N/A</b></td> </tr>`;
+      }</b></td> <td><b>N/A</b></td> </tr>`;
     }
   });
 
