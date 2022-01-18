@@ -394,13 +394,13 @@ submitForm.addEventListener("submit", (event) => {
     trees: trees.value,
     freightRegion: region.value,
     freightTotal: freightTotal.innerHTML
-      .replace(/Freight total: <span class="accent-color">/, "")
+      .replace(/Freight total: <span class="info-pill">/, "")
       .replace(/<\/span>/, ""),
     treeTotal: treeTotal.innerHTML
-      .replace(/Tree total: <span class="accent-color">/, "")
+      .replace(/Tree total: <span class="info-pill">/, "")
       .replace(/<\/span>/, ""),
     orderTotal: orderTotal.innerHTML
-      .replace(/Order total: <span class="accent-color">/, "")
+      .replace(/Order total: <span class="info-pill">/, "")
       .replace(/<\/span>/, ""),
   });
   const requestOptions = {
