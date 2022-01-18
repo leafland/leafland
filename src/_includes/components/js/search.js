@@ -214,7 +214,7 @@ async function displayResults(results) {
     let imageDiv = document.createElement("div");
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://ik.imagekit.io/leafland/${
+    resultImage.src = `https://images.leafland.co.nz/${
       imageDataSubset[imageDataSubset.length - 1]
     }?tr=w-500,q-75,pr-true,f-auto`;
     resultImage.width = "500";

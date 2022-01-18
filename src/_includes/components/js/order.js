@@ -97,7 +97,7 @@ async function updateOrder() {
       rightDiv.classList.add("order-product-right");
 
       let itemImage = document.createElement("img");
-      itemImage.src = `https://ik.imagekit.io/leafland/${
+      itemImage.src = `https://images.leafland.co.nz/${
         imageDataSubset[imageDataSubset.length - 1]
       }?tr=w-300,q-75,pr-true,f-auto`;
       itemImage.width = "300";

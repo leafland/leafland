@@ -178,7 +178,7 @@ async function createTreeImages(productImageData) {
         productImageData[i].Key.search("jpeg") !== -1)
     ) {
       let image = document.createElement("img");
-      image.src = `https://ik.imagekit.io/leafland/${productImageData[i].Key}?tr=w-150,q-75,pr-true,f-auto`;
+      image.src = `https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-150,q-75,pr-true,f-auto`;
       image.width = "150";
       image.height = "150";
       image.alt = productImageData[i].Key.substring(
@@ -197,7 +197,7 @@ async function createTreeImages(productImageData) {
       fullImage.onload = () => {
         fullImage.style.setProperty("opacity", "1");
       };
-      fullImage.src = `https://ik.imagekit.io/leafland/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto`;
+      fullImage.src = `https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto`;
       fullImage.height = "1000";
       fullImage.width = "1000";
       fullImage.alt = productImageData[i].Key.substring(
@@ -208,7 +208,7 @@ async function createTreeImages(productImageData) {
       fullImage.classList.add("main-img");
 
       fullImage.addEventListener("click", () => {
-        imageLightboxInner.innerHTML = `<img src='https://ik.imagekit.io/leafland/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
+        imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
         document.body.classList.add("lightbox-open");
       });
 
@@ -256,7 +256,7 @@ async function createTreeImages(productImageData) {
     newImage.onload = () => {
       newImage.style.setProperty("opacity", "1");
     };
-    newImage.src = `https://ik.imagekit.io/leafland/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
+    newImage.src = `https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
     newImage.height = "1000";
     newImage.width = "1000";
     newImage.alt = productImageData[imagePosition].Key.substring(
@@ -267,7 +267,7 @@ async function createTreeImages(productImageData) {
     newImage.classList.add("main-img");
 
     newImage.addEventListener("click", () => {
-      imageLightboxInner.innerHTML = `<img src='https://ik.imagekit.io/leafland/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
+      imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
       document.body.classList.add("lightbox-open");
     });
 
@@ -300,7 +300,7 @@ async function createTreeImages(productImageData) {
     newImage.onload = () => {
       newImage.style.setProperty("opacity", "1");
     };
-    newImage.src = `https://ik.imagekit.io/leafland/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
+    newImage.src = `https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
     newImage.height = "1000";
     newImage.width = "1000";
     newImage.alt = productImageData[imagePosition].Key.substring(
@@ -311,7 +311,7 @@ async function createTreeImages(productImageData) {
     newImage.classList.add("main-img");
 
     newImage.addEventListener("click", () => {
-      imageLightboxInner.innerHTML = `<img src='https://ik.imagekit.io/leafland/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
+      imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
       document.body.classList.add("lightbox-open");
     });
 
@@ -709,7 +709,7 @@ async function createRelatedTrees(productTreeData) {
           }
 
           let treeImage = document.createElement("img");
-          treeImage.src = `https://ik.imagekit.io/leafland/${imagesSubset[0]}?tr=w-500,q-75,pr-true,f-auto`;
+          treeImage.src = `https://images.leafland.co.nz/${imagesSubset[0]}?tr=w-500,q-75,pr-true,f-auto`;
 
           let linkButton = document.createElement("a");
           linkButton.textContent = "View Tree";

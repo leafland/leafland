@@ -170,7 +170,7 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://ik.imagekit.io/leafland/${
+    treeImage.src = `https://images.leafland.co.nz/${
       imageDataSubset[imageDataSubset.length - 1]
     }?tr=w-300,q-75,pr-true,f-auto`;
     treeImage.loading = "lazy";

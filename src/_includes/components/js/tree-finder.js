@@ -426,7 +426,7 @@ async function populatePage(
           if (imageDataSubset.length > 0) {
             let treeImage = document.createElement("img");
 
-            treeImage.src = `https://ik.imagekit.io/leafland/${
+            treeImage.src = `https://images.leafland.co.nz/${
               imageDataSubset[imageDataSubset.length - 1]
             }?tr=w-500,q-75,pr-true,f-auto`;
             treeImage.width = "500";
