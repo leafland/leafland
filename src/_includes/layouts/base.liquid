@@ -10,6 +10,21 @@
     <link rel="preload" href="/public/assets/fonts/Inter-Bold.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/public/assets/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 
+    {% if type == 'product' %}
+
+    {% assign treeJPEG = "images/trees/" | append: url | append: "/" | append: url | append: ".jpeg" %}
+    {% assign treeJPG = "images/trees/" | append: url | append: "/" | append: url | append: ".jpg" %}
+
+    {% if imageUrls contains treeJPEG %}
+    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ url }}/{{ url }}.jpeg?tr:w-1000,q-75,pr-true,f-auto">
+    {% assign treeImage = "https://images.leafland.co.nz/images/trees/" | append: url | append: "/" | append: url | append: ".jpeg?tr:w-1000,q-75,pr-true,f-auto" %}
+    {% elsif imageUrls contains treeJPG %}
+    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ url }}/{{ url }}.jpg?tr:w-1000,q-75,pr-true,f-auto">
+    {% assign treeImage = "https://images.leafland.co.nz/images/trees/" | append: url | append: "/" | append: url | append: ".jpg?tr:w-1000,q-75,pr-true,f-auto" %}
+    {% endif %}
+
+    {% endif %}
+
     <meta name="description" content="{{ description | escape }}"/>
 
     <link rel='preconnect' href="https://images.leafland.co.nz">
@@ -35,7 +50,7 @@
         opacity:1
       }
 
-      {% if type === 'product' %}
+      {% if type == 'product' %}
         #image-lightbox{
           opacity: 0;
           position: fixed;
@@ -51,41 +66,41 @@
       {% endif %}
     </style>
 
-    {% if type === "product" %}
+    {% if type == "product" %}
       {% include "components/head/_product.njk"%}
 
-    {% elif type === "submit-order" %}
+    {% elsif type == "submit-order" %}
       {% include "components/head/_submit-order.njk"%}
 
-    {% elif type === "tree-finder" %}
+    {% elsif type == "tree-finder" %}
       {% include "components/head/_tree-finder.njk"%}
 
-    {% elif type === 'index' %}
+    {% elsif type == 'index' %}
       {% include "components/head/_index.njk"%}
 
-    {% elif type === 'page' %}
+    {% elsif type == 'page' %}
       {% include "components/head/_page.njk"%}
 
-    {% elif type === 'top-trees' %}
+    {% elsif type == 'top-trees' %}
       {% include "components/head/_top-trees.njk"%}
 
-    {% elif type === 'retail' %}
+    {% elsif type == 'retail' %}
       {% include "components/head/_retail-list.njk"%}
 
-    {% elif type === 'wholesale' %}
+    {% elsif type == 'wholesale' %}
       {% include "components/head/_wholesale-list.njk"%}
 
     {% endif %}
 
     <title>
-      {% if type === "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% elif type === "product" and commonName === ""%}{{ botanicalName | safe }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% elif type === "product"%}{{ botanicalName | safe }} ({{ commonName | safe }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% else %}{{ title | safe }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% if type == "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% elsif type == "product" and commonName == ""%}{{ botanicalName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% elsif type == "product"%}{{ botanicalName }} ({{ commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+      {% else %}{{ title }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
       {% endif %}
     </title>
 
-    {% if type === 'product' %}
+    {% if type == 'product' %}
 
       
 
@@ -93,26 +108,26 @@
           {
             "@context": "https://schema.org/", 
             "@type": "Product", 
-            "name": "{% if commonName === "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
+            "name": "{% if commonName == "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
             "botanicalName": "{{ botanicalName | escape}}",
-            {% if commonName !== "" %}"commonName": "{{ commonName | escape}}",{% endif %}
-            "image": "{{ image | safe}}",
+            {% unless commonName == "" %}"commonName": "{{ commonName | escape}}",{% endunless %}
+            "image": "{{ treeImage }}",
             "description": "{{ description | escape}}",
-            "url":"https://leafland.co.nz/trees/{{ url | safe}}/",
-            "height": "{{ height | safe}}",
-            "width": "{{ width | safe}}",
-            "winterFoliage": "{{ winterFoliage | title | safe }}",
-            "origin": "{{ origin | title | safe }}",
-            "uses": "{{ uses | replace('-', ' ') | title | safe }}",
-            "types": "{{ types | replace('-', ' ') | title | safe }}",
-            "soilType": "{{ soilType | replace('-', ' ') | title | safe }}",
-            "tolerates": "{{ tolerates | replace('-', ' ') | title | safe }}",
-            "sunShade": "{{ sunShade | replace('-', ' ') | title | safe }}",
-            "flowerColour": "{{ flowerColor | title | safe }}",
-            "autumnColour": "{{ autumnColor | title | safe }}",
-            "foliageColour": "{{ foliageColor | title | safe }}",
-            "fruitingSeason": "{{ fruitingSeason | title | safe }}",
-            "floweringSeason": "{{ floweringSeason | title | safe }}",
+            "url":"https://leafland.co.nz/trees/{{ url }}/",
+            "height": "{{ height }}",
+            "width": "{{ width }}",
+            "winterFoliage": "{{ winterFoliage | capitalize }}",
+            "origin": "{{ origin | capitalize }}",
+            "uses": "{{ uses | replace: '-', ' ' | capitalize }}",
+            "types": "{{ types | replace: '-', ' ' | capitalize }}",
+            "soilType": "{{ soilType | replace: '-', ' ' | capitalize }}",
+            "tolerates": "{{ tolerates | replace: '-', ' ' | capitalize }}",
+            "sunShade": "{{ sunShade | replace: '-', ' ' | capitalize }}",
+            "flowerColour": "{{ flowerColor | capitalize }}",
+            "autumnColour": "{{ autumnColor | capitalize }}",
+            "foliageColour": "{{ foliageColor | capitalize }}",
+            "fruitingSeason": "{{ fruitingSeason | capitalize }}",
+            "floweringSeason": "{{ floweringSeason | capitalize }}",
             "aggregateRating": {
               "@type": "AggregateRating",
               "ratingValue": "5",
@@ -139,8 +154,8 @@
         {
             "@context": "http://schema.org",
             "@type": "WebPage",
-            "name": "{{ title | safe }}",
-            "description": "{{description | safe }}",
+            "name": "{{ title }}",
+            "description": "{{description }}",
             "publisher": {
                 "@type": "Organization",
                 "name": "Leafland Limited",
@@ -155,14 +170,14 @@
 
   </head>
 
-  <body {% if type === "top-trees" %} data-id="{{ id }}" {% endif %}>
+  <body {% if type == "top-trees" %} data-id="{{ id }}" {% endif %}>
 
     <div id="view">
 
       {% include "components/_header.njk"%}
 
       <main>
-        {{ content | safe }}
+        {{ content }}
 
         {% include "components/_footer.njk"%}
       </main>
@@ -238,7 +253,7 @@
 
     {% include "components/_main-menu.njk"%}
 
-    {% if type === 'product' %}
+    {% if type == 'product' %}
 
     <div id="image-lightbox">
 
