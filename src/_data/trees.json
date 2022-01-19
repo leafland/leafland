@@ -18,7 +18,13 @@
      "autumnColor":"",
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/abies/abies-general.svg"
+     "treeShape":"images/icons/tree-shapes/abies/abies-general.svg",
+     "relatedTrees": [{
+         "botanicalName": "Cedrus atlantica",
+         "commonName": "Atlas Cedar",
+         "url": "cedrus-atlantica-atlas-cedar",
+         "image": "cedrus-atlantica-atlas-cedar/cedrus-atlantica-atlas-cedar.jpg"
+     }]
   },
   {
      "botanicalName":"Acacia baileyana 'Purpurea'",

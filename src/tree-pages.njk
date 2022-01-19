@@ -5,7 +5,7 @@ pagination:
     size: 1
     alias: tree
 permalink: "trees/{{ tree.url | safe }}/"
-layout: layouts/product.njk
+layout: layouts/product.liquid
 type: product
 eleventyComputed:
     botanicalName: "{{ tree.botanicalName | safe }}"

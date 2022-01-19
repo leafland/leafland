@@ -536,6 +536,7 @@ body.loggedIn #retail-price {
 }
 
 #related-trees {
+  display: grid;
   grid-gap: 2rem;
   grid-template-columns: 1fr;
 }
@@ -551,18 +552,10 @@ body.loggedIn #retail-price {
   justify-items: start;
   border-radius: 8px;
   height: 300px;
-  opacity: 0;
-  visibility: hidden;
 }
 
 .related-tree > * {
   grid-area: 1 / -1;
-}
-
-.related-tree-loaded {
-  animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    var(--default-animation-easing);
-  visibility: visible;
 }
 
 .tree-image {
