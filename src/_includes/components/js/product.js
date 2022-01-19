@@ -167,7 +167,7 @@ async function createTreeImages(productImageData) {
     document.body.classList.remove("lightbox-open");
   });
 
-  for (let i = productImageData.length - 1; i >= 0; i--) {
+  for (let i = productImageData.length; i >= 0; i--) {
     if (
       !productImageData[i].Key.includes("grades") &&
       (productImageData[i].Key.search("jpg") !== -1 ||
@@ -208,11 +208,11 @@ async function createTreeImages(productImageData) {
         document.body.classList.add("lightbox-open");
       });
 
-      if (i === productImageData.length - 1) {
-        mainImage.appendChild(fullImage);
-        fullImage.style.setProperty("opacity", "1");
-        fullImage.loading = "eager";
-      }
+      // if (i === productImageData.length - 1) {
+      //   mainImage.appendChild(fullImage);
+      //   fullImage.style.setProperty("opacity", "1");
+      //   fullImage.loading = "eager";
+      // }
 
       image.addEventListener("click", (e) => {
         let mainImg = document.querySelector(".main-img");

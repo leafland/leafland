@@ -11,7 +11,7 @@ eleventyComputed:
     botanicalName: "{{ tree.botanicalName | safe }}"
     commonName: "{{ tree.commonName | safe }}"
     description: "{{ tree.description | safe }}"
-    image: "https://images.leafland.co.nz/images/trees/{{tree.url | safe}}.jpg?tr:w-1000,q-75,f-auto"
+    image: "{{ tree.image }}"
     url: "{{tree.url | safe }}"
     treeShape: "{{tree.treeShape}}"
     foliageColor: "{{tree.foliageColor}}"

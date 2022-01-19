@@ -11,18 +11,7 @@
     <link rel="preload" href="/public/assets/fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 
     {% if type == 'product' %}
-
-    {% assign treeJPEG = "images/trees/" | append: url | append: "/" | append: url | append: ".jpeg" %}
-    {% assign treeJPG = "images/trees/" | append: url | append: "/" | append: url | append: ".jpg" %}
-
-    {% if imageUrls contains treeJPEG %}
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ url }}/{{ url }}.jpeg?tr:w-1000,q-75,pr-true,f-auto">
-    {% assign treeImage = "https://images.leafland.co.nz/images/trees/" | append: url | append: "/" | append: url | append: ".jpeg?tr:w-1000,q-75,pr-true,f-auto" %}
-    {% elsif imageUrls contains treeJPG %}
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ url }}/{{ url }}.jpg?tr:w-1000,q-75,pr-true,f-auto">
-    {% assign treeImage = "https://images.leafland.co.nz/images/trees/" | append: url | append: "/" | append: url | append: ".jpg?tr:w-1000,q-75,pr-true,f-auto" %}
-    {% endif %}
-
+    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ image }}?tr:w-1000,q-75,pr-true,f-auto">
     {% endif %}
 
     <meta name="description" content="{{ description | escape }}"/>
@@ -111,7 +100,7 @@
             "name": "{% if commonName == "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
             "botanicalName": "{{ botanicalName | escape}}",
             {% unless commonName == "" %}"commonName": "{{ commonName | escape}}",{% endunless %}
-            "image": "{{ treeImage }}",
+            "image": "{{ image }}",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "height": "{{ height }}",
@@ -219,8 +208,6 @@
 
       <div id='login-inner'>
 
-        {# <h2>Login</h2> #}
-
         <div id="login-form-container">
 
           <h3 id="login-message">You are logged in.</h3>
@@ -268,7 +255,6 @@
     <div id="loading-overlay">
 
       <h2>Loading</h2>
-      {# <p>Just a moment</p> #}
     
     </div>
 
