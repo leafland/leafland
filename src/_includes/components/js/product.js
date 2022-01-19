@@ -50,8 +50,6 @@ window.addEventListener("loginUpdated", () => {
 
       await getProductStockData();
       await createStockValues(grades);
-
-      document.body.classList.add("page-loaded");
     } else {
     }
   })();

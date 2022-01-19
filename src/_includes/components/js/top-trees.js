@@ -24,7 +24,6 @@ async function getTopTreesImages() {
   await getTopTreesData();
   await getTopTreesImages();
   await populatePage(topTreesData);
-  document.body.classList.add("page-loaded");
 })();
 
 async function populatePage(trees) {

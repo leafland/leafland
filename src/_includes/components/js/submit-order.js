@@ -314,7 +314,6 @@ window.addEventListener("loginUpdated", () => {
 
       await getFreightData();
       await populateForm();
-      document.body.classList.add("page-loaded");
     }
   })();
 });

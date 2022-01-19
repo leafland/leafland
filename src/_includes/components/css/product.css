@@ -159,27 +159,6 @@ main
   grid-template-rows: auto 1fr;
 }
 
-/* #grid-content-left,
-#grid-content-right,
-#order-block {
-  opacity: 0;
-} */
-
-/* body.page-loaded #grid-content-left {
-  animation: fadeInUp 0.75s forwards var(--default-animation-easing);
-}
-
-body.page-loaded #grid-content-right {
-  animation: fadeInUp 0.75s 200ms forwards var(--default-animation-easing);
-}
-
-body.page-loaded #order-block {
-  animation: fadeInUp 0.75s 400ms forwards var(--default-animation-easing);
-} */
-
-.tree-description {
-}
-
 .main-img {
   opacity: 0;
   transition: all 0.5s var(--default-animation-easing);

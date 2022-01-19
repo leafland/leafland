@@ -161,7 +161,6 @@ window.addEventListener("DOMContentLoaded", () => {
       treeFilter
     );
     buttonDiv.style.setProperty("opacity", "1");
-    document.body.classList.add("page-loaded");
   } else {
   }
 })();

@@ -418,9 +418,6 @@ input {
   overflow-y: hidden;
 }
 
-body.page-loaded #content {
-  opacity: 1;
-}
 /*********************************/
 
 /* QUOTE REQUEST SUBMIT FORM*/
@@ -458,25 +455,12 @@ header {
   /* transition: opacity 1s cubic-bezier(0.31, 0.87, 0.32, 1); */
 }
 
-body.page-loaded #header {
-  opacity: 1;
-}
-
-header a {
-}
-
-header button {
-}
-
 #header-buttons {
   display: flex;
   justify-self: end;
   gap: 1rem;
   /* margin-right: 2rem; */
   flex-wrap: wrap;
-}
-
-#header-buttons > button {
 }
 
 .logo {

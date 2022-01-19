@@ -41,8 +41,6 @@ window.addEventListener("loginUpdated", () => {
         searchWholesaleData(e.target.value);
       }
     });
-
-    document.body.classList.add("page-loaded");
   })();
 });
 

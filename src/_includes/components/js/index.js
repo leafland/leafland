@@ -95,6 +95,4 @@ window.addEventListener("load", () => {
 
   heroTextObserver.observe(heroText);
   linkBlockObserver.observe(linkBlock);
-
-  document.body.classList.add("page-loaded");
 });
