@@ -605,7 +605,7 @@ async function createRelatedTrees(productTreeData) {
     let relatedTrees = [];
 
     for (let i = 0; i < relatedTreesData.length; i++) {
-      if (relatedTrees.length > 11) {
+      if (relatedTrees.length > 2) {
         break;
       }
 
@@ -636,9 +636,9 @@ async function createRelatedTrees(productTreeData) {
       }
     }
 
-    if (relatedTrees.length < 12) {
+    if (relatedTrees.length < 3) {
       for (let i = 0; i < relatedTreesData.length; i++) {
-        if (relatedTrees.length > 11) {
+        if (relatedTrees.length > 2) {
           break;
         }
         if (
