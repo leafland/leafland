@@ -161,13 +161,20 @@ async function getProductStockData() {
 }
 
 async function createTreeImages(productImageData) {
+  let mainImg = document.querySelector(".main-img");
+
+  mainImg.addEventListener("click", () => {
+    imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
+    document.body.classList.add("lightbox-open");
+  });
+
   imagePosition = productImageData.length - 1;
 
   imageLightBoxClose.addEventListener("click", () => {
     document.body.classList.remove("lightbox-open");
   });
 
-  for (let i = productImageData.length; i >= 0; i--) {
+  for (let i = productImageData.length - 1; i >= 0; i--) {
     if (
       !productImageData[i].Key.includes("grades") &&
       (productImageData[i].Key.search("jpg") !== -1 ||
@@ -215,7 +222,6 @@ async function createTreeImages(productImageData) {
       // }
 
       image.addEventListener("click", (e) => {
-        let mainImg = document.querySelector(".main-img");
         imagePosition = i;
         e.preventDefault();
 

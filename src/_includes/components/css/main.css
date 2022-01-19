@@ -199,26 +199,6 @@ h6 {
   }
 }
 
-#loading-overlay {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  z-index: 999;
-  background: var(--primary-background);
-  display: none;
-  place-content: center;
-}
-
-body.page-loaded #loading-overlay {
-  display: none;
-}
-
-body.page-loaded #view {
-  opacity: 1;
-}
-
 .accent-color {
   color: var(--brand-color);
 }
