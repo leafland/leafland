@@ -248,7 +248,7 @@ li.sub-menu-button button div svg {
   }
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   button#open-menu {
     display: none;
   }
