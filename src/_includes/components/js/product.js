@@ -162,7 +162,7 @@ async function createTreeImages(productImageData) {
   let mainImg = document.querySelector(".main-img");
 
   mainImg.addEventListener("click", () => {
-    imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
+    imageLightboxInner.innerHTML = `<img src='${mainImg.src}'>`;
     document.body.classList.add("lightbox-open");
   });
 
