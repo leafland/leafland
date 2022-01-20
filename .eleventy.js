@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
     // Templates:
     "html",
     "njk",
+    "liquid",
     "md",
     // Static Assets:
     "css",
