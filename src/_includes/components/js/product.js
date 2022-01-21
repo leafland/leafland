@@ -191,9 +191,7 @@ async function createTreeImages(productImageData) {
           mainImage.style.setProperty("visibility", "visible");
         }, 500);
 
-        let mainImg = document.querySelector(".main-img");
-
-        mainImg.addEventListener("click", () => {
+        mainImage.addEventListener("click", () => {
           imageLightboxInner.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
           }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
@@ -226,9 +224,7 @@ async function createTreeImages(productImageData) {
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
-          let mainImg = document.querySelector(".main-img");
-
-          mainImg.addEventListener("click", () => {
+          mainImage.addEventListener("click", () => {
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
@@ -262,9 +258,7 @@ async function createTreeImages(productImageData) {
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
-          let mainImg = document.querySelector(".main-img");
-
-          mainImg.addEventListener("click", () => {
+          mainImage.addEventListener("click", () => {
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
