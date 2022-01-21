@@ -149,17 +149,6 @@ window.addEventListener("DOMContentLoaded", () => {
 
 (async function () {
   await getTreeFinderData();
-
-  if (treeFinderData.length !== 0) {
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
-    buttonDiv.style.setProperty("opacity", "1");
-  } else {
-  }
 })();
 
 async function getTreeFinderData() {

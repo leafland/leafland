@@ -898,7 +898,44 @@ description: Use Leafland's tree finder to find the perfect tree for your site! 
 
         <div id="grid-content-right">
 
-            <div id="tree-wrapper"></div>
+            <div id="tree-wrapper">
+            
+            {% for tree in trees %}
+
+            {% if forloop.index0 < 12 %}
+            <div class="tree-item" style="opacity:1;visibility:visible">
+            
+                <div class="tree-image">
+                
+                    <img src="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-500,q-75,pr-true,f-auto" width="500" height="500" alt="{{ tree.url | replace: '-', ' ' }}">
+                
+                </div>
+                
+                <div class="title-link-box">
+                
+                    <div class="title-container">
+                    
+                        <h2>{{ tree.botanicalName }}</h2>
+
+                        {% if tree.commonName != "" %}
+                        
+                        <h3>{{ tree.commonName }}</h3>
+
+                        {% endif %}
+                    
+                    </div>
+                    
+                    <a href="/trees/{{ tree.url }}/" class="tree-link button">View Tree</a>
+                
+                </div>
+            
+            </div>
+            {% endif %}
+
+            {% endfor %}
+            
+            
+            </div>
 
             <div id="button-div">
                 <button id='load-more'>Load more</button>
