@@ -185,10 +185,11 @@ main label {
   background: none;
 }
 
-/* .tree-name {
+.tree-name {
   display: flex;
-  flex-direction: column;
-} */
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
 
 @media (hover: hover) and (pointer: fine) {
   div#grid-content-right .send-order:hover {
