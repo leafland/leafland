@@ -203,13 +203,6 @@ h6 {
   color: var(--brand-color);
 }
 
-.close-icon,
-.right-icon,
-.left-icon,
-.down-icon {
-  fill: var(--primary-text);
-}
-
 input,
 select,
 textarea {

@@ -195,10 +195,14 @@ details > summary {
 #filter .right-icon {
   display: block;
   transition: transform 0.3s var(--default-animation-easing);
+  width: 25px;
+  height: 25px;
 }
 
 #filter .down-icon {
   display: none;
+  width: 25px;
+  height: 25px;
 }
 
 #filter details[open] > summary .right-icon {
