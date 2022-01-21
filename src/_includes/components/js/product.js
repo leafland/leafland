@@ -178,6 +178,8 @@ async function createTreeImages(productImageData) {
       imagePosition = parseInt(thumbImage.dataset.position);
       e.preventDefault();
 
+      mainImg = document.querySelector(".main-img");
+
       if (mainImg.alt !== thumbImage.alt) {
         mainImage.style.setProperty("opacity", "0");
         mainImage.style.setProperty("visibility", "hidden");
