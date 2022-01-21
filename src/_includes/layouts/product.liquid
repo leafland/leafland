@@ -30,13 +30,31 @@ type: product
             
                 <div id="main-image-inner">
                 
-                    <img src="https://images.leafland.co.nz/images/trees/{{ image }}?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="{{ url | replace: '-', ' ' }}" loading="eager" class="main-img" style="opacity: 1;">
+                    <img src="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="{{ url | replace: '-', ' ' }}" loading="eager" class="main-img" style="opacity: 1;">
                 
                 </div>
             
             </div>
 
-            <div class="images"></div>
+            <div class="images">
+
+            <div class="image">
+
+                <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-150,q-75,pr-true,f-auto" width="150" height="150" alt="{{ url | replace: '-', ' ' }}">
+
+            </div>
+
+            {% for image in tree.images %}
+            
+            <div class="image">
+
+                <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/{{ image.src }}?tr=w-150,q-75,pr-true,f-auto" width="150" height="150" alt="{{ image.alt }}">
+                
+            </div>
+
+            {% endfor %}
+
+            </div>
 
         </div>
 

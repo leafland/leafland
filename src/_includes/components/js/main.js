@@ -19,15 +19,15 @@ window.addEventListener("loginUpdated", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
 
-    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
+    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
 
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Retail Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
 
-    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
+    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
     document.body.classList.remove("loggedIn");
   }
 });
@@ -40,14 +40,14 @@ window.addEventListener("storage", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Wholesale Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
 
-    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Wholesale Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
+    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button"><p>Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Retail Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
 
-    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Retail Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
+    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button"><p>Stock List</p><img class="menu-image" src="https://images.leafland.co.nz/images/leafland-stock-list.jpg?tr=w-500,q-75,pr-true,f-auto" loading="lazy" width="200" height="200"></a>`;
     document.body.classList.remove("loggedIn");
   }
 });

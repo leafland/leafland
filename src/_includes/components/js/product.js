@@ -20,6 +20,7 @@ let comingOn = document.querySelector("#coming-on");
 let imageLeftButton = document.querySelector("#image-left-button");
 let imageRightButton = document.querySelector("#image-right-button");
 let imagePosition = 0;
+let thumbImages = document.querySelectorAll(".thumb-image");
 
 let productTreeData = [];
 let productImageData = [];
@@ -159,6 +160,10 @@ async function getProductStockData() {
 }
 
 async function createTreeImages(productImageData) {
+  imageLightBoxClose.addEventListener("click", () => {
+    document.body.classList.remove("lightbox-open");
+  });
+
   let mainImg = document.querySelector(".main-img");
 
   mainImg.addEventListener("click", () => {
@@ -166,163 +171,110 @@ async function createTreeImages(productImageData) {
     document.body.classList.add("lightbox-open");
   });
 
-  imagePosition = productImageData.length - 1;
+  imagePosition = thumbImages.length;
 
-  imageLightBoxClose.addEventListener("click", () => {
-    document.body.classList.remove("lightbox-open");
+  thumbImages.forEach((thumbImage) => {
+    thumbImage.addEventListener("click", (e) => {
+      imagePosition = parseInt(thumbImage.dataset.position);
+      e.preventDefault();
+
+      if (mainImg.alt !== thumbImage.alt) {
+        mainImage.style.setProperty("opacity", "0");
+        mainImage.style.setProperty("visibility", "hidden");
+        setTimeout(() => {
+          mainImage.innerHTML = `<img src="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            thumbImage.alt
+          }" class="main-img" style="opacity: 1;">`;
+          mainImage.style.setProperty("opacity", "1");
+          mainImage.style.setProperty("visibility", "visible");
+        }, 500);
+
+        let mainImg = document.querySelector(".main-img");
+
+        mainImg.addEventListener("click", () => {
+          imageLightboxInner.innerHTML = `<img src="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            thumbImage.alt
+          }" class="main-img" style="opacity: 1;">`;
+          document.body.classList.add("lightbox-open");
+        });
+      }
+    });
   });
-
-  for (let i = productImageData.length - 1; i >= 0; i--) {
-    if (
-      !productImageData[i].Key.includes("grades") &&
-      (productImageData[i].Key.search("jpg") !== -1 ||
-        productImageData[i].Key.search("jpeg") !== -1)
-    ) {
-      let image = document.createElement("img");
-      image.src = `https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-150,q-75,pr-true,f-auto`;
-      image.width = "150";
-      image.height = "150";
-      image.alt = productImageData[i].Key.substring(
-        productImageData[i].Key.lastIndexOf("/") + 1,
-        productImageData[i].Key.lastIndexOf(".")
-      ).replace(/-/g, " ");
-      image.loading = "lazy";
-
-      let div = document.createElement("div");
-      div.classList.add("image");
-      images.appendChild(div);
-
-      div.appendChild(image);
-
-      let fullImage = document.createElement("img");
-      fullImage.onload = () => {
-        fullImage.style.setProperty("opacity", "1");
-      };
-      fullImage.src = `https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto`;
-      fullImage.height = "1000";
-      fullImage.width = "1000";
-      fullImage.alt = productImageData[i].Key.substring(
-        productImageData[i].Key.lastIndexOf("/") + 1,
-        productImageData[i].Key.lastIndexOf(".")
-      ).replace(/-/g, " ");
-      fullImage.loading = "lazy";
-      fullImage.classList.add("main-img");
-
-      fullImage.addEventListener("click", () => {
-        imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[i].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
-        document.body.classList.add("lightbox-open");
-      });
-
-      // if (i === productImageData.length - 1) {
-      //   mainImage.appendChild(fullImage);
-      //   fullImage.style.setProperty("opacity", "1");
-      //   fullImage.loading = "eager";
-      // }
-
-      image.addEventListener("click", (e) => {
-        imagePosition = i;
-        e.preventDefault();
-
-        if (mainImg.alt !== image.alt) {
-          mainImage.style.setProperty("opacity", "0");
-          mainImage.style.setProperty("visibility", "hidden");
-          setTimeout(() => {
-            mainImage.innerHTML = ``;
-            mainImage.appendChild(fullImage);
-            mainImage.style.setProperty("opacity", "1");
-            mainImage.style.setProperty("visibility", "visible");
-          }, 500);
-        }
-      });
-    }
-  }
 
   imageLeftButton.addEventListener("click", () => {
-    if (
-      productImageData[imagePosition].Key.includes("grades") ||
-      (productImageData[imagePosition].Key.search("jpg") === -1 &&
-        productImageData[imagePosition].Key.search("jpeg") === -1)
-    ) {
-      imagePosition += 2;
-    } else {
-      imagePosition++;
-    }
-
-    if (imagePosition > productImageData.length - 1) {
-      imagePosition = 0;
-    }
-
-    let newImage = document.createElement("img");
-    newImage.onload = () => {
-      newImage.style.setProperty("opacity", "1");
-    };
-    newImage.src = `https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
-    newImage.height = "1000";
-    newImage.width = "1000";
-    newImage.alt = productImageData[imagePosition].Key.substring(
-      productImageData[imagePosition].Key.lastIndexOf("/") + 1,
-      productImageData[imagePosition].Key.lastIndexOf(".")
-    ).replace(/-/g, " ");
-    newImage.loading = "lazy";
-    newImage.classList.add("main-img");
-
-    newImage.addEventListener("click", () => {
-      imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
-      document.body.classList.add("lightbox-open");
-    });
-
-    mainImage.style.setProperty("opacity", "0");
-    mainImage.style.setProperty("visibility", "hidden");
-    setTimeout(() => {
-      mainImage.innerHTML = ``;
-      mainImage.appendChild(newImage);
-      mainImage.style.setProperty("opacity", "1");
-      mainImage.style.setProperty("visibility", "visible");
-    }, 500);
-  });
-
-  imageRightButton.addEventListener("click", () => {
-    if (
-      productImageData[imagePosition].Key.includes("grades") ||
-      (productImageData[imagePosition].Key.search("jpg") === -1 &&
-        productImageData[imagePosition].Key.search("jpeg") === -1)
-    ) {
-      imagePosition -= 2;
+    if (imagePosition <= 0) {
+      imagePosition = thumbImages.length - 1;
     } else {
       imagePosition--;
     }
 
-    if (imagePosition < 0) {
-      imagePosition = productImageData.length - 1;
+    thumbImages.forEach((thumbImage) => {
+      if (parseInt(thumbImage.dataset.position) === imagePosition) {
+        mainImage.style.setProperty("opacity", "0");
+        mainImage.style.setProperty("visibility", "hidden");
+
+        setTimeout(() => {
+          mainImage.innerHTML = `<img src="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            thumbImage.alt
+          }" class="main-img" style="opacity: 1;">`;
+          mainImage.style.setProperty("opacity", "1");
+          mainImage.style.setProperty("visibility", "visible");
+
+          let mainImg = document.querySelector(".main-img");
+
+          mainImg.addEventListener("click", () => {
+            imageLightboxInner.innerHTML = `<img src="${
+              thumbImage.src.split("?")[0]
+            }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+              thumbImage.alt
+            }" class="main-img" style="opacity: 1;">`;
+            document.body.classList.add("lightbox-open");
+          });
+        }, 500);
+      }
+    });
+  });
+
+  imageRightButton.addEventListener("click", () => {
+    if (imagePosition >= thumbImages.length - 1) {
+      imagePosition = 0;
+    } else {
+      imagePosition++;
     }
 
-    let newImage = document.createElement("img");
-    newImage.onload = () => {
-      newImage.style.setProperty("opacity", "1");
-    };
-    newImage.src = `https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto`;
-    newImage.height = "1000";
-    newImage.width = "1000";
-    newImage.alt = productImageData[imagePosition].Key.substring(
-      productImageData[imagePosition].Key.lastIndexOf("/") + 1,
-      productImageData[imagePosition].Key.lastIndexOf(".")
-    ).replace(/-/g, " ");
-    newImage.loading = "lazy";
-    newImage.classList.add("main-img");
+    thumbImages.forEach((thumbImage) => {
+      if (parseInt(thumbImage.dataset.position) === imagePosition) {
+        mainImage.style.setProperty("opacity", "0");
+        mainImage.style.setProperty("visibility", "hidden");
 
-    newImage.addEventListener("click", () => {
-      imageLightboxInner.innerHTML = `<img src='https://images.leafland.co.nz/${productImageData[imagePosition].Key}?tr=w-1000,q-75,pr-true,f-auto'>`;
-      document.body.classList.add("lightbox-open");
+        setTimeout(() => {
+          mainImage.innerHTML = `<img src="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            thumbImage.alt
+          }" class="main-img" style="opacity: 1;">`;
+          mainImage.style.setProperty("opacity", "1");
+          mainImage.style.setProperty("visibility", "visible");
+
+          let mainImg = document.querySelector(".main-img");
+
+          mainImg.addEventListener("click", () => {
+            imageLightboxInner.innerHTML = `<img src="${
+              thumbImage.src.split("?")[0]
+            }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+              thumbImage.alt
+            }" class="main-img" style="opacity: 1;">`;
+            document.body.classList.add("lightbox-open");
+          });
+        }, 500);
+      }
     });
-
-    mainImage.style.setProperty("opacity", "0");
-    mainImage.style.setProperty("visibility", "hidden");
-    setTimeout(() => {
-      mainImage.innerHTML = ``;
-      mainImage.appendChild(newImage);
-      mainImage.style.setProperty("opacity", "1");
-      mainImage.style.setProperty("visibility", "visible");
-    }, 500);
   });
 }
 
