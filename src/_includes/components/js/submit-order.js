@@ -7,7 +7,6 @@ let region = document.querySelector("#region");
 
 let emptyMessage = document.querySelector("#empty-message");
 let freightData = [];
-let submitOrderImages = [];
 let submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
 
 let total;
@@ -22,15 +21,6 @@ async function getFreightData() {
     "https://api.leafland.co.nz/default/get-freight-data-file"
   )
     .then((response) => response.json())
-    .catch((error) => {});
-}
-
-async function getSubmitOrderImages() {
-  submitOrderImages = await fetch(
-    `https://api.leafland.co.nz/default/get-image-data`
-  )
-    .then((response) => response.json())
-    .then((data) => data)
     .catch((error) => {});
 }
 
@@ -65,21 +55,6 @@ async function populateForm() {
   let poaGrade = false;
 
   submitOrderTrees.forEach((tree) => {
-    let imageDataSubset = [];
-
-    for (let i = 0; i < submitOrderImages.length; i++) {
-      if (
-        submitOrderImages[i].split("/", 4)[3] ===
-          `${
-            tree.url.slice(0, tree.url.length - 1).split(/\/trees\//)[1]
-          }.jpg` ||
-        submitOrderImages[i].split("/", 4)[3] ===
-          `${tree.url.slice(0, tree.url.length - 1).split(/\/trees\//)[1]}.jpeg`
-      ) {
-        imageDataSubset.push(submitOrderImages[i]);
-      }
-    }
-
     let freightPriceValue = "";
     if (
       region.value !== "Northland" &&
@@ -170,9 +145,11 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://images.leafland.co.nz/${
-      imageDataSubset[imageDataSubset.length - 1]
-    }?tr=w-300,q-75,pr-true,f-auto`;
+    treeImage.src = `https://images.leafland.co.nz/images/trees/${tree.mainImage}?tr=w-300,q-75,pr-true,f-auto`;
+    treeImage.alt = `${tree.url
+      .replace(/\/trees\//g, "")
+      .replace(/\//g, "")
+      .replace(/-/g, " ")}`;
     treeImage.loading = "lazy";
 
     formTreeRight.appendChild(treeImage);
@@ -310,8 +287,6 @@ window.addEventListener("loginUpdated", () => {
       submitForm.style.setProperty("display", "none");
       emptyMessage.style.setProperty("display", "block");
     } else {
-      await getSubmitOrderImages();
-
       await getFreightData();
       await populateForm();
     }

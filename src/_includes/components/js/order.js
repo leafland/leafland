@@ -8,8 +8,6 @@ let productList = document.createElement("ul");
 productList.classList.add("order-product-list");
 const orderUpdated = new Event("orderUpdated");
 
-let orderImageData = [];
-
 let totalRetailCost = localStorage.getItem("totalRetailCost");
 let totalWholesaleCost = localStorage.getItem("totalWholesaleCost");
 
@@ -42,15 +40,6 @@ function displayEmptyOrder() {
   submitOrder.classList.add("disabled");
 }
 
-async function getOrderImages() {
-  orderImageData = await fetch(
-    `https://api.leafland.co.nz/default/get-image-data`
-  )
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-}
-
 async function updateOrder() {
   orderTrees = JSON.parse(localStorage.getItem("trees"));
 
@@ -70,23 +59,6 @@ async function updateOrder() {
     productList.innerHTML = "";
 
     orderTrees.forEach((tree) => {
-      let imageDataSubset = [];
-
-      for (let i = 0; i < orderImageData.length; i++) {
-        if (
-          orderImageData[i].split("/", 4)[3] ===
-            `${
-              tree.url.slice(0, tree.url.length - 1).split(/\/trees\//)[1]
-            }.jpg` ||
-          orderImageData[i].split("/", 4)[3] ===
-            `${
-              tree.url.slice(0, tree.url.length - 1).split(/\/trees\//)[1]
-            }.jpeg`
-        ) {
-          imageDataSubset.push(orderImageData[i]);
-        }
-      }
-
       let listItem = document.createElement("li");
       listItem.classList.add("order-product");
 
@@ -97,12 +69,14 @@ async function updateOrder() {
       rightDiv.classList.add("order-product-right");
 
       let itemImage = document.createElement("img");
-      itemImage.src = `https://images.leafland.co.nz/${
-        imageDataSubset[imageDataSubset.length - 1]
-      }?tr=w-300,q-75,pr-true,f-auto`;
+      itemImage.src = `https://images.leafland.co.nz/images/trees/${tree.mainImage}?tr=w-300,q-75,pr-true,f-auto`;
       itemImage.width = "300";
       itemImage.height = "300";
       itemImage.loading = "lazy";
+      itemImage.alt = `${tree.url
+        .replace(/\/trees\//g, "")
+        .replace(/\//g, "")
+        .replace(/-/g, " ")}`;
 
       let itemBotanicalName = document.createElement("p");
       itemBotanicalName.innerHTML = `<a href='${tree.url}'>${tree.botanicalName}</a>`;
@@ -326,7 +300,6 @@ window.addEventListener("productAdded", () => {
 
 window.addEventListener("loginUpdated", () => {
   (async function init() {
-    await getOrderImages();
     updateOrder();
   })();
 });

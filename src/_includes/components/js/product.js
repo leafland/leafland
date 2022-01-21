@@ -24,7 +24,7 @@ let thumbImages = document.querySelectorAll(".thumb-image");
 
 let productTreeData = [];
 let productStockData = [];
-
+let productImage = "";
 let maximumQuantityReached = false;
 
 let productTrees = JSON.parse(localStorage.getItem("trees"));
@@ -129,7 +129,9 @@ async function createTreeImages() {
   });
 
   let mainImg = document.querySelector(".main-img");
-
+  productImage = mainImg.src
+    .split("https://images.leafland.co.nz/images/trees/")[1]
+    .split("?")[0];
   mainImg.addEventListener("click", () => {
     imageLightboxInner.innerHTML = `<img src='${mainImg.src}'>`;
     document.body.classList.add("lightbox-open");
@@ -513,6 +515,7 @@ function addTreeToLocalStorage() {
       botanicalName: treeBotanicalName.textContent,
       commonName: treeCommonName.textContent,
       url: window.location.pathname,
+      mainImage: productImage,
       grade: gradeSizeSelect.value,
       averageHeight: heightSelect.value,
       quantity: parseInt(treeQuantity.value, 10),
@@ -532,6 +535,7 @@ function addTreeToLocalStorage() {
           botanicalName: treeBotanicalName.textContent,
           commonName: treeCommonName.textContent,
           url: window.location.pathname,
+          mainImage: productImage,
           grade: gradeSizeSelect.value,
           averageHeight: heightSelect.value,
           quantity: parseInt(treeQuantity.value, 10),
