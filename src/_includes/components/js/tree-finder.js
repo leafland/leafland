@@ -391,11 +391,11 @@ async function populatePage(
         treeImage.height = "500";
         treeImage.alt = treeDataSubset[i].url.replace(/-/g, " ");
 
-        if (i === 0 || i === 1 || i === 2 || i === 3) {
-          treeImage.loading = "eager";
-        } else {
-          treeImage.loading = "lazy";
-        }
+        // if (i === 0 || i === 1 || i === 2 || i === 3) {
+        //   treeImage.loading = "eager";
+        // } else {
+        //   treeImage.loading = "lazy";
+        // }
 
         imageDiv.appendChild(treeImage);
         treeItem.appendChild(imageDiv);

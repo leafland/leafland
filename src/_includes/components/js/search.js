@@ -7,7 +7,6 @@ let searchLoadMoreButton = document.querySelector("#search-load-more");
 let searchReturnToTopButton = document.querySelector("#search-return-to-top");
 let searchData = [];
 let searchResults = [];
-let searchResultsImages = [];
 let start = 0;
 let end = 11;
 
@@ -19,15 +18,6 @@ function resetStartEnd() {
 async function getSearchData() {
   searchData = await fetch(
     `https://api.leafland.co.nz/default/get-product-data?type=tree-finder`
-  )
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-}
-
-async function getSearchImages() {
-  searchResultsImages = await fetch(
-    `https://api.leafland.co.nz/default/get-image-data`
   )
     .then((response) => response.json())
     .then((data) => data)
@@ -172,7 +162,6 @@ async function displayResults(results) {
     if (i > results.length - 1) {
       break;
     }
-    let imageDataSubset = [];
 
     let resultDiv = document.createElement("div");
     resultDiv.classList.add("search-result");
@@ -202,24 +191,14 @@ async function displayResults(results) {
       titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
     }
 
-    for (let j = 0; j < searchResultsImages.length; j++) {
-      if (
-        searchResultsImages[j].split("/", 4)[3] === `${results[i].url}.jpg` ||
-        searchResultsImages[j].split("/", 4)[3] === `${results[i].url}.jpeg`
-      ) {
-        imageDataSubset.push(searchResultsImages[j]);
-      }
-    }
-
     let imageDiv = document.createElement("div");
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://images.leafland.co.nz/${
-      imageDataSubset[imageDataSubset.length - 1]
-    }?tr=w-500,q-75,pr-true,f-auto`;
+    resultImage.src = `https://images.leafland.co.nz/images/trees/${results[i].mainImage}?tr=w-500,q-75,pr-true,f-auto`;
     resultImage.width = "500";
     resultImage.height = "500";
     resultImage.loading = "lazy";
+    resultImage.alt = `${results[i].url.replace(/-/g, " ")}`;
 
     titleDiv.insertAdjacentElement("afterbegin", resultTitle);
 
@@ -245,7 +224,7 @@ let doneTypingInterval = 500;
 (async function init() {
   searchInput.disabled = true;
   await getSearchData();
-  await getSearchImages();
+
   searchInput.disabled = false;
 
   searchInput.addEventListener("keyup", (event) => {
