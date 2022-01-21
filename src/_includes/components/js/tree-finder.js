@@ -13,7 +13,6 @@ let heightsArray = [];
 let widthsArray = [];
 
 let treeFinderData = [];
-let treeFinderImages = [];
 
 let buttonDiv = document.querySelector("#button-div");
 let loadMoreButton = document.querySelector("#load-more");
@@ -151,8 +150,6 @@ window.addEventListener("DOMContentLoaded", () => {
 (async function () {
   await getTreeFinderData();
 
-  await getTreeFinderImages();
-
   if (treeFinderData.length !== 0) {
     await populatePage(
       treeFinderStart,
@@ -169,15 +166,6 @@ async function getTreeFinderData() {
   treeFinderData = await fetch(
     `https://api.leafland.co.nz/default/get-product-data?type=tree-finder`,
     { method: "GET" }
-  )
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-}
-
-async function getTreeFinderImages() {
-  treeFinderImages = await fetch(
-    `https://api.leafland.co.nz/default/get-image-data`
   )
     .then((response) => response.json())
     .then((data) => data)
@@ -407,47 +395,21 @@ async function populatePage(
         let imageDiv = document.createElement("div");
         imageDiv.classList.add("tree-image");
 
-        if (treeFinderImages.length > 0) {
-          imageDataSubset = [];
+        let treeImage = document.createElement("img");
 
-          for (let j = 0; j < treeFinderImages.length; j++) {
-            if (
-              treeFinderImages[j].split("/", 4)[3] ===
-                `${treeDataSubset[i].url}.jpg` ||
-              treeFinderImages[j].split("/", 4)[3] ===
-                `${treeDataSubset[i].url}.jpeg`
-            ) {
-              imageDataSubset.push(treeFinderImages[j]);
-              break;
-            }
-          }
+        treeImage.src = `https://images.leafland.co.nz/images/trees/${treeDataSubset[i].mainImage}?tr=w-500,q-75,pr-true,f-auto`;
+        treeImage.width = "500";
+        treeImage.height = "500";
+        treeImage.alt = treeDataSubset[i].url.replace(/-/g, " ");
 
-          if (imageDataSubset.length > 0) {
-            let treeImage = document.createElement("img");
-
-            treeImage.src = `https://images.leafland.co.nz/${
-              imageDataSubset[imageDataSubset.length - 1]
-            }?tr=w-500,q-75,pr-true,f-auto`;
-            treeImage.width = "500";
-            treeImage.height = "500";
-            treeImage.alt = imageDataSubset[imageDataSubset.length - 1]
-              .substring(
-                imageDataSubset[imageDataSubset.length - 1].lastIndexOf("/") +
-                  1,
-                imageDataSubset[imageDataSubset.length - 1].lastIndexOf(".")
-              )
-              .replace(/-/g, " ");
-
-            if (i === 0 || i === 1 || i === 2 || i === 3) {
-              treeImage.loading = "eager";
-            } else {
-              treeImage.loading = "lazy";
-            }
-
-            imageDiv.appendChild(treeImage);
-            treeItem.appendChild(imageDiv);
-          }
+        if (i === 0 || i === 1 || i === 2 || i === 3) {
+          treeImage.loading = "eager";
+        } else {
+          treeImage.loading = "lazy";
         }
+
+        imageDiv.appendChild(treeImage);
+        treeItem.appendChild(imageDiv);
 
         treeItem.appendChild(container);
         treeItem.style.setProperty("--animation-order", `${i % 12}`);
