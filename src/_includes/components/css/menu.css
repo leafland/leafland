@@ -183,6 +183,12 @@ li.sub-menu-button button div svg {
   width: 22px;
 }
 
+.right-icon,
+.down-icon {
+  width: 25px;
+  height: 25px;
+}
+
 @media (hover: hover) and (pointer: fine) {
   div#main-menu-inner ul .button:hover,
   div#main-menu-inner ul button:hover:not(.back-button) {
