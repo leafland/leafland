@@ -23,9 +23,7 @@ let imagePosition = 0;
 let thumbImages = document.querySelectorAll(".thumb-image");
 
 let productTreeData = [];
-let productImageData = [];
 let productStockData = [];
-let gradeImages = [];
 
 let maximumQuantityReached = false;
 
@@ -46,8 +44,7 @@ window.addEventListener("loginUpdated", () => {
     await getProductTreeData();
 
     if (productTreeData.length > 0) {
-      await getProductImages();
-      await createTreeImages(productImageData);
+      await createTreeImages();
 
       await getProductStockData();
       await createStockValues(grades);
@@ -55,39 +52,6 @@ window.addEventListener("loginUpdated", () => {
     }
   })();
 });
-
-async function getProductImages() {
-  let url = window.location.pathname;
-  url = url.slice(0, url.length - 1);
-  url = url.split(/\/trees\//)[1];
-
-  productImageData = await fetch(
-    `https://api.leafland.co.nz/default/get-single-product-images?prefix=${url}`
-  )
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-
-  for (let i = 0; i < productImageData.length; i++) {
-    if (productImageData[i].Key.search("grades") !== -1) {
-      gradeImages.push(productImageData[i].Key);
-      productImageData.splice(i, 1);
-      i--;
-    }
-
-    // Remove images that have similar prefixes e.g. apple-gala and apple-galaxy
-    if (productImageData[i].Key.split("/", 3)[2] !== url) {
-      productImageData.splice(i, 1);
-      i--;
-    } else if (
-      productImageData[i].Key.search("jpg") === -1 &&
-      productImageData[i].Key.search("jpeg") === -1
-    ) {
-      productImageData.splice(i, 1);
-      i--;
-    }
-  }
-}
 
 async function getProductTreeData() {
   let url = window.location.pathname;
@@ -159,7 +123,7 @@ async function getProductStockData() {
   }
 }
 
-async function createTreeImages(productImageData) {
+async function createTreeImages() {
   imageLightBoxClose.addEventListener("click", () => {
     document.body.classList.remove("lightbox-open");
   });
