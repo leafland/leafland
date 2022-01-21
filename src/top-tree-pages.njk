@@ -3,12 +3,12 @@ pagination:
     addAllPagesToCollections: true
     data: top-trees
     size: 1
-    alias: tree
-permalink: "/top-trees/{{ tree.url | safe }}/"
-layout: layouts/top-trees.njk
+    alias: topTrees
+permalink: "/top-trees/{{ topTrees.url }}/"
+layout: layouts/top-trees.liquid
 type: top-trees
 eleventyComputed:
-    title: "{{tree.title | safe }}"
-    id: "{{tree.id | safe }}"
-    description: "{{tree.description | safe}}"
+    title: "{{ topTrees.title }}"
+    description: "{{ topTrees.description }}"
+    trees: "{{ topTrees.trees }}"
 ---

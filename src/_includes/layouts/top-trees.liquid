@@ -1,0 +1,44 @@
+---
+layout: layouts/base.liquid
+type: top-trees
+---
+
+<div id="content">
+
+    <h1>{{ title }}</h1>
+
+    <div id="tree-wrapper">
+    
+    {% for tree in topTrees.trees %}
+
+    <div class="tree-item">
+    
+        <div class="tree-image"><img src="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-500,q-75,pr-true,f-auto" width="500" height="500" alt="{{ tree.url | replace: '-', ' ' }}" loading="lazy">
+        
+        </div>
+        
+        <div class="title-link-box">
+        
+            <div class="title-container">
+            
+                <h2>{{ tree.botanicalName }}</h2>
+
+                {% if tree.commonName != "" %}
+                
+                <h3>{{ tree.commonName }}</h3>
+
+                {% endif %}
+            
+            </div>
+            
+            <a href="/trees/{{ tree.url }}/" class="tree-link button">View Tree</a>
+        
+        </div>
+    
+    </div>
+
+    {% endfor %}
+    
+    </div>
+
+</div>

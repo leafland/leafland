@@ -819,7 +819,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg",
      "images":[
        {
@@ -1684,7 +1683,6 @@
      "autumnColor":"purple, red",
      "foliageColor":"purple, red",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg",
      "images":[
        {
@@ -2265,7 +2263,6 @@
      "autumnColor":"red",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-upright.svg",
      "images":[
        {
@@ -2614,7 +2611,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/acer-platanoides/acer-platanoides-topiary.svg",
      "images":[
        {
@@ -2811,7 +2807,6 @@
      "autumnColor":"yellow",
      "foliageColor":"purple, green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg",
      "images":[
        {
@@ -2880,7 +2875,6 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "images":[
        {
@@ -3089,7 +3083,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
      "images":[
        {
@@ -3282,7 +3275,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "images":[
        {
@@ -4024,7 +4016,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
      "images":[
        {
@@ -4241,7 +4232,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching, topiary",
      "treeShape":"images/icons/tree-shapes/alectryon/alectryon-general.svg",
      "images":[
        {
@@ -4662,7 +4652,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening, pleaching",
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "images":[
        {
@@ -4763,7 +4752,6 @@
      "autumnColor":"red",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/amelanchier/amelanchier-general.svg",
      "images":[
        {
@@ -6529,7 +6517,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/betula/betula-upright.svg",
      "images":[
        {
@@ -7226,7 +7213,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/camellia/camellia-general.svg",
      "images":[
        {
@@ -7271,7 +7257,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/camellia/camellia-general.svg",
      "images":[
        {
@@ -7846,7 +7831,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers, hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/camellia/camellia-general.svg",
      "images":[
        {
@@ -8161,7 +8145,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening, pleaching",
      "treeShape":"images/icons/tree-shapes/carpinus/carpinus-general.svg",
      "images":[
        {
@@ -8858,7 +8841,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"purple",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/cercis/cercis-general.svg",
      "images":[
        {
@@ -8967,7 +8949,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"yellow",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/cercis/cercis-general.svg",
      "images":[
        {
@@ -10681,7 +10662,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/cornus/cornus-tiered.svg",
      "images":[
        {
@@ -11921,7 +11901,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/corokia/corokia-general.svg",
      "images":[
        {
@@ -12394,7 +12373,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/cryptomeria/cryptomeria-general.svg",
      "images":[
        {
@@ -12731,7 +12709,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/cupressus/cupressus-general.svg",
      "images":[
        {
@@ -12796,7 +12773,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues, narrow-sites",
      "treeShape":"images/icons/tree-shapes/cupressus/cupressus-upright.svg",
      "images":[
        {
@@ -13489,7 +13465,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/elaeagnus/elaeagnus-general.svg",
      "images":[
        {
@@ -13667,7 +13642,6 @@
      "autumnColor":"",
      "foliageColor":"blue, green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/eucalyptus/eucalyptus-general.svg",
      "images":[
        {
@@ -13816,7 +13790,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching",
      "treeShape":"images/icons/tree-shapes/fagus/fagus-general.svg",
      "images":[
        {
@@ -14297,7 +14270,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/feijoa/feijoa-general.svg",
      "images":[
        {
@@ -14911,7 +14883,6 @@
      "autumnColor":"yellow",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
      "images":[
        {
@@ -15060,7 +15031,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
      "images":[
        {
@@ -15113,7 +15083,6 @@
      "autumnColor":"orange, purple",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-upright.svg",
      "images":[
        {
@@ -15482,7 +15451,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
      "images":[
        {
@@ -15883,7 +15851,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/ginkgo/ginkgo-general.svg",
      "images":[
        {
@@ -16693,7 +16660,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks",
      "treeShape":"images/icons/tree-shapes/grevillea/grevillea-general.svg",
      "images":[
        {
@@ -16835,7 +16801,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/griselinia/griselinia-general.svg",
      "images":[
        {
@@ -16904,7 +16869,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/griselinia/griselinia-general.svg",
      "images":[
        {
@@ -17472,7 +17436,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites, small-gardens",
      "treeShape":"images/icons/tree-shapes/ilex/ilex-narrow.svg",
      "images":[
        {
@@ -17517,7 +17480,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/ilex/ilex-upright.svg",
      "images":[
        {
@@ -17618,7 +17580,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/jacaranda/jacaranda-general.svg",
      "images":[
        {
@@ -17816,7 +17777,6 @@
      "autumnColor":"",
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/juniperus/juniperus-upright.svg",
      "images":[
        {
@@ -18317,7 +18277,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers, small-gardens",
      "treeShape":"images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
      "images":[
        {
@@ -18668,7 +18627,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/laurus/laurus-general.svg",
      "images":[
        {
@@ -19015,7 +18973,6 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, paddocks, shade",
      "treeShape":"images/icons/tree-shapes/liquidambar/liquidambar-general.svg",
      "images":[
        {
@@ -19182,7 +19139,6 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/liquidambar/liquidambar-topiary.svg",
      "images":[
        {
@@ -19356,7 +19312,6 @@
      "autumnColor":"purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/liquidambar/liquidambar-general.svg",
      "images":[
        {
@@ -19457,7 +19412,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/liriodendron/liriodendron-general.svg",
      "images":[
        {
@@ -20097,7 +20051,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
      "images":[
        {
@@ -20542,7 +20495,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/magnolia/magnolia-upright.svg",
      "images":[
        {
@@ -20864,7 +20816,6 @@
      "autumnColor":"",
      "foliageColor":"green, brown, orange",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
      "images":[
        {
@@ -21021,7 +20972,6 @@
      "autumnColor":"",
      "foliageColor":"green, brown, orange",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
      "images":[
        {
@@ -22293,7 +22243,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
      "images":[
        {
@@ -23296,7 +23245,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers, pleaching",
      "treeShape":"images/icons/tree-shapes/malus/malus-general.svg",
      "images":[
        {
@@ -23755,7 +23703,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/malus/malus-upright.svg",
      "images":[
        {
@@ -24105,7 +24052,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/metrosideros/metrosideros-general.svg",
      "images":[
        {
@@ -24242,7 +24188,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/metrosideros/metrosideros-general.svg",
      "images":[
        {
@@ -24783,7 +24728,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching",
      "treeShape":"images/icons/tree-shapes/michelia/michelia-general.svg",
      "images":[
        {
@@ -24832,7 +24776,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/michelia/michelia-general.svg",
      "images":[
        {
@@ -24865,7 +24808,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/michelia/michelia-general.svg",
      "images":[
        {
@@ -24926,7 +24868,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/michelia/michelia-general.svg",
      "images":[
        {
@@ -25522,7 +25463,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/nandina/nandina-general.svg",
      "images":[
        {
@@ -25809,7 +25749,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/nyssa/nyssa-general.svg",
      "images":[
        {
@@ -26215,7 +26154,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"autumn",
-     "topTrees":"hedging-and-screening, pleaching",
      "treeShape":"images/icons/tree-shapes/olive/olive-general.svg",
      "images":[
        {
@@ -26517,7 +26455,6 @@
      "autumnColor":"yellow, purple, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/parrotia/parrotia-general.svg",
      "images":[
        {
@@ -27352,7 +27289,6 @@
      "autumnColor":"",
      "foliageColor":"red, green",
      "fruitingSeason":"",
-     "topTrees":"pleaching",
      "treeShape":"images/icons/tree-shapes/photinia/photinia-general.svg",
      "images":[
        {
@@ -27545,7 +27481,6 @@
      "autumnColor":"",
      "foliageColor":"blue, grey",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/picea/picea-general.svg",
      "images":[
        {
@@ -28046,7 +27981,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg",
      "images":[
        {
@@ -28528,7 +28462,6 @@
      "autumnColor":"",
      "foliageColor":"green, grey, blue",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/pittosporum/pittosporum-general.svg",
      "images":[
        {
@@ -28731,7 +28664,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/platanus/platanus-general.svg",
      "images":[
        {
@@ -29416,7 +29348,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/podocarpus/podocarpus-general.svg",
      "images":[
        {
@@ -29517,7 +29448,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/podocarpus/podocarpus-general.svg",
      "images":[
        {
@@ -29942,7 +29872,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/prunus/prunus-pillar.svg",
      "images":[
        {
@@ -30829,7 +30758,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching",
      "treeShape":"images/icons/tree-shapes/prunus/prunus-bushy.svg",
      "images":[
        {
@@ -30886,7 +30814,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/prunus/prunus-bushy.svg",
      "images":[
        {
@@ -31147,7 +31074,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
      "images":[
        {
@@ -31992,7 +31918,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
      "images":[
        {
@@ -32462,7 +32387,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg",
      "images":[
        {
@@ -32800,7 +32724,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, pleaching",
      "treeShape":"images/icons/tree-shapes/pyrus/pyrus-general.svg",
      "images":[
        {
@@ -32921,7 +32844,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues, narrow-sites",
      "treeShape":"images/icons/tree-shapes/pyrus/pyrus-upright.svg",
      "images":[
        {
@@ -33383,7 +33305,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching, topiary",
      "treeShape":"images/icons/tree-shapes/quercus/quercus-general.svg",
      "images":[
        {
@@ -33508,7 +33429,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/quercus/quercus-general.svg",
      "images":[
        {
@@ -33661,7 +33581,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/quercus/quercus-general.svg",
      "images":[
        {
@@ -34343,7 +34262,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/salix/salix-weeping.svg",
      "images":[
        {
@@ -34892,7 +34810,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"beautiful-flowers",
      "treeShape":"images/icons/tree-shapes/sophora/sophora-general.svg",
      "images":[
        {
@@ -34969,7 +34886,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/sophora/sophora-low-bushy.svg",
      "images":[
        {
@@ -35327,7 +35243,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"topiary",
      "treeShape":"images/icons/tree-shapes/syzygium/syzygium-general.svg",
      "images":[
        {
@@ -35541,7 +35456,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"driveways-and-avenues",
      "treeShape":"images/icons/tree-shapes/thuja/thuja-narrow.svg",
      "images":[
        {
@@ -35598,7 +35512,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"narrow-sites",
      "treeShape":"images/icons/tree-shapes/thuja/thuja-narrow.svg",
      "images":[
        {
@@ -35659,7 +35572,6 @@
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"hedging-and-screening",
      "treeShape":"images/icons/tree-shapes/thuja/thuja-general.svg",
      "images":[
        {
@@ -35725,7 +35637,6 @@
      "autumnColor":"yellow",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"pleaching",
      "treeShape":"images/icons/tree-shapes/tilia/tilia-general.svg",
      "images":[
        {
@@ -36285,7 +36196,6 @@
      "autumnColor":"yellow",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color",
      "treeShape":"images/icons/tree-shapes/ulmus/ulmus-general.svg",
      "images":[
        {
@@ -36390,7 +36300,6 @@
      "autumnColor":"yellow, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"paddocks, shade",
      "treeShape":"images/icons/tree-shapes/ulmus/ulmus-general.svg",
      "images":[
        {
@@ -36447,7 +36356,6 @@
      "autumnColor":"red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"small-gardens",
      "treeShape":"images/icons/tree-shapes/viburnum/viburnum-general.svg",
      "images":[
        {
@@ -36686,7 +36594,6 @@
      "autumnColor":"yellow, red, orange",
      "foliageColor":"green",
      "fruitingSeason":"",
-     "topTrees":"autumn-color, paddocks, shade",
      "treeShape":"images/icons/tree-shapes/zelkova/zelkova-general.svg",
      "images":[
        {
