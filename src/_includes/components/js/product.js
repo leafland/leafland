@@ -150,7 +150,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -184,7 +184,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -218,7 +218,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
