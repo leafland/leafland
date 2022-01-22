@@ -33,10 +33,6 @@ const productAdded = new Event("productAdded");
 
 let grades = [];
 
-if (treeCommonName.textContent === "") {
-  treeCommonName.style.setProperty("display", "none");
-}
-
 window.addEventListener("loginUpdated", () => {
   (async function init() {
     addEventListeners();

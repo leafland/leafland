@@ -7,7 +7,12 @@ type: product
 
     <div id="tree-name-block">
         <h1 class="tree-botanical-name">{{ botanicalName }}</h1>
+
+        {% if commonName != '' %}
         <h2 class="tree-common-name accent-color">{{ commonName }}</h2>
+        {% else %}
+        <h2 class="tree-common-name accent-color" style="display:none"></h2>
+        {% endif %}
     </div>
 
     <div id="grid-content">
@@ -182,7 +187,7 @@ type: product
 
                             <div class="icon-div">
                             
-                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg" width="40" height="40">
+                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg" width="40" height="40" alt="{{ origin }} tree">
                                 <span class="tooltip">{{ origin | capitalize }}</span>
                             
                             </div>
@@ -193,7 +198,7 @@ type: product
 
                             <div class="icon-div">
                             
-                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg" width="40" height="40">
+                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg" width="40" height="40" alt="{{ winterFoliage }} tree">
                                 <span class="tooltip">{{ winterFoliage | capitalize }}</span>
                             
                             </div>
@@ -208,7 +213,7 @@ type: product
 
                                 <div class="icon-div">
                                 
-                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }} tree">
                                     <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
                                 
                                 </div>
@@ -227,7 +232,7 @@ type: product
 
                                     <div class="icon-div">
                                     
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }}">
                                         <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }}</span>
                                     
                                     </div>
@@ -236,7 +241,7 @@ type: product
 
                                     <div class="icon-div">
                                     
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }} sites">
                                         <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }} sites</span>
                                     
                                     </div>
@@ -255,7 +260,7 @@ type: product
 
                                 <div class="icon-div">
                                 
-                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }}">
                                     <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
                                 
                                 </div>
@@ -272,7 +277,7 @@ type: product
 
                                 <div class="icon-div">
                                 
-                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' '}}">
                                     <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
                                 
                                 </div>
@@ -291,7 +296,7 @@ type: product
 
                                     <div class="icon-div">
                                     
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }}">
                                         <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
                                     
                                     </div>
@@ -300,7 +305,7 @@ type: product
 
                                     <div class="icon-div">
                                     
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40">
+                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item }}">
                                         <span class="tooltip">{{ item | capitalize }}</span>
                                     
                                     </div>
@@ -317,7 +322,7 @@ type: product
 
                         <p class="paragraph-title">10 Year Size</p>
 
-                        <img id="tree-shape-image" src="https://images.leafland.co.nz/{{ treeShape }}" width="150" height="150">
+                        <img id="tree-shape-image" src="https://images.leafland.co.nz/{{ treeShape }}" width="150" height="150" alt="tree shape">
                         
                         <div id="height-div">
                             <span class="arrow" id="arrow-up">↑</span>
