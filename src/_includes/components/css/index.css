@@ -40,7 +40,6 @@ main h3 {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
-  opacity: 0;
 }
 
 #link-block button:nth-of-type(1) {
@@ -76,7 +75,7 @@ main h3 {
   color: var(--inverse-text-color);
   align-self: start;
   grid-row-start: 2;
-  opacity: 0;
+  /* animation: fadeInUp 1s 500ms forwards cubic-bezier(0.31,0.87,0.32,1) */
 }
 
 #hero-text h1 {
@@ -103,7 +102,6 @@ main h3 {
   padding: 2rem;
   background: var(--secondary-background);
   border-radius: 8px;
-  opacity: 0;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 3rem;
