@@ -153,8 +153,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
 async function getTreeFinderData() {
   treeFinderData = await fetch(
-    `https://api.leafland.co.nz/default/get-product-data?type=tree-finder`,
-    { method: "GET" }
+    `/public/trees.json`
   )
     .then((response) => response.json())
     .then((data) => data)

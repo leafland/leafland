@@ -2,6 +2,17 @@ let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
+// let data;
+
+// (async function getData() {
+//   data = await fetch(
+//     `/public/trees.json`
+//   )
+//     .then((response) => response.json())
+//     .then((data) => data)
+//     .catch((error) => {});
+// })()
+
 if (localStorage.getItem("trees") === null) {
   localStorage.setItem("trees", "[]");
 }
