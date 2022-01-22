@@ -17,7 +17,7 @@ function resetStartEnd() {
 
 async function getSearchData() {
   searchData = await fetch(
-    `https://api.leafland.co.nz/default/get-product-data?type=tree-finder`
+    `/public/trees.json`
   )
     .then((response) => response.json())
     .then((data) => data)
