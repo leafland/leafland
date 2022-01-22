@@ -1,17 +1,4 @@
-@font-face {
-  font-family: "Inter";
-  src: url("/public/assets/fonts/Inter-Bold.woff2") format("woff2");
-  font-weight: bold;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Inter";
-  src: url("/public/assets/fonts/Inter-Regular.woff2") format("woff2");
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* RESET */
+* RESET */
 
 /*
   1. Use a more-intuitive box-sizing model.
@@ -80,7 +67,7 @@ h6 {
 /**********************/
 
 :root {
-  --global-font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont,
+  --global-font-family: system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   --accent-color: #119822;
