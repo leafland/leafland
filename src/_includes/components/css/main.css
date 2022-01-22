@@ -256,10 +256,6 @@ body > footer {
   transition: transform 0.5s ease;
 }
 main {
-  height: 100%;
-  max-width: 100rem;
-  margin: auto;
-  /* margin-top: 10rem; */
   padding: 1rem;
   overflow-x: hidden;
 }
