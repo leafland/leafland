@@ -18,9 +18,10 @@ loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
 async function getFreightData() {
   freightData = await fetch(
-    "https://api.leafland.co.nz/default/get-freight-data-file"
+    "/public/freight.json"
   )
     .then((response) => response.json())
+    .then((data) => data)
     .catch((error) => {});
 }
 
