@@ -9,6 +9,8 @@
 
     {% if type == 'product' %}
     <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
+    {% elsif type == 'index' %}
+    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/home/aerial-view-of-leafland-nursery-full.jpg?tr=w-2000,q-75,pr-true,f-auto">
     {% endif %}
 
     <meta name="description" content="{{ description | escape }}"/>
