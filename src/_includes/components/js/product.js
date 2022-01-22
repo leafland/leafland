@@ -137,8 +137,6 @@ async function createTreeImages() {
     document.body.classList.add("lightbox-open");
   });
 
-  imagePosition = thumbImages.length;
-
   thumbImages.forEach((thumbImage) => {
     thumbImage.addEventListener("click", (e) => {
       imagePosition = parseInt(thumbImage.dataset.position);
@@ -173,7 +171,7 @@ async function createTreeImages() {
 
   imageLeftButton.addEventListener("click", () => {
     if (imagePosition <= 0) {
-      imagePosition = thumbImages.length - 1;
+      imagePosition = parseInt(thumbImages.length) - 1;
     } else {
       imagePosition--;
     }
