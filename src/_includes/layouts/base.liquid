@@ -3,24 +3,14 @@
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-
-    <link rel="shortcut icon" type="image/svg+xml" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.svg">
-    <link rel="alternate icon" type="image/png" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.png">
-
-    {% if type == 'product' %}
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
-    {% comment %} {% elsif type == 'index' %}
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/home/aerial-view-of-leafland-nursery-full.jpg?tr=w-2000,q-75,pr-true,f-auto"> {% endcomment %}
-    {% endif %}
-
     <meta name="description" content="{{ description | escape }}"/>
-
-    {% comment %} <link rel='preconnect' href="https://images.leafland.co.nz">
-    <link rel='dns-prefetch' href="https://images.leafland.co.nz">
-    <link rel='preconnect' href="https://files.leafland.co.nz">
-    <link rel='dns-prefetch' href="https://files.leafland.co.nz">
-    <link rel='preconnect' href="https://api.leafland.co.nz">
-    <link rel='dns-prefetch' href="https://api.leafland.co.nz"> {% endcomment %}
+    <title>
+    {% if type == "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+    {% elsif type == "product" and commonName == ""%}{{ botanicalName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+    {% elsif type == "product"%}{{ botanicalName }} ({{ commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+    {% else %}{{ title }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+    {% endif %}
+    </title>
 
     <link rel='preconnect' href="https://plausible.io">
     <link rel='dns-prefetch' href="https://plausible.io">
@@ -58,7 +48,9 @@
     </style>
 
     {% if type == "product" %}
+
       {% include "components/head/_product.njk"%}
+      <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
 
     {% elsif type == "submit-order" %}
       {% include "components/head/_submit-order.njk"%}
@@ -83,17 +75,10 @@
 
     {% endif %}
 
-    <title>
-      {% if type == "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% elsif type == "product" and commonName == ""%}{{ botanicalName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% elsif type == "product"%}{{ botanicalName }} ({{ commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% else %}{{ title }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-      {% endif %}
-    </title>
+    <link rel="shortcut icon" type="image/svg+xml" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.svg">
+    <link rel="alternate icon" type="image/png" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.png">
 
     {% if type == 'product' %}
-
-      
 
         <script type="application/ld+json">
           {
@@ -161,7 +146,7 @@
 
   </head>
 
-  <body {% if type == "top-trees" %} data-id="{{ id }}" {% endif %}>
+  <body>
 
     <div id="view">
 

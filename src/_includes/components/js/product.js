@@ -22,7 +22,6 @@ let imageRightButton = document.querySelector("#image-right-button");
 let imagePosition = 0;
 let thumbImages = document.querySelectorAll(".thumb-image");
 
-// let productTreeData = [];
 let productStockData = [];
 let productImage = "";
 let maximumQuantityReached = false;
@@ -37,8 +36,6 @@ window.addEventListener("loginUpdated", () => {
   (async function init() {
     addEventListeners();
 
-    // await getProductTreeData();
-
 
       await createTreeImages();
 
@@ -48,67 +45,6 @@ window.addEventListener("loginUpdated", () => {
   })();
 });
 
-// async function getProductTreeData() {
-//   // let url = window.location.pathname;
-//   // url = url.slice(0, url.length - 1);
-//   // url = url.split(/\/trees\//)[1];
-
-//   productTreeData = await fetch(
-//     `/public/trees.json`
-//   )
-//     .then((response) => response.json())
-//     .then((data) => data)
-//     .catch((error) => {});
-
-
-//     for(let i = 0; i < productTreeData.length; i++){
-//       if (treeCommonName.textContent.toLowerCase() === "serrula interstem") {
-//         if (
-//           `${treeBotanicalName.textContent} serrula interstem`
-//             .replace(/'/g, "")
-//             .replace(/"/g, "")
-//             .replace(/ var. /g, " ")
-//             .replace(/ x /g, " ")
-//             .replace(/\(/g, "")
-//             .replace(/\)/g, "")
-//             .toLowerCase()
-//             .trim() !==
-//             productTreeData[i].botanicalName
-//             .replace(/'/g, "")
-//             .replace(/"/g, "")
-//             .replace(/ var. /g, " ")
-//             .replace(/ x /g, " ")
-//             .replace(/\(/g, "")
-//             .replace(/\)/g, "")
-//             .toLowerCase()
-//             .trim()
-//         ) {
-//           productTreeData.splice(i, 1);
-//           i--;
-//         }
-//       } else {
-//         if (
-//           treeBotanicalName.textContent
-//             .replace(/'/g, "")
-//             .replace(/"/g, "")
-//             .replace(/ var. /g, " ")
-//             .replace(/ x /g, " ")
-//             .toLowerCase()
-//             .trim() !==
-//             productTreeData[i].botanicalName
-//             .replace(/'/g, "")
-//             .replace(/"/g, "")
-//             .replace(/ var. /g, " ")
-//             .replace(/ x /g, " ")
-//             .toLowerCase()
-//             .trim()
-//         ) {
-//           productTreeData.splice(i, 1);
-//           i--;
-//         }
-//       }
-//     }
-// }
 
 async function getProductStockData() {
   productStockData = await fetch(
