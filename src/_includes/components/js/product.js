@@ -196,9 +196,7 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;" srcset="${
-            thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
+          }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
         }, 500);
@@ -238,9 +236,7 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;" srcset="${
-            thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
+          }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
@@ -280,9 +276,7 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;" srcset="${
-            thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
+          }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
