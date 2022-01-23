@@ -174,7 +174,7 @@ async function createTreeImages() {
 
   let mainImg = document.querySelector(".main-img");
   productImage = mainImg.src
-    .split("https://images.leafland.co.nz/images/trees/")[1]
+    .split("images/trees/")[1]
     .split("?")[0];
   mainImg.addEventListener("click", () => {
     imageLightboxInner.innerHTML = `<img src='${mainImg.src}'>`;
@@ -196,7 +196,9 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
+          }" class="main-img" style="opacity: 1;" srcset="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
         }, 500);
@@ -206,7 +208,13 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
+          }" class="main-img" style="opacity: 1;" srcset="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+            thumbImage.src.split("?")[0]
+          }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+            thumbImage.src.split("?")[0]
+          }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
           document.body.classList.add("lightbox-open");
         });
       }
@@ -230,7 +238,9 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
+          }" class="main-img" style="opacity: 1;" srcset="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
@@ -239,7 +249,13 @@ async function createTreeImages() {
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
               thumbImage.alt
-            }" class="main-img" style="opacity: 1;">`;
+            }" class="main-img" style="opacity: 1;" srcset="${
+              thumbImage.src.split("?")[0]
+            }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+              thumbImage.src.split("?")[0]
+            }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+              thumbImage.src.split("?")[0]
+            }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);
@@ -264,7 +280,9 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
+          }" class="main-img" style="opacity: 1;" srcset="${
+            thumbImage.src.split("?")[0]
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
@@ -273,7 +291,13 @@ async function createTreeImages() {
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
               thumbImage.alt
-            }" class="main-img" style="opacity: 1;">`;
+            }" class="main-img" style="opacity: 1;" srcset="${
+              thumbImage.src.split("?")[0]
+            }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+              thumbImage.src.split("?")[0]
+            }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+              thumbImage.src.split("?")[0]
+            }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);
