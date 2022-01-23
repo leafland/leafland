@@ -280,7 +280,7 @@ h3 {
   text-transform: uppercase;
   font-weight: bold;
   line-height: 1.2;
-  transition: color 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
+  transition: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 h1 {
@@ -346,7 +346,7 @@ input[type="submit"] {
 a {
   text-decoration: none;
   color: var(--primary-text);
-  transition: color 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
+  transition: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 h1 {
@@ -387,7 +387,6 @@ input {
 
 #content {
   opacity: 1;
-  transition: opacity 1s cubic-bezier(0.31, 0.87, 0.32, 1);
   overflow-y: hidden;
 }
 
@@ -425,7 +424,6 @@ header {
   gap: 1rem;
   padding: 1rem;
   opacity: 1;
-  /* transition: opacity 1s cubic-bezier(0.31, 0.87, 0.32, 1); */
 }
 
 #header-buttons {

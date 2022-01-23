@@ -159,10 +159,9 @@ main
   grid-template-rows: auto 1fr;
 }
 
-.main-img {
+/* .main-img {
   opacity: 0;
-  transition: all 0.5s var(--default-animation-easing);
-}
+} */
 
 #main-image {
   width: 100%;
