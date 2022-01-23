@@ -87,7 +87,7 @@
             "name": "{% if commonName == "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
             "botanicalName": "{{ botanicalName | escape}}",
             {% unless commonName == "" %}"commonName": "{{ commonName | escape}}",{% endunless %}
-            "image": "{{ image }}",
+            "image": "https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-1500,q-75,pr-true,f-auto",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "height": "{{ height }}",
