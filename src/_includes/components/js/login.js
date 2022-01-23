@@ -2,7 +2,6 @@ let loginForm = document.querySelector("#login-form");
 let returnMessage = document.querySelector("#return-message");
 let logOutButton = document.querySelector("#log-out");
 let login = "";
-
 let openLogin = document.querySelector("#open-login");
 let closeLogin = document.querySelector("#close-login");
 
