@@ -239,7 +239,6 @@ li.sub-menu-button button div svg {
 }
 
 @media (min-width: 600px) {
-  div#main-menu-inner ul li a,
   .sub-menu-button button {
     grid-template-columns: 1fr 200px;
   }
