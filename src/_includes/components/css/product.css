@@ -185,7 +185,7 @@ main
   align-self: center;
 }
 
-#main-image > button > svg {
+#main-image > button > img {
   height: 40px;
   width: 40px;
   background: var(--secondary-background);
