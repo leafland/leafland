@@ -252,9 +252,6 @@ body > footer {
   top: 100vh;
 }
 
-#view {
-  transition: transform 0.5s ease;
-}
 main {
   padding: 1rem;
   overflow-x: hidden;
