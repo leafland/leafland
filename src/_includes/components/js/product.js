@@ -198,7 +198,7 @@ async function createTreeImages() {
             thumbImage.alt
           }" class="main-img" style="opacity: 1;" srcset="${
             thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
         }, 500);
@@ -240,7 +240,7 @@ async function createTreeImages() {
             thumbImage.alt
           }" class="main-img" style="opacity: 1;" srcset="${
             thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
@@ -282,7 +282,7 @@ async function createTreeImages() {
             thumbImage.alt
           }" class="main-img" style="opacity: 1;" srcset="${
             thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="500px">`;
+          }?tr=w-300,q-75,pr-true,f-auto 300w" sizes="1000px">`;
           mainImage.style.setProperty("opacity", "1");
           mainImage.style.setProperty("visibility", "visible");
 
