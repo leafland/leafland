@@ -19,13 +19,13 @@ window.addEventListener("loginUpdated", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link">Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
 
     menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
 
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link">Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
 
     menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
     document.body.classList.remove("loggedIn");
@@ -40,12 +40,12 @@ window.addEventListener("storage", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link">Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
 
     menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link">Stock List</a>`;
+    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
 
     menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
     document.body.classList.remove("loggedIn");
