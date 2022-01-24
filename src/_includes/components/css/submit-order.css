@@ -8,7 +8,6 @@ main input[type="tel"],
 main input[type="email"],
 main select,
 main textarea {
-  /* min-width: 300px; */
   width: 100%;
   border-color: var(--primary-text);
 }
@@ -34,9 +33,6 @@ main textarea {
 
 #grid-content-left p {
   margin-bottom: 3rem;
-}
-
-#grid-content-left p:last-child {
 }
 
 #form-trees {
@@ -193,7 +189,7 @@ main label {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  div#grid-content-right .send-order:hover {
+  button.send-order:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

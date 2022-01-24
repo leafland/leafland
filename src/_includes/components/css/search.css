@@ -44,9 +44,6 @@ body.search-loaded #search-results {
   grid-area: 1 / -1;
 }
 
-#search-results > a > div {
-}
-
 #search-results p.empty-message {
   background: none;
   padding: 0;

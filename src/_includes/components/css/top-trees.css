@@ -67,9 +67,6 @@ main {
   place-self: center;
 }
 
-main h1 {
-}
-
 #tree-wrapper {
   margin-top: 3rem;
   display: grid;

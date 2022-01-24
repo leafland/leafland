@@ -96,9 +96,6 @@ main h2 {
   margin-top: 3rem;
 }
 
-#grade-sizes h2 {
-}
-
 #grade-sizes-heading {
   display: inline-block;
 }
@@ -142,11 +139,6 @@ main h2 {
   font-weight: bold;
 }
 
-main
-  img:not(.main-img):not(.tree-icon):not(#clear-icon):not(#tree-shape-image) {
-  border-radius: 8px;
-}
-
 #grid-content {
   display: grid;
   gap: 5rem 40px;
@@ -158,10 +150,6 @@ main
   display: grid;
   grid-template-rows: auto 1fr;
 }
-
-/* .main-img {
-  opacity: 0;
-} */
 
 #main-image {
   width: 100%;
@@ -238,6 +226,7 @@ main
   width: 50px;
   height: 50px;
   cursor: pointer;
+  border-radius: 8px
 }
 
 .icon-div {

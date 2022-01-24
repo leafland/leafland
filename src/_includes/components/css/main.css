@@ -112,7 +112,7 @@ h6 {
   --font-size-8: clamp(1.5rem, 1rem + 5vw, 5.5rem);
 }
 
-[data-theme="dark"] {
+/* [data-theme="dark"] {
   --primary-text: hsl(var(--brand-hue) 15% 85%);
   --secondary-text: hsl(var(--brand-hue) 5% 65%);
   --image-text: hsl(var(--brand-hue) 5% 65%);
@@ -126,7 +126,7 @@ h6 {
 
   --button-background: hsl(var(--brand-hue) 10% 15%);
   --button-background-hover: hsl(var(--brand-hue) 5% 25%);
-}
+} */
 
 @keyframes fadeInAnimation {
   0% {
@@ -392,20 +392,11 @@ input {
 
 /*********************************/
 
-/* QUOTE REQUEST SUBMIT FORM*/
 label {
   display: block;
   text-transform: uppercase;
   font-weight: bold;
 }
-
-p.form-trees-title {
-  display: block;
-  margin-bottom: 10px;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-/****************************************/
 
 /* HEADER AND MENUS */
 

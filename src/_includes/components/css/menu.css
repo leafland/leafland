@@ -37,7 +37,7 @@
   grid-area: 1 / -1;
 }
 
-#main-menu-inner ul {
+.main-menu-list {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
@@ -45,33 +45,18 @@
   place-content: center;
 }
 
-#main-menu-inner #top-trees-sub-menu {
-  grid-template-columns: repeat(auto-fit, minmax(0px, 1px));
-}
-
-#main-menu-inner ul li {
+.main-menu-list-item {
   background: var(--secondary-background);
   border-radius: 8px;
   max-height: 400px;
   height: 100%;
 }
 
-#main-menu-inner ul li a,
+.main-menu-list-item-link,
 .sub-menu-button button {
   display: grid;
   width: 100%;
   padding: 1rem;
-}
-
-#main-menu-inner ul li a p,
-li.sub-menu-button button div {
-  justify-self: start;
-  align-self: center;
-}
-
-#main-menu-inner ul li a img,
-.sub-menu-button button img {
-  justify-self: center;
 }
 
 #main-menu-inner .button {
@@ -180,8 +165,8 @@ li.sub-menu-button button div svg {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  div#main-menu-inner ul .button:hover,
-  div#main-menu-inner ul button:hover:not(.back-button) {
+  .main-menu-list .button:hover,
+  .main-menu-list button:hover:not(.back-button) {
     color: var(--brand-color);
     background: none;
   }
@@ -210,7 +195,7 @@ li.sub-menu-button button div svg {
 
 @media (min-width: 600px) {
 
-  div#main-menu-inner ul li a,
+  .main-menu-list-item-link,
   .sub-menu-button button {
     padding: 2rem;
   }
