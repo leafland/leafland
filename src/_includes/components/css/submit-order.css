@@ -47,6 +47,7 @@ main h3 {
 }
 
 #empty-message {
+  display: none;
   margin-top: 2rem;
 }
 

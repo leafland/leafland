@@ -15,6 +15,12 @@
     <link rel='preconnect' href="https://plausible.io">
     <link rel='dns-prefetch' href="https://plausible.io">
 
+    {% if type == 'product' %}
+
+    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
+
+    {% endif %}
+
     <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
 
     <style>
@@ -85,46 +91,10 @@
 
     {% endif %}
     </style>
-    
-    {% comment %} <style>
-      html{
-        visibility: hidden;
-        opacity:0;
-      }
-
-      #search-overlay, #login-overlay, #main-menu-overlay, #order-overlay{
-        opacity: 0;
-        z-index: -9999;
-      }
-
-      .dropdown-sub-menu{
-        opacity: 0
-      }
-
-      #view{
-        opacity:1
-      }
-
-      {% if type == 'product' %}
-        #image-lightbox{
-          opacity: 0;
-          position: fixed;
-          z-index: -1;
-          left: 0;
-          top: 0;
-          right: 0;
-          bottom: 0;
-          width: 100%;
-          height: 100%;
-          visibility: hidden;
-        }
-      {% endif %}
-    </style> {% endcomment %}
 
     {% if type == "product" %}
 
       {% include "components/head/_product.liquid"%}
-      <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
 
     {% elsif type == "submit-order" %}
       {% include "components/head/_submit-order.liquid"%}
