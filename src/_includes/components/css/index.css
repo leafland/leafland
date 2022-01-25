@@ -113,6 +113,11 @@ main h3 {
   border-radius: 8px;
   justify-self: center;
 }
+
+.split-section video {
+  justify-self: center;
+}
+
 .split-section-text {
   justify-self: start;
 }
@@ -174,7 +179,8 @@ footer {
     padding: 3rem;
   }
 
-  .split-section img {
+  .split-section img,
+  .split-section video {
     justify-self: end;
   }
 }
