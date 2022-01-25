@@ -516,7 +516,7 @@ footer p {
 body.search-open,
 body.login-open,
 body.order-open,
-body.menu-open {
+body.main-menu-open {
   position: fixed;
   overflow-y: scroll;
   top: 0;
@@ -528,7 +528,7 @@ body.menu-open {
 body.search-open #search-overlay,
 body.login-open #login-overlay,
 body.order-open #order-overlay,
-body.menu-open #main-menu-overlay {
+body.main-menu-open #main-menu-overlay {
   opacity: 1;
   z-index: 8;
   visibility: visible;

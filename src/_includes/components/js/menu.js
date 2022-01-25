@@ -10,43 +10,24 @@ let topTreesSubMenuButton = document.querySelector(
 );
 let mainMenu = document.querySelector("#main-menu");
 let backButton = document.querySelector("#back-button");
-// let resourcesBackButton = document.querySelector("#resources-back-button");
-// let topTreesBackButton = document.querySelector("#top-trees-back-button");
 
 openMenu.addEventListener("click", () => {
-  document.body.classList.add("menu-open");
-  // document.querySelector("#main-menu-items").style.setProperty("opacity", "1");
-  // document.querySelectorAll(".menu-unloaded").forEach((menuItem) => {
-  //   menuItem.classList.add("menu-loaded");
-  // });
+  document.body.classList.add("main-menu-open");
 });
 closeMenu.addEventListener("click", () => {
-  document.body.classList.remove("menu-open");
-  // document.querySelectorAll(".menu-unloaded").forEach((menuItem) => {
-  //   menuItem.classList.remove("menu-loaded");
-  // });
+  document.body.classList.remove("main-menu-open");
 });
 
 backButton.addEventListener("click", () => {
-  resourcesSubMenu.style.setProperty("opacity", "0");
-  resourcesSubMenu.style.setProperty("z-index", "0");
-  // resourcesSubMenu.style.setProperty("visibility", "hidden");
-  // resourcesSubMenu.style.setProperty("position", "absolute");
-  topTreesSubMenu.style.setProperty("opacity", "0");
-  topTreesSubMenu.style.setProperty("z-index", "0");
-
-  // topTreesSubMenu.style.setProperty("visibility", "hidden");
-  // topTreesSubMenu.style.setProperty("position", "absolute");
-  // mainMenu.style.setProperty("visibility", "visible");
-  // mainMenu.style.setProperty("position", "relative");
-  mainMenu.style.setProperty("opacity", "1");
-  mainMenu.style.setProperty("z-index", "9");
-  topTreesSubMenu.style.setProperty(
-    "grid-template-columns",
-    "repeat(auto-fit, minmax(0px, 1px))"
-  );
   backButton.style.setProperty("opacity", "0");
   backButton.style.setProperty("z-index", "0");
+
+  resourcesSubMenu.classList.remove("menu-open");
+  resourcesSubMenu.classList.add("menu-closed");
+  topTreesSubMenu.classList.remove("menu-open");
+  topTreesSubMenu.classList.add("menu-closed");
+  mainMenu.classList.add("menu-open");
+  mainMenu.classList.remove("menu-closed");
 
   document.querySelector("#main-menu-overlay").scroll({
     top: 0,
@@ -55,20 +36,15 @@ backButton.addEventListener("click", () => {
 });
 
 resourcesSubMenuButton.addEventListener("click", () => {
-  mainMenu.style.setProperty("opacity", "0");
-  mainMenu.style.setProperty("z-index", "0");
-  topTreesSubMenu.style.setProperty(
-    "grid-template-columns",
-    "repeat(auto-fit, minmax(0px, 1px))"
-  );
-  // mainMenu.style.setProperty("visibility", "hidden");
-  // mainMenu.style.setProperty("position", "absolute");
-  // resourcesSubMenu.style.setProperty("visibility", "visible");
-  // resourcesSubMenu.style.setProperty("position", "relative");
-  resourcesSubMenu.style.setProperty("opacity", "1");
-  resourcesSubMenu.style.setProperty("z-index", "9");
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
+
+  resourcesSubMenu.classList.add("menu-open");
+  resourcesSubMenu.classList.remove("menu-closed");
+  topTreesSubMenu.classList.remove("menu-open");
+  topTreesSubMenu.classList.add("menu-closed");
+  mainMenu.classList.remove("menu-open");
+  mainMenu.classList.add("menu-closed");
 
   document.querySelector("#main-menu-overlay").scroll({
     top: 0,
@@ -77,36 +53,18 @@ resourcesSubMenuButton.addEventListener("click", () => {
 });
 
 topTreesSubMenuButton.addEventListener("click", () => {
-  mainMenu.style.setProperty("opacity", "0");
-  mainMenu.style.setProperty("z-index", "0");
-  topTreesSubMenu.style.setProperty(
-    "grid-template-columns",
-    "repeat(auto-fit, minmax(200px, 500px))"
-  );
-  // mainMenu.style.setProperty("visibility", "hidden");
-  // mainMenu.style.setProperty("position", "absolute");
-  // topTreesSubMenu.style.setProperty("visibility", "visible");
-  // topTreesSubMenu.style.setProperty("position", "relative");
-  topTreesSubMenu.style.setProperty("opacity", "1");
-  topTreesSubMenu.style.setProperty("z-index", "9");
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
+
+  resourcesSubMenu.classList.remove("menu-open");
+  resourcesSubMenu.classList.add("menu-closed");
+  topTreesSubMenu.classList.add("menu-open");
+  topTreesSubMenu.classList.remove("menu-closed");
+  mainMenu.classList.remove("menu-open");
+  mainMenu.classList.add("menu-closed");
+
   document.querySelector("#main-menu-overlay").scroll({
     top: 0,
     left: 0,
   });
 });
-
-// resourcesBackButton.addEventListener("click", () => {
-//   resourcesSubMenu.style.setProperty("opacity", "0");
-//   resourcesSubMenu.style.setProperty("z-index", "0");
-//   mainMenu.style.setProperty("opacity", "1");
-//   mainMenu.style.setProperty("z-index", "9");
-// });
-
-// topTreesBackButton.addEventListener("click", () => {
-//   topTreesSubMenu.style.setProperty("opacity", "0");
-//   topTreesSubMenu.style.setProperty("z-index", "0");
-//   mainMenu.style.setProperty("opacity", "1");
-//   mainMenu.style.setProperty("z-index", "9");
-// });
