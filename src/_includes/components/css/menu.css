@@ -24,7 +24,6 @@
 
 #main-menu-inner {
   display: grid;
-  position: relative;
   grid-template-rows: auto auto auto;
   grid-gap: 2rem;
 }
