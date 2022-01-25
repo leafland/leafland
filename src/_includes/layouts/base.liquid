@@ -18,6 +18,75 @@
     <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
 
     <style>
+    {% if type == "product" %}
+
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/product.min.css" %}
+
+    {% elsif type == "submit-order" %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/submit-order.min.css" %}
+
+    {% elsif type == "tree-finder" %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/tree-finder.min.css" %}
+
+    {% elsif type == 'index' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/index.min.css" %}
+
+    {% elsif type == 'page' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/page.min.css" %}
+
+    {% elsif type == 'top-trees' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/top-trees.min.css" %}
+
+    {% elsif type == 'retail' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/stock-list.min.css" %}
+
+    {% elsif type == 'wholesale' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/stock-list.min.css" %}
+
+    {% endif %}
+    </style>
+    
+    {% comment %} <style>
       html{
         visibility: hidden;
         opacity:0;
@@ -50,33 +119,33 @@
           visibility: hidden;
         }
       {% endif %}
-    </style>
+    </style> {% endcomment %}
 
     {% if type == "product" %}
 
-      {% include "components/head/_product.njk"%}
+      {% include "components/head/_product.liquid"%}
       <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
 
     {% elsif type == "submit-order" %}
-      {% include "components/head/_submit-order.njk"%}
+      {% include "components/head/_submit-order.liquid"%}
 
     {% elsif type == "tree-finder" %}
-      {% include "components/head/_tree-finder.njk"%}
+      {% include "components/head/_tree-finder.liquid"%}
 
     {% elsif type == 'index' %}
-      {% include "components/head/_index.njk"%}
+      {% include "components/head/_index.liquid"%}
 
     {% elsif type == 'page' %}
-      {% include "components/head/_page.njk"%}
+      {% include "components/head/_page.liquid"%}
 
     {% elsif type == 'top-trees' %}
-      {% include "components/head/_top-trees.njk"%}
+      {% include "components/head/_top-trees.liquid"%}
 
     {% elsif type == 'retail' %}
-      {% include "components/head/_retail-list.njk"%}
+      {% include "components/head/_retail-list.liquid"%}
 
     {% elsif type == 'wholesale' %}
-      {% include "components/head/_wholesale-list.njk"%}
+      {% include "components/head/_wholesale-list.liquid"%}
 
     {% endif %}
 
