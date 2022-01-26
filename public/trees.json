@@ -410,7 +410,44 @@
     "foliageColor":"green",
     "fruitingSeason":"",
     "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
-    "relatedTrees":[],
+    "relatedTrees":[
+      {
+       "botanicalName":"Acer palmatum",
+       "commonName":"Japanese Maple",
+       "url":"acer-palmatum-japanese-maple",
+       "mainImage":"acer-palmatum-japanese-maple/acer-palmatum-japanese-maple.jpg"
+      },
+      {
+       "botanicalName":"Cercidiphyllum japonicum",
+       "commonName":"Katsura Tree",
+       "url":"cercidiphyllum-japonicum-katsura-tree",
+       "mainImage":"cercidiphyllum-japonicum-katsura-tree/cercidiphyllum-japonicum-katsura-tree.jpg"
+      },
+      {
+       "botanicalName":"Liquidambar styraciflua",
+       "commonName":"American Sweetgum",
+       "url":"liquidambar-styraciflua-american-sweetgum",
+       "mainImage":"liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum.jpg"
+      },
+      {
+       "botanicalName":"Nyssa sylvatica",
+       "commonName":"Black Tupelo, Black Gum",
+       "url":"nyssa-sylvatica-black-tupelo-black-gum",
+       "mainImage":"nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum.jpg"
+      },
+      {
+       "botanicalName":"Quercus palustris",
+       "commonName":"Pin Oak, Swamp Spanish Oak",
+       "url":"quercus-palustris-pin-oak-swamp-spanish-oak",
+       "mainImage":"quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg"
+      },
+      {
+       "botanicalName":"Zelkova serrata",
+       "commonName":"Japanese Elm",
+       "url":"zelkova-serrata-japanese-elm",
+       "mainImage":"zelkova-serrata-japanese-elm/zelkova-serrata-japanese-elm.jpg"
+      }
+    ],
     "images":[
       {
         "src":"images/trees/acer-buergerianum-trident-maple/acer-buergerianum-trident-maple-autumn-foliage.jpg",
@@ -3753,7 +3790,7 @@
     "url":"acer-shirasawanum-autumn-moon-shirasawa-maple-full-moon-maple",
     "mainImage":"acer-shirasawanum-autumn-moon-shirasawa-maple-full-moon-maple/acer-shirasawanum-autumn-moon-shirasawa-maple-full-moon-maple.jpg",
     "description":"Has apricot-orange spring leaves that are yellow-green through summer. Autumn leaves are orange and yellow. Protect from full sun as the leaves will be scorched. Shelter from strong winds. Grow in moist, well-drained soil.",
-    "uses":"",
+    "uses":"small-garden",
     "tolerates":"",
     "soilType":"",
     "sunShade":"part-shade, full-shade",
@@ -3789,11 +3826,11 @@
     "commonName":"Red Horse Chestnut",
     "url":"aesculus-x-carnea-red-horse-chestnut",
     "mainImage":"aesculus-x-carnea-red-horse-chestnut/aesculus-x-carnea-red-horse-chestnut.jpg",
-    "description":"Round-headed and wide-growing tree with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Inedible, glossy-brown nuts in autumn. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves.",
-    "uses":"street, paddocks, shade, attracts-bees",
-    "tolerates":"",
-    "soilType":"clay-soils",
-    "sunShade":"",
+    "description":"Round-headed and wide-growing tree with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+    "uses":"paddocks, shade, attracts-bees",
+    "tolerates":"light-frosts, windy",
+    "soilType":"clay-soils, sandy-soils",
+    "sunShade":"full-sun, part-shade",
     "winterFoliage":"deciduous",
     "origin":"exotic",
     "types":"toxic-to-animals",
@@ -3838,11 +3875,11 @@
     "commonName":"Red Horse Chestnut",
     "url":"aesculus-x-carnea-briotii-red-horse-chestnut",
     "mainImage":"aesculus-x-carnea-briotii-red-horse-chestnut/aesculus-x-carnea-briotii-red-horse-chestnut.jpg",
-    "description":"A compact grower with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves.",
-    "uses":"street, paddocks, shade, attracts-bees",
-    "tolerates":"",
-    "soilType":"clay-soils",
-    "sunShade":"",
+    "description":"A compact grower with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Has larger flowers than <a href='/trees/aesculus-x-carnea-red-horse-chestnut/'>Aesculus x carnea</a> and is slower-growing due to a greater number of flowers. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+    "uses":"paddocks, shade, attracts-bees",
+    "tolerates":"light-frosts, windy",
+    "soilType":"clay-soils, sandy-soils",
+    "sunShade":"full-sun, part-shade",
     "winterFoliage":"deciduous",
     "origin":"exotic",
     "types":"toxic-to-animals",
