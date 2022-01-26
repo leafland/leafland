@@ -1,5 +1,6 @@
 main {
   margin-top: 5rem;
+  display: block;
 }
 
 #grid-content-right {
