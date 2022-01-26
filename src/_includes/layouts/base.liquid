@@ -192,94 +192,25 @@
 
   <body>
 
-    <div id="view">
+    {% include "components/_header.liquid"%}
 
-      {% include "components/_header.njk"%}
+    <main>
+      {{ content }}
 
-      <main>
-        {{ content }}
+      {% include "components/_footer.liquid"%}
+    </main>
 
-        {% include "components/_footer.njk"%}
-      </main>
+    {% include "components/_search.liquid"%}
+    
+    {% include "components/_login.liquid"%}
 
-    </div>
-
-    <div id="search-overlay">
-
-      <button id="close-search">Close</button>
-
-      <div id="search-inner">
-
-        <div id="search-section">
-
-          <input type="text" id="search" placeholder="Search trees..." />
-
-        </div>
-
-        <div id="search-results">
-        
-          <div id="search-results-inner"></div>
-
-          <div id="search-load-more-div">
-
-            <button id='search-load-more'>Load more</button>
-            <button id='search-return-to-top'>Return to top</button>
-
-          </div>
-        
-        </div>
-        
-      </div>
-
-    </div>
-
-    <div id="login-overlay">
-
-      <button id="close-login">Close</button>
-
-      <div id='login-inner'>
-
-        <div id="login-form-container">
-
-          <h3 id="login-message">You are logged in.</h3>
-
-          <button id="log-out">Log out</button>
-
-          <form id='login-form'>
-
-          <label>Email</label>
-          
-          <div class="form-inputs">
-            <input type='email' name='email' />
-            <input type='submit' value="Log in" id="log-in">
-          </div>
-          
-          </form>
-
-          <p id="return-message"></p>
-
-          <p>This login is for wholesale customers only. If you have an account, submit your email above and you will be emailed a login link. If you are a wholesale customer and do not have an acccount please get in touch with us.</p>
-
-        </div>
-
-      </div>
-
-    </div>
-
-
-    {% include "components/_order.njk"%}
+    {% include "components/_order.liquid"%}
 
     {% include "components/_main-menu.liquid"%}
 
     {% if type == 'product' %}
 
-    <div id="image-lightbox">
-
-      <button id="image-lightbox-close">Close</button>
-
-      <div id="image-lightbox-div"></div>
-
-    </div>
+    {% include "components/_image-lightbox.liquid"%}
 
     {% endif %}
 

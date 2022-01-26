@@ -4,16 +4,16 @@ pagination:
     data: trees
     size: 1
     alias: tree
-permalink: "trees/{{ tree.url | safe }}/"
+permalink: "trees/{{ tree.url }}/"
 layout: layouts/product.liquid
 type: product
 eleventyComputed:
-    botanicalName: "{{ tree.botanicalName | safe }}"
-    commonName: "{{ tree.commonName | safe }}"
-    description: "{{ tree.description | safe }}"
+    botanicalName: "{{ tree.botanicalName }}"
+    commonName: "{{ tree.commonName }}"
+    description: "{{ tree.description }}"
     mainImage: "{{ tree.mainImage }}"
     images: "{{ tree.images }}"
-    url: "{{tree.url | safe }}"
+    url: "{{tree.url }}"
     treeShape: "{{tree.treeShape}}"
     foliageColor: "{{tree.foliageColor}}"
     autumnColor: "{{tree.autumnColor}}"
