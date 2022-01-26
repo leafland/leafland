@@ -622,6 +622,8 @@ function addEventListeners() {
     standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
 
+    addToOrderButton.disabled = true;
+    treeQuantity.disabled = true;
     standardHeightSelect.disabled = true;
     heightSelect.disabled = false;
 
@@ -742,6 +744,8 @@ function addEventListeners() {
     standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
 
+    addToOrderButton.disabled = true;
+    treeQuantity.disabled = true;
     standardHeightSelect.disabled = false;
     standardHeightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
 
