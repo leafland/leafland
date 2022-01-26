@@ -229,7 +229,7 @@
      "sunShade":"full-sun, part-shade",
      "winterFoliage":"evergreen",
      "origin":"exotic",
-     "types":"",
+     "types":"weeping",
      "height":"2m",
      "width":"1m",
      "floweringSeason":"spring",
@@ -238,7 +238,44 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "treeShape":"images/icons/tree-shapes/acacia/acacia-weeping.svg",
-     "relatedTrees":[],
+     "relatedTrees":[
+       {
+        "botanicalName":"Acacia baileyana 'Purpurea'",
+        "commonName":"Cootamundra Wattle",
+        "url":"acacia-baileyana-purpurea-cootamundra-wattle",
+        "mainImage":"acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle.jpg"
+       },
+       {
+        "botanicalName":"Acacia floribunda",
+        "commonName":"Gossamer Wattle, White Sallow Wattle",
+        "url":"acacia-floribunda-gossamer-wattle-white-sallow-wattle",
+        "mainImage":"acacia-floribunda-gossamer-wattle-white-sallow-wattle/acacia-floribunda-gossamer-wattle-white-sallow-wattle.jpg"
+       },
+       {
+        "botanicalName":"Camellia \"Jury's Yellow\"",
+        "commonName":"Hybrid Camellia",
+        "url":"camellia-jurys-yellow-hybrid-camellia",
+        "mainImage":"camellia-jurys-yellow-hybrid-camellia/camellia-jurys-yellow-hybrid-camellia.jpeg"
+       },
+       {
+        "botanicalName":"Corokia \"Geenty's Green\"",
+        "commonName":"Korokio",
+        "url":"corokia-geentys-green-korokio",
+        "mainImage":"corokia-geentys-green-korokio/corokia-geentys-green-korokio.jpg"
+       },
+       {
+        "botanicalName":"Gleditsia triacanthos var. inermis 'Emerald Cascade'",
+        "commonName":"Honey Locust",
+        "url":"gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust",
+        "mainImage":"gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust.jpg"
+       },
+       {
+        "botanicalName":"Laburnum alpinum 'Pendulum'",
+        "commonName":"Weeping Scotch Laburnum",
+        "url":"laburnum-alpinum-pendulum-weeping-scotch-laburnum",
+        "mainImage":"laburnum-alpinum-pendulum-weeping-scotch-laburnum/laburnum-alpinum-pendulum-weeping-scotch-laburnum.jpg"
+       }
+     ],
      "images":[
        {
          "src":"images/trees/acacia-howittii-sticky-wattle/acacia-howittii-sticky-wattle-flowers-foliage.jpg",
@@ -271,7 +308,44 @@
      "foliageColor":"green",
      "fruitingSeason":"",
      "treeShape":"images/icons/tree-shapes/acacia/acacia-large.svg",
-     "relatedTrees":[],
+     "relatedTrees":[
+      {
+        "botanicalName":"Acacia baileyana 'Purpurea'",
+        "commonName":"Cootamundra Wattle",
+        "url":"acacia-baileyana-purpurea-cootamundra-wattle",
+        "mainImage":"acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle.jpg"
+      },
+      {
+        "botanicalName":"Acacia floribunda",
+        "commonName":"Gossamer Wattle, White Sallow Wattle",
+        "url":"acacia-floribunda-gossamer-wattle-white-sallow-wattle",
+        "mainImage":"acacia-floribunda-gossamer-wattle-white-sallow-wattle/acacia-floribunda-gossamer-wattle-white-sallow-wattle.jpg"
+      },
+      {
+        "botanicalName":"Catalpa bignonioides",
+        "commonName":"Indian Bean Tree",
+        "url":"catalpa-bignonioides-indian-bean-tree",
+        "mainImage":"catalpa-bignonioides-indian-bean-tree/catalpa-bignonioides-indian-bean-tree.jpg"
+      },
+      {
+        "botanicalName":"Gleditsia triacanthos var. inermis 'Skyline'",
+        "commonName":"Honey Locust",
+        "url":"gleditsia-triacanthos-var-inermis-skyline-honey-locust",
+        "mainImage":"gleditsia-triacanthos-var-inermis-skyline-honey-locust/gleditsia-triacanthos-var-inermis-skyline-honey-locust.jpg"
+      },
+      {
+        "botanicalName":"Liriodendron tulipifera",
+        "commonName":"Tulip Tree",
+        "url":"liriodendron-tulipifera-tulip-tree",
+        "mainImage":"liriodendron-tulipifera-tulip-tree/liriodendron-tulipifera-tulip-tree.jpg"
+      },
+      {
+        "botanicalName":"Tilia x europaea",
+        "commonName":"Common Lime, Common Linden",
+        "url":"tilia-x-europaea-common-lime-common-linden",
+        "mainImage":"tilia-x-europaea-common-lime-common-linden/tilia-x-europaea-common-lime-common-linden.jpg"
+      }
+     ],
      "images":[
        {
          "src":"images/trees/acacia-melanoxylon-blackwood/acacia-melanoxylon-blackwood-avenue.jpg",
