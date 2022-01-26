@@ -925,6 +925,19 @@ function addEventListeners() {
                 } else {
                   addToOrderButton.disabled = false;
                   treeQuantity.disabled = false;
+                  treeQuantity.max =
+                    grades[i].heights[j].standardHeights[k].quantity;
+                  treeQuantity.onchange = function () {
+                    if (this.value < 1) {
+                      this.value = 1;
+                    } else if (
+                      this.value >
+                      grades[i].heights[j].standardHeights[k].quantity
+                    ) {
+                      this.value =
+                        grades[i].heights[j].standardHeights[k].quantity;
+                    }
+                  };
                 }
 
                 break;
