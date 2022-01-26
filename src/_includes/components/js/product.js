@@ -417,10 +417,10 @@ async function createStockValues() {
       });
     });
 
-    let standardHeightValue = document.createElement("option");
-    standardHeightValue.value = `None?q=${noStandardHeightQuantity}`;
-    standardHeightValue.textContent = "None";
-    standardHeightSelect.appendChild(standardHeightValue);
+    // let standardHeightValue = document.createElement("option");
+    // standardHeightValue.value = `None?q=${noStandardHeightQuantity}`;
+    // standardHeightValue.textContent = "None";
+    // standardHeightSelect.appendChild(standardHeightValue);
 
     let quantity = document.createElement("p");
     quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
@@ -431,24 +431,24 @@ async function createStockValues() {
     stockValuesDiv.appendChild(quantity);
     stockValuesDiv.appendChild(stockPrice);
 
-    if (grades[0].heights[0].standardHeights[0].quantity === 0) {
-      addToOrderButton.disabled = true;
-      treeQuantity.disabled = true;
-      treeQuantity.value = 1;
-    } else {
-      addToOrderButton.disabled = false;
-      treeQuantity.disabled = false;
-      treeQuantity.max = grades[0].heights[0].standardHeights[0].quantity;
-      treeQuantity.onchange = function () {
-        if (this.value < 1) {
-          this.value = 1;
-        } else if (
-          this.value > grades[0].heights[0].standardHeights[0].quantity
-        ) {
-          this.value = grades[0].heights[0].standardHeights[0].quantity;
-        }
-      };
-    }
+    // if (grades[0].heights[0].standardHeights[0].quantity === 0) {
+    //   addToOrderButton.disabled = true;
+    //   treeQuantity.disabled = true;
+    //   treeQuantity.value = 1;
+    // } else {
+    //   addToOrderButton.disabled = false;
+    //   treeQuantity.disabled = false;
+    //   treeQuantity.max = grades[0].heights[0].standardHeights[0].quantity;
+    //   treeQuantity.onchange = function () {
+    //     if (this.value < 1) {
+    //       this.value = 1;
+    //     } else if (
+    //       this.value > grades[0].heights[0].standardHeights[0].quantity
+    //     ) {
+    //       this.value = grades[0].heights[0].standardHeights[0].quantity;
+    //     }
+    //   };
+    // }
   } else {
     gradeSizesDiv.innerHTML = ``;
     let message = document.createElement("p");
@@ -627,8 +627,8 @@ function addEventListeners() {
     standardHeightSelect.disabled = true;
     heightSelect.disabled = false;
 
-    heightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
-    standardHeightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
+    heightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+    standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
 
     for (let i = 0; i < grades.length; i++) {
       if (grades[i].grade === event.target.value.split("-0")[0]) {
@@ -747,7 +747,7 @@ function addEventListeners() {
     addToOrderButton.disabled = true;
     treeQuantity.disabled = true;
     standardHeightSelect.disabled = false;
-    standardHeightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
+    standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
 
     let standardHeightValue;
 
