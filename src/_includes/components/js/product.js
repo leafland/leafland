@@ -36,15 +36,12 @@ window.addEventListener("loginUpdated", () => {
   (async function init() {
     addEventListeners();
 
+    await createTreeImages();
 
-      await createTreeImages();
-
-      await getProductStockData();
-      await createStockValues(grades);
-    
+    await getProductStockData();
+    await createStockValues(grades);
   })();
 });
-
 
 async function getProductStockData() {
   productStockData = await fetch(
@@ -109,9 +106,7 @@ async function createTreeImages() {
   });
 
   let mainImg = document.querySelector(".main-img");
-  productImage = mainImg.src
-    .split("images/trees/")[1]
-    .split("?")[0];
+  productImage = mainImg.src.split("images/trees/")[1].split("?")[0];
   mainImg.addEventListener("click", () => {
     imageLightboxInner.innerHTML = `<img src='${mainImg.src}'>`;
     document.body.classList.add("lightbox-open");
@@ -428,10 +423,10 @@ async function createStockValues() {
     standardHeightSelect.appendChild(standardHeightValue);
 
     let quantity = document.createElement("p");
-    quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${grades[0].heights[0].standardHeights[0].quantity}</span>`;
+    quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
 
     let stockPrice = document.createElement("p");
-    stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[0].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[0].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+    stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
 
     stockValuesDiv.appendChild(quantity);
     stockValuesDiv.appendChild(stockPrice);
@@ -623,12 +618,18 @@ function addEventListeners() {
 
   gradeSizeSelect.addEventListener("change", (event) => {
     stockValuesDiv.innerHTML = ``;
+    heightSelect.innerHTML = "";
+    standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
+
+    standardHeightSelect.disabled = true;
+    heightSelect.disabled = false;
+
+    heightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
+    standardHeightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
 
     for (let i = 0; i < grades.length; i++) {
       if (grades[i].grade === event.target.value.split("-0")[0]) {
-        heightSelect.innerHTML = "";
-        standardHeightSelect.innerHTML = "";
         let noStandardHeightQuantity = 0;
 
         for (let j = 0; j < grades[i].heights.length; j++) {
@@ -699,38 +700,38 @@ function addEventListeners() {
         standardHeightValue.textContent = "None";
         standardHeightSelect.appendChild(standardHeightValue);
 
-        let standardQuantity = 0;
-        if (firstValueNone) {
-          standardQuantity = noStandardHeightQuantity;
-        } else {
-          standardQuantity = grades[i].heights[0].standardHeights[0].quantity;
-        }
-
         let quantity = document.createElement("p");
-        quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${standardQuantity}</span>`;
+        quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
 
         let stockPrice = document.createElement("p");
-        stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[0].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[0].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+        stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
 
         stockValuesDiv.appendChild(quantity);
         stockValuesDiv.appendChild(stockPrice);
 
-        if (standardQuantity === 0) {
-          addToOrderButton.disabled = true;
-          treeQuantity.disabled = true;
-          treeQuantity.value = 1;
-        } else {
-          addToOrderButton.disabled = false;
-          treeQuantity.disabled = false;
-          treeQuantity.max = standardQuantity;
-          treeQuantity.onchange = function () {
-            if (this.value < 1) {
-              this.value = 1;
-            } else if (this.value > standardQuantity) {
-              this.value = standardQuantity;
-            }
-          };
-        }
+        // let standardQuantity = 0;
+        // if (firstValueNone) {
+        //   standardQuantity = noStandardHeightQuantity;
+        // } else {
+        //   standardQuantity = grades[i].heights[0].standardHeights[0].quantity;
+        // }
+
+        // if (standardQuantity === 0) {
+        //   addToOrderButton.disabled = true;
+        //   treeQuantity.disabled = true;
+        //   treeQuantity.value = 1;
+        // } else {
+        //   addToOrderButton.disabled = false;
+        //   treeQuantity.disabled = false;
+        //   treeQuantity.max = standardQuantity;
+        //   treeQuantity.onchange = function () {
+        //     if (this.value < 1) {
+        //       this.value = 1;
+        //     } else if (this.value > standardQuantity) {
+        //       this.value = standardQuantity;
+        //     }
+        //   };
+        // }
         break;
       }
     }
@@ -740,6 +741,10 @@ function addEventListeners() {
     stockValuesDiv.innerHTML = ``;
     standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
+
+    standardHeightSelect.disabled = false;
+    standardHeightSelect.innerHTML = `<option selected disabled hidden>-Select a height-</option>`;
+
     let standardHeightValue;
 
     for (let i = 0; i < grades.length; i++) {
@@ -805,39 +810,45 @@ function addEventListeners() {
               }
             }
 
-            let standardQuantity = 0;
-            if (firstValueNone) {
-              standardQuantity = noStandardHeightQuantity;
-            } else {
-              standardQuantity =
-                grades[i].heights[j].standardHeights[0].quantity;
-            }
-
             let quantity = document.createElement("p");
-            quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${standardQuantity}</span>`;
+            quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
 
             let stockPrice = document.createElement("p");
-            stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+            stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
 
             stockValuesDiv.appendChild(quantity);
             stockValuesDiv.appendChild(stockPrice);
 
-            if (standardQuantity === 0) {
-              addToOrderButton.disabled = true;
-              treeQuantity.disabled = true;
-              treeQuantity.value = 1;
-            } else {
-              addToOrderButton.disabled = false;
-              treeQuantity.disabled = false;
-              treeQuantity.max = standardQuantity;
-              treeQuantity.onchange = function () {
-                if (this.value < 1) {
-                  this.value = 1;
-                } else if (this.value > standardQuantity) {
-                  this.value = standardQuantity;
-                }
-              };
-            }
+            // let standardQuantity = 0;
+            // if (firstValueNone) {
+            //   standardQuantity = noStandardHeightQuantity;
+            // } else {
+            //   standardQuantity =
+            //     grades[i].heights[j].standardHeights[0].quantity;
+            // }
+
+            // let quantity = document.createElement("p");
+            // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${standardQuantity}</span>`;
+
+            // let stockPrice = document.createElement("p");
+            // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[0].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[0].retailPrice}.00+GST (Retail)</span>`;
+
+            // if (standardQuantity === 0) {
+            //   addToOrderButton.disabled = true;
+            //   treeQuantity.disabled = true;
+            //   treeQuantity.value = 1;
+            // } else {
+            //   addToOrderButton.disabled = false;
+            //   treeQuantity.disabled = false;
+            //   treeQuantity.max = standardQuantity;
+            //   treeQuantity.onchange = function () {
+            //     if (this.value < 1) {
+            //       this.value = 1;
+            //     } else if (this.value > standardQuantity) {
+            //       this.value = standardQuantity;
+            //     }
+            //   };
+            // }
 
             break;
           }
