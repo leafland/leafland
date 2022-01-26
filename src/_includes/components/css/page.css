@@ -7,8 +7,9 @@ h3 {
   margin-bottom: 3rem;
 }
 main img {
-  width: 50%;
+  width: 100%;
   margin: auto;
+  max-width: 750px;
   display: block;
   border-radius: 8px;
 }
