@@ -371,56 +371,8 @@ async function createStockValues() {
     });
 
     if (comingOn.textContent.length === 17) {
-      comingOn.innerHTML += ' <span class="info-pill">none</span>';
+      comingOn.innerHTML += ' <span class="info-pill">None</span>';
     }
-
-    let noStandardHeightQuantity = 0;
-
-    grades[0].heights.forEach((height) => {
-      let heightValue = document.createElement("option");
-      if (height.averageHeight !== "") {
-        heightValue.value = height.averageHeight;
-        heightValue.textContent = `${
-          height.averageHeight.toLowerCase() === "n/a"
-            ? height.averageHeight
-            : height.averageHeight + "m"
-        }`;
-      } else {
-        heightValue.value = "N/A";
-        heightValue.textContent = "N/A";
-      }
-
-      heightSelect.appendChild(heightValue);
-
-      grades[0].heights[0].standardHeights.forEach((standardHeight) => {
-        let standardHeightValue = document.createElement("option");
-        if (
-          standardHeight.standardHeight.trim() !== "" &&
-          standardHeight.standardHeight.toLowerCase().trim() !== "bushy" &&
-          standardHeight.standardHeight.toLowerCase().trim() !== "l/w" &&
-          standardHeight.standardHeight.toLowerCase().trim() !== "lw" &&
-          standardHeight.standardHeight.toLowerCase().trim() !== "ct"
-        ) {
-          standardHeightValue.value = `${standardHeight.standardHeight}?q=${standardHeight.quantity}`;
-          if (standardHeight.standardHeight.match(/\d+/g) !== null) {
-            standardHeightValue.textContent =
-              standardHeight.standardHeight + "m";
-          } else {
-            standardHeightValue.textContent = standardHeight.standardHeight;
-          }
-          standardHeightSelect.appendChild(standardHeightValue);
-        } else if (
-          standardHeight.standardHeight.toLowerCase().trim() !== "column"
-        ) {
-          noStandardHeightQuantity += standardHeight.quantity;
-        }
-      });
-    });
-
-    // let standardHeightValue = document.createElement("option");
-    // standardHeightValue.value = `None?q=${noStandardHeightQuantity}`;
-    // standardHeightValue.textContent = "None";
-    // standardHeightSelect.appendChild(standardHeightValue);
 
     let quantity = document.createElement("p");
     quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
@@ -430,25 +382,6 @@ async function createStockValues() {
 
     stockValuesDiv.appendChild(quantity);
     stockValuesDiv.appendChild(stockPrice);
-
-    // if (grades[0].heights[0].standardHeights[0].quantity === 0) {
-    //   addToOrderButton.disabled = true;
-    //   treeQuantity.disabled = true;
-    //   treeQuantity.value = 1;
-    // } else {
-    //   addToOrderButton.disabled = false;
-    //   treeQuantity.disabled = false;
-    //   treeQuantity.max = grades[0].heights[0].standardHeights[0].quantity;
-    //   treeQuantity.onchange = function () {
-    //     if (this.value < 1) {
-    //       this.value = 1;
-    //     } else if (
-    //       this.value > grades[0].heights[0].standardHeights[0].quantity
-    //     ) {
-    //       this.value = grades[0].heights[0].standardHeights[0].quantity;
-    //     }
-    //   };
-    // }
   } else {
     gradeSizesDiv.innerHTML = ``;
     let message = document.createElement("p");
@@ -478,28 +411,6 @@ function addTreeToLocalStorage() {
   productTrees = JSON.parse(localStorage.getItem("trees"));
   let totalRetailCost = 0;
   let totalWholesaleCost = 0;
-
-  for (let i = 0; i < grades.length; i++) {
-    if (grades[i].grade === gradeSizeSelect.value) {
-      for (let j = 0; j < grades[i].heights.length; j++) {
-        if (grades[i].heights[j].averageHeight === heightSelect.value) {
-          for (
-            let k = 0;
-            k < grades[i].heights[j].standardHeights.length;
-            k++
-          ) {
-            if (
-              grades[i].heights[j].standardHeights[k] ===
-              standardHeightSelect.value
-            ) {
-              retailPrice = `${grades[i].heights[j].standardHeights[k].retailPrice}.00`;
-              wholesalePrice = `${grades[i].heights[j].standardHeights[k].wholesalePrice}.00`;
-            }
-          }
-        }
-      }
-    }
-  }
 
   if (productTrees.length === 0) {
     productTrees.push({
@@ -596,13 +507,15 @@ function addEventListeners() {
     } else {
       document.querySelector("#success-message-text").innerHTML = `${
         quantity.value
-      }<span class="lowercase">x</span> ${treeBotanicalName.textContent} ${
+      }<span class="lowercase">x</span> ${gradeSizeSelect.value} ${
+        treeBotanicalName.textContent
+      } ${
         treeCommonName.textContent !== ""
           ? '(<span class="accent-color">' +
             treeCommonName.textContent +
             "</span>)"
           : ""
-      } ${gradeSizeSelect.value} added to order.`;
+      } added to order.`;
     }
 
     successMessage.style.setProperty("opacity", "1");
@@ -710,30 +623,6 @@ function addEventListeners() {
 
         stockValuesDiv.appendChild(quantity);
         stockValuesDiv.appendChild(stockPrice);
-
-        // let standardQuantity = 0;
-        // if (firstValueNone) {
-        //   standardQuantity = noStandardHeightQuantity;
-        // } else {
-        //   standardQuantity = grades[i].heights[0].standardHeights[0].quantity;
-        // }
-
-        // if (standardQuantity === 0) {
-        //   addToOrderButton.disabled = true;
-        //   treeQuantity.disabled = true;
-        //   treeQuantity.value = 1;
-        // } else {
-        //   addToOrderButton.disabled = false;
-        //   treeQuantity.disabled = false;
-        //   treeQuantity.max = standardQuantity;
-        //   treeQuantity.onchange = function () {
-        //     if (this.value < 1) {
-        //       this.value = 1;
-        //     } else if (this.value > standardQuantity) {
-        //       this.value = standardQuantity;
-        //     }
-        //   };
-        // }
         break;
       }
     }
@@ -780,7 +669,7 @@ function addEventListeners() {
                   .toLowerCase()
                   .trim() !== "ct"
               ) {
-                standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}`;
+                standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
                 if (
                   grades[i].heights[j].standardHeights[k].standardHeight.match(
@@ -809,7 +698,7 @@ function addEventListeners() {
                 noStandardHeightQuantity +=
                   grades[i].heights[j].standardHeights[k].quantity;
 
-                standardHeightValue.value = `None?q=${noStandardHeightQuantity}`;
+                standardHeightValue.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
                 standardHeightSelect.appendChild(standardHeightValue);
 
@@ -863,14 +752,6 @@ function addEventListeners() {
                 stockValuesDiv.appendChild(stockPrice);
               }
             }
-
-            // let standardQuantity = 0;
-            // if (firstValueNone) {
-            //   standardQuantity = noStandardHeightQuantity;
-
-            // } else {
-
-            // }
             break;
           }
         }
@@ -882,98 +763,43 @@ function addEventListeners() {
   standardHeightSelect.addEventListener("change", (event) => {
     stockValuesDiv.innerHTML = ``;
     treeQuantity.value = 1;
-    for (let i = 0; i < grades.length; i++) {
-      if (grades[i].grade === gradeSizeSelect.value) {
-        for (let j = 0; j < grades[i].heights.length; j++) {
-          if (grades[i].heights[j].averageHeight === heightSelect.value) {
-            for (
-              let k = 0;
-              k < grades[i].heights[j].standardHeights.length + 1;
-              k++
-            ) {
-              if (
-                grades[i].heights[j].standardHeights[k].standardHeight ===
-                event.target.value.split("?q=")[0]
-              ) {
-                let quantity = document.createElement("p");
-                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${grades[i].heights[j].standardHeights[k].quantity}</span>`;
 
-                let stockPrice = document.createElement("p");
-                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
+    let standardHeight = event.target.value.split("?")[0];
+    let parameters = event.target.value.split("?")[1];
+    let standardQuantity = parameters.split("&")[0];
+    let wholesalePrice = parameters.split("&")[1];
+    let retailPrice = parameters.split("&")[2];
 
-                stockValuesDiv.appendChild(quantity);
-                stockValuesDiv.appendChild(stockPrice);
+    let quantity = document.createElement("p");
+    quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
+      standardQuantity.split("q=")[1]
+    }</span>`;
 
-                if (grades[i].heights[j].standardHeights[k].quantity === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max =
-                    grades[i].heights[j].standardHeights[k].quantity;
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (
-                      this.value >
-                      grades[i].heights[j].standardHeights[k].quantity
-                    ) {
-                      this.value =
-                        grades[i].heights[j].standardHeights[k].quantity;
-                    }
-                  };
-                }
+    let stockPrice = document.createElement("p");
+    stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${
+      wholesalePrice.split("wp=")[1]
+    }.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${
+      retailPrice.split("rp=")[1]
+    }.00+GST (Retail)</span>`;
 
-                break;
-              } else if (
-                event.target.value.split("?q=")[0] === "None" &&
-                grades[i].heights[j].standardHeights[k].standardHeight.match(
-                  /\d+/g
-                ) === null
-              ) {
-                let quantity = document.createElement("p");
-                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
-                  event.target.value.split("?q=")[1]
-                }</span>`;
+    stockValuesDiv.appendChild(quantity);
+    stockValuesDiv.appendChild(stockPrice);
 
-                let stockPrice = document.createElement("p");
-                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
-
-                stockValuesDiv.appendChild(quantity);
-                stockValuesDiv.appendChild(stockPrice);
-
-                if (parseInt(event.target.value.split("?q=")[1]) === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max =
-                    grades[i].heights[j].standardHeights[k].quantity;
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (
-                      this.value >
-                      grades[i].heights[j].standardHeights[k].quantity
-                    ) {
-                      this.value =
-                        grades[i].heights[j].standardHeights[k].quantity;
-                    }
-                  };
-                }
-
-                break;
-              }
-            }
-            break;
-          }
+    if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+      addToOrderButton.disabled = true;
+      treeQuantity.disabled = true;
+      treeQuantity.value = 1;
+    } else {
+      addToOrderButton.disabled = false;
+      treeQuantity.disabled = false;
+      treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+      treeQuantity.onchange = function () {
+        if (this.value < 1) {
+          this.value = 1;
+        } else if (this.value > parseInt(standardQuantity.split("q=")[1])) {
+          this.value = parseInt(standardQuantity.split("q=")[1]);
         }
-        break;
-      }
+      };
     }
   });
 }
