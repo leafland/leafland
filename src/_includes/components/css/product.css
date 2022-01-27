@@ -457,14 +457,6 @@ body.lightbox-open #image-lightbox {
   font-size: 2rem;
 }
 
-#arrow-up {
-  align-self: start;
-}
-
-#arrow-down {
-  align-self: end;
-}
-
 #wholesale-price {
   display: none;
 }
