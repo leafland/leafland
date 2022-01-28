@@ -108,7 +108,17 @@ async function createTreeImages() {
   let mainImg = document.querySelector(".main-img");
   productImage = mainImg.src.split("images/trees/")[1].split("?")[0];
   mainImg.addEventListener("click", () => {
-    imageLightboxInner.innerHTML = `<img src='${mainImg.src}'>`;
+    imageLightboxInner.innerHTML = `<img src='${
+      mainImg.src.split("?")[0]
+    }?tr=w-1000,q-75,pr-true,f-auto' height="1000" width="1000" alt="${
+      mainImg.alt
+    }" srcset="${
+      mainImg.src.split("?")[0]
+    }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+      mainImg.src.split("?")[0]
+    }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+      mainImg.src.split("?")[0]
+    }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
     document.body.classList.add("lightbox-open");
   });
 
@@ -137,7 +147,7 @@ async function createTreeImages() {
             thumbImage.src.split("?")[0]
           }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
             thumbImage.alt
-          }" class="main-img" style="opacity: 1;" srcset="${
+          }" srcset="${
             thumbImage.src.split("?")[0]
           }?tr=w-300,q-75,pr-true,f-auto 300w, ${
             thumbImage.src.split("?")[0]
@@ -176,7 +186,7 @@ async function createTreeImages() {
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
               thumbImage.alt
-            }" class="main-img" style="opacity: 1;" srcset="${
+            }" srcset="${
               thumbImage.src.split("?")[0]
             }?tr=w-300,q-75,pr-true,f-auto 300w, ${
               thumbImage.src.split("?")[0]
@@ -216,7 +226,7 @@ async function createTreeImages() {
               thumbImage.src.split("?")[0]
             }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
               thumbImage.alt
-            }" class="main-img" style="opacity: 1;" srcset="${
+            }" srcset="${
               thumbImage.src.split("?")[0]
             }?tr=w-300,q-75,pr-true,f-auto 300w, ${
               thumbImage.src.split("?")[0]
@@ -394,15 +404,9 @@ async function createStockValues() {
       .querySelector("#grade-sizes-heading")
       .style.setProperty("display", "none");
     document
-      .querySelector("#stock-information")
-      .style.setProperty("display", "none");
-    document
       .querySelector("#success-message")
       .style.setProperty("display", "none");
     stockValuesDiv.style.setProperty("display", "none");
-    document
-      .querySelector(".product-disclaimer")
-      .style.setProperty("display", "none");
     document.querySelector("#coming-on").style.setProperty("display", "none");
   }
 }

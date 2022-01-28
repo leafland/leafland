@@ -485,13 +485,6 @@ body.loggedIn #retail-price {
   grid-column-end: 2;
 }
 
-.product-disclaimer {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: var(--font-size-2);
-  margin-top: 1rem;
-}
-
 #related-trees {
   display: grid;
   grid-gap: 2rem;
@@ -569,18 +562,6 @@ body.loggedIn #retail-price {
   font-size: var(--font-size-2);
 }
 
-#stock-information {
-  margin: 5rem 0;
-  display: grid;
-  grid-gap: 2rem;
-  grid-template-columns: 1fr;
-}
-
-#stock-information p {
-  font-size: var(--font-size-3);
-  font-weight: bold;
-}
-
 #coming-on {
   text-transform: uppercase;
   font-weight: bold;
@@ -604,6 +585,61 @@ body.loggedIn #retail-price {
   border-color: var(--primary-text);
 }
 
+#details-section {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+details > summary:focus {
+  outline: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: var(--secondary-background);
+  margin-bottom: 2rem;
+}
+
+summary > span {
+  font-size: var(--font-size-3);
+}
+
+.right-icon {
+  display: block;
+  transition: transform 0.3s var(--default-animation-easing);
+  width: 25px;
+  height: 25px;
+}
+
+.down-icon {
+  display: none;
+  width: 25px;
+  height: 25px;
+}
+
+details[open] > summary .right-icon {
+  transform: rotate(90deg);
+}
+
+details p {
+  font-size: var(--font-size-2);
+  margin-bottom: 2rem;
+}
+
+details b {
+  text-transform: uppercase;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover {
@@ -623,6 +659,10 @@ body.loggedIn #retail-price {
   .tree-content a:hover {
     color: var(--primary-text);
     background: var(--secondary-background);
+  }
+
+  details > summary:hover {
+    cursor: pointer;
   }
 }
 
