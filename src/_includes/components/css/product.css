@@ -592,11 +592,6 @@ body.loggedIn #retail-price {
   gap: 2rem;
 }
 
-details {
-  width: 100%;
-  max-width: 300px;
-}
-
 details > summary:focus {
   outline: none;
 }
@@ -613,6 +608,8 @@ details > summary {
   text-transform: uppercase;
   background: var(--secondary-background);
   margin-bottom: 2rem;
+  width: 100%;
+  max-width: 300px;
 }
 
 summary > span {
