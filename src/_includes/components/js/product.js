@@ -745,6 +745,51 @@ function addEventListeners() {
                   };
                 }
                 break;
+              } else if (standardHeightSelect.length === 2) {
+                let standardValue = standardHeightSelect.options[1].value;
+
+                let standard = standardValue.split("?")[0];
+                let parameters = standardValue.split("?")[1];
+                let standardQuantity = parameters.split("&")[0];
+                let wholesalePrice = parameters.split("&")[1];
+                let retailPrice = parameters.split("&")[2];
+
+                standardHeightSelect.remove(0);
+                let quantity = document.createElement("p");
+                quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
+                  standardQuantity.split("q=")[1]
+                }</span>`;
+
+                let stockPrice = document.createElement("p");
+                stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${
+                  wholesalePrice.split("wp=")[1]
+                }.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${
+                  retailPrice.split("rp=")[1]
+                }.00+GST (Retail)</span>`;
+
+                stockValuesDiv.innerHTML = ``;
+                stockValuesDiv.appendChild(quantity);
+                stockValuesDiv.appendChild(stockPrice);
+
+                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+                  addToOrderButton.disabled = true;
+                  treeQuantity.disabled = true;
+                  treeQuantity.value = 1;
+                } else {
+                  addToOrderButton.disabled = false;
+                  treeQuantity.disabled = false;
+                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+                  treeQuantity.onchange = function () {
+                    if (this.value < 1) {
+                      this.value = 1;
+                    } else if (
+                      this.value > parseInt(standardQuantity.split("q=")[1])
+                    ) {
+                      this.value = parseInt(standardQuantity.split("q=")[1]);
+                    }
+                  };
+                }
+                break;
               } else {
                 let quantity = document.createElement("p");
                 quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
