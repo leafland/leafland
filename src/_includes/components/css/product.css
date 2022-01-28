@@ -592,6 +592,11 @@ body.loggedIn #retail-price {
   gap: 2rem;
 }
 
+details {
+  width: 100%;
+  max-width: 300px;
+}
+
 details > summary:focus {
   outline: none;
 }
