@@ -43,21 +43,21 @@ type: product
 
             <div class="images">
 
-            <div class="image">
+                <div class="image">
 
-                <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-75,q-75,pr-true,f-auto" width="50" height="50" alt="{{ url | replace: '-', ' ' }}">
+                    <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-75,q-75,pr-true,f-auto" width="50" height="50" alt="{{ url | replace: '-', ' ' }}">
 
-            </div>
+                </div>
 
-            {% for image in tree.images %}
-            
-            <div class="image">
-
-                <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/{{ image.src }}?tr=w-75,q-75,pr-true,f-auto" width="50" height="50" alt="{{ image.alt }}" >
+                {% for image in tree.images %}
                 
-            </div>
+                <div class="image">
 
-            {% endfor %}
+                    <img data-position="{% increment position %}" class="thumb-image" src="https://images.leafland.co.nz/{{ image.src }}?tr=w-75,q-75,pr-true,f-auto" width="50" height="50" alt="{{ image.alt }}" >
+                    
+                </div>
+
+                {% endfor %}
 
             </div>
 
@@ -409,17 +409,17 @@ type: product
                         
                     </summary>
 
-                    <p>The <span class="accent-color">grade size</span> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
+                    <p>The <b>grade size</b> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
 
-                    <p>The <span class="accent-color">average height</span> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree, averaged across the trees we have in this grade.</p>
+                    <p>The <b>average height</b> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree, averaged across the trees we have in this grade.</p>
 
-                    <p>The <span class="accent-color">standard height</span> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted). If you don't want a standard tree, select 'None' as the standard height.</p>
+                    <p>The <b>standard height</b> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted). If you don't want a standard tree, select 'None' as the standard height.</p>
 
-                    <p>Grades that are <span class="accent-color">coming on</span> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
+                    <p>Grades that are <b>coming on</b> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
 
                 </details>
 
-                <details id="terms-of-trade">
+                <details>
 
                     <summary>
                     
