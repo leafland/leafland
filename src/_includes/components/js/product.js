@@ -22,7 +22,6 @@ let imageRightButton = document.querySelector("#image-right-button");
 let imagePosition = 0;
 let thumbImages = document.querySelectorAll(".thumb-image");
 
-let productStockData = [];
 let productImage = "";
 let maximumQuantityReached = false;
 
@@ -49,60 +48,27 @@ window.addEventListener("loginUpdated", () => {
 });
 
 async function getProductStockData() {
-  productStockData = await fetch(
-    `https://api.leafland.co.nz/default/get-stock-data-file`
+  let treeName;
+  if (treeCommonName.textContent.search("serrula") !== -1) {
+    treeName = treeBotanicalName.textContent + " serrula interstem";
+  } else {
+    treeName = treeBotanicalName.textContent;
+  }
+  grades = await fetch(
+    `https://api.leafland.co.nz/default/get-tree-stock-data?treeName=${treeName
+      .replace(/'/g, "")
+      .replace(/"/g, "")
+      .replace(/ var. /g, " ")
+      .replace(/ x /g, " ")
+      .replace(/\(/g, "")
+      .replace(/\)/g, "")
+      .replace(/ /g, "-")
+      .toLowerCase()
+      .trim()}`
   )
     .then((response) => response.json())
     .then((data) => data)
     .catch((error) => {});
-
-  for (let i = 0; i < productStockData.length; i++) {
-    if (treeCommonName.textContent.toLowerCase() === "serrula interstem") {
-      if (
-        `${treeBotanicalName.textContent} serrula interstem`
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/ var. /g, " ")
-          .replace(/ x /g, " ")
-          .replace(/\(/g, "")
-          .replace(/\)/g, "")
-          .toLowerCase()
-          .trim() !==
-        productStockData[i][0]
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/ var. /g, " ")
-          .replace(/ x /g, " ")
-          .replace(/\(/g, "")
-          .replace(/\)/g, "")
-          .toLowerCase()
-          .trim()
-      ) {
-        productStockData.splice(i, 1);
-        i--;
-      }
-    } else {
-      if (
-        treeBotanicalName.textContent
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/ var. /g, " ")
-          .replace(/ x /g, " ")
-          .toLowerCase()
-          .trim() !==
-        productStockData[i][0]
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/ var. /g, " ")
-          .replace(/ x /g, " ")
-          .toLowerCase()
-          .trim()
-      ) {
-        productStockData.splice(i, 1);
-        i--;
-      }
-    }
-  }
 }
 
 async function createTreeImages() {
@@ -247,131 +213,7 @@ async function createTreeImages() {
 }
 
 async function createStockValues() {
-  if (productStockData.length !== 0) {
-    for (let i = 0; i < productStockData.length; i++) {
-      if (grades.length === 0) {
-        grades.push({
-          grade: productStockData[i][2],
-          heights: [
-            {
-              averageHeight:
-                productStockData[i][6] === "" ? "N/A" : productStockData[i][6],
-              standardHeights: [
-                {
-                  quantity: parseInt(productStockData[i][8], 10),
-                  standardHeight: productStockData[i][7],
-                  retailPrice: productStockData[i][3].replace(/,/g, ""),
-                  wholesalePrice: productStockData[i][5].replace(/,/g, ""),
-                },
-              ],
-            },
-          ],
-          comingOn: parseInt(productStockData[i][9]),
-        });
-      } else {
-        for (let j = 0; j < grades.length + 1; j++) {
-          if (j === grades.length) {
-            grades.push({
-              grade: productStockData[i][2],
-              heights: [
-                {
-                  averageHeight:
-                    productStockData[i][6] === ""
-                      ? "N/A"
-                      : productStockData[i][6],
-                  standardHeights: [
-                    {
-                      quantity: parseInt(productStockData[i][8], 10),
-                      standardHeight: productStockData[i][7],
-                      retailPrice: productStockData[i][3].replace(/,/g, ""),
-                      wholesalePrice: productStockData[i][5].replace(/,/g, ""),
-                    },
-                  ],
-                },
-              ],
-              comingOn: parseInt(productStockData[i][9]),
-            });
-
-            break;
-          } else {
-            if (
-              grades[j].grade.toLowerCase() ===
-              productStockData[i][2].toLowerCase()
-            ) {
-              grades[j].comingOn += parseInt(productStockData[i][9]);
-
-              for (let k = 0; k < grades[j].heights.length + 1; k++) {
-                if (k === grades[j].heights.length) {
-                  grades[j].heights.push({
-                    averageHeight:
-                      productStockData[i][6] === ""
-                        ? "N/A"
-                        : productStockData[i][6],
-                    standardHeights: [
-                      {
-                        quantity: parseInt(productStockData[i][8], 10),
-                        standardHeight: productStockData[i][7],
-                        retailPrice: productStockData[i][3].replace(/,/g, ""),
-                        wholesalePrice: productStockData[i][5].replace(
-                          /,/g,
-                          ""
-                        ),
-                      },
-                    ],
-                  });
-                  break;
-                } else {
-                  if (
-                    grades[j].heights[k].averageHeight ===
-                      productStockData[i][6] ||
-                    (grades[j].heights[k].averageHeight === "N/A" &&
-                      productStockData[i][6] === "")
-                  ) {
-                    for (
-                      let l = 0;
-                      l < grades[j].heights[k].standardHeights.length + 1;
-                      l++
-                    ) {
-                      if (l === grades[j].heights[k].standardHeights.length) {
-                        grades[j].heights[k].standardHeights.push({
-                          quantity: parseInt(productStockData[i][8], 10),
-                          standardHeight: productStockData[i][7],
-                          retailPrice: productStockData[i][3].replace(/,/g, ""),
-                          wholesalePrice: productStockData[i][5].replace(
-                            /,/g,
-                            ""
-                          ),
-                        });
-                        break;
-                      } else {
-                        if (
-                          grades[j].heights[k].standardHeights[l]
-                            .standardHeight === productStockData[i][7]
-                        ) {
-                          grades[j].heights[k].standardHeights[l].quantity =
-                            parseInt(
-                              grades[j].heights[k].standardHeights[l].quantity,
-                              10
-                            );
-                          grades[j].heights[k].standardHeights[l].quantity +=
-                            parseInt(productStockData[i][8], 10);
-                          break;
-                        }
-                      }
-                    }
-
-                    break;
-                  }
-                }
-              }
-
-              break;
-            }
-          }
-        }
-      }
-    }
-
+  if (grades.length !== 0) {
     grades.forEach((grade) => {
       let selectValue = document.createElement("option");
       selectValue.value = grade.grade;
