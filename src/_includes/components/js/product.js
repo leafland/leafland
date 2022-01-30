@@ -43,7 +43,7 @@ window.addEventListener("loginUpdated", () => {
     await createTreeImages();
 
     await getProductStockData();
-    await createStockValues(grades);
+    await createStockValues();
   })();
 });
 
