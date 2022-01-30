@@ -386,21 +386,9 @@ async function createStockValues() {
       }
     });
 
-    // if (comingOn.textContent.length === 17) {
-    //   comingOn.innerHTML += ' <span class="info-pill">None</span>';
-    // }
-
     quantityField.textContent = "0";
     wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
     retailPriceField.textContent = "$0.00+GST (Retail)";
-    // let quantity = document.createElement("p");
-    // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
-
-    // let stockPrice = document.createElement("p");
-    // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
-
-    // stockValuesDiv.appendChild(quantity);
-    // stockValuesDiv.appendChild(stockPrice);
   } else {
     gradeSizesDiv.innerHTML = ``;
     let message = document.createElement("p");
@@ -646,7 +634,6 @@ function addEventListeners() {
   });
 
   heightSelect.addEventListener("change", (event) => {
-    // stockValuesDiv.innerHTML = ``;
     standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
 
@@ -737,15 +724,6 @@ function addEventListeners() {
                 wholesalePriceField.textContent = `${noneWholesalePrice}.00+GST (Wholesale)`;
                 retailPriceField.textContent = `${noneRetailPrice}.00+GST (Retail)`;
 
-                // let quantity = document.createElement("p");
-                // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${noStandardHeightQuantity}</span>`;
-
-                // let stockPrice = document.createElement("p");
-                // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${noneWholesalePrice}.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${noneRetailPrice}.00+GST (Retail)</span>`;
-                // stockValuesDiv.innerHTML = ``;
-                // stockValuesDiv.appendChild(quantity);
-                // stockValuesDiv.appendChild(stockPrice);
-
                 if (noStandardHeightQuantity === 0) {
                   addToOrderButton.disabled = true;
                   treeQuantity.disabled = true;
@@ -784,22 +762,6 @@ function addEventListeners() {
                   retailPrice.split("rp=")[1]
                 }.00+GST (Retail)`;
 
-                // let quantity = document.createElement("p");
-                // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
-                //   standardQuantity.split("q=")[1]
-                // }</span>`;
-
-                // let stockPrice = document.createElement("p");
-                // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${
-                //   wholesalePrice.split("wp=")[1]
-                // }.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${
-                //   retailPrice.split("rp=")[1]
-                // }.00+GST (Retail)</span>`;
-
-                // stockValuesDiv.innerHTML = ``;
-                // stockValuesDiv.appendChild(quantity);
-                // stockValuesDiv.appendChild(stockPrice);
-
                 if (parseInt(standardQuantity.split("q=")[1]) === 0) {
                   addToOrderButton.disabled = true;
                   treeQuantity.disabled = true;
@@ -823,15 +785,6 @@ function addEventListeners() {
                 quantityField.textContent = `0`;
                 wholesalePriceField.textContent = `$0.00+GST (Wholesale)`;
                 retailPriceField.textContent = `$0.00+GST (Retail)`;
-
-                // let quantity = document.createElement("p");
-                // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
-
-                // let stockPrice = document.createElement("p");
-                // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
-                // stockValuesDiv.innerHTML = ``;
-                // stockValuesDiv.appendChild(quantity);
-                // stockValuesDiv.appendChild(stockPrice);
               }
             }
             break;
@@ -843,7 +796,6 @@ function addEventListeners() {
   });
 
   standardHeightSelect.addEventListener("change", (event) => {
-    // stockValuesDiv.innerHTML = ``;
     treeQuantity.value = 1;
 
     let standardHeight = event.target.value.split("?")[0];
@@ -859,21 +811,6 @@ function addEventListeners() {
     retailPriceField.textContent = `${
       retailPrice.split("rp=")[1]
     }.00+GST (Retail)`;
-
-    // let quantity = document.createElement("p");
-    // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">${
-    //   standardQuantity.split("q=")[1]
-    // }</span>`;
-
-    // let stockPrice = document.createElement("p");
-    // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">${
-    //   wholesalePrice.split("wp=")[1]
-    // }.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">${
-    //   retailPrice.split("rp=")[1]
-    // }.00+GST (Retail)</span>`;
-
-    // stockValuesDiv.appendChild(quantity);
-    // stockValuesDiv.appendChild(stockPrice);
 
     if (parseInt(standardQuantity.split("q=")[1]) === 0) {
       addToOrderButton.disabled = true;
