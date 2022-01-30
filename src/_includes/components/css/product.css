@@ -670,10 +670,16 @@ details b {
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 300px) {
   #tree-shape {
-    justify-self: end;
+    grid-gap: 2rem;
   }
+}
+
+@media (min-width: 650px) {
+  /* #tree-shape {
+    justify-self: end;
+  } */
 
   /* #grid-content-right {
     padding: 2rem;
@@ -682,10 +688,10 @@ details b {
     grid-column-start: 1;
     grid-column-end: 3;
   }
-  #tree-shape {
+  /* #tree-shape {
     grid-row-start: 2;
     grid-column-start: 2;
-  }
+  } */
   .tree-content {
     padding: 2rem;
   }
@@ -721,6 +727,9 @@ details b {
   }
   #tree-info-left {
     gap: 3rem;
+  }
+  #tree-shape {
+    grid-gap: 3rem;
   }
 }
 
