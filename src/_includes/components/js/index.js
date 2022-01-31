@@ -1,42 +1,42 @@
-let image1 = document.querySelector("#image-1");
-let image2 = document.querySelector("#image-2");
-let image3 = document.querySelector("#image-3");
+// let image1 = document.querySelector("#image-1");
+// let image2 = document.querySelector("#image-2");
+// let image3 = document.querySelector("#image-3");
 
-rotateImages();
+// rotateImages();
 
-function rotateImages() {
-  let counter = 0;
+// function rotateImages() {
+//   let counter = 0;
 
-  setInterval(() => {
-    switch (counter) {
-      case 0:
-        image1.style.setProperty("opacity", "0");
+//   setInterval(() => {
+//     switch (counter) {
+//       case 0:
+//         image1.style.setProperty("opacity", "0");
 
-        image2.style.setProperty("opacity", "1");
-        counter++;
-        break;
+//         image2.style.setProperty("opacity", "1");
+//         counter++;
+//         break;
 
-      case 1:
-        image2.style.setProperty("opacity", "0");
+//       case 1:
+//         image2.style.setProperty("opacity", "0");
 
-        image3.style.setProperty("opacity", "1");
-        counter++;
-        break;
+//         image3.style.setProperty("opacity", "1");
+//         counter++;
+//         break;
 
-      case 2:
-        image3.style.setProperty("opacity", "0");
+//       case 2:
+//         image3.style.setProperty("opacity", "0");
 
-        image1.style.setProperty("opacity", "1");
+//         image1.style.setProperty("opacity", "1");
 
-        counter = 0;
+//         counter = 0;
 
-        break;
-      default:
-        counter = 0;
-        break;
-    }
-  }, 7000);
-}
+//         break;
+//       default:
+//         counter = 0;
+//         break;
+//     }
+//   }, 7000);
+// }
 
 // var sections = document.querySelectorAll(".split-section");
 
