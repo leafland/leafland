@@ -16,9 +16,7 @@ function resetStartEnd() {
 }
 
 async function getSearchData() {
-  searchData = await fetch(
-    `/public/trees.json`
-  )
+  searchData = await fetch(`/public/trees.json`)
     .then((response) => response.json())
     .then((data) => data)
     .catch((error) => {});
@@ -106,11 +104,15 @@ async function search(terms) {
       }
 
       compareValue = `${searchData[i].botanicalName
+        .replace(/ã/g, "a")
+        .replace(/é/g, "e")
         .replace(/ā/g, "a")
         .replace(/ē/g, "e")
         .replace(/ī/g, "i")
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")} ${searchData[i].commonName
+        .replace(/ã/g, "a")
+        .replace(/é/g, "e")
         .replace(/ā/g, "a")
         .replace(/ē/g, "e")
         .replace(/ī/g, "i")
