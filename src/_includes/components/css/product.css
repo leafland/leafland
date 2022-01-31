@@ -19,6 +19,7 @@ main h2 {
   gap: 2rem;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 #tree-info-right {
