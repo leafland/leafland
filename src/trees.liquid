@@ -907,7 +907,7 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
             
                 <div class="tree-image">
                 
-                    <img src="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-500,q-75,pr-true,f-auto" width="500" height="500" alt="{{ tree.url | replace: '-', ' ' }}">
+                    <img src="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-400,q-75,pr-true,f-auto" width="400" height="400" alt="{{ tree.url | replace: '-', ' ' }}">
                 
                 </div>
                 
@@ -930,6 +930,11 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
                 </div>
             
             </div>
+
+            {% else %}
+
+            {% break %}
+            
             {% endif %}
 
             {% endfor %}

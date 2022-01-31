@@ -16,9 +16,15 @@
     <link rel='dns-prefetch' href="https://plausible.io">
 
     {% if type == 'product' %}
-
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
-
+      <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
+    {% elsif type == 'tree-finder' %}
+      {% for tree in trees %}
+        {% if forloop.index0 < 3 %}
+          <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-400,q-75,pr-true,f-auto">
+        {% else %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
     {% endif %}
 
     <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
