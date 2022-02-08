@@ -19,15 +19,15 @@ window.addEventListener("loginUpdated", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
+    headerStockLink.href = `/wholesale-stock-list/`;
 
-    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
+    menuStockLink.href = `/wholesale-stock-list/`;
 
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
+    headerStockLink.href = `/retail-stock-list/`;
 
-    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
+    menuStockLink.href = `/retail-stock-list/`;
     document.body.classList.remove("loggedIn");
   }
 });
@@ -40,14 +40,14 @@ window.addEventListener("storage", () => {
   }
 
   if (loggedIn) {
-    headerStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button">Stock List</a>`;
+    headerStockLink.href = `/wholesale-stock-list/`;
 
-    menuStockLink.innerHTML = `<a href="/wholesale-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
+    menuStockLink.href = `/wholesale-stock-list/`;
     document.body.classList.add("loggedIn");
   } else {
-    headerStockLink.innerHTML = `<a href="/retail-stock-list/" class="button">Stock List</a>`;
+    headerStockLink.href = `/retail-stock-list/`;
 
-    menuStockLink.innerHTML = `<a href="/retail-stock-list/" class="button main-menu-list-item-link"><p>Stock List</p></a>`;
+    menuStockLink.href = `/retail-stock-list/`;
     document.body.classList.remove("loggedIn");
   }
 });
