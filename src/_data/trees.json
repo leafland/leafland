@@ -4167,7 +4167,10 @@
      "treeShape":"images/icons/tree-shapes/afrocarpus/afrocarpus-general.svg",
      "relatedTrees":[],
      "images":[
-       
+      {
+        "src":"images/trees/afrocarpus-mannii-sao-tome-yellowwood/afrocarpus-mannii-sao-tome-yellowwood-foliage.jpg",
+        "alt":"afrocarpus mannii sao tome yellowwood foliage"
+      }
      ]
    },
    {
