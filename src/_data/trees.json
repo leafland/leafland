@@ -9694,7 +9694,18 @@
      "treeShape":"images/icons/tree-shapes/chamaecyparis/chamaecyparis-general.svg",
      "relatedTrees":[],
      "images":[
-       
+      {
+        "src":"images/trees/chamaecyparis-pisifera-boulevard-sawara-cypress/chamaecyparis-pisifera-boulevard-sawara-cypress-courtyard.jpg",
+        "alt":"chamaecyparis pisifera boulevard sawara cypress courtyard"
+      },
+      {
+        "src":"images/trees/chamaecyparis-pisifera-boulevard-sawara-cypress/chamaecyparis-pisifera-boulevard-sawara-cypress-garden.jpg",
+        "alt":"chamaecyparis pisifera boulevard sawara cypress garden"
+      },
+      {
+        "src":"images/trees/chamaecyparis-pisifera-boulevard-sawara-cypress/chamaecyparis-pisifera-boulevard-sawara-cypress-park.jpg",
+        "alt":"chamaecyparis pisifera boulevard sawara cypress park"
+      }
      ]
    },
    {
