@@ -12,8 +12,11 @@
     {% endif %}
     </title>
 
-    <link rel='preconnect' href="https://plausible.io">
-    <link rel='dns-prefetch' href="https://plausible.io">
+    <link rel='preconnect' href="https://bat.bing.com">
+    <link rel='dns-prefetch' href="https://bat.bing.com">
+    <link rel='preconnect' href="https://www.google-analytics.com">
+    <link rel='dns-prefetch' href="https://www.google-analytics.com">
+
 
     {% if type == 'product' %}
       <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
@@ -32,6 +35,8 @@
     {% endif %}
 
     <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
+    <script defer src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
+    <script defer src="/public/assets/analytics.min.js"></script>
 
     <style>
     {% if type == "product" %}
