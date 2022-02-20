@@ -130,6 +130,8 @@
 
     {% endif %}
 
+    <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
+
     <link rel="shortcut icon" type="image/svg+xml" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.svg">
     <link rel="alternate icon" type="image/png" href="https://leafland.co.nz/public/assets/logo/leafland-favicon.png">
 
@@ -199,10 +201,6 @@
       </script>
     {% endif %}
 
-    <script defer data-domain="leafland.co.nz" src="https://plausible.io/js/plausible.js"></script>
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
-    <script defer src="/public/assets/analytics.min.js"></script>
-
   </head>
 
   <body>
@@ -228,6 +226,40 @@
     {% include "components/_image-lightbox.liquid"%}
 
     {% endif %}
+
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-207729468-1");
+    </script>
+
+    <script>
+      (function (w, d, t, r, u) {
+        var f, n, i;
+        (w[u] = w[u] || []),
+          (f = function () {
+            var o = { ti: "148003737" };
+            (o.q = w[u]), (w[u] = new UET(o)), w[u].push("pageLoad");
+          }),
+          (n = d.createElement(t)),
+          (n.src = r),
+          (n.async = 1),
+          (n.onload = n.onreadystatechange =
+            function () {
+              var s = this.readyState;
+              (s && s !== "loaded" && s !== "complete") ||
+                (f(), (n.onload = n.onreadystatechange = null));
+            }),
+          (i = d.getElementsByTagName(t)[0]),
+          i.parentNode.insertBefore(n, i);
+      })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
+    </script>
 
   </body>
 
