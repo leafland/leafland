@@ -56,6 +56,7 @@ async function getProductStockData() {
   }
   grades = await fetch(
     `https://api.leafland.co.nz/default/get-tree-stock-data?treeName=${treeName
+      .trim()
       .replace(/'/g, "")
       .replace(/"/g, "")
       .replace(/ var. /g, " ")
@@ -65,8 +66,7 @@ async function getProductStockData() {
       .replace(/\\/g, " ")
       .replace(/\//g, " ")
       .replace(/ /g, "-")
-      .toLowerCase()
-      .trim()}`
+      .toLowerCase()}`
   )
     .then((response) => response.json())
     .then((data) => data)
