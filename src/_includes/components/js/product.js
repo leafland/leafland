@@ -62,6 +62,8 @@ async function getProductStockData() {
       .replace(/ x /g, " ")
       .replace(/\(/g, "")
       .replace(/\)/g, "")
+      .replace(/\\/g, " ")
+      .replace(/\//g, " ")
       .replace(/ /g, "-")
       .toLowerCase()
       .trim()}`
