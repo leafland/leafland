@@ -7,7 +7,7 @@ let treeFinderStart = 0;
 let treeFinderEnd = 11;
 
 let imageDataSubset = [];
-let inputsArray = document.querySelectorAll("input[type='checkbox']");
+let inputsArray = document.querySelectorAll(".filter-input");
 let optionsArray = document.querySelectorAll("option");
 let treeFilter = [];
 let heightsArray = [];
@@ -52,6 +52,24 @@ for (let i = 0; i < optionsArray.length; i++) {
     optionsArray[i].selected = true;
   } else {
     optionsArray[i].selected = false;
+  }
+}
+
+for (let i = 0; i < inputsArray.length; i++) {
+  if (
+    filterSettings[`${inputsArray[i].dataset.category}`].includes(
+      inputsArray[i].value
+    )
+  ) {
+    inputsArray[i].checked = true;
+
+    document.querySelector(`#${inputsArray[i].dataset.category}`).textContent =
+      parseInt(
+        document.querySelector(`#${inputsArray[i].dataset.category}`)
+          .textContent
+      ) + 1;
+  } else {
+    inputsArray[i].checked = false;
   }
 }
 
@@ -613,6 +631,22 @@ inputsArray.forEach((input) => {
       autumnColour: [],
       foliageColour: [],
     };
+
+    document.querySelector("#uses").textContent = "0";
+    document.querySelector("#tolerates").textContent = "0";
+    document.querySelector("#types").textContent = "0";
+    document.querySelector("#winterFoliage").textContent = "0";
+    document.querySelector("#origin").textContent = "0";
+    document.querySelector("#soilType").textContent = "0";
+    document.querySelector("#sunAndShade").textContent = "0";
+    document.querySelector("#height").textContent = "0";
+    document.querySelector("#width").textContent = "0";
+    document.querySelector("#fruitingSeason").textContent = "0";
+    document.querySelector("#floweringSeason").textContent = "0";
+    document.querySelector("#flowerColour").textContent = "0";
+    document.querySelector("#autumnColour").textContent = "0";
+    document.querySelector("#foliageColour").textContent = "0";
+
     inputsArray.forEach((filterInput) => {
       if (filterInput.checked === true) {
         treeFilter.push(filterInput.value);
@@ -633,6 +667,12 @@ inputsArray.forEach((input) => {
         } else if (filterInput.value.search("-w") !== -1) {
           widthsArray.push(filterInput.value);
         }
+
+        document.querySelector(`#${filterInput.dataset.category}`).textContent =
+          parseInt(
+            document.querySelector(`#${filterInput.dataset.category}`)
+              .textContent
+          ) + 1;
       }
     });
 
