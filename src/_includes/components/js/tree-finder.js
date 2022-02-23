@@ -231,14 +231,11 @@ window.addEventListener("DOMContentLoaded", () => {
       treeFinderStart,
       treeFinderEnd,
       treeFinderData,
-      treeFilter
+      treeFilter,
+      true
     );
   }
   treeWrapper.style.setProperty("opacity", "1");
-  document.querySelectorAll(".tree-item").forEach((tree) => {
-    // tree.style.setProperty("opacity", "1");
-    tree.classList.add("tree-item-loaded");
-  });
 })();
 
 async function getTreeFinderData() {
@@ -252,7 +249,8 @@ async function populatePage(
   treeFinderStart,
   treeFinderEnd,
   trees,
-  treeFilter = []
+  treeFilter = [],
+  firstLoad = true
 ) {
   let add = false;
   let treeDataSubset = [];
@@ -488,8 +486,15 @@ async function populatePage(
         treeItem.appendChild(imageDiv);
 
         treeItem.appendChild(container);
-        treeItem.style.setProperty("--animation-order", `${i % 12}`);
-        treeItem.classList.add("tree-item-loaded");
+
+        if (firstLoad === false) {
+          treeItem.style.setProperty("--animation-order", `${i % 12}`);
+          treeItem.classList.add("tree-item-loaded");
+        } else {
+          treeItem.style.setProperty("visibility", "visible");
+          treeItem.style.setProperty("opacity", "1");
+        }
+
         treeWrapper.appendChild(treeItem);
       }
     }
@@ -563,7 +568,8 @@ document.querySelector("select").addEventListener("input", (event) => {
       treeFinderStart,
       treeFinderEnd,
       treeFinderData,
-      treeFilter
+      treeFilter,
+      false
     );
   })();
 
@@ -634,7 +640,8 @@ inputsArray.forEach((input) => {
         treeFinderStart,
         treeFinderEnd,
         treeFinderData,
-        treeFilter
+        treeFilter,
+        false
       );
     })();
 
@@ -681,7 +688,8 @@ clearCheckboxFilter.addEventListener("click", () => {
       treeFinderStart,
       treeFinderEnd,
       treeFinderData,
-      treeFilter
+      treeFilter,
+      false
     );
   })();
 
@@ -727,7 +735,8 @@ clearSelectFilter.addEventListener("click", () => {
       treeFinderStart,
       treeFinderEnd,
       treeFinderData,
-      treeFilter
+      treeFilter,
+      false
     );
   })();
 
@@ -743,7 +752,8 @@ loadMoreButton.addEventListener("click", () => {
       treeFinderStart,
       treeFinderEnd,
       treeFinderData,
-      treeFilter
+      treeFilter,
+      false
     );
   })();
 });
