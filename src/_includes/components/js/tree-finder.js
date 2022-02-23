@@ -235,7 +235,6 @@ window.addEventListener("DOMContentLoaded", () => {
       true
     );
   }
-  treeWrapper.style.setProperty("opacity", "1");
 })();
 
 async function getTreeFinderData() {
