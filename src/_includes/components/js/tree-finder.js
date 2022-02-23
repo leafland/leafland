@@ -715,6 +715,21 @@ clearCheckboxFilter.addEventListener("click", () => {
 
   clearCheckboxFilter.disabled = true;
 
+  document.querySelector("#uses").textContent = "0";
+  document.querySelector("#tolerates").textContent = "0";
+  document.querySelector("#types").textContent = "0";
+  document.querySelector("#winterFoliage").textContent = "0";
+  document.querySelector("#origin").textContent = "0";
+  document.querySelector("#soilType").textContent = "0";
+  document.querySelector("#sunAndShade").textContent = "0";
+  document.querySelector("#height").textContent = "0";
+  document.querySelector("#width").textContent = "0";
+  document.querySelector("#fruitingSeason").textContent = "0";
+  document.querySelector("#floweringSeason").textContent = "0";
+  document.querySelector("#flowerColour").textContent = "0";
+  document.querySelector("#autumnColour").textContent = "0";
+  document.querySelector("#foliageColour").textContent = "0";
+
   filterSettings = {
     empty: true,
     uses: [],
