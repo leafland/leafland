@@ -7,7 +7,8 @@ let treeFinderStart = 0;
 let treeFinderEnd = 11;
 
 let imageDataSubset = [];
-let inputsArray = document.querySelectorAll("input");
+let inputsArray = document.querySelectorAll("input[type='checkbox']");
+let optionsArray = document.querySelectorAll("option");
 let treeFilter = [];
 let heightsArray = [];
 let widthsArray = [];
@@ -25,13 +26,13 @@ let filterSettings = {
   width: [],
   fruitingSeason: [],
   floweringSeason: [],
-  flowerColor: [],
-  autumnColor: [],
-  foliageColor: [],
+  flowerColour: [],
+  autumnColour: [],
+  foliageColour: [],
 };
 
-if (localStorage.getItem("filterSettings")) {
-  filterSettings = JSON.parse(localStorage.getItem("filterSettings"));
+if (sessionStorage.getItem("filterSettings")) {
+  filterSettings = JSON.parse(sessionStorage.getItem("filterSettings"));
 }
 
 if (filterSettings.empty === false) {
@@ -40,6 +41,18 @@ if (filterSettings.empty === false) {
 } else {
   clearCheckboxFilter.disabled = true;
   clearSelectFilter.disabled = true;
+}
+
+for (let i = 0; i < optionsArray.length; i++) {
+  if (
+    filterSettings[`${optionsArray[i].dataset.category}`].includes(
+      optionsArray[i].value
+    )
+  ) {
+    optionsArray[i].selected = true;
+  } else {
+    optionsArray[i].selected = false;
+  }
 }
 
 let treeFinderData = [];
@@ -212,13 +225,13 @@ window.addEventListener("DOMContentLoaded", () => {
   filterSettings.floweringSeason.forEach((value) => {
     treeFilter.push(value);
   });
-  filterSettings.flowerColor.forEach((value) => {
+  filterSettings.flowerColour.forEach((value) => {
     treeFilter.push(value);
   });
-  filterSettings.autumnColor.forEach((value) => {
+  filterSettings.autumnColour.forEach((value) => {
     treeFilter.push(value);
   });
-  filterSettings.foliageColor.forEach((value) => {
+  filterSettings.foliageColour.forEach((value) => {
     treeFilter.push(value);
   });
 
@@ -525,9 +538,9 @@ document.querySelector("select").addEventListener("input", (event) => {
     width: [],
     fruitingSeason: [],
     floweringSeason: [],
-    flowerColor: [],
-    autumnColor: [],
-    foliageColor: [],
+    flowerColour: [],
+    autumnColour: [],
+    foliageColour: [],
   };
   let selectData = Array.from(event.target.selectedOptions).reduce(
     (data, opt) => {
@@ -560,7 +573,7 @@ document.querySelector("select").addEventListener("input", (event) => {
   treeFilter = filterValue.split(",");
   treeWrapper.innerHTML = "";
 
-  localStorage.setItem("filterSettings", JSON.stringify(filterSettings));
+  sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
 
   (async function () {
     await populatePage(
@@ -596,9 +609,9 @@ inputsArray.forEach((input) => {
       width: [],
       fruitingSeason: [],
       floweringSeason: [],
-      flowerColor: [],
-      autumnColor: [],
-      foliageColor: [],
+      flowerColour: [],
+      autumnColour: [],
+      foliageColour: [],
     };
     inputsArray.forEach((filterInput) => {
       if (filterInput.checked === true) {
@@ -633,7 +646,7 @@ inputsArray.forEach((input) => {
 
     treeWrapper.innerHTML = "";
 
-    localStorage.setItem("filterSettings", JSON.stringify(filterSettings));
+    sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
     (async function () {
       await populatePage(
         treeFinderStart,
@@ -675,11 +688,11 @@ clearCheckboxFilter.addEventListener("click", () => {
     width: [],
     fruitingSeason: [],
     floweringSeason: [],
-    flowerColor: [],
-    autumnColor: [],
-    foliageColor: [],
+    flowerColour: [],
+    autumnColour: [],
+    foliageColour: [],
   };
-  localStorage.setItem("filterSettings", JSON.stringify(filterSettings));
+  sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
   resetStartEnd();
   treeWrapper.innerHTML = "";
   (async function () {
@@ -722,11 +735,11 @@ clearSelectFilter.addEventListener("click", () => {
     width: [],
     fruitingSeason: [],
     floweringSeason: [],
-    flowerColor: [],
-    autumnColor: [],
-    foliageColor: [],
+    flowerColour: [],
+    autumnColour: [],
+    foliageColour: [],
   };
-  localStorage.setItem("filterSettings", JSON.stringify(filterSettings));
+  sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
   resetStartEnd();
   treeWrapper.innerHTML = "";
   (async function () {
