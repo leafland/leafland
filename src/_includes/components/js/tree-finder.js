@@ -235,6 +235,10 @@ window.addEventListener("DOMContentLoaded", () => {
     );
   }
   treeWrapper.style.setProperty("opacity", "1");
+  document.querySelectorAll(".tree-item").forEach((tree) => {
+    // tree.style.setProperty("opacity", "1");
+    tree.classList.add("tree-item-loaded");
+  });
 })();
 
 async function getTreeFinderData() {

@@ -903,7 +903,7 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
             {% for tree in trees %}
 
             {% if forloop.index0 < 12 %}
-            <div class="tree-item" style="opacity:1;visibility:visible">
+            <div class="tree-item" style="--animation-order:{{ forloop.index0 }}">
             
                 <div class="tree-image">
                 
