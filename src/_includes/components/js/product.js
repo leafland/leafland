@@ -334,6 +334,215 @@ function addTreeToLocalStorage() {
   );
 }
 
+function createStandardHeights(event = 0) {
+  treeQuantity.value = 1;
+
+  let parameters;
+
+  if (event === 0) {
+    parameters = standardHeightSelect[0].value.split("?")[1];
+  } else {
+    parameters = event.target.value.split("?")[1];
+  }
+
+  // let standardHeight = event.target.value.split("?")[0];
+  // let parameters = event.target.value.split("?")[1];
+  let standardQuantity = parameters.split("&")[0];
+  let wholesalePrice = parameters.split("&")[1];
+  let retailPrice = parameters.split("&")[2];
+
+  quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
+  wholesalePriceField.textContent = `${
+    wholesalePrice.split("wp=")[1]
+  }.00+GST (Wholesale)`;
+  retailPriceField.textContent = `${
+    retailPrice.split("rp=")[1]
+  }.00+GST (Retail)`;
+
+  if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+    addToOrderButton.disabled = true;
+    treeQuantity.disabled = true;
+    treeQuantity.value = 1;
+  } else {
+    addToOrderButton.disabled = false;
+    treeQuantity.disabled = false;
+    treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+    treeQuantity.onchange = function () {
+      if (this.value < 1) {
+        this.value = 1;
+      } else if (this.value > parseInt(standardQuantity.split("q=")[1])) {
+        this.value = parseInt(standardQuantity.split("q=")[1]);
+      }
+    };
+  }
+}
+
+function createHeights(event = 0) {
+  standardHeightSelect.innerHTML = "";
+  treeQuantity.value = 1;
+
+  addToOrderButton.disabled = true;
+  treeQuantity.disabled = true;
+  standardHeightSelect.disabled = false;
+  standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+
+  let standardHeightValue, noneRetailPrice, noneWholesalePrice;
+
+  let compareHeight;
+
+  if (event === 0) {
+    compareHeight = heightSelect.value;
+  } else {
+    compareHeight = event.target.value;
+  }
+
+  for (let i = 0; i < grades.length; i++) {
+    if (grades[i].grade === gradeSizeSelect.value) {
+      let noStandardHeightQuantity = 0;
+      for (let j = 0; j < grades[i].heights.length; j++) {
+        if (grades[i].heights[j].averageHeight === compareHeight) {
+          let noneExists = false;
+          for (
+            let k = 0;
+            k < grades[i].heights[j].standardHeights.length;
+            k++
+          ) {
+            let standardHeightValue = document.createElement("option");
+            if (
+              grades[i].heights[j].standardHeights[k].standardHeight.trim() !==
+                "" &&
+              grades[i].heights[j].standardHeights[k].standardHeight
+                .toLowerCase()
+                .trim() !== "bushy" &&
+              grades[i].heights[j].standardHeights[k].standardHeight
+                .toLowerCase()
+                .trim() !== "l/w" &&
+              grades[i].heights[j].standardHeights[k].standardHeight
+                .toLowerCase()
+                .trim() !== "lw" &&
+              grades[i].heights[j].standardHeights[k].standardHeight
+                .toLowerCase()
+                .trim() !== "ct"
+            ) {
+              standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+
+              if (
+                grades[i].heights[j].standardHeights[k].standardHeight.match(
+                  /\d+/g
+                ) !== null
+              ) {
+                standardHeightValue.textContent =
+                  grades[i].heights[j].standardHeights[k].standardHeight + "m";
+              } else {
+                standardHeightValue.textContent =
+                  grades[i].heights[j].standardHeights[k].standardHeight;
+              }
+
+              standardHeightSelect.appendChild(standardHeightValue);
+            } else if (
+              grades[i].heights[j].standardHeights[k].standardHeight
+                .toLowerCase()
+                .trim() !== "column"
+            ) {
+              noneExists = true;
+              standardHeightValue = document.createElement("option");
+
+              standardHeightValue.textContent = "None";
+
+              noStandardHeightQuantity +=
+                grades[i].heights[j].standardHeights[k].quantity;
+
+              standardHeightValue.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+
+              standardHeightSelect.appendChild(standardHeightValue);
+
+              noneRetailPrice =
+                grades[i].heights[j].standardHeights[k].retailPrice;
+              noneWholesalePrice =
+                grades[i].heights[j].standardHeights[k].wholesalePrice;
+            }
+          }
+
+          for (let i = 0; i < standardHeightSelect.length; i++) {
+            if (
+              standardHeightSelect.options[i].value.search("None") !== -1 &&
+              standardHeightSelect.length === 2
+            ) {
+              standardHeightSelect.remove(0);
+
+              quantityField.textContent = `${noStandardHeightQuantity}`;
+              wholesalePriceField.textContent = `${noneWholesalePrice}.00+GST (Wholesale)`;
+              retailPriceField.textContent = `${noneRetailPrice}.00+GST (Retail)`;
+
+              if (noStandardHeightQuantity === 0) {
+                addToOrderButton.disabled = true;
+                treeQuantity.disabled = true;
+                treeQuantity.value = 1;
+              } else {
+                addToOrderButton.disabled = false;
+                treeQuantity.disabled = false;
+                treeQuantity.max = noStandardHeightQuantity;
+                treeQuantity.onchange = function () {
+                  if (this.value < 1) {
+                    this.value = 1;
+                  } else if (this.value > noStandardHeightQuantity) {
+                    this.value = noStandardHeightQuantity;
+                  }
+                };
+              }
+              break;
+            } else if (standardHeightSelect.length === 2) {
+              let standardValue = standardHeightSelect.options[1].value;
+
+              let standard = standardValue.split("?")[0];
+              let parameters = standardValue.split("?")[1];
+              let standardQuantity = parameters.split("&")[0];
+              let wholesalePrice = parameters.split("&")[1];
+              let retailPrice = parameters.split("&")[2];
+
+              standardHeightSelect.remove(0);
+
+              quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
+              wholesalePriceField.textContent = `${
+                wholesalePrice.split("wp=")[1]
+              }.00+GST (Wholesale)`;
+              retailPriceField.textContent = `${
+                retailPrice.split("rp=")[1]
+              }.00+GST (Retail)`;
+
+              if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+                addToOrderButton.disabled = true;
+                treeQuantity.disabled = true;
+                treeQuantity.value = 1;
+              } else {
+                addToOrderButton.disabled = false;
+                treeQuantity.disabled = false;
+                treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+                treeQuantity.onchange = function () {
+                  if (this.value < 1) {
+                    this.value = 1;
+                  } else if (
+                    this.value > parseInt(standardQuantity.split("q=")[1])
+                  ) {
+                    this.value = parseInt(standardQuantity.split("q=")[1]);
+                  }
+                };
+              }
+              break;
+            } else {
+              quantityField.textContent = `0`;
+              wholesalePriceField.textContent = `$0.00+GST (Wholesale)`;
+              retailPriceField.textContent = `$0.00+GST (Retail)`;
+            }
+          }
+          break;
+        }
+      }
+      break;
+    }
+  }
+}
+
 function addEventListeners() {
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
@@ -376,7 +585,6 @@ function addEventListeners() {
   });
 
   gradeSizeSelect.addEventListener("change", (event) => {
-    // stockValuesDiv.innerHTML = ``;
     heightSelect.innerHTML = "";
     standardHeightSelect.innerHTML = "";
     treeQuantity.value = 1;
@@ -391,8 +599,6 @@ function addEventListeners() {
 
     for (let i = 0; i < grades.length; i++) {
       if (grades[i].grade === event.target.value.split("-0")[0]) {
-        let noStandardHeightQuantity = 0;
-
         for (let j = 0; j < grades[i].heights.length; j++) {
           let heightValue = document.createElement("option");
           if (grades[i].heights[j].averageHeight !== "") {
@@ -409,269 +615,34 @@ function addEventListeners() {
           heightSelect.appendChild(heightValue);
         }
 
-        let firstValueNone = false;
-        for (let j = 0; j < grades[i].heights[0].standardHeights.length; j++) {
-          let standardHeightValue = document.createElement("option");
-          if (
-            grades[i].heights[0].standardHeights[j].standardHeight.trim() !==
-              "" &&
-            grades[i].heights[0].standardHeights[j].standardHeight
-              .toLowerCase()
-              .trim() !== "bushy" &&
-            grades[i].heights[0].standardHeights[j].standardHeight
-              .toLowerCase()
-              .trim() !== "l/w" &&
-            grades[i].heights[0].standardHeights[j].standardHeight
-              .toLowerCase()
-              .trim() !== "lw" &&
-            grades[i].heights[0].standardHeights[j].standardHeight
-              .toLowerCase()
-              .trim() !== "ct"
-          ) {
-            standardHeightValue.value = `${grades[i].heights[0].standardHeights[j].standardHeight}?q=${grades[i].heights[0].standardHeights[j].quantity}`;
-
-            if (
-              grades[i].heights[0].standardHeights[j].standardHeight.match(
-                /\d+/g
-              ) !== null
-            ) {
-              standardHeightValue.textContent =
-                grades[i].heights[0].standardHeights[j].standardHeight + "m";
-            } else {
-              standardHeightValue.textContent =
-                grades[i].heights[0].standardHeights[j].standardHeight;
-            }
-
-            standardHeightSelect.appendChild(standardHeightValue);
-          } else if (
-            grades[i].heights[0].standardHeights[j].standardHeight
-              .toLowerCase()
-              .trim() !== "column"
-          ) {
-            if (j === 0) {
-              firstValueNone = true;
-            }
-            noStandardHeightQuantity +=
-              grades[i].heights[0].standardHeights[j].quantity;
-          }
-        }
-
-        let standardHeightValue = document.createElement("option");
-        standardHeightValue.value = `None?q=${noStandardHeightQuantity}`;
-        standardHeightValue.textContent = "None";
-        standardHeightSelect.appendChild(standardHeightValue);
-
         quantityField.textContent = "0";
         wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
         retailPriceField.textContent = "$0.00+GST (Retail)";
 
-        // let quantity = document.createElement("p");
-        // quantity.innerHTML = `<span class="stock-value-title">Quantity in stock:</span> <span class="info-pill">0</span>`;
-
-        // let stockPrice = document.createElement("p");
-        // stockPrice.innerHTML = `<span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>`;
-
-        // stockValuesDiv.appendChild(quantity);
-        // stockValuesDiv.appendChild(stockPrice);
         break;
+      }
+    }
+
+    if (heightSelect.length === 2) {
+      heightSelect.remove(0);
+      createHeights();
+
+      if (standardHeightSelect.length < 2) {
+        createStandardHeights();
+      }
+    } else if (heightSelect.length === 1) {
+      createHeights();
+      if (standardHeightSelect.length < 2) {
+        createStandardHeights();
       }
     }
   });
 
   heightSelect.addEventListener("change", (event) => {
-    standardHeightSelect.innerHTML = "";
-    treeQuantity.value = 1;
-
-    addToOrderButton.disabled = true;
-    treeQuantity.disabled = true;
-    standardHeightSelect.disabled = false;
-    standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
-
-    let standardHeightValue, noneRetailPrice, noneWholesalePrice;
-
-    for (let i = 0; i < grades.length; i++) {
-      if (grades[i].grade === gradeSizeSelect.value) {
-        let noStandardHeightQuantity = 0;
-        for (let j = 0; j < grades[i].heights.length; j++) {
-          if (grades[i].heights[j].averageHeight === event.target.value) {
-            let noneExists = false;
-            for (
-              let k = 0;
-              k < grades[i].heights[j].standardHeights.length;
-              k++
-            ) {
-              let standardHeightValue = document.createElement("option");
-              if (
-                grades[i].heights[j].standardHeights[
-                  k
-                ].standardHeight.trim() !== "" &&
-                grades[i].heights[j].standardHeights[k].standardHeight
-                  .toLowerCase()
-                  .trim() !== "bushy" &&
-                grades[i].heights[j].standardHeights[k].standardHeight
-                  .toLowerCase()
-                  .trim() !== "l/w" &&
-                grades[i].heights[j].standardHeights[k].standardHeight
-                  .toLowerCase()
-                  .trim() !== "lw" &&
-                grades[i].heights[j].standardHeights[k].standardHeight
-                  .toLowerCase()
-                  .trim() !== "ct"
-              ) {
-                standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
-
-                if (
-                  grades[i].heights[j].standardHeights[k].standardHeight.match(
-                    /\d+/g
-                  ) !== null
-                ) {
-                  standardHeightValue.textContent =
-                    grades[i].heights[j].standardHeights[k].standardHeight +
-                    "m";
-                } else {
-                  standardHeightValue.textContent =
-                    grades[i].heights[j].standardHeights[k].standardHeight;
-                }
-
-                standardHeightSelect.appendChild(standardHeightValue);
-              } else if (
-                grades[i].heights[j].standardHeights[k].standardHeight
-                  .toLowerCase()
-                  .trim() !== "column"
-              ) {
-                noneExists = true;
-                standardHeightValue = document.createElement("option");
-
-                standardHeightValue.textContent = "None";
-
-                noStandardHeightQuantity +=
-                  grades[i].heights[j].standardHeights[k].quantity;
-
-                standardHeightValue.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
-
-                standardHeightSelect.appendChild(standardHeightValue);
-
-                noneRetailPrice =
-                  grades[i].heights[j].standardHeights[k].retailPrice;
-                noneWholesalePrice =
-                  grades[i].heights[j].standardHeights[k].wholesalePrice;
-              }
-            }
-
-            for (let i = 0; i < standardHeightSelect.length; i++) {
-              if (
-                standardHeightSelect.options[i].value.search("None") !== -1 &&
-                standardHeightSelect.length === 2
-              ) {
-                standardHeightSelect.remove(0);
-
-                quantityField.textContent = `${noStandardHeightQuantity}`;
-                wholesalePriceField.textContent = `${noneWholesalePrice}.00+GST (Wholesale)`;
-                retailPriceField.textContent = `${noneRetailPrice}.00+GST (Retail)`;
-
-                if (noStandardHeightQuantity === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max = noStandardHeightQuantity;
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (this.value > noStandardHeightQuantity) {
-                      this.value = noStandardHeightQuantity;
-                    }
-                  };
-                }
-                break;
-              } else if (standardHeightSelect.length === 2) {
-                let standardValue = standardHeightSelect.options[1].value;
-
-                let standard = standardValue.split("?")[0];
-                let parameters = standardValue.split("?")[1];
-                let standardQuantity = parameters.split("&")[0];
-                let wholesalePrice = parameters.split("&")[1];
-                let retailPrice = parameters.split("&")[2];
-
-                standardHeightSelect.remove(0);
-
-                quantityField.textContent = `${
-                  standardQuantity.split("q=")[1]
-                }`;
-                wholesalePriceField.textContent = `${
-                  wholesalePrice.split("wp=")[1]
-                }.00+GST (Wholesale)`;
-                retailPriceField.textContent = `${
-                  retailPrice.split("rp=")[1]
-                }.00+GST (Retail)`;
-
-                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (
-                      this.value > parseInt(standardQuantity.split("q=")[1])
-                    ) {
-                      this.value = parseInt(standardQuantity.split("q=")[1]);
-                    }
-                  };
-                }
-                break;
-              } else {
-                quantityField.textContent = `0`;
-                wholesalePriceField.textContent = `$0.00+GST (Wholesale)`;
-                retailPriceField.textContent = `$0.00+GST (Retail)`;
-              }
-            }
-            break;
-          }
-        }
-        break;
-      }
-    }
+    createHeights(event);
   });
 
   standardHeightSelect.addEventListener("change", (event) => {
-    treeQuantity.value = 1;
-
-    let standardHeight = event.target.value.split("?")[0];
-    let parameters = event.target.value.split("?")[1];
-    let standardQuantity = parameters.split("&")[0];
-    let wholesalePrice = parameters.split("&")[1];
-    let retailPrice = parameters.split("&")[2];
-
-    quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
-    wholesalePriceField.textContent = `${
-      wholesalePrice.split("wp=")[1]
-    }.00+GST (Wholesale)`;
-    retailPriceField.textContent = `${
-      retailPrice.split("rp=")[1]
-    }.00+GST (Retail)`;
-
-    if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-      addToOrderButton.disabled = true;
-      treeQuantity.disabled = true;
-      treeQuantity.value = 1;
-    } else {
-      addToOrderButton.disabled = false;
-      treeQuantity.disabled = false;
-      treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-      treeQuantity.onchange = function () {
-        if (this.value < 1) {
-          this.value = 1;
-        } else if (this.value > parseInt(standardQuantity.split("q=")[1])) {
-          this.value = parseInt(standardQuantity.split("q=")[1]);
-        }
-      };
-    }
+    createStandardHeights(event);
   });
 }
