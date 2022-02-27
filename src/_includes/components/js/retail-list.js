@@ -5,6 +5,10 @@ let prevButton = document.querySelector("#prev");
 let resultTotals = document.querySelector("#result-totals");
 let stockDataDiv = document.querySelector("#stock-data");
 
+let hideOutOfStock = document.querySelector("#hide-out-of-stock");
+let filterEdible = document.querySelector("#filter-edible");
+let filterNative = document.querySelector("#filter-native");
+
 // init other variables
 var stockData = [];
 let filteredData = [];
@@ -34,7 +38,11 @@ window.addEventListener("loginUpdated", () => {
     retailSearchInput.removeAttribute("disabled");
     retailSearchInput.addEventListener("input", (e) => {
       if (e.target.value.length <= 0) {
-        displayData(stockData, retailStart, retailEnd);
+        if (filteredData.length > 0) {
+          displayData(filteredData, retailStart, retailEnd);
+        } else {
+          displayData(stockData, retailStart, retailEnd);
+        }
       } else {
         searchRetailData(e.target.value);
       }
@@ -110,20 +118,34 @@ async function displayData(dataSet, retailStart, retailEnd) {
 // a simple search for the user to filter the results
 function searchRetailData(input) {
   if (input.length > 0) {
-    filteredData = [];
-
-    stockData.forEach((data) => {
-      if (data[0] != undefined) {
-        if (
-          data[0].toLowerCase().includes(input.toLowerCase()) ||
-          data[1].toLowerCase().includes(input.toLowerCase())
-        ) {
-          filteredData.push(data);
+    if (filteredData.length > 0) {
+      filteredData = filteredData.filter((data) => {
+        if (data[0] != undefined) {
+          if (
+            data[0].toLowerCase().includes(input.toLowerCase()) ||
+            data[1].toLowerCase().includes(input.toLowerCase())
+          ) {
+            return true;
+          } else {
+            return false;
+          }
+        } else {
+          return false;
         }
-      }
-    });
+      });
+    } else {
+      stockData.forEach((data) => {
+        if (data[0] != undefined) {
+          if (
+            data[0].toLowerCase().includes(input.toLowerCase()) ||
+            data[1].toLowerCase().includes(input.toLowerCase())
+          ) {
+            filteredData.push(data);
+          }
+        }
+      });
+    }
 
-    stockDataDiv.innerHTML = "";
     resetStartEnd();
     displayData(filteredData, retailStart, retailEnd);
   }
@@ -140,7 +162,7 @@ nextButton.addEventListener("click", () => {
   retailStart += 25;
   retailEnd += 25;
 
-  if (filteredData.length > 1 && retailSearchInput.value.length > 0) {
+  if (filteredData.length > 1) {
     displayData(filteredData, retailStart, retailEnd);
   } else {
     displayData(stockData, retailStart, retailEnd);
@@ -155,9 +177,64 @@ prevButton.addEventListener("click", () => {
     resetStartEnd();
   }
 
-  if (filteredData.length > 1 && retailSearchInput.value.length > 0) {
+  if (filteredData.length > 1) {
     displayData(filteredData, retailStart, retailEnd);
   } else {
+    displayData(stockData, retailStart, retailEnd);
+  }
+});
+
+hideOutOfStock.addEventListener("input", () => {
+  filteredData = [];
+  if (hideOutOfStock.checked === true) {
+    stockData.forEach((data) => {
+      if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+        filteredData.push(data);
+      }
+    });
+
+    resetStartEnd();
+    displayData(filteredData, retailStart, retailEnd);
+  } else {
+    resetStartEnd();
+    displayData(stockData, retailStart, retailEnd);
+  }
+});
+
+filterEdible.addEventListener("input", () => {
+  filteredData = [];
+  if (filterEdible.checked === true) {
+    stockData.forEach((data) => {
+      if (data[11] !== undefined) {
+        if (data[11].toLowerCase().search("edible") !== -1) {
+          filteredData.push(data);
+        }
+      }
+    });
+
+    resetStartEnd();
+    displayData(filteredData, retailStart, retailEnd);
+  } else {
+    resetStartEnd();
+    displayData(stockData, retailStart, retailEnd);
+  }
+});
+
+filterNative.addEventListener("input", () => {
+  filteredData = [];
+  if (filterNative.checked === true) {
+    stockData.forEach((data) => {
+      if (data[11] !== undefined) {
+        if (data[11].toLowerCase().search("native") !== -1) {
+          filteredData.push(data);
+        }
+      }
+    });
+
+    resetStartEnd();
+    displayData(filteredData, retailStart, retailEnd);
+  } else {
+    resetStartEnd();
     displayData(stockData, retailStart, retailEnd);
   }
 });
