@@ -184,57 +184,161 @@ prevButton.addEventListener("click", () => {
   }
 });
 
-hideOutOfStock.addEventListener("input", () => {
+function filterData() {
   filteredData = [];
   if (hideOutOfStock.checked === true) {
-    stockData.forEach((data) => {
-      if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
-        filteredData.push(data);
-      }
-    });
+    if (filterNative.checked === true && filterEdible.checked === true) {
+      stockData.forEach((data) => {
+        if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+          if (data[11] !== undefined) {
+            if (
+              data[11].toLowerCase().search("edible") !== -1 &&
+              data[11].toLowerCase().search("native") !== -1
+            ) {
+              filteredData.push(data);
+            }
+          }
+        }
+      });
 
-    resetStartEnd();
-    displayData(filteredData, retailStart, retailEnd);
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    } else if (filterNative.checked === true) {
+      stockData.forEach((data) => {
+        if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+          if (data[11] !== undefined) {
+            if (data[11].toLowerCase().search("native") !== -1) {
+              filteredData.push(data);
+            }
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    } else if (filterEdible.checked === true) {
+      stockData.forEach((data) => {
+        if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+          if (data[11] !== undefined) {
+            if (data[11].toLowerCase().search("edible") !== -1) {
+              filteredData.push(data);
+            }
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    } else {
+      stockData.forEach((data) => {
+        if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+          filteredData.push(data);
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    }
+  } else if (filterNative.checked === true) {
+    if (filterEdible.checked === true) {
+      stockData.forEach((data) => {
+        if (data[11] !== undefined) {
+          if (
+            data[11].toLowerCase().search("edible") !== -1 &&
+            data[11].toLowerCase().search("native") !== -1
+          ) {
+            filteredData.push(data);
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    } else {
+      stockData.forEach((data) => {
+        if (data[11] !== undefined) {
+          if (data[11].toLowerCase().search("native") !== -1) {
+            filteredData.push(data);
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    }
+  } else if (filterEdible.checked === true) {
+    if (filterNative.checked === true) {
+      stockData.forEach((data) => {
+        if (data[11] !== undefined) {
+          if (
+            data[11].toLowerCase().search("edible") !== -1 &&
+            data[11].toLowerCase().search("native") !== -1
+          ) {
+            filteredData.push(data);
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    } else {
+      stockData.forEach((data) => {
+        if (data[11] !== undefined) {
+          if (data[11].toLowerCase().search("edible") !== -1) {
+            filteredData.push(data);
+          }
+        }
+      });
+
+      resetStartEnd();
+      displayData(filteredData, retailStart, retailEnd);
+    }
   } else {
     resetStartEnd();
     displayData(stockData, retailStart, retailEnd);
   }
+}
+
+hideOutOfStock.addEventListener("input", () => {
+  filterData();
 });
 
 filterEdible.addEventListener("input", () => {
-  filteredData = [];
-  if (filterEdible.checked === true) {
-    stockData.forEach((data) => {
-      if (data[11] !== undefined) {
-        if (data[11].toLowerCase().search("edible") !== -1) {
-          filteredData.push(data);
-        }
-      }
-    });
+  filterData();
+  // filteredData = [];
+  // if (filterEdible.checked === true) {
+  //   stockData.forEach((data) => {
+  //     if (data[11] !== undefined) {
+  //       if (data[11].toLowerCase().search("edible") !== -1) {
+  //         filteredData.push(data);
+  //       }
+  //     }
+  //   });
 
-    resetStartEnd();
-    displayData(filteredData, retailStart, retailEnd);
-  } else {
-    resetStartEnd();
-    displayData(stockData, retailStart, retailEnd);
-  }
+  //   resetStartEnd();
+  //   displayData(filteredData, retailStart, retailEnd);
+  // } else {
+  //   resetStartEnd();
+  //   displayData(stockData, retailStart, retailEnd);
+  // }
 });
 
 filterNative.addEventListener("input", () => {
-  filteredData = [];
-  if (filterNative.checked === true) {
-    stockData.forEach((data) => {
-      if (data[11] !== undefined) {
-        if (data[11].toLowerCase().search("native") !== -1) {
-          filteredData.push(data);
-        }
-      }
-    });
+  filterData();
+  // filteredData = [];
+  // if (filterNative.checked === true) {
+  //   stockData.forEach((data) => {
+  //     if (data[11] !== undefined) {
+  //       if (data[11].toLowerCase().search("native") !== -1) {
+  //         filteredData.push(data);
+  //       }
+  //     }
+  //   });
 
-    resetStartEnd();
-    displayData(filteredData, retailStart, retailEnd);
-  } else {
-    resetStartEnd();
-    displayData(stockData, retailStart, retailEnd);
-  }
+  //   resetStartEnd();
+  //   displayData(filteredData, retailStart, retailEnd);
+  // } else {
+  //   resetStartEnd();
+  //   displayData(stockData, retailStart, retailEnd);
+  // }
 });

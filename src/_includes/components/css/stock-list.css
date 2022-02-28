@@ -120,6 +120,19 @@ tr td:nth-child(2) {
   font-weight: bold;
 }
 
+#filter-section {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+#filter-section div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
   div#pagination #next:hover:enabled,
   div#pagination #prev:hover:enabled,
