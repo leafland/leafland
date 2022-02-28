@@ -9,21 +9,46 @@ let hideOutOfStock = document.querySelector("#hide-out-of-stock");
 let filterEdible = document.querySelector("#filter-edible");
 let filterNative = document.querySelector("#filter-native");
 
+let stockListType = "";
+
+if (window.location.href.search("retail") === -1) {
+  stockListType = "wholesale";
+} else {
+  stockListType = "retail";
+}
 // init other variables
 var stockData = [];
 let filteredData = [];
 let retailStart = 0;
 let retailEnd = 24;
-let heading = [
-  "BOTANICAL NAME",
-  "COMMON NAME",
-  "GRADE",
-  "$R",
-  "HEIGHT (m)",
-  "STANDARD (m)",
-  "READY",
-  "COMING ON",
-];
+
+let heading = [];
+
+if (stockListType === "retail") {
+  heading = [
+    "BOTANICAL NAME",
+    "COMMON NAME",
+    "GRADE",
+    "$R",
+    "HEIGHT (m)",
+    "STANDARD (m)",
+    "READY",
+    "COMING ON",
+  ];
+} else {
+  heading = [
+    "BOTANICAL NAME",
+    "COMMON NAME",
+    "GRADE",
+    "$R",
+    "$W-10%",
+    "$W-20%",
+    "HEIGHT (m)",
+    "STANDARD (m)",
+    "READY",
+    "COMING ON",
+  ];
+}
 
 window.addEventListener("loginUpdated", () => {
   (async function () {
@@ -81,8 +106,18 @@ async function displayData(dataSet, retailStart, retailEnd) {
 
       let row = document.createElement("tr");
 
-      for (let j = 0; j < 10; j++) {
-        if (j !== 4 && j !== 5) {
+      if (stockListType === "retail") {
+        for (let j = 0; j < 10; j++) {
+          if (j !== 4 && j !== 5) {
+            let cell = document.createElement("td");
+
+            cell.textContent = dataSet[i][j];
+
+            row.appendChild(cell);
+          }
+        }
+      } else {
+        for (let j = 0; j < 10; j++) {
           let cell = document.createElement("td");
 
           cell.textContent = dataSet[i][j];

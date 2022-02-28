@@ -76,15 +76,14 @@ tr td:nth-child(2) {
 }
 
 .search-section {
-  max-width: 99%;
   margin-top: 2rem;
   margin-bottom: 2rem;
   position: relative;
 }
-.search {
+input[type="text"].search {
   width: 100%;
-
   min-height: 30px;
+  padding: 0.5rem 0.75rem;
 }
 .search::placeholder {
   color: #c3ced5;
@@ -125,6 +124,10 @@ tr td:nth-child(2) {
   align-items: center;
   gap: 3rem;
   flex-wrap: wrap;
+  margin-bottom: 3rem;
+  background: var(--secondary-background);
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 #filter-section div {

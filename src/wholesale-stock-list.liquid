@@ -2,7 +2,7 @@
 eleventyExcludeFromCollections: true
 layout: layouts/base.liquid
 title: Wholesale Stock List
-type: wholesale
+type: stock-list
 ---
 
 <div id="content">
@@ -14,6 +14,31 @@ type: wholesale
     <div class="search-section">
 
         <input type="text" class="search" placeholder="Search trees..." disabled/>
+
+    </div>
+
+        <div id='filter-section'>
+
+        <div>
+
+            <input type="checkbox" id="hide-out-of-stock" name="hide-out-of-stock">
+            <label for="hide-out-of-stock">Hide out of stock items</label>
+
+        </div>
+
+        <div>
+
+            <input type="checkbox" id="filter-edible" name="filter-edible">
+            <label for="filter-edible">Edible trees</label>
+
+        </div>
+
+        <div>
+
+            <input type="checkbox" id="filter-native" name="filter-native">
+            <label for="filter-native">Native trees</label>
+
+        </div>
 
     </div>
     
