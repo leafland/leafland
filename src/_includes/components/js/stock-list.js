@@ -222,23 +222,7 @@ prevButton.addEventListener("click", () => {
 function filterData() {
   filteredData = [];
   if (hideOutOfStock.checked === true) {
-    if (filterNative.checked === true && filterEdible.checked === true) {
-      stockData.forEach((data) => {
-        if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
-          if (data[11] !== undefined) {
-            if (
-              data[11].toLowerCase().search("edible") !== -1 &&
-              data[11].toLowerCase().search("native") !== -1
-            ) {
-              filteredData.push(data);
-            }
-          }
-        }
-      });
-
-      resetStartEnd();
-      displayData(filteredData, retailStart, retailEnd);
-    } else if (filterNative.checked === true) {
+    if (filterNative.checked === true) {
       stockData.forEach((data) => {
         if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
           if (data[11] !== undefined) {
@@ -274,60 +258,28 @@ function filterData() {
       resetStartEnd();
       displayData(filteredData, retailStart, retailEnd);
     }
-  } else if (filterNative.checked === true) {
-    if (filterEdible.checked === true) {
-      stockData.forEach((data) => {
-        if (data[11] !== undefined) {
-          if (
-            data[11].toLowerCase().search("edible") !== -1 &&
-            data[11].toLowerCase().search("native") !== -1
-          ) {
-            filteredData.push(data);
-          }
-        }
-      });
-
-      resetStartEnd();
-      displayData(filteredData, retailStart, retailEnd);
-    } else {
-      stockData.forEach((data) => {
-        if (data[11] !== undefined) {
-          if (data[11].toLowerCase().search("native") !== -1) {
-            filteredData.push(data);
-          }
-        }
-      });
-
-      resetStartEnd();
-      displayData(filteredData, retailStart, retailEnd);
-    }
   } else if (filterEdible.checked === true) {
-    if (filterNative.checked === true) {
-      stockData.forEach((data) => {
-        if (data[11] !== undefined) {
-          if (
-            data[11].toLowerCase().search("edible") !== -1 &&
-            data[11].toLowerCase().search("native") !== -1
-          ) {
-            filteredData.push(data);
-          }
+    stockData.forEach((data) => {
+      if (data[11] !== undefined) {
+        if (data[11].toLowerCase().search("edible") !== -1) {
+          filteredData.push(data);
         }
-      });
+      }
+    });
 
-      resetStartEnd();
-      displayData(filteredData, retailStart, retailEnd);
-    } else {
-      stockData.forEach((data) => {
-        if (data[11] !== undefined) {
-          if (data[11].toLowerCase().search("edible") !== -1) {
-            filteredData.push(data);
-          }
+    resetStartEnd();
+    displayData(filteredData, retailStart, retailEnd);
+  } else if (filterNative.checked === true) {
+    stockData.forEach((data) => {
+      if (data[11] !== undefined) {
+        if (data[11].toLowerCase().search("native") !== -1) {
+          filteredData.push(data);
         }
-      });
+      }
+    });
 
-      resetStartEnd();
-      displayData(filteredData, retailStart, retailEnd);
-    }
+    resetStartEnd();
+    displayData(filteredData, retailStart, retailEnd);
   } else {
     resetStartEnd();
     displayData(stockData, retailStart, retailEnd);
@@ -339,41 +291,19 @@ hideOutOfStock.addEventListener("input", () => {
 });
 
 filterEdible.addEventListener("input", () => {
+  if (filterEdible.checked === true) {
+    filterNative.disabled = true;
+  } else {
+    filterNative.disabled = false;
+  }
   filterData();
-  // filteredData = [];
-  // if (filterEdible.checked === true) {
-  //   stockData.forEach((data) => {
-  //     if (data[11] !== undefined) {
-  //       if (data[11].toLowerCase().search("edible") !== -1) {
-  //         filteredData.push(data);
-  //       }
-  //     }
-  //   });
-
-  //   resetStartEnd();
-  //   displayData(filteredData, retailStart, retailEnd);
-  // } else {
-  //   resetStartEnd();
-  //   displayData(stockData, retailStart, retailEnd);
-  // }
 });
 
 filterNative.addEventListener("input", () => {
+  if (filterNative.checked === true) {
+    filterEdible.disabled = true;
+  } else {
+    filterEdible.disabled = false;
+  }
   filterData();
-  // filteredData = [];
-  // if (filterNative.checked === true) {
-  //   stockData.forEach((data) => {
-  //     if (data[11] !== undefined) {
-  //       if (data[11].toLowerCase().search("native") !== -1) {
-  //         filteredData.push(data);
-  //       }
-  //     }
-  //   });
-
-  //   resetStartEnd();
-  //   displayData(filteredData, retailStart, retailEnd);
-  // } else {
-  //   resetStartEnd();
-  //   displayData(stockData, retailStart, retailEnd);
-  // }
 });

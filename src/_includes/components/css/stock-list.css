@@ -122,7 +122,7 @@ input[type="text"].search {
 #filter-section {
   display: flex;
   align-items: center;
-  gap: 3rem;
+  gap: 1rem 3rem;
   flex-wrap: wrap;
   margin-bottom: 3rem;
   background: var(--secondary-background);
