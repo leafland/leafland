@@ -1,13 +1,13 @@
 [[headers]]
-for = "/*"
-[headers.values]
-Referrer-Policy = "strict-origin"
-Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-X-Content-Type-Options = "nosniff"
-X-XSS-Protection = "1; mode=block"
+    for = "/*"
+    [headers.values]
+        Referrer-Policy = "strict-origin"
+        Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+        X-Content-Type-Options = "nosniff"
+        X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
-force = true
-from = "/trees/daphniphyllum-macropodum/"
-status = 301
-to = "/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/"
+    force = true
+    from = "/trees/daphniphyllum-macropodum/"
+    status = 301
+    to = "/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/"
