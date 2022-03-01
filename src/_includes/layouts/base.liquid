@@ -84,15 +84,7 @@
       {% include "components/css/search.min.css" %}
       {% include "components/css/top-trees.min.css" %}
 
-    {% elsif type == 'retail' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/stock-list.min.css" %}
-
-    {% elsif type == 'wholesale' %}
+    {% elsif type == 'stock-list' %}
       {% include "components/css/main.min.css" %}
       {% include "components/css/login.min.css" %}
       {% include "components/css/menu.min.css" %}
@@ -122,11 +114,8 @@
     {% elsif type == 'top-trees' %}
       {% include "components/head/_top-trees.liquid"%}
 
-    {% elsif type == 'retail' %}
-      {% include "components/head/_retail-list.liquid"%}
-
-    {% elsif type == 'wholesale' %}
-      {% include "components/head/_wholesale-list.liquid"%}
+    {% elsif type == 'stock-list' %}
+      {% include "components/head/_stock-list.liquid"%}
 
     {% endif %}
 
