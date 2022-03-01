@@ -13,7 +13,6 @@ let filterEvergreen = document.querySelector("#filter-evergreen");
 let filterSemiEvergreen = document.querySelector("#filter-semi-evergreen");
 
 let compareValue = "";
-
 let stockListType = "";
 
 if (window.location.href.search("retail") === -1) {
