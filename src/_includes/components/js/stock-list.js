@@ -67,15 +67,7 @@ window.addEventListener("loginUpdated", () => {
 
     stockSearchInput.removeAttribute("disabled");
     stockSearchInput.addEventListener("input", (e) => {
-      if (e.target.value.length <= 0) {
-        if (filteredData.length > 0) {
-          displayData(filteredData, stockStart, stockEnd);
-        } else {
-          displayData(stockData, stockStart, stockEnd);
-        }
-      } else {
-        searchStockData(e.target.value);
-      }
+      filterData();
     });
   })();
 });
@@ -155,43 +147,7 @@ async function displayData(dataSet, stockStart, stockEnd) {
   }
 }
 
-// a simple search for the user to filter the results
-function searchStockData(input) {
-  if (input.length > 0) {
-    if (filteredData.length > 0) {
-      filteredData = filteredData.filter((data) => {
-        if (data[0] != undefined) {
-          if (
-            data[0].toLowerCase().includes(input.toLowerCase()) ||
-            data[1].toLowerCase().includes(input.toLowerCase())
-          ) {
-            return true;
-          } else {
-            return false;
-          }
-        } else {
-          return false;
-        }
-      });
-    } else {
-      stockData.forEach((data) => {
-        if (data[0] != undefined) {
-          if (
-            data[0].toLowerCase().includes(input.toLowerCase()) ||
-            data[1].toLowerCase().includes(input.toLowerCase())
-          ) {
-            filteredData.push(data);
-          }
-        }
-      });
-    }
-
-    resetstockStartstockEnd();
-    displayData(filteredData, stockStart, stockEnd);
-  }
-}
-
-function resetstockStartstockEnd() {
+function resetStartEnd() {
   stockStart = 0;
   stockEnd = 24;
 }
@@ -214,7 +170,7 @@ prevButton.addEventListener("click", () => {
   stockEnd -= 25;
 
   if (stockStart < 0 || stockEnd < 0) {
-    resetstockStartstockEnd();
+    resetStartEnd();
   }
 
   if (filteredData.length > 1) {
@@ -239,49 +195,108 @@ function filterData() {
 
   compareArray.pop();
 
-  for (let j = 0; j < stockData.length; j++) {
-    for (let i = 0; i < compareArray.length; i++) {
-      if (stockData[j][11].toLowerCase().search(compareArray[i]) !== -1) {
-        if (i === compareArray.length - 1) {
-          filteredData.push(stockData[j]);
+  if (
+    stockSearchInput.value.length === 0 &&
+    compareArray.length === 0 &&
+    hideFound === false
+  ) {
+    resetStartEnd();
+    displayData(stockData, stockStart, stockEnd);
+  } else {
+    if (stockSearchInput.value.length === 0) {
+      for (let j = 0; j < stockData.length; j++) {
+        for (let i = 0; i < compareArray.length; i++) {
+          if (stockData[j][11].toLowerCase().search(compareArray[i]) !== -1) {
+            if (i === compareArray.length - 1) {
+              if (hideFound) {
+                if (
+                  parseInt(stockData[j][8]) > 0 ||
+                  parseInt(stockData[j][9]) > 0
+                ) {
+                  filteredData.push(stockData[j]);
+                }
+              } else {
+                filteredData.push(stockData[j]);
+              }
+            }
+          } else {
+            break;
+          }
         }
-      } else {
-        break;
       }
-    }
-  }
 
-  if (hideFound) {
-    if (filteredData.length > 0) {
-      filteredData = filteredData.filter((item) => {
-        if (parseInt(item[8]) > 0 || parseInt(item[9]) > 0) {
-          return true;
+      if (hideFound) {
+        if (filteredData.length > 0) {
+          filteredData = filteredData.filter((item) => {
+            if (parseInt(item[8]) > 0 || parseInt(item[9]) > 0) {
+              return true;
+            } else {
+              return false;
+            }
+          });
+        } else if (compareArray.length === 0) {
+          filteredData = stockData.filter((item) => {
+            if (parseInt(item[8]) > 0 || parseInt(item[9]) > 0) {
+              return true;
+            } else {
+              return false;
+            }
+          });
         } else {
-          return false;
+          filteredData = [];
         }
-      });
+      }
     } else if (compareArray.length === 0) {
-      filteredData = stockData.filter((item) => {
-        if (parseInt(item[8]) > 0 || parseInt(item[9]) > 0) {
-          return true;
-        } else {
-          return false;
+      stockData.forEach((data) => {
+        if (data[0] != undefined) {
+          if (
+            data[0]
+              .toLowerCase()
+              .includes(stockSearchInput.value.toLowerCase()) ||
+            data[1].toLowerCase().includes(stockSearchInput.value.toLowerCase())
+          ) {
+            if (hideFound) {
+              if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+                filteredData.push(data);
+              }
+            } else {
+              filteredData.push(data);
+            }
+          }
         }
       });
     } else {
-      filteredData = [];
+      filteredData = stockData.filter((data) => {
+        for (let i = 0; i < compareArray.length; i++) {
+          if (
+            data[11].toLowerCase().search(compareArray[i]) !== -1 &&
+            data[0] != undefined &&
+            (data[0]
+              .toLowerCase()
+              .includes(stockSearchInput.value.toLowerCase()) ||
+              data[1]
+                .toLowerCase()
+                .includes(stockSearchInput.value.toLowerCase()))
+          ) {
+            if (i === compareArray.length - 1) {
+              if (hideFound) {
+                if (parseInt(data[8]) > 0 || parseInt(data[9]) > 0) {
+                  return true;
+                } else {
+                  return false;
+                }
+              } else {
+                return true;
+              }
+            }
+          } else {
+            return false;
+          }
+        }
+      });
     }
-  }
-
-  if (filteredData.length > 0) {
-    resetstockStartstockEnd();
+    resetStartEnd();
     displayData(filteredData, stockStart, stockEnd);
-  } else if (compareArray.length > 0) {
-    resetstockStartstockEnd();
-    displayData(filteredData, stockStart, stockEnd);
-  } else {
-    resetstockStartstockEnd();
-    displayData(stockData, stockStart, stockEnd);
   }
 }
 
