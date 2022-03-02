@@ -12,3 +12,21 @@
     from = "/trees/daphniphyllum-macropodum/"
     status = 301
     to = "/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/"
+
+[[redirects]]
+    force = true
+    from = "https://leafland.nz/*"
+    status = 301
+    to = "https://leafland.co.nz/:splat"
+
+[[redirects]]
+    force = true
+    from = "https://leafland.net.nz/*"
+    status = 301
+    to = "https://leafland.co.nz/:splat"
+
+[[redirects]]
+    force = true
+    from = "https://leafland.org.nz/*"
+    status = 301
+    to = "https://leafland.co.nz/:splat"
