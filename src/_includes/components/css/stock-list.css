@@ -10,35 +10,35 @@ main {
   border-radius: 8px;
 }
 
-#stock-data table {
+table {
   border-spacing: 0px;
   width: 100%;
 }
 
-#stock-data table th {
+th {
   position: sticky;
   top: 0;
   background: var(--surface1-light);
   text-align: center;
-  padding: 5px;
+  padding: 0.5rem 1rem;
   border-bottom: 2px solid var(--primary-text);
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-#stock-data table tr:first-child th:first-child {
+tr:first-child th:first-child {
   border-top-left-radius: 8px;
 }
 
-#stock-data table tr:first-child th:last-child {
+tr:first-child th:last-child {
   border-top-right-radius: 8px;
 }
 
-#stock-data table tr:last-child td:first-child {
+tr:last-child td:first-child {
   border-bottom-left-radius: 8px;
 }
 
-#stock-data table tr:last-child td:last-child {
+tr:last-child td:last-child {
   border-bottom-right-radius: 8px;
 }
 
@@ -47,6 +47,14 @@ tr:nth-child(even):not(tr:first-child) {
 }
 tr:nth-child(odd):not(tr:first-child) {
   background: var(--surface1-light);
+}
+
+tr:first-child {
+  height: 5rem;
+}
+
+tr:not(tr:first-child) {
+  height: 4rem;
 }
 
 tr td {
@@ -58,16 +66,16 @@ tr td:nth-child(2) {
   text-align: left;
 }
 
-#stock-data table th:nth-child(1),
-#stock-data table th:nth-child(2) {
+th:nth-child(1),
+th:nth-child(2) {
   text-align: left;
 }
 
-#stock-data table td {
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  padding: 4px 8px;
+td {
+  padding: 0.5rem 1rem;
   font-weight: bold;
+  min-width: 5rem;
+  max-width: 5rem;
 }
 
 .message {
