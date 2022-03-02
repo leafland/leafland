@@ -117,6 +117,9 @@ input[type="text"].search {
   margin-top: 1rem;
   margin-bottom: 2rem;
   font-weight: bold;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  padding: 1rem;
 }
 
 #filter-section {
@@ -142,5 +145,15 @@ input[type="text"].search {
   div#content .button:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
+  }
+
+  input[type="checkbox"]:hover,
+  label {
+    cursor: pointer;
+  }
+
+  input[type="checkbox"]:disabled:hover,
+  input[type="checkbox"]:disabled + label:hover {
+    cursor: default;
   }
 }
