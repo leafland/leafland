@@ -22,8 +22,8 @@ th {
   text-align: center;
   padding: 0.5rem 1rem;
   border-bottom: 2px solid var(--primary-text);
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: break-spaces;
+  word-break: keep-all;
 }
 
 tr:first-child th:first-child {
@@ -69,6 +69,7 @@ tr td:nth-child(2) {
 th:nth-child(1),
 th:nth-child(2) {
   text-align: left;
+  min-width: 15rem;
 }
 
 td {
