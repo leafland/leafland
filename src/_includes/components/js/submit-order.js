@@ -32,6 +32,7 @@ async function populateForm() {
   if (
     region.value !== "Northland" &&
     region.value !== "Manawatu" &&
+    region.value !== "Gisborne" &&
     region.value.toLowerCase() !== "pickup"
   ) {
     freightData.forEach((datum) => {
@@ -60,6 +61,7 @@ async function populateForm() {
     if (
       region.value !== "Northland" &&
       region.value !== "Manawatu" &&
+      region.value !== "Gisborne" &&
       region.value.toLowerCase() !== "pickup"
     ) {
       for (i = 0; i < freightRegion.length; i++) {
@@ -163,6 +165,7 @@ async function populateForm() {
     if (
       region.value !== "Northland" &&
       region.value !== "Manawatu" &&
+      region.value !== "Gisborne" &&
       region.value !== "Pickup"
     ) {
       if (freightPriceValue === "P.O.A") {
@@ -230,6 +233,7 @@ async function populateForm() {
   if (
     region.value !== "Northland" &&
     region.value !== "Manawatu" &&
+    region.value !== "Gisborne" &&
     region.value !== "Pickup"
   ) {
     if (poaGrade) {
