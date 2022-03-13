@@ -30278,43 +30278,6 @@
     ]
   },
   {
-    "botanicalName":"Podocarpus laetus",
-    "commonName":"Hall's Tōtara, Mountain Tōtara",
-    "url":"podocarpus-laetus-halls-totara-mountain-totara",
-    "mainImage":"podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara.jpg",
-    "description":"Formerly known as Podocarpus hallii and Podocarpus cunninghamii. A slow-growing conifer. Closely related to Podocarpus totara, but has longer juvenile leaves and thin, flaky, paper-like bark. Great for hedging. Catkins in mid-spring to early-summer are a source of pollen for bees.",
-    "uses":"hedging-and-screening, attracts-bees",
-    "tolerates":"coastal, windy",
-    "soilType":"dry-soils",
-    "sunShade":"",
-    "winterFoliage":"evergreen",
-    "origin":"native",
-    "types":"conifer",
-    "height":"5m",
-    "width":"3m",
-    "floweringSeason":"spring, summer",
-    "flowerColor":"",
-    "autumnColor":"",
-    "foliageColor":"green",
-    "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/podocarpus/podocarpus-general.svg",
-    "relatedTrees":[],
-    "images":[
-      {
-        "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-foliage.jpeg",
-        "alt":"podocarpus cunninghamii totara foliage"
-      },
-      {
-        "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-leaves.jpeg",
-        "alt":"podocarpus cunninghamii totara leaves"
-      },
-      {
-        "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-mature-tree.jpg",
-        "alt":"podocarpus cunninghamii totara mature tree"
-      }
-    ]
-  },
-  {
     "botanicalName":"Podocarpus gracilior",
     "commonName":"East African Yellowwood",
     "url":"podocarpus-gracilior-east-african-yellowwood",
@@ -30414,6 +30377,43 @@
         "src":"images/trees/podocarpus-henkelii-henkels-yellowwood/podocarpus-henkelii-henkels-yellowwood-young-tree.jpg",
         "alt":"podocarpus henkelii henkels yellowwood young tree"
       }
+    ]
+  },
+  {
+   "botanicalName":"Podocarpus laetus",
+   "commonName":"Hall's Tōtara, Mountain Tōtara",
+   "url":"podocarpus-laetus-halls-totara-mountain-totara",
+   "mainImage":"podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara.jpg",
+   "description":"Formerly known as Podocarpus hallii and Podocarpus cunninghamii. A slow-growing conifer. Closely related to Podocarpus totara, but has longer juvenile leaves and thin, flaky, paper-like bark. Great for hedging. Catkins in mid-spring to early-summer are a source of pollen for bees.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"native",
+   "types":"conifer",
+   "height":"5m",
+   "width":"3m",
+   "floweringSeason":"spring, summer",
+   "flowerColor":"",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/podocarpus/podocarpus-general.svg",
+   "relatedTrees":[],
+   "images":[
+       {
+         "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-foliage.jpeg",
+         "alt":"podocarpus cunninghamii totara foliage"
+       },
+       {
+         "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-leaves.jpeg",
+         "alt":"podocarpus cunninghamii totara leaves"
+       },
+       {
+         "src":"images/trees/podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara-mature-tree.jpg",
+         "alt":"podocarpus cunninghamii totara mature tree"
+       }
     ]
   },
   {
