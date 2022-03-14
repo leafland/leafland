@@ -2425,6 +2425,43 @@
     ]
   },
   {
+   "botanicalName":"Acer palmatum 'Scolopendrifolium Atropurpureum'",
+   "commonName":"Japanese Maple",
+   "url":"acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple",
+   "mainImage":"acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple.jpg",
+   "description":"Also known as Acer palmatum 'Atrolineare' and Acer palmatum 'Linearilobum Atropurpureum'. New leaves emerge purple-red before fading to purple-green in summer. Autumn leaves are red. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+   "uses":"small-garden",
+   "tolerates":"light-frosts, heavy-frosts",
+   "soilType":"sandy-soils, clay-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"5m",
+   "width":"4m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"red",
+   "foliageColor":"green, purple, red",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple-autumn-foliage.jpg",
+       "alt":"acer palmatum scolopendrifolium atropurpureum japanese maple autumn foliage"
+     },
+     {
+       "src":"images/trees/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple-foliage.jpg",
+       "alt":"acer palmatum scolopendrifolium atropurpureum japanese maple foliage"
+     },
+     {
+       "src":"images/trees/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple/acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple-spring-foliage.jpg",
+       "alt":"acer palmatum scolopendrifolium atropurpureum japanese maple spring foliage"
+     }
+   ]
+ },
+  {
     "botanicalName":"Acer palmatum 'Senkaki'",
     "commonName":"Japanese Maple, Coral Bark Maple",
     "url":"acer-palmatum-senkaki-japanese-maple-coral-bark-maple",
