@@ -1768,6 +1768,47 @@
     ]
   },
   {
+   "botanicalName":"Acer palmatum dissectum 'Red Dragon'",
+   "commonName":"Japanese Maple",
+   "url":"acer-palmatum-dissectum-red-dragon-japanese-maple",
+   "mainImage":"acer-palmatum-dissectum-red-dragon-japanese-maple/acer-palmatum-dissectum-red-dragon-japanese-maple.jpg",
+   "description":"Leaves emerge bright-red in spring and mature to burgundy-red in summer. Autumn leaves are crimson-red. Has an upright-pendulous habit and forms an elegant, cascading mound. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+   "uses":"small-garden",
+   "tolerates":"light-frosts, heavy-frosts",
+   "soilType":"sandy-soils, clay-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"weeping",
+   "height":"2m",
+   "width":"2m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"red",
+   "foliageColor":"red, purple",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/acer-palmatum-dissectum-red-dragon-japanese-maple/acer-palmatum-dissectum-red-dragon-japanese-maple-mature-tree.jpg",
+       "alt":"acer palmatum dissectum red dragon japanese maple mature tree"
+     },
+     {
+       "src":"images/trees/acer-palmatum-dissectum-red-dragon-japanese-maple/acer-palmatum-dissectum-red-dragon-japanese-maple-spring-foliage.jpg",
+       "alt":"acer palmatum dissectum red dragon japanese maple spring foliage"
+     },
+     {
+       "src":"images/trees/acer-palmatum-dissectum-red-dragon-japanese-maple/acer-palmatum-dissectum-red-dragon-japanese-maple-spring.jpg",
+       "alt":"acer palmatum dissectum red dragon japanese maple spring"
+     },
+     {
+       "src":"images/trees/acer-palmatum-dissectum-red-dragon-japanese-maple/acer-palmatum-dissectum-red-dragon-japanese-maple-summer-foliage.jpg",
+       "alt":"acer palmatum dissectum red dragon japanese maple summer foliage"
+     }
+   ]
+ },
+  {
     "botanicalName":"Acer palmatum dissectum 'Red Feathers'",
     "commonName":"Japanese Maple",
     "url":"acer-palmatum-dissectum-red-feathers-japanese-maple",
