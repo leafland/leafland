@@ -2247,7 +2247,7 @@
     "autumnColor":"red, orange",
     "foliageColor":"green",
     "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg",
+    "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-weeping.svg",
     "relatedTrees":[],
     "images":[
       {
@@ -2264,6 +2264,55 @@
       }
     ]
   },
+  {
+   "botanicalName":"Acer palmatum 'Osakazuki'",
+   "commonName":"Japanese Maple",
+   "url":"acer-palmatum-osakazuki-japanese-maple",
+   "mainImage":"acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple.jpg",
+   "description":"New leaves emerge olive-orange before changing to green in summer. Autumn leaves are crimson-red. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. However, is more leaf scorch resistant than most Japanese maples, and is more tolerate of wind and drought. Cold hardy and great for bonsai.",
+   "uses":"",
+   "tolerates":"light-frosts, heavy-frosts",
+   "soilType":"sandy-soils, clay-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"5m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"red",
+   "foliageColor":"green, orange",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/acer-palmatum/acer-palmatum-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-autumn-colours.jpg",
+       "alt":"acer palmatum osakazuki japanese maple autumn colours"
+     },
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-autumn-foliage.jpg",
+       "alt":"acer palmatum osakazuki japanese maple autumn foliage"
+     },
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-garden.jpg",
+       "alt":"acer palmatum osakazuki japanese maple garden"
+     },
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-new-growth.jpg",
+       "alt":"acer palmatum osakazuki japanese maple new growth"
+     },
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-park.jpg",
+       "alt":"acer palmatum osakazuki japanese maple park"
+     },
+     {
+       "src":"images/trees/acer-palmatum-osakazuki-japanese-maple/acer-palmatum-osakazuki-japanese-maple-summer-foliage.jpg",
+       "alt":"acer palmatum osakazuki japanese maple summer foliage"
+     }
+   ]
+ },
   {
     "botanicalName":"Acer palmatum 'Red Emperor'",
     "commonName":"Japanese Maple",
