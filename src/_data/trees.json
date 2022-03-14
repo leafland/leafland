@@ -583,6 +583,39 @@
      ]
    },
    {
+    "botanicalName":"Acer cappadocicum 'Aureum'",
+    "commonName":"Cappadocian Maple",
+    "url":"acer-cappadocicum-aureum-cappadocian-maple",
+    "mainImage":"acer-cappadocicum-aureum-cappadocian-maple/acer-cappadocicum-aureum-cappadocian-maple.jpg",
+    "description":"Young spring foliage is bright-yellow with orange-red margins. Foliage fades to light-green in summer. Autumn leaves are bright-yellow. Can tolerate periods of drought, but prefers moist, well-drained soils. Has a shallow root system. Avoid planting in windy, exposed areas.",
+    "uses":"street",
+    "tolerates":"light-frosts, drought",
+    "soilType":"clay-soils, sandy-soils",
+    "sunShade":"full-sun, part-shade",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"8m",
+    "width":"5m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"yellow",
+    "foliageColor":"green, yellow, red, orange",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/acer-cappadocicum-aureum-cappadocian-maple/acer-cappadocicum-aureum-cappadocian-maple-autumn-foliage.jpg",
+        "alt":"acer cappadocicum aureum cappadocian maple autumn foliage"
+      },
+      {
+        "src":"images/trees/acer-cappadocicum-aureum-cappadocian-maple/acer-cappadocicum-aureum-cappadocian-maple-new-foliage.jpg",
+        "alt":"acer cappadocicum aureum cappadocian maple new foliage"
+      }
+    ]
+  },
+   {
      "botanicalName":"Acer cappadocicum 'Rubrum'",
      "commonName":"Cappadocian Maple",
      "url":"acer-cappadocicum-rubrum-cappadocian-maple",
@@ -600,7 +633,7 @@
      "floweringSeason":"",
      "flowerColor":"",
      "autumnColor":"yellow",
-     "foliageColor":"green",
+     "foliageColor":"green, red",
      "fruitingSeason":"",
      "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
      "relatedTrees":[],
