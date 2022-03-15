@@ -6240,6 +6240,55 @@
     ]
   },
   {
+   "botanicalName":"Aristotelia serrata",
+   "commonName":"Makomako, Wineberry",
+   "url":"aristotelia-serrata-makomako-wineberry",
+   "mainImage":"aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry.jpg",
+   "description":"Cream to rose-pink flowers in spring followed by dark-red to black berries in summer that attract native birds. The leaves sometimes have pink-red undersides. Tolerates light-frosts and can be semi-evergreen in colder climates.",
+   "uses":"attracts-birds",
+   "tolerates":"light-frosts",
+   "soilType":"sandy-soils, clay-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"evergreen",
+   "origin":"native",
+   "types":"",
+   "height":"6m",
+   "width":"4m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink, red, white",
+   "autumnColor":"",
+   "foliageColor":"green, pink, red",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/aristotelia/aristotelia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-berries.jpg",
+       "alt":"aristotelia serrata makomako wineberry berries"
+     },
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-flowering.jpg",
+       "alt":"aristotelia serrata makomako wineberry flowering"
+     },
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-flowers.jpg",
+       "alt":"aristotelia serrata makomako wineberry flowers"
+     },
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-foliage.jpg",
+       "alt":"aristotelia serrata makomako wineberry foliage"
+     },
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-foliage-underside.jpg",
+       "alt":"aristotelia serrata makomako wineberry foliage underside"
+     },
+     {
+       "src":"images/trees/aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry-pigeon.jpg",
+       "alt":"aristotelia serrata makomako wineberry pigeon"
+     }
+   ]
+ },
+  {
     "botanicalName":"Astelia chathamica",
     "commonName":"Silver Spear, Kakaha",
     "url":"astelia-chathamica-silver-spear-kakaha",
