@@ -4019,6 +4019,51 @@
      ]
    },
    {
+    "botanicalName":"Acer tschonoskii",
+    "commonName":"Butterfly Maple",
+    "url":"acer-tschonoskii-butterfly-maple",
+    "mainImage":"acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple.jpg",
+    "description":"Green leaves through spring and summer, and autumn leaves are yellow, red, and orange. A compact, upright grower when young, spreading with age.",
+    "uses":"",
+    "tolerates":"",
+    "soilType":"sandy-soils, clay-soils",
+    "sunShade":"full-sun, part-shade",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"8m",
+    "width":"5m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"yellow, red, orange",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple-autumn-foliage.jpg",
+        "alt":"acer tschonoskii butterfly maple autumn foliage"
+      },
+      {
+        "src":"images/trees/acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple-autumn-tree.jpg",
+        "alt":"acer tschonoskii butterfly maple autumn tree"
+      },
+      {
+        "src":"images/trees/acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple-autumn.jpg",
+        "alt":"acer tschonoskii butterfly maple autumn"
+      },
+      {
+        "src":"images/trees/acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple-foliage.jpg",
+        "alt":"acer tschonoskii butterfly maple foliage"
+      },
+      {
+        "src":"images/trees/acer-tschonoskii-butterfly-maple/acer-tschonoskii-butterfly-maple-summer.jpg",
+        "alt":"acer tschonoskii butterfly maple summer"
+      }
+    ]
+  },
+   {
      "botanicalName":"Aesculus x carnea",
      "commonName":"Red Horse Chestnut",
      "url":"aesculus-x-carnea-red-horse-chestnut",
