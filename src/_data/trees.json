@@ -7955,6 +7955,51 @@
      ]
    },
    {
+    "botanicalName":"Callitris rhomboidea",
+    "commonName":"Oyster Bay Pine, Port Jackson Pine",
+    "url":"callitris-rhomboidea-oyster-bay-pine-port-jackson-pine",
+    "mainImage":"callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine.jpg",
+    "description":"A columnar grower with green, cypress-like foliage. Can be used as a specimen and it will form a beautiful pyramid with age. Can also be trimmed as a hedge or screen. Foliage takes on a purple-brown tinge in cold weather.",
+    "uses":"hedging-and-screening",
+    "tolerates":"coastal, light-frosts, heavy-frosts",
+    "soilType":"sandy-soils, dry-soils, clay-soils",
+    "sunShade":"full-sun",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"conifer",
+    "height":"8m",
+    "width":"3m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/callitris/callitris-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine-foliage.jpg",
+        "alt":"callitris rhomboidea oyster bay pine port jackson pine foliage"
+      },
+      {
+        "src":"images/trees/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine-forest.jpg",
+        "alt":"callitris rhomboidea oyster bay pine port jackson pine forest"
+      },
+      {
+        "src":"images/trees/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine-green-foliage.jpg",
+        "alt":"callitris rhomboidea oyster bay pine port jackson pine green foliage"
+      },
+      {
+        "src":"images/trees/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine-park.jpg",
+        "alt":"callitris rhomboidea oyster bay pine port jackson pine park"
+      },
+      {
+        "src":"images/trees/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine-walkway.jpg",
+        "alt":"callitris rhomboidea oyster bay pine port jackson pine walkway"
+      }
+    ]
+  },
+   {
      "botanicalName":"Camellia \"Ariel's Song\"",
      "commonName":"Hybrid Camellia",
      "url":"camellia-ariels-song-hybrid-camellia",
