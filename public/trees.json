@@ -7315,6 +7315,43 @@
     ]
   },
   {
+   "botanicalName":"Betula utilis var. jacquemontii 'Dazzler'",
+   "commonName":"Himalayan Birch",
+   "url":"betula-utilis-var-jacquemontii-dazzler-himalayan-birch",
+   "mainImage":"betula-utilis-var-jacquemontii-dazzler-himalayan-birch/betula-utilis-var-jacquemontii-dazzler-himalayan-birch.jpg",
+   "description":"A superior selection of Betula utilis var. jacquemontii with amazing snow-white bark. A lovely birch with dazzling, white, peeling bark from top to toe and maintained into old age. Neat, erect growth habit. Large, tapering, dark-green leaves turn bright-yellow in autumn.",
+   "uses":"street",
+   "tolerates":"windy",
+   "soilType":"clay-soils, poor-draining-soils",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"7m",
+   "width":"5m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"yellow",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/betula/betula-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/betula-utilis-var-jacquemontii-dazzler-himalayan-birch/betula-utilis-var-jacquemontii-dazzler-himalayan-birch-bark.jpg",
+       "alt":"betula utilis var jacquemontii dazzler himalayan birch bark"
+     },
+     {
+       "src":"images/trees/betula-utilis-var-jacquemontii-dazzler-himalayan-birch/betula-utilis-var-jacquemontii-dazzler-himalayan-birch-foliage.jpg",
+       "alt":"betula utilis var jacquemontii dazzler himalayan birch foliage"
+     },
+     {
+       "src":"images/trees/betula-utilis-var-jacquemontii-dazzler-himalayan-birch/betula-utilis-var-jacquemontii-dazzler-himalayan-birch-summer.jpg",
+       "alt":"betula utilis var jacquemontii dazzler himalayan birch summer"
+     }
+   ]
+ },
+  {
     "botanicalName":"Betula utilis var. jacquemontii 'Jermyns'",
     "commonName":"Himalayan Birch",
     "url":"betula-utilis-var-jacquemontii-jermyns-himalayan-birch",
