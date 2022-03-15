@@ -8119,6 +8119,39 @@
     ]
   },
   {
+   "botanicalName":"Camellia 'Crimson King'",
+   "commonName":"Sasanqua Camellia",
+   "url":"camellia-crimson-king-sasanqua-camellia",
+   "mainImage":"camellia-crimson-king-sasanqua-camellia/camellia-crimson-king-sasanqua-camellia.jpg",
+   "description":"Has large, single, crimson-red flowers from early-autumn to early-winter. Great for hedges and screens.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"autumn, winter",
+   "flowerColor":"red",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/camellia/camellia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/camellia-crimson-king-sasanqua-camellia/camellia-crimson-king-sasanqua-camellia-flower.jpg",
+       "alt":"camellia crimson king sasanqua camellia flower"
+     },
+     {
+       "src":"images/trees/camellia-crimson-king-sasanqua-camellia/camellia-crimson-king-sasanqua-camellia-new-flower.jpg",
+       "alt":"camellia crimson king sasanqua camellia new flower"
+     }
+   ]
+ },
+  {
     "botanicalName":"Camellia 'Debutante'",
     "commonName":"Japonica Camellia",
     "url":"camellia-debutante-japonica-camellia",
