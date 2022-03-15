@@ -4551,6 +4551,63 @@
      ]
    },
    {
+    "botanicalName":"Albizia julibrissin",
+    "commonName":"Persian Silk Tree, Pink Silk Tree",
+    "url":"albizia-julibrissin-persian-silk-tree-pink-silk-tree",
+    "mainImage":"albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree.jpg",
+    "description":"Deep-pink, silky, fragrant summer flowers with ferny leaves on wide-spreading branches. Does not leaf out until very late in spring. Makes a great shade tree. Tolerates heat and drought. Best flowering occurs in full-sun. Has weak limbs that can be damaged by strong winds, snow, and ice. Seeds and seedpods are severely toxic to humans and animals. Easy to transplant.",
+    "uses":"shade, attracts-bees",
+    "tolerates":"drought",
+    "soilType":"dry-soils, clay-soils, sandy-soils",
+    "sunShade":"full-sun, part-shade",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"toxic-to-animals",
+    "height":"5m",
+    "width":"4m",
+    "floweringSeason":"summer",
+    "flowerColor":"red, pink",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-beautiful-flowers.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree beautiful flowers"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-flower.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree flower"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-flowering-by-river.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree flowering by river"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-flowering.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree flowering"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-flowers.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree flowers"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-foliage.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree foliage"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-front-lawn.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree front lawn"
+      },
+      {
+        "src":"images/trees/albizia-julibrissin-persian-silk-tree-pink-silk-tree/albizia-julibrissin-persian-silk-tree-pink-silk-tree-park.jpg",
+        "alt":"albizia julibrissin persian silk tree pink silk tree park"
+      }
+    ]
+  },
+   {
      "botanicalName":"Albizia julibrissin 'Red Silk'",
      "commonName":"Persian Silk Tree, Pink Silk Tree",
      "url":"albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree",
@@ -4566,7 +4623,7 @@
      "height":"5m",
      "width":"4m",
      "floweringSeason":"summer",
-     "flowerColor":"red",
+     "flowerColor":"red, pink",
      "autumnColor":"",
      "foliageColor":"green",
      "fruitingSeason":"",
