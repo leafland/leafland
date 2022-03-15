@@ -3847,6 +3847,43 @@
     ]
   },
   {
+   "botanicalName":"Acer rubrum 'Scanlon'",
+   "commonName":"Red Maple",
+   "url":"acer-rubrum-scanlon-red-maple",
+   "mainImage":"acer-rubrum-scanlon-red-maple/acer-rubrum-scanlon-red-maple.jpg",
+   "description":"An upright, narrow grower. Green leaves through spring and summer, with autumn tones of purple, red, and orange. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+   "uses":"street, attracts-bees, shade",
+   "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
+   "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils, peat-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"8m",
+   "width":"5m",
+   "floweringSeason":"spring",
+   "flowerColor":"",
+   "autumnColor":"red, orange, purple",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/acer-rubrum-scanlon-red-maple/acer-rubrum-scanlon-red-maple-autumn-foliage.jpg",
+       "alt":"acer rubrum scanlon red maple autumn foliage"
+     },
+     {
+       "src":"images/trees/acer-rubrum-scanlon-red-maple/acer-rubrum-scanlon-red-maple-foliage.jpg",
+       "alt":"acer rubrum scanlon red maple foliage"
+     },
+     {
+       "src":"images/trees/acer-rubrum-scanlon-red-maple/acer-rubrum-scanlon-red-maple-tree.jpg",
+       "alt":"acer rubrum scanlon red maple tree"
+     }
+   ]
+ },
+  {
     "botanicalName":"Acer saccharinum",
     "commonName":"Silver Maple",
     "url":"acer-saccharinum-silver-maple",
