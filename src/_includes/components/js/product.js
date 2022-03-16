@@ -553,8 +553,10 @@ function addEventListeners() {
       document.querySelector("#tree-information-table").style.display === "none"
     ) {
       document.querySelector("#tree-information-table").style.display = "grid";
+      showInfoTableButton.textContent = "Hide information table";
     } else {
       document.querySelector("#tree-information-table").style.display = "none";
+      showInfoTableButton.textContent = "Show information table";
     }
   });
 
