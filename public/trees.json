@@ -11060,6 +11060,35 @@
     ]
   },
   {
+   "botanicalName":"Citrus orange 'Parent Navel'",
+   "commonName":"Orange",
+   "url":"citrus-orange-parent-navel-orange",
+   "mainImage":"citrus-orange-parent-navel-orange/citrus-orange-parent-navel-orange.jpg",
+   "description":"Produces very juicy and sweet fruit. The fruit are practically seedless and easy to peel. Fruit ripens in late-winter. Scented white flowers throughout summer. Self-fertile.",
+   "uses":"attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"summer",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"winter",
+   "treeShape":"images/icons/tree-shapes/citrus/citrus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/citrus-orange-parent-navel-orange/citrus-orange-parent-navel-orange-fruit.jpg",
+       "alt":"citrus orange parent navel orange fruit"
+     }
+   ]
+ },
+  {
     "botanicalName":"Citrus orange 'Fukumoto'",
     "commonName":"Orange",
     "url":"citrus-orange-fukumoto-orange",
