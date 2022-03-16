@@ -645,9 +645,30 @@ details b {
   text-transform: uppercase;
 }
 
+#tree-information-table {
+  margin-top: 1rem;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  padding: 2rem;
+  display: none;
+  gap: 1rem;
+}
+
+.tree-information-table-heading {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#show-tree-information-table {
+  border: 2px solid var(--primary-text);
+  border-radius: 8px;
+  margin-top: 3rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
-  button#image-lightbox-close:hover {
+  button#image-lightbox-close:hover,
+  button#show-tree-information-table:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

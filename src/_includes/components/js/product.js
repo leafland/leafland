@@ -30,6 +30,10 @@ let wholesalePriceField = document.querySelector("#wholesale-price");
 let retailPriceField = document.querySelector("#retail-price");
 let comingOnField = document.querySelector("#coming-on-field");
 
+let showInfoTableButton = document.querySelector(
+  "#show-tree-information-table"
+);
+
 let productTrees = JSON.parse(localStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
@@ -544,6 +548,16 @@ function createHeights(event = 0) {
 }
 
 function addEventListeners() {
+  showInfoTableButton.addEventListener("click", () => {
+    if (
+      document.querySelector("#tree-information-table").style.display === "none"
+    ) {
+      document.querySelector("#tree-information-table").style.display = "grid";
+    } else {
+      document.querySelector("#tree-information-table").style.display = "none";
+    }
+  });
+
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
       productTrees = JSON.parse(localStorage.getItem(event.key));

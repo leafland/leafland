@@ -215,31 +215,53 @@ type: product
 
         </div>
 
-            <div id="tree-info">
+        <div id="tree-info">
 
-                <div id="tree-info-left">
+            <div id="tree-info-left">
 
-                    {% if commonName != '' %}
-                    <h3 id="tree-info-heading">{{ botanicalName }} ({{ commonName }})</h3>
-                    {% else %}
-                    <h3 id="tree-info-heading">{{ botanicalName }}</h3>
+                {% if commonName != '' %}
+                <h3 id="tree-info-heading">{{ botanicalName }} ({{ commonName }})</h3>
+                {% else %}
+                <h3 id="tree-info-heading">{{ botanicalName }}</h3>
+                {% endif %}
+
+                <p class="tree-description">{{ description }}</p>
+
+                <div id="color-section">
+
+                    {% if foliageColor != "" and foliageColor.length > 0 %}
+
+                        <div class="color-div">
+
+                            <p class="bold-up">Foliage Colour</p>
+
+                            <div class="color-spans">
+
+                                {% assign foliageArray = foliageColor | split: ', '%}
+
+                                {% for color in foliageArray %}
+
+                                    <span class="tree-color {{color}}"></span>
+
+                                {% endfor %}
+
+                            </div>
+
+                        </div>
+
                     {% endif %}
 
-                    <p class="tree-description">{{ description }}</p>
+                    {% if autumnColor != "" and autumnColor.length > 0 %}
 
-                    <div id="color-section">
+                        <div class="color-div">
 
-                        {% if foliageColor != "" and foliageColor.length > 0 %}
-
-                            <div class="color-div">
-
-                                <p class="bold-up">Foliage Colour</p>
+                                <p class="bold-up">Autumn Colour</p>
 
                                 <div class="color-spans">
 
-                                    {% assign foliageArray = foliageColor | split: ', '%}
+                                    {% assign autumnArray = autumnColor | split: ', '%}
 
-                                    {% for color in foliageArray %}
+                                    {% for color in autumnArray %}
 
                                         <span class="tree-color {{color}}"></span>
 
@@ -247,168 +269,182 @@ type: product
 
                                 </div>
 
-                            </div>
+                        </div>
 
-                        {% endif %}
+                    {% endif %}
 
-                        {% if autumnColor != "" and autumnColor.length > 0 %}
+                    {% if flowerColor != "" and flowerColor.length > 0 %}
 
-                            <div class="color-div">
+                        <div class="color-div">
 
-                                    <p class="bold-up">Autumn Colour</p>
+                                <p class="bold-up">Flower Colour</p>
 
-                                    <div class="color-spans">
+                                <div class="color-spans">
 
-                                        {% assign autumnArray = autumnColor | split: ', '%}
+                                    {% assign flowerArray = flowerColor | split: ', '%}
 
-                                        {% for color in autumnArray %}
+                                    {% for color in flowerArray %}
 
-                                            <span class="tree-color {{color}}"></span>
-
-                                        {% endfor %}
-
-                                    </div>
-
-                            </div>
-
-                        {% endif %}
-
-                        {% if flowerColor != "" and flowerColor.length > 0 %}
-
-                            <div class="color-div">
-
-                                    <p class="bold-up">Flower Colour</p>
-
-                                    <div class="color-spans">
-
-                                        {% assign flowerArray = flowerColor | split: ', '%}
-
-                                        {% for color in flowerArray %}
-
-                                            <span class="tree-color {{color}}"></span>
-
-                                        {% endfor %}
-
-                                    </div>
-
-                            </div>
-
-                        {% endif %}
-
-                        {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
-
-                            <div class="season-div">
-
-                                    <p class="bold-up">Fruiting Season</p>
-
-                                    {% assign fruitingArray = fruitingSeason | split: ', '%}
-
-                                    {% for item in fruitingArray %}
-
-                                        <span class="info-pill">{{item | capitalize}}</span>
+                                        <span class="tree-color {{color}}"></span>
 
                                     {% endfor %}
 
-                            </div>
+                                </div>
 
-                        {% endif %}
+                        </div>
 
-                        {% if floweringSeason != "" and floweringSeason.length > 0 %}
+                    {% endif %}
 
-                            <div class="season-div">
+                    {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
 
-                                    <p class="bold-up">Flowering Season</p>
+                        <div class="season-div">
 
-                                    {% assign floweringArray = floweringSeason | split: ', '%}
+                                <p class="bold-up">Fruiting Season</p>
 
-                                    {% for item in floweringArray %}
+                                {% assign fruitingArray = fruitingSeason | split: ', '%}
 
-                                        <span class="info-pill">{{item | capitalize}}</span>
+                                {% for item in fruitingArray %}
 
-                                    {% endfor %}
+                                    <span class="info-pill">{{item | capitalize}}</span>
 
-                            </div>
+                                {% endfor %}
 
-                        {% endif %}
-                    
-                    </div>
+                        </div>
 
-                    <div id="tree-icons">
+                    {% endif %}
 
-                        {% if origin != "" and origin.length > 0 %}
+                    {% if floweringSeason != "" and floweringSeason.length > 0 %}
+
+                        <div class="season-div">
+
+                                <p class="bold-up">Flowering Season</p>
+
+                                {% assign floweringArray = floweringSeason | split: ', '%}
+
+                                {% for item in floweringArray %}
+
+                                    <span class="info-pill">{{item | capitalize}}</span>
+
+                                {% endfor %}
+
+                        </div>
+
+                    {% endif %}
+                
+                </div>
+
+                <div id="tree-icons">
+
+                    {% if origin != "" and origin.length > 0 %}
+
+                        <div class="icon-div">
+                        
+                            <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg" width="40" height="40" alt="{{ origin }} tree">
+                            <span class="tooltip">{{ origin | capitalize }}</span>
+                        
+                        </div>
+
+                    {% endif %}
+
+                    {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+                        <div class="icon-div">
+                        
+                            <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg" width="40" height="40" alt="{{ winterFoliage }} tree">
+                            <span class="tooltip">{{ winterFoliage | capitalize }}</span>
+                        
+                        </div>
+
+                    {% endif %}
+
+                    {% if types != "" and types.length > 0 %}
+
+                        {% assign typesArray = types | split: ', ' %}
+
+                        {% for item in typesArray %}
 
                             <div class="icon-div">
                             
-                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ origin }}.svg" width="40" height="40" alt="{{ origin }} tree">
-                                <span class="tooltip">{{ origin | capitalize }}</span>
+                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }} tree">
+                                <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
                             
                             </div>
 
-                        {% endif %}
+                        {% endfor %}
 
-                        {% if winterFoliage != "" and winterFoliage.length > 0 %}
+                    {% endif %}
 
-                            <div class="icon-div">
-                            
-                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ winterFoliage }}.svg" width="40" height="40" alt="{{ winterFoliage }} tree">
-                                <span class="tooltip">{{ winterFoliage | capitalize }}</span>
-                            
-                            </div>
+                    {% if tolerates != "" and tolerates.length > 0 %}
 
-                        {% endif %}
+                        {% assign toleratesArray = tolerates | split: ', ' %}
 
-                        {% if types != "" and types.length > 0 %}
+                        {% for item in toleratesArray %}
 
-                            {% assign typesArray = types | split: ', ' %}
-
-                            {% for item in typesArray %}
+                            {% if item == 'drought' or item == 'heavy-rainfall' or item == 'light-frosts' or item == 'heavy-frosts' %}
 
                                 <div class="icon-div">
                                 
-                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }} tree">
-                                    <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }}">
+                                    <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }}</span>
                                 
                                 </div>
 
-                            {% endfor %}
+                            {% else %}
 
-                        {% endif %}
+                                <div class="icon-div">
+                                
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }} sites">
+                                    <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }} sites</span>
+                                
+                                </div>
 
-                        {% if tolerates != "" and tolerates.length > 0 %}
+                            {% endif %}
 
-                            {% assign toleratesArray = tolerates | split: ', ' %}
+                        {% endfor %}
 
-                            {% for item in toleratesArray %}
+                    {% endif %}
 
-                                {% if item == 'drought' or item == 'heavy-rainfall' or item == 'light-frosts' or item == 'heavy-frosts' %}
+                    {% if soilType != "" and soilType.length > 0 %}
 
-                                    <div class="icon-div">
-                                    
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }}">
-                                        <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }}</span>
-                                    
-                                    </div>
+                        {% assign soilArray = soilType | split: ', ' %}
 
-                                {% else %}
+                        {% for item in soilArray %}
 
-                                    <div class="icon-div">
-                                    
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="tolerates {{ item | replace: '-', ' ' }} sites">
-                                        <span class="tooltip">Tolerates {{ item | replace: '-', ' ' }} sites</span>
-                                    
-                                    </div>
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }}">
+                                <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
+                            
+                            </div>
 
-                                {% endif %}
+                        {% endfor %}
 
-                            {% endfor %}
+                    {% endif %}
 
-                        {% endif %}
+                    {% if sunShade != "" and sunShade.length > 0 %}
 
-                        {% if soilType != "" and soilType.length > 0 %}
+                        {% assign sunArray = sunShade | split: ', ' %}
 
-                            {% assign soilArray = soilType | split: ', ' %}
+                        {% for item in sunArray %}
 
-                            {% for item in soilArray %}
+                            <div class="icon-div">
+                            
+                                <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' '}}">
+                                <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
+                            
+                            </div>
+
+                        {% endfor %}
+
+                    {% endif %}
+
+                    {% if uses != "" and uses.length > 0 %}
+
+                        {% assign usesArray = uses | split: ', ' %}
+
+                        {% for item in usesArray %}
+
+                            {% if item contains '-' %}
 
                                 <div class="icon-div">
                                 
@@ -417,88 +453,550 @@ type: product
                                 
                                 </div>
 
-                            {% endfor %}
-
-                        {% endif %}
-
-                        {% if sunShade != "" and sunShade.length > 0 %}
-
-                            {% assign sunArray = sunShade | split: ', ' %}
-
-                            {% for item in sunArray %}
+                            {% else %}
 
                                 <div class="icon-div">
                                 
-                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' '}}">
-                                    <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
+                                    <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item }}">
+                                    <span class="tooltip">{{ item | capitalize }}</span>
                                 
                                 </div>
 
-                            {% endfor %}
+                            {% endif %}
 
-                        {% endif %}
+                        {% endfor %}
 
-                        {% if uses != "" and uses.length > 0 %}
-
-                            {% assign usesArray = uses | split: ', ' %}
-
-                            {% for item in usesArray %}
-
-                                {% if item contains '-' %}
-
-                                    <div class="icon-div">
-                                    
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item | replace: '-', ' ' }}">
-                                        <span class="tooltip">{{ item | replace: '-', ' ' | capitalize }}</span>
-                                    
-                                    </div>
-
-                                {% else %}
-
-                                    <div class="icon-div">
-                                    
-                                        <img class="tree-icon" src="https://images.leafland.co.nz/images/icons/tree-attributes/{{ item }}.svg" width="40" height="40" alt="{{ item }}">
-                                        <span class="tooltip">{{ item | capitalize }}</span>
-                                    
-                                    </div>
-
-                                {% endif %}
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                    </div>
+                    {% endif %}
 
                 </div>
 
-                <div id="tree-info-right">
+            </div>
 
-                    <div id="tree-shape">
+            <div id="tree-info-right">
 
-                        <p class="paragraph-title">10 Year Size</p>
+                <div id="tree-shape">
 
-                        <img id="tree-shape-image" src="https://images.leafland.co.nz/{{ treeShape }}" width="300" height="300" alt="tree shape">
-                        
-                        <div id="height-div">
-                            <span class="arrow" id="arrow-up">↑</span>
-                            <span id="height-span">{{tree.height}}</span>
-                            <span class="arrow" id="arrow-down">↓</span>
-                        </div>
+                    <p class="paragraph-title">10 Year Size</p>
 
-                        <div id="width-div">
-                            <span class="arrow" id="arrow-left">←</span>
-                            <span id="width-span">{{tree.width}}</span>
-                            <span class="arrow" id="arrow-right">→</span>
-                        </div>
+                    <img id="tree-shape-image" src="https://images.leafland.co.nz/{{ treeShape }}" width="300" height="300" alt="tree shape">
+                    
+                    <div id="height-div">
+                        <span class="arrow" id="arrow-up">↑</span>
+                        <span id="height-span">{{tree.height}}</span>
+                        <span class="arrow" id="arrow-down">↓</span>
+                    </div>
 
+                    <div id="width-div">
+                        <span class="arrow" id="arrow-left">←</span>
+                        <span id="width-span">{{tree.width}}</span>
+                        <span class="arrow" id="arrow-right">→</span>
                     </div>
 
                 </div>
 
             </div>
 
+        </div>
 
+    </div>
+
+    <button id="show-tree-information-table">Show information table</button>
+
+    <div id="tree-information-table" style="display:none">
+
+            <div>
+
+                <p><span class="tree-information-table-heading">Botanical Name:</span> {{ botanicalName }}</p>
+
+            </div>
+
+            <div>
+
+                <p><span class="tree-information-table-heading">Common Name:</span> {{ commonName }}</p>
+
+            </div>
+
+            <div>
+
+                <p><span class="tree-information-table-heading">Description:</span> {{ description }}</p>
+
+            </div>
+
+            <div>
+
+                {% if height != "" and height.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = height | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Height:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Height:</span> {{ height }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if width != "" and width.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = width | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Width:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Width:</span> {{ width }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if uses != "" and uses.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = uses | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Uses:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Uses:</span> {{ uses }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if tolerates != "" and tolerates.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = tolerates | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Tolerates:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Tolerates:</span> {{ tolerates }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if soilType != "" and soilType.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = soilType | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Soil Type:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Soil Type:</span> {{ soilType }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if sunShade != "" and sunShade.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = sunShade | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ sunShade }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = winterFoliage | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ winterFoliage }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if origin != "" and origin.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = origin | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Origin:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Origin:</span> {{ origin }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if types != "" and types.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = types | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Types:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Types:</span> {{ types }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if floweringSeason != "" and floweringSeason.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = floweringSeason | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Flowering Season:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Flowering Season:</span> {{ floweringSeason }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if flowerColor != "" and flowerColor.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = flowerColor | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Flower Colour:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Flower Colour:</span> {{ flowerColor }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if autumnColor != "" and autumnColor.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = autumnColor | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ autumnColor }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if foliageColor != "" and foliageColor.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = foliageColor | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ foliageColor }}</p>
+
+                {% endif %}
+
+            </div>
+
+            <div>
+
+                {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
+
+                {% assign newString = "" %}
+
+                {% assign newArray = fruitingSeason | split: ', ' %}
+
+                {% for item in newArray %}
+
+                {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                {% if newString == "" %}
+
+                {% assign newString = newString | append: newItem %}
+
+                {% else %}
+
+                {% assign newString = newString | append: ", " | append: newItem %}
+
+                {% endif %}
+
+                {% endfor %}
+
+                <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ newString }}</p>
+
+                {% else %}
+
+                <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ fruitingSeason }}</p>
+
+                {% endif %}
+
+            </div>
 
     </div>
 
