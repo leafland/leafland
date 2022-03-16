@@ -10940,6 +10940,39 @@
      ]
    },
    {
+    "botanicalName":"Citrus mandarin 'Okitsu'",
+    "commonName":"Mandarin",
+    "url":"citrus-mandarin-okitsu-mandarin",
+    "mainImage":"citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin.jpg",
+    "description":"A seedless, large-fruiting variety. Fruit has easy to peel skin and easy to separate segments. Fruits in autumn. Self-fertile.",
+    "uses":"attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"edible",
+    "height":"2m",
+    "width":"1m",
+    "floweringSeason":"summer",
+    "flowerColor":"white",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"autumn",
+    "treeShape":"images/icons/tree-shapes/citrus/citrus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin-fruit.jpg",
+        "alt":"citrus mandarin okitsu mandarin fruit"
+      },
+      {
+        "src":"images/trees/citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin-fruiting.jpg",
+        "alt":"citrus mandarin okitsu mandarin fruiting"
+      }
+    ]
+  },
+   {
      "botanicalName":"Citrus mandarin 'Satsuma'",
      "commonName":"Mandarin",
      "url":"citrus-mandarin-satsuma-mandarin",
