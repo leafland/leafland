@@ -10651,11 +10651,40 @@
     ]
   },
   {
+   "botanicalName":"Citrus lemon 'Eureka'",
+   "commonName":"Lemon",
+   "url":"citrus-lemon-eureka-lemon",
+   "mainImage":"citrus-lemon-eureka-lemon/citrus-lemon-eureka-lemon.jpg",
+   "description":"An almost thornless variety that produces juicy, highly-sour fruit with very few seeds. Eureka is a true lemon so will have a more sour taste than hybrid lemons. Once established, will fruit all year round. Produces the biggest crops in spring and summer. Scented white flowers throughout the year. Self-fertile.",
+   "uses":"attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"summer, spring, autumn, winter",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"summer, spring, autumn, winter",
+   "treeShape":"images/icons/tree-shapes/citrus/citrus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/citrus-lemon-eureka-lemon/citrus-lemon-eureka-lemon-fruit.jpg",
+       "alt":"citrus lemon eureka lemon fruit"
+     }
+   ]
+ },
+  {
     "botanicalName":"Citrus lemon 'Meyer'",
     "commonName":"Lemon",
     "url":"citrus-lemon-meyer-lemon",
     "mainImage":"citrus-lemon-meyer-lemon/citrus-lemon-meyer-lemon.jpg",
-    "description":"The most popular lemon for home gardens. Cold-hardy and quick to commence fruiting. Has a low-spreading growth habit which will make a large bush. Large fruit have a high juice content with lower acid level than other varieties. Excellent for containers. Once established, will fruit all year round. Scented white flowers throughout summer. Self-fertile.",
+    "description":"The most popular lemon for home gardens. Cold-hardy and quick to commence fruiting. Has a low-spreading growth habit which will make a large bush. Large fruit have a high juice content with lower acid level than other varieties. Meyer is a hybrid lemon so will have a sweeter taste than true lemons. Excellent for containers. Once established, will fruit all year round. Produces the biggest crops in autumn and winter. Scented white flowers throughout the year. Self-fertile.",
     "uses":"attracts-bees",
     "tolerates":"",
     "soilType":"",
@@ -10665,7 +10694,7 @@
     "types":"edible",
     "height":"3m",
     "width":"2m",
-    "floweringSeason":"summer",
+    "floweringSeason":"summer, spring, autumn, winter",
     "flowerColor":"white",
     "autumnColor":"",
     "foliageColor":"green",
@@ -10684,11 +10713,40 @@
     ]
   },
   {
+   "botanicalName":"Citrus lemon 'Villa Franca'",
+   "commonName":"Lemon",
+   "url":"citrus-lemon-villa-franca-lemon",
+   "mainImage":"citrus-lemon-villa-franca-lemon/citrus-lemon-villa-franca-lemon.jpg",
+   "description":"An almost thornless variety that produces juicy, highly-sour fruit with very few seeds. Villa Franca is a true lemon so will have a more sour taste than hybrid lemons. Fruit ripens in winter. Scented white flowers throughout summer. Self-fertile.",
+   "uses":"attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"summer",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"winter",
+   "treeShape":"images/icons/tree-shapes/citrus/citrus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/citrus-lemon-villa-franca-lemon/citrus-lemon-villa-franca-lemon-fruit.jpg",
+       "alt":"citrus lemon villa franca lemon fruit"
+     }
+   ]
+ },
+  {
     "botanicalName":"Citrus lemon 'Yen Ben'",
     "commonName":"Lemon",
     "url":"citrus-lemon-yen-ben-lemon",
     "mainImage":"citrus-lemon-yen-ben-lemon/citrus-lemon-yen-ben-lemon.jpg",
-    "description":"This is an improved version of Lisbon lemon with a compact growth habit. The large, oval fruits are tangy and considered excellent for culinary use. Fruit ripens in mid to late-winter. One of the hardiest lemons. Scented white flowers throughout summer. Self-fertile.",
+    "description":"This is an improved version of Lisbon lemon with a compact growth habit. Yen Ben is a true lemon so will have a more sour taste than hybrid lemons. The large, oval fruits are tangy and considered excellent for culinary use. Fruit ripens in mid to late-winter. One of the hardiest lemons. Scented white flowers throughout summer. Self-fertile.",
     "uses":"attracts-bees",
     "tolerates":"",
     "soilType":"",
