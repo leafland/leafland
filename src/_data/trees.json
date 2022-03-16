@@ -13868,7 +13868,7 @@
      "origin":"exotic",
      "types":"conifer",
      "height":"10m",
-     "width":"7m",
+     "width":"5m",
      "floweringSeason":"",
      "flowerColor":"",
      "autumnColor":"",
@@ -13891,6 +13891,35 @@
        }
      ]
    },
+   {
+    "botanicalName":"Cupressus x leylandii \"Naylor's Blue\"",
+    "commonName":"Leyland Cypress",
+    "url":"cupressus-x-leylandii-naylors-blue-leyland-cypress",
+    "mainImage":"cupressus-x-leylandii-naylors-blue-leyland-cypress/cupressus-x-leylandii-naylors-blue-leyland-cypress.jpg",
+    "description":"Has attractive blue-green foliage. Great for hedging and screening.",
+    "uses":"hedging-and-screening",
+    "tolerates":"coastal",
+    "soilType":"clay-soils, dry-soils",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"conifer",
+    "height":"10m",
+    "width":"5m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green, blue",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/cupressus/cupressus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/cupressus-x-leylandii-naylors-blue-leyland-cypress/cupressus-x-leylandii-naylors-blue-leyland-cypress-tree.jpg",
+        "alt":"cupressus x leylandii naylors blue leyland cypress tree"
+      }
+    ]
+  },
    {
      "botanicalName":"Cupressus x leylandii 'Stapehill'",
      "commonName":"Leyland Cypress",
@@ -13934,7 +13963,7 @@
      "origin":"exotic",
      "types":"conifer",
      "height":"10m",
-     "width":"7m",
+     "width":"5m",
      "floweringSeason":"",
      "flowerColor":"",
      "autumnColor":"",
