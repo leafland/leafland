@@ -15755,6 +15755,35 @@
     ]
   },
   {
+   "botanicalName":"Feijoa 'Kākāriki'",
+   "commonName":"",
+   "url":"feijoa-kakariki",
+   "mainImage":"feijoa-kakariki/feijoa-kakariki.jpg",
+   "description":"Produces large and very sweet fruit. Partially self-fertile, but better crops when planted with any other feijoa variety. Harvest in early to mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
+   "uses":"attracts-bees, hedging-and-screening",
+   "tolerates":"coastal, windy",
+   "soilType":"clay-soils, poor-draining-soils, dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"2m",
+   "width":"2m",
+   "floweringSeason":"spring, summer",
+   "flowerColor":"red",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"autumn",
+   "treeShape":"images/icons/tree-shapes/feijoa/feijoa-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/feijoa-kakariki/feijoa-kakariki-flower.jpg",
+       "alt":"feijoa kakariki flower"
+     }
+   ]
+ },
+  {
     "botanicalName":"Feijoa 'Mammoth'",
     "commonName":"",
     "url":"feijoa-mammoth",
