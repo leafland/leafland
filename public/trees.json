@@ -15060,6 +15060,51 @@
     ]
   },
   {
+   "botanicalName":"Eucryphia cordifolia",
+   "commonName":"Ulmo",
+   "url":"eucryphia-cordifolia-ulmo",
+   "mainImage":"eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo.jpg",
+   "description":"A broad, columnar grower. Beautiful white flowers from late-summer into autumn.",
+   "uses":"attracts-bees",
+   "tolerates":"coastal, light-frosts, heavy-frosts",
+   "soilType":"",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"10m",
+   "width":"5m",
+   "floweringSeason":"summer, autumn",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/eucryphia/eucryphia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo-flower.jpg",
+       "alt":"eucryphia cordifolia ulmo flower"
+     },
+     {
+       "src":"images/trees/eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo-flowering.jpg",
+       "alt":"eucryphia cordifolia ulmo flowering"
+     },
+     {
+       "src":"images/trees/eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo-flowers.jpg",
+       "alt":"eucryphia cordifolia ulmo flowers"
+     },
+     {
+       "src":"images/trees/eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo-foliage.jpg",
+       "alt":"eucryphia cordifolia ulmo foliage"
+     },
+     {
+       "src":"images/trees/eucryphia-cordifolia-ulmo/eucryphia-cordifolia-ulmo-flowers-insect.jpg",
+       "alt":"eucryphia cordifolia ulmo flowers insect"
+     }
+   ]
+ },
+  {
     "botanicalName":"Fagus sylvatica",
     "commonName":"European Beech",
     "url":"fagus-sylvatica-european-beech",
