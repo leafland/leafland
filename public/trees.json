@@ -8377,6 +8377,39 @@
     ]
   },
   {
+   "botanicalName":"Camellia \"Kramer's Supreme\"",
+   "commonName":"Japonica Camellia",
+   "url":"camellia-kramers-supreme-japonica-camellia",
+   "mainImage":"camellia-kramers-supreme-japonica-camellia/camellia-kramers-supreme-japonica-camellia.jpg",
+   "description":"Deep-red buds open to magnificent, peony-like, rosy-red flowers with a delightful fragrance. The blooms create a dazzling contrast against the glossy, dark-green foliage, brightening lightly-shaded settings. Flowers from early to late-winter. Stunning in woodland borders and foundation plantings, or as a hedge.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"winter",
+   "flowerColor":"red",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/camellia/camellia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/camellia-kramers-supreme-japonica-camellia/camellia-kramers-supreme-japonica-camellia-flower.jpg",
+       "alt":"camellia kramers supreme japonica camellia flower"
+     },
+     {
+       "src":"images/trees/camellia-kramers-supreme-japonica-camellia/camellia-kramers-supreme-japonica-camellia-single-flower.jpg",
+       "alt":"camellia kramers supreme japonica camellia single flower"
+     }
+   ]
+ },
+  {
     "botanicalName":"Camellia 'Les Jury'",
     "commonName":"Hybrid Camellia",
     "url":"camellia-les-jury-hybrid-camellia",
@@ -9973,6 +10006,47 @@
       }
     ]
   },
+  {
+   "botanicalName":"Cercis canadensis 'Silver Lining'",
+   "commonName":"Eastern Redbud",
+   "url":"cercis-canadensis-silver-lining-eastern-redbud",
+   "mainImage":"cercis-canadensis-silver-lining-eastern-redbud/cercis-canadensis-silver-lining-eastern-redbud.jpg",
+   "description":"Has variegated green and white leaves. Yellow autumn leaves. Bare branches in spring are smothered in rose-pink flowers.",
+   "uses":"small-garden",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink",
+   "autumnColor":"yellow",
+   "foliageColor":"green, white",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/cercis/cercis-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/cercis-canadensis-silver-lining-eastern-redbud/cercis-canadensis-silver-lining-eastern-redbud-flowers.jpg",
+       "alt":"cercis canadensis silver lining eastern redbud flowers"
+     },
+     {
+       "src":"images/trees/cercis-canadensis-silver-lining-eastern-redbud/cercis-canadensis-silver-lining-eastern-redbud-flowering.jpg",
+       "alt":"cercis canadensis silver lining eastern redbud flowering"
+     },
+     {
+       "src":"images/trees/cercis-canadensis-silver-lining-eastern-redbud/cercis-canadensis-silver-lining-eastern-redbud-leaf.jpg",
+       "alt":"cercis canadensis silver lining eastern redbud leaf"
+     },
+     {
+       "src":"images/trees/cercis-canadensis-silver-lining-eastern-redbud/cercis-canadensis-silver-lining-eastern-redbud-summer.jpg",
+       "alt":"cercis canadensis silver lining eastern redbud summer"
+     }
+   ]
+ },
   {
     "botanicalName":"Cercis canadensis var. texensis 'Texas White'",
     "commonName":"Texas Redbud",
