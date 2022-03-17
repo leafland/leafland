@@ -20560,6 +20560,35 @@
     ]
   },
   {
+   "botanicalName":"Leptospermum scoparium 'Coral Candy'",
+   "commonName":"Mānuka",
+   "url":"leptospermum-scoparium-coral-candy-manuka",
+   "mainImage":"leptospermum-scoparium-coral-candy-manuka/leptospermum-scoparium-coral-candy-manuka.jpg",
+   "description":"A beautiful display of double, red-pink flowers in spring and summer.",
+   "uses":"hedging-and-screening, small-garden, attracts-bees",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"native",
+   "types":"",
+   "height":"2m",
+   "width":"1m",
+   "floweringSeason":"spring, summer",
+   "flowerColor":"red, pink",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/leptospermum/leptospermum-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/leptospermum-scoparium-coral-candy-manuka/leptospermum-scoparium-coral-candy-manuka-flowers.jpg",
+       "alt":"leptospermum scoparium coral-candy manuka flowers"
+     }
+   ]
+ },
+  {
     "botanicalName":"Leptospermum scoparium 'Electric Red'",
     "commonName":"Mānuka",
     "url":"leptospermum-scoparium-electric-red-manuka",
