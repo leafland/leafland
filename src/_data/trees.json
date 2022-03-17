@@ -20440,6 +20440,39 @@
       }
     ]
   },
+  {
+    "botanicalName":"Laurus nobilis 'Tuscan Tower'",
+    "commonName":"Sweet Bay, Bay Laurel",
+    "url":"laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel",
+    "mainImage":"laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel.jpg",
+    "description":"Also known as Laurus nobilis 'Flavour Master'. Tuscan Tower is a columnar-growing selection of bay tree. Great for narrow spaces. A famous tree from the Mediterranean with leathery, dark-green leaves, used for flavouring food. Very amenable to pruning and shaping into any form. Can make a dense, aromatic hedge. Excellent for coastal gardens.",
+    "uses":"hedging-and-screening, small-garden, topiary, narrow-sites",
+    "tolerates":"coastal, windy",
+    "soilType":"dry-soils",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"",
+    "height":"4m",
+    "width":"2m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/laurus/laurus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel-foliage.jpg",
+        "alt":"laurus nobilis tuscan tower sweet bay bay laurel foliage"
+      },
+      {
+        "src":"images/trees/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel-field.jpg",
+        "alt":"laurus nobilis tuscan tower sweet bay bay laurel field"
+      }
+    ]
+  },
    {
      "botanicalName":"Leptospermum nitidum 'Copper Sheen'",
      "commonName":"Shiny Tea Tree",
