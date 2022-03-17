@@ -20586,6 +20586,35 @@
      ]
    },
    {
+    "botanicalName":"Leptospermum scoparium 'Kiwi'",
+    "commonName":"Mānuka",
+    "url":"leptospermum-scoparium-kiwi-manuka",
+    "mainImage":"leptospermum-scoparium-kiwi-manuka/leptospermum-scoparium-kiwi-manuka.jpg",
+    "description":"A beautiful display of single, pink flowers in spring and summer. Has purple-green foliage.",
+    "uses":"hedging-and-screening, small-garden, attracts-bees",
+    "tolerates":"coastal, windy",
+    "soilType":"dry-soils",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"native",
+    "types":"",
+    "height":"1m",
+    "width":"1m",
+    "floweringSeason":"spring, summer",
+    "flowerColor":"pink",
+    "autumnColor":"",
+    "foliageColor":"green, purple",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/leptospermum/leptospermum-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/leptospermum-scoparium-kiwi-manuka/leptospermum-scoparium-kiwi-manuka-flower.jpg",
+        "alt":"leptospermum scoparium kiwi manuka flower"
+      }
+    ]
+  },
+   {
      "botanicalName":"Leptospermum scoparium 'Red Damask'",
      "commonName":"Mānuka",
      "url":"leptospermum-scoparium-red-damask-manuka",
