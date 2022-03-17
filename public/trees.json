@@ -23038,6 +23038,47 @@
     ]
   },
   {
+   "botanicalName":"Magnolia grandiflora 'Russet'",
+   "commonName":"Evergreen Magnolia",
+   "url":"magnolia-grandiflora-russet-evergreen-magnolia",
+   "mainImage":"magnolia-grandiflora-russet-evergreen-magnolia/magnolia-grandiflora-russet-evergreen-magnolia.jpg",
+   "description":"Has a compact, narrow growth habit. Handsome, large, glossy-green leaves are heavily-russeted with felt underneath. Large, lemon-scented, cream-white flowers from spring through autumn. Prefers moist soil.",
+   "uses":"street",
+   "tolerates":"coastal, windy",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"8m",
+   "width":"4m",
+   "floweringSeason":"spring, summer, autumn",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green, brown, orange",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/magnolia-grandiflora-russet-evergreen-magnolia/magnolia-grandiflora-russet-evergreen-magnolia-flower.jpg",
+       "alt":"magnolia grandiflora russet evergreen magnolia flower"
+     },
+     {
+       "src":"images/trees/magnolia-grandiflora-russet-evergreen-magnolia/magnolia-grandiflora-russet-evergreen-magnolia-foliage.jpg",
+       "alt":"magnolia grandiflora russet evergreen magnolia foliage"
+     },
+     {
+       "src":"images/trees/magnolia-grandiflora-russet-evergreen-magnolia/magnolia-grandiflora-russet-evergreen-magnolia-leaves.jpg",
+       "alt":"magnolia grandiflora russet evergreen magnolia leaves"
+     },
+     {
+       "src":"images/trees/magnolia-grandiflora-russet-evergreen-magnolia/magnolia-grandiflora-russet-evergreen-magnolia-mature-tree.jpg",
+       "alt":"magnolia grandiflora russet evergreen magnolia mature tree"
+     }
+   ]
+ },
+  {
     "botanicalName":"Magnolia grandiflora 'Teddy Bear'",
     "commonName":"Evergreen Magnolia",
     "url":"magnolia-grandiflora-teddy-bear-evergreen-magnolia",
