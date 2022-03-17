@@ -16126,6 +16126,64 @@
     ]
   },
   {
+   "botanicalName":"Fig 'French Sugar'",
+   "commonName":"",
+   "url":"fig-french-sugar",
+   "mainImage":"fig-french-sugar/fig-french-sugar.jpg",
+   "description":"Produces fruit with green-brown skin and sweet amber-pink flesh. Light first crop in summer with second main crop in autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
+   "uses":"",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"summer, autumn",
+   "treeShape":"images/icons/tree-shapes/fig/fig-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/fig-french-sugar/fig-french-sugar-fruit.jpg",
+       "alt":"fig french sugar fruit"
+     }
+   ]
+ },
+ {
+   "botanicalName":"Fig 'Lesa'",
+   "commonName":"",
+   "url":"fig-lesa",
+   "mainImage":"fig-lesa/fig-lesa.jpg",
+   "description":"Produces fruit with green-yellow skin and pink, sweet, and juicy flesh. Light first crop in summer with second main crop in autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
+   "uses":"",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"summer, autumn",
+   "treeShape":"images/icons/tree-shapes/fig/fig-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/fig-lesa/fig-lesa-fruit.jpg",
+       "alt":"fig lesa fruit"
+     }
+   ]
+ },
+  {
     "botanicalName":"Fig 'Mrs Williams'",
     "commonName":"",
     "url":"fig-mrs-williams",
@@ -18425,6 +18483,39 @@
       }
     ]
   },
+  {
+   "botanicalName":"Guava 'Red Cherry'",
+   "commonName":"",
+   "url":"guava-red-cherry",
+   "mainImage":"guava-red-cherry/guava-red-cherry.jpg",
+   "description":"White flowers in spring followed by sweet, tangy, and red fruit in mid-autumn. Will tolerate light-frosts once established. Can be trimmed into a hedge or screen. Self-fertile.",
+   "uses":"hedging-and-screening",
+   "tolerates":"light-frosts",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"spring",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"autumn",
+   "treeShape":"images/icons/tree-shapes/guava/guava-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/guava-red-cherry/guava-red-cherry-fruit.jpg",
+       "alt":"guava red cherry fruit"
+     },
+     {
+       "src":"images/trees/guava-red-cherry/guava-red-cherry-fruiting.jpg",
+       "alt":"guava red cherry fruiting"
+     }
+   ]
+ },
   {
     "botanicalName":"Hedycarya arborea",
     "commonName":"Porokaiwhiri, Pigeonwood",
