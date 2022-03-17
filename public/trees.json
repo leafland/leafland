@@ -19583,6 +19583,47 @@
     ]
   },
   {
+   "botanicalName":"Kunzea robusta",
+   "commonName":"Kānuka, White Tea-tree",
+   "url":"kunzea-robusta-kanuka-white-tea-tree",
+   "mainImage":"kunzea-robusta-kanuka-white-tea-tree/kunzea-robusta-kanuka-white-tea-tree.jpg",
+   "description":"Small, narrow, dark-green, aromatic, soft leaves and sprays of white flowers glisten on the bushes in early-summer. Very tough, tolerating frosts, drought, and poor soils. Excellent for screening or sheltering more tender plants. Attracts bees.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"windy, drought, light-frosts",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"native",
+   "types":"",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"summer",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/kunzea/kunzea-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/kunzea-robusta-kanuka-white-tea-tree/kunzea-robusta-kanuka-white-tea-tree-branch.jpg",
+       "alt":"kunzea robusta kanuka white tea tree branch"
+     },
+     {
+       "src":"images/trees/kunzea-robusta-kanuka-white-tea-tree/kunzea-robusta-kanuka-white-tea-tree-flowering.jpg",
+       "alt":"kunzea robusta kanuka white tea tree flowering"
+     },
+     {
+       "src":"images/trees/kunzea-robusta-kanuka-white-tea-tree/kunzea-robusta-kanuka-white-tea-tree-flowers.jpg",
+       "alt":"kunzea robusta kanuka white tea tree flowers"
+     },
+     {
+       "src":"images/trees/kunzea-robusta-kanuka-white-tea-tree/kunzea-robusta-kanuka-white-tea-tree-foliage.jpg",
+       "alt":"kunzea robusta kanuka white tea tree foliage"
+     }
+   ]
+ },
+  {
     "botanicalName":"Laburnum alpinum 'Pendulum'",
     "commonName":"Weeping Scotch Laburnum",
     "url":"laburnum-alpinum-pendulum-weeping-scotch-laburnum",
@@ -20051,6 +20092,35 @@
       }
     ]
   },
+  {
+   "botanicalName":"Lagerstroemia 'Tango'",
+   "commonName":"Crepe Myrtle",
+   "url":"lagerstroemia-tango-crepe-myrtle",
+   "mainImage":"lagerstroemia-tango-crepe-myrtle/lagerstroemia-tango-crepe-myrtle.jpg",
+   "description":"A dwarf crepe myrtle with purple flowers in summer. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Will handle moderate winds.",
+   "uses":"street, small-garden",
+   "tolerates":"windy",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"1m",
+   "width":"0.5m",
+   "floweringSeason":"summer",
+   "flowerColor":"purple",
+   "autumnColor":"yellow, red, orange",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/lagerstroemia/lagerstroemia-dwarf.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/lagerstroemia-tango-crepe-myrtle/lagerstroemia-tango-crepe-myrtle-flowering.jpg",
+       "alt":"lagerstroemia tango crepe myrtle flowering"
+     }
+   ]
+ },
   {
     "botanicalName":"Lagerstroemia 'Townhouse'",
     "commonName":"Crepe Myrtle",
