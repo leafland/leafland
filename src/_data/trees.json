@@ -18516,6 +18516,64 @@
       }
     ]
   },
+  {
+    "botanicalName":"Hazelnut 'Barcelona'",
+    "commonName":"",
+    "url":"hazelnut-barcelona",
+    "mainImage":"hazelnut-barcelona/hazelnut-barcelona.jpg",
+    "description":"A vigorous grower and good producer of large nuts. Harvest nuts in late-summer to early-autumn. Pollinators include Butler, Merveille de Bowillier, and Tonda di Giffoni.",
+    "uses":"",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"edible",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"summer, autumn",
+    "treeShape":"images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/hazelnut-barcelona/hazelnut-barcelona-nuts.jpg",
+        "alt":"hazelnut barcelona nuts"
+      }
+    ]
+  },
+  {
+    "botanicalName":"Hazelnut 'Whiteheart'",
+    "commonName":"",
+    "url":"hazelnut-whiteheart",
+    "mainImage":"hazelnut-whiteheart/hazelnut-whiteheart.jpg",
+    "description":"Produces good crops of small, round nuts that are used mainly for processing. Harvest nuts in late-summer to early-autumn. Pollinators include Alexandra, Auckland No. 2, and Merveille de Bollwiller.",
+    "uses":"",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"edible",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"summer, autumn",
+    "treeShape":"images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/hazelnut-whiteheart/hazelnut-whiteheart-nuts.jpg",
+        "alt":"hazelnut whiteheart nuts"
+      }
+    ]
+  },
    {
      "botanicalName":"Hedycarya arborea",
      "commonName":"Porokaiwhiri, Pigeonwood",
