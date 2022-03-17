@@ -20408,6 +20408,39 @@
     ]
   },
   {
+   "botanicalName":"Laurus nobilis f. angustifolia",
+   "commonName":"Willow-leaved Bay Laurel",
+   "url":"laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel",
+   "mainImage":"laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel/laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel.jpg",
+   "description":"Differs from Laurus nobilis in that it has narrow, willow-like leaves. A famous tree from the Mediterranean. Forms a compact, pyramidal shape with leathery, dark-green leaves, used for flavouring food. Very amenable to pruning and shaping into any form. Can make a dense, aromatic hedge. Excellent for coastal gardens.",
+   "uses":"hedging-and-screening, small-garden, topiary",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/laurus/laurus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel/laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel-park.jpg",
+       "alt":"laurus nobilis f angustifolia willow leaved bay laurel park"
+     },
+     {
+       "src":"images/trees/laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel/laurus-nobilis-f-angustifolia-willow-leaved-bay-laurel-foliage.jpg",
+       "alt":"laurus nobilis f angustifolia willow leaved bay laurel foliage"
+     }
+   ]
+ },
+  {
     "botanicalName":"Leptospermum nitidum 'Copper Sheen'",
     "commonName":"Shiny Tea Tree",
     "url":"leptospermum-nitidum-copper-sheen-shiny-tea-tree",
