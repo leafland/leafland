@@ -22612,6 +22612,47 @@
     ]
   },
   {
+   "botanicalName":"Magnolia 'Forest Pink'",
+   "commonName":"",
+   "url":"magnolia-forest-pink",
+   "mainImage":"magnolia-forest-pink/magnolia-forest-pink.jpg",
+   "description":"Also known as Magnolia \"Forrest's Pink\" and Magnolia denudata \"Forrest's Pink\". In spring, produces lightly-scented, goblet-shaped flowers that are deep-pink at the base fading to pink-white near the top.",
+   "uses":"",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"5m",
+   "width":"4m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink, white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/magnolia/magnolia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/magnolia-forest-pink/magnolia-forest-pink-flower-opening.jpg",
+       "alt":"magnolia forest pink flower opening"
+     },
+     {
+       "src":"images/trees/magnolia-forest-pink/magnolia-forest-pink-flowering.jpg",
+       "alt":"magnolia forest pink flowering"
+     },
+     {
+       "src":"images/trees/magnolia-forest-pink/magnolia-forest-pink-flowers-opening.jpg",
+       "alt":"magnolia forest pink flowers opening"
+     },
+     {
+       "src":"images/trees/magnolia-forest-pink/magnolia-forest-pink-flowers.jpg",
+       "alt":"magnolia forest pink flowers"
+     }
+   ]
+ },
+  {
     "botanicalName":"Magnolia 'Galaxy'",
     "commonName":"",
     "url":"magnolia-galaxy",
