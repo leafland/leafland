@@ -21690,8 +21690,8 @@
      "botanicalName":"Macadamia 'GT 205'",
      "commonName":"",
      "url":"macadamia-gt-205",
-     "mainImage":"macadamia-gt-205/macadamia-gt-205.jpg",
-     "description":"Bred to withstand cooler and wetter growing conditions. Produces from an early age. Nuts are borne from summer to autumn. Nuts with a high oil content. Excellent for roasting. Partially self-fertile, but produces better crops when planted with another macadamia variety.",
+     "mainImage":"macadamia-gt-205/macadamia-gt-205.jpeg",
+     "description":"Bred to withstand cooler and wetter growing conditions. Produces from an early age. Nuts will drop in mid-spring to early-summer, but can be hand-picked before that. Heavy yields of nuts with a high oil content. Excellent for roasting. Needs cross-pollination with another macadamia variety.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -21705,13 +21705,45 @@
      "flowerColor":"",
      "autumnColor":"",
      "foliageColor":"green",
-     "fruitingSeason":"summer, autumn",
+     "fruitingSeason":"winter, spring, summer",
      "treeShape":"images/icons/tree-shapes/macadamia/macadamia-general.svg",
      "relatedTrees":[],
      "images":[
-       
+      {
+        "src":"images/trees/macadamia-gt-205/macadamia-gt-205-nuts.jpeg",
+        "alt":"macadamia gt 205 nuts"
+      }
      ]
    },
+   {
+    "botanicalName":"Macadamia 'GT 207'",
+    "commonName":"",
+    "url":"macadamia-gt-207",
+    "mainImage":"macadamia-gt-207/macadamia-gt-207.jpeg",
+    "description":"A very good home garden nut tree. High oil content, and it will drop ripe nuts, making harvesting easier. Early-season nuts drop in mid-autumn to early-winter. Needs cross-pollination with another macadamia variety.",
+    "uses":"",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"edible",
+    "height":"5m",
+    "width":"4m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"autumn, winter",
+    "treeShape":"images/icons/tree-shapes/macadamia/macadamia-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/macadamia-gt-207/macadamia-gt-207-nuts.jpeg",
+        "alt":"macadamia gt 207 nuts"
+      }
+    ]
+  },
    {
      "botanicalName":"Magnolia acuminata 'Koban Dori'",
      "commonName":"Cucumber Tree, Cucumber Magnolia",
