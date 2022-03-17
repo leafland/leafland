@@ -27229,6 +27229,35 @@
     ]
   },
   {
+   "botanicalName":"Michelia 'Snow Dove'",
+   "commonName":"",
+   "url":"michelia-snow-dove",
+   "mainImage":"michelia-snow-dove/michelia-snow-dove.jpg",
+   "description":"Ice-white flowers with a deliciously sweet and spicy fragrance. Flowers profusely in spring.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"spring",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/michelia/michelia-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/michelia-snow-dove/michelia-snow-dove-foliage.jpg",
+       "alt":"michelia snow dove foliage"
+     }
+   ]
+ },
+  {
     "botanicalName":"Michelia 'Star Bright'",
     "commonName":"",
     "url":"michelia-star-bright",
