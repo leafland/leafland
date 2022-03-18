@@ -30365,35 +30365,6 @@
     ]
   },
   {
-   "botanicalName":"Pittosporum tenuifolium 'Little Gem'",
-   "commonName":"Kōhūhū, Black Matipo",
-   "url":"pittosporum-tenuifolium-little-gem-kohuhu-black-matipo",
-   "mainImage":"pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo.jpeg",
-   "description":"Dwarf grower that is ideal for topiary, low-hedging, and borders. Compact form with lime-green leaves. Hardy, tolerating most conditions except extreme wet and dry. Purple spring flowers scent the air with their sweet fragrance.",
-   "uses":"hedging-and-screening, attracts-bees",
-   "tolerates":"coastal, windy",
-   "soilType":"dry-soils",
-   "sunShade":"",
-   "winterFoliage":"evergreen",
-   "origin":"native",
-   "types":"",
-   "height":"0.5m",
-   "width":"0.5m",
-   "floweringSeason":"spring",
-   "flowerColor":"purple",
-   "autumnColor":"",
-   "foliageColor":"green",
-   "fruitingSeason":"",
-   "treeShape":"images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg",
-   "relatedTrees":[],
-   "images":[
-     {
-       "src":"images/trees/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo-foliage.jpeg",
-       "alt":"pittosporum tenuifolium golf ball kohuhu black matipo foliage"
-     }
-   ]
- },
-  {
     "botanicalName":"Pittosporum tenuifolium 'Irish Luck'",
     "commonName":"Kōhūhū, Black Matipo",
     "url":"pittosporum-tenuifolium-irish-luck-kohuhu-black-matipo",
@@ -30484,6 +30455,35 @@
       }
     ]
   },
+  {
+   "botanicalName":"Pittosporum tenuifolium 'Little Gem'",
+   "commonName":"Kōhūhū, Black Matipo",
+   "url":"pittosporum-tenuifolium-little-gem-kohuhu-black-matipo",
+   "mainImage":"pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo.jpeg",
+   "description":"Dwarf grower that is ideal for topiary, low-hedging, and borders. Compact form with lime-green leaves. Hardy, tolerating most conditions except extreme wet and dry. Purple spring flowers scent the air with their sweet fragrance.",
+   "uses":"hedging-and-screening, attracts-bees",
+   "tolerates":"coastal, windy",
+   "soilType":"dry-soils",
+   "sunShade":"",
+   "winterFoliage":"evergreen",
+   "origin":"native",
+   "types":"",
+   "height":"0.5m",
+   "width":"0.5m",
+   "floweringSeason":"spring",
+   "flowerColor":"purple",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/pittosporum/pittosporum-low-growing.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo-foliage.jpeg",
+       "alt":"pittosporum tenuifolium golf ball kohuhu black matipo foliage"
+     }
+   ]
+ },
   {
     "botanicalName":"Pittosporum tenuifolium 'Little Kiwi'",
     "commonName":"Kōhūhū, Black Matipo",
