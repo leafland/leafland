@@ -29660,6 +29660,55 @@
      ]
    },
    {
+    "botanicalName":"Picea abies",
+    "commonName":"Norway Spruce",
+    "url":"picea-abies-norway-spruce",
+    "mainImage":"picea-abies-norway-spruce/picea-abies-norway-spruce.jpg",
+    "description":"A pyramidal conifer with stiff branches when young. These become more graceful with age. Great for inland shelter-belts. Used extensively as a Christmas tree in Europe.",
+    "uses":"hedging-and-screening",
+    "tolerates":"windy, light-frosts, heavy-frosts",
+    "soilType":"",
+    "sunShade":"full-sun, part-shade",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"conifer",
+    "height":"10m",
+    "width":"4m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/picea/picea-tall.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-cones.jpg",
+        "alt":"picea abies norway spruce cones"
+      },
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-foliage.jpg",
+        "alt":"picea abies norway spruce foliage"
+      },
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-forest.jpg",
+        "alt":"picea abies norway spruce forest"
+      },
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-garden.jpg",
+        "alt":"picea abies norway spruce garden"
+      },
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-park.jpg",
+        "alt":"picea abies norway spruce park"
+      },
+      {
+        "src":"images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-snow.jpg",
+        "alt":"picea abies norway spruce snow"
+      }
+    ]
+  },
+   {
      "botanicalName":"Picea engelmannii subsp. mexicana",
      "commonName":"Mexican Spruce",
      "url":"picea-engelmannii-subsp-mexicana-mexican-spruce",
