@@ -8123,7 +8123,7 @@
     "commonName":"Sasanqua Camellia",
     "url":"camellia-crimson-king-sasanqua-camellia",
     "mainImage":"camellia-crimson-king-sasanqua-camellia/camellia-crimson-king-sasanqua-camellia.jpg",
-    "description":"Has large, single, crimson-red flowers from early-autumn to early-winter. Great for hedges and screens.",
+    "description":"Has large, single, pink-red flowers from early-autumn to early-winter. Great for hedges and screens.",
     "uses":"hedging-and-screening, attracts-bees",
     "tolerates":"",
     "soilType":"",
@@ -8134,7 +8134,7 @@
     "height":"3m",
     "width":"2m",
     "floweringSeason":"autumn, winter",
-    "flowerColor":"red",
+    "flowerColor":"red, pink",
     "autumnColor":"",
     "foliageColor":"green",
     "fruitingSeason":"",
@@ -27817,6 +27817,47 @@
        }
      ]
    },
+   {
+    "botanicalName":"Nerium oleander 'Madonna'",
+    "commonName":"Oleander",
+    "url":"nerium-oleander-madonna-oleander",
+    "mainImage":"nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander.jpg",
+    "description":"Produces clusters of beautiful, semi-double, white flowers in summer. Hardy to drought and will tolerate light-frosts. Great for hedging. All parts of this plant are toxic to animals and humans, although due to the bitter taste, poisoning is rare.",
+    "uses":"hedging-and-screening",
+    "tolerates":"drought, light-frosts, windy",
+    "soilType":"dry-soils",
+    "sunShade":"full-sun, part-shade",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"toxic-to-animals",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"summer",
+    "flowerColor":"white",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/nerium/nerium-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-flowering.jpg",
+        "alt":"nerium oleander madonna oleander flowering"
+      },
+      {
+        "src":"images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-flowers.jpg",
+        "alt":"nerium oleander madonna oleander flowers"
+      },
+      {
+        "src":"images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-hedge.jpg",
+        "alt":"nerium oleander madonna oleander hedge"
+      },
+      {
+        "src":"images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-new-flowers.jpg",
+        "alt":"nerium oleander madonna oleander new flowers"
+      }
+    ]
+  },
    {
      "botanicalName":"Nestegis cunninghamii",
      "commonName":"Maire, Black Maire",
