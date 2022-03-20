@@ -33464,15 +33464,80 @@
      ]
    },
    {
+    "botanicalName":"Prunus mume",
+    "commonName":"Japanese Apricot",
+    "url":"prunus-mume-japanese-apricot",
+    "mainImage":"prunus-mume-japanese-apricot/prunus-mume-japanese-apricot.jpg",
+    "description":"Produces flowers in mid-winter to early-spring that range in colour from white to dark-pink. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers.",
+    "uses":"attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"full-sun",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"spring, winter",
+    "flowerColor":"red, pink, white",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-flowering.jpg",
+        "alt":"prunus mume flowering japanese apricot flowering"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-garden.jpg",
+        "alt":"prunus mume flowering japanese apricot garden"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-pink-flower.jpg",
+        "alt":"prunus mume flowering japanese apricot pink flower"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-pink-flowering.jpg",
+        "alt":"prunus mume flowering japanese apricot pink flowering"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-pink-flowers.jpg",
+        "alt":"prunus mume flowering japanese apricot pink flowers"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-pink-white-flower.jpg",
+        "alt":"prunus mume flowering japanese apricot pink white flower"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-red-flower.jpg",
+        "alt":"prunus mume flowering japanese apricot red flower"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-white-flower.jpg",
+        "alt":"prunus mume flowering japanese apricot white flower"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-white-flowering.jpg",
+        "alt":"prunus mume flowering japanese apricot white flowering"
+      },
+      {
+        "src":"images/trees/prunus-mume-japanese-apricot/prunus-mume-japanese-apricot-white-flowers.jpg",
+        "alt":"prunus mume flowering japanese apricot white flowers"
+      }
+    ]
+  },
+   {
      "botanicalName":"Prunus mume 'The Geisha'",
-     "commonName":"Flowering Japanese Apricot",
-     "url":"prunus-mume-the-geisha-flowering-japanese-apricot",
-     "mainImage":"prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot.jpg",
-     "description":"Flowers from mid-winter to early-spring. Delightfully-fragrant, rose-pink, semi-double flowers with numerous central stamens appear on the bare branches.",
+     "commonName":"Japanese Apricot",
+     "url":"prunus-mume-the-geisha-japanese-apricot",
+     "mainImage":"prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot.jpg",
+     "description":"Flowers from mid-winter to early-spring. Delightfully-fragrant, rose-pink, semi-double flowers with numerous central stamens appear on the bare branches. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"",
-     "sunShade":"",
+     "sunShade":"full-sun",
      "winterFoliage":"deciduous",
      "origin":"exotic",
      "types":"",
@@ -33487,52 +33552,52 @@
      "relatedTrees":[],
      "images":[
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flower.jpeg",
-         "alt":"prunus mume the geisha flowering japanese apricot flower"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flower.jpeg",
+         "alt":"prunus mume the geisha japanese apricot flower"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowering-garden.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowering garden"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowering-garden.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowering garden"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowering-park.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowering park"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowering-park.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowering park"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowering.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowering"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowering.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowering"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowers-branches.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowers branches"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowers-branches.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowers branches"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowers-buds.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowers buds"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowers-buds.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowers buds"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-flowers.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot flowers"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowers.jpg",
+         "alt":"prunus mume the geisha japanese apricot flowers"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-spring-flowers.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot spring flowers"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-spring-flowers.jpg",
+         "alt":"prunus mume the geisha japanese apricot spring flowers"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-summer-foliage.jpeg",
-         "alt":"prunus mume the geisha flowering japanese apricot summer foliage"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-summer-foliage.jpeg",
+         "alt":"prunus mume the geisha japanese apricot summer foliage"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-summer-form.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot summer form"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-summer-form.jpg",
+         "alt":"prunus mume the geisha japanese apricot summer form"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowering-japanese-apricot-winter-flowers.jpg",
-         "alt":"prunus mume the geisha flowering japanese apricot winter flowers"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-winter-flowers.jpg",
+         "alt":"prunus mume the geisha japanese apricot winter flowers"
        },
        {
-         "src":"images/trees/prunus-mume-the-geisha-flowering-japanese-apricot/prunus-mume-the-geisha-flowers-on-branches.jpeg",
-         "alt":"prunus mume the geisha flowers on branches"
+         "src":"images/trees/prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot-flowers-on-branches.jpeg",
+         "alt":"prunus mume the geisha japanese apricot flowers on branches"
        }
      ]
    },

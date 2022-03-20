@@ -36,3 +36,9 @@
     from = "/trees/daphniphyllum-macropodum/"
     status = 301
     to = "/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/prunus-mume-the-geisha-flowering-japanese-apricot/"
+    status = 301
+    to = "/trees/prunus-mume-the-geisha-japanese-apricot/"
