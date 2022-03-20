@@ -31403,6 +31403,35 @@
     ]
   },
   {
+   "botanicalName":"Plum 'Black Doris/Billington'",
+   "commonName":"",
+   "url":"plum-black-doris-billington",
+   "mainImage":"plum-black-doris-billington/plum-black-doris-billington.jpg",
+   "description":"Double plum. White flowers in spring. See Plum 'Black Doris' and Plum 'Billington' for descriptions. First image is of Plum 'Black Doris', second is of Plum 'Billington'.",
+   "uses":"attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"edible",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"spring",
+   "flowerColor":"white",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"summer, autumn",
+   "treeShape":"images/icons/tree-shapes/plum/plum-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/plum-black-doris-billington/plum-black-doris-billington-plums.jpg",
+       "alt":"plum black doris billington plums"
+     }
+   ]
+ },
+  {
     "botanicalName":"Plum 'Burbank'",
     "commonName":"",
     "url":"plum-burbank",
