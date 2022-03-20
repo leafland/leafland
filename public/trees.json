@@ -32198,6 +32198,92 @@
     ]
   },
   {
+   "botanicalName":"Populus 'Chiba'",
+   "commonName":"Poplar",
+   "url":"populus-chiba-poplar",
+   "mainImage":"populus-chiba-poplar/populus-chiba-poplar.jpeg",
+   "description":"A cross between Populus maximowiczii and Populus nigra. Has a narrow, fastigiate form and is great for shelter belts. Resistant to poplar leaf rust. Yellow autumn leaves.",
+   "uses":"small-garden",
+   "tolerates":"windy, heavy-rainfall, light-frosts, heavy-frosts",
+   "soilType":"poor-draining-soils, clay-soils, sandy-soils, rocky-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"upright",
+   "height":"10m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"yellow",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/populus/populus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/populus-chiba-poplar/populus-chiba-poplar-autumn-field.jpeg",
+       "alt":"populus chiba poplar autumn field"
+     },
+     {
+       "src":"images/trees/populus-chiba-poplar/populus-chiba-poplar-autumn.jpeg",
+       "alt":"populus chiba poplar autumn"
+     },
+     {
+       "src":"images/trees/populus-chiba-poplar/populus-chiba-poplar-leaf.jpeg",
+       "alt":"populus chiba poplar leaf"
+     },
+     {
+       "src":"images/trees/populus-chiba-poplar/populus-chiba-poplar-row.jpeg",
+       "alt":"populus chiba poplar row"
+     },
+     {
+       "src":"images/trees/populus-chiba-poplar/populus-chiba-poplar-summer.jpeg",
+       "alt":"populus chiba poplar summer"
+     }
+   ]
+ },
+ {
+   "botanicalName":"Populus \"Crow's Nest\"",
+   "commonName":"Poplar",
+   "url":"populus-crows-nest-poplar",
+   "mainImage":"populus-crows-nest-poplar/populus-crows-nest-poplar.jpeg",
+   "description":"A cross between Populus euramericana and Populus nigra. Has a narrow, fastigiate form and is great for shelter belts. Resistant to poplar leaf rust. Yellow autumn leaves.",
+   "uses":"small-garden",
+   "tolerates":"windy, heavy-rainfall, light-frosts, heavy-frosts",
+   "soilType":"poor-draining-soils, clay-soils, sandy-soils, rocky-soils",
+   "sunShade":"full-sun, part-shade",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"upright",
+   "height":"10m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"yellow",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/populus/populus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/populus-crows-nest-poplar/populus-crows-nest-poplar-autumn.jpeg",
+       "alt":"populus crows nest poplar autumn"
+     },
+     {
+       "src":"images/trees/populus-crows-nest-poplar/populus-crows-nest-poplar-avenue.jpeg",
+       "alt":"populus crows nest poplar avenue"
+     },
+     {
+       "src":"images/trees/populus-crows-nest-poplar/populus-crows-nest-poplar-leaf.jpeg",
+       "alt":"populus crows nest poplar leaf"
+     },
+     {
+       "src":"images/trees/populus-crows-nest-poplar/populus-crows-nest-poplar-summer.jpeg",
+       "alt":"populus crows nest poplar summer"
+     }
+   ]
+ },
+  {
     "botanicalName":"Prumnopitys ferruginea",
     "commonName":"Miro, New Zealand Brown Pine",
     "url":"prumnopitys-ferruginea-miro-new-zealand-brown-pine",
