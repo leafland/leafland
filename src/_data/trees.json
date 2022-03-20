@@ -35345,7 +35345,7 @@
      "commonName":"Horopito, Pepper Tree",
      "url":"pseudowintera-colorata-horopito-pepper-tree",
      "mainImage":"pseudowintera-colorata-horopito-pepper-tree/pseudowintera-colorata-horopito-pepper-tree.jpg",
-     "description":"Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge. Tolerates dry conditions.",
+     "description":"Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
      "uses":"hedging-and-screening",
      "tolerates":"",
      "soilType":"",
@@ -35369,6 +35369,72 @@
        }
      ]
    },
+   {
+    "botanicalName":"Pseudowintera colorata 'Red Hot'",
+    "commonName":"Horopito, Pepper Tree",
+    "url":"pseudowintera-colorata-red-hot-horopito-pepper-tree",
+    "mainImage":"pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree.jpeg",
+    "description":"A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
+    "uses":"hedging-and-screening",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"native",
+    "types":"",
+    "height":"3m",
+    "width":"2m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"yellow, green, red",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/pseudowintera/pseudowintera-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree-foliage.jpeg",
+        "alt":"pseudowintera colorata red hot horopito pepper tree foliage"
+      },
+      {
+        "src":"images/trees/pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree-in-nursery.jpeg",
+        "alt":"pseudowintera colorata red hot horopito pepper tree in nursery"
+      }
+    ]
+  },
+  {
+    "botanicalName":"Pseudowintera colorata 'Red Leopard'",
+    "commonName":"Horopito, Pepper Tree",
+    "url":"pseudowintera-colorata-red-leopard-horopito-pepper-tree",
+    "mainImage":"pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree.jpeg",
+    "description":"A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
+    "uses":"hedging-and-screening",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"native",
+    "types":"",
+    "height":"3m",
+    "width":"2m",
+    "floweringSeason":"",
+    "flowerColor":"",
+    "autumnColor":"",
+    "foliageColor":"yellow, green, red",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/pseudowintera/pseudowintera-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree-foliage.jpeg",
+        "alt":"pseudowintera colorata red leopard horopito pepper tree foliage"
+      },
+      {
+        "src":"images/trees/pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree-in-nursery.jpeg",
+        "alt":"pseudowintera colorata red leopard horopito pepper tree in nursery"
+      }
+    ]
+  },
    {
      "botanicalName":"Pyrus betulifolia 'Autumn Leaves'",
      "commonName":"Birchleaf Pear",
