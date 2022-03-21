@@ -5883,6 +5883,35 @@
      ]
    },
    {
+    "botanicalName":"Apple 'Royal Gala/Golden Delicious'",
+    "commonName":"",
+    "url":"apple-royal-gala-golden-delicious",
+    "mainImage":"apple-royal-gala-golden-delicious/apple-royal-gala-golden-delicious.jpg",
+    "description":"Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Golden Delicious' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Golden Delicious'.",
+    "uses":"attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"edible",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"spring",
+    "flowerColor":"white, pink",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/apple-royal-gala-golden-delicious/apple-royal-gala-golden-delicious-apples.jpg",
+        "alt":"apple royal gala golden delicious apples"
+      }
+    ]
+  },
+   {
      "botanicalName":"Apple 'Wandin Glory'",
      "commonName":"",
      "url":"apple-wandin-glory",
