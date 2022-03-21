@@ -38149,12 +38149,69 @@
     ]
   },
   {
+   "botanicalName":"Taxodium distichum 'Cascade Falls'",
+   "commonName":"Swamp Cypress",
+   "url":"taxodium-distichum-cascade-falls-swamp-cypress",
+   "mainImage":"taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress.jpg",
+   "description":"Has soft-green, feathery spring leaves. Pendulous side branches. The leaves turn russet and gold in autumn and persist well into winter. Will grow in up to 0.6m depth of water, but will thrive in all marshy ground and ordinary garden soil as well.",
+   "uses":"",
+   "tolerates":"windy",
+   "soilType":"poor-draining-soils",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"weeping",
+   "height":"4m",
+   "width":"3m",
+   "floweringSeason":"",
+   "flowerColor":"",
+   "autumnColor":"yellow, red, orange",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/taxodium/taxodium-weeping.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-autumn.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress autumn"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-falling-foliage.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress falling foliage"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-foliage.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress foliage"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-garden.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress garden"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-mature-park.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress mature park"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-park.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress park"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-pond.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress pond"
+     },
+     {
+       "src":"images/trees/taxodium-distichum-cascade-falls-swamp-cypress/taxodium-distichum-cascade-falls-swamp-cypress-winter.jpg",
+       "alt":"taxodium distichum cascade falls swamp cypress winter"
+     }
+   ]
+ },
+  {
     "botanicalName":"Taxodium distichum 'McLaren Falls'",
     "commonName":"Swamp Cypress",
     "url":"taxodium-distichum-mclaren-falls-swamp-cypress",
     "mainImage":"taxodium-distichum-mclaren-falls-swamp-cypress/taxodium-distichum-mclaren-falls-swamp-cypress.jpg",
-    "description":"A beautiful tree. A selection discovered at McLaren falls in the Kaimai Ranges. Very tolerant of wet conditions. Pendulous side branches.",
-    "uses":"street",
+    "description":"A selection discovered at McLaren falls in the Kaimai Ranges. Has soft-green, feathery spring leaves. Pendulous side branches. The leaves turn russet and gold in autumn and persist well into winter. Will grow in up to 0.6m depth of water, but will thrive in all marshy ground and ordinary garden soil as well.",
+    "uses":"",
     "tolerates":"windy",
     "soilType":"poor-draining-soils",
     "sunShade":"",
@@ -38165,7 +38222,7 @@
     "width":"3m",
     "floweringSeason":"",
     "flowerColor":"",
-    "autumnColor":"yellow",
+    "autumnColor":"yellow, red, orange",
     "foliageColor":"green",
     "fruitingSeason":"",
     "treeShape":"images/icons/tree-shapes/taxodium/taxodium-weeping.svg",
