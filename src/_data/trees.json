@@ -39505,6 +39505,59 @@
      ]
    },
    {
+    "botanicalName":"Yucca gigantea",
+    "commonName":"Giant Yucca, Spineless Yucca",
+    "url":"yucca-gigantea-giant-yucca-spineless-yucca",
+    "mainImage":"yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca.jpg",
+    "description":"Also known as Yucca guatemalensis and Yucca elephantipes. Has green, stiff, hard, spinless, dagger-like leaves that can grow up to 1.2m in length. Produces clusters of beautiful white flowers in summer. These are edible and are used in a range of dishes from meat stews to salads. Can be grown outside as a specimen tree or inside as a houseplant.",
+    "uses":"",
+    "tolerates":"drought",
+    "soilType":"dry-soils",
+    "sunShade":"full-sun",
+    "winterFoliage":"evergreen",
+    "origin":"exotic",
+    "types":"",
+    "height":"4m",
+    "width":"3m",
+    "floweringSeason":"summer",
+    "flowerColor":"white",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/yucca/yucca-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-flowering.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca flowering"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-flowers.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca flowers"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-foliage.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca foliage"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-garden.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca garden"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-pots.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca pots"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-white-flowers.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca white flowers"
+      },
+      {
+        "src":"images/trees/yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca-yard.jpg",
+        "alt":"yucca gigantea giant yucca spineless yucca yard"
+      }
+    ]
+  },
+   {
      "botanicalName":"Zelkova serrata",
      "commonName":"Japanese Elm",
      "url":"zelkova-serrata-japanese-elm",
