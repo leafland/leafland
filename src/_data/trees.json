@@ -26419,6 +26419,47 @@
      ]
    },
    {
+    "botanicalName":"Metrosideros excelsa 'Moon Maiden'",
+    "commonName":"Pōhutukawa",
+    "url":"metrosideros-excelsa-moon-maiden-pohutukawa",
+    "mainImage":"metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa.jpg",
+    "description":"A rare form of Metrosideros excelsa with yellow flowers from early to mid-summer. Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, grey-green leaves. Can be pruned as hedges and screens or left as a specimen.",
+    "uses":"street, paddocks, shade, attracts-bees, attracts-birds",
+    "tolerates":"coastal, windy, drought",
+    "soilType":"clay-soils, poor-draining-soils, dry-soils",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"native",
+    "types":"",
+    "height":"8m",
+    "width":"8m",
+    "floweringSeason":"summer",
+    "flowerColor":"yellow",
+    "autumnColor":"",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/metrosideros/metrosideros-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa-flower.jpg",
+        "alt":"metrosideros excelsa moon maiden pohutukawa flower"
+      },
+      {
+        "src":"images/trees/metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa-flowering.jpg",
+        "alt":"metrosideros excelsa moon maiden pohutukawa flowering"
+      },
+      {
+        "src":"images/trees/metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa-mass-flowering.jpg",
+        "alt":"metrosideros excelsa moon maiden pohutukawa mass flowering"
+      },
+      {
+        "src":"images/trees/metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa-mature.jpg",
+        "alt":"metrosideros excelsa moon maiden pohutukawa mature"
+      }
+    ]
+  },
+   {
      "botanicalName":"Metrosideros excelsa 'Scarlet Pimpernel'",
      "commonName":"Pōhutukawa",
      "url":"metrosideros-excelsa-scarlet-pimpernel-pohutukawa",
