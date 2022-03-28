@@ -164,6 +164,7 @@ main label {
 
 #order-totals p .info-pill {
   font-size: var(--font-size-3);
+  white-space: normal;
 }
 
 .region-select {
