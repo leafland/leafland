@@ -556,6 +556,10 @@ body.main-menu-open #main-menu-overlay {
     color: var(--secondary-background);
     background: var(--primary-text);
   }
+
+  input[type="checkbox"]:hover {
+    cursor: pointer;
+  }
 }
 
 @media (min-width: 650px) {

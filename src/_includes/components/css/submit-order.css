@@ -166,6 +166,10 @@ main label {
   font-size: var(--font-size-3);
 }
 
+.region-select {
+  margin-top: 3rem;
+}
+
 .region-select,
 .checkbox-field {
   margin-bottom: 3rem;
@@ -189,6 +193,64 @@ main label {
   gap: 0.5rem;
 }
 
+details > summary:focus {
+  outline: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 100%;
+  max-width: 300px;
+}
+
+details > div {
+  background: var(--secondary-background);
+  border-radius: 8px;
+  margin-top: 1rem;
+  padding: 2rem;
+}
+
+summary > span {
+  font-size: var(--font-size-3);
+}
+
+#grid-content-right .right-icon {
+  display: block;
+  transition: transform 0.3s var(--default-animation-easing);
+  width: 25px;
+  height: 25px;
+}
+
+#grid-content-right .down-icon {
+  display: none;
+  width: 25px;
+  height: 25px;
+}
+
+details[open] > summary .right-icon {
+  transform: rotate(90deg);
+}
+
+details p {
+  font-size: var(--font-size-2);
+}
+
+details p:not(:last-child) {
+  margin-bottom: 2rem;
+}
+
+details b {
+  text-transform: uppercase;
+}
+
 @media (hover: hover) and (pointer: fine) {
   button.send-order:hover {
     background: var(--primary-text);
@@ -201,6 +263,10 @@ main label {
 
   .tree-name a .common-name:hover {
     color: var(--primary-text);
+  }
+
+  details > summary:hover {
+    cursor: pointer;
   }
 }
 
