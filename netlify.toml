@@ -42,3 +42,9 @@
     from = "/trees/prunus-mume-the-geisha-flowering-japanese-apricot/"
     status = 301
     to = "/trees/prunus-mume-the-geisha-japanese-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/rhopalostylis-sapida-var-chathamica-nikau/"
+    status = 301
+    to = "/trees/rhopalostylis-sapida-var-chathamica-pitt-island-nikau-chatham-island-nikau/"
