@@ -17,9 +17,7 @@ let orderTotal = document.querySelector("#order-total");
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
 async function getFreightData() {
-  freightData = await fetch(
-    "/public/freight.json"
-  )
+  freightData = await fetch("/public/freight.json")
     .then((response) => response.json())
     .then((data) => data)
     .catch((error) => {});
@@ -148,7 +146,7 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://images.leafland.co.nz/images/trees/${tree.mainImage}?tr=w-300,q-75,pr-true,f-auto`;
+    treeImage.src = `https://leafland.imgix.net/images/trees/${tree.mainImage}?auto=format&w=300&q=75`;
     treeImage.alt = `${tree.url
       .replace(/\/trees\//g, "")
       .replace(/\//g, "")

@@ -196,7 +196,7 @@ async function displayResults(results) {
     let imageDiv = document.createElement("div");
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://images.leafland.co.nz/images/trees/${results[i].mainImage}?tr=w-500,q-75,pr-true,f-auto`;
+    resultImage.src = `https://leafland.imgix.net/images/trees/${results[i].mainImage}?auto=format&w=500&q=74`;
     resultImage.width = "500";
     resultImage.height = "500";
     resultImage.loading = "lazy";

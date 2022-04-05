@@ -95,15 +95,13 @@ async function createTreeImages() {
   mainImg.addEventListener("click", () => {
     imageLightboxInner.innerHTML = `<img src='${
       mainImg.src.split("?")[0]
-    }?tr=w-1000,q-75,pr-true,f-auto' height="1000" width="1000" alt="${
+    }?auto=format&w=1000&q=75' height="1000" width="1000" alt="${
       mainImg.alt
-    }" srcset="${
+    }" srcset="${mainImg.src.split("?")[0]}?auto=format&w=300&q=75 300w, ${
       mainImg.src.split("?")[0]
-    }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+    }?auto=format&w=500&q=75 500w, ${
       mainImg.src.split("?")[0]
-    }?tr=w-500,q-75,pr-true,f-auto 500w, ${
-      mainImg.src.split("?")[0]
-    }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
+    }?auto=format&w=700&q=75 700w" sizes="1000px">`;
     document.body.classList.add("lightbox-open");
   });
 
@@ -120,7 +118,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
+          }?auto=format&w=500&q=75" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -130,15 +128,15 @@ async function createTreeImages() {
         mainImage.addEventListener("click", () => {
           imageLightboxInner.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+          }?auto=format&w=1000&q=75" height="1000" width="1000" alt="${
             thumbImage.alt
           }" srcset="${
             thumbImage.src.split("?")[0]
-          }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+          }?auto=format&w=300&q=75 300w, ${
             thumbImage.src.split("?")[0]
-          }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+          }?auto=format&w=500&q=75 500w, ${
             thumbImage.src.split("?")[0]
-          }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
+          }?auto=format&w=700&q=75 700w" sizes="1000px">`;
           document.body.classList.add("lightbox-open");
         });
       }
@@ -160,7 +158,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
+          }?auto=format&w=500&q=75" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -169,15 +167,15 @@ async function createTreeImages() {
           mainImage.addEventListener("click", () => {
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
-            }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            }?auto=format&w=1000&q=75" height="1000" width="1000" alt="${
               thumbImage.alt
             }" srcset="${
               thumbImage.src.split("?")[0]
-            }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+            }?auto=format&w=300&q=75 300w, ${
               thumbImage.src.split("?")[0]
-            }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+            }?auto=format&w=500&q=75 500w, ${
               thumbImage.src.split("?")[0]
-            }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
+            }?auto=format&w=700&q=75 700w" sizes="1000px">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);
@@ -200,7 +198,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
-          }?tr=w-500,q-75,pr-true,f-auto" height="500" width="500" alt="${
+          }?auto=format&w=500&q=75" height="500" width="500" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -209,15 +207,15 @@ async function createTreeImages() {
           mainImage.addEventListener("click", () => {
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
-            }?tr=w-1000,q-75,pr-true,f-auto" height="1000" width="1000" alt="${
+            }?auto=format&w=1000&q=75" height="1000" width="1000" alt="${
               thumbImage.alt
             }" srcset="${
               thumbImage.src.split("?")[0]
-            }?tr=w-300,q-75,pr-true,f-auto 300w, ${
+            }?auto=format&w=300&q=75 300w, ${
               thumbImage.src.split("?")[0]
-            }?tr=w-500,q-75,pr-true,f-auto 500w, ${
+            }?auto=format&w=500&q=75 500w, ${
               thumbImage.src.split("?")[0]
-            }?tr=w-700w,q-75,pr-true,f-auto 700w" sizes="1000px">`;
+            }?auto=format&w=700&q=75 700w" sizes="1000px">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);

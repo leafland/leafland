@@ -501,7 +501,7 @@ async function populatePage(
 
         let treeImage = document.createElement("img");
 
-        treeImage.src = `https://images.leafland.co.nz/images/trees/${treeDataSubset[i].mainImage}?tr=w-500,q-75,pr-true,f-auto`;
+        treeImage.src = `https://leafland.imgix.net/images/trees/${treeDataSubset[i].mainImage}?auto=format&w=500&q=75`;
         treeImage.width = "500";
         treeImage.height = "500";
         treeImage.alt = treeDataSubset[i].url.replace(/-/g, " ");

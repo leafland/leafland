@@ -19,18 +19,18 @@
 
 
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-500,q-75,pr-true,f-auto">
+      <link rel="preload" as="image" href="https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=500&q=75">
     {% elsif type == 'tree-finder' %}
       {% for tree in trees %}
         {% if forloop.index0 < 3 %}
-          <link rel="preload" as="image" href="https://images.leafland.co.nz/images/trees/{{ tree.mainImage }}?tr=w-400,q-75,pr-true,f-auto">
+          <link rel="preload" as="image" href="https://leafland.imgix.net/images/trees/{{ tree.mainImage }}?auto=format&w=400&q=75">
         {% else %}
           {% break %}
         {% endif %}
       {% endfor %}
     {% elsif type == 'index' %}
 
-      <link rel="preload" as="image" href="https://images.leafland.co.nz/images/home/prunus-yedoensis-awanui-massey-university.jpg?tr=w-2000,q-75,pr-true,f-auto" imagesrcset="https://images.leafland.co.nz/images/home/prunus-yedoensis-awanui-massey-university.jpg?tr=w-600,q-75,pr-true,f-auto 600w, https://images.leafland.co.nz/images/home/prunus-yedoensis-awanui-massey-university.jpg?tr=w-900,q-75,pr-true,f-auto 900w, https://images.leafland.co.nz/images/home/prunus-yedoensis-awanui-massey-university.jpg?tr=w-1200,q-75,pr-true,f-auto 1200w, https://images.leafland.co.nz/images/home/prunus-yedoensis-awanui-massey-university.jpg?tr=w-1500,q-75,pr-true,f-auto 1500w" imagesizes="100vw">
+      <link rel="preload" as="image" href="https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=2000,q-75,pr-true,f-auto" imagesrcset="https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=600&q=75 600w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=900&q=75 900w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=1200&q=75 1200w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=1500&q=75 1500w" imagesizes="100vw">
 
     {% endif %}
 
@@ -131,7 +131,7 @@
             "name": "{% if commonName == "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
             "botanicalName": "{{ botanicalName | escape}}",
             {% unless commonName == "" %}"commonName": "{{ commonName | escape}}",{% endunless %}
-            "image": "https://images.leafland.co.nz/images/trees/{{ mainImage }}?tr=w-1500,q-75,pr-true,f-auto",
+            "image": "https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=1500&q=75",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "height": "{{ height }}",
