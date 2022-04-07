@@ -404,6 +404,7 @@ body.lightbox-open #image-lightbox {
   width:100%;
   background: var(--primary-text);
   color: var(--secondary-background);
+  z-index: 2
 }
 
 #add-to-order-overlay{
