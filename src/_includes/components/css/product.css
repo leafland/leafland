@@ -394,18 +394,27 @@ body.lightbox-open #image-lightbox {
   justify-self: end;
 }
 
-#add-to-order-button{
+#add-to-order-button-div{
+  display: grid;
+  width: 100%;
   position: fixed;
-  bottom: 0px;
+  bottom: 10px;
   left: 0px;
-  border-radius: 0px;
+  z-index: 2;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: 1fr;
+  padding: 0 1rem;
+}
+
+#add-to-order-button{
   border-color: var(--primary-text);
-  border-top: solid 2px var(--secondary-background);
-  font-size:2rem;
+  /* border-top: solid 2px var(--secondary-background); */
+  font-size:var(--font-size-4);
   width:100%;
   background: var(--primary-text);
   color: var(--secondary-background);
-  z-index: 2
+  max-width:400px;
 }
 
 #add-to-order-overlay{
@@ -751,11 +760,10 @@ details b {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
-  /* #add-to-order-button:hover{
-    background: transparent;
+  #add-to-order-button:hover{
+    background: var(--primary-background);
     color:var(--primary-text);
-    border-color: var(--primary-text);
-  } */
+  }
 }
 
 @media (min-width: 300px) {
@@ -783,6 +791,10 @@ details b {
   .tree-content {
     padding: 2rem;
   }
+
+  /* #add-to-order-button{
+    font-size: var(--font-size-4);
+  } */
 }
 
 @media (min-width: 800px) {
@@ -819,6 +831,10 @@ details b {
   #tree-shape {
     grid-gap: 3rem;
   }
+
+  /* #add-to-order-button{
+    font-size: var(--font-size-5);
+  } */
 }
 
 @media (min-width: 1350px) {
