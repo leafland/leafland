@@ -24,6 +24,7 @@ main h2 {
 
 #tree-info-right {
   align-self: center;
+  justify-self: center;
 }
 
 #grid-content-right {
@@ -35,21 +36,22 @@ main h2 {
 
 #success-message {
   opacity: 0;
+  visibility: hidden;
   transition: all 0.5s var(--default-animation-easing);
-  position: fixed;
-  top: 0;
+  /* position: fixed; */
+  /* top: 0;
   left: 0;
-  z-index: -1;
+  z-index: -1; */
   display: grid;
-  width: 100%;
+  /* width: 100%; */
 }
 
 #success-message p {
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
   font-weight: 700;
-  padding: 1rem;
+  /* padding: 1rem;
   border-bottom: 2px solid var(--primary-text);
-  text-align: center;
+  text-align: center;*/
   font-size: var(--font-size-2);
 }
 
@@ -90,7 +92,7 @@ main h2 {
   grid-template-columns: 1fr;
   align-items: start;
   grid-gap: 3rem;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 
 #grade-sizes-heading {
@@ -392,6 +394,62 @@ body.lightbox-open #image-lightbox {
   justify-self: end;
 }
 
+#add-to-order-button-div{
+  display: grid;
+  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  left: 0px;
+  z-index: 2;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: 1fr;
+  padding: 0 1rem;
+}
+
+#add-to-order-button{
+  border-color: var(--primary-text);
+  /* border-top: solid 2px var(--secondary-background); */
+  font-size:var(--font-size-4);
+  width:100%;
+  background: var(--primary-text);
+  color: var(--secondary-background);
+  max-width:400px;
+}
+
+#add-to-order-overlay{
+  opacity: 0;
+  visibility: hidden;
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  background: var(--primary-background);
+  transition: all 0.5s var(--default-animation-easing);
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-gap: 3rem;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+body.add-to-order-open #add-to-order-overlay {
+  opacity: 1;
+  z-index: 8;
+  visibility: visible;
+}
+
+#close-add-to-order{
+  cursor: pointer;
+  border-color: var(--primary-text);
+  align-self: center;
+  justify-self: end;
+}
+
 #tree-info {
   display: grid;
   grid-template-columns: 1fr;
@@ -399,9 +457,9 @@ body.lightbox-open #image-lightbox {
   grid-gap: 5rem;
   background: var(--secondary-background);
   border-radius: 8px;
-  padding: 2rem;
-  grid-column-start: 1;
-  grid-column-end: 2;
+  /* padding: 2rem; */
+  /* grid-column-start: 1;
+  grid-column-end: 2; */
 }
 
 /* #tree-info-heading {
@@ -410,13 +468,14 @@ body.lightbox-open #image-lightbox {
 
 #tree-shape {
   display: grid;
-  grid-template-rows: auto 300px auto;
-  grid-template-columns: auto auto;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr auto;
   grid-gap: 1rem;
   align-items: center;
   justify-items: center;
   /* max-width: 200px; */
   justify-self: center;
+  /* margin-top: 5rem */
 }
 
 #tree-shape p {
@@ -428,8 +487,8 @@ body.lightbox-open #image-lightbox {
 
 #tree-shape-image {
   border: none;
-  width: 300px;
-  height: 300px;
+  max-width: 300px;
+  max-height: 300px;
   grid-column-start: 1;
   grid-row-start: 2;
 }
@@ -441,6 +500,7 @@ body.lightbox-open #image-lightbox {
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
+  max-height:300px;
   align-items: center;
 }
 
@@ -451,6 +511,7 @@ body.lightbox-open #image-lightbox {
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  max-width:300px
 }
 
 #width-span,
@@ -486,6 +547,10 @@ body.loggedIn #retail-price {
 #order-block {
   background: var(--secondary-background);
   border-radius: 8px;
+  padding: 2rem;
+  max-width: 50rem;
+  justify-self: center;
+  align-self: center;
 }
 
 #related-trees {
@@ -646,10 +711,10 @@ details b {
 }
 
 #tree-information-table {
-  margin-top: 1rem;
-  background: var(--secondary-background);
+  margin-top: 2rem;
+  /* background: var(--secondary-background); */
   border-radius: 8px;
-  padding: 2rem;
+  /* padding: 2rem; */
   display: none;
   gap: 1rem;
 }
@@ -690,6 +755,15 @@ details b {
   details > summary:hover {
     cursor: pointer;
   }
+
+  #close-add-to-order:hover{
+    background: var(--primary-text);
+    color: var(--secondary-background);
+  }
+  #add-to-order-button:hover{
+    background: var(--primary-background);
+    color:var(--primary-text);
+  }
 }
 
 @media (min-width: 300px) {
@@ -717,6 +791,10 @@ details b {
   .tree-content {
     padding: 2rem;
   }
+
+  /* #add-to-order-button{
+    font-size: var(--font-size-4);
+  } */
 }
 
 @media (min-width: 800px) {
@@ -741,18 +819,22 @@ details b {
   div#grid-content {
     grid-template-columns: repeat(2, 1fr);
   }
-  #tree-info {
+  /* #tree-info {
     grid-column-end: 3;
     grid-template-columns: 1fr 600px;
     grid-gap: 3rem;
     justify-items: center;
-  }
+  } */
   #tree-info-left {
     gap: 3rem;
   }
   #tree-shape {
     grid-gap: 3rem;
   }
+
+  /* #add-to-order-button{
+    font-size: var(--font-size-5);
+  } */
 }
 
 @media (min-width: 1350px) {

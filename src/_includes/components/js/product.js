@@ -596,14 +596,24 @@ function addEventListeners() {
 
     successMessage.style.setProperty("opacity", "1");
     successMessage.style.setProperty("visibility", "visible");
-    successMessage.style.setProperty("z-index", "10");
 
     setTimeout(() => {
       successMessage.style.setProperty("opacity", "0");
       successMessage.style.setProperty("visibility", "hidden");
-      successMessage.style.setProperty("z-index", "-1");
     }, 4000);
   });
+
+  document
+    .querySelector("#add-to-order-button")
+    .addEventListener("click", () => {
+      document.body.classList.add("add-to-order-open");
+    });
+
+  document
+    .querySelector("#close-add-to-order")
+    .addEventListener("click", () => {
+      document.body.classList.remove("add-to-order-open");
+    });
 
   gradeSizeSelect.addEventListener("change", (event) => {
     heightSelect.innerHTML = "";
