@@ -1,0 +1,114 @@
+<div id="add-to-order-overlay">
+
+    <button id="close-add-to-order">Close</button>
+
+    <div id="order-block">
+
+        <h3 id="grade-sizes-heading">Add to order</h3>
+
+        <div id="grade-sizes">
+
+            <div id="grade-select">
+
+                <div>
+                    <label for="grade-size">Grade Size</label>
+                    <select name="grade-size" id="grade-size-select">
+
+                        <option selected disabled hidden>Select grade</option>
+                    
+                    </select>
+                </div>
+
+                <div>
+                    <label for="height">Average height</label>
+                    <select disabled name="height" id="height-select">
+                    
+                        <option selected disabled hidden>Select height</option>
+                    
+                    </select>
+                </div>
+
+                <div>
+                    <label for="standard-height">Standard height</label>
+                    <select disabled name="standard-height" id="standard-height-select">
+                    
+                        <option selected disabled hidden>Select height</option>
+                    
+                    </select>
+                </div>
+
+                <div>
+                    <label for="quantity">Quantity</label>
+                    <input disabled name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
+
+
+                </div>
+
+                <button disabled id="add-product">Add to order</button>
+
+            </div>
+
+            <div id="stock-values">
+
+                <p>
+
+                    <span class="stock-value-title">Quantity in stock:</span> <span class="info-pill" id="quantity-field">0</span>
+                
+                </p>
+                
+                <p>
+                
+                    <span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>
+                
+                </p>
+            
+            
+            </div>
+
+        </div>
+
+        <p id="coming-on">Grades coming on: <span id="coming-on-field" class="info-pill">None</span></p>
+
+        <div id="details-section">
+
+            <details>
+
+                <summary>
+                
+                    <span>Definitions</span>
+
+                    <img src="https://leafland.imgix.net/images/icons/interface/right.svg" class="right-icon" width="25" height="25">
+                    <img src="https://leafland.imgix.net/images/icons/interface/down.svg" class="down-icon" width="25" height="25">
+                    
+                </summary>
+
+                <p>The <b>grade size</b> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
+
+                <p>The <b>average height</b> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree, averaged across the trees we have in this grade.</p>
+
+                <p>The <b>standard height</b> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted). If you don't want a standard tree, select 'None' as the standard height.</p>
+
+                <p>Grades that are <b>coming on</b> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
+
+            </details>
+
+            <details>
+
+                <summary>
+                
+                    <span>Disclaimer</span>
+
+                    <img src="https://leafland.imgix.net/images/icons/interface/right.svg" class="right-icon" width="25" height="25">
+                    <img src="https://leafland.imgix.net/images/icons/interface/down.svg" class="down-icon" width="25" height="25">
+                
+                </summary>
+
+                <p>Photos are for reference only and do not necessarily reflect the final product delivered. Prices subject to change without notice. Actual stock quantity may differ. Heights are given in good faith but we give no guarantee as to the height of the final product. If you would like a current photo of any of the grades, please get in touch.</p>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</div>

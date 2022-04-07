@@ -605,6 +605,18 @@ function addEventListeners() {
     }, 4000);
   });
 
+  document
+    .querySelector("#add-to-order-button")
+    .addEventListener("click", () => {
+      document.body.classList.add("add-to-order-open");
+    });
+
+  document
+    .querySelector("#close-add-to-order")
+    .addEventListener("click", () => {
+      document.body.classList.remove("add-to-order-open");
+    });
+
   gradeSizeSelect.addEventListener("change", (event) => {
     heightSelect.innerHTML = "";
     standardHeightSelect.innerHTML = "";
