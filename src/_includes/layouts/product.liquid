@@ -348,509 +348,509 @@ type: product
 
             </div>
 
+            <button id="show-tree-information-table">Show information table</button>
+
+            <div id="tree-information-table" style="display:none">
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Botanical Name:</span> {{ botanicalName }}</p>
+
+                    </div>
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Common Name:</span> {{ commonName }}</p>
+
+                    </div>
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Description:</span> {{ description }}</p>
+
+                    </div>
+
+                    <div>
+
+                        {% if height != "" and height.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = height | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Height:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Height:</span> {{ height }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if width != "" and width.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = width | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Width:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Width:</span> {{ width }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if uses != "" and uses.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = uses | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Uses:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Uses:</span> {{ uses }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if tolerates != "" and tolerates.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = tolerates | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Tolerates:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Tolerates:</span> {{ tolerates }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if soilType != "" and soilType.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = soilType | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Soil Type:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Soil Type:</span> {{ soilType }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if sunShade != "" and sunShade.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = sunShade | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ sunShade }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = winterFoliage | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ winterFoliage }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if origin != "" and origin.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = origin | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Origin:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Origin:</span> {{ origin }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if types != "" and types.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = types | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Types:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Types:</span> {{ types }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if floweringSeason != "" and floweringSeason.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = floweringSeason | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Flowering Season:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Flowering Season:</span> {{ floweringSeason }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if flowerColor != "" and flowerColor.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = flowerColor | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Flower Colour:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Flower Colour:</span> {{ flowerColor }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if autumnColor != "" and autumnColor.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = autumnColor | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ autumnColor }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if foliageColor != "" and foliageColor.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = foliageColor | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ foliageColor }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+                    <div>
+
+                        {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
+
+                        {% assign newString = "" %}
+
+                        {% assign newArray = fruitingSeason | split: ', ' %}
+
+                        {% for item in newArray %}
+
+                        {% assign newItem = item | replace: "-", " " | capitalize %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ newString }}</p>
+
+                        {% else %}
+
+                        <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ fruitingSeason }}</p>
+
+                        {% endif %}
+
+                    </div>
+
+            </div>
+
         </div>
 
         
-
-    </div>
-
-    <button id="show-tree-information-table">Show information table</button>
-
-    <div id="tree-information-table" style="display:none">
-
-            <div>
-
-                <p><span class="tree-information-table-heading">Botanical Name:</span> {{ botanicalName }}</p>
-
-            </div>
-
-            <div>
-
-                <p><span class="tree-information-table-heading">Common Name:</span> {{ commonName }}</p>
-
-            </div>
-
-            <div>
-
-                <p><span class="tree-information-table-heading">Description:</span> {{ description }}</p>
-
-            </div>
-
-            <div>
-
-                {% if height != "" and height.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = height | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Height:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Height:</span> {{ height }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if width != "" and width.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = width | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Width:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Width:</span> {{ width }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if uses != "" and uses.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = uses | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Uses:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Uses:</span> {{ uses }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if tolerates != "" and tolerates.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = tolerates | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Tolerates:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Tolerates:</span> {{ tolerates }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if soilType != "" and soilType.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = soilType | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Soil Type:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Soil Type:</span> {{ soilType }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if sunShade != "" and sunShade.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = sunShade | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ sunShade }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if winterFoliage != "" and winterFoliage.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = winterFoliage | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ winterFoliage }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if origin != "" and origin.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = origin | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Origin:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Origin:</span> {{ origin }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if types != "" and types.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = types | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Types:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Types:</span> {{ types }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if floweringSeason != "" and floweringSeason.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = floweringSeason | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Flowering Season:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Flowering Season:</span> {{ floweringSeason }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if flowerColor != "" and flowerColor.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = flowerColor | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Flower Colour:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Flower Colour:</span> {{ flowerColor }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if autumnColor != "" and autumnColor.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = autumnColor | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ autumnColor }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if foliageColor != "" and foliageColor.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = foliageColor | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ foliageColor }}</p>
-
-                {% endif %}
-
-            </div>
-
-            <div>
-
-                {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
-
-                {% assign newString = "" %}
-
-                {% assign newArray = fruitingSeason | split: ', ' %}
-
-                {% for item in newArray %}
-
-                {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                {% if newString == "" %}
-
-                {% assign newString = newString | append: newItem %}
-
-                {% else %}
-
-                {% assign newString = newString | append: ", " | append: newItem %}
-
-                {% endif %}
-
-                {% endfor %}
-
-                <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ newString }}</p>
-
-                {% else %}
-
-                <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ fruitingSeason }}</p>
-
-                {% endif %}
-
-            </div>
 
     </div>
 
@@ -882,11 +882,7 @@ type: product
     </div>
     {% endif %}
 
-    <div id="success-message">
-        <p id="success-message-text" class="paragraph-title"></p>
-    </div>
-
     <button id="add-to-order-button">Add to order</button>
-    
+
 </div>
 

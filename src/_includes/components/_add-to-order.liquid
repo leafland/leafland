@@ -4,7 +4,7 @@
 
     <div id="order-block">
 
-        <h3 id="grade-sizes-heading">Add to order</h3>
+        {% comment %} <h3 id="grade-sizes-heading">Add to order</h3> {% endcomment %}
 
         <div id="grade-sizes">
 
@@ -46,6 +46,10 @@
 
                 <button disabled id="add-product">Add to order</button>
 
+            </div>
+
+            <div id="success-message">
+                <p id="success-message-text" class="paragraph-title">Added to order</p>
             </div>
 
             <div id="stock-values">
