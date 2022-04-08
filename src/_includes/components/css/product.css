@@ -398,13 +398,14 @@ body.lightbox-open #image-lightbox {
   display: grid;
   width: 100%;
   position: fixed;
-  bottom: 10px;
+  bottom: 0px;
   left: 0px;
   z-index: 2;
   justify-content: center;
   justify-items: center;
   grid-template-columns: 1fr;
-  padding: 0 1rem;
+  background: var(--secondary-background);
+  padding: 1rem;
 }
 
 #add-to-order-button{
@@ -412,8 +413,7 @@ body.lightbox-open #image-lightbox {
   /* border-top: solid 2px var(--secondary-background); */
   font-size:var(--font-size-5);
   width:100%;
-  background: var(--primary-text);
-  color: var(--secondary-background);
+  color: var(--primary-text);
   max-width:500px;
 }
 
@@ -761,8 +761,8 @@ details b {
     color: var(--secondary-background);
   }
   #add-to-order-button:hover{
-    background: var(--primary-background);
-    color:var(--primary-text);
+    background: var(--primary-text);
+    color:var(--secondary-background)
   }
 }
 
