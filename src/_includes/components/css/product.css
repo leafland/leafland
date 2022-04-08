@@ -410,11 +410,11 @@ body.lightbox-open #image-lightbox {
 #add-to-order-button{
   border-color: var(--primary-text);
   /* border-top: solid 2px var(--secondary-background); */
-  font-size:var(--font-size-4);
+  font-size:var(--font-size-5);
   width:100%;
   background: var(--primary-text);
   color: var(--secondary-background);
-  max-width:400px;
+  max-width:500px;
 }
 
 #add-to-order-overlay{
