@@ -58,7 +58,7 @@ main h2 {
 #grade-select {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 #grade-select select,
