@@ -730,6 +730,10 @@ details b {
   margin-top: 3rem;
 }
 
+#footer-grid{
+  margin-bottom: 7rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover,
