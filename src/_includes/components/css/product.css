@@ -590,7 +590,8 @@ body.loggedIn #retail-price {
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 2rem;
-  max-width: 50rem;
+  width: 100%;
+  max-width: 60rem;
   justify-self: center;
   align-self: center;
 }
