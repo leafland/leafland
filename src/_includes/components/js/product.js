@@ -30,6 +30,9 @@ let wholesalePriceField = document.querySelector("#wholesale-price");
 let retailPriceField = document.querySelector("#retail-price");
 let comingOnField = document.querySelector("#coming-on-field");
 
+let heightValues = 0;
+let standardHeightValues = 0;
+
 let showInfoTableButton = document.querySelector(
   "#show-tree-information-table"
 );
@@ -227,12 +230,106 @@ async function createTreeImages() {
 async function createStockValues() {
   if (grades.length !== 0) {
     grades.forEach((grade) => {
-      let selectValue = document.createElement("option");
-      selectValue.value = grade.grade;
+      // let selectValue = document.createElement("option");
+      // selectValue.value = grade.grade;
 
-      selectValue.textContent = grade.grade;
+      // selectValue.textContent = grade.grade;
 
-      gradeSizeSelect.appendChild(selectValue);
+      // gradeSizeSelect.appendChild(selectValue);
+
+      let gradeSizeValue = document.createElement("span");
+      gradeSizeValue.classList.add("selection-box");
+      gradeSizeValue.textContent = grade.grade;
+      gradeSizeValue.dataset.value = grade.grade;
+
+      document
+        .querySelector("#grade-size-selection")
+        .appendChild(gradeSizeValue);
+
+      gradeSizeValue.addEventListener("click", () => {
+        document.querySelector("#average-height-selection").innerHTML = "";
+        document.querySelector("#standard-height-selection").innerHTML = "";
+        document
+          .querySelectorAll(".grade-selection-value-active")
+          .forEach((child) => {
+            child.classList.remove("grade-selection-value-active");
+          });
+        gradeSizeValue.classList.add("grade-selection-value-active");
+        // heightSelect.innerHTML = "";
+        // standardHeightSelect.innerHTML = "";
+        treeQuantity.value = 1;
+
+        addToOrderButton.disabled = true;
+        treeQuantity.disabled = true;
+
+        let firstHeight;
+        // standardHeightSelect.disabled = true;
+        // heightSelect.disabled = false;
+
+        // heightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+        // standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+
+        for (let i = 0; i < grades.length; i++) {
+          if (grades[i].grade === gradeSizeValue.dataset.value) {
+            for (let j = 0; j < grades[i].heights.length; j++) {
+              let heightValue = document.createElement("span");
+              if (grades[i].heights[j].averageHeight !== "") {
+                heightValue.dataset.value = grades[i].heights[j].averageHeight;
+                heightValue.textContent = `${
+                  grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
+                    ? grades[i].heights[j].averageHeight
+                    : grades[i].heights[j].averageHeight + "m"
+                }`;
+              } else {
+                heightValue.value = "N/A";
+                heightValue.textContent = "N/A";
+              }
+
+              heightValue.classList.add("selection-box");
+
+              document
+                .querySelector("#average-height-selection")
+                .appendChild(heightValue);
+
+              heightValues += 1;
+
+              if (heightValues === 1) {
+                firstHeight = heightValue.dataset.value;
+              }
+
+              heightValue.addEventListener("click", () => {
+                document.querySelector("#standard-height-selection").innerHTML =
+                  "";
+                document
+                  .querySelectorAll(".height-selection-value-active")
+                  .forEach((child) => {
+                    child.classList.remove("height-selection-value-active");
+                  });
+                heightValue.classList.add("height-selection-value-active");
+
+                createHeights(
+                  gradeSizeValue.dataset.value,
+                  heightValue.dataset.value
+                );
+              });
+            }
+
+            quantityField.textContent = "0";
+            wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
+            retailPriceField.textContent = "$0.00+GST (Retail)";
+
+            break;
+          }
+        }
+        // createStandardHeights();
+
+        // } else if (heightValues === 1) {
+        //   createHeights(gradeSizeValue.dataset.grade);
+        //   if (standardHeightValues < 2) {
+        //     createStandardHeights();
+        //   }
+        // }
+      });
 
       if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
         comingOnField.style.setProperty("display", "none");
@@ -273,11 +370,15 @@ function addTreeToLocalStorage() {
       commonName: treeCommonName.textContent,
       url: window.location.pathname,
       mainImage: productImage,
-      grade: gradeSizeSelect.value,
-      averageHeight: heightSelect.value,
+      grade: document.querySelector(".grade-selection-value-active").dataset
+        .value,
+      averageHeight: document.querySelector(".height-selection-value-active")
+        .dataset.value,
       quantity: parseInt(treeQuantity.value, 10),
       maxQuantity: treeQuantity.max,
-      standardHeight: standardHeightSelect.value.split("?q=")[0],
+      standardHeight: document
+        .querySelector(".standard-selection-value-active")
+        .dataset.value.split("?q=")[0],
       retailPrice: document
         .querySelector("#retail-price")
         .textContent.split(".00+GST")[0],
@@ -293,11 +394,16 @@ function addTreeToLocalStorage() {
           commonName: treeCommonName.textContent,
           url: window.location.pathname,
           mainImage: productImage,
-          grade: gradeSizeSelect.value,
-          averageHeight: heightSelect.value,
+          grade: document.querySelector(".grade-selection-value-active").dataset
+            .value,
+          averageHeight: document.querySelector(
+            ".height-selection-value-active"
+          ).dataset.value,
           quantity: parseInt(treeQuantity.value, 10),
           maxQuantity: treeQuantity.max,
-          standardHeight: standardHeightSelect.value.split("?q=")[0],
+          standardHeight: document
+            .querySelector(".standard-selection-value-active")
+            .dataset.value.split("?q=")[0],
           retailPrice: document
             .querySelector("#retail-price")
             .textContent.split(".00+GST")[0],
@@ -309,11 +415,21 @@ function addTreeToLocalStorage() {
       } else {
         productTrees[i].quantity = parseInt(productTrees[i].quantity, 10);
         if (productTrees[i].botanicalName === treeBotanicalName.textContent) {
-          if (productTrees[i].grade === gradeSizeSelect.value) {
-            if (productTrees[i].averageHeight === heightSelect.value) {
+          if (
+            productTrees[i].grade ===
+            document.querySelector(".grade-selection-value-active").dataset
+              .value
+          ) {
+            if (
+              productTrees[i].averageHeight ===
+              document.querySelector(".height-selection-value-active").dataset
+                .value.value
+            ) {
               if (
                 productTrees[i].standardHeight ===
-                standardHeightSelect.value.split("?q=")[0]
+                document
+                  .querySelector(".standard-selection-value-active")
+                  .dataset.value.split("?q=")[0]
               ) {
                 productTrees[i].quantity += parseInt(treeQuantity.value, 10);
                 if (productTrees[i].quantity > productTrees[i].maxQuantity) {
@@ -348,11 +464,11 @@ function createStandardHeights(event = 0) {
 
   let parameters;
 
-  if (event === 0) {
-    parameters = standardHeightSelect[0].value.split("?")[1];
-  } else {
-    parameters = event.target.value.split("?")[1];
-  }
+  // if (event === 0) {
+  //   parameters = standardHeightSelect[0].value.split("?")[1];
+  // } else {
+  //   parameters = event.target.value.split("?")[1];
+  // }
 
   // let standardHeight = event.target.value.split("?")[0];
   // let parameters = event.target.value.split("?")[1];
@@ -386,37 +502,29 @@ function createStandardHeights(event = 0) {
   }
 }
 
-function createHeights(event = 0) {
-  standardHeightSelect.innerHTML = "";
+function createHeights(grade, height) {
+  // standardHeightSelect.innerHTML = "";
   treeQuantity.value = 1;
 
   addToOrderButton.disabled = true;
   treeQuantity.disabled = true;
-  standardHeightSelect.disabled = false;
-  standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+  // standardHeightSelect.disabled = false;
+  // standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
 
   let standardHeightValue, noneRetailPrice, noneWholesalePrice;
 
-  let compareHeight;
-
-  if (event === 0) {
-    compareHeight = heightSelect.value;
-  } else {
-    compareHeight = event.target.value;
-  }
-
   for (let i = 0; i < grades.length; i++) {
-    if (grades[i].grade === gradeSizeSelect.value) {
+    if (grades[i].grade === grade) {
       let noStandardHeightQuantity = 0;
       for (let j = 0; j < grades[i].heights.length; j++) {
-        if (grades[i].heights[j].averageHeight === compareHeight) {
+        if (grades[i].heights[j].averageHeight === height) {
           let noneExists = false;
           for (
             let k = 0;
             k < grades[i].heights[j].standardHeights.length;
             k++
           ) {
-            let standardHeightValue = document.createElement("option");
+            let standardHeightValue = document.createElement("span");
             if (
               grades[i].heights[j].standardHeights[k].standardHeight.trim() !==
                 "" &&
@@ -433,7 +541,7 @@ function createHeights(event = 0) {
                 .toLowerCase()
                 .trim() !== "ct"
             ) {
-              standardHeightValue.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+              standardHeightValue.dataset.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
               if (
                 grades[i].heights[j].standardHeights[k].standardHeight.match(
@@ -447,23 +555,137 @@ function createHeights(event = 0) {
                   grades[i].heights[j].standardHeights[k].standardHeight;
               }
 
-              standardHeightSelect.appendChild(standardHeightValue);
+              standardHeightValue.classList.add("selection-box");
+
+              document
+                .querySelector("#standard-height-selection")
+                .appendChild(standardHeightValue);
+
+              standardHeightValues += 1;
+
+              standardHeightValue.addEventListener("click", () => {
+                document
+                  .querySelectorAll(".standard-selection-value-active")
+                  .forEach((child) => {
+                    child.classList.remove("standard-selection-value-active");
+                  });
+                standardHeightValue.classList.add(
+                  "standard-selection-value-active"
+                );
+
+                let standard = standardHeightValue.dataset.value.split("?")[0];
+                let parameters =
+                  standardHeightValue.dataset.value.split("?")[1];
+                let standardQuantity = parameters.split("&")[0];
+                let wholesalePrice = parameters.split("&")[1];
+                let retailPrice = parameters.split("&")[2];
+
+                // standardHeightSelect.remove(0);
+
+                quantityField.textContent = `${
+                  standardQuantity.split("q=")[1]
+                }`;
+                wholesalePriceField.textContent = `${
+                  wholesalePrice.split("wp=")[1]
+                }.00+GST (Wholesale)`;
+                retailPriceField.textContent = `${
+                  retailPrice.split("rp=")[1]
+                }.00+GST (Retail)`;
+
+                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+                  addToOrderButton.disabled = true;
+                  treeQuantity.disabled = true;
+                  treeQuantity.value = 1;
+                } else {
+                  addToOrderButton.disabled = false;
+                  treeQuantity.disabled = false;
+                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+                  treeQuantity.onchange = function () {
+                    if (this.value < 1) {
+                      this.value = 1;
+                    } else if (
+                      this.value > parseInt(standardQuantity.split("q=")[1])
+                    ) {
+                      this.value = parseInt(standardQuantity.split("q=")[1]);
+                    }
+                  };
+                }
+              });
+
+              // standardHeightSelect.appendChild(standardHeightValue);
             } else if (
               grades[i].heights[j].standardHeights[k].standardHeight
                 .toLowerCase()
                 .trim() !== "column"
             ) {
               noneExists = true;
-              standardHeightValue = document.createElement("option");
+              standardHeightValue = document.createElement("span");
 
               standardHeightValue.textContent = "None";
 
               noStandardHeightQuantity +=
                 grades[i].heights[j].standardHeights[k].quantity;
 
-              standardHeightValue.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+              standardHeightValue.dataset.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
-              standardHeightSelect.appendChild(standardHeightValue);
+              standardHeightValue.classList.add("selection-box");
+
+              document
+                .querySelector("#standard-height-selection")
+                .appendChild(standardHeightValue);
+
+              standardHeightValues += 1;
+
+              standardHeightValue.addEventListener("click", () => {
+                document
+                  .querySelectorAll(".standard-selection-value-active")
+                  .forEach((child) => {
+                    child.classList.remove("standard-selection-value-active");
+                  });
+                standardHeightValue.classList.add(
+                  "standard-selection-value-active"
+                );
+
+                let standard = standardHeightValue.dataset.value.split("?")[0];
+                let parameters =
+                  standardHeightValue.dataset.value.split("?")[1];
+                let standardQuantity = parameters.split("&")[0];
+                let wholesalePrice = parameters.split("&")[1];
+                let retailPrice = parameters.split("&")[2];
+
+                // standardHeightSelect.remove(0);
+
+                quantityField.textContent = `${
+                  standardQuantity.split("q=")[1]
+                }`;
+                wholesalePriceField.textContent = `${
+                  wholesalePrice.split("wp=")[1]
+                }.00+GST (Wholesale)`;
+                retailPriceField.textContent = `${
+                  retailPrice.split("rp=")[1]
+                }.00+GST (Retail)`;
+
+                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+                  addToOrderButton.disabled = true;
+                  treeQuantity.disabled = true;
+                  treeQuantity.value = 1;
+                } else {
+                  addToOrderButton.disabled = false;
+                  treeQuantity.disabled = false;
+                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+                  treeQuantity.onchange = function () {
+                    if (this.value < 1) {
+                      this.value = 1;
+                    } else if (
+                      this.value > parseInt(standardQuantity.split("q=")[1])
+                    ) {
+                      this.value = parseInt(standardQuantity.split("q=")[1]);
+                    }
+                  };
+                }
+              });
+
+              // standardHeightSelect.appendChild(standardHeightValue);
 
               noneRetailPrice =
                 grades[i].heights[j].standardHeights[k].retailPrice;
@@ -472,78 +694,78 @@ function createHeights(event = 0) {
             }
           }
 
-          for (let i = 0; i < standardHeightSelect.length; i++) {
-            if (
-              standardHeightSelect.options[i].value.search("None") !== -1 &&
-              standardHeightSelect.length === 2
-            ) {
-              standardHeightSelect.remove(0);
+          // for (let i = 0; i < standardHeightSelect.length; i++) {
+          //   if (
+          //     standardHeightSelect.options[i].value.search("None") !== -1 &&
+          //     standardHeightSelect.length === 2
+          //   ) {
+          //     standardHeightSelect.remove(0);
 
-              quantityField.textContent = `${noStandardHeightQuantity}`;
-              wholesalePriceField.textContent = `${noneWholesalePrice}.00+GST (Wholesale)`;
-              retailPriceField.textContent = `${noneRetailPrice}.00+GST (Retail)`;
+          //     quantityField.textContent = `${noStandardHeightQuantity}`;
+          //     wholesalePriceField.textContent = `${noneWholesalePrice}.00+GST (Wholesale)`;
+          //     retailPriceField.textContent = `${noneRetailPrice}.00+GST (Retail)`;
 
-              if (noStandardHeightQuantity === 0) {
-                addToOrderButton.disabled = true;
-                treeQuantity.disabled = true;
-                treeQuantity.value = 1;
-              } else {
-                addToOrderButton.disabled = false;
-                treeQuantity.disabled = false;
-                treeQuantity.max = noStandardHeightQuantity;
-                treeQuantity.onchange = function () {
-                  if (this.value < 1) {
-                    this.value = 1;
-                  } else if (this.value > noStandardHeightQuantity) {
-                    this.value = noStandardHeightQuantity;
-                  }
-                };
-              }
-              break;
-            } else if (standardHeightSelect.length === 2) {
-              let standardValue = standardHeightSelect.options[1].value;
+          //     if (noStandardHeightQuantity === 0) {
+          //       addToOrderButton.disabled = true;
+          //       treeQuantity.disabled = true;
+          //       treeQuantity.value = 1;
+          //     } else {
+          //       addToOrderButton.disabled = false;
+          //       treeQuantity.disabled = false;
+          //       treeQuantity.max = noStandardHeightQuantity;
+          //       treeQuantity.onchange = function () {
+          //         if (this.value < 1) {
+          //           this.value = 1;
+          //         } else if (this.value > noStandardHeightQuantity) {
+          //           this.value = noStandardHeightQuantity;
+          //         }
+          //       };
+          //     }
+          //     break;
+          //   } else if (standardHeightSelect.length === 2) {
+          //     let standardValue = standardHeightSelect.options[1].value;
 
-              let standard = standardValue.split("?")[0];
-              let parameters = standardValue.split("?")[1];
-              let standardQuantity = parameters.split("&")[0];
-              let wholesalePrice = parameters.split("&")[1];
-              let retailPrice = parameters.split("&")[2];
+          //     let standard = standardValue.split("?")[0];
+          //     let parameters = standardValue.split("?")[1];
+          //     let standardQuantity = parameters.split("&")[0];
+          //     let wholesalePrice = parameters.split("&")[1];
+          //     let retailPrice = parameters.split("&")[2];
 
-              standardHeightSelect.remove(0);
+          //     standardHeightSelect.remove(0);
 
-              quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
-              wholesalePriceField.textContent = `${
-                wholesalePrice.split("wp=")[1]
-              }.00+GST (Wholesale)`;
-              retailPriceField.textContent = `${
-                retailPrice.split("rp=")[1]
-              }.00+GST (Retail)`;
+          //     quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
+          //     wholesalePriceField.textContent = `${
+          //       wholesalePrice.split("wp=")[1]
+          //     }.00+GST (Wholesale)`;
+          //     retailPriceField.textContent = `${
+          //       retailPrice.split("rp=")[1]
+          //     }.00+GST (Retail)`;
 
-              if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-                addToOrderButton.disabled = true;
-                treeQuantity.disabled = true;
-                treeQuantity.value = 1;
-              } else {
-                addToOrderButton.disabled = false;
-                treeQuantity.disabled = false;
-                treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-                treeQuantity.onchange = function () {
-                  if (this.value < 1) {
-                    this.value = 1;
-                  } else if (
-                    this.value > parseInt(standardQuantity.split("q=")[1])
-                  ) {
-                    this.value = parseInt(standardQuantity.split("q=")[1]);
-                  }
-                };
-              }
-              break;
-            } else {
-              quantityField.textContent = `0`;
-              wholesalePriceField.textContent = `$0.00+GST (Wholesale)`;
-              retailPriceField.textContent = `$0.00+GST (Retail)`;
-            }
-          }
+          //     if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+          //       addToOrderButton.disabled = true;
+          //       treeQuantity.disabled = true;
+          //       treeQuantity.value = 1;
+          //     } else {
+          //       addToOrderButton.disabled = false;
+          //       treeQuantity.disabled = false;
+          //       treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+          //       treeQuantity.onchange = function () {
+          //         if (this.value < 1) {
+          //           this.value = 1;
+          //         } else if (
+          //           this.value > parseInt(standardQuantity.split("q=")[1])
+          //         ) {
+          //           this.value = parseInt(standardQuantity.split("q=")[1]);
+          //         }
+          //       };
+          //     }
+          //     break;
+          //   } else {
+          //     quantityField.textContent = `0`;
+          //     wholesalePriceField.textContent = `$0.00+GST (Wholesale)`;
+          //     retailPriceField.textContent = `$0.00+GST (Retail)`;
+          //   }
+          // }
           break;
         }
       }
@@ -583,9 +805,9 @@ function addEventListeners() {
     } else {
       document.querySelector("#success-message-text").innerHTML = `${
         quantity.value
-      }<span class="lowercase">x</span> ${gradeSizeSelect.value} ${
-        treeBotanicalName.textContent
-      } ${
+      }<span class="lowercase">x</span> ${
+        document.querySelector(".grade-selection-value-active").dataset.value
+      } ${treeBotanicalName.textContent} ${
         treeCommonName.textContent !== ""
           ? '(<span class="accent-color">' +
             treeCommonName.textContent +
@@ -615,65 +837,65 @@ function addEventListeners() {
       document.body.classList.remove("add-to-order-open");
     });
 
-  gradeSizeSelect.addEventListener("change", (event) => {
-    heightSelect.innerHTML = "";
-    standardHeightSelect.innerHTML = "";
-    treeQuantity.value = 1;
+  // gradeSizeSelect.addEventListener("change", (event) => {
+  //   heightSelect.innerHTML = "";
+  //   standardHeightSelect.innerHTML = "";
+  //   treeQuantity.value = 1;
 
-    addToOrderButton.disabled = true;
-    treeQuantity.disabled = true;
-    standardHeightSelect.disabled = true;
-    heightSelect.disabled = false;
+  //   addToOrderButton.disabled = true;
+  //   treeQuantity.disabled = true;
+  //   standardHeightSelect.disabled = true;
+  //   heightSelect.disabled = false;
 
-    heightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
-    standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+  //   heightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
+  //   standardHeightSelect.innerHTML = `<option selected disabled hidden>Select height</option>`;
 
-    for (let i = 0; i < grades.length; i++) {
-      if (grades[i].grade === event.target.value.split("-0")[0]) {
-        for (let j = 0; j < grades[i].heights.length; j++) {
-          let heightValue = document.createElement("option");
-          if (grades[i].heights[j].averageHeight !== "") {
-            heightValue.value = grades[i].heights[j].averageHeight;
-            heightValue.textContent = `${
-              grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
-                ? grades[i].heights[j].averageHeight
-                : grades[i].heights[j].averageHeight + "m"
-            }`;
-          } else {
-            heightValue.value = "N/A";
-            heightValue.textContent = "N/A";
-          }
-          heightSelect.appendChild(heightValue);
-        }
+  //   for (let i = 0; i < grades.length; i++) {
+  //     if (grades[i].grade === event.target.value.split("-0")[0]) {
+  //       for (let j = 0; j < grades[i].heights.length; j++) {
+  //         let heightValue = document.createElement("option");
+  //         if (grades[i].heights[j].averageHeight !== "") {
+  //           heightValue.value = grades[i].heights[j].averageHeight;
+  //           heightValue.textContent = `${
+  //             grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
+  //               ? grades[i].heights[j].averageHeight
+  //               : grades[i].heights[j].averageHeight + "m"
+  //           }`;
+  //         } else {
+  //           heightValue.value = "N/A";
+  //           heightValue.textContent = "N/A";
+  //         }
+  //         heightSelect.appendChild(heightValue);
+  //       }
 
-        quantityField.textContent = "0";
-        wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
-        retailPriceField.textContent = "$0.00+GST (Retail)";
+  //       quantityField.textContent = "0";
+  //       wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
+  //       retailPriceField.textContent = "$0.00+GST (Retail)";
 
-        break;
-      }
-    }
+  //       break;
+  //     }
+  //   }
 
-    if (heightSelect.length === 2) {
-      heightSelect.remove(0);
-      createHeights();
+  //   if (heightSelect.length === 2) {
+  //     heightSelect.remove(0);
+  //     createHeights();
 
-      if (standardHeightSelect.length < 2) {
-        createStandardHeights();
-      }
-    } else if (heightSelect.length === 1) {
-      createHeights();
-      if (standardHeightSelect.length < 2) {
-        createStandardHeights();
-      }
-    }
-  });
+  //     if (standardHeightSelect.length < 2) {
+  //       createStandardHeights();
+  //     }
+  //   } else if (heightSelect.length === 1) {
+  //     createHeights();
+  //     if (standardHeightSelect.length < 2) {
+  //       createStandardHeights();
+  //     }
+  //   }
+  // });
 
-  heightSelect.addEventListener("change", (event) => {
-    createHeights(event);
-  });
+  // heightSelect.addEventListener("change", (event) => {
+  //   createHeights(event);
+  // });
 
-  standardHeightSelect.addEventListener("change", (event) => {
-    createStandardHeights(event);
-  });
+  // standardHeightSelect.addEventListener("change", (event) => {
+  //   createStandardHeights(event);
+  // });
 }
