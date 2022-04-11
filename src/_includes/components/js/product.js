@@ -352,12 +352,7 @@ async function createStockValues() {
     gradeSizesDiv.appendChild(message);
     gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
     gradeSizesDiv.style.setProperty("margin-top", "0");
-    document
-      .querySelector("#grade-sizes-heading")
-      .style.setProperty("display", "none");
-    document
-      .querySelector("#success-message")
-      .style.setProperty("display", "none");
+
     stockValuesDiv.style.setProperty("display", "none");
     document.querySelector("#coming-on").style.setProperty("display", "none");
   }
