@@ -248,7 +248,11 @@ async function createStockValues() {
 
       gradeSizeValue.addEventListener("click", () => {
         document.querySelector("#average-height-selection").innerHTML = "";
-        document.querySelector("#standard-height-selection").innerHTML = "";
+
+        document.querySelector(
+          "#standard-height-selection"
+        ).innerHTML = `<span class="selection-box-disabled">None</span>`;
+
         document
           .querySelectorAll(".grade-selection-value-active")
           .forEach((child) => {

@@ -57,7 +57,7 @@ main h2 {
 
 #grade-select {
   display: grid;
-  gap: 2rem
+  gap: 3rem
 }
 
 .grade-select-grid-div{
@@ -72,16 +72,25 @@ main h2 {
   font-weight: bold;
 }
 
-.selection-grid{
+.selection-grid {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap
 }
 
-.selection-box{
+.selection-box {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
+  font-weight: bold
+}
+
+.selection-box-disabled {
+  border-radius: 8px;
+  border: 2px solid var(--primary-text);
+  padding: 0.5rem;
+  font-weight: bold;
+  opacity: 0.5
 }
 
 .grade-selection-value-active, .height-selection-value-active, .standard-selection-value-active{
