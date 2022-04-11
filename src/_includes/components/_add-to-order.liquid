@@ -10,63 +10,81 @@
 
             <div id="grade-select">
 
-                <div>
-                    <label for="grade-size">Grade Size</label>
+                <div class="grade-select-grid-div">
+                    {% comment %} <label for="grade-size">Grade Size</label>
                     <select name="grade-size" id="grade-size-select">
 
                         <option selected disabled hidden>Select grade</option>
                     
-                    </select>
+                    </select> {% endcomment %}
+
+                    <p>Select a grade size</p>
+                    <div id="grade-size-selection" class="selection-grid"></div>
                 </div>
 
-                <div>
-                    <label for="height">Average height</label>
+                <div class="grade-select-grid-div">
+                    {% comment %} <label for="height">Average height</label>
                     <select disabled name="height" id="height-select">
                     
                         <option selected disabled hidden>Select height</option>
                     
-                    </select>
+                    </select> {% endcomment %}
+
+                    <p>Select an average height</p>
+                    <div id="average-height-selection" class="selection-grid">
+
+                        <span class="selection-box-disabled">None</span>
+                    
+                    </div>
                 </div>
 
-                <div>
-                    <label for="standard-height">Standard height</label>
+                <div class="grade-select-grid-div">
+                    {% comment %} <label for="standard-height">Standard height</label>
                     <select disabled name="standard-height" id="standard-height-select">
                     
                         <option selected disabled hidden>Select height</option>
                     
-                    </select>
+                    </select> {% endcomment %}
+
+                    <p>Select a standard height</p>
+                    <div id="standard-height-selection" class="selection-grid">
+                    
+                        <span class="selection-box-disabled">None</span>
+
+                    </div>
                 </div>
 
-                <div>
-                    <label for="quantity">Quantity</label>
-                    <input disabled name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
+                <div id="stock-values">
 
+                    <p>
 
+                        <span class="stock-value-title">Quantity in stock:</span> <span class="info-pill" id="quantity-field">0</span>
+                    
+                    </p>
+                    
+                    <p>
+                    
+                        <span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>
+                    
+                    </p>
+            
+            
                 </div>
 
-                <button disabled id="add-product">Add to order</button>
+                <div id="add-product-div">
+
+                    <div>
+                        {% comment %} <label for="quantity">Order Quantity</label> {% endcomment %}
+                        <input disabled name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
+                    </div>
+
+                    <button disabled id="add-product">Add to order</button>
+                </div>
 
             </div>
 
             <div id="success-message">
                 <p id="success-message-text" class="paragraph-title">Added to order</p>
-            </div>
-
-            <div id="stock-values">
-
-                <p>
-
-                    <span class="stock-value-title">Quantity in stock:</span> <span class="info-pill" id="quantity-field">0</span>
-                
-                </p>
-                
-                <p>
-                
-                    <span class="stock-value-title">Price per tree:</span> <span id="wholesale-price" class="info-pill">$0.00+GST (Wholesale)</span> <span id="retail-price" class="info-pill">$0.00+GST (Retail)</span>
-                
-                </p>
-            
-            
             </div>
 
         </div>

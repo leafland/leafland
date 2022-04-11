@@ -56,19 +56,61 @@ main h2 {
 }
 
 #grade-select {
+  display: grid;
+  gap: 3rem
+}
+
+.grade-select-grid-div{
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 1rem
+}
+
+.grade-select-grid-div p{
+  text-transform: uppercase;
+  font-size:var(--font-size-3);
+  font-weight: bold;
+}
+
+.selection-grid {
   display: flex;
-  flex-wrap: wrap;
   gap: 1rem;
+  flex-wrap: wrap
 }
 
-#grade-select select,
-#grade-select input {
-  width: 100%;
+.selection-box {
+  border-radius: 8px;
+  border: 2px solid var(--primary-text);
+  padding: 0.5rem;
+  font-weight: bold
+}
+
+.selection-box-disabled {
+  border-radius: 8px;
+  border: 2px solid var(--primary-text);
+  padding: 0.5rem;
+  font-weight: bold;
+  opacity: 0.5
+}
+
+.grade-selection-value-active, .height-selection-value-active, .standard-selection-value-active{
+  background: var(--primary-text);
+  color: var(--secondary-background)
+}
+
+#add-product-div{
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
 }
 
 #grade-select input {
+  width: 150px;
+}
+
+/* #grade-select input {
   max-width: 150px;
-}
+} */
 
 #grade-select button {
   align-self: end;
@@ -80,12 +122,12 @@ main h2 {
   height: 40px;
 }
 
-#grade-select div {
+/* #grade-select div {
   align-self: flex-end;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-}
+} */
 
 #grade-sizes {
   display: grid;
@@ -768,11 +810,22 @@ details b {
     background: var(--primary-text);
     color:var(--secondary-background)
   }
+  .selection-box:hover{
+    cursor: pointer;
+    background:var(--primary-text);
+    color:var(--secondary-background)
+  }
 }
 
 @media (min-width: 300px) {
   #tree-shape {
     grid-gap: 2rem;
+  }
+}
+
+@media (min-width: 500px){
+  #add-product-div{
+    grid-template-columns: auto 1fr
   }
 }
 
