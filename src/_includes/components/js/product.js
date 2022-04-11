@@ -374,7 +374,7 @@ function addTreeToLocalStorage() {
       averageHeight: document.querySelector(".height-selection-value-active")
         .dataset.value,
       quantity: parseInt(treeQuantity.value, 10),
-      maxQuantity: treeQuantity.max,
+      maxQuantity: parseInt(treeQuantity.max),
       standardHeight: document
         .querySelector(".standard-selection-value-active")
         .dataset.value.split("?q=")[0],
@@ -399,7 +399,7 @@ function addTreeToLocalStorage() {
             ".height-selection-value-active"
           ).dataset.value,
           quantity: parseInt(treeQuantity.value, 10),
-          maxQuantity: treeQuantity.max,
+          maxQuantity: parseInt(treeQuantity.max),
           standardHeight: document
             .querySelector(".standard-selection-value-active")
             .dataset.value.split("?q=")[0],
@@ -422,7 +422,7 @@ function addTreeToLocalStorage() {
             if (
               productTrees[i].averageHeight ===
               document.querySelector(".height-selection-value-active").dataset
-                .value.value
+                .value
             ) {
               if (
                 productTrees[i].standardHeight ===
@@ -431,7 +431,7 @@ function addTreeToLocalStorage() {
                   .dataset.value.split("?q=")[0]
               ) {
                 productTrees[i].quantity += parseInt(treeQuantity.value, 10);
-                if (productTrees[i].quantity > productTrees[i].maxQuantity) {
+                if (productTrees[i].quantity >= productTrees[i].maxQuantity) {
                   productTrees[i].quantity = productTrees[i].maxQuantity;
                   maximumQuantityReached = true;
                 }
