@@ -775,6 +775,13 @@ details b {
   margin-bottom: 3rem
 }
 
+.block-title-less-margin{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: var(--font-size-5);
+  margin-bottom: 2rem
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover,
