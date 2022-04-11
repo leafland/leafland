@@ -590,8 +590,6 @@ body.loggedIn #retail-price {
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 2rem;
-  width: 100%;
-  max-width: 60rem;
   justify-self: center;
   align-self: center;
 }
@@ -754,12 +752,11 @@ details b {
 }
 
 #tree-information-table {
-  margin-top: 2rem;
-  /* background: var(--secondary-background); */
   border-radius: 8px;
-  /* padding: 2rem; */
-  display: none;
+  padding: 2rem;
+  display: grid;
   gap: 1rem;
+  background: var(--secondary-background);
 }
 
 .tree-information-table-heading {
@@ -767,14 +764,15 @@ details b {
   font-weight: bold;
 }
 
-#show-tree-information-table {
-  border: 2px solid var(--primary-text);
-  border-radius: 8px;
-  margin-top: 3rem;
-}
-
 #footer-grid{
   margin-bottom: 7rem;
+}
+
+.block-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: var(--font-size-5);
+  margin-bottom: 3rem
 }
 
 @media (hover: hover) and (pointer: fine) {

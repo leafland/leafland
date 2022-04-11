@@ -33,10 +33,6 @@ let comingOnField = document.querySelector("#coming-on-field");
 let heightValues = 0;
 let standardHeightValues = 0;
 
-let showInfoTableButton = document.querySelector(
-  "#show-tree-information-table"
-);
-
 let productTrees = JSON.parse(localStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
@@ -302,6 +298,10 @@ async function createStockValues() {
               }
 
               heightValue.addEventListener("click", () => {
+                quantityField.textContent = "0";
+                wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
+                retailPriceField.textContent = "$0.00+GST (Retail)";
+
                 document.querySelector("#standard-height-selection").innerHTML =
                   "";
                 document
@@ -779,18 +779,6 @@ function createHeights(grade, height) {
 }
 
 function addEventListeners() {
-  showInfoTableButton.addEventListener("click", () => {
-    if (
-      document.querySelector("#tree-information-table").style.display === "none"
-    ) {
-      document.querySelector("#tree-information-table").style.display = "grid";
-      showInfoTableButton.textContent = "Hide information table";
-    } else {
-      document.querySelector("#tree-information-table").style.display = "none";
-      showInfoTableButton.textContent = "Show information table";
-    }
-  });
-
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
       productTrees = JSON.parse(localStorage.getItem(event.key));
@@ -828,18 +816,6 @@ function addEventListeners() {
       successMessage.style.setProperty("visibility", "hidden");
     }, 4000);
   });
-
-  document
-    .querySelector("#add-to-order-button")
-    .addEventListener("click", () => {
-      document.body.classList.add("add-to-order-open");
-    });
-
-  document
-    .querySelector("#close-add-to-order")
-    .addEventListener("click", () => {
-      document.body.classList.remove("add-to-order-open");
-    });
 
   // gradeSizeSelect.addEventListener("change", (event) => {
   //   heightSelect.innerHTML = "";
