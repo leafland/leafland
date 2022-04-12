@@ -629,7 +629,7 @@ function createHeights(grade, height) {
     let standardChildren = document.querySelector(
       "#standard-height-selection"
     ).children;
-    standardChildren[0].classList.add("height-selection-value-active");
+    standardChildren[0].classList.add("standard-selection-value-active");
 
     let parameters = standardChildren[0].dataset.value.split("?")[1];
     let standardQuantity = parameters.split("&")[0];
