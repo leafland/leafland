@@ -4982,11 +4982,11 @@
     "commonName":"Italian Alder",
     "url":"alnus-cordata-italian-alder",
     "mainImage":"alnus-cordata-italian-alder/alnus-cordata-italian-alder.jpg",
-    "description":"Shining, heart-shaped, green leaves. A quick-growing, upright form. Will grow in moist, swampy soils. Useful for erosion control. Great as a street or shade tree. Catkins are a source of pollen for bees in early to mid-spring.",
-    "uses":"street, paddocks, attracts-bees",
-    "tolerates":"windy",
-    "soilType":"clay-soils, poor-draining-soils",
-    "sunShade":"",
+    "description":"Shining, heart-shaped, green leaves. A quick-growing, upright form. Will grow in moist, swampy soils and will also tolerate dry, infertile soils. Useful for erosion control and windbreaks. Great as a street or shade tree. Catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
+    "uses":"street, paddocks, attracts-bees, hedging-and-screening",
+    "tolerates":"windy, drought, heavy-rainfall",
+    "soilType":"clay-soils, poor-draining-soils, dry-soils",
+    "sunShade":"full-sun, part-shade",
     "winterFoliage":"deciduous",
     "origin":"exotic",
     "types":"",
@@ -5031,6 +5031,26 @@
       {
         "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-street.jpg",
         "alt":"alnus cordata italian alder street"
+      },
+      {
+        "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-foliage-and-cones.jpg",
+        "alt":"alnus cordata italian alder foliage and cones"
+      },
+      {
+        "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-hillside.jpg",
+        "alt":"alnus cordata italian alder hillside"
+      },
+      {
+        "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-park-hillside.jpg",
+        "alt":"alnus cordata italian alder park hillside"
+      },
+      {
+        "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-winter.jpg",
+        "alt":"alnus cordata italian alder winter"
+      },
+      {
+        "src":"images/trees/alnus-cordata-italian-alder/alnus-cordata-italian-alder-catkins.jpg",
+        "alt":"alnus cordata italian alder catkins"
       }
     ]
   },
