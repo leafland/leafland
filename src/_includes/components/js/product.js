@@ -442,7 +442,6 @@ function createHeights(grade, height) {
       let noStandardHeightQuantity = 0;
       for (let j = 0; j < grades[i].heights.length; j++) {
         if (grades[i].heights[j].averageHeight === height) {
-          let noneExists = false;
           for (
             let k = 0;
             k < grades[i].heights[j].standardHeights.length;
@@ -537,7 +536,6 @@ function createHeights(grade, height) {
                 .toLowerCase()
                 .trim() !== "column"
             ) {
-              noneExists = true;
               standardHeightValue = document.createElement("span");
 
               standardHeightValue.textContent = "None";
@@ -600,11 +598,6 @@ function createHeights(grade, height) {
                   };
                 }
               });
-
-              noneRetailPrice =
-                grades[i].heights[j].standardHeights[k].retailPrice;
-              noneWholesalePrice =
-                grades[i].heights[j].standardHeights[k].wholesalePrice;
             }
           }
 

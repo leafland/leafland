@@ -95,7 +95,8 @@ main h2 {
 
 .grade-selection-value-active, .height-selection-value-active, .standard-selection-value-active{
   background: var(--primary-text);
-  color: var(--secondary-background)
+  color: var(--secondary-background);
+  pointer-events: none;
 }
 
 #add-product-div{
@@ -781,6 +782,10 @@ details b {
   font-size: var(--font-size-5);
   margin-bottom: 2rem
 }
+
+/* #quantity-field, #wholesale-price, #retail-price{
+  visibility: hidden;
+} */
 
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
