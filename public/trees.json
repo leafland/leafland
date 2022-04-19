@@ -32598,83 +32598,6 @@
     ]
   },
   {
-    "botanicalName":"Prunus 'Amanogawa'",
-    "commonName":"Flowering Cherry",
-    "url":"prunus-amanogawa-flowering-cherry",
-    "mainImage":"prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry.jpg",
-    "description":"Fragrant clusters of semi-double, white to pale-pink flowers with deep margins. Flowers in mid to late-spring. Orange and yellow autumn leaves. A tree for narrow spaces where height is required. Also for lining avenues and driveways. Excellent street tree.",
-    "uses":"street, narrow-sites, attracts-bees",
-    "tolerates":"",
-    "soilType":"",
-    "sunShade":"",
-    "winterFoliage":"deciduous",
-    "origin":"exotic",
-    "types":"",
-    "height":"6m",
-    "width":"2m",
-    "floweringSeason":"spring",
-    "flowerColor":"pink, white",
-    "autumnColor":"yellow, orange",
-    "foliageColor":"green",
-    "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/prunus/prunus-pillar.svg",
-    "relatedTrees":[],
-    "images":[
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-carpark.jpg",
-        "alt":"prunus amanogawa flowering cherry carpark"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-cemetery.jpg",
-        "alt":"prunus amanogawa flowering cherry cemetery"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flower-garden.jpg",
-        "alt":"prunus amanogawa flowering cherry flower garden"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flower.jpeg",
-        "alt":"prunus amanogawa flowering cherry flower"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowering-cemetery.jpg",
-        "alt":"prunus amanogawa flowering cherry flowering cemetery"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowering-church.jpg",
-        "alt":"prunus amanogawa flowering cherry flowering church"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowering-garden.jpg",
-        "alt":"prunus amanogawa flowering cherry flowering garden"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowering-sidewalk.jpg",
-        "alt":"prunus amanogawa flowering cherry flowering sidewalk"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowering.jpg",
-        "alt":"prunus amanogawa flowering cherry flowering"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-flowers.jpeg",
-        "alt":"prunus amanogawa flowering cherry flowers"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-garden.jpg",
-        "alt":"prunus amanogawa flowering cherry garden"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-street.jpg",
-        "alt":"prunus amanogawa flowering cherry street"
-      },
-      {
-        "src":"images/trees/prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry-young.jpg",
-        "alt":"prunus amanogawa flowering cherry young"
-      }
-    ]
-  },
-  {
     "botanicalName":"Prunus x blireiana",
     "commonName":"Flowering Plum",
     "url":"prunus-x-blireiana-flowering-plum",
@@ -33881,6 +33804,83 @@
         "alt":"prunus serrula tibetan cherry paperbark cherry winter"
       }
     ]
+  },
+  {
+   "botanicalName":"Prunus serrulata 'Amanogawa'",
+   "commonName":"Japanese Cherry",
+   "url":"prunus-serrulata-amanogawa-japanese-cherry",
+   "mainImage":"prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry.jpg",
+   "description":"Fragrant clusters of semi-double, white to pale-pink flowers with deep margins. Flowers in mid to late-spring. Orange and yellow autumn leaves. A tree for narrow spaces where height is required. Also for lining avenues and driveways. Excellent street tree.",
+   "uses":"street, narrow-sites, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"6m",
+   "width":"2m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink, white",
+   "autumnColor":"yellow, orange",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/prunus/prunus-pillar.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-carpark.jpg",
+       "alt":"prunus amanogawa flowering cherry carpark"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-cemetery.jpg",
+       "alt":"prunus amanogawa flowering cherry cemetery"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flower-garden.jpg",
+       "alt":"prunus amanogawa flowering cherry flower garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flower.jpeg",
+       "alt":"prunus amanogawa flowering cherry flower"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-cemetery.jpg",
+       "alt":"prunus amanogawa flowering cherry flowering cemetery"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-church.jpg",
+       "alt":"prunus amanogawa flowering cherry flowering church"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-garden.jpg",
+       "alt":"prunus amanogawa flowering cherry flowering garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-sidewalk.jpg",
+       "alt":"prunus amanogawa flowering cherry flowering sidewalk"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering.jpg",
+       "alt":"prunus amanogawa flowering cherry flowering"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowers.jpeg",
+       "alt":"prunus amanogawa flowering cherry flowers"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-garden.jpg",
+       "alt":"prunus amanogawa flowering cherry garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-street.jpg",
+       "alt":"prunus amanogawa flowering cherry street"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-young.jpg",
+       "alt":"prunus amanogawa flowering cherry young"
+     }
+   ]
   },
   {
     "botanicalName":"Prunus 'Shimidsu-sakura'",
