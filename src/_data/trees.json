@@ -33883,6 +33883,107 @@
     ]
    },
    {
+    "botanicalName":"Prunus serrulata 'Shimidsu-sakura'",
+    "commonName":"Japanese Cherry",
+    "url":"prunus-serrulata-shimidsu-sakura-japanese-cherry",
+    "mainImage":"prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry.jpg",
+    "description":"Also known as Prunus 'Shogetsu'. One of the loveliest flowering cherries which grows into a broad-spreading tree with gracefully-arching branches. Mid to late-spring flowering. Pink buds open to double flowers of pale-pink, which fade to white, in pendulous clusters. Orange and red autumn leaves.",
+    "uses":"street, shade, small-garden, attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"5m",
+    "width":"5m",
+    "floweringSeason":"spring",
+    "flowerColor":"pink, white",
+    "autumnColor":"red, orange",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-autumn.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry autumn"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-back-garden.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry back garden"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-beautiful-flowers.jpeg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry beautiful flowers"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-city-garden.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry city garden"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-courtyard.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry courtyard"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-flower-cluster.jpeg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry flower cluster"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-flower.jpeg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry flower"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-flowering-park.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry flowering park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-flowering-young.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry flowering young"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-flowers-buds.jpeg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry flowers buds"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-front-lawn.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry front lawn"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-hanging-flowers.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry hanging flowers"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-lawn.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry lawn"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-magnificent.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry magnificent"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-outside-building.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry outside building"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-park.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-single-flower.jpeg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry single flower"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-spring-flowering.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry spring flowering"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry-street.jpg",
+        "alt":"prunus serrulata shimidsu sakura japanese cherry street"
+      }
+    ]
+   },
+   {
     "botanicalName":"Prunus serrulata 'Shirotae'",
     "commonName":"Japanese Cherry",
     "url":"prunus-serrulata-shirotae-japanese-cherry",
@@ -33981,107 +34082,6 @@
         "alt":"prunus serrulata shirotae japanese cherry summer"
       }
     ]
-   },
-   {
-     "botanicalName":"Prunus 'Shimidsu-sakura'",
-     "commonName":"Flowering Cherry",
-     "url":"prunus-shimidsu-sakura-flowering-cherry",
-     "mainImage":"prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry.jpg",
-     "description":"Also known as Prunus 'Shogetsu'. One of the loveliest flowering cherries which grows into a broad-spreading tree with gracefully-arching branches. Mid to late-spring flowering. Pink buds open to double flowers of pale-pink, which fade to white, in pendulous clusters. Orange and red autumn leaves.",
-     "uses":"street, shade, small-garden, attracts-bees",
-     "tolerates":"",
-     "soilType":"",
-     "sunShade":"",
-     "winterFoliage":"deciduous",
-     "origin":"exotic",
-     "types":"",
-     "height":"5m",
-     "width":"5m",
-     "floweringSeason":"spring",
-     "flowerColor":"pink, white",
-     "autumnColor":"red, orange",
-     "foliageColor":"green",
-     "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-     "relatedTrees":[],
-     "images":[
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-autumn.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry autumn"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-back-garden.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry back garden"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-beautiful-flowers.jpeg",
-         "alt":"prunus shimidsu sakura flowering cherry beautiful flowers"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-city-garden.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry city garden"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-courtyard.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry courtyard"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-flower-cluster.jpeg",
-         "alt":"prunus shimidsu sakura flowering cherry flower cluster"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-flower.jpeg",
-         "alt":"prunus shimidsu sakura flowering cherry flower"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-flowering-park.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry flowering park"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-flowering-young.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry flowering young"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-flowers-buds.jpeg",
-         "alt":"prunus shimidsu sakura flowering cherry flowers buds"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-front-lawn.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry front lawn"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-hanging-flowers.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry hanging flowers"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-lawn.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry lawn"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-magnificent.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry magnificent"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-outside-building.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry outside building"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-park.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry park"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-single-flower.jpeg",
-         "alt":"prunus shimidsu sakura flowering cherry single flower"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-spring-flowering.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry spring flowering"
-       },
-       {
-         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-street.jpg",
-         "alt":"prunus shimidsu sakura flowering cherry street"
-       }
-     ]
    },
    {
      "botanicalName":"Prunus subhirtella 'Autumnalis Rosea'",

@@ -84,3 +84,9 @@
     from = "/trees/prunus-kiku-shidare-zakura-flowering-cherry/"
     status = 301
     to = "/trees/prunus-serrulata-kiku-shidare-zakura-japanese-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/prunus-shimidsu-sakura-flowering-cherry/"
+    status = 301
+    to = "/trees/prunus-serrulata-shimidsu-sakura-japanese-cherry/"
