@@ -33135,71 +33135,6 @@
      ]
    },
    {
-     "botanicalName":"Prunus 'Ichiyo'",
-     "commonName":"Flowering Cherry",
-     "url":"prunus-ichiyo-flowering-cherry",
-     "mainImage":"prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry.jpeg",
-     "description":"Also known as Prunus 'Pink Champagne'. Has a spreading habit with gracefully ascending main branches. Double, shell-pink flowers open from pink buds in mid to late-spring. These flowers fade to white as they age. Leaves emerge bronze-green in spring, age to deep-green over summer, and turn beautiful tones of orange and red in autumn.",
-     "uses":"attracts-bees",
-     "tolerates":"",
-     "soilType":"",
-     "sunShade":"",
-     "winterFoliage":"deciduous",
-     "origin":"exotic",
-     "types":"",
-     "height":"4m",
-     "width":"4m",
-     "floweringSeason":"spring",
-     "flowerColor":"pink, white",
-     "autumnColor":"red, orange",
-     "foliageColor":"green",
-     "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-     "relatedTrees":[],
-     "images":[
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-autumn-foliage.jpeg",
-         "alt":"prunus ichiyo flowering cherry autumn foliage"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flower-bunch.jpeg",
-         "alt":"prunus ichiyo flowering cherry flower bunch"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flower.jpeg",
-         "alt":"prunus ichiyo flowering cherry flower"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowering-central-park.jpg",
-         "alt":"prunus ichiyo flowering cherry flowering central park"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowering-crowd.jpeg",
-         "alt":"prunus ichiyo flowering cherry flowering crowd"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowering-driveway.jpg",
-         "alt":"prunus ichiyo flowering cherry flowering driveway"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowers-buds.jpeg",
-         "alt":"prunus ichiyo flowering cherry flowers buds"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowers-leaves.jpg",
-         "alt":"prunus ichiyo flowering cherry flowers leaves"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-flowers-park.jpg",
-         "alt":"prunus ichiyo flowering cherry flowers park"
-       },
-       {
-         "src":"images/trees/prunus-ichiyo-flowering-cherry/prunus-ichiyo-flowering-cherry-foliage.jpeg",
-         "alt":"prunus ichiyo flowering cherry foliage"
-       }
-     ]
-   },
-   {
      "botanicalName":"Prunus \"Jim's Delight\"",
      "commonName":"Flowering Cherry",
      "url":"prunus-jims-delight-flowering-cherry",
@@ -33766,6 +33701,71 @@
       {
         "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-young.jpg",
         "alt":"prunus serrulata amanogawa japanese cherry young"
+      }
+    ]
+   },
+   {
+    "botanicalName":"Prunus serrulata 'Ichiyo'",
+    "commonName":"Japanese Cherry",
+    "url":"prunus-serrulata-ichiyo-japanese-cherry",
+    "mainImage":"prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry.jpeg",
+    "description":"Also known as Prunus 'Pink Champagne'. Has a spreading habit with gracefully ascending main branches. Double, shell-pink flowers open from pink buds in mid to late-spring. These flowers fade to white as they age. Leaves emerge bronze-green in spring, age to deep-green over summer, and turn beautiful tones of orange and red in autumn.",
+    "uses":"attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"4m",
+    "width":"4m",
+    "floweringSeason":"spring",
+    "flowerColor":"pink, white",
+    "autumnColor":"red, orange",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-autumn-foliage.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry autumn foliage"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flower-bunch.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry flower bunch"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flower.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry flower"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowering-central-park.jpg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowering central park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowering-crowd.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowering crowd"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowering-driveway.jpg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowering driveway"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowers-buds.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowers buds"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowers-leaves.jpg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowers leaves"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-flowers-park.jpg",
+        "alt":"prunus serrulata ichiyo japanese cherry flowers park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry-foliage.jpeg",
+        "alt":"prunus serrulata ichiyo japanese cherry foliage"
       }
     ]
    },
