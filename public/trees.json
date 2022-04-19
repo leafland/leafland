@@ -33413,35 +33413,6 @@
     ]
   },
   {
-    "botanicalName":"Prunus 'Pink Perfection'",
-    "commonName":"Flowering Cherry",
-    "url":"prunus-pink-perfection-flowering-cherry",
-    "mainImage":"prunus-pink-perfection-flowering-cherry/prunus-pink-perfection-flowering-cherry.jpg",
-    "description":"Erect, spreading, vase-shaped tree. Bronze new leaves are green through summer and orange in autumn. Fully double flowers with frilled margins are a bright rose-pink in bud, opening to clear-pink. Flowers mid to late-spring. Great for lining driveways and avenues. Excellent street tree.",
-    "uses":"attracts-bees",
-    "tolerates":"",
-    "soilType":"",
-    "sunShade":"",
-    "winterFoliage":"deciduous",
-    "origin":"exotic",
-    "types":"",
-    "height":"5m",
-    "width":"4m",
-    "floweringSeason":"spring",
-    "flowerColor":"pink",
-    "autumnColor":"orange",
-    "foliageColor":"green",
-    "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-    "relatedTrees":[],
-    "images":[
-      {
-        "src":"images/trees/prunus-pink-perfection-flowering-cherry/prunus-pink-perfection-flowering-cherry-flowers.jpeg",
-        "alt":"prunus pink perfection flowering cherry flowers"
-      }
-    ]
-  },
-  {
     "botanicalName":"Prunus serrula",
     "commonName":"Tibetan Cherry, Paperbark Cherry",
     "url":"prunus-serrula-tibetan-cherry-paperbark-cherry",
@@ -33879,6 +33850,35 @@
      {
        "src":"images/trees/prunus-serrulata-kiku-shidare-zakura-japanese-cherry/prunus-serrulata-kiku-shidare-zakura-japanese-cherry-glorious-flowers.jpg",
        "alt":"prunus serrulata kiku shidare zakura japanese cherry glorious flowers"
+     }
+   ]
+  },
+  {
+   "botanicalName":"Prunus serrulata 'Pink Perfection'",
+   "commonName":"Japanese Cherry",
+   "url":"prunus-serrulata-pink-perfection-japanese-cherry",
+   "mainImage":"prunus-serrulata-pink-perfection-japanese-cherry/prunus-serrulata-pink-perfection-japanese-cherry.jpg",
+   "description":"Erect, spreading, vase-shaped tree. Bronze new leaves are green through summer and orange in autumn. Fully double flowers with frilled margins are a bright rose-pink in bud, opening to clear-pink. Flowers mid to late-spring. Great for lining driveways and avenues. Excellent street tree.",
+   "uses":"attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"5m",
+   "width":"4m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink",
+   "autumnColor":"orange",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/prunus-serrulata-pink-perfection-japanese-cherry/prunus-serrulata-pink-perfection-japanese-cherry-flowers.jpeg",
+       "alt":"prunus serrulata pink perfection japanese cherry flowers"
      }
    ]
   },
