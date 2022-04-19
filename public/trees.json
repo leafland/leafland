@@ -32509,7 +32509,7 @@
     "commonName":"Flowering Cherry",
     "url":"prunus-accolade-flowering-cherry",
     "mainImage":"prunus-accolade-flowering-cherry/prunus-accolade-flowering-cherry.jpg",
-    "description":"Has a vase-shaped form and spreading branches. Yellow and orange autumn leaves. Semi-double, frilled, rich-pink flowers hang in clusters. Early-spring flowering. Excellent street tree. Protect from strong winds.",
+    "description":"A cross between Prunus sargentii and Prunus subhirtella. Has a vase-shaped form and spreading branches. Yellow and orange autumn leaves. Semi-double, frilled, rich-pink flowers hang in clusters. Early-spring flowering. Excellent street tree. Protect from strong winds.",
     "uses":"street, attracts-bees",
     "tolerates":"",
     "soilType":"",
@@ -32766,6 +32766,32 @@
         "alt":"prunus campanulata felix jury taiwan cherry young tree"
       }
     ]
+  },
+  {
+   "botanicalName":"Prunus campanulata \"Jim's Delight\"",
+   "commonName":"Taiwan Cherry",
+   "url":"prunus-campanulata-jims-delight-taiwan-cherry",
+   "mainImage":"prunus-campanulata-jims-delight-taiwan-cherry/prunus-campanulata-jims-delight-taiwan-cherry.jpg",
+   "description":"A vase-shaped tree with a slight spreading habit. Small, single, pink flowers in spring. Great for driveways or as a street tree.",
+   "uses":"small-garden, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"3m",
+   "width":"2m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink",
+   "autumnColor":"",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     
+   ]
   },
   {
     "botanicalName":"Prunus campanulata 'Okame'",
@@ -33132,32 +33158,6 @@
         "src":"images/trees/prunus-x-hillieri-spire-flowering-cherry/prunus-x-hillieri-spire-flowering-cherry-flower.jpg",
         "alt":"prunus x hillieri spire flowering cherry flower"
       }
-    ]
-  },
-  {
-    "botanicalName":"Prunus \"Jim's Delight\"",
-    "commonName":"Flowering Cherry",
-    "url":"prunus-jims-delight-flowering-cherry",
-    "mainImage":"prunus-jims-delight-flowering-cherry/prunus-jims-delight-flowering-cherry.jpg",
-    "description":"A vase-shaped tree with a slight spreading habit. Small, single, pink flowers in spring. Great for driveways or as a street tree.",
-    "uses":"small-garden, attracts-bees",
-    "tolerates":"",
-    "soilType":"",
-    "sunShade":"",
-    "winterFoliage":"deciduous",
-    "origin":"exotic",
-    "types":"",
-    "height":"3m",
-    "width":"2m",
-    "floweringSeason":"spring",
-    "flowerColor":"pink",
-    "autumnColor":"",
-    "foliageColor":"green",
-    "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-    "relatedTrees":[],
-    "images":[
-      
     ]
   },
   {
