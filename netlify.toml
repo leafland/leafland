@@ -72,3 +72,9 @@
     from = "/trees/prunus-ichiyo-flowering-cherry/"
     status = 301
     to = "/trees/prunus-serrulata-ichiyo-japanese-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/prunus-shirotae-flowering-cherry/"
+    status = 301
+    to = "/trees/prunus-serrulata-shirotae-japanese-cherry/"

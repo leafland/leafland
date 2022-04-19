@@ -33883,6 +33883,106 @@
    ]
   },
   {
+   "botanicalName":"Prunus serrulata 'Shirotae'",
+   "commonName":"Japanese Cherry",
+   "url":"prunus-serrulata-shirotae-japanese-cherry",
+   "mainImage":"prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry.jpg",
+   "description":"Also known as Prunus 'Mount Fuji'. Strong-growing, wide-spreading, flat-top cherry with tiered, horizontal branches. Grows as wide as its height. Large, fragrant, pure-white, semi-double flowers from white buds that are sometimes tinged with pink. Flowers in mid-spring. Serrated, green leaves turn yellow, red, and orange in autumn. A superb shade tree.",
+   "uses":"street, shade, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"5m",
+   "width":"5m",
+   "floweringSeason":"spring",
+   "flowerColor":"white",
+   "autumnColor":"yellow, red, orange",
+   "foliageColor":"green",
+   "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-autumn-foliage.jpeg",
+       "alt":"prunus serrulata shirotae japanese cherry autumn foliage"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-avenue.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry avenue"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-back-garden.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry back garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-city-park.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry city park"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-city-street.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry city street"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flower-cluster.jpeg",
+       "alt":"prunus serrulata shirotae japanese cherry flower cluster"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flower-group.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flower group"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flower.jpeg",
+       "alt":"prunus serrulata shirotae japanese cherry flower"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-back-garden.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering back garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-driveway.jpeg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering driveway"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-field.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering field"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-park.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering park"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-roadside.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering roadside"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering-town.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering town"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowering.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowering"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-flowers.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry flowers"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-park.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry park"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-street.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry street"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry-summer.jpg",
+       "alt":"prunus serrulata shirotae japanese cherry summer"
+     }
+   ]
+  },
+  {
     "botanicalName":"Prunus 'Shimidsu-sakura'",
     "commonName":"Flowering Cherry",
     "url":"prunus-shimidsu-sakura-flowering-cherry",
@@ -33980,106 +34080,6 @@
       {
         "src":"images/trees/prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry-street.jpg",
         "alt":"prunus shimidsu sakura flowering cherry street"
-      }
-    ]
-  },
-  {
-    "botanicalName":"Prunus 'Shirotae'",
-    "commonName":"Flowering Cherry",
-    "url":"prunus-shirotae-flowering-cherry",
-    "mainImage":"prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry.jpg",
-    "description":"Also known as Prunus 'Mount Fuji'. Strong-growing, wide-spreading, flat-top cherry with tiered, horizontal branches. Grows as wide as its height. Large, fragrant, pure-white, semi-double flowers from white buds that are sometimes tinged with pink. Flowers in mid-spring. Serrated, green leaves turn yellow, red, and orange in autumn. A superb shade tree.",
-    "uses":"street, shade, attracts-bees",
-    "tolerates":"",
-    "soilType":"",
-    "sunShade":"",
-    "winterFoliage":"deciduous",
-    "origin":"exotic",
-    "types":"",
-    "height":"5m",
-    "width":"5m",
-    "floweringSeason":"spring",
-    "flowerColor":"white",
-    "autumnColor":"yellow, red, orange",
-    "foliageColor":"green",
-    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-    "relatedTrees":[],
-    "images":[
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-autumn-foliage.jpeg",
-        "alt":"prunus shirotae flowering cherry autumn foliage"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-avenue.jpg",
-        "alt":"prunus shirotae flowering cherry avenue"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-back-garden.jpg",
-        "alt":"prunus shirotae flowering cherry back garden"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-city-park.jpg",
-        "alt":"prunus shirotae flowering cherry city park"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-city-street.jpg",
-        "alt":"prunus shirotae flowering cherry city street"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flower-cluster.jpeg",
-        "alt":"prunus shirotae flowering cherry flower cluster"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flower-group.jpg",
-        "alt":"prunus shirotae flowering cherry flower group"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flower.jpeg",
-        "alt":"prunus shirotae flowering cherry flower"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-back-garden.jpg",
-        "alt":"prunus shirotae flowering cherry flowering back garden"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-driveway.jpeg",
-        "alt":"prunus shirotae flowering cherry flowering driveway"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-field.jpg",
-        "alt":"prunus shirotae flowering cherry flowering field"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-park.jpg",
-        "alt":"prunus shirotae flowering cherry flowering park"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-roadside.jpg",
-        "alt":"prunus shirotae flowering cherry flowering roadside"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering-town.jpg",
-        "alt":"prunus shirotae flowering cherry flowering town"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowering.jpg",
-        "alt":"prunus shirotae flowering cherry flowering"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-flowers.jpg",
-        "alt":"prunus shirotae flowering cherry flowers"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-park.jpg",
-        "alt":"prunus shirotae flowering cherry park"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-street.jpg",
-        "alt":"prunus shirotae flowering cherry street"
-      },
-      {
-        "src":"images/trees/prunus-shirotae-flowering-cherry/prunus-shirotae-flowering-cherry-summer.jpg",
-        "alt":"prunus shirotae flowering cherry summer"
       }
     ]
   },
