@@ -33226,119 +33226,6 @@
     ]
   },
   {
-    "botanicalName":"Prunus 'Kanzan'",
-    "commonName":"Flowering Cherry",
-    "url":"prunus-kanzan-flowering-cherry",
-    "mainImage":"prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry.jpg",
-    "description":"Young trees have a narrow, erect, vase-shaped growth habit, but spread out as they mature. Maroon buds open to large, fully-double, deep-pink flowers held in drooping clusters. Bronze leaves emerge with the flowers to contrast nicely. Flowers in mid to late-spring. Red, orange, and yellow autumn leaves. Great for lining avenues and driveways. One of the wind-hardiest flowering cherries.",
-    "uses":"street, attracts-bees",
-    "tolerates":"",
-    "soilType":"",
-    "sunShade":"",
-    "winterFoliage":"deciduous",
-    "origin":"exotic",
-    "types":"",
-    "height":"7m",
-    "width":"5m",
-    "floweringSeason":"spring",
-    "flowerColor":"pink",
-    "autumnColor":"yellow, red, orange",
-    "foliageColor":"green",
-    "fruitingSeason":"",
-    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-    "relatedTrees":[],
-    "images":[
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-autumn-leaves.jpg",
-        "alt":"prunus kanzan flowering cherry autumn leaves"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-autumn.jpg",
-        "alt":"prunus kanzan flowering cherry autumn"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flower-cluster.jpg",
-        "alt":"prunus kanzan flowering cherry flower cluster"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flower.jpeg",
-        "alt":"prunus kanzan flowering cherry flower"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-city-park.jpg",
-        "alt":"prunus kanzan flowering cherry flowering city park"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-city.jpg",
-        "alt":"prunus kanzan flowering cherry flowering city"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-footpath.jpg",
-        "alt":"prunus kanzan flowering cherry flowering footpath"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-front-garden.jpg",
-        "alt":"prunus kanzan flowering cherry flowering front garden"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-pathway.jpg",
-        "alt":"prunus kanzan flowering cherry flowering pathway"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-school.jpg",
-        "alt":"prunus kanzan flowering cherry flowering school"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-street-avenue.jpg",
-        "alt":"prunus kanzan flowering cherry flowering street avenue"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-street.jpg",
-        "alt":"prunus kanzan flowering cherry flowering street"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-young-tree.jpg",
-        "alt":"prunus kanzan flowering cherry flowering young tree"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering-young.jpg",
-        "alt":"prunus kanzan flowering cherry flowering young"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-flowering.jpg",
-        "alt":"prunus kanzan flowering cherry flowering"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-masses-of-flowers.jpg",
-        "alt":"prunus kanzan flowering cherry masses of flowers"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-new-flower.jpeg",
-        "alt":"prunus kanzan flowering cherry new flower"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-spring-park.jpg",
-        "alt":"prunus kanzan flowering cherry spring park"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-street.jpg",
-        "alt":"prunus kanzan flowering cherry street"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-summer-foliage.jpg",
-        "alt":"prunus kanzan flowering cherry summer foliage"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-summer.jpg",
-        "alt":"prunus kanzan flowering cherry summer"
-      },
-      {
-        "src":"images/trees/prunus-kanzan-flowering-cherry/prunus-kanzan-flowering-cherry-winter.jpg",
-        "alt":"prunus kanzan flowering cherry winter"
-      }
-    ]
-  },
-  {
     "botanicalName":"Prunus 'Kiku-shidare-zakura'",
     "commonName":"Flowering Cherry",
     "url":"prunus-kiku-shidare-zakura-flowering-cherry",
@@ -33830,55 +33717,168 @@
    "images":[
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-carpark.jpg",
-       "alt":"prunus amanogawa flowering cherry carpark"
+       "alt":"prunus serrulata amanogawa japanese cherry carpark"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-cemetery.jpg",
-       "alt":"prunus amanogawa flowering cherry cemetery"
+       "alt":"prunus serrulata amanogawa japanese cherry cemetery"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flower-garden.jpg",
-       "alt":"prunus amanogawa flowering cherry flower garden"
+       "alt":"prunus serrulata amanogawa japanese cherry flower garden"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flower.jpeg",
-       "alt":"prunus amanogawa flowering cherry flower"
+       "alt":"prunus serrulata amanogawa japanese cherry flower"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-cemetery.jpg",
-       "alt":"prunus amanogawa flowering cherry flowering cemetery"
+       "alt":"prunus serrulata amanogawa japanese cherry flowering cemetery"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-church.jpg",
-       "alt":"prunus amanogawa flowering cherry flowering church"
+       "alt":"prunus serrulata amanogawa japanese cherry flowering church"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-garden.jpg",
-       "alt":"prunus amanogawa flowering cherry flowering garden"
+       "alt":"prunus serrulata amanogawa japanese cherry flowering garden"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering-sidewalk.jpg",
-       "alt":"prunus amanogawa flowering cherry flowering sidewalk"
+       "alt":"prunus serrulata amanogawa japanese cherry flowering sidewalk"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowering.jpg",
-       "alt":"prunus amanogawa flowering cherry flowering"
+       "alt":"prunus serrulata amanogawa japanese cherry flowering"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-flowers.jpeg",
-       "alt":"prunus amanogawa flowering cherry flowers"
+       "alt":"prunus serrulata amanogawa japanese cherry flowers"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-garden.jpg",
-       "alt":"prunus amanogawa flowering cherry garden"
+       "alt":"prunus serrulata amanogawa japanese cherry garden"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-street.jpg",
-       "alt":"prunus amanogawa flowering cherry street"
+       "alt":"prunus serrulata amanogawa japanese cherry street"
      },
      {
        "src":"images/trees/prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry-young.jpg",
-       "alt":"prunus amanogawa flowering cherry young"
+       "alt":"prunus serrulata amanogawa japanese cherry young"
+     }
+   ]
+  },
+  {
+   "botanicalName":"Prunus serrulata 'Kanzan'",
+   "commonName":"Japanese Cherry",
+   "url":"prunus-serrulata-kanzan-japanese-cherry",
+   "mainImage":"prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry.jpg",
+   "description":"Young trees have a narrow, erect, vase-shaped growth habit, but spread out as they mature. Maroon buds open to large, fully-double, deep-pink flowers held in drooping clusters. Bronze leaves emerge with the flowers to contrast nicely. Flowers in mid to late-spring. Red, orange, and yellow autumn leaves. Great for lining avenues and driveways. One of the wind-hardiest flowering cherries.",
+   "uses":"street, attracts-bees",
+   "tolerates":"",
+   "soilType":"",
+   "sunShade":"",
+   "winterFoliage":"deciduous",
+   "origin":"exotic",
+   "types":"",
+   "height":"7m",
+   "width":"5m",
+   "floweringSeason":"spring",
+   "flowerColor":"pink",
+   "autumnColor":"yellow, red, orange",
+   "foliageColor":"green",
+   "fruitingSeason":"",
+   "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-autumn-leaves.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry autumn leaves"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-autumn.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry autumn"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flower-cluster.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flower cluster"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flower.jpeg",
+       "alt":"prunus serrulata kanzan japanese cherry flower"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-city-park.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering city park"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-city.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering city"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-footpath.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering footpath"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-front-garden.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering front garden"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-pathway.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering pathway"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-school.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering school"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-street-avenue.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering street avenue"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-street.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering street"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-young-tree.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering young tree"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering-young.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering young"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-flowering.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry flowering"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-masses-of-flowers.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry masses of flowers"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-new-flower.jpeg",
+       "alt":"prunus serrulata kanzan japanese cherry new flower"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-spring-park.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry spring park"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-street.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry street"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-summer-foliage.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry summer foliage"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-summer.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry summer"
+     },
+     {
+       "src":"images/trees/prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry-winter.jpg",
+       "alt":"prunus serrulata kanzan japanese cherry winter"
      }
    ]
   },
