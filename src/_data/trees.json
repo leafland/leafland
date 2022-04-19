@@ -34084,6 +34084,103 @@
     ]
    },
    {
+    "botanicalName":"Prunus serrulata 'Tai-haku'",
+    "commonName":"Japanese Cherry",
+    "url":"prunus-serrulata-tai-haku-japanese-cherry",
+    "mainImage":"prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry.jpg",
+    "description":"Tall, spreading tree with a rounded crown. The large, pure-white, single, slightly-fragrant flowers are borne in large clusters in mid-spring from pink buds. The large leaves mature deep-green through summer, turning yellow, red, and orange in autumn. Spectacular blossom tree.",
+    "uses":"street, shade, attracts-bees",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"8m",
+    "width":"6m",
+    "floweringSeason":"spring",
+    "flowerColor":"white",
+    "autumnColor":"yellow, red, orange",
+    "foliageColor":"green",
+    "fruitingSeason":"",
+    "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-autumn-colour.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry autumn colour"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-field.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry field"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flower-clusters.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flower clusters"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowering-cemetery.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowering cemetery"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowering-garden.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowering garden"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowering-group.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowering group"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowering-rows.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowering rows"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowering.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowering"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowers-buds.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry flowers buds"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-flowers.jpeg",
+        "alt":"prunus serrulata tai haku japanese cherry flowers"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-full-flower.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry full flower"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-new-growth.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry new growth"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-park.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-roadside.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry roadside"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-spring-park.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry spring park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-summer-cemetery.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry summer cemetery"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-young-tree-park.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry young tree park"
+      },
+      {
+        "src":"images/trees/prunus-serrulata-tai-haku-japanese-cherry/prunus-serrulata-tai-haku-japanese-cherry-young.jpg",
+        "alt":"prunus serrulata tai haku japanese cherry young"
+      }
+    ]
+   },
+   {
      "botanicalName":"Prunus subhirtella 'Autumnalis Rosea'",
      "commonName":"Higan Cherry",
      "url":"prunus-subhirtella-autumnalis-rosea-higan-cherry",
@@ -34402,103 +34499,6 @@
        {
          "src":"images/trees/prunus-subhirtella-southern-gem-higan-cherry/prunus-subhirtella-southern-gem-higan-cherry-pathway.jpg",
          "alt":"prunus subhirtella southern gem higan cherry pathway"
-       }
-     ]
-   },
-   {
-     "botanicalName":"Prunus 'Tai-haku'",
-     "commonName":"Flowering Cherry",
-     "url":"prunus-tai-haku-flowering-cherry",
-     "mainImage":"prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry.jpg",
-     "description":"Tall, spreading tree with a rounded crown. The large, pure-white, single, slightly-fragrant flowers are borne in large clusters in mid-spring from pink buds. The large leaves mature deep-green through summer, turning yellow, red, and orange in autumn. Spectacular blossom tree.",
-     "uses":"street, shade, attracts-bees",
-     "tolerates":"",
-     "soilType":"",
-     "sunShade":"",
-     "winterFoliage":"deciduous",
-     "origin":"exotic",
-     "types":"",
-     "height":"8m",
-     "width":"6m",
-     "floweringSeason":"spring",
-     "flowerColor":"white",
-     "autumnColor":"yellow, red, orange",
-     "foliageColor":"green",
-     "fruitingSeason":"",
-     "treeShape":"images/icons/tree-shapes/prunus/prunus-general.svg",
-     "relatedTrees":[],
-     "images":[
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-autumn-colour.jpg",
-         "alt":"prunus tai haku flowering cherry autumn colour"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-field.jpg",
-         "alt":"prunus tai haku flowering cherry field"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flower-clusters.jpg",
-         "alt":"prunus tai haku flowering cherry flower clusters"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowering-cemetery.jpg",
-         "alt":"prunus tai haku flowering cherry flowering cemetery"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowering-garden.jpg",
-         "alt":"prunus tai haku flowering cherry flowering garden"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowering-group.jpg",
-         "alt":"prunus tai haku flowering cherry flowering group"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowering-rows.jpg",
-         "alt":"prunus tai haku flowering cherry flowering rows"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowering.jpg",
-         "alt":"prunus tai haku flowering cherry flowering"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowers-buds.jpg",
-         "alt":"prunus tai haku flowering cherry flowers buds"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-flowers.jpeg",
-         "alt":"prunus tai haku flowering cherry flowers"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-full-flower.jpg",
-         "alt":"prunus tai haku flowering cherry full flower"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-new-growth.jpg",
-         "alt":"prunus tai haku flowering cherry new growth"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-park.jpg",
-         "alt":"prunus tai haku flowering cherry park"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-roadside.jpg",
-         "alt":"prunus tai haku flowering cherry roadside"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-spring-park.jpg",
-         "alt":"prunus tai haku flowering cherry spring park"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-summer-cemetery.jpg",
-         "alt":"prunus tai haku flowering cherry summer cemetery"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-young-tree-park.jpg",
-         "alt":"prunus tai haku flowering cherry young tree park"
-       },
-       {
-         "src":"images/trees/prunus-tai-haku-flowering-cherry/prunus-tai-haku-flowering-cherry-young.jpg",
-         "alt":"prunus tai haku flowering cherry young"
        }
      ]
    },
