@@ -25,6 +25,8 @@ main h2 {
 #tree-info-right {
   align-self: center;
   justify-self: center;
+  width: 100%;
+  max-width: 400px
 }
 
 #grid-content-right {
