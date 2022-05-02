@@ -647,8 +647,8 @@
      "relatedTrees":[],
      "images":[
        {
-         "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-autumn.jpg",
-         "alt":"acer cappadocicum rubrum cappadocian maple autumn"
+         "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-autumn-form.jpg",
+         "alt":"acer cappadocicum rubrum cappadocian maple autumn form"
        },
        {
          "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-foliage.jpeg",
@@ -659,8 +659,12 @@
          "alt":"acer cappadocicum rubrum cappadocian maple new foliage"
        },
        {
-         "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-spring.jpg",
-         "alt":"acer cappadocicum rubrum cappadocian maple spring"
+        "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-autumn-foliage.jpg",
+        "alt":"acer cappadocicum rubrum cappadocian maple autumn foliage"
+      },
+       {
+         "src":"images/trees/acer-cappadocicum-rubrum-cappadocian-maple/acer-cappadocicum-rubrum-cappadocian-maple-summer.jpg",
+         "alt":"acer cappadocicum rubrum cappadocian maple summer"
        }
      ]
    },
