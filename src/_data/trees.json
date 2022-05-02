@@ -138,12 +138,20 @@
      ],
      "images":[
        {
-         "src":"images/trees/acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle-flowers.jpg",
-         "alt":"acacia baileyana purpurea cootamundra wattle flowers"
+         "src":"images/trees/acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle-new-flowers.jpeg",
+         "alt":"acacia baileyana purpurea cootamundra wattle new flowers"
        },
        {
          "src":"images/trees/acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle-garden.jpg",
          "alt":"acacia baileyana purpurea cootamundra wattle garden"
+       },
+       {
+         "src":"images/trees/acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle-flowers-foliage.jpeg",
+         "alt":"acacia baileyana purpurea cootamundra wattle flowers foliage"
+       },
+       {
+         "src":"images/trees/acacia-baileyana-purpurea-cootamundra-wattle/acacia-baileyana-purpurea-cootamundra-wattle-new-growth.jpeg",
+         "alt":"acacia baileyana purpurea cootamundra wattle new growth"
        }
      ]
    },
