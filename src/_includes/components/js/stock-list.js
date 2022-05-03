@@ -45,8 +45,7 @@ if (stockListType === "retail") {
     "COMMON NAME",
     "GRADE",
     "$RETAIL",
-    "$WHOLESALE-10%",
-    "$WHOLESALE-20%",
+    "$WHOLESALE",
     "AVERAGE HEIGHT (m)",
     "STANDARD HEIGHT (m)",
     "READY",
@@ -114,11 +113,13 @@ async function displayData(dataSet, stockStart, stockEnd) {
         }
       } else {
         for (let j = 0; j < 10; j++) {
-          let cell = document.createElement("td");
+          if (j !== 4) {
+            let cell = document.createElement("td");
 
-          cell.textContent = dataSet[i][j];
+            cell.textContent = dataSet[i][j];
 
-          row.append(cell);
+            row.append(cell);
+          }
         }
       }
 
