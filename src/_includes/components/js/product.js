@@ -15,7 +15,7 @@ let treeAttributes = document.querySelector("#tree-attributes");
 let imageLightbox = document.querySelector("#image-lightbox");
 let imageLightboxInner = document.querySelector("#image-lightbox-div");
 let imageLightBoxClose = document.querySelector("#image-lightbox-close");
-let comingOn = document.querySelector("#coming-on");
+// let comingOn = document.querySelector("#coming-on");
 
 let imageLeftButton = document.querySelector("#image-left-button");
 let imageRightButton = document.querySelector("#image-right-button");
@@ -28,7 +28,7 @@ let maximumQuantityReached = false;
 let quantityField = document.querySelector("#quantity-field");
 let wholesalePriceField = document.querySelector("#wholesale-price");
 let retailPriceField = document.querySelector("#retail-price");
-let comingOnField = document.querySelector("#coming-on-field");
+// let comingOnField = document.querySelector("#coming-on-field");
 
 let stockTableDiv = document.querySelector("#stock-table-div");
 
@@ -345,10 +345,10 @@ async function createStockValues() {
         }
       });
 
-      if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
-        comingOnField.style.setProperty("display", "none");
-        comingOn.innerHTML += `<span class="info-pill">${grade.grade} - ${grade.comingOn} total</span>`;
-      }
+      // if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
+      //   comingOnField.style.setProperty("display", "none");
+      //   comingOn.innerHTML += `<span class="info-pill">${grade.grade} - ${grade.comingOn} total</span>`;
+      // }
     });
 
     quantityField.textContent = "0";
@@ -364,7 +364,7 @@ async function createStockValues() {
     gradeSizesDiv.style.setProperty("margin-top", "0");
 
     stockValuesDiv.style.setProperty("display", "none");
-    document.querySelector("#coming-on").style.setProperty("display", "none");
+    // document.querySelector("#coming-on").style.setProperty("display", "none");
   }
 }
 
