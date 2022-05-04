@@ -12,10 +12,13 @@
     {% endif %}
     </title>
 
-    <link rel='preconnect' href="https://bat.bing.com">
+    {% comment %} <link rel='preconnect' href="https://bat.bing.com">
     <link rel='dns-prefetch' href="https://bat.bing.com">
     <link rel='preconnect' href="https://www.google-analytics.com">
-    <link rel='dns-prefetch' href="https://www.google-analytics.com">
+    <link rel='dns-prefetch' href="https://www.google-analytics.com"> {% endcomment %}
+
+    <link rel='preconnect' href="https://leafland.imgix.net">
+    <link rel='dns-prefetch' href="https://leafland.imgix.net">
 
 
     {% if type == 'product' %}
@@ -218,7 +221,7 @@
     {% endif %}
 
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
+    {% comment %} <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -249,7 +252,7 @@
           (i = d.getElementsByTagName(t)[0]),
           i.parentNode.insertBefore(n, i);
       })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
-    </script>
+    </script> {% endcomment %}
 
   </body>
 
