@@ -43,6 +43,7 @@
       {% include "components/css/order.min.css" %}
       {% include "components/css/search.min.css" %}
       {% include "components/css/product.min.css" %}
+      {% include "components/css/stock-table.min.css" %}
 
     {% elsif type == "submit-order" %}
       {% include "components/css/main.min.css" %}
@@ -211,6 +212,8 @@
     {% if type == 'product' %}
 
     {% include "components/_image-lightbox.liquid"%}
+
+    {% include "components/_stock-table.liquid"%}
 
     {% endif %}
 

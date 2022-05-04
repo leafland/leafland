@@ -30,6 +30,8 @@ let wholesalePriceField = document.querySelector("#wholesale-price");
 let retailPriceField = document.querySelector("#retail-price");
 let comingOnField = document.querySelector("#coming-on-field");
 
+let stockTableDiv = document.querySelector("#stock-table-div");
+
 let heightValues = 0;
 let standardHeightValues = 0;
 
@@ -38,6 +40,8 @@ let productTrees = JSON.parse(localStorage.getItem("trees"));
 const productAdded = new Event("productAdded");
 
 let grades = [];
+let stockData = [];
+let newData = [];
 
 window.addEventListener("loginUpdated", () => {
   (async function init() {
@@ -47,6 +51,24 @@ window.addEventListener("loginUpdated", () => {
 
     await getProductStockData();
     await createStockValues();
+
+    stockData = await fetch(
+      "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
+    )
+      .then((response) => response.json())
+      .catch((error) => {});
+
+    if (treeCommonName.textContent !== "") {
+      document.querySelector(
+        "#tree-name-content"
+      ).textContent = `${treeBotanicalName.textContent} (${treeCommonName.textContent})`;
+    } else {
+      document.querySelector(
+        "#tree-name-content"
+      ).textContent = `${treeBotanicalName.textContent}`;
+    }
+
+    await createStockTable();
   })();
 });
 
@@ -663,6 +685,120 @@ function createHeights(grade, height) {
   }
 }
 
+async function createStockTable() {
+  let heading = [];
+  if (document.body.classList.contains("loggedIn")) {
+    heading = [
+      "GRADE",
+      "$RETAIL",
+      "$WHOLESALE",
+      "AVERAGE HEIGHT (m)",
+      "STANDARD HEIGHT (m)",
+      "READY",
+      "COMING ON",
+    ];
+  } else {
+    heading = [
+      "GRADE",
+      "$RETAIL",
+      "AVERAGE HEIGHT (m)",
+      "STANDARD HEIGHT (m)",
+      "READY",
+      "COMING ON",
+    ];
+  }
+
+  newData = stockData.filter((item) => {
+    let testItem = item[0]
+      .trim()
+      .replace(/ã/g, "a")
+      .replace(/é/g, "e")
+      .replace(/ā/g, "a")
+      .replace(/ē/g, "e")
+      .replace(/ī/g, "i")
+      .replace(/ō/g, "o")
+      .replace(/ū/g, "u")
+      .replace(/'/g, "")
+      .replace(/"/g, "")
+      .replace(/\./g, "")
+      .replace(/ var /g, " ")
+      .replace(/ x /g, " ")
+      .replace(/\(/g, "")
+      .replace(/\)/g, "")
+      .replace(/\\/g, " ")
+      .replace(/\//g, " ")
+      .replace(/ /g, "-")
+      .toLowerCase();
+    return testItem.includes(
+      treeBotanicalName.textContent
+        .trim()
+        .replace(/ã/g, "a")
+        .replace(/é/g, "e")
+        .replace(/ā/g, "a")
+        .replace(/ē/g, "e")
+        .replace(/ī/g, "i")
+        .replace(/ō/g, "o")
+        .replace(/ū/g, "u")
+        .replace(/'/g, "")
+        .replace(/"/g, "")
+        .replace(/\./g, "")
+        .replace(/ var /g, " ")
+        .replace(/ x /g, " ")
+        .replace(/\(/g, "")
+        .replace(/\)/g, "")
+        .replace(/\\/g, " ")
+        .replace(/\//g, " ")
+        .replace(/ /g, "-")
+        .toLowerCase()
+    );
+  });
+
+  let table = document.createElement("table");
+
+  if (newData.length > 0) {
+    for (let i = 0; i < newData.length; i++) {
+      if (i === 0) {
+        let row = document.createElement("tr");
+        heading.forEach((item) => {
+          let cell = document.createElement("th");
+          cell.textContent = item;
+          row.append(cell);
+        });
+        table.append(row);
+      }
+
+      let row = document.createElement("tr");
+
+      for (let j = 0; j < 10; j++) {
+        if (document.body.classList.contains("loggedIn")) {
+          if (j !== 0 && j !== 1 && j !== 4) {
+            let cell = document.createElement("td");
+
+            cell.textContent = newData[i][j];
+
+            row.append(cell);
+          }
+        } else {
+          if (j !== 0 && j !== 1 && j !== 4 && j !== 5) {
+            let cell = document.createElement("td");
+
+            cell.textContent = newData[i][j];
+
+            row.append(cell);
+          }
+        }
+      }
+
+      table.append(row);
+    }
+
+    stockTableDiv.append(table);
+  } else {
+    stockTableDiv.innerHTML = `<p class="bold-up">Currently out of stock.</p>`;
+    stockTableDiv.style.setProperty("border", "none");
+  }
+}
+
 function addEventListeners() {
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
@@ -700,5 +836,13 @@ function addEventListeners() {
       successMessage.style.setProperty("opacity", "0");
       successMessage.style.setProperty("visibility", "hidden");
     }, 4000);
+  });
+
+  document.querySelector("#open-stock-table").addEventListener("click", () => {
+    document.body.classList.add("stock-table-open");
+  });
+
+  document.querySelector("#stock-table-close").addEventListener("click", () => {
+    document.body.classList.remove("stock-table-open");
   });
 }

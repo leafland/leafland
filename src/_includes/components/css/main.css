@@ -514,6 +514,15 @@ footer p {
   grid-template-rows: 1fr auto;
 }
 
+body.search-open #search-overlay,
+body.login-open #login-overlay,
+body.order-open #order-overlay,
+body.main-menu-open #main-menu-overlay {
+  opacity: 1;
+  z-index: 8;
+  visibility: visible;
+}
+
 body.search-open,
 body.login-open,
 body.order-open,
@@ -526,14 +535,6 @@ body.main-menu-open {
   bottom: 0;
 }
 
-body.search-open #search-overlay,
-body.login-open #login-overlay,
-body.order-open #order-overlay,
-body.main-menu-open #main-menu-overlay {
-  opacity: 1;
-  z-index: 8;
-  visibility: visible;
-}
 
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,

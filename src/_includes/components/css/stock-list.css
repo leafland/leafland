@@ -16,9 +16,6 @@ table {
 }
 
 th {
-  position: sticky;
-  top: 0;
-  background: var(--surface1-light);
   text-align: center;
   padding: 0.5rem 1rem;
   border-bottom: 2px solid var(--primary-text);

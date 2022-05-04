@@ -358,6 +358,8 @@ type: product
 
                 {% comment %} <h3 id="grade-sizes-heading">Add to order</h3> {% endcomment %}
 
+                <button id="open-stock-table">View pricing and stock numbers</button>
+
                 <div id="grade-sizes">
 
                     <div id="grade-select">
@@ -492,6 +494,8 @@ type: product
             <div id="tree-information-table">
 
                 <p class="block-title-less-margin">Tree specifications</p>
+                
+                    {% if botanicalName.size > 0 %}
 
                     <div>
 
@@ -499,11 +503,21 @@ type: product
 
                     </div>
 
+                    {% endif %}
+
+
+                    {% if commonName.size > 0 %}
+
                     <div>
 
                         <p><span class="tree-information-table-heading">Common Name:</span> {{ commonName }}</p>
 
                     </div>
+
+                    {% endif %}
+
+
+                    {% if description.size > 0 %}
 
                     <div>
 
@@ -511,9 +525,12 @@ type: product
 
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if height != "" and height.length > 0 %}
+
+                    {% if height.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -537,17 +554,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Height:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Height:</span> {{ height }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if width != "" and width.length > 0 %}
+
+                    {% if width.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -571,17 +585,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Width:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Width:</span> {{ width }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if uses != "" and uses.length > 0 %}
+
+                    {% if uses.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -605,17 +616,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Uses:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Uses:</span> {{ uses }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if tolerates != "" and tolerates.length > 0 %}
+
+                    {% if tolerates.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -639,17 +647,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Tolerates:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Tolerates:</span> {{ tolerates }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if soilType != "" and soilType.length > 0 %}
+
+                    {% if soilType.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -673,17 +678,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Soil Type:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Soil Type:</span> {{ soilType }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if sunShade != "" and sunShade.length > 0 %}
+
+                    {% if sunShade.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -707,17 +709,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Sun and Shade:</span> {{ sunShade }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+                    {% if winterFoliage.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -741,17 +740,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Winter Foliage:</span> {{ winterFoliage }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if origin != "" and origin.length > 0 %}
+
+                    {% if origin.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -775,17 +771,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Origin:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Origin:</span> {{ origin }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if types != "" and types.length > 0 %}
+
+                    {% if types.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -809,17 +802,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Types:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Types:</span> {{ types }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if floweringSeason != "" and floweringSeason.length > 0 %}
+
+                    {% if floweringSeason.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -843,17 +833,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Flowering Season:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Flowering Season:</span> {{ floweringSeason }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if flowerColor != "" and flowerColor.length > 0 %}
+
+                    {% if flowerColor.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -877,17 +864,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Flower Colour:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Flower Colour:</span> {{ flowerColor }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if autumnColor != "" and autumnColor.length > 0 %}
+
+                    {% if autumnColor.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -911,17 +895,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ autumnColor }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if foliageColor != "" and foliageColor.length > 0 %}
+
+                    {% if foliageColor.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -945,17 +926,14 @@ type: product
 
                         <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ foliageColor }}</p>
-
-                        {% endif %}
-
                     </div>
 
-                    <div>
+                    {% endif %}
 
-                        {% if fruitingSeason != "" and fruitingSeason.length > 0 %}
+
+                    {% if fruitingSeason.size > 0 %}
+
+                    <div>
 
                         {% assign newString = "" %}
 
@@ -979,13 +957,9 @@ type: product
 
                         <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ newString }}</p>
 
-                        {% else %}
-
-                        <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ fruitingSeason }}</p>
-
-                        {% endif %}
-
                     </div>
+
+                    {% endif %}
 
             </div>
 
