@@ -194,7 +194,7 @@ input,
 select,
 textarea {
   color: var(--primary-text);
-  border: 2px solid var(--border-color);
+  border: 2px solid var(--primary-text);
   border-radius: 8px;
   /* font-size: 1rem; */
   font-weight: bold;
@@ -333,7 +333,7 @@ iframe {
 button,
 .button,
 input[type="submit"] {
-  border: 2px solid var(--border-color);
+  border: 2px solid var(--primary-text);
   font-weight: bold;
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
