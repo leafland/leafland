@@ -729,7 +729,8 @@ async function createStockTable() {
       .replace(/\//g, " ")
       .replace(/ /g, "-")
       .toLowerCase();
-    return testItem.includes(
+    return (
+      testItem ===
       treeBotanicalName.textContent
         .trim()
         .replace(/ã/g, "a")
