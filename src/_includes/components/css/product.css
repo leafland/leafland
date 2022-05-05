@@ -785,6 +785,23 @@ details b {
   visibility: hidden;
 } */
 
+#features-table table {
+  border-spacing: 0px;
+  width: 100%;
+}
+
+#features-table th{
+  text-align: left;
+}
+
+#features-table tr:first-child {
+  height: 5rem;
+}
+
+#features-table tr:not(tr:first-child) {
+  height: 4rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover,

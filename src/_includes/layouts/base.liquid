@@ -45,8 +45,8 @@
       {% include "components/css/menu.min.css" %}
       {% include "components/css/order.min.css" %}
       {% include "components/css/search.min.css" %}
-      {% include "components/css/product.min.css" %}
       {% include "components/css/stock-table.min.css" %}
+      {% include "components/css/product.min.css" %}
 
     {% elsif type == "submit-order" %}
       {% include "components/css/main.min.css" %}
@@ -147,11 +147,11 @@
             "soilType": "{{ soilType | replace: '-', ' ' | capitalize }}",
             "tolerates": "{{ tolerates | replace: '-', ' ' | capitalize }}",
             "sunShade": "{{ sunShade | replace: '-', ' ' | capitalize }}",
-            "flowerColour": "{{ flowerColor | capitalize }}",
-            "autumnColour": "{{ autumnColor | capitalize }}",
-            "foliageColour": "{{ foliageColor | capitalize }}",
-            "fruitingSeason": "{{ fruitingSeason | capitalize }}",
-            "floweringSeason": "{{ floweringSeason | capitalize }}",
+            "flowerColour": "{{ filterFlowerColor | capitalize }}",
+            "autumnColour": "{{ filterAutumnColor | capitalize }}",
+            "foliageColour": "{{ filterFoliageColor | capitalize }}",
+            "fruitingSeason": "{{ filterFruitingSeason | capitalize }}",
+            "floweringSeason": "{{ filterFloweringSeason | capitalize }}",
             "aggregateRating": {
               "@type": "AggregateRating",
               "ratingValue": "5",
