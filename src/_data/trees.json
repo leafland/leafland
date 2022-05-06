@@ -4519,7 +4519,7 @@
      "commonName":"Norway Maple",
      "url":"acer-platanoides-princeton-gold-norway-maple",
      "mainImage":"acer-platanoides-princeton-gold-norway-maple/acer-platanoides-princeton-gold-norway-maple.jpg",
-     "description":"The fluorescent-yellow leaves in spring make this a standout tree. Through summer, the leaves remain a more muted-yellow. Protect from strong winds and harsh sunlight. Yellow autumn leaves. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
+     "description":"The fluorescent-yellow leaves in spring make this a standout tree. Through summer, the leaves remain a more muted yellow-green. Protect from strong winds and harsh sunlight. Yellow autumn leaves. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
      "uses":"shade",
      "tolerates":"windy, heavy-rainfall, drought",
      "soilType":"clay-soils, sandy-soils, rocky-soils, dry-soils, poor-draining-soils",
@@ -4532,8 +4532,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow",
-     "filterFoliageColor":"yellow",
+     "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"yellow, green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"yellow"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-platanoides/acer-platanoides-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4574,8 +4592,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow, orange",
-     "filterFoliageColor":"green, pink, white",
+     "filterFoliageColor":"green, pink, white, purple",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, pink, white, purple",
+      "autumn":"yellow, orange",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4599,7 +4635,7 @@
      "commonName":"Sycamore Maple",
      "url":"acer-pseudoplatanus-leopoldii-sycamore-maple",
      "mainImage":"acer-pseudoplatanus-leopoldii-sycamore-maple/acer-pseudoplatanus-leopoldii-sycamore-maple.jpg",
-     "description":"Large, yellow-pink spring leaves in summer. They become green and speckled with cream. A broad-growing tree. Yellow autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
+     "description":"Large, yellow-pink spring leaves. They become green and speckled with cream in summer. A broad-growing tree. Yellow autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
      "uses":"shade",
      "tolerates":"coastal, windy, light-frosts, heavy-frosts, drought",
      "soilType":"sandy-soils, clay-soils, rocky-soils",
@@ -4612,8 +4648,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow",
-     "filterFoliageColor":"green, white",
+     "filterFoliageColor":"green, white, pink, yellow",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, white",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"yellow, pink"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4648,6 +4702,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"purple, green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, purple",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green, purple"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4682,6 +4754,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"yellow, green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"yellow"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-pseudoplatanus/acer-pseudoplatanus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4716,10 +4806,28 @@
      "height":"8m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4787,7 +4895,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-armstrong-red-maple",
      "mainImage":"acer-rubrum-armstrong-red-maple/acer-rubrum-armstrong-red-maple.jpg",
-     "description":"Narrow, columnar form. Ideal for avenues, streets, and berms. Silver bark is a feature. Autumn leaves are usually yellow-orange, but can be a rich-red in the right environmental conditions. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Narrow, columnar form. Ideal for avenues, streets, and berms. Silver bark is a feature. Autumn leaves are usually yellow-orange, but can be a rich-red in the right environmental conditions. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, narrow-sites, driveways-and-avenues, attracts-bees",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -4798,10 +4906,28 @@
      "height":"8m",
      "width":"3m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, yellow, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
      "relatedTrees":[],
      "images":[
@@ -4857,7 +4983,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-autumn-glory-red-maple",
      "mainImage":"acer-rubrum-autumn-glory-red-maple/acer-rubrum-autumn-glory-red-maple.jpg",
-     "description":"Also known as Acer rubrum 'October Glory'. Compact, upright grower with deep-green leaves. A brilliant display of orange to red autumn leaves that last until winter. Does great in poor soils. Quick-growing and is excellent as a street tree. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Also known as Acer rubrum 'October Glory'. Compact, upright grower with deep-green leaves. A brilliant display of orange to red autumn leaves that last until winter. Does great in poor soils. Quick-growing and is excellent as a street tree. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, attracts-bees, shade",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -4868,10 +4994,28 @@
      "height":"8m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "relatedTrees":[],
      "images":[
@@ -4919,7 +5063,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-bowhall-red-maple",
      "mainImage":"acer-rubrum-bowhall-red-maple/acer-rubrum-bowhall-red-maple.jpg",
-     "description":"Upright, columnar shape that is great as an avenue or street tree. Quick-growing. Glowing, orange-red autumn leaves. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Upright, columnar shape that is great as an avenue or street tree. Quick-growing. Glowing, orange-red autumn leaves. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, narrow-sites, driveways-and-avenues, attracts-bees",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -4930,10 +5074,28 @@
      "height":"8m",
      "width":"3m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
      "relatedTrees":[],
      "images":[
@@ -5004,6 +5166,24 @@
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, purple",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5055,7 +5235,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-columnare-red-maple",
      "mainImage":"acer-rubrum-columnare-red-maple/acer-rubrum-columnare-red-maple.jpg",
-     "description":"Upright, columnar shape that is ideal for avenues. Has brilliant orange-red autumn leaves. Quick-growing. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Upright, columnar shape that is ideal for avenues. Has brilliant orange-red autumn leaves. Quick-growing. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, narrow-sites, driveways-and-avenues, attracts-bees",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -5066,10 +5246,28 @@
      "height":"8m",
      "width":"3m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
      "relatedTrees":[],
      "images":[
@@ -5117,7 +5315,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-jeffersred-red-maple",
      "mainImage":"acer-rubrum-jeffersred-red-maple/acer-rubrum-jeffersred-red-maple.jpg",
-     "description":"A hybrid of Acer rubrum and Acer saccharinum. Commonly traded as Acer x freemanii 'Jeffersred'. Also known as Acer x freemanii 'Autumn Blaze'. Large, green leaves with silver undersides. Striking orange-red to scarlet-red leaves in autumn. A vase-shaped tree that can be pruned as a narrow wind screen. Very rarely produces flowers, fruit, or seeds. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"A hybrid of Acer rubrum and Acer saccharinum. Commonly traded as Acer x freemanii 'Jeffersred'. Also known as Acer x freemanii 'Autumn Blaze'. Large, green leaves in spring and summer. Striking orange-red to scarlet-red leaves in autumn. A vase-shaped tree that can be pruned as a narrow wind screen. Very rarely produces flowers, fruit, or seeds. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, driveways-and-avenues, shade",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -5132,6 +5330,24 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5195,7 +5411,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-red-sunset-red-maple",
      "mainImage":"acer-rubrum-red-sunset-red-maple/acer-rubrum-red-sunset-red-maple.jpg",
-     "description":"Also known as Acer rubrum 'Franksred'. Large, fresh-green leaves that turn to a spectacular orange-red in autumn. Forms a broad, columnar head. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Also known as Acer rubrum 'Franksred'. Large, fresh-green leaves that turn to a spectacular orange-red in autumn. Forms a broad, columnar head. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, attracts-bees, shade",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -5206,10 +5422,28 @@
      "height":"8m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red",
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5257,7 +5491,7 @@
     "commonName":"Red Maple",
     "url":"acer-rubrum-scanlon-red-maple",
     "mainImage":"acer-rubrum-scanlon-red-maple/acer-rubrum-scanlon-red-maple.jpg",
-    "description":"An upright, narrow grower. Green leaves through spring and summer, with autumn tones of purple, red, and orange. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+    "description":"An upright, narrow grower. Green leaves through spring and summer, with autumn tones of purple, red, and orange. Small, red flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
     "uses":"street, attracts-bees, shade",
     "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
     "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -5268,10 +5502,28 @@
     "height":"8m",
     "width":"3m",
     "filterFloweringSeason":"spring",
-    "filterFlowerColor":"",
+    "filterFlowerColor":"red",
     "filterAutumnColor":"red, orange, purple",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, purple, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "treeShape":"images/icons/tree-shapes/acer-rubrum/acer-rubrum-upright.svg",
     "relatedTrees":[],
     "images":[
@@ -5308,8 +5560,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, grey",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, grey",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green, grey"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer/acer-large.svg",
      "relatedTrees":[],
      "images":[
@@ -5360,6 +5630,24 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, orange, yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer/acer-large.svg",
      "relatedTrees":[],
      "images":[
@@ -5408,8 +5696,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow, orange",
-     "filterFoliageColor":"yellow, green",
+     "filterFoliageColor":"yellow, green, orange",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"yellow, green",
+      "autumn":"orange, yellow",
+      "winter":"",
+      "spring":"orange"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5448,6 +5754,24 @@
     "filterAutumnColor":"yellow, red, orange",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow, red, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "treeShape":"images/icons/tree-shapes/acer/acer-general.svg",
     "relatedTrees":[],
     "images":[
@@ -5479,7 +5803,7 @@
      "commonName":"Red Horse Chestnut",
      "url":"aesculus-x-carnea-red-horse-chestnut",
      "mainImage":"aesculus-x-carnea-red-horse-chestnut/aesculus-x-carnea-red-horse-chestnut.jpg",
-     "description":"Round-headed and wide-growing tree with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+     "description":"Round-headed and wide-growing tree with large, dark-green, fan-shaped leaves. Giant red flower candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
      "uses":"paddocks, shade, attracts-bees",
      "tolerates":"light-frosts, windy",
      "soilType":"clay-soils, sandy-soils",
@@ -5494,6 +5818,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5529,7 +5871,7 @@
      "commonName":"Red Horse Chestnut",
      "url":"aesculus-x-carnea-briotii-red-horse-chestnut",
      "mainImage":"aesculus-x-carnea-briotii-red-horse-chestnut/aesculus-x-carnea-briotii-red-horse-chestnut.jpg",
-     "description":"A compact grower with large, dark-green, fan-shaped leaves. Giant red candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Has larger flowers than <a href='/trees/aesculus-x-carnea-red-horse-chestnut/'>Aesculus x carnea</a> and is slower-growing due to a greater number of flowers. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+     "description":"A compact grower with large, dark-green, fan-shaped leaves. Giant red flower candles in late-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great as a shade, avenue, or paddock tree. Golden-yellow autumn leaves. Has larger flowers than <a href='/trees/aesculus-x-carnea-red-horse-chestnut/'>Aesculus x carnea</a> and is slower-growing due to a greater number of flowers. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
      "uses":"paddocks, shade, attracts-bees",
      "tolerates":"light-frosts, windy",
      "soilType":"clay-soils, sandy-soils",
@@ -5544,6 +5886,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5583,7 +5943,7 @@
      "commonName":"Horse Chestnut",
      "url":"aesculus-hippocastanum-horse-chestnut",
      "mainImage":"aesculus-hippocastanum-horse-chestnut/aesculus-hippocastanum-horse-chestnut.jpg",
-     "description":"A tall, stately tree with a wide crown. Large, deep-green, fan-shaped leaves with giant white candles in mid-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great in large gardens, parks, and paddocks. Yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+     "description":"A tall, stately tree with a wide crown. Large, deep-green, fan-shaped leaves with giant white flower candles in mid-spring. Glossy-brown nuts in autumn are toxic to humans and animals. Foliage can scorch in dry or very windy conditions. Once established, it is difficult to transplant due to its taproot. Great in large gardens, parks, and paddocks. Yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
      "uses":"paddocks, shade, attracts-bees",
      "tolerates":"windy, light-frosts",
      "soilType":"clay-soils, sandy-soils",
@@ -5598,6 +5958,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5637,7 +6015,7 @@
      "commonName":"Horse Chestnut",
      "url":"aesculus-hippocastanum-baumannii-horse-chestnut",
      "mainImage":"aesculus-hippocastanum-baumannii-horse-chestnut/aesculus-hippocastanum-baumannii-horse-chestnut.jpg",
-     "description":"Has large, dark-green, fan-shaped leaves and giant double white candles in mid-spring. Has a taller and narrower growth habit and flowers later and for longer than <a href='/trees/aesculus-hippocastanum-horse-chestnut/'>Aesculus hippocastanum</a>. The flowers are mostly sterile, so will not produce much fruit. Any nuts that are produced in autumn are toxic to humans and animals. Once established, it is difficult to transplant due to its taproot. Great as a shade and paddock tree. Yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+     "description":"Has large, dark-green, fan-shaped leaves and giant double white flower candles in mid-spring. Has a taller and narrower growth habit and flowers later and for longer than <a href='/trees/aesculus-hippocastanum-horse-chestnut/'>Aesculus hippocastanum</a>. The flowers are mostly sterile, so will not produce much fruit. Any nuts that are produced in autumn are toxic to humans and animals. Once established, it is difficult to transplant due to its taproot. Great as a shade and paddock tree. Yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
      "uses":"paddocks, shade, attracts-bees",
      "tolerates":"windy, light-frosts",
      "soilType":"clay-soils, sandy-soils",
@@ -5652,6 +6030,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5671,7 +6067,7 @@
      "commonName":"Indian Horse Chestnut",
      "url":"aesculus-indica-indian-horse-chestnut",
      "mainImage":"aesculus-indica-indian-horse-chestnut/aesculus-indica-indian-horse-chestnut.jpg",
-     "description":"Large, beautiful leaves that emerge bronze-green in spring and mature to dark-green by summer. Frilly, white flower panicles in early to mid-summer, about a month later than <a href='/trees/aesculus-hippocastanum-horse-chestnut/'>Aesculus hippocastanum</a>. Flowers flushed pink and spotted yellow. Glossy-brown nuts in autumn are toxic to humans and animals. Magnificent shade tree. Orange and yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
+     "description":"Large, beautiful leaves that emerge bronze-green in spring and mature to dark-green by summer. Frilly, white flower panicles in early to mid-summer, about a month later than <a href='/trees/aesculus-hippocastanum-horse-chestnut/'>Aesculus hippocastanum</a>. White flowers flushed red and spotted yellow. Glossy-brown nuts in autumn are toxic to humans and animals. Magnificent shade tree. Orange and yellow autumn leaves. Prefers moist, well-drained soils, and will not tolerate dry soils well.",
      "uses":"paddocks, shade, attracts-bees",
      "tolerates":"windy, light-frosts",
      "soilType":"clay-soils, sandy-soils",
@@ -5682,10 +6078,28 @@
      "height":"7m",
      "width":"5m",
      "filterFloweringSeason":"summer",
-     "filterFlowerColor":"pink, white",
+     "filterFlowerColor":"red, white, yellow",
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"red, white, yellow",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5713,7 +6127,7 @@
      "commonName":"Buckeye, Caroline Horse Chestnut",
      "url":"aesculus-x-neglecta-erythroblastos-buckeye-caroline-horse-chestnut",
      "mainImage":"aesculus-x-neglecta-erythroblastos-buckeye-caroline-horse-chestnut/aesculus-x-neglecta-erythroblastos-buckeye-caroline-horse-chestnut.jpg",
-     "description":"Amazing new leaves of pink-orange that age to cream-green through spring and green through summer. Slow-growing tree. Protect from strong winds. In spring, pale-yellow flowers with a red base are borne in erect panicles. Orange and red autumn leaves. Seldom produces nuts.",
+     "description":"Amazing new leaves of pink-orange that age to cream-green through spring and green through summer. Slow-growing tree. Protect from strong winds. In spring, pale-yellow flowers with a red base are borne in erect panicles. Orange and yellow autumn leaves. Seldom produces nuts.",
      "uses":"attracts-bees",
      "tolerates":"light-frosts",
      "soilType":"clay-soils, sandy-soils",
@@ -5725,9 +6139,27 @@
      "width":"4m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"yellow, red",
-     "filterAutumnColor":"red, orange",
-     "filterFoliageColor":"yellow, pink, green, orange, white",
+     "filterAutumnColor":"yellow, orange",
+     "filterFoliageColor":"pink, green, orange, white",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"orange, yellow",
+      "winter":"",
+      "spring":"pink, orange, white, green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5778,6 +6210,24 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/aesculus/aesculus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5824,6 +6274,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/afrocarpus/afrocarpus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5854,6 +6322,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green, brown, orange",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, brown, orange",
+      "autumn":"green, brown, orange",
+      "winter":"green, brown, orange",
+      "spring":"green, brown, orange"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/agathis/agathis-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5900,6 +6386,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green, brown, orange",
+      "autumn":"green, brown, orange",
+      "winter":"green, brown, orange",
+      "spring":"green, brown, orange"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/agathis/agathis-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5950,6 +6454,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"white",
+      "autumn":"",
+      "winter":"",
+      "spring":"white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/agonis/agonis-general.svg",
      "relatedTrees":[],
      "images":[
@@ -5992,6 +6514,24 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "flowerColor":{
+      "summer":"red, pink",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
     "relatedTrees":[],
     "images":[
@@ -6050,6 +6590,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"red, pink",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6148,6 +6706,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"pink",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6242,6 +6818,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"pink",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"purple",
+      "autumn":"purple",
+      "winter":"",
+      "spring":"purple"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/albizia/albizia-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6270,8 +6864,26 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, orange, pink",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"orange, pink"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Birds)",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alectryon/alectryon-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6346,6 +6958,24 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"white, pink"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/almond/almond-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6396,6 +7026,24 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"white, pink"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow, orange",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/almond/almond-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6427,7 +7075,7 @@
      "commonName":"Italian Alder",
      "url":"alnus-cordata-italian-alder",
      "mainImage":"alnus-cordata-italian-alder/alnus-cordata-italian-alder.jpg",
-     "description":"Shining, heart-shaped, green leaves. A quick-growing, upright form. Will grow in moist, swampy soils and will also tolerate dry, infertile soils. Useful for erosion control and windbreaks. Great as a street or shade tree. Catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
+     "description":"Shining, heart-shaped, green leaves. A quick-growing, upright form. Will grow in moist, swampy soils and will also tolerate dry, infertile soils. Useful for erosion control and windbreaks. Great as a street or shade tree. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
      "uses":"street, paddocks, attracts-bees, hedging-and-screening",
      "tolerates":"windy, drought, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, dry-soils, sandy-soils",
@@ -6438,10 +7086,28 @@
      "height":"10m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6505,7 +7171,7 @@
      "commonName":"Black Alder",
      "url":"alnus-glutinosa-black-alder",
      "mainImage":"alnus-glutinosa-black-alder/alnus-glutinosa-black-alder.jpg",
-     "description":"Pyramidal form. Will thrive in very wet areas. Also tolerates dry, infertile soils. Vigorous, quick-grower. Excellent as a shelter tree. Great for erosion control and stabilising river banks. Catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
+     "description":"Pyramidal form. Will thrive in very wet areas. Also tolerates dry, infertile soils. Vigorous, quick-grower. Excellent as a shelter tree. Great for erosion control and stabilising river banks. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
      "uses":"street, paddocks, attracts-bees",
      "tolerates":"windy, heavy-rainfall, drought",
      "soilType":"clay-soils, poor-draining-soils, dry-soils, sandy-soils",
@@ -6516,10 +7182,28 @@
      "height":"10m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6563,7 +7247,7 @@
      "commonName":"Black Alder",
      "url":"alnus-glutinosa-imperialis-black-alder",
      "mainImage":"alnus-glutinosa-imperialis-black-alder/alnus-glutinosa-imperialis-black-alder.jpg",
-     "description":"Elegant tree with outspreading branches. Fine and deeply-cut, green leaves. Tolerant of wet soils. Looks great planted next to water. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"Elegant tree with outspreading branches. Fine and deeply-cut, green leaves. Tolerant of wet soils. Looks great planted next to water. Yellow-green catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"street, attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6574,10 +7258,28 @@
      "height":"6m",
      "width":"4m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6593,7 +7295,7 @@
      "commonName":"Black Alder",
      "url":"alnus-glutinosa-laciniata-black-alder",
      "mainImage":"alnus-glutinosa-laciniata-black-alder/alnus-glutinosa-laciniata-black-alder.jpg",
-     "description":"Conical-growing tree with finely-cut, green leaves. Tolerates wet and windy sites. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"Conical-growing tree with finely-cut, green leaves. Tolerates wet and windy sites. Yellow-green catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6604,10 +7306,28 @@
      "height":"8m",
      "width":"6m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6623,7 +7343,7 @@
      "commonName":"Black Alder",
      "url":"alnus-glutinosa-subsp-barbata-black-alder",
      "mainImage":"alnus-glutinosa-subsp-barbata-black-alder/alnus-glutinosa-subsp-barbata-black-alder.jpg",
-     "description":"Vigorous and broadly-conical tree. A tree for wet and windy sites with timber and firewood uses. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"Vigorous and broadly-conical tree. A tree for wet and windy sites with timber and firewood uses. Yellow-green catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6634,10 +7354,28 @@
      "height":"10m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6653,7 +7391,7 @@
      "commonName":"Grey Alder",
      "url":"alnus-incana-aurea-grey-alder",
      "mainImage":"alnus-incana-aurea-grey-alder/alnus-incana-aurea-grey-alder.jpg",
-     "description":"A large, conical tree with yellow-green leaves. Bark and branches give a golden-orange glow during winter. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"A large, conical tree with yellow leaves in spring, maturing to yellow-green in summer before turning yellow in autumn. Bark and branches give a golden-orange glow during winter. Red-pink catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6664,10 +7402,28 @@
      "height":"6m",
      "width":"4m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red, pink",
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red, pink"
+     },
+     "foliageColor":{
+      "summer":"green, yellow",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"yellow"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6683,7 +7439,7 @@
      "commonName":"Alder",
      "url":"alnus-inokumae-alder",
      "mainImage":"alnus-inokumae-alder/alnus-inokumae-alder.jpg",
-     "description":"A fast and straight-growing alder. Attractive, dark-green leaves. Great for wherever fast-growing screening trees are required. Tolerates wet sites. Yellow autumn leaves. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"A fast and straight-growing alder. Attractive, dark-green leaves. Great for wherever fast-growing screening trees are required. Tolerates wet sites. Yellow autumn leaves. Yellow-green catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6694,10 +7450,28 @@
      "height":"10m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6717,7 +7491,7 @@
      "commonName":"Mexican Alder, Evergreen Alder",
      "url":"alnus-jorullensis-mexican-alder-evergreen-alder",
      "mainImage":"alnus-jorullensis-mexican-alder-evergreen-alder/alnus-jorullensis-mexican-alder-evergreen-alder.jpg",
-     "description":"Fast-growing. Has long, green, toothed leaves. Can be easily pruned to any shape. Papery, pale-grey bark. Excellent as a dense screen. Catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"Fast-growing. Has long, green, toothed leaves. Can be easily pruned to any shape. Excellent as a dense screen. Yellow-green catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"street, hedging-and-screening, pleaching, attracts-bees",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -6732,6 +7506,24 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"yellow, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6778,10 +7570,28 @@
      "height":"10m",
      "width":"5m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"red, green",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"red, green"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/alnus/alnus-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6821,21 +7631,39 @@
      "commonName":"Canadian Serviceberry, Shadbush",
      "url":"amelanchier-canadensis-canadian-serviceberry-shadbush",
      "mainImage":"amelanchier-canadensis-canadian-serviceberry-shadbush/amelanchier-canadensis-canadian-serviceberry-shadbush.jpg",
-     "description":"Compact, neat tree with a rounded head. Bronze new spring leaves turn a stunning red in autumn. Lacy, white, drooping flower clusters from late-winter to late-spring. Edible red to purple berries in early-summer.",
+     "description":"Compact, neat tree with a rounded head. Bronze new spring leaves turn a stunning red, yellow, and orange in autumn. Lacy, white, drooping flower clusters from late-winter to late-spring. Edible berries in early-summer. Berries start red and then turn purple when ripe and ready to eat.",
      "uses":"street, attracts-bees",
      "tolerates":"",
      "soilType":"poor-draining-soils",
      "sunShade":"",
      "winterFoliage":"deciduous",
      "origin":"exotic",
-     "types":"",
+     "types":"edible",
      "height":"4m",
      "width":"3m",
      "filterFloweringSeason":"winter, spring",
      "filterFlowerColor":"white",
-     "filterAutumnColor":"red",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterAutumnColor":"red, yellow, orange",
+     "filterFoliageColor":"green, orange",
+     "filterFruitingSeason":"summer",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"white",
+      "spring":"white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"red, yellow, orange",
+      "winter":"",
+      "spring":"orange, green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/amelanchier/amelanchier-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6903,9 +7731,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6937,9 +7783,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6967,9 +7831,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink, white",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -6997,9 +7879,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7031,9 +7931,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7061,9 +7979,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7091,9 +8027,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink, white",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7121,9 +8075,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7151,9 +8123,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7185,9 +8175,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7215,9 +8223,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7249,9 +8275,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7287,9 +8331,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7325,9 +8387,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7355,9 +8435,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"summer, autumn",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
      "relatedTrees":[],
      "images":[
@@ -7389,9 +8487,27 @@
     "width":"3m",
     "filterFloweringSeason":"spring",
     "filterFlowerColor":"white, pink",
-    "filterAutumnColor":"",
+    "filterAutumnColor":"yellow",
     "filterFoliageColor":"green",
-    "filterFruitingSeason":"",
+    "filterFruitingSeason":"summer, autumn",
+    "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"Yes (Edible)",
+      "winter":"",
+      "spring":""
+     },
     "treeShape":"images/icons/tree-shapes/apple/apple-general.svg",
     "relatedTrees":[],
     "images":[
@@ -7419,9 +8535,27 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white, pink",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":"pink, white"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"",
+      "spring":"green"
+     },
+     "fruitingSeason":{
+      "summer":"Yes (Edible)",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "treeShape":"images/icons/tree-shapes/apple/apple-weeping.svg",
      "relatedTrees":[],
      "images":[
