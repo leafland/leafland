@@ -220,6 +220,8 @@ type: product
 
                             <th></th>
 
+                            <th>Bark</th>
+
                             <th>Foliage</th>
 
                             <th>Flowers</th>
@@ -232,6 +234,32 @@ type: product
                         <tr>
 
                             <th>Summer</th>
+
+                            <td>
+
+                                {% if tree.bark.summer.size > 0 %}
+
+                                <div class="color-spans">
+
+                                    {% assign barkArray = tree.bark.summer | split: ', '%}
+
+                                    {% for color in barkArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
+
+                                </div>
+
+                                {% else %}
+
+                                <div class="color-spans">
+
+                                </div>
+
+                                {% endif %}
+
+                            </td>
 
                             <td>
 
@@ -252,8 +280,6 @@ type: product
                                 {% else %}
 
                                 <div class="color-spans">
-
-                                    <span class="info-pill">None</span>
 
                                 </div>
 
@@ -281,8 +307,6 @@ type: product
 
                                 <div class="color-spans">
 
-                                    <span class="info-pill">None</span>
-
                                 </div>
 
                                 {% endif %}
@@ -293,17 +317,21 @@ type: product
 
                                 {% if tree.fruitingSeason.summer.size > 0 %}
 
-                                <div class="season-div">
+                                <div class="color-spans">
 
-                                    <span class="info-pill">{{ tree.fruitingSeason.summer }}</span>
+                                    {% assign fruitingArray = tree.fruitingSeason.summer | split: ', '%}
+
+                                    {% for color in fruitingArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
 
                                 </div>
 
                                 {% else %}
 
-                                <div class="season-div">
-
-                                    <span class="info-pill">None</span>
+                                <div class="color-spans">
 
                                 </div>
 
@@ -316,6 +344,32 @@ type: product
                         <tr>
 
                             <th>Autumn</th>
+
+                            <td>
+
+                                {% if tree.bark.autumn.size > 0 %}
+
+                                <div class="color-spans">
+
+                                    {% assign barkArray = tree.bark.autumn | split: ', '%}
+
+                                    {% for color in barkArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
+
+                                </div>
+
+                                {% else %}
+
+                                <div class="color-spans">
+
+                                </div>
+
+                                {% endif %}
+
+                            </td>
 
                             <td>
 
@@ -336,8 +390,6 @@ type: product
                                 {% else %}
 
                                 <div class="color-spans">
-
-                                    <span class="info-pill">None</span>
 
                                 </div>
 
@@ -365,8 +417,6 @@ type: product
 
                                 <div class="color-spans">
 
-                                    <span class="info-pill">None</span>
-
                                 </div>
 
                                 {% endif %}
@@ -377,17 +427,21 @@ type: product
 
                                 {% if tree.fruitingSeason.autumn.size > 0 %}
 
-                                <div class="season-div">
+                                <div class="color-spans">
 
-                                    <span class="info-pill">{{ tree.fruitingSeason.autumn }}</span>
+                                    {% assign fruitingArray = tree.fruitingSeason.autumn | split: ', '%}
+
+                                    {% for color in fruitingArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
 
                                 </div>
 
                                 {% else %}
 
-                                <div class="season-div">
-
-                                    <span class="info-pill">None</span>
+                                <div class="color-spans">
 
                                 </div>
 
@@ -400,6 +454,32 @@ type: product
                         <tr>
 
                             <th>Winter</th>
+
+                            <td>
+
+                                {% if tree.bark.winter.size > 0 %}
+
+                                <div class="color-spans">
+
+                                    {% assign barkArray = tree.bark.winter | split: ', '%}
+
+                                    {% for color in barkArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
+
+                                </div>
+
+                                {% else %}
+
+                                <div class="color-spans">
+
+                                </div>
+
+                                {% endif %}
+
+                            </td>
 
                             <td>
 
@@ -420,8 +500,6 @@ type: product
                                 {% else %}
 
                                 <div class="color-spans">
-
-                                    <span class="info-pill">None</span>
 
                                 </div>
 
@@ -449,8 +527,6 @@ type: product
 
                                 <div class="color-spans">
 
-                                    <span class="info-pill">None</span>
-
                                 </div>
 
                                 {% endif %}
@@ -461,17 +537,21 @@ type: product
 
                                 {% if tree.fruitingSeason.winter.size > 0 %}
 
-                                <div class="season-div">
+                                <div class="color-spans">
 
-                                    <span class="info-pill">{{ tree.fruitingSeason.winter }}</span>
+                                    {% assign fruitingArray = tree.fruitingSeason.winter | split: ', '%}
+
+                                    {% for color in fruitingArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
 
                                 </div>
 
                                 {% else %}
 
-                                <div class="season-div">
-
-                                    <span class="info-pill">None</span>
+                                <div class="color-spans">
 
                                 </div>
 
@@ -484,6 +564,32 @@ type: product
                         <tr>
 
                             <th>Spring</th>
+
+                            <td>
+
+                                {% if tree.bark.spring.size > 0 %}
+
+                                <div class="color-spans">
+
+                                    {% assign barkArray = tree.bark.spring | split: ', '%}
+
+                                    {% for color in barkArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
+
+                                </div>
+
+                                {% else %}
+
+                                <div class="color-spans">
+
+                                </div>
+
+                                {% endif %}
+
+                            </td>
 
                             <td>
 
@@ -504,8 +610,6 @@ type: product
                                 {% else %}
 
                                 <div class="color-spans">
-
-                                    <span class="info-pill">None</span>
 
                                 </div>
 
@@ -533,8 +637,6 @@ type: product
 
                                 <div class="color-spans">
 
-                                    <span class="info-pill">None</span>
-
                                 </div>
 
                                 {% endif %}
@@ -545,17 +647,21 @@ type: product
 
                                 {% if tree.fruitingSeason.spring.size > 0 %}
 
-                                <div class="season-div">
+                                <div class="color-spans">
 
-                                    <span class="info-pill">{{ tree.fruitingSeason.spring }}</span>
+                                    {% assign fruitingArray = tree.fruitingSeason.spring | split: ', '%}
+
+                                    {% for color in fruitingArray %}
+
+                                        <span class="tree-color {{color}}"></span>
+
+                                    {% endfor %}
 
                                 </div>
 
                                 {% else %}
 
-                                <div class="season-div">
-
-                                    <span class="info-pill">None</span>
+                                <div class="color-spans">
 
                                 </div>
 

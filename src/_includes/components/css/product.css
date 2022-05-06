@@ -373,6 +373,9 @@ main h2 {
 .brown {
   background: #443730;
 }
+.black {
+  background: #000000;
+}
 
 .season-div {
   display: flex;
