@@ -220,7 +220,7 @@ type: product
 
                             <th></th>
 
-                            <th>Bark</th>
+                            <th>Stem</th>
 
                             <th>Foliage</th>
 
@@ -237,13 +237,13 @@ type: product
 
                             <td>
 
-                                {% if tree.bark.summer.size > 0 %}
+                                {% if tree.stem.summer.size > 0 %}
 
                                 <div class="color-spans">
 
-                                    {% assign barkArray = tree.bark.summer | split: ', '%}
+                                    {% assign stemArray = tree.stem.summer | split: ', '%}
 
-                                    {% for color in barkArray %}
+                                    {% for color in stemArray %}
 
                                         <span class="tree-color {{color}}"></span>
 
@@ -347,13 +347,13 @@ type: product
 
                             <td>
 
-                                {% if tree.bark.autumn.size > 0 %}
+                                {% if tree.stem.autumn.size > 0 %}
 
                                 <div class="color-spans">
 
-                                    {% assign barkArray = tree.bark.autumn | split: ', '%}
+                                    {% assign stemArray = tree.stem.autumn | split: ', '%}
 
-                                    {% for color in barkArray %}
+                                    {% for color in stemArray %}
 
                                         <span class="tree-color {{color}}"></span>
 
@@ -457,13 +457,13 @@ type: product
 
                             <td>
 
-                                {% if tree.bark.winter.size > 0 %}
+                                {% if tree.stem.winter.size > 0 %}
 
                                 <div class="color-spans">
 
-                                    {% assign barkArray = tree.bark.winter | split: ', '%}
+                                    {% assign stemArray = tree.stem.winter | split: ', '%}
 
-                                    {% for color in barkArray %}
+                                    {% for color in stemArray %}
 
                                         <span class="tree-color {{color}}"></span>
 
@@ -567,13 +567,13 @@ type: product
 
                             <td>
 
-                                {% if tree.bark.spring.size > 0 %}
+                                {% if tree.stem.spring.size > 0 %}
 
                                 <div class="color-spans">
 
-                                    {% assign barkArray = tree.bark.spring | split: ', '%}
+                                    {% assign stemArray = tree.stem.spring | split: ', '%}
 
-                                    {% for color in barkArray %}
+                                    {% for color in stemArray %}
 
                                         <span class="tree-color {{color}}"></span>
 

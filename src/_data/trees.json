@@ -20,7 +20,8 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"blue, grey",
      "filterFruitingSeason":"",
-     "bark":{
+     "filterStemColor":"",
+     "stem":{
       "summer":"",
       "autumn":"",
       "winter":"",
@@ -123,6 +124,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"purple, grey, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -220,6 +228,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -309,6 +324,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -398,6 +420,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -519,6 +548,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -597,7 +633,7 @@
      "commonName":"Campbell's Maple",
      "url":"acer-campbellii-gwavas-campbells-maple",
      "mainImage":"acer-campbellii-gwavas-campbells-maple/acer-campbellii-gwavas-campbells-maple.jpg",
-     "description":"Species from Western China. Large, deeply-lobed leaves emerge bronze-purple and mature to olive-green with prominent veins. Upright, spreading habit with smooth, green stems which mature silver with age. Glowing yellow and orange autumn leaves. Grows best in full sun in moist, well-drained soils.",
+     "description":"Species from Western China. Large, deeply-lobed leaves emerge bronze-purple and mature to olive-green with prominent veins. Upright, spreading habit. Glowing yellow and orange autumn leaves. Grows best in full sun in moist, well-drained soils.",
      "uses":"",
      "tolerates":"light-frosts, windy",
      "soilType":"",
@@ -612,6 +648,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -660,6 +703,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -728,6 +778,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green, white",
+     "stem":{
+      "summer":"green, white",
+      "autumn":"green, white",
+      "winter":"green, white",
+      "spring":"green, white"
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -788,6 +845,13 @@
     "filterAutumnColor":"yellow",
     "filterFoliageColor":"green, yellow, red, orange",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+    "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -840,6 +904,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -889,7 +960,7 @@
      "commonName":"Kawakami Maple, Snakebark Maple",
      "url":"acer-caudatifolium-summer-surprise-kawakami-maple-snakebark-maple",
      "mainImage":"acer-caudatifolium-summer-surprise-kawakami-maple-snakebark-maple/acer-caudatifolium-summer-surprise-kawakami-maple-snakebark-maple.jpg",
-     "description":"Stunning features throughout the year. Bare winter branches glow orange-red. Pink, new stems with green leaves in spring and variegated green leaves in summer. Orange-red leaves in autumn. Grows best in part-shade in moist, well-drained soil, sheltered from strong winds. Striped bark is a feature.",
+     "description":"Stunning features throughout the year. Pink, new stems with green leaves in spring and variegated green leaves in summer. Orange-red leaves in autumn. Grows best in part-shade in moist, well-drained soil, sheltered from strong winds. Striped bark is a feature.",
      "uses":"street",
      "tolerates":"",
      "soilType":"clay-soils, sandy-soils",
@@ -904,6 +975,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green, white, pink",
+     "stem":{
+      "summer":"green, white",
+      "autumn":"green, white",
+      "winter":"green, white",
+      "spring":"green, white, pink"
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -948,7 +1026,7 @@
      "sunShade":"full-sun, part-shade",
      "winterFoliage":"deciduous",
      "origin":"exotic",
-     "types":"",
+     "types":"ornamental-bark",
      "height":"8m",
      "width":"6m",
      "filterFloweringSeason":"",
@@ -956,6 +1034,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green, white",
+     "stem":{
+       "summer":"green, white",
+       "autumn":"green, white",
+       "winter":"green, white",
+       "spring":"green, white"
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1020,6 +1105,13 @@
      "filterAutumnColor":"orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green, white",
+     "stem":{
+      "summer":"green, white",
+      "autumn":"green, white",
+      "winter":"green, white",
+      "spring":"green, white"
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1053,7 +1145,7 @@
      "commonName":"Paperbark Maple",
      "url":"acer-griseum-paperbark-maple",
      "mainImage":"acer-griseum-paperbark-maple/acer-griseum-paperbark-maple.jpg",
-     "description":"A tidy and slender, erect-growing Chinese maple. Beautiful cinnamon-brown, smooth bark peels in thin strips. Comes into leaf in late-spring, evading a lot of the damaging spring winds. Fiery-red and orange autumn leaves. Prefers moist, well-drained soils and grows well in clay soils. Does not tolerate drought or dry soils. Great for bonsai.",
+     "description":"A tidy and slender, erect-growing Chinese maple. Beautiful chestnut-brown, smooth bark peels in thin strips revealing brighter, cinnamon-red wood beneath. Comes into leaf in late-spring, evading a lot of the damaging spring winds. Fiery-red and orange autumn leaves. Prefers moist, well-drained soils and grows well in clay soils. Does not tolerate drought or dry soils. Great for bonsai.",
      "uses":"",
      "tolerates":"windy, light-frosts, heavy-frosts",
      "soilType":"clay-soils, sandy-soils",
@@ -1068,6 +1160,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"brown, red, orange",
+     "stem":{
+       "summer":"brown, red, orange",
+       "autumn":"brown, red, orange",
+       "winter":"brown, red, orange",
+       "spring":"brown, red, orange"
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1140,6 +1239,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1208,6 +1314,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1260,6 +1373,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1328,6 +1448,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1392,6 +1519,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"white, green, pink",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1437,7 +1571,7 @@
      "commonName":"Box Elder",
      "url":"acer-negundo-violaceum-box-elder",
      "mainImage":"acer-negundo-violaceum-box-elder/acer-negundo-violaceum-box-elder.jpeg",
-     "description":"Striking burgundy tassels adorn the bare branches before the new spring growth appears. Young shoots and leaves are purple-maroon. Green summer leaves turn gold in autumn. A vigorous, round, and irregular grower that has smooth bark with a white bloom. Produces small, pink-purple flowers in early to mid-spring. Intolerant of shade and strong winds. Seeds are toxic to horses. Tolerates air pollution, drought, and occasionally water-logged soils once established. Cold hardy.",
+     "description":"Striking burgundy tassels adorn the bare branches before the new spring growth appears. Young shoots and leaves are purple-maroon. Green summer leaves turn gold in autumn. A vigorous, round, and irregular grower. Produces small, pink-purple flowers in early to mid-spring. Intolerant of shade and strong winds. Seeds are toxic to horses. Tolerates air pollution, drought, and occasionally water-logged soils once established. Cold hardy.",
      "uses":"street, attracts-bees",
      "tolerates":"heavy-rainfall, light-frosts, heavy-frosts, drought",
      "soilType":"clay-soils, sandy-soils, dry-soils",
@@ -1452,6 +1586,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green, purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1504,6 +1645,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1581,7 +1729,7 @@
      "commonName":"Japanese Maple",
      "url":"acer-palmatum-atropurpureum-japanese-maple",
      "mainImage":"acer-palmatum-atropurpureum-japanese-maple/acer-palmatum-atropurpureum-japanese-maple.jpg",
-     "description":"Rich-crimson spring leaves turn bronze-purple in summer and then go scarlet in autumn. Deep-purple stems. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Rich-crimson spring leaves turn bronze-purple in summer and then go scarlet in autumn. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -1596,6 +1744,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1656,6 +1811,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1712,6 +1874,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"purple, white",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1760,6 +1929,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1828,6 +2004,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1888,6 +2071,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green, pink, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1948,6 +2138,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -1996,6 +2193,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2072,6 +2276,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2132,6 +2343,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2188,6 +2406,13 @@
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2252,6 +2477,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2304,6 +2536,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green, red, orange",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2364,6 +2603,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2420,6 +2666,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2480,6 +2733,13 @@
      "filterAutumnColor":"orange",
      "filterFoliageColor":"orange, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2540,6 +2800,13 @@
     "filterAutumnColor":"red",
     "filterFoliageColor":"red, purple",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+    "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2600,6 +2867,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2652,6 +2926,13 @@
      "filterAutumnColor":"yellow, orange, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2708,6 +2989,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2760,6 +3048,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2820,6 +3115,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2880,6 +3182,13 @@
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -2929,7 +3238,7 @@
      "commonName":"Japanese Maple, Coral Bark Maple",
      "url":"acer-palmatum-fjellheim-japanese-maple-coral-bark-maple",
      "mainImage":"acer-palmatum-fjellheim-japanese-maple-coral-bark-maple/acer-palmatum-fjellheim-japanese-maple-coral-bark-maple.jpg",
-     "description":"Soft, lime-green, red-margined foliage in spring. Mid-summer green leaves with gold, orange, and red leaves in autumn. Outstanding brilliant red bark in winter and spring. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Discovered as a witches' broom mutation on Acer palmatum 'Senkaki' (also known as Acer palmatum 'Sango-kaku'). Soft, lime-green, red-margined foliage in spring. Mid-summer green leaves with gold, orange, and red leaves in autumn. Outstanding brilliant red bark on young stems in winter. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -2944,6 +3253,13 @@
      "filterAutumnColor":"yellow, orange, red",
      "filterFoliageColor":"green, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"red",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"red",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3004,6 +3320,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green, orange, red, yellow",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3056,6 +3379,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green, orange, yellow",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3116,6 +3446,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"green, yellow",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3176,6 +3513,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3228,6 +3572,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3284,6 +3635,13 @@
     "filterAutumnColor":"red",
     "filterFoliageColor":"green, orange",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+    "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3352,6 +3710,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3408,6 +3773,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"green, white, pink",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3460,6 +3832,13 @@
      "filterAutumnColor":"orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3520,6 +3899,13 @@
     "filterAutumnColor":"red, orange",
     "filterFoliageColor":"green, purple, red",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+    "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3561,7 +3947,7 @@
      "commonName":"Japanese Maple, Coral Bark Maple",
      "url":"acer-palmatum-senkaki-japanese-maple-coral-bark-maple",
      "mainImage":"acer-palmatum-senkaki-japanese-maple-coral-bark-maple/acer-palmatum-senkaki-japanese-maple-coral-bark-maple.jpg",
-     "description":"Also known as Acer palmatum 'Sango-kaku'. A year-round beauty with spring leaves that are pink-yellow to orange, turning to green through summer, and yellow through autumn. Vivid coral-red stems are a winter feature. Requires shelter. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Also known as Acer palmatum 'Sango-kaku'. A year-round beauty with spring leaves that are pink-yellow to orange, turning to green through summer, and yellow through autumn. Vivid coral-red young branches are a winter feature. Requires shelter. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -3576,6 +3962,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green, pink, yellow, orange",
      "filterFruitingSeason":"",
+     "filterStemColor":"red",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"red",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3644,6 +4037,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+       "summer":"",
+       "autumn":"",
+       "winter":"",
+       "spring":""
+      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3693,7 +4093,7 @@
      "commonName":"Japanese Maple",
      "url":"acer-palmatum-shidava-gold-japanese-maple",
      "mainImage":"acer-palmatum-shidava-gold-japanese-maple/acer-palmatum-shidava-gold-japanese-maple.jpg",
-     "description":"A beautiful dwarf Japanese maple all year-round. New leaves emerge light-green in spring, turn yellow-green during summer, and change to a golden-yellow in autumn. During winter, the beautiful green bark lightens up otherwise dull areas. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Discovered as a witches' broom mutation on Acer palmatum 'Ukon' (also known as Acer palmatum 'Aoyagi'). A beautiful dwarf Japanese maple all year-round. New leaves emerge light-green in spring, turn yellow-green during summer, and change to a golden-yellow in autumn. During winter, the beautiful green bark on young stems lightens up otherwise dull areas. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -3708,6 +4108,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"green",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3768,6 +4175,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"red, green, pink",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3832,6 +4246,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green, white, red, pink, purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3884,6 +4305,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -3929,7 +4357,7 @@
      "commonName":"Japanese Maple",
      "url":"acer-palmatum-sumi-nagashi-japanese-maple",
      "mainImage":"acer-palmatum-sumi-nagashi-japanese-maple/acer-palmatum-sumi-nagashi-japanese-maple.jpg",
-     "description":"Rich-red foliage in spring turning to dark-purple in summer and crimson-red in autumn. A round-headed tree with almost-black stems. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Rich-red foliage in spring turning to dark-purple in summer and crimson-red in autumn. A round-headed tree. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -3944,6 +4372,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4004,6 +4439,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"purple, green, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4064,6 +4506,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green, white, pink",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4101,7 +4550,7 @@
      "commonName":"Japanese Maple",
      "url":"acer-palmatum-ukon-japanese-maple",
      "mainImage":"acer-palmatum-ukon-japanese-maple/acer-palmatum-ukon-japanese-maple.jpg",
-     "description":"Also known as Acer palmatum 'Aoyagi'. Yellow-green leaves emerge in spring before turning more green over summer and finishing off with a vibrant-yellow in autumn. The beautiful green bark adds colour throughout winter. An upright grower with a spreading canopy. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+     "description":"Also known as Acer palmatum 'Aoyagi'. Yellow-green leaves emerge in spring before turning more green over summer and finishing off with a vibrant-yellow in autumn. The beautiful green bark on young stems adds colour throughout winter. An upright grower with a spreading canopy. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
      "uses":"small-garden",
      "tolerates":"light-frosts, heavy-frosts",
      "soilType":"sandy-soils, clay-soils",
@@ -4116,6 +4565,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"green",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"green",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4172,6 +4628,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4244,6 +4707,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4292,6 +4762,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4352,6 +4829,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"white, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4412,6 +4896,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4476,6 +4967,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4540,6 +5038,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4600,6 +5105,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green, pink, white, purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4656,6 +5168,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green, white, pink, yellow",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4708,6 +5227,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"purple, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4760,6 +5286,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4801,7 +5334,7 @@
      "commonName":"Red Maple",
      "url":"acer-rubrum-red-maple",
      "mainImage":"acer-rubrum-red-maple/acer-rubrum-red-maple.jpg",
-     "description":"Large, shining, dark-green leaves turn a rich scarlet-red in autumn. Red twigs, branchlets, buds, and flowers. Great for streets, parks, or large gardens. Flowers in early to mid-spring. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
+     "description":"Large, shining, dark-green leaves turn a rich scarlet-red in autumn. Small, red flowers in early to mid-spring. Great for streets, parks, or large gardens. Prefers moist, well-drained soils in full-sun. However, will grow in a range of soils including sandy, heavy clay, peat, dry, and poor-draining. Also very cold hardy and will tolerate wind.",
      "uses":"street, shade, attracts-bees",
      "tolerates":"light-frosts, heavy-frosts, windy, heavy-rainfall",
      "soilType":"clay-soils, poor-draining-soils, sandy-soils, dry-soils",
@@ -4816,6 +5349,13 @@
      "filterAutumnColor":"red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -4916,6 +5456,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5004,6 +5551,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5084,6 +5638,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5172,6 +5733,13 @@
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5256,6 +5824,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5336,6 +5911,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5432,6 +6014,13 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5512,6 +6101,13 @@
     "filterAutumnColor":"red, orange, purple",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5568,6 +6164,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green, grey",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5636,6 +6239,13 @@
      "filterAutumnColor":"yellow, red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5704,6 +6314,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"yellow, green, orange",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5760,6 +6377,13 @@
     "filterAutumnColor":"yellow, red, orange",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5824,6 +6448,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5892,6 +6523,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -5964,6 +6602,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6036,6 +6681,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6088,6 +6740,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"red, white, yellow",
       "autumn":"",
@@ -6148,6 +6807,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"pink, green, orange, white",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6216,6 +6882,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6280,6 +6953,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6328,6 +7008,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green, brown, orange",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6392,6 +7079,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6445,7 +7139,7 @@
      "commonName":"Willow Myrtle, Peppermint Tree",
      "url":"agonis-flexuosa-willow-myrtle-peppermint-tree",
      "mainImage":"agonis-flexuosa-willow-myrtle-peppermint-tree/agonis-flexuosa-willow-myrtle-peppermint-tree.jpg",
-     "description":"An attractive tree with a pendulous habit. Small white flowers appear in spring and summer. Has long, slender, dark-green leaves. Drought tolerant once established and will tolerate moderate coastal winds. Prefers moist, sandy soils, but will adapt to other well-drained soils. Great as a street tree as it responds well to trimming under power lines. Can also be used to screen off areas for privacy.",
+     "description":"An attractive tree with a pendulous habit. Small, white flowers appear in spring and summer. Has long, slender, dark-green leaves. Drought tolerant once established and will tolerate moderate coastal winds. Prefers moist, sandy soils, but will adapt to other well-drained soils. Great as a street tree as it responds well to trimming under power lines. Can also be used to screen off areas for privacy.",
      "uses":"street, hedging-and-screening",
      "tolerates":"coastal",
      "soilType":"dry-soils, sandy-soils, rocky-soils, clay-soils",
@@ -6460,6 +7154,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"white",
       "autumn":"",
@@ -6520,6 +7221,13 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
+    "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
     "flowerColor":{
       "summer":"red, pink",
       "autumn":"",
@@ -6596,6 +7304,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"red, pink",
       "autumn":"",
@@ -6712,6 +7427,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"pink",
       "autumn":"",
@@ -6824,6 +7546,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"pink",
       "autumn":"",
@@ -6872,6 +7601,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green, orange, pink",
      "filterFruitingSeason":"summer",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -6964,6 +7700,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7032,6 +7775,13 @@
      "filterAutumnColor":"yellow, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7096,6 +7846,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7192,6 +7949,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7268,6 +8032,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7316,6 +8087,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7364,6 +8142,13 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
@@ -7397,7 +8182,7 @@
      "commonName":"Grey Alder",
      "url":"alnus-incana-aurea-grey-alder",
      "mainImage":"alnus-incana-aurea-grey-alder/alnus-incana-aurea-grey-alder.jpg",
-     "description":"A large, conical tree with yellow leaves in spring, maturing to yellow-green in summer before turning yellow in autumn. Bark and branches give a golden-orange glow during winter. Red-pink catkins are a source of pollen for bees in early to mid-spring.",
+     "description":"A large, conical tree with yellow leaves in spring, maturing to yellow-green in summer before turning yellow in autumn. The trunk is orange-brown and young branches are yellow to orange, turning orange-brown in winter. Red-pink catkins are a source of pollen for bees in early to mid-spring.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"clay-soils, poor-draining-soils",
@@ -7412,6 +8197,13 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
      "flowerColor":{
       "summer":"",
       "autumn":"",
