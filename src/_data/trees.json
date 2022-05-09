@@ -11006,7 +11006,7 @@
      "commonName":"River Birch",
      "url":"betula-nigra-heritage-river-birch",
      "mainImage":"betula-nigra-heritage-river-birch/betula-nigra-heritage-river-birch.jpg",
-     "description":"A graceful tree with pendant branches. Shiny, deep-green leaves turn yellow in autumn. Bears long, striking, male catkins in late winter. The silver-white and pink shaggy bark flakes and curls. Thrives in both moist and dry positions.",
+     "description":"Also known as Betula nigra 'Cully'. A graceful tree with pendant branches. Shiny, deep-green leaves turn yellow in autumn. Bears long, striking, male catkins in late winter. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black. Thrives in both moist and dry positions.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -11021,12 +11021,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange, brown, black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange, brown, black",
+      "autumn":"white, pink, orange, brown, black",
+      "winter":"white, pink, orange, brown, black",
+      "spring":"white, pink, orange, brown, black"
      },
      "flowerColor":{
       "summer":"",
@@ -11061,7 +11061,7 @@
      "commonName":"River Birch",
      "url":"betula-nigra-summer-cascade-river-birch",
      "mainImage":"betula-nigra-summer-cascade-river-birch/betula-nigra-summer-cascade-river-birch.jpg",
-     "description":"Has gently-weeping, pendulous branches and pink, peeling bark. The foliage is dark-green throughout spring and summer, but takes on a striking yellow colour in autumn.",
+     "description":"Has gently-weeping, pendulous branches and pink, peeling bark. The foliage is dark-green throughout spring and summer, but takes on a striking yellow colour in autumn. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black.",
      "uses":"",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11076,12 +11076,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange, brown, black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange, brown, black",
+      "autumn":"white, pink, orange, brown, black",
+      "winter":"white, pink, orange, brown, black",
+      "spring":"white, pink, orange, brown, black"
      },
      "flowerColor":{
       "summer":"",
@@ -11136,7 +11136,7 @@
      "commonName":"River Birch",
      "url":"betula-nigra-uru-tawhai-river-birch",
      "mainImage":"betula-nigra-uru-tawhai-river-birch/betula-nigra-uru-tawhai-river-birch.jpg",
-     "description":"A cutting-grown selection of Betula nigra. Great for planting in wet areas. Green leaves turn bright-yellow in autumn.",
+     "description":"A cutting-grown selection of Betula nigra. Great for planting in wet areas. Green leaves turn bright-yellow in autumn. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black.",
      "uses":"",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11151,12 +11151,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange, brown, black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange, brown, black",
+      "autumn":"white, pink, orange, brown, black",
+      "winter":"white, pink, orange, brown, black",
+      "spring":"white, pink, orange, brown, black"
      },
      "flowerColor":{
       "summer":"",
@@ -11188,7 +11188,7 @@
      "commonName":"Western Paper Birch",
      "url":"betula-papyrifera-var-commutata-western-paper-birch",
      "mainImage":"betula-papyrifera-var-commutata-western-paper-birch/betula-papyrifera-var-commutata-western-paper-birch.jpg",
-     "description":"One of the largest and fastest-growing birches. Smooth, white bark peels in layers. Bright-yellow autumn leaves. A magnificent specimen subject as a solitary specimen, in groves, or avenues.",
+     "description":"One of the largest and fastest-growing birches. Smooth, white bark peels in layers to reveal orange-brown bark underneath. Bright-yellow autumn leaves. A magnificent specimen subject as a solitary specimen, in groves, or avenues.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11203,12 +11203,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, orange, brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, orange, brown",
+      "autumn":"white, orange, brown",
+      "winter":"white, orange, brown",
+      "spring":"white, orange, brown"
      },
      "flowerColor":{
       "summer":"",
@@ -11243,7 +11243,7 @@
      "commonName":"Silver Birch",
      "url":"betula-pendula-silver-birch",
      "mainImage":"betula-pendula-silver-birch/betula-pendula-silver-birch.jpg",
-     "description":"Also known as Betula alba var. pendula or Betula pendula 'Alba'. This is a highly-rated birch for its prominent white trunk and graceful, pendulous branches. The white trunks develop black fissures with age. The glossy, green leaves turn yellow in autumn. Lovely in group plantings.",
+     "description":"Also known as Betula alba var. pendula or Betula pendula 'Alba'. This is a highly-rated birch for its prominent white trunk and graceful, pendulous branches. The glossy, green leaves turn yellow in autumn. Lovely in group plantings.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11258,12 +11258,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11322,14 +11322,14 @@
      "commonName":"Silver Birch",
      "url":"betula-pendula-black-prince-silver-birch",
      "mainImage":"betula-pendula-black-prince-silver-birch/betula-pendula-black-prince-silver-birch.jpg",
-     "description":"Narrow-growing tree with cascading, slender branches. The rich-purple leaf-colouring holds well throughout spring and summer. Almost black stems and branches are an added feature. Protect from strong winds.",
-     "uses":"street",
+     "description":"Narrow-growing tree with cascading, slender branches. The rich-purple leaf-colouring holds well throughout spring and summer. Young branches are purple-black. Has white bark, although less white than Betula pendula. Protect from strong winds.",
+     "uses":"street, narrow-sites",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
      "sunShade":"",
      "winterFoliage":"deciduous",
      "origin":"exotic",
-     "types":"",
+     "types":"upright",
      "height":"4m",
      "width":"2m",
      "filterFloweringSeason":"",
@@ -11337,12 +11337,12 @@
      "filterAutumnColor":"purple",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, purple, black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, purple, black",
+      "autumn":"white, purple, black",
+      "winter":"white, purple, black",
+      "spring":"white, purple, black"
      },
      "flowerColor":{
       "summer":"",
@@ -11396,12 +11396,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11448,7 +11448,7 @@
      "commonName":"Silver Birch",
      "url":"betula-pendula-wades-gold-silver-birch",
      "mainImage":"betula-pendula-wades-gold-silver-birch/betula-pendula-wades-gold-silver-birch.jpg",
-     "description":"A compact, upright birch with lime-green leaves through the summer. Brilliant gold autumn leaves. Branch stems are golden-orange through winter. Develops very white trunks. Excellent street tree.",
+     "description":"A compact, upright birch with lime-green leaves through the summer. Brilliant gold autumn leaves. Branch stems are golden-orange, changing to pink-red through winter. Develops very white trunks. Excellent street tree.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11463,12 +11463,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, orange, yellow, pink, red",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, orange, yellow",
+      "autumn":"white, orange, yellow",
+      "winter":"white, pink, red",
+      "spring":"white, orange, yellow"
      },
      "flowerColor":{
       "summer":"",
@@ -11534,12 +11534,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11582,7 +11582,7 @@
      "commonName":"Japanese White Birch",
      "url":"betula-platyphylla-var-japonica-japanese-white-birch",
      "mainImage":"betula-platyphylla-var-japonica-japanese-white-birch/betula-platyphylla-var-japonica-japanese-white-birch.jpg",
-     "description":"This lovely birch has a slender, form like the silver birch, but with larger and more substantial leaves which turn bright-yellow in autumn. Very white bark right down to ground level is maintained into old age. Rust-resistant leaves.",
+     "description":"This lovely birch has a slender form like the silver birch, but with larger and more substantial leaves which turn bright-yellow in autumn. Very white bark right down to ground level is maintained into old age. Rust-resistant leaves.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11597,12 +11597,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11656,12 +11656,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11731,12 +11731,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11818,12 +11818,12 @@
     "filterAutumnColor":"yellow",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
     "flowerColor":{
       "summer":"",
@@ -11866,7 +11866,7 @@
      "commonName":"Himalayan Birch",
      "url":"betula-utilis-var-jacquemontii-jermyns-himalayan-birch",
      "mainImage":"betula-utilis-var-jacquemontii-jermyns-himalayan-birch/betula-utilis-var-jacquemontii-jermyns-himalayan-birch.jpeg",
-     "description":"A vigorous, broadly-conical tree. Attractive pink and copper-brown bark which peels in horizontal, papery flakes. Dark-green leaves turn golden-yellow in autumn.",
+     "description":"A vigorous, broadly-conical tree. Attractive white bark which peels in horizontal, papery flakes. Dark-green leaves turn golden-yellow in autumn.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -11881,12 +11881,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -11956,12 +11956,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
