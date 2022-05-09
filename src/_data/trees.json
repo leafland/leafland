@@ -13503,15 +13503,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "autumn":"yellow, white",
+      "winter":"yellow, white",
+      "spring":"yellow, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13563,14 +13563,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"red",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13618,14 +13618,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"red",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13677,14 +13677,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"red",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13731,15 +13731,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"red",
+      "winter":"red",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13786,15 +13786,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"white",
+      "winter":"white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13841,15 +13841,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "autumn":"pink",
+      "winter":"pink",
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13900,15 +13900,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"pink",
+      "winter":"pink",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13952,15 +13952,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"pink, white",
+      "winter":"pink, white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14015,15 +14015,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"pink, white",
+      "winter":"pink, white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14067,15 +14067,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"pink",
+      "winter":"pink",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14119,15 +14119,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"pink, white",
+      "winter":"pink, white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14172,14 +14172,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14227,14 +14227,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14289,15 +14289,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"white",
+      "winter":"white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14364,15 +14364,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"white",
+      "winter":"white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14440,14 +14440,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"pink",
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14493,13 +14493,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14547,14 +14547,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14602,14 +14602,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14636,7 +14636,7 @@
      "commonName":"Hybrid Camellia",
      "url":"camellia-transnokoensis-hybrid-camellia",
      "mainImage":"camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia.jpg",
-     "description":"A dense-foliaged bush with an upright form. Excellent for screening. A mass of small, white, single flowers from red buds smother the bush from late-winter to early-spring. Hardy and vigorous.",
+     "description":"A dense-foliaged bush with an upright form. Excellent for screening. A mass of small, white, single flowers from pink-red buds smother the bush from late-winter to early-spring. Hardy and vigorous.",
      "uses":"hedging-and-screening, narrow-sites, attracts-bees",
      "tolerates":"",
      "soilType":"",
@@ -14647,7 +14647,7 @@
      "height":"2m",
      "width":"1m",
      "filterFloweringSeason":"spring, winter",
-     "filterFlowerColor":"white",
+     "filterFlowerColor":"white, pink, red",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -14661,14 +14661,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"white, pink, red",
+      "spring":"white, pink, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14707,7 +14707,7 @@
      "commonName":"Hybrid Camellia",
      "url":"camellia-transtasman-hybrid-camellia",
      "mainImage":"camellia-transtasman-hybrid-camellia/camellia-transtasman-hybrid-camellia.jpg",
-     "description":"Masses of tiny, pure-pink flowers in winter and spring opening from red buds, slightly fragrant. Small leaves with a bushy habit.",
+     "description":"Masses of tiny, white to pale-pink flowers in winter and spring opening from pink-red buds, slightly fragrant. Small leaves with a bushy habit.",
      "uses":"hedging-and-screening, attracts-bees",
      "tolerates":"",
      "soilType":"",
@@ -14718,7 +14718,7 @@
      "height":"3m",
      "width":"2m",
      "filterFloweringSeason":"winter, spring",
-     "filterFlowerColor":"pink",
+     "filterFlowerColor":"pink, red, white",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -14732,14 +14732,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"pink, red, white",
+      "spring":"pink, red, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14784,14 +14784,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14822,7 +14822,7 @@
      "commonName":"European Hornbeam",
      "url":"carpinus-betulus-european-hornbeam",
      "mainImage":"carpinus-betulus-european-hornbeam/carpinus-betulus-european-hornbeam.jpg",
-     "description":"Strong, pyramidal form when young, becoming rounded with age. The rich-green leaves are heavily-ribbed. Yellow-orange autumn leaves, then brown through winter. Excellent as a hedge. Very popular for pleaching. Catkins in early to mid-spring are a good source of pollen for bees.",
+     "description":"Strong, pyramidal form when young, becoming rounded with age. The rich-green leaves are heavily-ribbed. Yellow autumn leaves, then brown through winter. Excellent as a hedge. Very popular for pleaching. Yellow-green catkins in early to mid-spring are a good source of pollen for bees.",
      "uses":"street, hedging-and-screening, pleaching, attracts-bees",
      "tolerates":"windy",
      "soilType":"clay-soils, dry-soils",
@@ -14833,8 +14833,8 @@
      "height":"10m",
      "width":"6m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"yellow, orange",
+     "filterFlowerColor":"yellow, green",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -14848,13 +14848,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"brown",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14905,7 +14905,7 @@
      "commonName":"European Hornbeam",
      "url":"carpinus-betulus-fastigiata-european-hornbeam",
      "mainImage":"carpinus-betulus-fastigiata-european-hornbeam/carpinus-betulus-fastigiata-european-hornbeam.jpg",
-     "description":"Has an upright, pyramidal form that is quite narrow while young. Becomes broader with age. Excellent avenue and street tree. Yellow and orange autumn leaves. Leaves are dropped cleanly at the end of autumn. Very hardy. Catkins in early to mid-spring are a good source of pollen for bees.",
+     "description":"Has an upright, pyramidal form that is quite narrow while young. Becomes broader with age. Excellent avenue and street tree. Yellow autumn leaves. Holds some brown leaves through winter, but less than Carpinus betulus. Very hardy. Yellow-green catkins in early to mid-spring are a good source of pollen for bees.",
      "uses":"street, narrow-sites, attracts-bees",
      "tolerates":"windy",
      "soilType":"clay-soils, dry-soils",
@@ -14916,8 +14916,8 @@
      "height":"8m",
      "width":"4m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"yellow, orange",
+     "filterFlowerColor":"yellow, green",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -14931,13 +14931,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"yellow",
+      "winter":"brown",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -14988,7 +14988,7 @@
      "commonName":"Japanese Hornbeam",
      "url":"carpinus-japonica-japanese-hornbeam",
      "mainImage":"carpinus-japonica-japanese-hornbeam/carpinus-japonica-japanese-hornbeam.jpg",
-     "description":"Has beautiful, elongated and corrugated green leaves. Lime-green catkins hang from the branches in early-spring along with the newly emerging leaves. Orange and yellow autumn leaves.",
+     "description":"Has beautiful, elongated and corrugated green leaves. Yellow-green catkins hang from the branches in early-spring along with the newly emerging leaves. Yellow autumn leaves.",
      "uses":"street, pleaching",
      "tolerates":"windy",
      "soilType":"",
@@ -14998,9 +14998,9 @@
      "types":"",
      "height":"6m",
      "width":"5m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"yellow, orange",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"yellow, green",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -15014,13 +15014,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15043,7 +15043,7 @@
      "commonName":"Putaputawētā, Marbleleaf",
      "url":"carpodetus-serratus-putaputaweta-marbleleaf",
      "mainImage":"carpodetus-serratus-putaputaweta-marbleleaf/carpodetus-serratus-putaputaweta-marbleleaf.jpg",
-     "description":"An attractive tree with spreading branches. Juvenile leaves are brown while the adult leaves are larger and dark-green with lighter marbling. A profusion of small, white flowers from late-spring to early-autumn. Does not tolerate drought or wind.",
+     "description":"An attractive tree with spreading branches. Leaves are green, marbled, and serrated. Goes through a juvenile phase of divaricating branches and small, rounded leaves. A profusion of small, white flowers from late-spring to early-autumn. Does not tolerate drought or wind.",
      "uses":"attracts-bees, shade",
      "tolerates":"",
      "soilType":"",
@@ -15066,16 +15066,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"white",
+      "autumn":"white",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15114,7 +15114,7 @@
      "commonName":"Sweet Chestnut",
      "url":"castanea-sativa-sweet-chestnut",
      "mainImage":"castanea-sativa-sweet-chestnut/castanea-sativa-sweet-chestnut.jpg",
-     "description":"Forms a tall, stately tree with wide-spreading branches. Great shade tree for wide, open spaces. Glossy, deep-green leaves with sharply-toothed margins. Requires cross-pollination from compatible variety for nut production. Nuts ripen in autumn. Yellow autumn leaves.",
+     "description":"Forms a tall, stately tree with wide-spreading branches. Great shade tree for wide, open spaces. Glossy, deep-green leaves with sharply-toothed margins. Red-brown fruits wrapped in a green, spiky case ripen in autumn. Yellow autumn leaves. Has both male and female flowers on the same tree, but these are mostly self-incompatible, so more than one tree is required for pollination and nut production.",
      "uses":"paddocks, shade",
      "tolerates":"",
      "soilType":"",
@@ -15128,7 +15128,7 @@
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -15143,14 +15143,14 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green, red, brown",
       "winter":"",
       "spring":""
      },
@@ -15177,7 +15177,7 @@
      "commonName":"Sweet Chestnut",
      "url":"castanea-sativa-1005-sweet-chestnut",
      "mainImage":"castanea-sativa-1005-sweet-chestnut/castanea-sativa-1005-sweet-chestnut.jpg",
-     "description":"Commercial fruiting variety. Large, red-brown nuts fall free of the burr. A heavy-cropper bearing nuts in early-autumn. Strong, upright-grower. Self-fertile. Yellow autumn leaves.",
+     "description":"Commercial fruiting variety. Red-brown fruits wrapped in a green, spiky case ripen in autumn. A heavy-cropper. Strong, upright-grower. Self-fertile. Yellow autumn leaves.",
      "uses":"paddocks, shade",
      "tolerates":"",
      "soilType":"",
@@ -15201,15 +15201,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green, red, brown",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15286,13 +15286,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, purple, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15319,8 +15319,8 @@
      "commonName":"Chinese Toon",
      "url":"cedrela-sinensis-flamingo-chinese-toon",
      "mainImage":"cedrela-sinensis-flamingo-chinese-toon/cedrela-sinensis-flamingo-chinese-toon.jpg",
-     "description":"Also known as Toona sinensis 'Flamingo'. The slender, erect branches bear pinnate leaves of rich warm-pink in early-spring. Leaves become cream-pink and mature to green by summer. Can be halved in height or pruned to the ground to encourage a profusion of new stems. Orange-yellow autumn leaves.",
-     "uses":"street",
+     "description":"Also known as Toona sinensis 'Flamingo'. The slender, erect branches bear pinnate leaves of rich warm-pink in early-spring. Leaves become cream-yellow and mature to green by summer. Can be halved in height or pruned to the ground to encourage a profusion of new stems. Yellow autumn leaves. Has beautiful, fragrant white flowers produced in drooping clusters in summer.",
+     "uses":"street, attracts-bees",
      "tolerates":"",
      "soilType":"",
      "sunShade":"",
@@ -15329,10 +15329,10 @@
      "types":"",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"yellow, orange",
-     "filterFoliageColor":"pink, green",
+     "filterFloweringSeason":"summer",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"yellow",
+     "filterFoliageColor":"pink, green, white, yellow",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15342,16 +15342,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"pink, white, yellow"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15403,10 +15403,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15470,7 +15470,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"blue",
+     "filterFoliageColor":"blue, grey",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15486,10 +15486,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"blue, grey",
+      "autumn":"blue, grey",
+      "winter":"blue, grey",
+      "spring":"blue, grey"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15545,7 +15545,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"blue",
+     "filterFoliageColor":"blue, grey",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15561,10 +15561,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"blue, grey",
+      "autumn":"blue, grey",
+      "winter":"blue, grey",
+      "spring":"blue, grey"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15620,7 +15620,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"blue",
+     "filterFoliageColor":"blue, grey, green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15636,10 +15636,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"blue, grey, green",
+      "autumn":"blue, grey, green",
+      "winter":"blue, grey, green",
+      "spring":"blue, grey, green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15701,12 +15701,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"grey",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"grey",
+      "autumn":"grey",
+      "winter":"grey",
+      "spring":"grey"
      },
      "flowerColor":{
       "summer":"",
@@ -15715,10 +15715,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15749,7 +15749,7 @@
      "commonName":"Katsura Tree",
      "url":"cercidiphyllum-japonicum-katsura-tree",
      "mainImage":"cercidiphyllum-japonicum-katsura-tree/cercidiphyllum-japonicum-katsura-tree.jpg",
-     "description":"Tolerates wet positions and prefers moist conditions. Red-purple new leaves and stems. Leaves become green with a slight blue tinge in summer and turn bright gold, orange, and red through autumn. Autumn leaves have a cinnamon to burnt-sugar smell when freshly fallen.",
+     "description":"Tolerates wet positions and prefers moist conditions. Red-purple new leaves in spring. Leaves become blue-green in summer and turn bright yellow, orange, and red through autumn. Autumn leaves have a cinnamon to burnt-sugar smell when freshly fallen.",
      "uses":"street",
      "tolerates":"",
      "soilType":"poor-draining-soils",
@@ -15762,7 +15762,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow, red, orange",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, blue, red, purple",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15778,10 +15778,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"blue, green",
+      "autumn":"yellow, orange, red",
       "winter":"",
-      "spring":""
+      "spring":"red, purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15832,7 +15832,7 @@
      "commonName":"Katsura Tree",
      "url":"cercidiphyllum-japonicum-pendulum-katsura-tree",
      "mainImage":"cercidiphyllum-japonicum-pendulum-katsura-tree/cercidiphyllum-japonicum-pendulum-katsura-tree.jpg",
-     "description":"Has pendulous, branches. A great specimen tree to feature in your garden. Tolerates wet positions and prefers moist conditions. Red-purple new leaves and stems. Leaves become green with a slight blue tinge in summer and turn bright orange-yellow through autumn. Autumn leaves have a cinnamon to burnt-sugar smell when freshly fallen.",
+     "description":"Has pendulous branches. A great specimen tree to feature in your garden. Tolerates wet positions and prefers moist conditions. Red-purple new leaves in spring. Leaves become blue-green in summer and turn bright yellow, orange, and red through autumn. Autumn leaves have a cinnamon to burnt-sugar smell when freshly fallen.",
      "uses":"",
      "tolerates":"",
      "soilType":"poor-draining-soils",
@@ -15845,7 +15845,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"yellow, red, orange",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, blue, red, purple",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -15861,10 +15861,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"blue, green",
+      "autumn":"yellow, orange, red",
       "winter":"",
-      "spring":""
+      "spring":"red, purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -15923,7 +15923,7 @@
      "commonName":"Eastern Redbud",
      "url":"cercis-canadensis-forest-pansy-eastern-redbud",
      "mainImage":"cercis-canadensis-forest-pansy-eastern-redbud/cercis-canadensis-forest-pansy-eastern-redbud.jpg",
-     "description":"Round-headed tree with large, heart-shaped leaves of glowing-purple. Leaves turn glowing-orange and red in autumn. Masses of rose-pink, pea-shaped flowers on the bare branches in spring. Branch patterning in winter is a feature.",
+     "description":"Round-headed tree with large, heart-shaped leaves of glowing-purple. Leaves turn glowing-orange and red in autumn. Masses of rose-pink, pea-shaped flowers on the bare branches in spring. The dark red-brown bark has a scaly surface and forms deep fissures to expose the cinnamon-orange interior. The young stems start brown then become almost black, providing winter interest.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -15938,24 +15938,24 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"black, red, brown, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown, orange, black",
+      "autumn":"red, brown, orange, black",
+      "winter":"red, brown, orange, black",
+      "spring":"red, brown, orange, black"
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple",
+      "autumn":"red, orange",
       "winter":"",
-      "spring":""
+      "spring":"purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16058,7 +16058,7 @@
      "commonName":"Eastern Redbud",
      "url":"cercis-canadensis-hearts-of-gold-eastern-redbud",
      "mainImage":"cercis-canadensis-hearts-of-gold-eastern-redbud/cercis-canadensis-hearts-of-gold-eastern-redbud.jpg",
-     "description":"Round-headed tree with large, heart-shaped leaves which in spring are golden-bronze. Autumn colours are bright yellow-orange. Bare branches in spring are smothered in rose-pink flowers.",
+     "description":"Round-headed tree with large, heart-shaped leaves which in spring are orange-red, maturing to gold and fading to yellow-green in summer. Autumn colours are bright yellow-orange to red. Bare branches in spring are smothered in rose-pink flowers. The dark red-brown bark has a scaly surface and forms deep fissures to expose the cinnamon-orange interior. The young stems start brown then become almost black, providing winter interest.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16070,27 +16070,27 @@
      "width":"2m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink",
-     "filterAutumnColor":"yellow, orange",
+     "filterAutumnColor":"red, orange, yellow",
      "filterFoliageColor":"yellow",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"black, red, brown, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown, orange, black",
+      "autumn":"red, brown, orange, black",
+      "winter":"red, brown, orange, black",
+      "spring":"red, brown, orange, black"
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"yellow, green",
+      "autumn":"yellow, orange, red",
       "winter":"",
-      "spring":""
+      "spring":"orange, red, yellow"
      },
      "fruitingSeason":{
       "summer":"",
