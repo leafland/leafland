@@ -9898,7 +9898,7 @@
      "commonName":"Canary Island Strawberry Tree",
      "url":"arbutus-canariensis-canary-island-strawberry-tree",
      "mainImage":"arbutus-canariensis-canary-island-strawberry-tree/arbutus-canariensis-canary-island-strawberry-tree.jpg",
-     "description":"Has bold, green foliage. Large, upright panicles of white, bell-shaped flowers cover the tree in autumn to early-winter. They are a good source of pollen for bees. Green fruit appear in winter after the flowers and take almost a full year to ripen. The fruit change color through yellow to red and ripen when the next year's autumn flowers appear. Birds love the fruit. Like gum trees, the bark is smooth and sheds annually. Wind and heat tolerant.",
+     "description":"Has bold, green foliage. Large, upright panicles of white, bell-shaped flowers cover the tree in autumn to early-winter. They are a good source of pollen for bees. Green fruit appear in winter after the flowers and take almost a full year to ripen. The fruit change color through yellow to red and ripen when the next year's autumn flowers appear. Birds love the fruit. Has peeling, red-brown bark. Wind and heat tolerant.",
      "uses":"attracts-birds, attracts-bees",
      "tolerates":"windy",
      "soilType":"dry-soils",
@@ -9913,12 +9913,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
-     "filterStemColor":"",
+     "filterStemColor":"red, brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown",
+      "autumn":"red, brown",
+      "winter":"red, brown",
+      "spring":"red, brown"
      },
      "flowerColor":{
       "summer":"",
@@ -9969,7 +9969,7 @@
      "commonName":"Irish Strawberry Tree",
      "url":"arbutus-unedo-irish-strawberry-tree",
      "mainImage":"arbutus-unedo-irish-strawberry-tree/arbutus-unedo-irish-strawberry-tree.jpg",
-     "description":"Very hardy to adverse conditions including coastal, heat, and cold. Small, white flowers in autumn and winter. Green fruit appear in winter after the flowers and take almost a full year to ripen. The fruit change color through yellow to red and ripen when the next year's autumn flowers appear. Birds love the fruit and the flowers are a good source of pollen for bees.",
+     "description":"Very hardy to adverse conditions including coastal, heat, and cold. Small, white flowers in autumn and winter. Green fruit appear in winter after the flowers and take almost a full year to ripen. The fruit change color through yellow to red and ripen when the next year's autumn flowers appear. Birds love the fruit and the flowers are a good source of pollen for bees. Has peeling, red-brown bark.",
      "uses":"attracts-birds, attracts-bees",
      "tolerates":"coastal",
      "soilType":"dry-soils",
@@ -9984,12 +9984,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"autumn",
-     "filterStemColor":"",
+     "filterStemColor":"red, brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown",
+      "autumn":"red, brown",
+      "winter":"red, brown",
+      "spring":"red, brown"
      },
      "flowerColor":{
       "summer":"",
