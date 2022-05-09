@@ -10742,7 +10742,7 @@
      "commonName":"Korean Birch",
      "url":"betula-costata-korean-birch",
      "mainImage":"betula-costata-korean-birch/betula-costata-korean-birch.jpg",
-     "description":"A very distinctive tree with a strong pattern of horizontal striations on the bark which are cream-pink to orange. Upright growth habit. Bright-green leaves with conspicuous veining. Golden autumn leaves.",
+     "description":"Has beautiful, peeling bark that is cream-white with pink-orange tones. Upright growth habit. Bright-green leaves with conspicuous veining. Golden autumn leaves. Does not tolerate drought.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -10757,12 +10757,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange",
+      "autumn":"white, pink, orange",
+      "winter":"white, pink, orange",
+      "spring":"white, pink, orange"
      },
      "flowerColor":{
       "summer":"",
@@ -10821,7 +10821,7 @@
      "commonName":"Erman's Birch",
      "url":"betula-ermanii-ermans-birch",
      "mainImage":"betula-ermanii-ermans-birch/betula-ermanii-ermans-birch.jpg",
-     "description":"A graceful, vigorous tree with cream-white to pink bark. This imparts a warm hue among darker evergreen trees, especially through the winter months. Bright-green leaves turn bright-yellow in autumn. Conical, upright-grower which broadens with age.",
+     "description":"A graceful, vigorous tree with peeling bark that is cream-white with pink-orange tones. This imparts a warm hue among darker evergreen trees, especially through the winter months. Bright-green leaves turn bright-yellow in autumn. Conical, upright-grower which broadens with age.",
      "uses":"",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -10836,12 +10836,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange",
+      "autumn":"white, pink, orange",
+      "winter":"white, pink, orange",
+      "spring":"white, pink, orange"
      },
      "flowerColor":{
       "summer":"",
@@ -10891,12 +10891,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white",
+      "autumn":"white",
+      "winter":"white",
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -10935,7 +10935,7 @@
      "commonName":"River Birch",
      "url":"betula-nigra-river-birch",
      "mainImage":"betula-nigra-river-birch/betula-nigra-river-birch.jpg",
-     "description":"One of the best trees for planting in wet areas. Has a strong, pyramidal form with distinctive, pink-orange, shaggy bark which flakes and curls. Glossy, green leaves are glaucous underneath. They turn bright-yellow in autumn.",
+     "description":"One of the best trees for planting in wet areas. Has a strong, pyramidal form. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black. Glossy, green leaves are glaucous underneath. They turn bright-yellow in autumn.",
      "uses":"street",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -10950,12 +10950,12 @@
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"white, pink, orange, brown, black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"white, pink, orange, brown, black",
+      "autumn":"white, pink, orange, brown, black",
+      "winter":"white, pink, orange, brown, black",
+      "spring":"white, pink, orange, brown, black"
      },
      "flowerColor":{
       "summer":"",
