@@ -12022,12 +12022,12 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
       "spring":""
      },
      "fruitingSeason":{
@@ -12082,7 +12082,7 @@
      "height":"10m",
      "width":"6m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"yellow",
+     "filterFlowerColor":"yellow, red",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -12097,13 +12097,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12179,10 +12179,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12245,15 +12245,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12306,13 +12306,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12358,16 +12358,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"pink",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12417,16 +12417,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12488,16 +12488,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red",
+      "autumn":"red",
+      "winter":"red",
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12549,10 +12549,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"red, green",
+      "winter":"green",
+      "spring":"red, green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12587,7 +12587,7 @@
      "commonName":"Bottlebrush",
      "url":"callistemon-red-cluster-bottlebrush",
      "mainImage":"callistemon-red-cluster-bottlebrush/callistemon-red-cluster-bottlebrush.jpg",
-     "description":"A vigorous, rounded form with pink new shoots. A profusion of crimson-red brushes in spring with a second flowering in autumn. Flowers attract nectar-seeking birds. Drought-tolerant once established.",
+     "description":"A vigorous, rounded form. A profusion of crimson-red brushes in spring with a second flowering in autumn. Flowers attract nectar-seeking birds. Drought-tolerant once established.",
      "uses":"street, topiary, attracts-bees",
      "tolerates":"",
      "soilType":"dry-soils",
@@ -12611,15 +12611,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12659,7 +12659,7 @@
      "filterFloweringSeason":"spring, summer, autumn",
      "filterFlowerColor":"white",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, pink, red",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -12669,16 +12669,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"white",
+      "autumn":"white",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green, pink, red"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12705,7 +12705,7 @@
      "commonName":"Bottlebrush",
      "url":"callistemon-viminalis-bottlebrush",
      "mainImage":"callistemon-viminalis-bottlebrush/callistemon-viminalis-bottlebrush.jpg",
-     "description":"A lovely tree with dark-green leaves that are pink-purple when young. Deep-red bottlebrush flowers are produced in late-spring to early-summer with some spot-flowering throughout the year. Tolerates wet sites and short spells of drought.",
+     "description":"A lovely tree with dark-green leaves. Deep-red bottlebrush flowers are produced in late-spring to early-summer with some spot-flowering throughout the year. Tolerates wet sites and short spells of drought.",
      "uses":"attracts-bees",
      "tolerates":"",
      "soilType":"poor-draining-soils, dry-soils",
@@ -12728,16 +12728,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12788,7 +12788,7 @@
      "commonName":"Bottlebrush",
      "url":"callistemon-western-glory-bottlebrush",
      "mainImage":"callistemon-western-glory-bottlebrush/callistemon-western-glory-bottlebrush.jpg",
-     "description":"Pink new shoots mature into slender, leathery leaves. Large heads of red-pink flowers during late-spring into summer. Flowers attract nectar-seeking birds. Coastal and drought hardy.",
+     "description":"Has green, slender, leathery leaves. Large heads of red-pink flowers during late-spring into summer. Flowers attract nectar-seeking bees. Coastal and drought hardy.",
      "uses":"street, topiary, attracts-bees",
      "tolerates":"coastal",
      "soilType":"dry-soils",
@@ -12799,7 +12799,7 @@
      "height":"3m",
      "width":"2m",
      "filterFloweringSeason":"summer, spring",
-     "filterFlowerColor":"pink",
+     "filterFlowerColor":"red, pink",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -12811,16 +12811,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red, pink",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red, pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12872,7 +12872,7 @@
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
     "filterAutumnColor":"",
-    "filterFoliageColor":"green",
+    "filterFoliageColor":"green, purple, brown",
     "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -12888,10 +12888,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green, purple, brown",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -12956,13 +12956,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13015,13 +13015,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13084,15 +13084,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "autumn":"pink, white",
+      "winter":"pink, white",
+      "spring":"pink, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13151,15 +13151,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"red, pink",
+      "winter":"red, pink",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13211,14 +13211,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"pink",
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13262,15 +13262,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"white",
+      "winter":"white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13321,15 +13321,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "autumn":"pink, white",
+      "winter":"pink, white",
+      "spring":"pink, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13385,14 +13385,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"pink, white",
+      "spring":"pink, white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -13427,7 +13427,7 @@
      "commonName":"Sasanqua Camellia",
      "url":"camellia-hiryu-sasanqua-camellia",
      "mainImage":"camellia-hiryu-sasanqua-camellia/camellia-hiryu-sasanqua-camellia.jpg",
-     "description":"Bright-cerise, semi-double flowers in abundance. Flowers through autumn into early-winter. A vigorous, hardy variety. Excellent as a screen or a large filler. Grow in sun or semi-shade.",
+     "description":"Bright, red-pink, semi-double flowers in abundance. Flowers through autumn into early-winter. A vigorous, hardy variety. Excellent as a screen or a large filler. Grow in sun or semi-shade.",
      "uses":"hedging-and-screening, attracts-bees",
      "tolerates":"",
      "soilType":"",
@@ -13451,15 +13451,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"red, pink",
+      "winter":"red, pink",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
