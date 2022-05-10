@@ -16129,7 +16129,7 @@
      "commonName":"Eastern Redbud",
      "url":"cercis-canadensis-merlot-eastern-redbud",
      "mainImage":"cercis-canadensis-merlot-eastern-redbud/cercis-canadensis-merlot-eastern-redbud.jpg",
-     "description":"Noted for its dark wine-red foliage and excellent tolerance to drought and heat. A compact tree with an upright, dense, vase-shaped habit. This tree adds elegance to any space, including small gardens. Beautiful pink, pea-shaped flowers in spring. Red, orange, and yellow autumn leaves.",
+     "description":"Noted for its dark wine-red foliage and excellent tolerance to drought and heat. A compact tree with an upright, dense, vase-shaped habit. This tree adds elegance to any space, including small gardens. Beautiful pink, pea-shaped flowers in spring. Red, orange, and yellow autumn leaves. The dark red-brown bark has a scaly surface and forms deep fissures to expose the cinnamon-orange interior. The young stems start brown then become almost black, providing winter interest.",
      "uses":"",
      "tolerates":"",
      "soilType":"dry-soils",
@@ -16142,26 +16142,26 @@
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink",
      "filterAutumnColor":"yellow, red, orange",
-     "filterFoliageColor":"purple",
+     "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"black, red, brown, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown, orange, black",
+      "autumn":"red, brown, orange, black",
+      "winter":"red, brown, orange, black",
+      "spring":"red, brown, orange, black"
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple, red",
+      "autumn":"yellow, orange, red",
       "winter":"",
-      "spring":""
+      "spring":"purple, red"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16200,7 +16200,7 @@
      "commonName":"Eastern Redbud",
      "url":"cercis-canadensis-ruby-falls-eastern-redbud",
      "mainImage":"cercis-canadensis-ruby-falls-eastern-redbud/cercis-canadensis-ruby-falls-eastern-redbud.jpg",
-     "description":"Noted for its unique habit. Has a compact form with profuse, pea-like, pink flowers that arise in spring before the foliage turns burgundy, then matures to green in late-summer. Red and orange autumn leaves.",
+     "description":"Noted for its unique habit. Has a compact form with profuse, pea-like, pink flowers that arise in spring. New foliage emerges red in spring before changing to burgundy and finally to green by late-summer. Red and orange autumn leaves. The dark red-brown bark has a scaly surface and forms deep fissures to expose the cinnamon-orange interior. The young stems start brown then become almost black, providing winter interest.",
      "uses":"small-garden",
      "tolerates":"",
      "soilType":"",
@@ -16213,26 +16213,26 @@
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink",
      "filterAutumnColor":"red, orange",
-     "filterFoliageColor":"purple",
+     "filterFoliageColor":"purple, red, green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"black, red, brown, orange",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"red, brown, orange, black",
+      "autumn":"red, brown, orange, black",
+      "winter":"red, brown, orange, black",
+      "spring":"red, brown, orange, black"
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple, green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"red, purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16289,13 +16289,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, white",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green, white"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16350,7 +16350,7 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "flowerColor":{
       "summer":"",
@@ -16359,10 +16359,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16427,13 +16427,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16498,13 +16498,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16527,7 +16527,7 @@
      "commonName":"Judas Tree",
      "url":"cercis-siliquastrum-judas-tree",
      "mainImage":"cercis-siliquastrum-judas-tree/cercis-siliquastrum-judas-tree.jpg",
-     "description":"A handsome tree with a flat, spreading crown. Has green, heart-shaped leaves. Rose-purple flowers cover the branches in early-spring. Yellow autumn leaves. Great small tree for dry sites. Hardy.",
+     "description":"A handsome tree with a flat, spreading crown. Has green, heart-shaped leaves. Pink flowers cover the branches in early-spring. Yellow autumn leaves. Great small tree for dry sites. Hardy.",
      "uses":"",
      "tolerates":"",
      "soilType":"dry-soils",
@@ -16553,13 +16553,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16628,13 +16628,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16667,7 +16667,7 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"blue",
+     "filterFoliageColor":"blue, grey",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -16683,10 +16683,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"blue, grey",
+      "autumn":"blue, grey",
+      "winter":"blue, grey",
+      "spring":"blue, grey"
      },
      "fruitingSeason":{
       "summer":"",
@@ -16717,7 +16717,7 @@
      "commonName":"",
      "url":"cherry-compact-stella",
      "mainImage":"cherry-compact-stella/cherry-compact-stella.jpg",
-     "description":"Grafted eating cherry. Heavy and regular bearer of red fruit. Fruit ripens in early-summer. Hardy. Self-fertile.",
+     "description":"Grafted eating cherry. Heavy and regular bearer of red fruit. Fruit ripens in early-summer. Leaves turn orange to red in autumn. White flowers in spring. Hardy. Self-fertile.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16727,9 +16727,9 @@
      "types":"edible",
      "height":"3m",
      "width":"2m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"orange, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
      "filterStemColor":"",
@@ -16743,16 +16743,16 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -16772,7 +16772,7 @@
      "commonName":"",
      "url":"cherry-dawson",
      "mainImage":"cherry-dawson/cherry-dawson.jpg",
-     "description":"Dark purple-black skin and dark-red flesh. Large, firm fruit. Fruit ripens early to mid-summer. Pollinators are Cherry 'Stella' and Cherry 'Compact Stella'.",
+     "description":"Dark purple-black skin and dark-red flesh. Large, firm fruit. Fruit ripens early to mid-summer. Leaves turn orange to red in autumn. White flowers in spring. Pollinators are Cherry 'Stella' and Cherry 'Compact Stella'.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16782,9 +16782,9 @@
      "types":"edible",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"orange, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
      "filterStemColor":"",
@@ -16798,16 +16798,16 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"purple, black",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -16827,7 +16827,7 @@
      "commonName":"",
      "url":"cherry-lapins",
      "mainImage":"cherry-lapins/cherry-lapins.jpg",
-     "description":"Large, dark-red, firm fruit with a good flavour. Fruit ripens from mid-summer and is resistant to cracking. Self-fertile.",
+     "description":"Large, dark-red, firm fruit with a good flavour. Fruit ripens from mid-summer and is resistant to cracking. Leaves turn orange to red in autumn. White flowers in spring. Self-fertile.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16837,9 +16837,9 @@
      "types":"edible",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"orange, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
      "filterStemColor":"",
@@ -16853,16 +16853,16 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -16882,7 +16882,7 @@
      "commonName":"",
      "url":"cherry-rainier",
      "mainImage":"cherry-rainier/cherry-rainier.jpg",
-     "description":"One of the best yellow cherries producing abundant crops of deliciously sweet fruit. Clusters of sweetly-scented white flowers appear on the branches in spring. Large, golden-yellow cherries with a red blush are produced in early-summer. The fruit has firm, cream-white flesh that is exceptionally sweet and juicy. The fruit is great for eating fresh, canning, and preserves. Beautiful bronze and golden-yellow leaves in autumn. Pollinators are Cherry 'Stella' and Cherry 'Compact Stella'.",
+     "description":"One of the best yellow cherries producing abundant crops of deliciously sweet fruit. Clusters of sweetly-scented white flowers appear on the branches in spring. Large, golden-yellow cherries with a red blush are produced in early-summer. The fruit has firm, cream-white flesh that is exceptionally sweet and juicy. The fruit is great for eating fresh, canning, and preserves. Beautiful orange and red leaves in autumn. Pollinators are Cherry 'Stella' and Cherry 'Compact Stella'.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16894,7 +16894,7 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white",
-     "filterAutumnColor":"yellow, orange",
+     "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
      "filterStemColor":"",
@@ -16908,16 +16908,16 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, orange",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"yellow, red",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -16937,7 +16937,7 @@
      "commonName":"",
      "url":"cherry-stella",
      "mainImage":"cherry-stella/cherry-stella.jpg",
-     "description":"A prolific and regular bearer of large, sweet, red cherries. Fruit ripens in early-summer. Self-fertile.",
+     "description":"A prolific and regular bearer of large, sweet, red cherries. Fruit ripens in early-summer. Leaves turn orange to red in autumn. White flowers in spring. Self-fertile.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -16947,9 +16947,9 @@
      "types":"edible",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"summer",
      "filterStemColor":"",
@@ -16963,16 +16963,16 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -16996,7 +16996,7 @@
      "commonName":"",
      "url":"cherry-summit",
      "mainImage":"cherry-summit/cherry-summit.jpg",
-     "description":"Produces large, heart-shaped cherries with dark-red skin and light-red, juicy flesh. Fruits late-spring to early-summer. Pollinators are Cherry 'Lapins', Cherry 'Stella', and Cherry 'Compact Stella'.",
+     "description":"Produces large, heart-shaped cherries with dark-red skin and light-red, juicy flesh. Fruits late-spring to early-summer. Leaves turn orange to red in autumn. White flowers in spring. Pollinators are Cherry 'Lapins', Cherry 'Stella', and Cherry 'Compact Stella'.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -17006,11 +17006,11 @@
      "types":"edible",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"spring, summer",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -17022,19 +17022,19 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "treeShape":"images/icons/tree-shapes/cherry/cherry-general.svg",
      "relatedTrees":[],
@@ -17073,14 +17073,14 @@
      "flowerColor":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"yellow",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -17149,13 +17149,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -17194,7 +17194,7 @@
      "commonName":"Camphor Tree",
      "url":"cinnamomum-camphora-camphor-tree",
      "mainImage":"cinnamomum-camphora-camphor-tree/cinnamomum-camphora-camphor-tree.jpg",
-     "description":"A great shade tree with a very picturesque form. Pink new leaves contrast against the paler leaves. Smooth bark. All parts of the tree exude a camphor fragrance. In spring, produces bright green foliage with masses of small white flowers, and clusters of black, berry-like fruit. Tolerates drought once established.",
+     "description":"A great shade tree with a very picturesque form. Pink-orange new leaves that mature to green. Smooth bark. Crushed leaves and twigs exude a camphor fragrance. In spring, produces bright green foliage with masses of small white flowers, and clusters of black, berry-like fruit. Tolerates drought once established.",
      "uses":"street",
      "tolerates":"",
      "soilType":"dry-soils",
@@ -17204,11 +17204,11 @@
      "types":"",
      "height":"8m",
      "width":"7m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"white",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFoliageColor":"green, pink, orange",
+     "filterFruitingSeason":"spring",
      "filterStemColor":"",
      "stem":{
       "summer":"",
