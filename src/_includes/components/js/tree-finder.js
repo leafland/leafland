@@ -233,9 +233,11 @@ window.addEventListener("DOMContentLoaded", () => {
   });
   filterSettings.height.forEach((value) => {
     treeFilter.push(value);
+    heightsArray.push(value);
   });
   filterSettings.width.forEach((value) => {
     treeFilter.push(value);
+    widthsArray.push(value);
   });
   filterSettings.fruitingSeason.forEach((value) => {
     treeFilter.push(value);
