@@ -719,7 +719,7 @@ type: product
 
             <div id="order-block">
 
-                <p class="block-title">Pricing and stock availability</p>
+                {% comment %} <p class="block-title">Pricing and stock availability</p> {% endcomment %}
 
                 {% comment %} <h3 id="grade-sizes-heading">Add to order</h3> {% endcomment %}
 
@@ -861,8 +861,8 @@ type: product
         <div id="grid-content-bottom-right">
 
             <div id="tree-information-table">
-
-                <p class="block-title-less-margin">Tree specifications</p>
+{% comment %} 
+                <p class="block-title-less-margin">Tree specifications</p> {% endcomment %}
 
                     {% if botanicalName.size > 0 %}
 
