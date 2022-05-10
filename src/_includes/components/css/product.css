@@ -966,7 +966,7 @@ details b {
   }
 
   #grid-content-middle{
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr 300px;
   }
   /* #tree-info {
     grid-column-end: 3;
