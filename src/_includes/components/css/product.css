@@ -7,6 +7,12 @@ main h2 {
   text-transform: uppercase;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self: center
+}
+
 .tree-common-name {
   font-size: var(--font-size-4);
   background: var(--secondary-background);
@@ -560,8 +566,8 @@ body.add-to-order-open #add-to-order-overlay {
 
 #tree-shape-image {
   border: none;
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 200px;
+  max-height: 200px;
   grid-column-start: 1;
   grid-row-start: 2;
 }
@@ -846,8 +852,12 @@ details b {
 }
 
 #features-table tr:not(tr:nth-child(1)) th{
-  padding: 0.5rem 1rem 0.5rem 0;
+  padding: 0.5rem 0.5rem 0.5rem 0;
   /* width: 6rem */
+  position: sticky;
+  top: 0;
+  left: 0;
+  background: var(--secondary-background);
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -946,13 +956,13 @@ details b {
   }
 } */
 
-@media (min-width: 1200px) {
+@media (min-width: 1300px) {
   /* div#grid-content-bottom {
     grid-template-columns: repeat(2, 1fr);
   } */
 
   div#grid-content {
-    grid-template-columns: 45rem 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   #grid-content-middle{
