@@ -956,14 +956,18 @@ details b {
   }
 } */
 
-@media (min-width: 1300px) {
+@media (min-width: 1000px){
+  div#grid-content {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1200px) {
   /* div#grid-content-bottom {
     grid-template-columns: repeat(2, 1fr);
   } */
 
-  div#grid-content {
-    grid-template-columns: 1fr 1fr;
-  }
+
 
   #grid-content-middle{
     grid-template-columns: 1fr 300px;
@@ -974,12 +978,12 @@ details b {
     grid-gap: 3rem;
     justify-items: center;
   } */
-  #tree-info-description-icons {
+  /* #tree-info-description-icons {
     gap: 3rem;
   }
   #tree-shape {
     grid-gap: 3rem;
-  }
+  } */
 
   /* #add-to-order-button{
     font-size: var(--font-size-5);
