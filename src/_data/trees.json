@@ -34037,7 +34037,66 @@
     "images":[
       {
         "src":"images/trees/leptospermum-scoparium-coral-candy-manuka/leptospermum-scoparium-coral-candy-manuka-flowers.jpg",
-        "alt":"leptospermum scoparium coral-candy manuka flowers"
+        "alt":"leptospermum scoparium coral candy manuka flowers"
+      }
+    ]
+  },
+  {
+    "family":"",
+     "botanicalName":"Leptospermum scoparium 'Crimson Glory'",
+    "commonName":"Mānuka",
+    "url":"leptospermum-scoparium-crimson-glory-manuka",
+    "mainImage":"leptospermum-scoparium-crimson-glory-manuka/leptospermum-scoparium-crimson-glory-manuka.jpeg",
+    "description":"A beautiful display of double, crimson-red flowers in late-winter and spring. New foliage is red-purple, fading to a deep-green.",
+    "uses":"hedging-and-screening, small-garden, attracts-bees",
+    "tolerates":"coastal, windy",
+    "soilType":"dry-soils",
+    "sunShade":"",
+    "winterFoliage":"evergreen",
+    "origin":"native",
+    "types":"",
+    "height":"2m",
+    "width":"1m",
+    "filterFloweringSeason":"spring, winter",
+    "filterFlowerColor":"red",
+    "filterAutumnColor":"",
+    "filterFoliageColor":"green, red, purple",
+    "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"red",
+      "spring":"red"
+     },
+     "foliageColor":{
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"red, purple"
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+    "treeShape":"images/icons/tree-shapes/leptospermum/leptospermum-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/leptospermum-scoparium-crimson-glory-manuka/leptospermum-scoparium-crimson-glory-manuka-flowers.jpeg",
+        "alt":"leptospermum scoparium crimson glory manuka flowers"
+      },
+      {
+        "src":"images/trees/leptospermum-scoparium-crimson-glory-manuka/leptospermum-scoparium-crimson-glory-manuka-flowers-foliage.jpeg",
+        "alt":"leptospermum scoparium crimson glory manuka flowers foliage"
       }
     ]
   },
