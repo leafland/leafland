@@ -16,6 +16,10 @@ main h3 {
   margin-bottom: 1rem;
 }
 
+#content{
+  display: grid
+}
+
 #hero {
   display: grid;
   height: 750px;
@@ -143,6 +147,11 @@ main h3 {
   justify-self: center;
   border-color: var(--primary-text);
   background: none;
+}
+
+.split-section, .banner-section{
+  justify-self: center;
+  max-width:80rem
 }
 
 footer {
