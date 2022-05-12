@@ -561,6 +561,12 @@ body.main-menu-open {
     color: var(--brand-color);
   }
 
+  #content-inner .button:hover, #content-grid .button:hover{
+    cursor: pointer;
+    background-color: var(--primary-text);
+    color: var(--secondary-background)
+  }
+
   #subscribe-form button[type="submit"]:hover {
     color: var(--secondary-background);
     background: var(--primary-text);
