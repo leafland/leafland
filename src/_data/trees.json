@@ -12144,11 +12144,44 @@
      "types":"",
      "height":"5m",
      "width":"4m",
+<<<<<<< Updated upstream
      "floweringSeason":"summer",
      "flowerColor":"white",
      "autumnColor":"",
      "foliageColor":"yellow, green",
      "fruitingSeason":"",
+=======
+     "filterFloweringSeason":"summer",
+     "filterFlowerColor":"white",
+     "filterAutumnColor":"",
+     "filterFoliageColor":"yellow, green",
+     "filterFruitingSeason":"",
+     "filterStemColor":"",
+     "stem":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "flowerColor":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "foliageColor":{
+      "summer":"yellow, green",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+     "fruitingSeason":{
+      "summer":"",
+      "autumn":"",
+      "winter":"",
+      "spring":""
+     },
+>>>>>>> Stashed changes
      "treeShape":"images/icons/tree-shapes/cornus/cornus-tiered.svg",
      "relatedTrees":[],
      "images":[
