@@ -208,9 +208,3 @@ body.search-loaded #search-results {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-
-/* @media (min-width: 1500px) {
-  div#search-results-inner {
-    grid-template-columns: repeat(4, 1fr);
-  }
-} */
