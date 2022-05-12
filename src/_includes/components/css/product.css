@@ -7,6 +7,12 @@ main h2 {
   text-transform: uppercase;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self: center
+}
+
 .tree-common-name {
   font-size: var(--font-size-4);
   background: var(--secondary-background);
@@ -15,14 +21,14 @@ main h2 {
   display: inline-block;
 }
 
-#tree-info-left {
+#tree-info-description-icons {
   gap: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-#tree-info-right {
+#tree-info-tree-shape {
   align-self: center;
   justify-self: center;
   width: 100%;
@@ -59,7 +65,13 @@ main h2 {
 
 #grade-select {
   display: grid;
-  gap: 3rem
+  gap: 5rem
+}
+
+#grade-select-buttons{
+  display:flex;
+  flex-wrap: wrap;
+  gap: 5rem;
 }
 
 .grade-select-grid-div{
@@ -117,6 +129,7 @@ main h2 {
 
 #grade-select button {
   align-self: end;
+  max-width: 15rem
 }
 
 #grade-select select,
@@ -186,6 +199,23 @@ main h2 {
 #grid-content {
   display: grid;
   gap: 7rem 2rem;
+  grid-template-columns: 1fr;
+  margin-top: 3rem;
+}
+
+#grid-content-middle{
+  display: grid;
+  gap: 7rem 2rem;
+  grid-template-columns: 1fr;
+  margin-top: 3rem;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  padding: 2rem
+}
+
+#grid-content-bottom{
+  display: grid;
+  gap: 3rem;
   grid-template-columns: 1fr;
   margin-top: 3rem;
 }
@@ -331,8 +361,8 @@ main h2 {
 }
 
 .tree-color {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   border: 1px solid #000;
   display: inline-block;
@@ -340,7 +370,8 @@ main h2 {
 
 .color-spans {
   display: flex;
-  gap: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.25rem;
 }
 
 .blue {
@@ -372,6 +403,9 @@ main h2 {
 }
 .brown {
   background: #443730;
+}
+.black {
+  background: #000000;
 }
 
 .season-div {
@@ -532,8 +566,8 @@ body.add-to-order-open #add-to-order-overlay {
 
 #tree-shape-image {
   border: none;
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 200px;
+  max-height: 200px;
   grid-column-start: 1;
   grid-row-start: 2;
 }
@@ -785,6 +819,47 @@ details b {
   visibility: hidden;
 } */
 
+#features-table{
+  overflow: auto;
+  width: 100%;
+}
+
+#features-table table {
+  border-spacing: 0;
+  width: 100%;
+}
+
+#features-table th{
+  text-align: left;
+  text-transform: uppercase;
+  word-break: normal;
+}
+
+#features-table td{
+  min-width: 10rem
+}
+
+#features-table tr:first-child {
+  height: 5rem;
+}
+
+#features-table tr:not(tr:first-child) {
+  height: 4rem;
+}
+
+#features-table th, #features-table td{
+  padding: 0.5rem 1rem;
+}
+
+#features-table tr:not(tr:nth-child(1)) th{
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  /* width: 6rem */
+  position: sticky;
+  top: 0;
+  left: 0;
+  background: var(--secondary-background);
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover,
@@ -881,9 +956,21 @@ details b {
   }
 } */
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px){
   div#grid-content {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* div#grid-content-bottom {
     grid-template-columns: repeat(2, 1fr);
+  } */
+
+
+
+  #grid-content-middle{
+    grid-template-columns: 1fr 300px;
   }
   /* #tree-info {
     grid-column-end: 3;
@@ -891,12 +978,12 @@ details b {
     grid-gap: 3rem;
     justify-items: center;
   } */
-  #tree-info-left {
+  /* #tree-info-description-icons {
     gap: 3rem;
   }
   #tree-shape {
     grid-gap: 3rem;
-  }
+  } */
 
   /* #add-to-order-button{
     font-size: var(--font-size-5);

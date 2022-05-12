@@ -1,6 +1,11 @@
 main {
   margin-top: 5rem;
-  display: block;
+}
+
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self:center
 }
 
 #grid-content-right {
@@ -257,11 +262,11 @@ summary .info-pill {
   }
 }
 
-@media (min-width: 1500px) {
+/* @media (min-width: 1500px) {
   div#tree-wrapper {
     grid-template-columns: repeat(3, 1fr);
   }
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   p#no-products {

@@ -34,10 +34,10 @@
 #order-inner ul {
   list-style: none;
   padding: 0;
-
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
+  max-width:80rem
 }
 
 #order-content {
@@ -213,8 +213,8 @@
   }
 }
 
-@media (min-width: 1500px) {
+/* @media (min-width: 1500px) {
   div#order-inner ul {
     grid-template-columns: repeat(3, 1fr);
   }
-}
+} */

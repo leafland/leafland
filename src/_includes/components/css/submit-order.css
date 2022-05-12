@@ -2,6 +2,12 @@ main {
   margin-top: 5rem;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self:center
+}
+
 main input[type="text"],
 main input[type="tel"],
 main input[type="email"],

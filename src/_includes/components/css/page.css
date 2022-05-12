@@ -2,6 +2,12 @@ main {
   margin-top: 5rem;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self:center
+}
+
 h3 {
   margin-top: 5rem;
   margin-bottom: 3rem;
