@@ -98,6 +98,7 @@ main h3 {
 
 #hero .button {
   color: var(--secondary-background);
+  border-color: var(--secondary-background);
   text-align: left;
 }
 
