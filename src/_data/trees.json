@@ -19352,7 +19352,7 @@
      "types":"",
      "height":"8m",
      "width":"6m",
-     "filterFloweringSeason":"summer",
+     "filterFloweringSeason":"summer, spring",
      "filterFlowerColor":"white",
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"green",
@@ -19409,7 +19409,7 @@
      "commonName":"Giant Dogwood, Wedding Cake Tree",
      "url":"cornus-controversa-golden-wedding-giant-dogwood-wedding-cake-tree",
      "mainImage":"cornus-controversa-golden-wedding-giant-dogwood-wedding-cake-tree/cornus-controversa-golden-wedding-giant-dogwood-wedding-cake-tree.jpg",
-     "description":"Beautifully tiered branches in layers have green leaves broadly-margined with gold. New spring growth is bronze-tinted. White flowers top the branches in summer. Slow-growing tree which is spectacular as a specimen.",
+     "description":"Beautifully tiered branches in layers have green leaves broadly-margined with gold. New spring growth is green with pink-orange edges. Cream-white flowers sit atop the branches in late-spring to early-summer. Blue-purple to black fruit follow in late-summer to autumn which birds relish. Red autumn leaves. Slow-growing tree which is spectacular as a specimen.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -19419,11 +19419,11 @@
      "types":"",
      "height":"5m",
      "width":"4m",
-     "filterFloweringSeason":"summer",
+     "filterFloweringSeason":"summer, spring",
      "filterFlowerColor":"white",
-     "filterAutumnColor":"",
-     "filterFoliageColor":"yellow, green",
-     "filterFruitingSeason":"",
+     "filterAutumnColor":"red",
+     "filterFoliageColor":"yellow, green, pink, orange",
+     "filterFruitingSeason":"summer, autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -19432,20 +19432,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
       "summer":"yellow, green",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"pink, orange, green"
      },
      "fruitingSeason":{
-      "summer":"",
-      "autumn":"",
+      "summer":"blue, purple, black",
+      "autumn":"blue, purple, black",
       "winter":"",
       "spring":""
      },
@@ -19468,7 +19468,7 @@
      "commonName":"Giant Dogwood, Wedding Cake Tree",
      "url":"cornus-controversa-variegata-giant-dogwood-wedding-cake-tree",
      "mainImage":"cornus-controversa-variegata-giant-dogwood-wedding-cake-tree/cornus-controversa-variegata-giant-dogwood-wedding-cake-tree.jpg",
-     "description":"Beautifully tiered branches in layers have blue-green leaves broadly-margined with cream. White flowers top the branches in summer. Slow-growing tree which is spectacular as a specimen. Yellow autumn leaves.",
+     "description":"Beautifully tiered branches in layers have green leaves broadly-margined with cream. Cream-white flowers sit atop the branches in late-spring to early-summer. Blue-purple to black fruit follow in late-summer to autumn which birds relish. Yellow autumn leaves. Slow-growing tree which is spectacular as a specimen. Yellow autumn leaves.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -19478,11 +19478,11 @@
      "types":"",
      "height":"5m",
      "width":"4m",
-     "filterFloweringSeason":"summer",
+     "filterFloweringSeason":"summer, spring",
      "filterFlowerColor":"white",
      "filterAutumnColor":"yellow",
      "filterFoliageColor":"white, green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"summer, autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -19491,20 +19491,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"white",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
+      "summer":"white, green",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white, green"
      },
      "fruitingSeason":{
-      "summer":"",
-      "autumn":"",
+      "summer":"blue, purple, black",
+      "autumn":"blue, purple, black",
       "winter":"",
       "spring":""
      },
@@ -19532,7 +19532,7 @@
      "url":"cornus-eddies-white-wonder-flowering-dogwood",
      "mainImage":"cornus-eddies-white-wonder-flowering-dogwood/cornus-eddies-white-wonder-flowering-dogwood.jpg",
      "description":"Upright-growing tree with tiered, semi-weeping branches. Large, flat, lime-green flowers age to white in late-spring. Small, red fruit in autumn until eaten by birds. Flowers well in warmer regions. Stunning autumn leaves of burnt-orange and scarlet. Excellent street tree. Ideal shade tree.",
-     "uses":"street",
+     "uses":"street, attracts-birds",
      "tolerates":"",
      "soilType":"",
      "sunShade":"",
@@ -19542,10 +19542,10 @@
      "height":"4m",
      "width":"3m",
      "filterFloweringSeason":"spring",
-     "filterFlowerColor":"white",
+     "filterFlowerColor":"white, green",
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -19557,17 +19557,17 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
       "spring":""
      },
