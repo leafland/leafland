@@ -215,7 +215,7 @@ main h2 {
 
 #grid-content-bottom{
   display: grid;
-  gap: 7rem 2rem;
+  gap: 3rem;
   grid-template-columns: 1fr;
   margin-top: 3rem;
 }
