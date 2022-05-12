@@ -119,13 +119,13 @@ async function search(terms) {
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")} ${usesValue} ${toleratesValue} ${
         searchData[i].winterFoliage
-      } ${searchData[i].origin} ${typesValue} ${searchData[i].flowerColor} ${
-        searchData[i].foliageColor
-      } ${searchData[i].autumnColor} ${searchData[i].soilType} ${
-        searchData[i].uses
-      } ${searchData[i].sunShade} ${searchData[i].tolerates} ${
-        searchData[i].types
-      }`
+      } ${searchData[i].origin} ${typesValue} ${
+        searchData[i].filterFlowerColor
+      } ${searchData[i].filterFoliageColor} ${
+        searchData[i].filterAutumnColor
+      } ${searchData[i].soilType} ${searchData[i].uses} ${
+        searchData[i].sunShade
+      } ${searchData[i].tolerates} ${searchData[i].types}`
         .replace(/'/g, "")
         .replace(/"/g, "")
         .replace(/\(/g, "")

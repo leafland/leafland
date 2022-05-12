@@ -2,6 +2,12 @@ main {
   margin-top: 5rem;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self:center
+}
+
 .tree-item {
   text-align: center;
   text-transform: uppercase;

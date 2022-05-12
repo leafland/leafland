@@ -233,9 +233,11 @@ window.addEventListener("DOMContentLoaded", () => {
   });
   filterSettings.height.forEach((value) => {
     treeFilter.push(value);
+    heightsArray.push(value);
   });
   filterSettings.width.forEach((value) => {
     treeFilter.push(value);
+    widthsArray.push(value);
   });
   filterSettings.fruitingSeason.forEach((value) => {
     treeFilter.push(value);
@@ -322,32 +324,47 @@ async function populatePage(
           compareValue += `${value}-w`;
         });
       }
-      if (tree.floweringSeason !== "" && tree.floweringSeason !== undefined) {
-        let compareArray = tree.floweringSeason.split(", ");
+      if (
+        tree.filterFloweringSeason !== "" &&
+        tree.filterFloweringSeason !== undefined
+      ) {
+        let compareArray = tree.filterFloweringSeason.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fls`;
         });
       }
-      if (tree.flowerColor !== "" && tree.flowerColor !== undefined) {
-        let compareArray = tree.flowerColor.split(", ");
+      if (
+        tree.filterFlowerColor !== "" &&
+        tree.filterFlowerColor !== undefined
+      ) {
+        let compareArray = tree.filterFlowerColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fc`;
         });
       }
-      if (tree.autumnColor !== "" && tree.autumnColor !== undefined) {
-        let compareArray = tree.autumnColor.split(", ");
+      if (
+        tree.filterAutumnColor !== "" &&
+        tree.filterAutumnColor !== undefined
+      ) {
+        let compareArray = tree.filterAutumnColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-ac`;
         });
       }
-      if (tree.foliageColor !== "" && tree.foliageColor !== undefined) {
-        let compareArray = tree.foliageColor.split(", ");
+      if (
+        tree.filterFoliageColor !== "" &&
+        tree.filterFoliageColor !== undefined
+      ) {
+        let compareArray = tree.filterFoliageColor.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-flc`;
         });
       }
-      if (tree.fruitingSeason !== "" && tree.fruitingSeason !== undefined) {
-        let compareArray = tree.fruitingSeason.split(", ");
+      if (
+        tree.filterFruitingSeason !== "" &&
+        tree.filterFruitingSeason !== undefined
+      ) {
+        let compareArray = tree.filterFruitingSeason.split(", ");
         compareArray.forEach((value) => {
           compareValue += `${value}-fs`;
         });

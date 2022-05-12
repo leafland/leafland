@@ -2,6 +2,13 @@ main {
   margin-top: 5rem;
 }
 
+#content{
+  max-width:80rem;
+  display:grid;
+  justify-self: center;
+  width:100%
+}
+
 #stock-data {
   overflow: auto;
   min-height: 30rem;
