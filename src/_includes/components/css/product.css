@@ -198,16 +198,16 @@ main h2 {
 
 #grid-content {
   display: grid;
-  gap: 3rem;
+  gap: 2rem;
   grid-template-columns: 1fr;
-  margin-top: 3rem;
+  margin-top: 4rem;
 }
 
 #grid-content-middle{
   display: grid;
-  gap: 3rem;
+  gap: 2rem;
   grid-template-columns: 1fr;
-  margin-top: 3rem;
+  margin-top: 2rem;
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 2rem
@@ -215,9 +215,9 @@ main h2 {
 
 #grid-content-bottom{
   display: grid;
-  gap: 3rem;
+  gap: 2rem;
   grid-template-columns: 1fr;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 #grid-content-left {
