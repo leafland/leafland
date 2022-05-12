@@ -67,14 +67,12 @@ document
 
     document.querySelector("#subscribe").style.setProperty("cursor", "default");
 
-    const { subscriberFirstName, subscriberLastName, subscriberEmail } =
-      event.target;
+    const { subscriberFirstName, subscriberEmail } = event.target;
 
     const endpoint = "https://api.leafland.co.nz/default/add-new-subscriber";
 
     const body = JSON.stringify({
       subscriberFirstName: subscriberFirstName.value,
-      subscriberLastName: subscriberLastName.value,
       subscriberEmail: subscriberEmail.value,
     });
     const requestOptions = {
