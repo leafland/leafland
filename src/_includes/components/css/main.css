@@ -435,6 +435,10 @@ header {
 /* FOOTER */
 footer {
   margin-top: 10rem;
+  max-width: 80rem;
+  width: 100%;
+  display: grid;
+  justify-self: center;
   /* padding: 1rem; */
 }
 footer p {
@@ -463,8 +467,12 @@ footer p {
   display: grid;
   grid-gap: 3rem 5rem;
   background: var(--secondary-background);
-  padding: 1rem;
+  padding: 2rem;
   border-radius: 8px;
+}
+
+#email-signup input {
+  width: 150px;
 }
 
 #email-signup p {
@@ -569,9 +577,13 @@ body.main-menu-open {
     padding: 2rem;
   }
 
-  #email-signup {
-    padding: 2rem;
+  #email-signup input {
+    width: 100%;
   }
+
+  /* #email-signup {
+    padding: 2rem;
+  } */
 }
 
 @media (min-width: 1000px) {
