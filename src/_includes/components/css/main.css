@@ -506,14 +506,6 @@ footer p {
   text-align: center;
   font-size: var(--font-size-3);
 }
-
-#footer-links p:first-child {
-  text-align:left
-}
-
-#footer-links p:last-child {
-  text-align:right
-}
 /*************************************/
 
 #page-content {
@@ -592,8 +584,20 @@ body.main-menu-open {
 }
 
 @media (min-width: 1000px) {
+
+}
+
+@media (min-width: 1050px){
   div#footer-links {
     grid-template-columns: repeat(3, auto);
+  }
+  
+  #footer-links p:first-child {
+    text-align:left
+  }
+  
+  #footer-links p:last-child {
+    text-align:right
   }
 }
 
