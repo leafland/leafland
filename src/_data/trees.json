@@ -21942,19 +21942,19 @@
      "commonName":"Turkish Hazel",
      "url":"corylus-colurna-turkish-hazel",
      "mainImage":"corylus-colurna-turkish-hazel/corylus-colurna-turkish-hazel.jpg",
-     "description":"Erect, conical-grower with a very symmetrical branching habit. Produces edible nuts. Tolerates hot, dry climates. Excellent street tree. Has corky bark. Catkins from early-spring to early-summer are a source of pollen for bees.",
+     "description":"Erect, conical-grower with a very symmetrical branching habit. Produces edible brown nuts in autumn, although they are encased in a thick, hard, green shell that makes them difficult to extract. Fruiting is irregular, occurring every two to three years. Tolerates hot, dry climates. Excellent street tree. Has corky bark. Yellow-green catkins from early-spring to early-summer are a source of pollen for bees. Yellow autumn leaves. Has a deep rooting system, and does not transplant well.",
      "uses":"street, attracts-bees",
      "tolerates":"",
      "soilType":"dry-soils",
      "sunShade":"",
      "winterFoliage":"deciduous",
      "origin":"exotic",
-     "types":"",
+     "types":"edible",
      "height":"8m",
      "width":"5m",
      "filterFloweringSeason":"spring, summer",
-     "filterFlowerColor":"",
-     "filterAutumnColor":"",
+     "filterFlowerColor":"yellow, green",
+     "filterAutumnColor":"yellow",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -21965,20 +21965,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"yellow, green",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green, brown",
       "winter":"",
       "spring":""
      },
@@ -22006,7 +22006,7 @@
      "url":"corymbia-ficifolia-red-flowering-gum",
      "mainImage":"corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum.jpg",
      "description":"Formerly known as Eucalyptus ficifolia. Sturdy, single-trunked tree with a round-headed, compact crown. Large, thick, green leaves. Flowers in mid-summer with variations of glowing red, orange, and pink. Flowers attract nectar-seeking birds. Tolerant of high rainfall, droughts, and coastal winds.",
-     "uses":"street, paddocks, shade",
+     "uses":"street, paddocks, shade, attracts-birds, attracts-bees",
      "tolerates":"heavy-rainfall, coastal, drought, windy",
      "soilType":"clay-soils",
      "sunShade":"",
@@ -22016,7 +22016,7 @@
      "height":"7m",
      "width":"5m",
      "filterFloweringSeason":"summer",
-     "filterFlowerColor":"red",
+     "filterFlowerColor":"red, orange, pink",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -22028,16 +22028,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red, orange, pink",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -22094,7 +22094,7 @@
      "filterFlowerColor":"",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"summer",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -22109,13 +22109,13 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
+      "summer":"orange",
       "autumn":"",
       "winter":"",
       "spring":""
@@ -22139,7 +22139,7 @@
      "commonName":"Smoke Tree",
      "url":"cotinus-coggygria-golden-spirit-smoke-tree",
      "mainImage":"cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree.jpg",
-     "description":"Lime and golden foliage throughout the summer, which lightens up dark areas and adds contrast. Beautiful autumn foliage of orange and yellow. Pink flower plumes in mid-summer. Best grown in part-shade. Keep moist.",
+     "description":"Lime and golden foliage throughout the spring and summer, which lightens up dark areas and adds contrast. Beautiful autumn foliage of orange and yellow. Pink flower plumes in mid-summer. Best grown in part-shade. Keep moist.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -22162,16 +22162,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"pink",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"yellow, green",
+      "autumn":"orange, yellow",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "fruitingSeason":{
       "summer":"",

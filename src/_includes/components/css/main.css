@@ -583,15 +583,11 @@ body.main-menu-open {
   } */
 }
 
-@media (min-width: 1000px) {
-
-}
-
 @media (min-width: 1050px){
   div#footer-links {
     grid-template-columns: repeat(3, auto);
   }
-  
+
   #footer-links p:first-child {
     text-align:left
   }
