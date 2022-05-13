@@ -19643,7 +19643,7 @@
      "url":"cornus-florida-flowering-dogwood",
      "mainImage":"cornus-florida-flowering-dogwood/cornus-florida-flowering-dogwood.jpg",
      "description":"Slender, erect trunk with dainty, tiered branches. Masses of four-petalled, white flowers face upwards in spring. Clusters of red fruit in autumn until eaten by birds. Vivid orange, red, and purple autumn leaves.",
-     "uses":"",
+     "uses":"attracts-birds",
      "tolerates":"",
      "soilType":"",
      "sunShade":"",
@@ -19656,7 +19656,7 @@
      "filterFlowerColor":"white",
      "filterAutumnColor":"purple, red, orange",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -19668,17 +19668,17 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red, orange",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
       "spring":""
      },
@@ -19723,13 +19723,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -19765,7 +19765,7 @@
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink",
      "filterAutumnColor":"yellow, purple, red",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, red, orange",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -19778,13 +19778,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow, purple, red",
       "winter":"",
-      "spring":""
+      "spring":"red, orange"
      },
      "fruitingSeason":{
       "summer":"",
@@ -19811,7 +19811,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-cherokee-daybreak-flowering-dogwood",
      "mainImage":"cornus-florida-cherokee-daybreak-flowering-dogwood/cornus-florida-cherokee-daybreak-flowering-dogwood.jpg",
-     "description":"Large, blue-green leaves have broad, cream margins and wavy edges. Bears a few large, white, flat flowers in early-spring. Exceptional foliage. Leaves in autumn turn salmon-pink to rose-purple. Excellent street tree.",
+     "description":"Large, green leaves have broad, cream margins and wavy edges. Bears a few large, white, flat flowers in early-spring. Exceptional foliage. Leaves in autumn turn salmon-pink to rose-purple. Excellent street tree.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -19823,7 +19823,7 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white",
-     "filterAutumnColor":"purple, red",
+     "filterAutumnColor":"purple, red, pink",
      "filterFoliageColor":"green, white",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -19837,13 +19837,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, white",
+      "autumn":"purple, red, pink",
       "winter":"",
-      "spring":""
+      "spring":"green, white"
      },
      "fruitingSeason":{
       "summer":"",
@@ -19886,7 +19886,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-cherokee-princess-flowering-dogwood",
      "mainImage":"cornus-florida-cherokee-princess-flowering-dogwood/cornus-florida-cherokee-princess-flowering-dogwood.jpg",
-     "description":"Has a low-branching, broadly-pyramidal form. Glossy, light-green leaves turn a fiery blend of orange, apricot, and red in autumn. White flowers in mid-spring.",
+     "description":"Has a low-branching, broadly-pyramidal form. Glossy, light-green leaves turn a fiery blend of orange and red in autumn. White flowers in mid-spring.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -19912,13 +19912,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -19953,7 +19953,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-cherokee-sunset-flowering-dogwood",
      "mainImage":"cornus-florida-cherokee-sunset-flowering-dogwood/cornus-florida-cherokee-sunset-flowering-dogwood.jpg",
-     "description":"New, green leaves are variegated with cream-yellow and pink margins. Summer leaves are broadly-margined with yellow. Large, pink-red, flat flowers appear with spring leaves. Autumn leaves of rose-pink, red, and purple.",
+     "description":"New, green leaves are variegated with cream-yellow and pink margins. Summer leaves are broadly-margined with yellow. Large, pink-red, flat flowers appear with spring leaves. Autumn leaves of red and purple.",
      "uses":"street",
      "tolerates":"",
      "soilType":"",
@@ -19966,7 +19966,7 @@
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"red, pink",
      "filterAutumnColor":"purple, red",
-     "filterFoliageColor":"green, yellow",
+     "filterFoliageColor":"green, yellow, pink",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -19979,13 +19979,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, yellow",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green, yellow, pink"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20042,13 +20042,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow, red, orange, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20109,13 +20109,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, yellow",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green, yellow"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20138,7 +20138,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-old-gold-flowering-dogwood",
      "mainImage":"cornus-florida-old-gold-flowering-dogwood/cornus-florida-old-gold-flowering-dogwood.jpeg",
-     "description":"New Zealand selection by Peter Cave. Golden spring leaves turn antique-gold in summer. Pale-pink autumn leaves with white spring flowers.",
+     "description":"New Zealand selection by Peter Cave. Golden spring leaves turn antique-gold in summer. Red autumn leaves with white spring flowers.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -20164,13 +20164,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"yellow",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"yellow"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20219,13 +20219,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20256,7 +20256,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-purple-glory-flowering-dogwood",
      "mainImage":"cornus-florida-purple-glory-flowering-dogwood/cornus-florida-purple-glory-flowering-dogwood.jpg",
-     "description":"A purple-foliaged tree with the leaves becoming a black-purple in autumn before falling. The red spring flowers are long-lasting and showy.",
+     "description":"Has light-purple leaves in spring, maturing to dark-purple in summer before becoming a black-purple in autumn. The red spring flowers are long-lasting and showy.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -20268,7 +20268,7 @@
      "width":"3m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"red",
-     "filterAutumnColor":"purple",
+     "filterAutumnColor":"purple, black",
      "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -20282,13 +20282,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple",
+      "autumn":"purple, black",
       "winter":"",
-      "spring":""
+      "spring":"purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20311,7 +20311,7 @@
      "commonName":"Flowering Dogwood",
      "url":"cornus-florida-rainbow-flowering-dogwood",
      "mainImage":"cornus-florida-rainbow-flowering-dogwood/cornus-florida-rainbow-flowering-dogwood.jpg",
-     "description":"Large, golden leaves are splashed with green and golden margins. Brilliant autumn leaves in hues of rainbow-pink to carmine-red and lavender-blue to purple-red. White flowers appear with the new leaves in spring. Excellent street tree.",
+     "description":"Large, green leaves have golden margins. Brilliant autumn leaves in hues of rainbow-pink to carmine-red and lavender-blue to purple-red. White flowers appear with the new leaves in spring. Excellent street tree.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -20337,13 +20337,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"yellow, gren",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20400,13 +20400,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20455,13 +20455,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20489,7 +20489,7 @@
      "url":"cornus-florida-weavers-white-flowering-dogwood",
      "mainImage":"cornus-florida-weavers-white-flowering-dogwood/cornus-florida-weavers-white-flowering-dogwood.jpg",
      "description":"A multi-stemmed tree with lower horizontal branching and an oval upper crown. Bears a profusion of cream-white, flat flowers in spring. The small red fruit are relished by birds. Stunning autumn leaves of maroon and red.",
-     "uses":"street",
+     "uses":"street, attracts-birds",
      "tolerates":"",
      "soilType":"",
      "sunShade":"",
@@ -20514,13 +20514,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20563,16 +20563,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20600,7 +20600,7 @@
      "url":"cornus-kousa-chinese-dogwood",
      "mainImage":"cornus-kousa-chinese-dogwood/cornus-kousa-chinese-dogwood.jpg",
      "description":"Vase-shaped when young, becoming more rounded with age. White flowers from late-spring to early-summer. Red fruit attracts birds. Green foliage turns purple-red in autumn. Hardy.",
-     "uses":"",
+     "uses":"attracts-birds",
      "tolerates":"",
      "soilType":"",
      "sunShade":"",
@@ -20622,16 +20622,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20654,7 +20654,7 @@
      "commonName":"Chinese Dogwood",
      "url":"cornus-kousa-beni-fuji-chinese-dogwood",
      "mainImage":"cornus-kousa-beni-fuji-chinese-dogwood/cornus-kousa-beni-fuji-chinese-dogwood.jpg",
-     "description":"Has glossy-green leaves strikingly accented by red veins and petioles. In youth, it is elegantly vase-shaped becoming more rounded with maturity. Deep-pink flowers in spring. Purple and red leaves in autumn.",
+     "description":"Has glossy-green leaves. In youth, it is elegantly vase-shaped becoming more rounded with maturity. Deep-pink flowers in spring. Purple and red leaves in autumn.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -20680,13 +20680,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20709,7 +20709,7 @@
      "commonName":"Chinese Dogwood",
      "url":"cornus-kousa-bonfire-chinese-dogwood",
      "mainImage":"cornus-kousa-bonfire-chinese-dogwood/cornus-kousa-bonfire-chinese-dogwood.jpg",
-     "description":"Subtle blend of cream, soft-gold, and lime-green variegated leaves. Produces a mass of flat, four-petalled, white, star-shaped flowers in early-summer. Autumn leaves are a blend of pink, red, and burgundy. Bushy, erect grower. Excellent street tree.",
+     "description":"Subtle blend of cream, soft-gold, and lime-green variegated leaves. Produces a mass of flat, four-petalled, white, star-shaped flowers in early-summer. Autumn leaves are a blend of red and burgundy. Bushy, erect grower. Excellent street tree.",
      "uses":"street",
      "tolerates":"",
      "soilType":"",
@@ -20732,16 +20732,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, white, yellow",
+      "autumn":"purple, red",
       "winter":"",
-      "spring":""
+      "spring":"green, white, yellow"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20791,16 +20791,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20839,7 +20839,7 @@
      "commonName":"Chinese Dogwood",
      "url":"cornus-kousa-doubloon-chinese-dogwood",
      "mainImage":"cornus-kousa-doubloon-chinese-dogwood/cornus-kousa-doubloon-chinese-dogwood.jpg",
-     "description":"Tall, upright grower with young stems covered with tiny, silver hairs. The large, white flowers in spring have extra bracts to give the flowers a semi-double effect. Red and orange autumn leaves.",
+     "description":"Tall, upright grower. The large, white flowers in spring have extra bracts to give the flowers a semi-double effect. Red and orange autumn leaves.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -20865,13 +20865,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, orange",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20917,16 +20917,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -20979,13 +20979,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, yellow",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"green, yellow"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21039,16 +21039,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21098,16 +21098,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21153,16 +21153,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"white",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21200,7 +21200,7 @@
      "height":"3m",
      "width":"2m",
      "filterFloweringSeason":"summer",
-     "filterFlowerColor":"pink",
+     "filterFlowerColor":"pink, red",
      "filterAutumnColor":"purple, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
@@ -21212,16 +21212,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"pink, red",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, purple",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21282,13 +21282,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21342,16 +21342,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"white",
+      "autumn":"white",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"yellow, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -21386,24 +21386,24 @@
      "filterAutumnColor":"red, orange",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"yellow",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"yellow",
+      "autumn":"yellow",
+      "winter":"yellow",
+      "spring":"yellow"
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"red, orange",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
