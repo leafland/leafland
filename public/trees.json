@@ -21434,7 +21434,7 @@
     "commonName":"Korokio",
     "url":"corokia-bronze-king-korokio",
     "mainImage":"corokia-bronze-king-korokio/corokia-bronze-king-korokio.jpg",
-    "description":"A slender, erect, multi-branched grower with dense, interlacing branches. Glossy, slender, dark-green leaves, suffused bronze at the margins, are silvery underneath. Becomes smothered in star-shaped, bright-yellow flowers in spring. Heavy crops of red berries in winter which birds adore.",
+    "description":"A slender, erect, multi-branched grower with dense, interlacing branches. Glossy, slender, green and red-brown leaves that deepen their bronze colour in winter. Becomes smothered in star-shaped, bright-yellow flowers in spring. Heavy crops of red berries in autumn which birds adore.",
     "uses":"hedging-and-screening, attracts-bees",
     "tolerates":"coastal, windy",
     "soilType":"dry-soils",
@@ -21447,8 +21447,8 @@
     "filterFloweringSeason":"spring",
     "filterFlowerColor":"yellow",
     "filterAutumnColor":"",
-    "filterFoliageColor":"red, green",
-    "filterFruitingSeason":"",
+    "filterFoliageColor":"red, green, brown",
+    "filterFruitingSeason":"winter",
     "filterStemColor":"",
     "stem":{
      "summer":"",
@@ -21460,18 +21460,18 @@
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"yellow"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"red, green, brown",
+     "autumn":"red, green, brown",
+     "winter":"red, green, brown",
+     "spring":"red, green, brown"
     },
     "fruitingSeason":{
      "summer":"",
      "autumn":"",
-     "winter":"",
+     "winter":"red",
      "spring":""
     },
     "treeShape":"images/icons/tree-shapes/corokia/corokia-general.svg",
@@ -61660,7 +61660,7 @@
     "tolerates":"",
     "soilType":"",
     "sunShade":"",
-    "winterFoliage":"deciduous",
+    "winterFoliage":"evergreen",
     "origin":"exotic",
     "types":"",
     "height":"6m",
