@@ -446,11 +446,6 @@ footer p {
   text-transform: uppercase;
 }
 
-#footer-links p {
-  text-align: center;
-  font-size: var(--font-size-3);
-}
-
 #footer-grid {
   display: grid;
   grid-template-rows: repeat(2, auto);
@@ -505,16 +500,20 @@ footer p {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
-  place-items: center;
 }
 
-/* #footer-links p:first-child {
-  justify-self: start;
+#footer-links p {
+  text-align: center;
+  font-size: var(--font-size-3);
+}
+
+#footer-links p:first-child {
+  text-align:left
 }
 
 #footer-links p:last-child {
-  justify-self: end;
-} */
+  text-align:right
+}
 /*************************************/
 
 #page-content {
