@@ -22139,7 +22139,7 @@
      "commonName":"Smoke Tree",
      "url":"cotinus-coggygria-golden-spirit-smoke-tree",
      "mainImage":"cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree.jpg",
-     "description":"Lime and golden foliage throughout the spring and summer, which lightens up dark areas and adds contrast. Beautiful autumn foliage of orange and yellow. Pink flower plumes in mid-summer. Best grown in part-shade. Keep moist.",
+     "description":"Also known as Cotinus coggygria 'Ancot'. Lime and golden foliage throughout spring and summer, which lightens up dark areas and adds contrast. Beautiful autumn foliage of orange and red. This cultivar may not flower as well as other Cotinus cultivars. According to the U.S. patent, the inventor did not observe flowering over a four year period of testing. If flowering does occur, it will be pink flower plumes on old wood in mid-summer. Best grown in part-shade. Keep moist.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -22151,7 +22151,7 @@
      "width":"3m",
      "filterFloweringSeason":"summer",
      "filterFlowerColor":"pink",
-     "filterAutumnColor":"yellow, orange",
+     "filterAutumnColor":"red, orange",
      "filterFoliageColor":"yellow, green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -22169,7 +22169,7 @@
      },
      "foliageColor":{
       "summer":"yellow, green",
-      "autumn":"orange, yellow",
+      "autumn":"orange, red",
       "winter":"",
       "spring":"yellow, green"
      },
@@ -22198,11 +22198,11 @@
    },
    {
      "family":"",
-     "botanicalName":"Cotinus coggygria 'Grace'",
+     "botanicalName":"Cotinus 'Grace'",
      "commonName":"Smoke Tree",
-     "url":"cotinus-coggygria-grace-smoke-tree",
-     "mainImage":"cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree.jpg",
-     "description":"A spectacular hybrid with large leaves. Leaf colour is green with a purple tinge and crimson-purple tips. Large, conical, purple-pink flower clusters are borne in summer. Vivid scarlet-red autumn leaves. A strong, upright-grower with a rounded head. Excellent street tree.",
+     "url":"cotinus-grace-smoke-tree",
+     "mainImage":"cotinus-grace-smoke-tree/cotinus-grace-smoke-tree.jpg",
+     "description":"This cultivar is a hybrid resulting from a cross between Cotinus coggygria 'Velvet Cloak' and Cotinus obovatus. Purple leaves in spring and summer that turn a vibrant orange and red in autumn.. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -22213,9 +22213,9 @@
      "height":"3m",
      "width":"3m",
      "filterFloweringSeason":"summer",
-     "filterFlowerColor":"purple",
-     "filterAutumnColor":"red",
-     "filterFoliageColor":"purple, green",
+     "filterFlowerColor":"purple, pink",
+     "filterAutumnColor":"red, orange",
+     "filterFoliageColor":"purple",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -22225,16 +22225,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"purple, pink",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple",
+      "autumn":"red, orange",
       "winter":"",
-      "spring":""
+      "spring":"purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -22246,28 +22246,28 @@
      "relatedTrees":[],
      "images":[
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-autumn-color.jpg",
-         "alt":"cotinus coggygria grace smoke tree autumn color"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-autumn-color.jpg",
+         "alt":"cotinus grace smoke tree autumn color"
        },
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-courtyard.jpg",
-         "alt":"cotinus coggygria grace smoke tree courtyard"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-carpark.jpg",
+         "alt":"cotinus grace smoke tree carpark"
        },
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-flowers-leaves.jpg",
-         "alt":"cotinus coggygria grace smoke tree flowers leaves"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers-leaves.jpg",
+         "alt":"cotinus grace smoke tree flowers leaves"
        },
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-flowers.jpg",
-         "alt":"cotinus coggygria grace smoke tree flowers"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers.jpg",
+         "alt":"cotinus grace smoke tree flowers"
        },
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-garden.jpg",
-         "alt":"cotinus coggygria grace smoke tree garden"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-garden.jpg",
+         "alt":"cotinus grace smoke tree garden"
        },
        {
-         "src":"images/trees/cotinus-coggygria-grace-smoke-tree/cotinus-coggygria-grace-smoke-tree-large-garden.jpg",
-         "alt":"cotinus coggygria grace smoke tree large garden"
+         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-large-garden.jpg",
+         "alt":"cotinus grace smoke tree large garden"
        }
      ]
    },

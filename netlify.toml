@@ -114,3 +114,9 @@
     from = "/trees/prunus-pink-perfection-flowering-cherry/"
     status = 301
     to = "/trees/prunus-serrulata-pink-perfection-japanese-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cotinus-coggygria-grace-smoke-tree/"
+    status = 301
+    to = "/trees/cotinus-grace-smoke-tree/"
