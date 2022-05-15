@@ -22202,7 +22202,7 @@
      "commonName":"Smoke Tree",
      "url":"cotinus-coggygria-red-spirit-smoke-tree",
      "mainImage":"cotinus-coggygria-red-spirit-smoke-tree/cotinus-coggygria-red-spirit-smoke-tree.jpg",
-     "description":"Has rounded, glaucous green leaves. Fluffy heads of purple-red flowers cover the bush in early-summer. Stunning autumn leaves of orange, red, and purple. Can trim into any shape or form.",
+     "description":"New leaves are red, maturing to green tinged with blue. Fluffy heads of pink-red flowers cover the bush in early-summer. Stunning autumn leaves of orange, red, and purple. Can trim into any shape or form.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -22213,9 +22213,9 @@
      "height":"3m",
      "width":"3m",
      "filterFloweringSeason":"summer",
-     "filterFlowerColor":"purple, red",
+     "filterFlowerColor":"pink, red",
      "filterAutumnColor":"purple, red, orange",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, blue, red",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -22225,16 +22225,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"pink, red",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, blue",
+      "autumn":"orange, red, purple",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "fruitingSeason":{
       "summer":"",
@@ -22278,7 +22278,7 @@
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"pink",
      "filterAutumnColor":"red",
-     "filterFoliageColor":"purple",
+     "filterFoliageColor":"purple, red",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -22291,13 +22291,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"pink"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"purple",
+      "autumn":"red",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "fruitingSeason":{
       "summer":"",
@@ -22328,7 +22328,7 @@
     "commonName":"Smoke Tree",
     "url":"cotinus-grace-smoke-tree",
     "mainImage":"cotinus-grace-smoke-tree/cotinus-grace-smoke-tree.jpg",
-    "description":"This cultivar is a hybrid resulting from a cross between Cotinus coggygria 'Velvet Cloak' and Cotinus obovatus. Purple leaves in spring and summer that turn a vibrant orange and red in autumn.. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree.",
+    "description":"This cultivar is a hybrid resulting from a cross between Cotinus coggygria 'Velvet Cloak' and a male Cotinus obovatus. Purple leaves in spring and summer that turn a vibrant orange and red in autumn.. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree.",
     "uses":"",
     "tolerates":"",
     "soilType":"",
@@ -22403,11 +22403,11 @@
      "commonName":"Smoke Tree",
      "url":"cotinus-obovatus-smoke-tree",
      "mainImage":"cotinus-obovatus-smoke-tree/cotinus-obovatus-smoke-tree.jpg",
-     "description":"Vigorous grower with green leaves through summer. Amazing autumn colours of red, orange, and purple leaves. Plume-like, pink flower-heads are borne over summer.",
+     "description":"Vigorous grower with purple-pink new leaves that fade to blue-green. Amazing autumn colours of red, orange, and purple leaves. Plume-like, pink flower-heads are borne over summer. Does well in poor soil and is grown primarily for its brilliant autumn colour. Drought-tolerant when established and will tolerate urban pollution.",
      "uses":"",
-     "tolerates":"",
-     "soilType":"",
-     "sunShade":"",
+     "tolerates":"drought",
+     "soilType":"dry-soils, clay-soils",
+     "sunShade":"full-sun",
      "winterFoliage":"deciduous",
      "origin":"exotic",
      "types":"",
@@ -22416,7 +22416,7 @@
      "filterFloweringSeason":"summer",
      "filterFlowerColor":"pink",
      "filterAutumnColor":"purple, red, orange",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, purple, pink, blue",
      "filterFruitingSeason":"",
      "filterStemColor":"",
      "stem":{
@@ -22426,16 +22426,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"pink",
       "autumn":"",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green, blue",
+      "autumn":"red, orange, purple",
       "winter":"",
-      "spring":""
+      "spring":"purple, pink"
      },
      "fruitingSeason":{
       "summer":"",
