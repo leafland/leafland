@@ -22198,81 +22198,6 @@
    },
    {
      "family":"",
-     "botanicalName":"Cotinus 'Grace'",
-     "commonName":"Smoke Tree",
-     "url":"cotinus-grace-smoke-tree",
-     "mainImage":"cotinus-grace-smoke-tree/cotinus-grace-smoke-tree.jpg",
-     "description":"This cultivar is a hybrid resulting from a cross between Cotinus coggygria 'Velvet Cloak' and Cotinus obovatus. Purple leaves in spring and summer that turn a vibrant orange and red in autumn.. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree.",
-     "uses":"",
-     "tolerates":"",
-     "soilType":"",
-     "sunShade":"",
-     "winterFoliage":"deciduous",
-     "origin":"exotic",
-     "types":"",
-     "height":"3m",
-     "width":"3m",
-     "filterFloweringSeason":"summer",
-     "filterFlowerColor":"purple, pink",
-     "filterAutumnColor":"red, orange",
-     "filterFoliageColor":"purple",
-     "filterFruitingSeason":"",
-     "filterStemColor":"",
-     "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
-     },
-     "flowerColor":{
-      "summer":"purple, pink",
-      "autumn":"",
-      "winter":"",
-      "spring":""
-     },
-     "foliageColor":{
-      "summer":"purple",
-      "autumn":"red, orange",
-      "winter":"",
-      "spring":"purple"
-     },
-     "fruitingSeason":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
-     },
-     "treeShape":"images/icons/tree-shapes/cotinus/cotinus-general.svg",
-     "relatedTrees":[],
-     "images":[
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-autumn-color.jpg",
-         "alt":"cotinus grace smoke tree autumn color"
-       },
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-carpark.jpg",
-         "alt":"cotinus grace smoke tree carpark"
-       },
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers-leaves.jpg",
-         "alt":"cotinus grace smoke tree flowers leaves"
-       },
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers.jpg",
-         "alt":"cotinus grace smoke tree flowers"
-       },
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-garden.jpg",
-         "alt":"cotinus grace smoke tree garden"
-       },
-       {
-         "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-large-garden.jpg",
-         "alt":"cotinus grace smoke tree large garden"
-       }
-     ]
-   },
-   {
-     "family":"",
      "botanicalName":"Cotinus coggygria 'Red Spirit'",
      "commonName":"Smoke Tree",
      "url":"cotinus-coggygria-red-spirit-smoke-tree",
@@ -22397,6 +22322,81 @@
        }
      ]
    },
+   {
+    "family":"",
+    "botanicalName":"Cotinus 'Grace'",
+    "commonName":"Smoke Tree",
+    "url":"cotinus-grace-smoke-tree",
+    "mainImage":"cotinus-grace-smoke-tree/cotinus-grace-smoke-tree.jpg",
+    "description":"This cultivar is a hybrid resulting from a cross between Cotinus coggygria 'Velvet Cloak' and Cotinus obovatus. Purple leaves in spring and summer that turn a vibrant orange and red in autumn.. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree.",
+    "uses":"",
+    "tolerates":"",
+    "soilType":"",
+    "sunShade":"",
+    "winterFoliage":"deciduous",
+    "origin":"exotic",
+    "types":"",
+    "height":"3m",
+    "width":"3m",
+    "filterFloweringSeason":"summer",
+    "filterFlowerColor":"purple, pink",
+    "filterAutumnColor":"red, orange",
+    "filterFoliageColor":"purple",
+    "filterFruitingSeason":"",
+    "filterStemColor":"",
+    "stem":{
+     "summer":"",
+     "autumn":"",
+     "winter":"",
+     "spring":""
+    },
+    "flowerColor":{
+     "summer":"purple, pink",
+     "autumn":"",
+     "winter":"",
+     "spring":""
+    },
+    "foliageColor":{
+     "summer":"purple",
+     "autumn":"red, orange",
+     "winter":"",
+     "spring":"purple"
+    },
+    "fruitingSeason":{
+     "summer":"",
+     "autumn":"",
+     "winter":"",
+     "spring":""
+    },
+    "treeShape":"images/icons/tree-shapes/cotinus/cotinus-general.svg",
+    "relatedTrees":[],
+    "images":[
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-autumn-color.jpg",
+        "alt":"cotinus grace smoke tree autumn color"
+      },
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-carpark.jpg",
+        "alt":"cotinus grace smoke tree carpark"
+      },
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers-leaves.jpg",
+        "alt":"cotinus grace smoke tree flowers leaves"
+      },
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers.jpg",
+        "alt":"cotinus grace smoke tree flowers"
+      },
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-garden.jpg",
+        "alt":"cotinus grace smoke tree garden"
+      },
+      {
+        "src":"images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-large-garden.jpg",
+        "alt":"cotinus grace smoke tree large garden"
+      }
+    ]
+  },
    {
      "family":"",
      "botanicalName":"Cotinus obovatus",
