@@ -12859,7 +12859,7 @@
     "commonName":"Oyster Bay Pine, Port Jackson Pine",
     "url":"callitris-rhomboidea-oyster-bay-pine-port-jackson-pine",
     "mainImage":"callitris-rhomboidea-oyster-bay-pine-port-jackson-pine/callitris-rhomboidea-oyster-bay-pine-port-jackson-pine.jpg",
-    "description":"A columnar grower with green, cypress-like foliage. Can be used as a specimen and it will form a beautiful pyramid with age. Can also be trimmed as a hedge or screen. Foliage takes on a purple-brown tinge in cold weather.",
+    "description":"A columnar grower with green, cypress-like foliage. Can be used as a specimen and it will form a beautiful pyramid with age. Can also be trimmed as a hedge or screen. Foliage takes on a purple-brown tinge in cold weather. Very resistant to canker.",
     "uses":"hedging-and-screening",
     "tolerates":"coastal, light-frosts, heavy-frosts",
     "soilType":"sandy-soils, dry-soils, clay-soils",
@@ -22458,11 +22458,11 @@
      "commonName":"Hawthorn",
      "url":"crataegus-laevigata-pauls-scarlet-hawthorn",
      "mainImage":"crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn.jpg",
-     "description":"Upright tree with a compact, rounded head. Impressive heads of double crimson-red flowers smother the tree in late-spring. Tolerant of strong winds. Does not set fruit. Excellent street tree.",
-     "uses":"street",
-     "tolerates":"windy",
-     "soilType":"",
-     "sunShade":"",
+     "description":"This cultivar was discovered as a branch sport on a Crataegus laevigata 'Rosea Flore Pleno' in the mid-19th century. Upright tree with a compact, rounded head. Impressive heads of double crimson-red flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions.",
+     "uses":"street, attracts-birds, attracts-bees",
+     "tolerates":"windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
+     "soilType":"dry-soils, poor-draining-soils, clay-soils, sandy-soils, rocky-soils",
+     "sunShade":"full-sun",
      "winterFoliage":"deciduous",
      "origin":"exotic",
      "types":"",
@@ -22472,7 +22472,7 @@
      "filterFlowerColor":"red",
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFruitingSeason":"autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -22484,17 +22484,17 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"green",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"red",
       "winter":"",
       "spring":""
      },
