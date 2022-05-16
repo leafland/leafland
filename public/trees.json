@@ -23280,6 +23280,89 @@
     ]
   },
   {
+   "family":"",
+   "botanicalName":"Cupressus sempervirens",
+   "commonName":"Italian Cypress",
+   "url":"cupressus-sempervirens-italian-cypress",
+   "mainImage":"cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress.jpeg",
+   "description":"A beautiful upright, columnar tree with green to blue-green foliage. Prefers hot, dry climates and well-drained soils. Drought tolerant once established.",
+   "uses":"narrow-sites",
+   "tolerates":"drought",
+   "soilType":"",
+   "sunShade":"full-sun",
+   "winterFoliage":"evergreen",
+   "origin":"exotic",
+   "types":"conifer",
+   "height":"6m",
+   "width":"2m",
+   "filterFloweringSeason":"",
+   "filterFlowerColor":"",
+   "filterAutumnColor":"",
+   "filterFoliageColor":"green, blue",
+   "filterFruitingSeason":"",
+   "filterStemColor":"",
+   "stem":{
+    "summer":"",
+    "autumn":"",
+    "winter":"",
+    "spring":""
+   },
+   "flowerColor":{
+    "summer":"",
+    "autumn":"",
+    "winter":"",
+    "spring":""
+   },
+   "foliageColor":{
+    "summer":"green, blue",
+    "autumn":"green, blue",
+    "winter":"green, blue",
+    "spring":"green, blue"
+   },
+   "fruitingSeason":{
+    "summer":"",
+    "autumn":"",
+    "winter":"",
+    "spring":""
+   },
+   "treeShape":"images/icons/tree-shapes/cupressus/cupressus-upright.svg",
+   "relatedTrees":[],
+   "images":[
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-dense.jpeg",
+       "alt":"cupressus sempervirens italian cypress dense"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-driveway.jpeg",
+       "alt":"cupressus sempervirens italian cypress driveway"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-field.jpeg",
+       "alt":"cupressus sempervirens italian cypress field"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-landscape.jpeg",
+       "alt":"cupressus sempervirens italian cypress driveway"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-road.jpeg",
+       "alt":"cupressus sempervirens italian cypress road"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-row.jpeg",
+       "alt":"cupressus sempervirens italian cypress row"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-winding-path.jpeg",
+       "alt":"cupressus sempervirens italian cypress winding path"
+     },
+     {
+       "src":"images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-winding-road.jpeg",
+       "alt":"cupressus sempervirens italian cypress winding row"
+     }
+   ]
+ },
+  {
     "family":"",
     "botanicalName":"Cupressus sempervirens 'Gracilis'",
     "commonName":"Italian Cypress",
