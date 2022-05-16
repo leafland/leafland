@@ -323,12 +323,12 @@ async function createStockValues() {
           if (grades[i].grade === gradeSizeValue.dataset.value) {
             for (let j = 0; j < grades[i].heights.length; j++) {
               let heightValue = document.createElement("span");
-              if (grades[i].heights[j].height !== "") {
-                heightValue.dataset.value = grades[i].heights[j].height;
+              if (grades[i].heights[j].averageHeight !== "") {
+                heightValue.dataset.value = grades[i].heights[j].averageHeight;
                 heightValue.textContent = `${
-                  grades[i].heights[j].height.toLowerCase() === "n/a"
-                    ? grades[i].heights[j].height
-                    : grades[i].heights[j].height + "m"
+                  grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
+                    ? grades[i].heights[j].averageHeight
+                    : grades[i].heights[j].averageHeight + "m"
                 }`;
               } else {
                 heightValue.value = "N/A";
@@ -518,7 +518,7 @@ function createHeights(grade, height) {
     if (grades[i].grade === grade) {
       let noStandardHeightQuantity = 0;
       for (let j = 0; j < grades[i].heights.length; j++) {
-        if (grades[i].heights[j].height === height) {
+        if (grades[i].heights[j].averageHeight === height) {
           for (
             let k = 0;
             k < grades[i].heights[j].standardHeights.length;
