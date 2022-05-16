@@ -422,8 +422,8 @@ function addTreeToLocalStorage() {
       mainImage: productImage,
       grade: document.querySelector(".grade-selection-value-active").dataset
         .value,
-      height: document.querySelector(".height-selection-value-active").dataset
-        .value,
+      averageHeight: document.querySelector(".height-selection-value-active")
+        .dataset.value,
       quantity: parseInt(treeQuantity.value, 10),
       maxQuantity: parseInt(treeQuantity.max),
       standardHeight: document
@@ -446,8 +446,9 @@ function addTreeToLocalStorage() {
           mainImage: productImage,
           grade: document.querySelector(".grade-selection-value-active").dataset
             .value,
-          height: document.querySelector(".height-selection-value-active")
-            .dataset.value,
+          averageHeight: document.querySelector(
+            ".height-selection-value-active"
+          ).dataset.value,
           quantity: parseInt(treeQuantity.value, 10),
           maxQuantity: parseInt(treeQuantity.max),
           standardHeight: document
@@ -470,7 +471,7 @@ function addTreeToLocalStorage() {
               .value
           ) {
             if (
-              productTrees[i].height ===
+              productTrees[i].averageHeight ===
               document.querySelector(".height-selection-value-active").dataset
                 .value
             ) {
