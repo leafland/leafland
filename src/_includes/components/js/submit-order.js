@@ -108,7 +108,7 @@ async function populateForm() {
     gradeSize.innerHTML = `Grade size: <span class="info-pill">${tree.grade}</span>`;
 
     let averageHeight = document.createElement("p");
-    averageHeight.innerHTML = `Average height: <span class="info-pill">${
+    averageHeight.innerHTML = `Height: <span class="info-pill">${
       tree.averageHeight.toLowerCase() === "n/a"
         ? tree.averageHeight
         : tree.averageHeight + "<span class='lowercase'>m</span>"

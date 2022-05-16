@@ -101,7 +101,7 @@ async function updateOrder() {
       itemGrade.innerHTML = `Grade Size: <span class="info-pill">${tree.grade}</span>`;
 
       let itemAverageHeight = document.createElement("p");
-      itemAverageHeight.innerHTML = `Average Height: <span class="info-pill">${
+      itemAverageHeight.innerHTML = `Height: <span class="info-pill">${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "<span class='lowercase'>m</span>"
