@@ -50,7 +50,49 @@ window.addEventListener("loginUpdated", () => {
     await createTreeImages();
 
     await getProductStockData();
-    await createStockValues();
+
+    let outOfStock = false;
+
+    gradeLoop: for (let i = 0; i < grades.length; i++) {
+      heightLoop: for (let j = 0; j < grades[i].heights.length; j++) {
+        standardLoop: for (
+          let k = 0;
+          k < grades[i].heights[j].standardHeights.length;
+          k++
+        ) {
+          if (
+            parseInt(grades[i].heights[j].standardHeights[k].quantity, 10) === 0
+          ) {
+            if (grades[i].heights[j].standardHeights.length > 1) {
+              if (k !== grades[i].heights[j].standardHeights.length - 1) {
+                outOfStock = true;
+              } else {
+                outOfStock = false;
+              }
+            } else {
+              outOfStock = true;
+            }
+          } else {
+            outOfStock = false;
+            break gradeLoop;
+          }
+        }
+      }
+    }
+
+    if (outOfStock) {
+      gradeSizesDiv.innerHTML = ``;
+      let message = document.createElement("p");
+      message.textContent = "Currently out of stock.";
+      message.classList.add("bold-up");
+      gradeSizesDiv.appendChild(message);
+      gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
+      gradeSizesDiv.style.setProperty("margin-top", "0");
+
+      stockValuesDiv.style.setProperty("display", "none");
+    } else {
+      await createStockValues();
+    }
 
     stockData = await fetch(
       "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
@@ -67,7 +109,6 @@ window.addEventListener("loginUpdated", () => {
         "#tree-name-content"
       ).textContent = `${treeBotanicalName.textContent}`;
     }
-
     await createStockTable();
   })();
 });
@@ -282,12 +323,12 @@ async function createStockValues() {
           if (grades[i].grade === gradeSizeValue.dataset.value) {
             for (let j = 0; j < grades[i].heights.length; j++) {
               let heightValue = document.createElement("span");
-              if (grades[i].heights[j].averageHeight !== "") {
-                heightValue.dataset.value = grades[i].heights[j].averageHeight;
+              if (grades[i].heights[j].height !== "") {
+                heightValue.dataset.value = grades[i].heights[j].height;
                 heightValue.textContent = `${
-                  grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
-                    ? grades[i].heights[j].averageHeight
-                    : grades[i].heights[j].averageHeight + "m"
+                  grades[i].heights[j].height.toLowerCase() === "n/a"
+                    ? grades[i].heights[j].height
+                    : grades[i].heights[j].height + "m"
                 }`;
               } else {
                 heightValue.value = "N/A";
@@ -381,8 +422,8 @@ function addTreeToLocalStorage() {
       mainImage: productImage,
       grade: document.querySelector(".grade-selection-value-active").dataset
         .value,
-      averageHeight: document.querySelector(".height-selection-value-active")
-        .dataset.value,
+      height: document.querySelector(".height-selection-value-active").dataset
+        .value,
       quantity: parseInt(treeQuantity.value, 10),
       maxQuantity: parseInt(treeQuantity.max),
       standardHeight: document
@@ -405,9 +446,8 @@ function addTreeToLocalStorage() {
           mainImage: productImage,
           grade: document.querySelector(".grade-selection-value-active").dataset
             .value,
-          averageHeight: document.querySelector(
-            ".height-selection-value-active"
-          ).dataset.value,
+          height: document.querySelector(".height-selection-value-active")
+            .dataset.value,
           quantity: parseInt(treeQuantity.value, 10),
           maxQuantity: parseInt(treeQuantity.max),
           standardHeight: document
@@ -430,7 +470,7 @@ function addTreeToLocalStorage() {
               .value
           ) {
             if (
-              productTrees[i].averageHeight ===
+              productTrees[i].height ===
               document.querySelector(".height-selection-value-active").dataset
                 .value
             ) {
@@ -478,7 +518,7 @@ function createHeights(grade, height) {
     if (grades[i].grade === grade) {
       let noStandardHeightQuantity = 0;
       for (let j = 0; j < grades[i].heights.length; j++) {
-        if (grades[i].heights[j].averageHeight === height) {
+        if (grades[i].heights[j].height === height) {
           for (
             let k = 0;
             k < grades[i].heights[j].standardHeights.length;
@@ -692,19 +732,19 @@ async function createStockTable() {
       "GRADE",
       "$RETAIL",
       "$WHOLESALE",
-      "AVERAGE HEIGHT (m)",
+      "HEIGHT (m)",
       "STANDARD HEIGHT (m)",
       "READY",
-      "COMING ON",
+      "IN PRODUCTION",
     ];
   } else {
     heading = [
       "GRADE",
       "$RETAIL",
-      "AVERAGE HEIGHT (m)",
+      "HEIGHT (m)",
       "STANDARD HEIGHT (m)",
       "READY",
-      "COMING ON",
+      "IN PRODUCTION",
     ];
   }
 

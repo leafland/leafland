@@ -15,6 +15,7 @@
   flex-direction: column;
   gap: 2rem;
   padding: 1rem;
+  overflow-y: auto
 }
 
 body.stock-table-open #stock-table {
@@ -40,6 +41,8 @@ body.stock-table-open #stock-table {
     border: 2px solid var(--primary-text);
     /* background: var(--secondary-background); */
     border-radius: 8px;
+    height:100%;
+    min-height: 30rem
   }
   
   #stock-table-tree-name{
@@ -86,6 +89,9 @@ body.stock-table-open #stock-table {
   
   #stock-table tr:first-child {
     height: 5rem;
+    position: sticky;
+    top: 0;
+    background: var(--primary-background);
   }
   
   #stock-table tr:not(tr:first-child) {
@@ -112,6 +118,15 @@ body.stock-table-open #stock-table {
     font-weight: bold;
     /* min-width: 5rem;
     max-width: 5rem; */
+  }
+
+  #info-section{
+    display: grid;
+    gap: 1rem
+  }
+
+  #info-section p{
+    font-size: var(--font-size-2)
   }
 
   @media (hover: hover) and (pointer: fine) {

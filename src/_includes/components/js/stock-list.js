@@ -34,10 +34,10 @@ if (stockListType === "retail") {
     "COMMON NAME",
     "GRADE",
     "$RETAIL",
-    "AVERAGE HEIGHT (m)",
+    "HEIGHT (m)",
     "STANDARD HEIGHT (m)",
     "READY",
-    "COMING ON",
+    "IN PRODUCTION",
   ];
 } else {
   heading = [
@@ -46,10 +46,10 @@ if (stockListType === "retail") {
     "GRADE",
     "$RETAIL",
     "$WHOLESALE",
-    "AVERAGE HEIGHT (m)",
+    "HEIGHT (m)",
     "STANDARD HEIGHT (m)",
     "READY",
-    "COMING ON",
+    "IN PRODUCTION",
   ];
 }
 
