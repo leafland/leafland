@@ -536,6 +536,7 @@ body.add-to-order-open #add-to-order-overlay {
   grid-gap: 5rem;
   background: var(--secondary-background);
   border-radius: 8px;
+  height: 100%;
   /* padding: 2rem; */
   /* grid-column-start: 1;
   grid-column-end: 2; */
