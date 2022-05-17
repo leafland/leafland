@@ -22521,10 +22521,10 @@
     "commonName":"Hawthorn",
     "url":"crataegus-laevigata-rosea-flore-pleno-hawthorn",
     "mainImage":"crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn.jpg",
-    "description":"Upright tree with a compact, rounded head. Impressive heads of double salmon-pink flowers smother the tree in late-spring. Tolerant of strong winds. Does not set fruit. Excellent street tree.",
-    "uses":"street",
-    "tolerates":"windy",
-    "soilType":"",
+    "description":"Upright tree with a compact, rounded head. Impressive heads of double salmon-pink flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions.",
+    "uses":"street, attracts-birds, attracts-bees",
+    "tolerates":"windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
+    "soilType":"dry-soils, poor-draining-soils, clay-soils, sandy-soils, rocky-soils",
     "sunShade":"",
     "winterFoliage":"deciduous",
     "origin":"exotic",
@@ -22535,7 +22535,7 @@
     "filterFlowerColor":"pink",
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
-    "filterFruitingSeason":"",
+    "filterFruitingSeason":"autumn",
     "filterStemColor":"",
     "stem":{
      "summer":"",
@@ -22547,17 +22547,17 @@
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"pink"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"red",
      "winter":"",
      "spring":""
     },
@@ -22589,8 +22589,8 @@
     "url":"cryptomeria-japonica-japanese-cedar",
     "mainImage":"cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar.jpg",
     "description":"Quickly grows into a tall, stately tree. Foliage grows from the ground to become an excellent shelter tree. Lovely, enduring specimen tree with a pyramidal form. Tolerant of strong winds.",
-    "uses":"",
-    "tolerates":"windy",
+    "uses":"hedging-and-screening",
+    "tolerates":"windy, light-frosts, heavy-frosts",
     "soilType":"clay-soils",
     "sunShade":"",
     "winterFoliage":"evergreen",
@@ -22617,10 +22617,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -22660,8 +22660,8 @@
     "url":"cryptomeria-japonica-egmont-japanese-cedar",
     "mainImage":"cryptomeria-japonica-egmont-japanese-cedar/cryptomeria-japonica-egmont-japanese-cedar.jpg",
     "description":"Selected form of Cryptomeria japonica to ensure consistent hedging. Makes a good screen or hedge, and can be pruned. Very wind and cold hardy.",
-    "uses":"",
-    "tolerates":"windy",
+    "uses":"hedging-and-screening",
+    "tolerates":"windy, light-frosts, heavy-frosts",
     "soilType":"clay-soils",
     "sunShade":"",
     "winterFoliage":"evergreen",
@@ -22688,10 +22688,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -22718,11 +22718,11 @@
     "commonName":"Butterknife Tree",
     "url":"cunonia-capensis-butterknife-tree",
     "mainImage":"cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree.jpg",
-    "description":"Beautiful, deep-green, pinnate leaves and wine-red branches. Large, fragrant, white panicles of flowers resembling candles are borne through summer. Ideal for the smaller garden.",
-    "uses":"",
+    "description":"New foliage emerges bronze-red and matures to a beautiful glossy, dark-green. Large, fragrant, white panicles of flowers resembling candles are borne through summer. Ideal for the smaller garden. Does not like windy conditions or hot and dry weather. Prefers a more temperate climate that mimics the sheltered forest environment where it occurs naturally. Does not have an invasive root system and can be grown in large pots.",
+    "uses":"attracts-bees",
     "tolerates":"",
     "soilType":"",
-    "sunShade":"",
+    "sunShade":"full-sun, part-shade",
     "winterFoliage":"evergreen",
     "origin":"exotic",
     "types":"",
@@ -22731,7 +22731,7 @@
     "filterFloweringSeason":"summer",
     "filterFlowerColor":"white",
     "filterAutumnColor":"",
-    "filterFoliageColor":"green",
+    "filterFoliageColor":"green, red",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -22741,16 +22741,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"white",
      "autumn":"",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -22814,10 +22814,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue",
+     "autumn":"blue",
+     "winter":"blue",
+     "spring":"blue"
     },
     "fruitingSeason":{
      "summer":"",
@@ -22881,10 +22881,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, green",
+     "autumn":"blue, green",
+     "winter":"blue, green",
+     "spring":"blue, green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -22944,10 +22944,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, grey",
+     "autumn":"blue, grey",
+     "winter":"blue, grey",
+     "spring":"blue, grey"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23011,10 +23011,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23078,10 +23078,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23141,10 +23141,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, blue",
+     "autumn":"green, blue",
+     "winter":"green, blue",
+     "spring":"green, blue"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23196,10 +23196,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23251,10 +23251,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23397,10 +23397,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23423,7 +23423,7 @@
     "commonName":"Italian Cypress",
     "url":"cupressus-sempervirens-stricta-italian-cypress",
     "mainImage":"cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg",
-    "description":"Ancient classical upright tree from the Mediterranean, forming a narrow column of grey-green. Occasional pruning will keep the tree in better shape. Coastal, drought, and wind tolerant.",
+    "description":"Ancient classical upright tree from the Mediterranean, forming a narrow column of blue-green. Occasional pruning will keep the tree in better shape. Coastal, drought, and wind tolerant.",
     "uses":"narrow-sites, driveways-and-avenues",
     "tolerates":"coastal, windy, drought",
     "soilType":"dry-soils",
@@ -23436,7 +23436,7 @@
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
     "filterAutumnColor":"",
-    "filterFoliageColor":"green",
+    "filterFoliageColor":"green, blue",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -23452,10 +23452,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, blue",
+     "autumn":"green, blue",
+     "winter":"green, blue",
+     "spring":"green, blue"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23527,10 +23527,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"yellow",
+     "autumn":"yellow",
+     "winter":"yellow",
+     "spring":"yellow"
     },
     "fruitingSeason":{
      "summer":"",
@@ -23590,10 +23590,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
