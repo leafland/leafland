@@ -65,13 +65,13 @@ main h2 {
 
 #grade-select {
   display: grid;
-  gap: 5rem
+  gap: 3rem
 }
 
 #grade-select-buttons{
   display:flex;
   flex-direction: column;
-  gap: 5rem;
+  gap: 3rem;
 }
 
 .grade-select-grid-div{
