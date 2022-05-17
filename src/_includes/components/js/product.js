@@ -51,7 +51,7 @@ window.addEventListener("loginUpdated", () => {
 
     await getProductStockData();
 
-    let outOfStock = false;
+    let inStock = 0;
 
     gradeLoop: for (let i = 0; i < grades.length; i++) {
       heightLoop: for (let j = 0; j < grades[i].heights.length; j++) {
@@ -61,26 +61,33 @@ window.addEventListener("loginUpdated", () => {
           k++
         ) {
           if (
-            parseInt(grades[i].heights[j].standardHeights[k].quantity, 10) === 0
+            parseInt(grades[i].heights[j].standardHeights[k].quantity, 10) !== 0
           ) {
-            if (grades[i].heights[j].standardHeights.length > 1) {
-              if (k !== grades[i].heights[j].standardHeights.length - 1) {
-                outOfStock = true;
-              } else {
-                outOfStock = false;
-              }
-            } else {
-              outOfStock = true;
-            }
+            inStock++;
+            // if (grades[i].heights[j].standardHeights.length > 1) {
+            //   if (k === grades[i].heights[j].standardHeights.length - 1) {
+            //     inStock++;
+            //   }
+            // }
           } else {
-            outOfStock = false;
-            break gradeLoop;
+            grades[i].heights[j].standardHeights.splice(k, 1);
+            k--;
           }
         }
+
+        if (grades[i].heights[j].standardHeights.length < 1) {
+          grades[i].heights.splice(j, 1);
+          j--;
+        }
+      }
+
+      if (grades[i].heights.length < 1) {
+        grades.splice(i, 1);
+        i--;
       }
     }
 
-    if (outOfStock) {
+    if (inStock === 0) {
       gradeSizesDiv.innerHTML = ``;
       let message = document.createElement("p");
       message.textContent = "Currently out of stock.";

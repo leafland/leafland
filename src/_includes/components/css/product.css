@@ -70,7 +70,7 @@ main h2 {
 
 #grade-select-buttons{
   display:flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   gap: 5rem;
 }
 
