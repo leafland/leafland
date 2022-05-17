@@ -24077,7 +24077,7 @@
      "commonName":"Large-stalked Daphniphyllum",
      "url":"daphniphyllum-macropodum-large-stalked-daphniphyllum",
      "mainImage":"daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum.jpg",
-     "description":"Has dark-green, glossy, rhododendron-like leaves that tend to droop in winter, revealing the bright-red leaf stalks. New spring growth is pale-green, often flushed with pink. Red male and green female flowers are borne on separate plants in late-spring. Pollinated female plants produce black berries in autumn.",
+     "description":"Has dark-green, glossy, rhododendron-like leaves that tend to droop in winter, revealing the bright-red leaf stalks on new growth. New spring growth is pale-green, often flushed with pink. Purple-pink male and pale-green female flowers are borne on separate plants in late-spring. Pollinated female plants produce blue-black berries in autumn.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -24087,33 +24087,33 @@
      "types":"",
      "height":"4m",
      "width":"3m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
+     "filterFloweringSeason":"spring",
+     "filterFlowerColor":"purple, pink, green",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterFoliageColor":"green, pink",
+     "filterFruitingSeason":"autumn",
+     "filterStemColor":"red",
      "stem":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"red",
       "spring":""
      },
      "flowerColor":{
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"purple, pink, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green, pink"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"blue, black",
       "winter":"",
       "spring":""
      },
@@ -24148,7 +24148,7 @@
      "commonName":"Dove Tree, Handkerchief Tree, Ghost Tree",
      "url":"davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree",
      "mainImage":"davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree.jpg",
-     "description":"Forms a stately specimen tree with robust branches and a rounded crown. Extraordinary flowers resemble white handkerchiefs which hang and flutter beneath the beautiful ribbed leaves in late-spring. Shelter from strong winds.",
+     "description":"Forms a stately specimen tree with robust branches and a rounded crown. Extraordinary flowers resemble white handkerchiefs which hang and flutter beneath the beautiful ribbed leaves in late-spring. Shelter from strong winds. Sometimes produces orange and red autumn colour.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -24160,7 +24160,7 @@
      "width":"6m",
      "filterFloweringSeason":"spring",
      "filterFlowerColor":"white",
-     "filterAutumnColor":"",
+     "filterAutumnColor":"orange, red",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
      "filterStemColor":"",
@@ -24174,13 +24174,13 @@
       "summer":"",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"white"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
+      "summer":"green",
+      "autumn":"orange, red",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24226,12 +24226,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"brown",
+      "autumn":"brown",
+      "winter":"brown",
+      "spring":"brown"
      },
      "flowerColor":{
       "summer":"",
@@ -24240,10 +24240,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24278,7 +24278,7 @@
      "commonName":"Whekī, Rough Tree Fern",
      "url":"dicksonia-squarrosa-wheki-rough-tree-fern",
      "mainImage":"dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern.jpg",
-     "description":"Has a slender black trunk that is usually surrounded by many brown fronds.",
+     "description":"One of the toughest tree ferns, tolerating some full-sun (not strong afternoon sun during the warmer months), drier soils, and light winds. Smaller leaf fronds than the Cyathea species of tree fern, so good for smaller gardens.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -24293,12 +24293,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"brown",
+      "autumn":"brown",
+      "winter":"brown",
+      "spring":"brown"
      },
      "flowerColor":{
       "summer":"",
@@ -24307,10 +24307,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24368,16 +24368,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"green, yellow, red",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"green, yellow, red",
+      "spring":"green, yellow, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24431,16 +24431,16 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"green, yellow, red",
       "autumn":"",
-      "winter":"",
-      "spring":""
+      "winter":"green, yellow, red",
+      "spring":"green, yellow, red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"purple",
+      "autumn":"purple",
+      "winter":"purple",
+      "spring":"purple"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24508,10 +24508,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24538,7 +24538,7 @@
      "commonName":"Kohekohe, New Zealand Mahogany",
      "url":"dysoxylum-spectabile-kohekohe-new-zealand-mahogany",
      "mainImage":"dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany.jpg",
-     "description":"A handsome upright tree, suited to coastal windy conditions but requiring good soil and shelter from frosts. Scented white flowers in panicles from early-autumn to mid-winter. Large glossy leaves.",
+     "description":"A handsome upright tree, suited to coastal windy conditions but requiring good soil and shelter from frosts. Scented white flowers in panicles from early-autumn to mid-winter. Large glossy, green leaves.",
      "uses":"attracts-birds, attracts-bees",
      "tolerates":"coastal",
      "soilType":"",
@@ -24562,15 +24562,15 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"white",
+      "winter":"white",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24601,8 +24601,8 @@
      "commonName":"Silverberry",
      "url":"elaeagnus-x-submacrophylla-silverberry",
      "mainImage":"elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry.jpg",
-     "description":"Formerly known as Elaeagnus x ebbingei. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, yellow-white flowers in autumn.",
-     "uses":"hedging-and-screening, attracts-bees",
+     "description":"Formerly known as Elaeagnus x ebbingei. A hybrid between Elaeagnus macrophylla and Elaeagnus pungens. Leaves are initially green, spotted with silver-grey, but mature to dark-green with silver-grey undersides. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, white flowers in autumn that are followed by orange berries in winter.",
+     "uses":"hedging-and-screening, attracts-bees, attracts-birds",
      "tolerates":"coastal, windy, drought",
      "soilType":"clay-soils, poor-draining-soils, dry-soils",
      "sunShade":"",
@@ -24612,10 +24612,10 @@
      "height":"3m",
      "width":"2m",
      "filterFloweringSeason":"autumn",
-     "filterFlowerColor":"white, yellow",
+     "filterFlowerColor":"white",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFoliageColor":"green, grey",
+     "filterFruitingSeason":"winter",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -24625,20 +24625,20 @@
      },
      "flowerColor":{
       "summer":"",
-      "autumn":"",
+      "autumn":"white",
       "winter":"",
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green, grey",
+      "autumn":"green, grey",
+      "winter":"green, grey",
+      "spring":"green, grey"
      },
      "fruitingSeason":{
       "summer":"",
       "autumn":"",
-      "winter":"",
+      "winter":"orange",
       "spring":""
      },
      "treeShape":"images/icons/tree-shapes/elaeagnus/elaeagnus-general.svg",
