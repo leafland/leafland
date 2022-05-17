@@ -23913,10 +23913,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -23947,7 +23947,7 @@
      "commonName":"Kahikatea, White Pine",
      "url":"dacrycarpus-dacrydioides-kahikatea-white-pine",
      "mainImage":"dacrycarpus-dacrydioides-kahikatea-white-pine/dacrycarpus-dacrydioides-kahikatea-white-pine.jpg",
-     "description":"Handsome, narrow-growing tree with soft-green leaves on semi-weeping branches. Juvenile foliage is a brown colour before turning green. Prefers moist situations next to streams, lakes, and ponds. Catkins in mid-spring to mid-summer are a source of pollen for bees. Produces orange-red fruit that grow under a purple-black seed from mid-summer to mid-autumn. Great source of food for birds.",
+     "description":"Handsome, narrow-growing tree with soft-green leaves on semi-weeping branches. Juvenile foliage is a brown colour before turning green. Prefers moist situations next to streams, lakes, and ponds. Yellow-green catkins in mid-spring to mid-summer are a source of pollen for bees. Produces orange-red fruit that grow under a purple-black seed from mid-summer to mid-autumn. Great source of food for birds.",
      "uses":"street, attracts-birds, attracts-bees",
      "tolerates":"windy",
      "soilType":"clay-soils, poor-draining-soils",
@@ -23958,10 +23958,10 @@
      "height":"8m",
      "width":"5m",
      "filterFloweringSeason":"spring, summer",
-     "filterFlowerColor":"",
+     "filterFlowerColor":"yellow, green",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFoliageColor":"green, brown",
+     "filterFruitingSeason":"summer, autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -23970,20 +23970,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"yellow, green",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"yellow, green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green, brown",
+      "autumn":"green, brown",
+      "winter":"green, brown",
+      "spring":"green, brown"
      },
      "fruitingSeason":{
-      "summer":"",
-      "autumn":"",
+      "summer":"orange, red, purple, black",
+      "autumn":"orange, red, purple, black",
       "winter":"",
       "spring":""
      },
@@ -24010,7 +24010,7 @@
      "commonName":"Rimu, Red Pine",
      "url":"dacrydium-cupressinum-rimu-red-pine",
      "mainImage":"dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine.jpg",
-     "description":"A slow-growing tree easily accommodated in the home garden for at least fifty years. From the central trunk, slender branches droop in a fashion and are covered with tiny, bronze-green, scale-like leaves.",
+     "description":"A slow-growing tree easily accommodated in the home garden for at least fifty years. Juvenile trees have a pyramidal crown and pendulous branches, but acquire a round-topped crown with strong lateral branches bearing pendulous branchlets and foliage when mature. Foliage on juvenile trees may turn bronze during winter before returning to green in spring. Green catkins in mid-spring to mid-summer are a source of pollen for bees. Produces orange-red fruit that grow under a purple-black seed from mid-summer to mid-autumn. Seed is only set every few years.",
      "uses":"attracts-birds",
      "tolerates":"",
      "soilType":"",
@@ -24020,11 +24020,11 @@
      "types":"conifer",
      "height":"6m",
      "width":"4m",
-     "filterFloweringSeason":"",
-     "filterFlowerColor":"",
+     "filterFloweringSeason":"spring, summer",
+     "filterFlowerColor":"green",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
-     "filterFruitingSeason":"",
+     "filterFoliageColor":"green, red, brown",
+     "filterFruitingSeason":"summer, autumn",
      "filterStemColor":"",
      "stem":{
       "summer":"",
@@ -24033,20 +24033,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"green",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"green"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green, red, brown",
+      "spring":"green"
      },
      "fruitingSeason":{
-      "summer":"",
-      "autumn":"",
+      "summer":"orange, red, purple, black",
+      "autumn":"orange, red, purple, black",
       "winter":"",
       "spring":""
      },
