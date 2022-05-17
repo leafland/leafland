@@ -23651,12 +23651,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"brown",
+      "autumn":"brown",
+      "winter":"brown",
+      "spring":"brown"
      },
      "flowerColor":{
       "summer":"",
@@ -23665,10 +23665,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -23708,14 +23708,14 @@
      "filterFloweringSeason":"",
      "filterFlowerColor":"",
      "filterAutumnColor":"",
-     "filterFoliageColor":"green",
+     "filterFoliageColor":"green, white, grey",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"brown",
+      "autumn":"brown",
+      "winter":"brown",
+      "spring":"brown"
      },
      "flowerColor":{
       "summer":"",
@@ -23724,10 +23724,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green, white, grey",
+      "autumn":"green, white, grey",
+      "winter":"green, white, grey",
+      "spring":"green, white, grey"
      },
      "fruitingSeason":{
       "summer":"",
@@ -23781,12 +23781,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"black",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"black",
+      "autumn":"black",
+      "winter":"black",
+      "spring":"black"
      },
      "flowerColor":{
       "summer":"",
@@ -23795,10 +23795,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -23825,7 +23825,7 @@
      "commonName":"Kātote, Soft Tree Fern",
      "url":"cyathea-smithii-katote-soft-tree-fern",
      "mainImage":"cyathea-smithii-katote-soft-tree-fern/cyathea-smithii-katote-soft-tree-fern.jpg",
-     "description":"The tree fern that is most tolerant of cold with fronds that are thin and soft in texture. Has a skirt of dead frond stalks on its trunk. Dicksonia squarrosa is the rough tree fern.",
+     "description":"The tree fern that is most tolerant of cold with fronds that are thin and soft in texture. Has a skirt of dead frond stalks on its trunk.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
@@ -23840,12 +23840,12 @@
      "filterAutumnColor":"",
      "filterFoliageColor":"green",
      "filterFruitingSeason":"",
-     "filterStemColor":"",
+     "filterStemColor":"brown",
      "stem":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"brown",
+      "autumn":"brown",
+      "winter":"brown",
+      "spring":"brown"
      },
      "flowerColor":{
       "summer":"",
@@ -23854,10 +23854,10 @@
       "spring":""
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
@@ -24278,7 +24278,7 @@
      "commonName":"Whekī, Rough Tree Fern",
      "url":"dicksonia-squarrosa-wheki-rough-tree-fern",
      "mainImage":"dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern.jpg",
-     "description":"Has a slender black trunk that is usually surrounded by many brown fronds. Fronds are rougher in texture than Cyathea smithii.",
+     "description":"Has a slender black trunk that is usually surrounded by many brown fronds.",
      "uses":"",
      "tolerates":"",
      "soilType":"",
