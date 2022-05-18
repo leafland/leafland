@@ -29527,13 +29527,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29577,7 +29577,7 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "green, yellow",
     "filterAutumnColor": "yellow",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, yellow",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -29590,13 +29590,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29645,13 +29645,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple, red",
+      "autumn": "purple, red",
       "winter": "",
-      "spring": ""
+      "spring": "purple, red"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29708,13 +29708,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29767,13 +29767,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29828,15 +29828,15 @@
     },
     "flowerColor": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "white",
+      "winter": "white",
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29887,15 +29887,15 @@
     },
     "flowerColor": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "white",
+      "winter": "white",
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29937,15 +29937,15 @@
     },
     "flowerColor": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "white",
+      "winter": "white",
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -29981,7 +29981,7 @@
     "filterFloweringSeason": "winter, spring",
     "filterFlowerColor": "white",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, red",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -29993,14 +29993,14 @@
     "flowerColor": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "white",
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30027,7 +30027,7 @@
     "commonName": "Silky Oak",
     "url": "grevillea-robusta-silky-oak",
     "mainImage": "grevillea-robusta-silky-oak/grevillea-robusta-silky-oak.jpg",
-    "description": "An upright, pyramidal tree when young with large, fern-like, pale-green leaves. As it ages, horizontal limbs develop, creating a broader top. Mature trees bear amazing large golden flowers in clusters in spring. Nectar-seeking birds are drawn to the flowers. Tolerates coastal winds and dry conditions.",
+    "description": "An upright, pyramidal tree when young with large, fern-like, pale-green leaves. As it ages, horizontal limbs develop, creating a broader top. Mature trees bear amazing large yellow-orange flowers in clusters in spring. Nectar-seeking birds are drawn to the flowers. Tolerates coastal winds and dry conditions.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -30053,13 +30053,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, orange"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30129,16 +30129,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30188,16 +30188,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30247,16 +30247,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30297,16 +30297,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30352,24 +30352,24 @@
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterStemColor": "red",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30419,16 +30419,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30474,16 +30474,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30524,16 +30524,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30585,10 +30585,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
