@@ -2,10 +2,11 @@ main {
   margin-top: 5rem;
 }
 
-#content{
-  max-width:80rem;
-  display:grid;
-  justify-self:center
+#content {
+  max-width: 80rem;
+  display: grid;
+  justify-self: center;
+  width: 100%;
 }
 
 #grid-content-right {
