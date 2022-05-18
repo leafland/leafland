@@ -26094,20 +26094,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26157,20 +26157,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26212,20 +26212,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26271,21 +26271,21 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"green",
+      "winter":"green",
       "spring":""
      },
      "treeShape":"images/icons/tree-shapes/feijoa/feijoa-general.svg",
@@ -26326,20 +26326,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26381,20 +26381,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26436,21 +26436,21 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
-      "winter":"",
+      "autumn":"green",
+      "winter":"green",
       "spring":""
      },
      "treeShape":"images/icons/tree-shapes/feijoa/feijoa-general.svg",
@@ -26499,20 +26499,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26562,20 +26562,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26621,20 +26621,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26680,20 +26680,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26739,20 +26739,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
@@ -26798,20 +26798,20 @@
       "spring":""
      },
      "flowerColor":{
-      "summer":"",
+      "summer":"red",
       "autumn":"",
       "winter":"",
-      "spring":""
+      "spring":"red"
      },
      "foliageColor":{
-      "summer":"",
-      "autumn":"",
-      "winter":"",
-      "spring":""
+      "summer":"green",
+      "autumn":"green",
+      "winter":"green",
+      "spring":"green"
      },
      "fruitingSeason":{
       "summer":"",
-      "autumn":"",
+      "autumn":"green",
       "winter":"",
       "spring":""
      },
