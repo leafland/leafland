@@ -26863,14 +26863,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"green, brown",
      "winter":"",
      "spring":""
     },
@@ -26926,14 +26926,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
-     "summer":"",
-     "autumn":"",
+     "summer":"purple, black",
+     "autumn":"purple, black",
      "winter":"",
      "spring":""
     },
@@ -26985,14 +26985,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
-     "summer":"",
-     "autumn":"",
+     "summer":"brown",
+     "autumn":"brown",
      "winter":"",
      "spring":""
     },
@@ -27044,14 +27044,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green, brown",
+     "autumn":"green, brown",
      "winter":"",
      "spring":""
     },
@@ -27099,14 +27099,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green, yellow",
+     "autumn":"green, yellow",
      "winter":"",
      "spring":""
     },
@@ -27154,14 +27154,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"purple, red",
      "winter":"",
      "spring":""
     },
@@ -27177,7 +27177,7 @@
     "commonName":"",
     "url":"fig-panache",
     "mainImage":"fig-panache/fig-panache.jpg",
-    "description":"Also known as Fig 'Tiger Stripe'. Produces fruit with unusual green and brown striped figs and crimson-red flesh. Although deciduous, the large, bold rich green foliage has a tropical appearance over the summer months. Fruit ripens in late-autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
+    "description":"Also known as Fig 'Tiger Stripe'. Produces fruit with unusual green and yellow striped figs and crimson-red flesh. Although deciduous, the large, bold rich green foliage has a tropical appearance over the summer months. Fruit ripens in late-autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
     "uses":"",
     "tolerates":"coastal, windy",
     "soilType":"dry-soils",
@@ -27206,14 +27206,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"green, yellow",
      "winter":"",
      "spring":""
     },
@@ -27261,14 +27261,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"purple, black, brown",
      "winter":"",
      "spring":""
     },
@@ -27316,14 +27316,14 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"green",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"green",
      "winter":"",
      "spring":""
     },
