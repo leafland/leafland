@@ -27371,10 +27371,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"yellow",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27446,10 +27446,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"yellow, green",
+     "autumn":"yellow",
      "winter":"",
-     "spring":""
+     "spring":"yellow, green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27549,10 +27549,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"yellow, green",
+     "autumn":"yellow",
      "winter":"",
-     "spring":""
+     "spring":"yellow, green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27648,10 +27648,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"yellow",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27727,10 +27727,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"orange, purple",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27796,16 +27796,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"white",
      "autumn":"",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -27894,13 +27894,13 @@
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"white"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"yellow, purple, red",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28012,10 +28012,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"purple, red, orange",
      "winter":"",
-     "spring":""
+     "spring":"purple"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28143,10 +28143,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"yellow",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28201,7 +28201,7 @@
     "commonName":"Green Ash",
     "url":"fraxinus-pennsylvanica-cimmzam-green-ash",
     "mainImage":"fraxinus-pennsylvanica-cimmzam-green-ash/fraxinus-pennsylvanica-cimmzam-green-ash.jpg",
-    "description":"Also known as Fraxinus pennsylvanica 'Cimmaron'. A uniformly erect-growing tree. Glossy-green pinnate leaves. Fiery orange to red autumn leaves which persist well into winter. Tolerant of drought and high winds. Great for lining avenues and driveways. Excellent street tree.",
+    "description":"Also known as Fraxinus pennsylvanica 'Cimmaron'. A uniformly erect-growing tree. Glossy-green pinnate leaves. Fiery orange to red autumn leaves. Tolerant of drought and high winds. Great for lining avenues and driveways. Excellent street tree.",
     "uses":"street, driveways-and-avenues",
     "tolerates":"windy, drought",
     "soilType":"dry-soils",
@@ -28230,10 +28230,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"red, orange",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28323,16 +28323,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"green",
      "autumn":"",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, grey",
+     "autumn":"blue, grey",
+     "winter":"blue, grey",
+     "spring":"blue, grey"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28392,10 +28392,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28447,10 +28447,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, red",
+     "autumn":"green, red",
+     "winter":"green, red",
+     "spring":"green, red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28510,10 +28510,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28565,10 +28565,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28614,16 +28614,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"white",
+     "autumn":"white",
      "winter":"",
-     "spring":""
+     "spring":"white"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -28675,14 +28675,14 @@
     "flowerColor":{
      "summer":"",
      "autumn":"",
-     "winter":"",
-     "spring":""
+     "winter":"green, grey",
+     "spring":"green, grey"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
