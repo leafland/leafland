@@ -24077,7 +24077,7 @@
     "commonName":"Large-stalked Daphniphyllum",
     "url":"daphniphyllum-macropodum-large-stalked-daphniphyllum",
     "mainImage":"daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum.jpg",
-    "description":"Has dark-green, glossy, rhododendron-like leaves that tend to droop in winter, revealing the bright-red leaf stalks. New spring growth is pale-green, often flushed with pink. Red male and green female flowers are borne on separate plants in late-spring. Pollinated female plants produce black berries in autumn.",
+    "description":"Has dark-green, glossy, rhododendron-like leaves that tend to droop in winter, revealing the bright-red leaf stalks on new growth. New spring growth is pale-green, often flushed with pink. Purple-pink male and pale-green female flowers are borne on separate plants in late-spring. Pollinated female plants produce blue-black berries in autumn.",
     "uses":"",
     "tolerates":"",
     "soilType":"",
@@ -24087,33 +24087,33 @@
     "types":"",
     "height":"4m",
     "width":"3m",
-    "filterFloweringSeason":"",
-    "filterFlowerColor":"",
+    "filterFloweringSeason":"spring",
+    "filterFlowerColor":"purple, pink, green",
     "filterAutumnColor":"",
-    "filterFoliageColor":"green",
-    "filterFruitingSeason":"",
-    "filterStemColor":"",
+    "filterFoliageColor":"green, pink",
+    "filterFruitingSeason":"autumn",
+    "filterStemColor":"red",
     "stem":{
      "summer":"",
      "autumn":"",
-     "winter":"",
+     "winter":"red",
      "spring":""
     },
     "flowerColor":{
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"purple, pink, green"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green, pink"
     },
     "fruitingSeason":{
      "summer":"",
-     "autumn":"",
+     "autumn":"blue, black",
      "winter":"",
      "spring":""
     },
@@ -24148,7 +24148,7 @@
     "commonName":"Dove Tree, Handkerchief Tree, Ghost Tree",
     "url":"davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree",
     "mainImage":"davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree.jpg",
-    "description":"Forms a stately specimen tree with robust branches and a rounded crown. Extraordinary flowers resemble white handkerchiefs which hang and flutter beneath the beautiful ribbed leaves in late-spring. Shelter from strong winds.",
+    "description":"Forms a stately specimen tree with robust branches and a rounded crown. Extraordinary flowers resemble white handkerchiefs which hang and flutter beneath the beautiful ribbed leaves in late-spring. Shelter from strong winds. Sometimes produces orange and red autumn colour.",
     "uses":"",
     "tolerates":"",
     "soilType":"",
@@ -24160,7 +24160,7 @@
     "width":"6m",
     "filterFloweringSeason":"spring",
     "filterFlowerColor":"white",
-    "filterAutumnColor":"",
+    "filterAutumnColor":"orange, red",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
     "filterStemColor":"",
@@ -24174,13 +24174,13 @@
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"white"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"green",
+     "autumn":"orange, red",
      "winter":"",
-     "spring":""
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24226,12 +24226,12 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
-    "filterStemColor":"",
+    "filterStemColor":"brown",
     "stem":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"brown",
+     "autumn":"brown",
+     "winter":"brown",
+     "spring":"brown"
     },
     "flowerColor":{
      "summer":"",
@@ -24240,10 +24240,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24278,7 +24278,7 @@
     "commonName":"Whekī, Rough Tree Fern",
     "url":"dicksonia-squarrosa-wheki-rough-tree-fern",
     "mainImage":"dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern.jpg",
-    "description":"Has a slender black trunk that is usually surrounded by many brown fronds.",
+    "description":"One of the toughest tree ferns, tolerating some full-sun (not strong afternoon sun during the warmer months), drier soils, and light winds. Smaller leaf fronds than the Cyathea species of tree fern, so good for smaller gardens.",
     "uses":"",
     "tolerates":"",
     "soilType":"",
@@ -24293,12 +24293,12 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
-    "filterStemColor":"",
+    "filterStemColor":"brown",
     "stem":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"brown",
+     "autumn":"brown",
+     "winter":"brown",
+     "spring":"brown"
     },
     "flowerColor":{
      "summer":"",
@@ -24307,10 +24307,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24368,16 +24368,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"green, yellow, red",
      "autumn":"",
-     "winter":"",
-     "spring":""
+     "winter":"green, yellow, red",
+     "spring":"green, yellow, red"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24431,16 +24431,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"green, yellow, red",
      "autumn":"",
-     "winter":"",
-     "spring":""
+     "winter":"green, yellow, red",
+     "spring":"green, yellow, red"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"purple",
+     "winter":"purple",
+     "spring":"purple"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24508,10 +24508,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24538,7 +24538,7 @@
     "commonName":"Kohekohe, New Zealand Mahogany",
     "url":"dysoxylum-spectabile-kohekohe-new-zealand-mahogany",
     "mainImage":"dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany.jpg",
-    "description":"A handsome upright tree, suited to coastal windy conditions but requiring good soil and shelter from frosts. Scented white flowers in panicles from early-autumn to mid-winter. Large glossy leaves.",
+    "description":"A handsome upright tree, suited to coastal windy conditions but requiring good soil and shelter from frosts. Scented white flowers in panicles from early-autumn to mid-winter. Large glossy, green leaves.",
     "uses":"attracts-birds, attracts-bees",
     "tolerates":"coastal",
     "soilType":"",
@@ -24562,15 +24562,15 @@
     },
     "flowerColor":{
      "summer":"",
-     "autumn":"",
-     "winter":"",
+     "autumn":"white",
+     "winter":"white",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24601,8 +24601,8 @@
     "commonName":"Silverberry",
     "url":"elaeagnus-x-submacrophylla-silverberry",
     "mainImage":"elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry.jpg",
-    "description":"Formerly known as Elaeagnus x ebbingei. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, yellow-white flowers in autumn.",
-    "uses":"hedging-and-screening, attracts-bees",
+    "description":"Formerly known as Elaeagnus x ebbingei. A hybrid between Elaeagnus macrophylla and Elaeagnus pungens. Leaves are initially green, spotted with silver-grey, but mature to dark-green with silver-grey undersides. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, white flowers in autumn that are followed by orange berries in winter.",
+    "uses":"hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates":"coastal, windy, drought",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
     "sunShade":"",
@@ -24612,10 +24612,10 @@
     "height":"3m",
     "width":"2m",
     "filterFloweringSeason":"autumn",
-    "filterFlowerColor":"white, yellow",
+    "filterFlowerColor":"white",
     "filterAutumnColor":"",
-    "filterFoliageColor":"green",
-    "filterFruitingSeason":"",
+    "filterFoliageColor":"green, grey",
+    "filterFruitingSeason":"winter",
     "filterStemColor":"",
     "stem":{
      "summer":"",
@@ -24625,20 +24625,20 @@
     },
     "flowerColor":{
      "summer":"",
-     "autumn":"",
+     "autumn":"white",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, grey",
+     "autumn":"green, grey",
+     "winter":"green, grey",
+     "spring":"green, grey"
     },
     "fruitingSeason":{
      "summer":"",
      "autumn":"",
-     "winter":"",
+     "winter":"orange",
      "spring":""
     },
     "treeShape":"images/icons/tree-shapes/elaeagnus/elaeagnus-general.svg",
@@ -24668,7 +24668,7 @@
     "commonName":"Argyle Apple, Silver Dollar Gum",
     "url":"eucalyptus-cinerea-argyle-apple-silver-dollar-gum",
     "mainImage":"eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum.jpg",
-    "description":"Attractive ornamental and shelter tree. Rounded silver leaves on juvenile trees. Mature trees have long leaves. Tolerates dry soils and coastal exposure.",
+    "description":"Attractive ornamental and shelter tree. Rounded silvery blue-green leaves on juvenile trees. Mature trees have long leaves. Tolerates dry soils and coastal exposure.",
     "uses":"",
     "tolerates":"coastal, windy",
     "soilType":"clay-soils, dry-soils",
@@ -24681,7 +24681,7 @@
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
     "filterAutumnColor":"",
-    "filterFoliageColor":"blue, grey",
+    "filterFoliageColor":"blue, grey, green",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -24697,10 +24697,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, grey, green",
+     "autumn":"blue, grey, green",
+     "winter":"blue, grey, green",
+     "spring":"blue, grey, green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24753,8 +24753,8 @@
     "types":"",
     "height":"8m",
     "width":"5m",
-    "filterFloweringSeason":"",
-    "filterFlowerColor":"",
+    "filterFloweringSeason":"spring",
+    "filterFlowerColor":"white",
     "filterAutumnColor":"",
     "filterFoliageColor":"blue, grey",
     "filterFruitingSeason":"",
@@ -24769,13 +24769,13 @@
      "summer":"",
      "autumn":"",
      "winter":"",
-     "spring":""
+     "spring":"white"
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, grey",
+     "autumn":"blue, grey",
+     "winter":"blue, grey",
+     "spring":"blue, grey"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24817,12 +24817,12 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
-    "filterStemColor":"",
+    "filterStemColor":"yellow, green",
     "stem":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"yellow, green",
+     "autumn":"yellow, green",
+     "winter":"yellow, green",
+     "spring":"yellow, green"
     },
     "flowerColor":{
      "summer":"",
@@ -24831,10 +24831,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24878,15 +24878,15 @@
     },
     "flowerColor":{
      "summer":"",
-     "autumn":"",
-     "winter":"",
+     "autumn":"red, pink",
+     "winter":"red, pink",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, grey",
+     "autumn":"green, grey",
+     "winter":"green, grey",
+     "spring":"green, grey"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24942,10 +24942,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"blue, green",
+     "autumn":"blue, green",
+     "winter":"blue, green",
+     "spring":"blue, green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -24995,12 +24995,12 @@
     "filterAutumnColor":"",
     "filterFoliageColor":"green",
     "filterFruitingSeason":"",
-    "filterStemColor":"",
+    "filterStemColor":"red, brown, black",
     "stem":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"red, brown, black",
+     "autumn":"red, brown, black",
+     "winter":"red, brown, black",
+     "spring":"red, brown, black"
     },
     "flowerColor":{
      "summer":"",
@@ -25009,10 +25009,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25047,7 +25047,7 @@
     "commonName":"Pinkwood, Eastern Leatherwood",
     "url":"eucryphia-moorei-pinkwood-eastern-leatherwood",
     "mainImage":"eucryphia-moorei-pinkwood-eastern-leatherwood/eucryphia-moorei-pinkwood-eastern-leatherwood.jpg",
-    "description":"Erect grower with beautiful pinnate leaves. Bears large, fragrant, single, white blossoms with prominent black stamens in late-summer. Excellent for the smaller garden or as a street tree.",
+    "description":"Erect grower with beautiful pinnate leaves. Bears large, fragrant, single, white blossoms in late-summer. Excellent for the smaller garden or as a street tree.",
     "uses":"street",
     "tolerates":"",
     "soilType":"",
@@ -25070,16 +25070,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
+     "summer":"white",
      "autumn":"",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25129,16 +25129,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"white",
+     "autumn":"white",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25192,16 +25192,16 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
+     "summer":"white",
+     "autumn":"white",
      "winter":"",
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"green",
+     "winter":"green",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25240,7 +25240,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-european-beech",
     "mainImage":"fagus-sylvatica-european-beech/fagus-sylvatica-european-beech.jpg",
-    "description":"Tall, dense, pyramidal tree with lower branches sweeping to ground. New green leaves have a silky sheen. Has cinnamon-brown autumn leaves which persist through winter and shed prior to the new leaves emerging. Popular tree for hedging and pleaching.",
+    "description":"Tall, dense, pyramidal tree with lower branches sweeping to ground. New green leaves have a silky sheen. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Popular tree for hedging and pleaching.",
     "uses":"street, hedging-and-screening, pleaching",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25252,8 +25252,8 @@
     "width":"6m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"green",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"green, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25269,10 +25269,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25311,7 +25311,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-dawyck-gold-european-beech",
     "mainImage":"fagus-sylvatica-dawyck-gold-european-beech/fagus-sylvatica-dawyck-gold-european-beech.jpg",
-    "description":"Tall, columnar tree which broadens with maturity. Bright, golden-green leaves with a shiny sheen in spring. Pale-yellow leaves through summer. Cinnamon-brown autumn leaves which drop cleanly. Ideal where space is limited. Excellent street tree.",
+    "description":"Tall, columnar tree which broadens with maturity. Bright, golden-yellow leaves with a shiny sheen in spring. Green-yellow leaves through summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Ideal where space is limited. Excellent street tree.",
     "uses":"street, narrow-sites",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25323,8 +25323,8 @@
     "width":"3m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"yellow, green",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"yellow, green, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25340,10 +25340,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"yellow, green",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"yellow"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25370,7 +25370,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-dawyck-green-european-beech",
     "mainImage":"fagus-sylvatica-dawyck-green-european-beech/fagus-sylvatica-dawyck-green-european-beech.jpg",
-    "description":"Tall, columnar tree which broadens with maturity. Deep-green leaves with a bronze tinge and shiny sheen in spring. Deep-green leaves through summer. Cinnamon-brown autumn leaves which drop cleanly. Ideal where space is limited. Excellent street tree.",
+    "description":"Tall, columnar tree which broadens with maturity. Deep-green leaves with a bronze tinge and shiny sheen in spring. Deep-green leaves through summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Ideal where space is limited. Excellent street tree.",
     "uses":"street, narrow-sites",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25382,8 +25382,8 @@
     "width":"3m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"green",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"green, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25399,10 +25399,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"green"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25433,7 +25433,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-dawyck-purple-european-beech",
     "mainImage":"fagus-sylvatica-dawyck-purple-european-beech/fagus-sylvatica-dawyck-purple-european-beech.jpg",
-    "description":"Tall, columnar tree which retains its narrow form. Deep purple-red spring leaves have a shiny sheen. Almost black leaves through summer. Cinnamon-brown autumn leaves which drop cleanly. Ideal where space is limited. Excellent street tree.",
+    "description":"Tall, columnar tree which retains its narrow form. Deep purple-red spring leaves have a shiny sheen. Purple leaves through summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Ideal where space is limited. Excellent street tree.",
     "uses":"street, narrow-sites",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25445,8 +25445,8 @@
     "width":"3m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, red, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25462,10 +25462,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple, red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25504,7 +25504,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-luteo-variegata-european-beech",
     "mainImage":"fagus-sylvatica-luteo-variegata-european-beech/fagus-sylvatica-luteo-variegata-european-beech.jpg",
-    "description":"Tall, dense, pyramidal tree with lower branches sweeping to ground. Green leaves have yellow-green variegations. Hardy.",
+    "description":"Tall, dense, pyramidal tree with lower branches sweeping to ground. Green leaves have yellow-green variegations. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Hardy.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25516,8 +25516,8 @@
     "width":"4m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"green, yellow",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"green, yellow, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25533,10 +25533,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green, yellow",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"green, yellow"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25567,7 +25567,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-pendula-european-beech",
     "mainImage":"fagus-sylvatica-pendula-european-beech/fagus-sylvatica-pendula-european-beech.jpg",
-    "description":"Forms a tall, narrow, and magnificent tree with arching side branches that weep to the ground. Glossy light-green leaves. They turn yellow and orange through autumn before cleanly dropping.",
+    "description":"Forms a tall, narrow, and magnificent tree with arching side branches that weep to the ground. Glossy light-green leaves. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25579,8 +25579,8 @@
     "width":"5m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"yellow, orange",
-    "filterFoliageColor":"green",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"green, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25590,10 +25590,10 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"green",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"green"
     },
     "foliageColor":{
      "summer":"",
@@ -25634,7 +25634,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-purple-fountain-european-beech",
     "mainImage":"fagus-sylvatica-purple-fountain-european-beech/fagus-sylvatica-purple-fountain-european-beech.jpg",
-    "description":"Grows into a columnar form with cascading side branches. The leaves are purple-black, becoming greener by summer. The autumn leaves are yellow then orange-brown.",
+    "description":"Grows into a columnar form with cascading side branches. Red new leaves in spring, deepening to purple by summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25646,8 +25646,8 @@
     "width":"3m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, red, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25663,10 +25663,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25705,7 +25705,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-purpurea-european-beech",
     "mainImage":"fagus-sylvatica-purpurea-european-beech/fagus-sylvatica-purpurea-european-beech.jpeg",
-    "description":"Forms a tall, dense, pyramidal tree with lower branches sweeping to the ground. New spring copper-red leaves have a silky sheen. Summer leaves are deep-purple, almost black. Cinnamon-brown autumn leaves persist through winter.",
+    "description":"Forms a tall, dense, pyramidal tree with lower branches sweeping to the ground. New spring copper-red leaves have a silky sheen. Summer leaves are deep-purple. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"street, hedging-and-screening, pleaching",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25717,8 +25717,8 @@
     "width":"5m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, red",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25734,10 +25734,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25772,7 +25772,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-purpurea-pendula-european-beech",
     "mainImage":"fagus-sylvatica-purpurea-pendula-european-beech/fagus-sylvatica-purpurea-pendula-european-beech.jpg",
-    "description":"Amazing form creating a mushroom-shaped dome. Foliage is a deep-purple in spring, turning bronze-green later in summer.",
+    "description":"Amazing form creating a mushroom-shaped dome. Foliage is a deep-purple in spring, turning purple-green later in summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25784,8 +25784,8 @@
     "width":"3m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, green, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25801,10 +25801,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple, green",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25835,7 +25835,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-red-obelisk-european-beech",
     "mainImage":"fagus-sylvatica-red-obelisk-european-beech/fagus-sylvatica-red-obelisk-european-beech.jpg",
-    "description":"Narrow upright form. Rich purple leaves on a columnar growing tree.",
+    "description":"Narrow upright form. Rich purple leaves on a columnar growing tree. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25847,8 +25847,8 @@
     "width":"4m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25864,10 +25864,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple"
     },
     "fruitingSeason":{
      "summer":"",
@@ -25902,7 +25902,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-riversii-european-beech",
     "mainImage":"fagus-sylvatica-riversii-european-beech/fagus-sylvatica-riversii-european-beech.jpg",
-    "description":"Large, dome-shaped tree with an open branch structure and smooth grey bark. Larger leaves than the usual purple beech. Rich, deep, purple-black, shiny leaves in spring. This colouring is held throughout the summer. Leaves drop cleanly in autumn. A magnificent specimen tree.",
+    "description":"Large, dome-shaped tree with an open branch structure and smooth grey bark. Larger leaves than the usual purple beech. Rich, deep, purple, shiny leaves in spring. This colouring is held throughout the summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. A magnificent specimen tree. ",
     "uses":"street",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25914,8 +25914,8 @@
     "width":"6m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25925,10 +25925,10 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple"
     },
     "foliageColor":{
      "summer":"",
@@ -25957,7 +25957,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-rohanii-european-beech",
     "mainImage":"fagus-sylvatica-rohanii-european-beech/fagus-sylvatica-rohanii-european-beech.jpg",
-    "description":"Tall, dense, pyramidal tree with lower branches sweeping to the ground. Smooth grey bark. Spring leaves are a deep red-purple with a silky sheen. Leaves become darker by summer. The glorious feature of this variety are the deeply-lobed, decorative, oak-like leaves. Autumn leaves drop cleanly.",
+    "description":"Tall, dense, pyramidal tree with lower branches sweeping to the ground. Smooth grey bark. Spring leaves are a deep red-purple with a silky sheen. Leaves become dark-purple by summer. The glorious feature of this variety are the deeply-lobed, decorative, oak-like leaves. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -25969,8 +25969,8 @@
     "width":"5m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, red, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -25986,10 +25986,10 @@
      "spring":""
     },
     "foliageColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple, red"
     },
     "fruitingSeason":{
      "summer":"",
@@ -26016,7 +26016,7 @@
     "commonName":"European Beech",
     "url":"fagus-sylvatica-swat-margaret-european-beech",
     "mainImage":"fagus-sylvatica-swat-margaret-european-beech/fagus-sylvatica-swat-margaret-european-beech.jpg",
-    "description":"New leaves unfold burgundy, turning dark-purple in summer, and then a rich burgundy in autumn. Holds this deep autumn colour longer than other cultivars.",
+    "description":"New leaves unfold red-purple, turning dark-purple in summer. The autumn leaves are yellow then brown through winter and shed prior to the new leaves emerging. Tends to hold its purple colouring later into autumn than other cultivars.",
     "uses":"",
     "tolerates":"windy",
     "soilType":"clay-soils, poor-draining-soils, dry-soils",
@@ -26028,8 +26028,8 @@
     "width":"5m",
     "filterFloweringSeason":"",
     "filterFlowerColor":"",
-    "filterAutumnColor":"",
-    "filterFoliageColor":"purple",
+    "filterAutumnColor":"yellow, brown",
+    "filterFoliageColor":"purple, brown",
     "filterFruitingSeason":"",
     "filterStemColor":"",
     "stem":{
@@ -26039,10 +26039,10 @@
      "spring":""
     },
     "flowerColor":{
-     "summer":"",
-     "autumn":"",
-     "winter":"",
-     "spring":""
+     "summer":"purple",
+     "autumn":"yellow, brown",
+     "winter":"brown",
+     "spring":"purple"
     },
     "foliageColor":{
      "summer":"",
