@@ -173,6 +173,11 @@ main label {
   margin-top: 3rem;
 }
 
+.region-select select {
+  max-width: 20rem;
+  width: 100%;
+}
+
 .region-select,
 .checkbox-field {
   margin-bottom: 3rem;
