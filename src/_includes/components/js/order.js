@@ -15,9 +15,9 @@ let orderTrees;
 
 function updateOrderTotal() {
   if (loggedIn) {
-    totalCostText.innerHTML = `Total: <span class="info-pill">$${totalWholesaleCost}.00+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span class="accent-color">$${totalWholesaleCost}.00+GST (excluding freight)</span>`;
   } else {
-    totalCostText.innerHTML = `Total: <span class="info-pill">$${totalRetailCost}.00+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span class="accent-color">$${totalRetailCost}.00+GST (excluding freight)</span>`;
   }
 }
 
@@ -98,10 +98,10 @@ async function updateOrder() {
       itemDiv.classList.add("order-item-details");
 
       let itemGrade = document.createElement("p");
-      itemGrade.innerHTML = `Grade Size: <span class="info-pill">${tree.grade}</span>`;
+      itemGrade.innerHTML = `Grade Size: <span class="accent-color">${tree.grade}</span>`;
 
       let itemAverageHeight = document.createElement("p");
-      itemAverageHeight.innerHTML = `Height: <span class="info-pill">${
+      itemAverageHeight.innerHTML = `Height: <span class="accent-color">${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "<span class='lowercase'>m</span>"
@@ -110,19 +110,19 @@ async function updateOrder() {
       let itemStandardHeight = document.createElement("p");
 
       if (tree.standardHeight.match(/\d+/g) !== null) {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="info-pill">${
+        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${
           tree.standardHeight + "<span class='lowercase'>m</span>"
         }</span>`;
       } else {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="info-pill">${tree.standardHeight}</span>`;
+        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${tree.standardHeight}</span>`;
       }
 
       let itemPrice = document.createElement("p");
 
       if (loggedIn) {
-        itemPrice.innerHTML = `Price: <span class="info-pill">${tree.wholesalePrice}+GST (Wholesale)</span>`;
+        itemPrice.innerHTML = `Price: <span class="accent-color">${tree.wholesalePrice}+GST (Wholesale)</span>`;
       } else {
-        itemPrice.innerHTML = `Price: <span class="info-pill">${tree.retailPrice}+GST (Retail)</span>`;
+        itemPrice.innerHTML = `Price: <span class="accent-color">${tree.retailPrice}+GST (Retail)</span>`;
       }
 
       let itemQuantity = document.createElement("input");
