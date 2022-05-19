@@ -44,7 +44,7 @@ main textarea {
   font-weight: bold;
   text-transform: uppercase;
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 1rem;
   grid-template-columns: 1fr;
 }
 
@@ -69,7 +69,6 @@ main h3 {
 .form-tree-left {
   display: grid;
   grid-gap: 2rem;
-  grid-template-rows: auto 1fr;
   grid-row-start: 2;
 }
 
@@ -197,7 +196,7 @@ main label {
 
 .tree-name {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 2;
   display: flex;
   gap: 0.25rem;
   flex-direction: column;
@@ -276,7 +275,7 @@ details b {
   }
 }
 
-@media (min-width: 550px) {
+@media (min-width: 600px) {
   .form-tree {
     grid-template-columns: repeat(2, auto);
   }
@@ -289,7 +288,14 @@ details b {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1100px) {
+  div#form-trees {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tree-name {
+    grid-column-end: 3;
+  }
   div#grid-content-left-inner {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -297,11 +303,5 @@ details b {
   #grid-content-left-inner p:last-child {
     grid-column-start: 1;
     grid-column-end: 3;
-  }
-}
-
-@media (min-width: 1100px) {
-  div#form-trees {
-    grid-template-columns: repeat(2, 1fr);
   }
 }

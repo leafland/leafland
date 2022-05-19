@@ -29,6 +29,8 @@
   grid-gap: 1rem;
   margin: auto;
   text-transform: uppercase;
+  width: 100%;
+  max-width: 80rem;
 }
 
 #order-inner ul {
@@ -78,7 +80,7 @@
 
 .order-product-name {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 2;
   display: flex;
   gap: 0.25rem;
   flex-direction: column;
@@ -201,7 +203,7 @@
   }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 600px) {
   .order-product {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -215,6 +217,9 @@
 @media (min-width: 1100px) {
   div#order-inner ul {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .order-product-name {
+    grid-column-end: 3;
   }
 }
 
