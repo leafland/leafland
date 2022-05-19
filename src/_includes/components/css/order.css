@@ -37,7 +37,7 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
-  max-width:80rem
+  max-width: 80rem;
 }
 
 #order-content {
@@ -77,11 +77,20 @@
 }
 
 .order-product-name {
-  margin-bottom: 2rem;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+  gap: 0.25rem;
+  flex-direction: column;
+}
+
+.order-product-left {
+  grid-row-start: 2;
 }
 
 .order-product-right {
   justify-self: start;
+  grid-row-start: 3;
 }
 
 .order-botanical-name {
@@ -96,20 +105,13 @@
 .order-common-name {
   text-align: left;
   font-size: var(--font-size-2);
-  color: var(--primary-text);
-  margin-top: 0.3rem;
+  color: var(--accent-color);
   display: inline-block;
-  padding: 0.3rem 0.6rem;
-  border-radius: 8px;
-  border: 2px solid var(--primary-text);
-  font-weight: bold;
-  transition: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
-}
-
-.order-common-name:hover {
-  color: var(--secondary-background);
-  background: var(--primary-text);
-  cursor: pointer;
+  /* padding: 0.3rem 0.6rem; */
+  /* border-radius: 8px; */
+  /* border: 2px solid var(--primary-text); */
+  font-weight: 700;
+  /* transition: all .4s cubic-bezier(.31,.87,.32,1); */
 }
 
 .order-product p {
@@ -183,9 +185,6 @@
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .order-product h2 a:hover {
-    color: var(--brand-color);
-  }
   #submit-order:hover,
   #close-order:hover {
     background: var(--primary-text);
@@ -196,6 +195,10 @@
     color: var(--secondary-background);
     border-color: var(--primary-text);
   }
+  .order-common-name:hover {
+    color: var(--primary-text);
+    cursor: pointer;
+  }
 }
 
 @media (min-width: 450px) {
@@ -204,6 +207,8 @@
   }
   .order-product-right {
     justify-self: end;
+    grid-row-start: 2;
+    grid-column-start: 2;
   }
 }
 

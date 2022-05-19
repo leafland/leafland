@@ -245,7 +245,7 @@ async function updateOrder() {
         window.dispatchEvent(orderUpdated);
       });
 
-      leftDiv.appendChild(nameDiv);
+      // leftDiv.appendChild(nameDiv);
       leftDiv.appendChild(itemDiv);
       itemDiv.appendChild(itemGrade);
       itemDiv.appendChild(itemAverageHeight);
@@ -256,6 +256,7 @@ async function updateOrder() {
 
       rightDiv.appendChild(itemImage);
 
+      listItem.appendChild(nameDiv);
       listItem.appendChild(leftDiv);
       listItem.appendChild(rightDiv);
 

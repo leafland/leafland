@@ -99,8 +99,6 @@ async function populateForm() {
       treeNameDiv.appendChild(treeUrlCommon);
     }
 
-    formTreeLeft.appendChild(treeNameDiv);
-
     let treeInfoDiv = document.createElement("div");
     treeInfoDiv.classList.add("tree-info");
 
@@ -155,6 +153,7 @@ async function populateForm() {
 
     formTreeRight.appendChild(treeImage);
 
+    formTree.appendChild(treeNameDiv);
     formTree.appendChild(formTreeLeft);
     formTree.appendChild(formTreeRight);
 
