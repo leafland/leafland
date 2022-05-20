@@ -35096,7 +35096,7 @@
     "commonName": "American Sweetgum",
     "url": "liquidambar-styraciflua-worplesdon-american-sweetgum",
     "mainImage": "liquidambar-styraciflua-worplesdon-american-sweetgum/liquidambar-styraciflua-worplesdon-american-sweetgum.jpg",
-    "description": "Upright, pyramidal form with outer branches that gracefully droop. The maple-shaped leaves are finely-cut and deeply-lobed. Striking autumn leaves are red, orange, and yellow. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
+    "description": "Upright, pyramidal form with outer branches that gracefully droop. The maple-shaped leaves are finely-cut and deeply-lobed. Striking autumn leaves are purple, red, orange, and yellow. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
     "uses": "street, pleaching, driveways-and-avenues",
     "tolerates": "",
     "soilType": "",
@@ -35108,7 +35108,7 @@
     "width": "4m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "red, orange, yellow",
+    "filterAutumnColor": "red, orange, yellow, purple",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
@@ -35419,16 +35419,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35506,16 +35506,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35581,16 +35581,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, white",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, white"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35632,24 +35632,24 @@
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterStemColor": "pink, orange, brown",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "pink, orange, brown",
+      "autumn": "pink, orange, brown",
+      "winter": "pink, orange, brown",
+      "spring": "pink, orange, brown"
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35721,10 +35721,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35747,7 +35747,7 @@
     "commonName": "",
     "url": "loquat-golden-orb",
     "mainImage": "loquat-golden-orb/loquat-golden-orb.jpg",
-    "description": "Coastal-hardy tree with yellow-fleshed, easy to peel, sweet fruit reminiscent of apricots in early summer. Excellent for large containers. Well suited to gardens of all sizes. Self-fertile.",
+    "description": "Coastal-hardy tree with yellow-orange skinned, yellow-fleshed, easy to peel, sweet fruit reminiscent of apricots in early summer. Excellent for large containers. Well suited to gardens of all sizes. Self-fertile.",
     "uses": "",
     "tolerates": "coastal",
     "soilType": "",
@@ -35761,7 +35761,7 @@
     "filterFlowerColor": "",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "summer",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -35776,13 +35776,13 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -35797,7 +35797,7 @@
     "commonName": "",
     "url": "loquat-japonica",
     "mainImage": "loquat-japonica/loquat-japonica.jpg",
-    "description": "Also known as Eriobotrya japonica. Clusters of small, white flowers in winter. Fruit ripens from early-spring to early-summer. Flavour is sweet-tart, similar to a plum or cherry. Prefers moist, well-drained soil in full-sun, but will tolerate partial shade. Drought-tolerant once established. Self-fertile.",
+    "description": "Also known as Eriobotrya japonica. Clusters of small, white flowers in winter. Yellow-orange fruit ripens from early-spring to early-summer. Flavour is sweet-tart, similar to a plum or cherry. Prefers moist, well-drained soil in full-sun, but will tolerate partial shade. Drought-tolerant once established. Self-fertile.",
     "uses": "",
     "tolerates": "drought",
     "soilType": "dry-soils",
@@ -35822,20 +35822,20 @@
     "flowerColor": {
       "summer": "",
       "autumn": "",
-      "winter": "",
+      "winter": "white",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, orange"
     },
     "treeShape": "images/icons/tree-shapes/loquat/loquat-general.svg",
     "relatedTrees": [],
@@ -35878,7 +35878,7 @@
     "filterFlowerColor": "pink",
     "filterAutumnColor": "",
     "filterFoliageColor": "green, red, purple",
-    "filterFruitingSeason": "summer, spring",
+    "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -35890,13 +35890,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "red, purple",
+      "winter": "red, purple",
+      "spring": "red, purple"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35947,7 +35947,7 @@
     "commonName": "",
     "url": "macadamia-beaumont",
     "mainImage": "macadamia-beaumont/macadamia-beaumont.jpg",
-    "description": "New leaves are red-maroon, and bright-pink flowers are produced from spring to summer. Begins bearing macadamia nuts young and improves with age. Nuts are borne from summer to autumn. Partially self-fertile, but produces better crops when planted with another macadamia variety.",
+    "description": "New leaves are red-maroon, and bright-pink flowers are produced from spring to summer. Begins bearing macadamia nuts young and improves with age. Brown nuts in a green husk are borne from summer to autumn. Partially self-fertile, but produces better crops when planted with another macadamia variety.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -35970,20 +35970,20 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, brown",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
@@ -36014,7 +36014,7 @@
     "commonName": "",
     "url": "macadamia-gt-205",
     "mainImage": "macadamia-gt-205/macadamia-gt-205.jpeg",
-    "description": "Bred to withstand cooler and wetter growing conditions. Produces from an early age. Nuts will drop in mid-spring to early-summer, but can be hand-picked before that. Heavy yields of nuts with a high oil content. Excellent for roasting. Needs cross-pollination with another macadamia variety.",
+    "description": "Bred to withstand cooler and wetter growing conditions. Produces from an early age. Brown nuts in a green shell will drop in mid-spring to early-summer, but can be hand-picked before that. Heavy yields of nuts with a high oil content. Excellent for roasting. Needs cross-pollination with another macadamia variety. Pink flowers in spring and summer.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -36024,8 +36024,8 @@
     "types": "edible",
     "height": "5m",
     "width": "4m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "spring, summer",
+    "filterFlowerColor": "pink",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "winter, spring, summer",
@@ -36037,22 +36037,22 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "brown, green",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "brown, green",
+      "spring": "brown, green"
     },
     "treeShape": "images/icons/tree-shapes/macadamia/macadamia-general.svg",
     "relatedTrees": [],
@@ -36069,7 +36069,7 @@
     "commonName": "",
     "url": "macadamia-gt-207",
     "mainImage": "macadamia-gt-207/macadamia-gt-207.jpeg",
-    "description": "A very good home garden nut tree. High oil content, and it will drop ripe nuts, making harvesting easier. Early-season nuts drop in mid-autumn to early-winter. Needs cross-pollination with another macadamia variety.",
+    "description": "A very good home garden nut tree. High oil content, and it will drop ripe nuts, making harvesting easier. Early-season nuts drop in mid-autumn to early-winter. Needs cross-pollination with another macadamia variety. Pink flowers in spring and summer.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -36079,8 +36079,8 @@
     "types": "edible",
     "height": "5m",
     "width": "4m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "spring, summer",
+    "filterFlowerColor": "pink",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "autumn, winter",
@@ -36092,21 +36092,21 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "brown, green",
+      "winter": "brown, green",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/macadamia/macadamia-general.svg",
@@ -36150,13 +36150,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36205,13 +36205,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36272,13 +36272,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36322,13 +36322,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red, pink, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36429,13 +36429,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36484,13 +36484,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36543,13 +36543,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -36623,16 +36623,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
