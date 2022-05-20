@@ -33455,16 +33455,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "pink",
+      "autumn": "pink",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33499,7 +33499,7 @@
     "commonName": "Japanese Larch",
     "url": "larix-kaempferi-japanese-larch",
     "mainImage": "larix-kaempferi-japanese-larch/larix-kaempferi-japanese-larch.jpg",
-    "description": "Soft, blue-green leaves turn white-green in autumn before dropping. The bare red-brown branches are a winter feature. Very amenable to pruning and shaping. Makes an excellent container plant.",
+    "description": "Soft, blue-green leaves turn yellow and orange in autumn before dropping. The bare red-brown branches on young trees are a winter feature. Very amenable to pruning and shaping. Makes an excellent container plant.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -33511,15 +33511,15 @@
     "width": "4m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterAutumnColor": "yellow, orange",
+    "filterFoliageColor": "green, blue",
     "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterStemColor": "red, brown",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, brown",
+      "autumn": "red, brown",
+      "winter": "red, brown",
+      "spring": "red, brown"
     },
     "flowerColor": {
       "summer": "",
@@ -33528,10 +33528,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, blue",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green, blue"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33589,16 +33589,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, white",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33650,10 +33650,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33688,7 +33688,7 @@
     "commonName": "Sweet Bay, Bay Laurel",
     "url": "laurus-nobilis-baygold-sweet-bay-bay-laurel",
     "mainImage": "laurus-nobilis-baygold-sweet-bay-bay-laurel/laurus-nobilis-baygold-sweet-bay-bay-laurel.jpg",
-    "description": "Forms a compact, pyramidal shape with leathery, golden-yellow leaves, used for flavouring food. Very amenable to pruning and shaping into any form. Can make a dense, aromatic hedge. Excellent for coastal gardens.",
+    "description": "Forms a compact, pyramidal shape with leathery leaves used for flavouring food. New leaves are golden-yellow, fading to green. Very amenable to pruning and shaping into any form. Can make a dense, aromatic hedge. Excellent for coastal gardens.",
     "uses": "hedging-and-screening, small-garden, topiary",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -33717,10 +33717,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33776,10 +33776,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33835,10 +33835,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33888,16 +33888,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "purple, red",
+      "autumn": "purple, red",
+      "winter": "purple, red",
+      "spring": "purple, red"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33962,13 +33962,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34026,16 +34026,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red, pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34130,7 +34130,7 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "purple, red, green",
+    "filterFoliageColor": "purple, red",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -34143,13 +34143,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "purple, red",
+      "autumn": "purple, red",
+      "winter": "purple, red",
+      "spring": "purple, red"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34190,16 +34190,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "green, purple",
+      "winter": "green, purple",
+      "spring": "green, purple"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34248,13 +34248,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, green",
+      "autumn": "red, green",
+      "winter": "red, green",
+      "spring": "red, green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34272,7 +34272,7 @@
     "commonName": "Mānuka",
     "url": "leptospermum-scoparium-wiri-donna-manuka",
     "mainImage": "leptospermum-scoparium-wiri-donna-manuka/leptospermum-scoparium-wiri-donna-manuka.jpg",
-    "description": "Bears large, single, crimson flowers in spring. These contrast well with the beautiful, bronze foliage. Hardy tree that prefers full sun with free-draining soil. Frost and drought tolerant once established.",
+    "description": "Bears large, single, crimson flowers in spring. These contrast well with the beautiful, purple-red foliage. Hardy tree that prefers full sun with free-draining soil. Frost and drought tolerant once established.",
     "uses": "attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -34285,7 +34285,7 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green, red, purple",
+    "filterFoliageColor": "red, purple",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -34298,13 +34298,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, purple",
+      "autumn": "red, purple",
+      "winter": "red, purple",
+      "spring": "red, purple"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34344,7 +34344,7 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green, red, purple",
+    "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -34357,13 +34357,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34419,10 +34419,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34453,7 +34453,7 @@
     "commonName": "Chinese Sweetgum",
     "url": "liquidambar-acalycina-chinese-sweetgum",
     "mainImage": "liquidambar-acalycina-chinese-sweetgum/liquidambar-acalycina-chinese-sweetgum.jpg",
-    "description": "A Chinese species with large, three-lobed leaves. Rich, purple-bronze new spring leaves. Autumn leaves are gorgeous apricot-orange and yellow. They persist on the trees well into winter. Smooth bark. Dense, conical growth habit.",
+    "description": "A Chinese species with large, three-lobed leaves. Rich, purple-bronze new spring leaves. Autumn leaves are gorgeous apricot-orange and yellow. They persist on the tree well into winter. Smooth bark. Dense, conical growth habit.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -34482,10 +34482,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34549,10 +34549,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, purple, red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34664,10 +34664,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34714,10 +34714,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, purple, red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34764,10 +34764,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, green",
+      "autumn": "yellow, purple, red",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34819,10 +34819,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, purple, red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34890,10 +34890,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "purple, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -34957,10 +34957,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "purple, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35012,10 +35012,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35075,10 +35075,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "purple, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35096,7 +35096,7 @@
     "commonName": "American Sweetgum",
     "url": "liquidambar-styraciflua-worplesdon-american-sweetgum",
     "mainImage": "liquidambar-styraciflua-worplesdon-american-sweetgum/liquidambar-styraciflua-worplesdon-american-sweetgum.jpg",
-    "description": "Upright, pyramidal form with outer branches that gracefully droop. The maple-shaped leaves are finely-cut and deeply-lobed. Striking autumn leaves are pale-orange and apricot before turning scarlet and purple. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
+    "description": "Upright, pyramidal form with outer branches that gracefully droop. The maple-shaped leaves are finely-cut and deeply-lobed. Striking autumn leaves are red, orange, and yellow. In dry soil, produces a taproot that helps reinforce it against wind, but in wetter soil, only grows superficial roots and cannot tolerate much wind.",
     "uses": "street, pleaching, driveways-and-avenues",
     "tolerates": "",
     "soilType": "",
@@ -35108,7 +35108,7 @@
     "width": "4m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "purple, red, orange",
+    "filterAutumnColor": "red, orange, yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
@@ -35125,10 +35125,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35202,16 +35202,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35273,16 +35273,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -35337,7 +35337,7 @@
     "commonName": "Tulip Tree",
     "url": "liriodendron-tulipifera-allenton-gold-tulip-tree",
     "mainImage": "liriodendron-tulipifera-allenton-gold-tulip-tree/liriodendron-tulipifera-allenton-gold-tulip-tree.jpg",
-    "description": "This selection of Liriodendron tulipifera has beautiful, butter-yellow leaves. Autumn colour is a deeper gold. Has a neat, broadly-conical growth habit. Grows slower than Liriodendron tulipifera. Yellow foliage is more susceptible to burn in very hot conditions. Fragrant yellow, orange-banded, tulip-shaped flowers are borne in summer.",
+    "description": "Has beautiful, butter-yellow leaves in spring, fading to yellow-green in summer. Autumn colour is a deep-gold. Has a neat, broadly-conical growth habit. Grows slower than Liriodendron tulipifera. Yellow foliage is more susceptible to burn in very hot conditions. Fragrant yellow, orange-banded, tulip-shaped flowers are borne in summer.",
     "uses": "attracts-bees, paddocks",
     "tolerates": "",
     "soilType": "",
@@ -35350,7 +35350,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "yellow, orange",
     "filterAutumnColor": "yellow",
-    "filterFoliageColor": "yellow",
+    "filterFoliageColor": "yellow, green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -35360,16 +35360,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruitingSeason": {
       "summer": "",
