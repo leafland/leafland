@@ -30637,17 +30637,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -30670,7 +30670,7 @@
     "commonName": "",
     "url": "hazelnut-barcelona",
     "mainImage": "hazelnut-barcelona/hazelnut-barcelona.jpg",
-    "description": "A vigorous grower and good producer of large nuts. Harvest nuts in late-summer to early-autumn. Pollinators include Butler, Merveille de Bowillier, and Tonda di Giffoni.",
+    "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Butler, Merveille de Bowillier, and Tonda di Giffoni.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -30699,14 +30699,14 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
-      "autumn": "",
+      "summer": "red, orange, brown",
+      "autumn": "red, orange, brown",
       "winter": "",
       "spring": ""
     },
@@ -30725,7 +30725,7 @@
     "commonName": "",
     "url": "hazelnut-whiteheart",
     "mainImage": "hazelnut-whiteheart/hazelnut-whiteheart.jpg",
-    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest nuts in late-summer to early-autumn. Pollinators include Alexandra, Auckland No. 2, and Merveille de Bollwiller.",
+    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Alexandra, Auckland No. 2, and Merveille de Bollwiller.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -30754,14 +30754,14 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
-      "autumn": "",
+      "summer": "red, orange, brown",
+      "autumn": "red, orange, brown",
       "winter": "",
       "spring": ""
     },
@@ -30794,7 +30794,7 @@
     "filterFlowerColor": "white",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn, winter",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -30803,21 +30803,21 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "orange",
+      "winter": "orange",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/hedycarya/hedycarya-general.svg",
@@ -30839,7 +30839,7 @@
     "commonName": "Rose of Sharon",
     "url": "hibiscus-syriacus-snowdrift-rose-of-sharon",
     "mainImage": "hibiscus-syriacus-snowdrift-rose-of-sharon/hibiscus-syriacus-snowdrift-rose-of-sharon.jpg",
-    "description": "A multi-stemmed grower. Large, single, white flowers smother this bush through summer. Grows equally well in cold and hot climates. Prune by half after flowering to promote new stems to flower the next summer.",
+    "description": "A multi-stemmed grower. Large, single, white flowers smother this bush from mid-summer to early-autumn. Grows equally well in cold and hot climates. Prune by half after flowering to promote new stems to flower the next summer.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -30849,7 +30849,7 @@
     "types": "",
     "height": "3m",
     "width": "3m",
-    "filterFloweringSeason": "summer",
+    "filterFloweringSeason": "summer, autumn",
     "filterFlowerColor": "white",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
@@ -30862,16 +30862,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "white",
+      "autumn": "white",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30921,16 +30921,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -30996,16 +30996,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31059,16 +31059,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31118,16 +31118,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31168,16 +31168,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "green, purple",
+      "winter": "green, purple",
+      "spring": "green, purple"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31227,16 +31227,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31286,16 +31286,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "green  purple",
+      "winter": "green, purple",
+      "spring": "green, purple"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31336,16 +31336,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
