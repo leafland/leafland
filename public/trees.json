@@ -31388,7 +31388,7 @@
     "commonName": "Female Igiri Tree",
     "url": "idesia-polycarpa-female-female-igiri-tree",
     "mainImage": "idesia-polycarpa-female-female-igiri-tree/idesia-polycarpa-female-female-igiri-tree.jpg",
-    "description": "Has a tiered horizontal branch structure and a broad crown. Grafted female form to give berries but requires Idesia polycarpa 'Male' for pollination. Yellow autumn leaves.",
+    "description": "Has a tiered horizontal branch structure and a broad crown. Produces red berries in autumn but requires Idesia polycarpa 'Male' for pollination. Both male and female forms produce small, yellow-green flowers in summer. Yellow autumn leaves.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -31398,11 +31398,11 @@
     "types": "",
     "height": "7m",
     "width": "6m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "summer",
+    "filterFlowerColor": "yellow, green",
     "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -31411,20 +31411,20 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -31459,7 +31459,7 @@
     "commonName": "Male Igiri Tree",
     "url": "idesia-polycarpa-male-male-igiri-tree",
     "mainImage": "idesia-polycarpa-male-male-igiri-tree/idesia-polycarpa-male-male-igiri-tree.jpg",
-    "description": "Has a tiered horizontal branch structure and a broad crown. Handsome heart-shaped leaves. Yellow autumn leaves. Pollinator for Idesia polycarpa 'Female'.",
+    "description": "Has a tiered horizontal branch structure and a broad crown. Handsome heart-shaped leaves. Both male and female forms produce small, yellow-green flowers in summer. Yellow autumn leaves. Pollinator for Idesia polycarpa 'Female'.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -31469,8 +31469,8 @@
     "types": "",
     "height": "7m",
     "width": "6m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "summer",
+    "filterFlowerColor": "yellow, green",
     "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
@@ -31482,16 +31482,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31532,7 +31532,7 @@
     "filterFlowerColor": "",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "winter",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -31547,15 +31547,15 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
       "autumn": "",
-      "winter": "",
+      "winter": "red",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/ilex/ilex-upright.svg",
@@ -31585,7 +31585,7 @@
     "commonName": "Japanese Holly",
     "url": "ilex-crenata-sky-pencil-japanese-holly",
     "mainImage": "ilex-crenata-sky-pencil-japanese-holly/ilex-crenata-sky-pencil-japanese-holly.jpg",
-    "description": "Narrow, columnar-growing with small, dark blue-green, spineless leaves. Great as a screen which doesn't need side pruning. Excellent for containers and to use as focal points in the contemporary garden.",
+    "description": "Narrow, columnar-growing with small, dark-green, spineless leaves. Great as a screen which doesn't need side pruning. Excellent for containers and to use as focal points in the contemporary garden.",
     "uses": "hedging-and-screening, narrow-sites, small-garden",
     "tolerates": "",
     "soilType": "",
@@ -31614,10 +31614,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31685,10 +31685,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31715,7 +31715,7 @@
     "commonName": "Female Blue Angel Holly",
     "url": "ilex-x-meserveae-blue-angel-female-blue-angel-holly",
     "mainImage": "ilex-x-meserveae-blue-angel-female-blue-angel-holly/ilex-x-meserveae-blue-angel-female-blue-angel-holly.jpg",
-    "description": "Dark, blue-green, soft, spiny leaves with purple-black stems. A slow, dense, upright grower. Profusion of small, white spring blossoms. Plant in combination with pollinator Ilex 'Blue Prince' to attain scarlet red berries. Tolerates semi-shade and cold conditions.",
+    "description": "Dark, blue-green, soft, spiny leaves with purple-black stems. A slow, dense, upright grower. Profusion of small, white blossoms in summer. Plant in combination with pollinator Ilex 'Blue Prince' to attain scarlet red berries in autumn. Tolerates semi-shade and cold conditions.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -31725,33 +31725,33 @@
     "types": "",
     "height": "3m",
     "width": "2m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "summer",
+    "filterFlowerColor": "white",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterFoliageColor": "green, blue",
+    "filterFruitingSeason": "autumn",
+    "filterStemColor": "purple, black",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "purple, black",
+      "autumn": "purple, black",
+      "winter": "purple, black",
+      "spring": "purple, black"
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -31782,7 +31782,7 @@
     "commonName": "Male Blue Prince Holly",
     "url": "ilex-x-meserveae-blue-prince-male-blue-prince-holly",
     "mainImage": "ilex-x-meserveae-blue-prince-male-blue-prince-holly/ilex-x-meserveae-blue-prince-male-blue-prince-holly.jpg",
-    "description": "Dark, blue-green, spiny leaves and purple-black stems are a feature of this slow, dense, bushy grower. A profusion of small, white spring flowers. Grow as a companion pollinator to Ilex 'Blue Angel'. Excellent hedging plant. Tolerates semi-shade and cold conditions.",
+    "description": "Dark, blue-green, spiny leaves and purple-black stems are a feature of this slow, dense, bushy grower. A profusion of small, white summer flowers. Grow as a companion pollinator to Ilex 'Blue Angel'. Excellent hedging plant. Tolerates semi-shade and cold conditions.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -31792,29 +31792,29 @@
     "types": "",
     "height": "3m",
     "width": "2m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "summer",
+    "filterFlowerColor": "white",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, blue",
     "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterStemColor": "purple, black",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "purple, black",
+      "autumn": "purple, black",
+      "winter": "purple, black",
+      "spring": "purple, black"
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31860,16 +31860,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "purple, blue",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, blue"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -31977,14 +31977,14 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "brown",
       "winter": "",
       "spring": ""
     },
@@ -32015,7 +32015,7 @@
     "commonName": "English Walnut",
     "url": "juglans-regia-english-walnut",
     "mainImage": "juglans-regia-english-walnut/juglans-regia-english-walnut.jpg",
-    "description": "A slow-growing tree with a wide-spreading, rounded head. Great tree for paddock planting. Easy to crack walnuts are produced around fifteen years from planting. Catkins in late-spring to early-summer are a source of pollen for bees. Self-fertile, but better crops when planted with another walnut variety.",
+    "description": "A slow-growing tree with a wide-spreading, rounded head. Great tree for paddock planting. Easy to crack walnuts are produced in autumn around fifteen years from planting. Yellow-green catkins in late-spring to early-summer are a source of pollen for bees. Self-fertile, but better crops when planted with another walnut variety.",
     "uses": "paddocks, shade, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -32026,10 +32026,10 @@
     "height": "10m",
     "width": "8m",
     "filterFloweringSeason": "spring, summer",
-    "filterFlowerColor": "",
-    "filterAutumnColor": "",
+    "filterFlowerColor": "yellow, green",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -32038,20 +32038,20 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "brown",
       "winter": "",
       "spring": ""
     },
@@ -32094,10 +32094,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32169,10 +32169,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, grey",
+      "autumn": "blue, grey",
+      "winter": "blue, grey",
+      "spring": "blue, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32238,16 +32238,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32291,7 +32291,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "yellow",
     "filterAutumnColor": "yellow",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, pink",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -32301,16 +32301,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32388,16 +32388,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32455,16 +32455,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32499,7 +32499,7 @@
     "commonName": "Weeping Scotch Laburnum",
     "url": "laburnum-alpinum-pendulum-weeping-scotch-laburnum",
     "mainImage": "laburnum-alpinum-pendulum-weeping-scotch-laburnum/laburnum-alpinum-pendulum-weeping-scotch-laburnum.jpg",
-    "description": "Weeping tree with beautiful golden-yellow blossoms in summer. Grows best with full sun in soil that won't dry out over summer. Can be grown over an archway.",
+    "description": "Weeping tree with beautiful golden-yellow blossoms in late-spring. Grows best with full sun in soil that won't dry out over summer. Can be grown over an archway.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -32509,7 +32509,7 @@
     "types": "weeping",
     "height": "3m",
     "width": "3m",
-    "filterFloweringSeason": "summer",
+    "filterFloweringSeason": "spring",
     "filterFlowerColor": "yellow",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
@@ -32525,13 +32525,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32590,13 +32590,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "flowerColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "foliageColor": {
       "summer": "",
@@ -32664,16 +32664,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red, pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32720,7 +32720,7 @@
     "commonName": "Crepe Myrtle",
     "url": "lagerstroemia-crimson-red-crepe-myrtle",
     "mainImage": "lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle.jpg",
-    "description": "Has beautiful deep-purple to black foliage that emerges in early-spring. Masses of vivid crimson-red flowers cover the tree from summer.",
+    "description": "Has beautiful deep red-purple to black foliage that emerges in early-spring. Masses of vivid crimson-red flowers cover the tree from summer. Orange and red autumn leaves.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -32732,8 +32732,8 @@
     "width": "3m",
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
-    "filterAutumnColor": "",
-    "filterFoliageColor": "purple",
+    "filterAutumnColor": "orange, red",
+    "filterFoliageColor": "purple, red, black",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -32743,16 +32743,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple, red, black",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "purple, red, black"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32811,7 +32811,7 @@
     "width": "3m",
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "pink, purple",
-    "filterAutumnColor": "yellow",
+    "filterAutumnColor": "yellow, orange, red",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
@@ -32822,16 +32822,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -32913,16 +32913,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33000,16 +33000,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red, pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33087,16 +33087,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33166,16 +33166,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33225,16 +33225,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33280,16 +33280,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33355,16 +33355,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -33405,16 +33405,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red, pink",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
