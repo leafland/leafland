@@ -70,36 +70,34 @@ h6 {
   --global-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
     "Helvetica Neue", Arial, sans-serif;
-  --accent-color: #119822;
+
+  --accent-color: lch(55%, 74, 139);
+  --accent-color: hsl(128, 80%, 33%);
+
+  --brand-color: lch(55%, 74, 139);
   --brand-color: hsl(128, 80%, 33%);
-  --brand-hue: 128;
-  --brand-saturation: 80%;
-  --brand-lightness: 33%;
 
-  --brand-light: hsl(
-    var(--brand-hue) var(--brand-saturation) var(--brand-lightness)
-  );
+  --primary-text: lch(15%, 29, 142);
+  --primary-text: hsl(128, 80%, 10%);
 
-  --primary-text: hsl(var(--brand-hue) var(--brand-saturation) 10%);
-  --secondary-text: hsl(var(--brand-hue) 30% 30%);
-  --image-text: hsl(var(--brand-hue) 20% 85%);
+  --primary-background: lch(88%, 9, 148);
+  --primary-background: hsl(128, 20%, 85%);
 
-  --primary-background: hsl(var(--brand-hue) 20% 85%);
-  --secondary-background: hsl(var(--brand-hue) 20% 99%);
+  --secondary-background: lch(99%, 1, 149);
+  --secondary-background: hsl(128, 20%, 99%);
 
-  --image-background: hsl(var(--brand-hue) 20% 85%);
+  --image-background: lch(88%, 9, 148);
+  --image-background: hsl(128, 20%, 85%);
 
-  --border-color: hsl(var(--brand-hue) 20% 85%);
+  --border-color: lch(88%, 9, 148);
+  --border-color: hsl(128, 20%, 85%);
 
-  --button-background: hsl(var(--brand-hue) 20% 99%);
-  --button-background-hover: hsl(var(--brand-hue) 20% 85%);
+  --button-background: lch(99%, 1, 149);
+  --button-background: hsl(128, 20%, 99%);
 
-  --brand-dark: hsl(
-    var(--brand-hue) calc(var(--brand-saturation) / 2)
-      calc(var(--brand-lightness) / 1.5)
-  );
+  --button-background-hover: lch(88%, 9, 148);
+  --button-background-hover: hsl(128, 20%, 85%);
 
-  --shadow-color: 128deg 10% 67%;
   --default-animation-easing: cubic-bezier(0.31, 0.87, 0.32, 1);
 
   --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
@@ -111,22 +109,6 @@ h6 {
   --font-size-7: clamp(1.25rem, 1rem + 3vw, 4.5rem);
   --font-size-8: clamp(1.5rem, 1rem + 5vw, 5.5rem);
 }
-
-/* [data-theme="dark"] {
-  --primary-text: hsl(var(--brand-hue) 15% 85%);
-  --secondary-text: hsl(var(--brand-hue) 5% 65%);
-  --image-text: hsl(var(--brand-hue) 5% 65%);
-
-  --primary-background: hsl(var(--brand-hue) 5% 25%);
-  --secondary-background: hsl(var(--brand-hue) 10% 15%);
-
-  --image-background: hsl(var(--brand-hue) 5% 25%);
-
-  --border-color: hsl(var(--brand-hue) 5% 25%);
-
-  --button-background: hsl(var(--brand-hue) 10% 15%);
-  --button-background-hover: hsl(var(--brand-hue) 5% 25%);
-} */
 
 @keyframes fadeInAnimation {
   0% {
@@ -534,7 +516,6 @@ body.main-menu-open {
   bottom: 0;
 }
 
-
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,
   .button:hover,
@@ -552,10 +533,11 @@ body.main-menu-open {
     color: var(--brand-color);
   }
 
-  #content-inner .button:hover, #content-grid .button:hover{
+  #content-inner .button:hover,
+  #content-grid .button:hover {
     cursor: pointer;
     background-color: var(--primary-text);
-    color: var(--secondary-background)
+    color: var(--secondary-background);
   }
 
   #subscribe-form button[type="submit"]:hover {
@@ -583,17 +565,17 @@ body.main-menu-open {
   } */
 }
 
-@media (min-width: 1050px){
+@media (min-width: 1050px) {
   div#footer-links {
     grid-template-columns: repeat(3, auto);
   }
 
   #footer-links p:first-child {
-    text-align:left
+    text-align: left;
   }
-  
+
   #footer-links p:last-child {
-    text-align:right
+    text-align: right;
   }
 }
 
