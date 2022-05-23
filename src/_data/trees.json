@@ -41601,8 +41601,8 @@
     "commonName": "Crabapple",
     "url": "malus-arrow-gold-crabapple",
     "mainImage": "malus-arrow-gold-crabapple/malus-arrow-gold-crabapple.jpg",
-    "description": "Bunches of large, white-pink blossoms in mid-spring. An autumn profusion of large, clear-yellow crabapples are borne on branches. Can be made into jelly. Excellent variety to pleach or espalier.",
-    "uses": "attracts-bees",
+    "description": "Bunches of large, white-pink blossoms in mid-spring. An autumn profusion of large, clear-yellow crabapples are borne on branches. Can be made into jelly. Excellent variety to pleach or espalier. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41613,9 +41613,9 @@
     "width": "3m",
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "pink, white",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow, orange",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41627,17 +41627,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "yellow",
       "winter": "",
       "spring": ""
     },
@@ -41664,8 +41664,8 @@
     "commonName": "Siberian Crabapple",
     "url": "malus-baccata-jackii-siberian-crabapple",
     "mainImage": "malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple.jpg",
-    "description": "Broad-headed, upright grower with dark-green, disease-resistant leaves. Shell-pink buds open to large, white flowers in spring. Small, maroon-red crabapples in autumn with yellow leaves. Great all-round tree, tolerating urban pollution. Ideal for avenues and as a street tree.",
-    "uses": "attracts-bees",
+    "description": "Broad-headed, upright grower with dark-green leaves. Shell-pink buds open to large, white flowers in spring. Small, maroon-red crabapples in autumn. Great all-round tree, tolerating urban pollution. Ideal for avenues and as a street tree. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41675,10 +41675,10 @@
     "height": "4m",
     "width": "3m",
     "filterFloweringSeason": "spring",
-    "filterFlowerColor": "white",
-    "filterAutumnColor": "",
+    "filterFlowerColor": "pink, white",
+    "filterAutumnColor": "yellow, orange",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41690,17 +41690,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -41735,8 +41735,8 @@
     "commonName": "Crabapple",
     "url": "malus-ballerina-maypole-crabapple",
     "mainImage": "malus-ballerina-maypole-crabapple/malus-ballerina-maypole-crabapple.jpg",
-    "description": "Columnar growth habit. Large, carmine-red blossoms nestle among the new copper-red leaves in spring. Large, purple-red crabapples stud the branches from late summer.",
-    "uses": "narrow-sites, attracts-bees",
+    "description": "Columnar growth habit. Large, carmine-red blossoms nestle among the new copper-red leaves in spring. Large, dark-red crabapples stud the branches in autumn.",
+    "uses": "narrow-sites, attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41748,8 +41748,8 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red, pink",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFoliageColor": "green, red",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41761,17 +41761,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -41790,8 +41790,8 @@
     "commonName": "Crabapple",
     "url": "malus-barbara-ann-crabapple",
     "mainImage": "malus-barbara-ann-crabapple/malus-barbara-ann-crabapple.jpg",
-    "description": "Fragrant, double, pink blossoms in spring contrast with the new red leaves. An upright, open grower very suited to training such as espaliering. Small, dark red-purple crabapples persist on the tree until devoured by birds in winter.",
-    "uses": "attracts-bees",
+    "description": "Fragrant, double, pink blossoms in spring contrast with the new red leaves. An upright, open grower very suited to training such as espaliering. Small, dark red-purple crabapples in autumn.",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41803,8 +41803,8 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "pink",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFoliageColor": "green, red",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41816,17 +41816,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red, purple",
       "winter": "",
       "spring": ""
     },
@@ -41846,7 +41846,7 @@
     "url": "malus-coronet-peak-crabapple",
     "mainImage": "malus-coronet-peak-crabapple/malus-coronet-peak-crabapple.jpg",
     "description": "A neat-growing shade tree with horizontal spreading branches. Pink buds open out to pure-white blossoms in spring. Produces a mass of gold-yellow crabapples in autumn.",
-    "uses": "attracts-bees",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41856,10 +41856,10 @@
     "height": "3m",
     "width": "3m",
     "filterFloweringSeason": "spring",
-    "filterFlowerColor": "white",
+    "filterFlowerColor": "white, pink",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41871,17 +41871,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "yellow",
       "winter": "",
       "spring": ""
     },
@@ -41900,8 +41900,8 @@
     "commonName": "Crabapple",
     "url": "malus-echtermeyer-crabapple",
     "mainImage": "malus-echtermeyer-crabapple/malus-echtermeyer-crabapple.jpg",
-    "description": "Forms a graceful, wide-spreading canopy of blue-black stems. Red-tinted new leaves change to purple, then a bronze-green over summer. Rose-crimson flowers in spring. Small, red-purple crabapples follow in autumn.",
-    "uses": "attracts-bees",
+    "description": "Forms a graceful, wide-spreading canopy. Red-tinted new leaves change to purple, then a purple-green over summer. Rose-crimson flowers in spring. Small, red-purple crabapples follow in autumn.",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41913,8 +41913,8 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red, pink",
     "filterAutumnColor": "",
-    "filterFoliageColor": "purple, red",
-    "filterFruitingSeason": "",
+    "filterFoliageColor": "purple, red, green",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41926,17 +41926,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple, green",
+      "autumn": "purple, green",
       "winter": "",
-      "spring": ""
+      "spring": "red, purple"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red, purple",
       "winter": "",
       "spring": ""
     },
@@ -41971,8 +41971,8 @@
     "commonName": "Crabapple",
     "url": "malus-ellerslie-crabapple",
     "mainImage": "malus-ellerslie-crabapple/malus-ellerslie-crabapple.jpg",
-    "description": "Excellent tree. Red new leaves turn bronze through summer. Dark-red buds open to soft-crimson flowers in spring, followed by small, red crabapples in autumn. These persist until eaten by birds in winter.",
-    "uses": "attracts-bees",
+    "description": "Excellent tree. Red new leaves turn purple-green through summer and then red again in autumn. Dark-red buds open to soft-crimson flowers in spring, followed by small, red crabapples in autumn.",
+    "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -41984,8 +41984,8 @@
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "red, pink",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFoliageColor": "green, red, purple",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -41997,17 +41997,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple, green",
+      "autumn": "red",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
