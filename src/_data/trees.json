@@ -43165,7 +43165,7 @@
     "commonName": "Persian Lilac, Chinaberry",
     "url": "melia-azedarach-persian-lilac-chinaberry",
     "mainImage": "melia-azedarach-persian-lilac-chinaberry/melia-azedarach-persian-lilac-chinaberry.jpg",
-    "description": "Quick-growing tree with a stout trunk. Open form with wide-spreading branches to give light shade. Pinnate leaves appear with the caramel-scented panicles of lilac-pink flowers in late-spring. Clear-yellow autumn leaves. Withstands strong winds and drought. Excellent street tree.",
+    "description": "Quick-growing tree with a stout trunk. Open form with wide-spreading branches to give light shade. Green, pinnate leaves appear with the caramel-scented panicles of lilac-pink flowers in late-spring. Clear-yellow autumn leaves. Withstands strong winds and drought. Excellent street tree.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy, drought",
     "soilType": "dry-soils",
@@ -43191,13 +43191,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43232,8 +43232,8 @@
     "commonName": "Whārangi",
     "url": "melicope-ternata-wharangi",
     "mainImage": "melicope-ternata-wharangi/melicope-ternata-wharangi.jpg",
-    "description": "Forms a rounded, large bush of shiny, lime-green leaves. Grows well in sandy soils sheltered from the worst of the coastal winds. Tolerates light frosts. Shining black seeds in clusters are a feature over late-summer.",
-    "uses": "attracts-birds",
+    "description": "Forms a rounded, large bush of shiny, lime-green leaves. Grows well in sandy soils sheltered from the worst of the coastal winds. Tolerates light frosts. Small, yellow-green flowers from late-winter to late-spring. Brown fruit are produced from late-spring to early-autumn. Once ripe, the fruit open to reveal a black seed that birds love.",
+    "uses": "attracts-birds, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "",
     "sunShade": "",
@@ -43242,11 +43242,11 @@
     "types": "",
     "height": "4m",
     "width": "3m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "winter, spring",
+    "filterFlowerColor": "yellow, green",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "spring, summer, autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -43257,20 +43257,20 @@
     "flowerColor": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "yellow, green",
+      "spring": "yellow, green"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
-      "autumn": "",
+      "summer": "brown, black",
+      "autumn": "brown, black",
       "winter": "",
-      "spring": ""
+      "spring": "brown, black"
     },
     "treeShape": "images/icons/tree-shapes/melicope/melicope-general.svg",
     "relatedTrees": [],
@@ -43287,7 +43287,7 @@
     "commonName": "Māhoe",
     "url": "melicytus-chathamicus-mahoe",
     "mainImage": "melicytus-chathamicus-mahoe/melicytus-chathamicus-mahoe.jpg",
-    "description": "Large, oval, green leaves with toothed margins. Small yellow flowers in spring. Tolerates cold, windy, and coastal conditions.",
+    "description": "Large, oval, green leaves with toothed margins. Small, green-yellow flowers in spring. Tolerates cold, windy, and coastal conditions.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "coastal, windy, light-frosts",
     "soilType": "",
@@ -43297,8 +43297,8 @@
     "types": "",
     "height": "6m",
     "width": "4m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "spring",
+    "filterFlowerColor": "yellow, green",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
@@ -43313,13 +43313,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43351,7 +43351,7 @@
     "filterFlowerColor": "green, yellow",
     "filterAutumnColor": "",
     "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -43360,20 +43360,20 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "green, yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, yellow"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "purple",
       "winter": "",
       "spring": ""
     },
@@ -43421,10 +43421,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43451,10 +43451,10 @@
     "commonName": "Dawn Redwood",
     "url": "metasequoia-glyptostroboides-dawn-redwood",
     "mainImage": "metasequoia-glyptostroboides-dawn-redwood/metasequoia-glyptostroboides-dawn-redwood.jpg",
-    "description": "A handsome tree throughout the year with a slender, pyramidal form. Resembles the California Redwood. An upright specimen tree. Soft, ferny leaves are bright green through summer, becoming tawny pink and burnished gold through autumn. Grows best in moisture retentive soil.",
+    "description": "A handsome tree throughout the year with a slender, pyramidal form. Resembles the California Redwood. An upright specimen tree. Soft, ferny leaves are bright green through summer, becoming red-brown to orange-brown. Grows best in moisture retentive soil.",
     "uses": "street",
-    "tolerates": "",
-    "soilType": "poor-draining-soils",
+    "tolerates": "heavy-rainfall",
+    "soilType": "poor-draining-soils, clay-soils",
     "sunShade": "",
     "winterFoliage": "deciduous",
     "origin": "exotic",
@@ -43463,7 +43463,7 @@
     "width": "5m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "yellow, brown, orange",
+    "filterAutumnColor": "red, orange, brown",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
@@ -43480,10 +43480,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, brown",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43542,10 +43542,10 @@
     "commonName": "Dawn Redwood",
     "url": "metasequoia-glyptostroboides-gold-rush-dawn-redwood",
     "mainImage": "metasequoia-glyptostroboides-gold-rush-dawn-redwood/metasequoia-glyptostroboides-gold-rush-dawn-redwood.jpg",
-    "description": "Conical grower with a soft, ferny foliage. Cypress-like timber is moderately durable. Prefers damp to wet sites. Foliage a soft gold-yellow turning orange in autumn.",
+    "description": "Also known as Metasequoia glyptostroboides 'Ogon'. Conical grower with a soft, ferny foliage. Cypress-like timber is moderately durable. Prefers damp to wet sites. Foliage is a deep gold-yellow in spring, maturing to green-yellow in summer, before turning red-brown to orange-brown in autumn.",
     "uses": "",
-    "tolerates": "",
-    "soilType": "poor-draining-soils",
+    "tolerates": "heavy-rainfall",
+    "soilType": "poor-draining-soils, clay-soils",
     "sunShade": "",
     "winterFoliage": "deciduous",
     "origin": "exotic",
@@ -43554,8 +43554,8 @@
     "width": "5m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "orange",
-    "filterFoliageColor": "yellow",
+    "filterAutumnColor": "red, orange, brown",
+    "filterFoliageColor": "yellow, green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43571,10 +43571,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, green",
+      "autumn": "red, orange, brown",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43609,10 +43609,10 @@
     "commonName": "Dawn Redwood",
     "url": "metasequoia-glyptostroboides-sheridan-spire-dawn-redwood",
     "mainImage": "metasequoia-glyptostroboides-sheridan-spire-dawn-redwood/metasequoia-glyptostroboides-sheridan-spire-dawn-redwood.jpg",
-    "description": "A rapidly-growing conifer with a very delicate, ferny appearance. Has a narrower pyramidal form than Metasequoia glyptostroboides. Shaggy, attractive red-brown bark. Airy, dark-green foliage changes to a lovely copper autumn color. Prefers damp to wet sites.",
+    "description": "A rapidly-growing conifer with a very delicate, ferny appearance. Has a narrower, more pyramidal form than Metasequoia glyptostroboides. Shaggy, attractive red-brown bark. Airy, dark-green foliage changes to a lovely red-brown to orange-brown in autumn. Prefers damp to wet sites.",
     "uses": "street",
-    "tolerates": "",
-    "soilType": "poor-draining-soils",
+    "tolerates": "heavy-rainfall",
+    "soilType": "poor-draining-soils, clay-soils",
     "sunShade": "",
     "winterFoliage": "deciduous",
     "origin": "exotic",
@@ -43621,7 +43621,7 @@
     "width": "4m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "yellow, brown, orange",
+    "filterAutumnColor": "red, orange, brown",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "",
     "filterStemColor": "",
@@ -43638,10 +43638,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, brown",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
