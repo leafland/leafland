@@ -44734,15 +44734,15 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "orange",
+      "winter": "orange",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/persimmon/persimmon-general.svg",
@@ -44775,13 +44775,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -44828,13 +44828,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruit": {
       "summer": "",
@@ -44852,7 +44852,7 @@
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-dark-knight-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-dark-knight-red-tip-photinia-christmas-berry/photinia-dark-knight-red-tip-photinia-christmas-berry.jpeg",
-    "description": "Also known as Photinia x fraseri 'Dark Knight'. Great for hedging and screening. Has a vigorous, upright growth habit, and an excellent branching structure. Flushes of deep fiery-red new growth throughout the year, slowly aging to a dark maroon, then finishing on a dark, glossy-green.",
+    "description": "Also known as Photinia x fraseri 'Dark Knight'. Great for hedging and screening. Has a vigorous, upright growth habit, and an excellent branching structure. Fiery-red new growth, slowly aging to a dark maroon, then finishing on a dark, glossy-green. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -44872,13 +44872,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red, purple"
     },
     "fruit": {
       "summer": "",
@@ -44901,7 +44901,7 @@
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-red-robin-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-red-robin-red-tip-photinia-christmas-berry/photinia-red-robin-red-tip-photinia-christmas-berry.jpg",
-    "description": "Also known as Photinia x fraseri 'Red Robin'. Large, glossy-green leaves are topped with shining red new growth. Clip regularly to promote this new growth. A tough and versatile large bush which clips easily as a hedge or screen and into any shape or form.",
+    "description": "Also known as Photinia x fraseri 'Red Robin'. Large, glossy-green leaves are topped with shining red new growth. Clip regularly to promote this new growth. A tough and versatile large bush which clips easily as a hedge or screen and into any shape or form. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening, pleaching",
     "tolerates": "windy",
     "soilType": "",
@@ -44921,13 +44921,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
@@ -44978,7 +44978,7 @@
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-superhedge-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-superhedge-red-tip-photinia-christmas-berry/photinia-superhedge-red-tip-photinia-christmas-berry.jpg",
-    "description": "Also known as Photinia x fraseri 'Superhedge'. Vigorous, quick growing habit. New growth of rich burgundy-red foliage repeated throughout the year. Clips well to form a beautiful hedge or screen.",
+    "description": "Also known as Photinia x fraseri 'Superhedge'. Vigorous, quick growing habit. New growth of rich burgundy-red foliage. Clips well to form a beautiful hedge or screen. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -44998,13 +44998,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
@@ -45050,10 +45050,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -45099,10 +45099,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -45168,10 +45168,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, grey",
+      "autumn": "blue, grey",
+      "winter": "blue, grey",
+      "spring": "blue, grey"
     },
     "fruit": {
       "summer": "",
@@ -45229,10 +45229,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, green",
+      "autumn": "blue, green",
+      "winter": "blue, green",
+      "spring": "blue, green"
     },
     "fruit": {
       "summer": "",
@@ -45267,7 +45267,7 @@
     "commonName": "Colorado Spruce, Blue Spruce",
     "url": "picea-pungens-baby-blue-colorado-spruce-blue-spruce",
     "mainImage": "picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce.jpg",
-    "description": "Seed-produced from selected blue-grey needled trees. A more dense and smaller-growing spruce. Performs better in colder climates. Makes a superb Christmas tree.",
+    "description": "A more dense and smaller-growing spruce with blue-grey foliage. Performs better in colder climates. Makes a superb Christmas tree.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -45290,10 +45290,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, grey",
+      "autumn": "blue, grey",
+      "winter": "blue, grey",
+      "spring": "blue, grey"
     },
     "fruit": {
       "summer": "",
@@ -45328,7 +45328,7 @@
     "commonName": "Colorado Spruce, Blue Spruce",
     "url": "picea-pungens-glauca-colorado-spruce-blue-spruce",
     "mainImage": "picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce.jpg",
-    "description": "A narrow, pyramidal grower, densely-covered with rich, blue-green, needle-like leaves. New growth is bright-blue. Slow growing, enduring conifer.",
+    "description": "A narrow, pyramidal grower, densely-covered with rich, blue-grey, needle-like leaves. New growth is bright-blue. Slow growing, enduring conifer.",
     "uses": "",
     "tolerates": "windy",
     "soilType": "",
@@ -45351,10 +45351,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, grey",
+      "autumn": "blue, grey",
+      "winter": "blue, grey",
+      "spring": "blue, grey"
     },
     "fruit": {
       "summer": "",
@@ -45424,10 +45424,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, green",
+      "autumn": "blue, green",
+      "winter": "blue, green",
+      "spring": "blue, green"
     },
     "fruit": {
       "summer": "",
@@ -45489,10 +45489,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -45550,14 +45550,14 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "brown",
       "winter": "",
       "spring": ""
     },
@@ -45608,7 +45608,7 @@
     "commonName": "Chinese Pistachio",
     "url": "pistacia-chinensis-chinese-pistachio",
     "mainImage": "pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio.jpg",
-    "description": "Handsome tree with elegant, glossy-green, pinnate leaves. Upright grower with spreading branches, making a great shade tree. Vivid scarlet, crimson, and orange leaves in autumn. Tolerant of alkaline soils. Excellent street tree.",
+    "description": "Handsome tree with elegant, glossy-green, pinnate leaves. Upright grower with spreading branches, making a great shade tree. Vivid red, yellow, and orange leaves in autumn. Excellent street tree.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -45631,10 +45631,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
