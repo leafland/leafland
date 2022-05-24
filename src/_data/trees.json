@@ -43664,7 +43664,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-pohutukawa",
     "mainImage": "metrosideros-excelsa-pohutukawa/metrosideros-excelsa-pohutukawa.jpg",
-    "description": "Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, grey-green leaves. A profusion of glowing, crimson-red flowers borne from early to mid-summer. They attract nectar-seeking birds. Can be pruned as hedges and screens or left as a specimen.",
+    "description": "Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, green leaves with silver-grey undersides. A profusion of glowing, crimson-red flowers borne from early to mid-summer. They attract nectar-seeking birds. Can be pruned as hedges and screens or left as a specimen.",
     "uses": "street, hedging-and-screening, attracts-bees, attracts-birds, paddocks, shade",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -43677,7 +43677,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43687,16 +43687,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43751,7 +43751,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-aurea-pohutukawa",
     "mainImage": "metrosideros-excelsa-aurea-pohutukawa/metrosideros-excelsa-aurea-pohutukawa.jpg",
-    "description": "A rare form of Metrosideros excelsa with yellow flowers from early to mid-summer. Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, grey-green leaves. Can be pruned as hedges and screens or left as a specimen.",
+    "description": "A rare form of Metrosideros excelsa with yellow flowers from early to mid-summer. Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, green leaves with silver-grey undersides. Can be pruned as hedges and screens or left as a specimen.",
     "uses": "street, paddocks, shade, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -43764,7 +43764,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "yellow",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43774,16 +43774,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43814,7 +43814,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-lighthouse-pohutukawa",
     "mainImage": "metrosideros-excelsa-lighthouse-pohutukawa/metrosideros-excelsa-lighthouse-pohutukawa.jpg",
-    "description": "A more compact and erect-growing pohutukawa. Produces beautiful bright-red flowers from early to mid-summer. Vulnerable to heavy frosts, especially when young. Hardy tree, tolerating most soil and environmental conditions.",
+    "description": "A more compact and erect-growing pohutukawa. Produces beautiful bright-red flowers from early to mid-summer. Vulnerable to heavy frosts, especially when young. Hardy tree, tolerating most soil and environmental conditions. Has green leaves with silver-grey undersides.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -43827,7 +43827,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43837,16 +43837,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43881,7 +43881,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-maori-princess-pohutukawa",
     "mainImage": "metrosideros-excelsa-maori-princess-pohutukawa/metrosideros-excelsa-maori-princess-pohutukawa.jpg",
-    "description": "Selected for its more upright, narrow growth habit. Just as tough as Metrosideros excelsa and with scarlet-red flowers from early to mid-summer which attract birds. Excellent street tree.",
+    "description": "Selected for its more upright, narrow growth habit. Just as tough as Metrosideros excelsa and with scarlet-red flowers from early to mid-summer which attract birds. Excellent street tree. Has green leaves with silver-grey undersides.",
     "uses": "street, attracts-bees, attracts-birds, driveways-and-avenues",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -43894,7 +43894,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43904,16 +43904,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -43952,7 +43952,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-moon-maiden-pohutukawa",
     "mainImage": "metrosideros-excelsa-moon-maiden-pohutukawa/metrosideros-excelsa-moon-maiden-pohutukawa.jpg",
-    "description": "A rare form of Metrosideros excelsa with yellow flowers from early to mid-summer. Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, grey-green leaves. Can be pruned as hedges and screens or left as a specimen.",
+    "description": "A rare form of Metrosideros excelsa with yellow flowers from early to mid-summer. Thrives in coastal situations. Will tolerate poor soils, wet, and drought conditions. Forms a large, broad-headed tree with thick, green leaves with silver-grey undersides. Can be pruned as hedges and screens or left as a specimen.",
     "uses": "street, paddocks, shade, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -43965,7 +43965,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "yellow",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -43975,16 +43975,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44019,7 +44019,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-scarlet-pimpernel-pohutukawa",
     "mainImage": "metrosideros-excelsa-scarlet-pimpernel-pohutukawa/metrosideros-excelsa-scarlet-pimpernel-pohutukawa.jpg",
-    "description": "A smaller-growing pohutukawa with magenta-red flowers from early to mid-summer and a prolific flowering habit. Will grow into a tree, but can be kept in a large container. Great for small spaces. Just as tough as Metrosideros excelsa.",
+    "description": "A smaller-growing pohutukawa with magenta-red flowers from early to mid-summer and a prolific flowering habit. Will grow into a tree, but can be kept in a large container. Great for small spaces. Just as tough as Metrosideros excelsa. Has green leaves with silver-grey undersides.",
     "uses": "hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -44032,7 +44032,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -44042,16 +44042,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44086,7 +44086,7 @@
     "commonName": "Pōhutukawa",
     "url": "metrosideros-excelsa-vibrance-pohutukawa",
     "mainImage": "metrosideros-excelsa-vibrance-pohutukawa/metrosideros-excelsa-vibrance-pohutukawa.jpg",
-    "description": "Selected for its more upright, dense, and compact form. Just as tough as Metrosideros excelsa, but with very large, vibrant, red flowers borne from early to mid-summer. Nectar-seeking birds love the flowers. A good choice for suburban gardens. Excellent street tree.",
+    "description": "Selected for its more upright, dense, and compact form. Just as tough as Metrosideros excelsa, but with very large, vibrant, red flowers borne from early to mid-summer. Nectar-seeking birds love the flowers. A good choice for suburban gardens. Excellent street tree. Has green leaves with silver-grey undersides.",
     "uses": "street, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -44099,7 +44099,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, grey",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -44109,16 +44109,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44180,16 +44180,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow, white, green",
+      "autumn": "yellow, white, green",
+      "winter": "yellow, white, green",
+      "spring": "yellow, white, green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44239,16 +44239,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44306,16 +44306,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44373,16 +44373,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44430,7 +44430,7 @@
     "filterFloweringSeason": "summer",
     "filterFlowerColor": "red",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, red",
     "filterFruitingSeason": "",
     "filterStemColor": "",
     "stem": {
@@ -44440,16 +44440,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruitingSeason": {
       "summer": "",
@@ -44499,16 +44499,16 @@
       "spring": ""
     },
     "flowerColor": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
