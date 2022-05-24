@@ -7,10 +7,10 @@ main h2 {
   text-transform: uppercase;
 }
 
-#content{
-  max-width:80rem;
-  display:grid;
-  justify-self: center
+#content {
+  max-width: 80rem;
+  display: grid;
+  justify-self: center;
 }
 
 .tree-common-name {
@@ -32,7 +32,7 @@ main h2 {
   align-self: center;
   justify-self: center;
   width: 100%;
-  max-width: 400px
+  max-width: 400px;
 }
 
 #grid-content-right {
@@ -65,38 +65,38 @@ main h2 {
 
 #grade-select {
   display: grid;
-  gap: 3rem
+  gap: 3rem;
 }
 
-#grade-select-buttons{
-  display:flex;
+#grade-select-buttons {
+  display: flex;
   flex-direction: column;
   gap: 3rem;
 }
 
-.grade-select-grid-div{
+.grade-select-grid-div {
   display: grid;
   grid-template-rows: auto 1fr;
-  gap: 1rem
+  gap: 1rem;
 }
 
-.grade-select-grid-div p{
+.grade-select-grid-div p {
   text-transform: uppercase;
-  font-size:var(--font-size-3);
+  font-size: var(--font-size-3);
   font-weight: bold;
 }
 
 .selection-grid {
   display: flex;
   gap: 1rem;
-  flex-wrap: wrap
+  flex-wrap: wrap;
 }
 
 .selection-box {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
-  font-weight: bold
+  font-weight: bold;
 }
 
 .selection-box-disabled {
@@ -104,16 +104,18 @@ main h2 {
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
   font-weight: bold;
-  opacity: 0.5
+  opacity: 0.5;
 }
 
-.grade-selection-value-active, .height-selection-value-active, .standard-selection-value-active{
+.grade-selection-value-active,
+.height-selection-value-active,
+.standard-selection-value-active {
   background: var(--primary-text);
   color: var(--secondary-background);
   pointer-events: none;
 }
 
-#add-product-div{
+#add-product-div {
   display: grid;
   gap: 2rem;
   grid-template-columns: 1fr;
@@ -129,7 +131,7 @@ main h2 {
 
 #grade-select button {
   align-self: end;
-  max-width: 15rem
+  max-width: 15rem;
 }
 
 #grade-select select,
@@ -203,17 +205,17 @@ main h2 {
   margin-top: 4rem;
 }
 
-#grid-content-middle{
+#grid-content-middle {
   display: grid;
   gap: 2rem;
   grid-template-columns: 1fr;
   margin-top: 2rem;
   background: var(--secondary-background);
   border-radius: 8px;
-  padding: 2rem
+  padding: 2rem;
 }
 
-#grid-content-bottom{
+#grid-content-bottom {
   display: grid;
   gap: 2rem;
   grid-template-columns: 1fr;
@@ -473,7 +475,7 @@ body.lightbox-open #image-lightbox {
   justify-self: end;
 }
 
-#add-to-order-button-div{
+#add-to-order-button-div {
   display: grid;
   width: 100%;
   position: fixed;
@@ -487,16 +489,16 @@ body.lightbox-open #image-lightbox {
   padding: 1rem;
 }
 
-#add-to-order-button{
+#add-to-order-button {
   border-color: var(--primary-text);
   /* border-top: solid 2px var(--secondary-background); */
-  font-size:var(--font-size-5);
-  width:100%;
+  font-size: var(--font-size-5);
+  width: 100%;
   color: var(--primary-text);
-  max-width:800px;
+  max-width: 800px;
 }
 
-#add-to-order-overlay{
+#add-to-order-overlay {
   opacity: 0;
   visibility: hidden;
   z-index: -1;
@@ -522,7 +524,7 @@ body.add-to-order-open #add-to-order-overlay {
   visibility: visible;
 }
 
-#close-add-to-order{
+#close-add-to-order {
   cursor: pointer;
   border-color: var(--primary-text);
   align-self: center;
@@ -580,7 +582,7 @@ body.add-to-order-open #add-to-order-overlay {
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
-  max-height:300px;
+  max-height: 300px;
   align-items: center;
 }
 
@@ -591,7 +593,7 @@ body.add-to-order-open #add-to-order-overlay {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  max-width:300px
+  max-width: 300px;
 }
 
 #width-span,
@@ -806,21 +808,21 @@ details b {
   text-transform: uppercase;
   font-weight: bold;
   font-size: var(--font-size-5);
-  margin-bottom: 3rem
+  margin-bottom: 3rem;
 }
 
-.block-title-less-margin{
+.block-title-less-margin {
   text-transform: uppercase;
   font-weight: bold;
   font-size: var(--font-size-5);
-  margin-bottom: 2rem
+  margin-bottom: 2rem;
 }
 
 /* #quantity-field, #wholesale-price, #retail-price{
   visibility: hidden;
 } */
 
-#features-table{
+#features-table {
   overflow: auto;
   width: 100%;
 }
@@ -830,14 +832,14 @@ details b {
   width: 100%;
 }
 
-#features-table th{
+#features-table th {
   text-align: left;
   text-transform: uppercase;
   word-break: normal;
 }
 
-#features-table td{
-  min-width: 10rem
+#features-table td {
+  min-width: 10rem;
 }
 
 #features-table tr:first-child {
@@ -848,17 +850,24 @@ details b {
   height: 4rem;
 }
 
-#features-table th, #features-table td{
+#features-table th,
+#features-table td {
   padding: 0.5rem 1rem;
 }
 
-#features-table tr:not(tr:nth-child(1)) th{
+#features-table tr:not(tr:nth-child(1)) th {
   padding: 0.5rem 0.5rem 0.5rem 0;
   /* width: 6rem */
   position: sticky;
   top: 0;
   left: 0;
   background: var(--secondary-background);
+}
+
+.color-list {
+  padding-left: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -887,18 +896,18 @@ details b {
     cursor: pointer;
   }
 
-  #close-add-to-order:hover{
+  #close-add-to-order:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
-  #add-to-order-button:hover{
+  #add-to-order-button:hover {
     background: var(--primary-text);
-    color:var(--secondary-background)
+    color: var(--secondary-background);
   }
-  .selection-box:hover{
+  .selection-box:hover {
     cursor: pointer;
-    background:var(--primary-text);
-    color:var(--secondary-background)
+    background: var(--primary-text);
+    color: var(--secondary-background);
   }
 }
 
@@ -908,9 +917,9 @@ details b {
   }
 }
 
-@media (min-width: 500px){
-  #add-product-div{
-    grid-template-columns: auto 1fr
+@media (min-width: 500px) {
+  #add-product-div {
+    grid-template-columns: auto 1fr;
   }
 }
 
@@ -957,7 +966,7 @@ details b {
   }
 } */
 
-@media (min-width: 1000px){
+@media (min-width: 1000px) {
   div#grid-content {
     grid-template-columns: 1fr 1fr;
   }
@@ -968,9 +977,7 @@ details b {
     grid-template-columns: repeat(2, 1fr);
   } */
 
-
-
-  #grid-content-middle{
+  #grid-content-middle {
     grid-template-columns: 1fr 300px;
   }
   /* #tree-info {

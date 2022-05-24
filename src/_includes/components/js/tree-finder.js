@@ -324,50 +324,77 @@ async function populatePage(
           compareValue += `${value}-w`;
         });
       }
-      if (
-        tree.filterFloweringSeason !== "" &&
-        tree.filterFloweringSeason !== undefined
-      ) {
-        let compareArray = tree.filterFloweringSeason.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}-fls`;
-        });
+      if (tree.flowers !== "" && tree.flowers !== undefined) {
+        if (tree.flowers.summer !== "") {
+          compareValue += "summer-fls";
+
+          tree.flowers.summer.split(", ").forEach((color) => {
+            compareValue += `${color}-fc`;
+          });
+        }
+        if (tree.flowers.autumn !== "") {
+          compareValue += "autumn-fls";
+          tree.flowers.autumn.split(", ").forEach((color) => {
+            compareValue += `${color}-fc`;
+          });
+        }
+        if (tree.flowers.winter !== "") {
+          compareValue += "winter-fls";
+          tree.flowers.winter.split(", ").forEach((color) => {
+            compareValue += `${color}-fc`;
+          });
+        }
+        if (tree.flowers.spring !== "") {
+          compareValue += "spring-fls";
+          tree.flowers.spring.split(", ").forEach((color) => {
+            compareValue += `${color}-fc`;
+          });
+        }
       }
-      if (
-        tree.filterFlowerColor !== "" &&
-        tree.filterFlowerColor !== undefined
-      ) {
-        let compareArray = tree.filterFlowerColor.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}-fc`;
-        });
+      // if (
+      //   tree.filterFlowerColor !== "" &&
+      //   tree.filterFlowerColor !== undefined
+      // ) {
+      //   let compareArray = tree.filterFlowerColor.split(", ");
+      //   compareArray.forEach((value) => {
+      //     compareValue += `${value}-fc`;
+      //   });
+      // }
+      if (tree.foliage !== "" && tree.foliage !== undefined) {
+        if (tree.foliage.summer !== "") {
+          tree.foliage.summer.split(", ").forEach((color) => {
+            compareValue += `${color}-flc`;
+          });
+        }
+        if (tree.foliage.autumn !== "") {
+          tree.foliage.autumn.split(", ").forEach((color) => {
+            compareValue += `${color}-ac`;
+          });
+        }
+        if (tree.foliage.winter !== "") {
+          tree.foliage.winter.split(", ").forEach((color) => {
+            compareValue += `${color}-flc`;
+          });
+        }
+        if (tree.foliage.spring !== "") {
+          tree.foliage.spring.split(", ").forEach((color) => {
+            compareValue += `${color}-flc`;
+          });
+        }
       }
-      if (
-        tree.filterAutumnColor !== "" &&
-        tree.filterAutumnColor !== undefined
-      ) {
-        let compareArray = tree.filterAutumnColor.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}-ac`;
-        });
-      }
-      if (
-        tree.filterFoliageColor !== "" &&
-        tree.filterFoliageColor !== undefined
-      ) {
-        let compareArray = tree.filterFoliageColor.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}-flc`;
-        });
-      }
-      if (
-        tree.filterFruitingSeason !== "" &&
-        tree.filterFruitingSeason !== undefined
-      ) {
-        let compareArray = tree.filterFruitingSeason.split(", ");
-        compareArray.forEach((value) => {
-          compareValue += `${value}-fs`;
-        });
+      if (tree.fruit !== "" && tree.fruit !== undefined) {
+        if (tree.fruit.summer !== "") {
+          compareValue += `summer-fs`;
+        }
+        if (tree.fruit.autumn !== "") {
+          compareValue += `autumn-fs`;
+        }
+        if (tree.fruit.winter !== "") {
+          compareValue += `winter-fs`;
+        }
+        if (tree.fruit.spring !== "") {
+          compareValue += `spring-fs`;
+        }
       }
 
       let heightFound = false;

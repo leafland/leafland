@@ -275,11 +275,11 @@ type: product
 
                     <td>
 
-                        {% if tree.foliageColor.summer.size > 0 %}
+                        {% if tree.foliage.summer.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign foliageArray = tree.foliageColor.summer | split: ', '%}
+                            {% assign foliageArray = tree.foliage.summer | split: ', '%}
 
                             {% for color in foliageArray %}
 
@@ -301,11 +301,11 @@ type: product
 
                     <td>
 
-                        {% if tree.flowerColor.summer.size > 0 %}
+                        {% if tree.flowers.summer.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign flowerArray = tree.flowerColor.summer | split: ', '%}
+                            {% assign flowerArray = tree.flowers.summer | split: ', '%}
 
                             {% for color in flowerArray %}
 
@@ -327,11 +327,11 @@ type: product
 
                     <td>
 
-                        {% if tree.fruitingSeason.summer.size > 0 %}
+                        {% if tree.fruit.summer.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign fruitingArray = tree.fruitingSeason.summer | split: ', '%}
+                            {% assign fruitingArray = tree.fruit.summer | split: ', '%}
 
                             {% for color in fruitingArray %}
 
@@ -385,11 +385,11 @@ type: product
 
                     <td>
 
-                        {% if tree.foliageColor.autumn.size > 0 %}
+                        {% if tree.foliage.autumn.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign foliageArray = tree.foliageColor.autumn | split: ', '%}
+                            {% assign foliageArray = tree.foliage.autumn | split: ', '%}
 
                             {% for color in foliageArray %}
 
@@ -411,11 +411,11 @@ type: product
 
                     <td>
 
-                        {% if tree.flowerColor.autumn.size > 0 %}
+                        {% if tree.flowers.autumn.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign flowerArray = tree.flowerColor.autumn | split: ', '%}
+                            {% assign flowerArray = tree.flowers.autumn | split: ', '%}
 
                             {% for color in flowerArray %}
 
@@ -437,11 +437,11 @@ type: product
 
                     <td>
 
-                        {% if tree.fruitingSeason.autumn.size > 0 %}
+                        {% if tree.fruit.autumn.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign fruitingArray = tree.fruitingSeason.autumn | split: ', '%}
+                            {% assign fruitingArray = tree.fruit.autumn | split: ', '%}
 
                             {% for color in fruitingArray %}
 
@@ -495,11 +495,11 @@ type: product
 
                     <td>
 
-                        {% if tree.foliageColor.winter.size > 0 %}
+                        {% if tree.foliage.winter.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign foliageArray = tree.foliageColor.winter | split: ', '%}
+                            {% assign foliageArray = tree.foliage.winter | split: ', '%}
 
                             {% for color in foliageArray %}
 
@@ -521,11 +521,11 @@ type: product
 
                     <td>
 
-                        {% if tree.flowerColor.winter.size > 0 %}
+                        {% if tree.flowers.winter.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign flowerArray = tree.flowerColor.winter | split: ', '%}
+                            {% assign flowerArray = tree.flowers.winter | split: ', '%}
 
                             {% for color in flowerArray %}
 
@@ -547,11 +547,11 @@ type: product
 
                     <td>
 
-                        {% if tree.fruitingSeason.winter.size > 0 %}
+                        {% if tree.fruit.winter.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign fruitingArray = tree.fruitingSeason.winter | split: ', '%}
+                            {% assign fruitingArray = tree.fruit.winter | split: ', '%}
 
                             {% for color in fruitingArray %}
 
@@ -605,11 +605,11 @@ type: product
 
                     <td>
 
-                        {% if tree.foliageColor.spring.size > 0 %}
+                        {% if tree.foliage.spring.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign foliageArray = tree.foliageColor.spring | split: ', '%}
+                            {% assign foliageArray = tree.foliage.spring | split: ', '%}
 
                             {% for color in foliageArray %}
 
@@ -631,11 +631,11 @@ type: product
 
                     <td>
 
-                        {% if tree.flowerColor.spring.size > 0 %}
+                        {% if tree.flowers.spring.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign flowerArray = tree.flowerColor.spring | split: ', '%}
+                            {% assign flowerArray = tree.flowers.spring | split: ', '%}
 
                             {% for color in flowerArray %}
 
@@ -657,11 +657,11 @@ type: product
 
                     <td>
 
-                        {% if tree.fruitingSeason.spring.size > 0 %}
+                        {% if tree.fruit.spring.size > 0 %}
 
                         <div class="color-spans">
 
-                            {% assign fruitingArray = tree.fruitingSeason.spring | split: ', '%}
+                            {% assign fruitingArray = tree.fruit.spring | split: ', '%}
 
                             {% for color in fruitingArray %}
 
@@ -812,48 +812,6 @@ type: product
 
                 </div>
 
-                {% comment %} <p id="coming-on">Grades coming on: <span id="coming-on-field" class="info-pill">None</span></p> {% endcomment %}
-
-                {% comment %} <div id="details-section">
-
-                    <details>
-
-                        <summary>
-                        
-                            <span>Definitions</span>
-
-                            <img src="https://leafland.imgix.net/images/icons/interface/right.svg" class="right-icon" width="25" height="25">
-                            <img src="https://leafland.imgix.net/images/icons/interface/down.svg" class="down-icon" width="25" height="25">
-                            
-                        </summary>
-
-                        <p>The <b>grade size</b> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
-
-                        <p>The <b>average height</b> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree, averaged across the trees we have in this grade.</p>
-
-                        <p>The <b>standard height</b> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted). If you don't want a standard tree, select 'None' as the standard height.</p>
-
-                        <p>Grades that are <b>in production</b> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
-
-                    </details>
-
-                    <details>
-
-                        <summary>
-                        
-                            <span>Disclaimer</span>
-
-                            <img src="https://leafland.imgix.net/images/icons/interface/right.svg" class="right-icon" width="25" height="25">
-                            <img src="https://leafland.imgix.net/images/icons/interface/down.svg" class="down-icon" width="25" height="25">
-                        
-                        </summary>
-
-                        <p>Photos are for reference only and do not necessarily reflect the final product delivered. Prices subject to change without notice. Actual stock quantity may differ. Heights are given in good faith but we give no guarantee as to the height of the final product due to natural variables beyond our control. If you would like a current photo of any of the grades, please get in touch.</p>
-
-                    </details>
-
-                </div> {% endcomment %}
-
             </div>
 
         </div>
@@ -861,8 +819,6 @@ type: product
         <div id="grid-content-bottom-right">
 
             <div id="tree-information-table">
-{% comment %} 
-                <p class="block-title-less-margin">Tree specifications</p> {% endcomment %}
 
                     {% if botanicalName.size > 0 %}
 
@@ -1175,160 +1131,525 @@ type: product
 
                     {% endif %}
 
-
-                    {% if filterFloweringSeason.size > 0 %}
-
                     <div>
+                    
+                        <p><span class="tree-information-table-heading">Stem:</span></p>
 
-                        {% assign newString = "" %}
+                        <ul class="color-list">
 
-                        {% assign newArray = filterFloweringSeason | split: ', ' %}
+                        {% if tree.stem.summer != "" %}
 
-                        {% for item in newArray %}
+                            {% assign string = "" %}
 
-                        {% assign newItem = item | replace: "-", " " | capitalize %}
+                            {% assign array = tree.stem.summer | split: ", " %}
 
-                        {% if newString == "" %}
+                            {% for item in array %}
 
-                        {% assign newString = newString | append: newItem %}
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Summer: {{ string }}</li>
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: newItem %}
+                        <li><p>Summer:</li>
 
                         {% endif %}
 
-                        {% endfor %}
+                        {% if tree.stem.autumn != "" %}
 
-                        <p><span class="tree-information-table-heading">Flowering Season:</span> {{ newString }}</p>
+                            {% assign string = "" %}
 
-                    </div>
+                            {% assign array = tree.stem.autumn | split: ", " %}
 
-                    {% endif %}
+                            {% for item in array %}
 
+                                {% assign newItem = item | capitalize %}
 
-                    {% if filterFlowerColor.size > 0 %}
+                                {% if string == "" %}
 
-                    <div>
+                                    {% assign string = string | append: newItem %}
 
-                        {% assign newString = "" %}
+                                {% else %}
 
-                        {% assign newArray = filterFlowerColor | split: ', ' %}
+                                    {% assign string = string | append: ", " | append: newItem %}
 
-                        {% for item in newArray %}
+                                {% endif %}
+                            
+                            {% endfor %}
 
-                        {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                        {% if newString == "" %}
-
-                        {% assign newString = newString | append: newItem %}
+                            <li><p>Autumn: {{ string }}</li>
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: newItem %}
+                        <li><p>Autumn:</li>
 
                         {% endif %}
 
-                        {% endfor %}
+                        {% if tree.stem.winter != "" %}
 
-                        <p><span class="tree-information-table-heading">Flower Colour:</span> {{ newString }}</p>
+                            {% assign string = "" %}
 
-                    </div>
+                            {% assign array = tree.stem.winter | split: ", " %}
 
-                    {% endif %}
+                            {% for item in array %}
 
+                                {% assign newItem = item | capitalize %}
 
-                    {% if filterAutumnColor.size > 0 %}
+                                {% if string == "" %}
 
-                    <div>
+                                    {% assign string = string | append: newItem %}
 
-                        {% assign newString = "" %}
+                                {% else %}
 
-                        {% assign newArray = filterAutumnColor | split: ', ' %}
+                                    {% assign string = string | append: ", " | append: newItem %}
 
-                        {% for item in newArray %}
+                                {% endif %}
+                            
+                            {% endfor %}
 
-                        {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                        {% if newString == "" %}
-
-                        {% assign newString = newString | append: newItem %}
+                            <li><p>Winter: {{ string }}</li>
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: newItem %}
+                        <li><p>Winter:</li>
 
                         {% endif %}
 
-                        {% endfor %}
+                        {% if tree.stem.spring != "" %}
 
-                        <p><span class="tree-information-table-heading">Autumn Colour:</span> {{ newString }}</p>
+                            {% assign string = "" %}
 
-                    </div>
+                            {% assign array = tree.stem.spring | split: ", " %}
 
-                    {% endif %}
+                            {% for item in array %}
 
+                                {% assign newItem = item | capitalize %}
 
-                    {% if filterFoliageColor.size > 0 %}
+                                {% if string == "" %}
 
-                    <div>
+                                    {% assign string = string | append: newItem %}
 
-                        {% assign newString = "" %}
+                                {% else %}
 
-                        {% assign newArray = filterFoliageColor | split: ', ' %}
+                                    {% assign string = string | append: ", " | append: newItem %}
 
-                        {% for item in newArray %}
+                                {% endif %}
+                            
+                            {% endfor %}
 
-                        {% assign newItem = item | replace: "-", " " | capitalize %}
-
-                        {% if newString == "" %}
-
-                        {% assign newString = newString | append: newItem %}
+                            <li><p>Spring: {{ string }}</li>
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: newItem %}
+                        <li><p>Spring:</li>
 
                         {% endif %}
 
-                        {% endfor %}
-
-                        <p><span class="tree-information-table-heading">Foliage Colour:</span> {{ newString }}</p>
+                        </ul>
 
                     </div>
 
-                    {% endif %}
-
-
-                    {% if filterFruitingSeason.size > 0 %}
-
                     <div>
+                    
+                        <p><span class="tree-information-table-heading">Foliage:</span></p>
 
-                        {% assign newString = "" %}
+                        <ul class="color-list">
 
-                        {% assign newArray = filterFruitingSeason | split: ', ' %}
+                        {% if tree.foliage.summer != "" %}
 
-                        {% for item in newArray %}
+                            {% assign string = "" %}
 
-                        {% assign newItem = item | replace: "-", " " | capitalize %}
+                            {% assign array = tree.foliage.summer | split: ", " %}
 
-                        {% if newString == "" %}
+                            {% for item in array %}
 
-                        {% assign newString = newString | append: newItem %}
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Summer: {{ string }}</li>
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: newItem %}
+                        <li><p>Summer: None</li>
 
                         {% endif %}
 
-                        {% endfor %}
+                        {% if tree.foliage.autumn != "" %}
 
-                        <p><span class="tree-information-table-heading">Fruiting Season:</span> {{ newString }}</p>
+                            {% assign string = "" %}
+
+                            {% assign array = tree.foliage.autumn | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Autumn: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Autumn: None</li>
+
+                        {% endif %}
+
+                        {% if tree.foliage.winter != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.foliage.winter | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Winter: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Winter: None</li>
+
+                        {% endif %}
+
+                        {% if tree.foliage.spring != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.foliage.spring | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Spring: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Spring: None</li>
+
+                        {% endif %}
+
+                        </ul>
 
                     </div>
 
-                    {% endif %}
+                    <div>
+                    
+                        <p><span class="tree-information-table-heading">Flowers:</span></p>
+
+                        <ul class="color-list">
+
+                        {% if tree.flowers.summer != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.flowers.summer | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Summer: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Summer: None</li>
+
+                        {% endif %}
+
+                        {% if tree.flowers.autumn != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.flowers.autumn | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Autumn: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Autumn: None</li>
+
+                        {% endif %}
+
+                        {% if tree.flowers.winter != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.flowers.winter | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Winter: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Winter: None</li>
+
+                        {% endif %}
+
+                        {% if tree.flowers.spring != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.flowers.spring | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Spring: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Spring: None</li>
+
+                        {% endif %}
+
+                        </ul>
+
+                    </div>
+
+                    <div>
+                    
+                        <p><span class="tree-information-table-heading">Fruit:</span></p>
+
+                        <ul class="color-list">
+
+                        {% if tree.fruit.summer != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.fruit.summer | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Summer: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Summer: None</li>
+
+                        {% endif %}
+
+                        {% if tree.fruit.autumn != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.fruit.autumn | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Autumn: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Autumn: None</li>
+
+                        {% endif %}
+
+                        {% if tree.fruit.winter != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.fruit.winter | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Winter: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Winter: None</li>
+
+                        {% endif %}
+
+                        {% if tree.fruit.spring != "" %}
+
+                            {% assign string = "" %}
+
+                            {% assign array = tree.fruit.spring | split: ", " %}
+
+                            {% for item in array %}
+
+                                {% assign newItem = item | capitalize %}
+
+                                {% if string == "" %}
+
+                                    {% assign string = string | append: newItem %}
+
+                                {% else %}
+
+                                    {% assign string = string | append: ", " | append: newItem %}
+
+                                {% endif %}
+                            
+                            {% endfor %}
+
+                            <li><p>Spring: {{ string }}</li>
+
+                        {% else %}
+
+                        <li><p>Spring: None</li>
+
+                        {% endif %}
+
+                        </ul>
+
+                    </div>
 
             </div>
 
