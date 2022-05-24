@@ -45851,7 +45851,7 @@
     "commonName": "White Mulberry",
     "url": "morus-alba-pendula-white-mulberry",
     "mainImage": "morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry.jpg",
-    "description": "Spectacular tree with large, glossy-green leaves. Through summer, bears sweet, oval, white fruit ripening to deep-pink, dark-red, or purple-black. Self-fertile.",
+    "description": "Spectacular tree with large, glossy-green leaves. Through summer, bears sweet, oval, white fruit ripening to deep-pink, dark-red, or purple-black. Yellow autumn leaves. Self-fertile.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -45863,7 +45863,7 @@
     "width": "3m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "summer",
     "filterStemColor": "",
@@ -45880,13 +45880,13 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "white, pink, red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -45930,7 +45930,7 @@
     "commonName": "Black Mulberry",
     "url": "morus-nigra-black-mulberry",
     "mainImage": "morus-nigra-black-mulberry/morus-nigra-black-mulberry.jpg",
-    "description": "A spreading tree. Thick, dark-green foliage. Ripe fruit in summer are red-black and will fall easily from the tree. Self-fertile.",
+    "description": "A spreading tree. Thick, dark-green foliage. Yellow autumn leaves. Ripe fruit in summer are red to purple-black and will fall easily from the tree. Self-fertile.",
     "uses": "",
     "tolerates": "windy",
     "soilType": "dry-soils",
@@ -45942,7 +45942,7 @@
     "width": "6m",
     "filterFloweringSeason": "",
     "filterFlowerColor": "",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "summer",
     "filterStemColor": "",
@@ -45959,14 +45959,14 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red, purple",
       "winter": "",
       "spring": ""
     },
@@ -46022,10 +46022,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -46077,10 +46077,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -46103,9 +46103,9 @@
     "commonName": "Māpou, Matipou",
     "url": "myrsine-australis-mapou-matipou",
     "mainImage": "myrsine-australis-mapou-matipou/myrsine-australis-mapou-matipou.jpg",
-    "description": "A compact grower with yellow-green leaves veined red. New shoots are red. Wind tolerant. Grows in sun or semi-shade. Makes a superb, dense hedge. Can be easily trimmed into any shape or form. Small, black seeds relished by birds. Small, white flowers from mid-summer to early-autumn.",
+    "description": "A compact grower with yellow-green to dark-green leaves mottled with red. New stems are red. Wind tolerant. Grows in sun or semi-shade. Makes a superb, dense hedge. Can be easily trimmed into any shape or form. Small, purple-black fruit in autumn. Small, white flowers from mid-summer to early-autumn.",
     "uses": "hedging-and-screening, attracts-birds",
-    "tolerates": "windy",
+    "tolerates": "windy, light-frosts",
     "soilType": "",
     "sunShade": "",
     "winterFoliage": "evergreen",
@@ -46116,30 +46116,30 @@
     "filterFloweringSeason": "summer, autumn",
     "filterFlowerColor": "white",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
+    "filterFoliageColor": "green, yellow, red",
     "filterFruitingSeason": "",
-    "filterStemColor": "",
+    "filterStemColor": "red",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
     },
     "flowerColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "white",
+      "autumn": "white",
       "winter": "",
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow, red",
+      "autumn": "green, yellow, red",
+      "winter": "green, yellow, red",
+      "spring": "green, yellow, red"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "purple, black",
       "winter": "",
       "spring": ""
     },
@@ -46162,7 +46162,7 @@
     "commonName": "Toro",
     "url": "myrsine-salicina-toro",
     "mainImage": "myrsine-salicina-toro/myrsine-salicina-toro.jpg",
-    "description": "Slender, erect-growing tree with leathery, glossy, long, narrow leaves. As the weather cools in autumn, the young leaves turn a striking pink-amber colour. Grows in sun or shade. Tolerates both moist and dry positions. Pink berries in autumn are relished by birds. Superb container plant.",
+    "description": "Slender, erect-growing tree with leathery, glossy, long, narrow leaves. New leaves often have a pink-red tinge. Grows in sun or shade. Tolerates both moist and dry positions. Cream-pink flowers in spring. Red-orange berries in autumn are relished by birds. Superb container plant.",
     "uses": "",
     "tolerates": "",
     "soilType": "poor-draining-soils, dry-soils",
@@ -46172,11 +46172,11 @@
     "types": "",
     "height": "4m",
     "width": "2m",
-    "filterFloweringSeason": "",
-    "filterFlowerColor": "",
+    "filterFloweringSeason": "spring",
+    "filterFlowerColor": "white, pink",
     "filterAutumnColor": "",
-    "filterFoliageColor": "green",
-    "filterFruitingSeason": "",
+    "filterFoliageColor": "green, pink, red",
+    "filterFruitingSeason": "autumn",
     "filterStemColor": "",
     "stem": {
       "summer": "",
@@ -46188,17 +46188,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green, red, pink"
     },
     "fruitingSeason": {
       "summer": "",
-      "autumn": "",
+      "autumn": "red, orange",
       "winter": "",
       "spring": ""
     },
@@ -46246,10 +46246,10 @@
       "spring": ""
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow, green",
+      "autumn": "red, orange",
+      "winter": "red, orange",
+      "spring": "yellow, green"
     },
     "fruitingSeason": {
       "summer": "",
@@ -46272,7 +46272,7 @@
     "commonName": "",
     "url": "nectarine-flatto-button-bright",
     "mainImage": "nectarine-flatto-button-bright/nectarine-flatto-button-bright.jpg",
-    "description": "Produces good crops of sweet, yellow-fleshed fruit through mid to late-summer. Pink blossoms in spring. Self-fertile.",
+    "description": "Produces good crops of sweet, yellow-fleshed, red-skinned fruit through mid to late-summer. Pink blossoms in spring. Yellow autumn leaves. Self-fertile.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -46284,7 +46284,7 @@
     "width": "3m",
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "pink",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "summer",
     "filterStemColor": "",
@@ -46298,16 +46298,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -46327,7 +46327,7 @@
     "commonName": "",
     "url": "nectarine-goldmine",
     "mainImage": "nectarine-goldmine/nectarine-goldmine.jpg",
-    "description": "Medium-sized, white-fleshed, freestone fruit that is juicy and sweet. Fruits in mid-summer. Pink blossoms in spring. An old favourite variety which is very productive. Self-fertile.",
+    "description": "Medium-sized, white-fleshed, freestone fruit that is juicy and sweet with white and red-blushed skin. Fruits in mid-summer. Pink blossoms in spring. Yellow autumn leaves. An old favourite variety which is very productive. Self-fertile.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -46339,7 +46339,7 @@
     "width": "3m",
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "pink",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "summer",
     "filterStemColor": "",
@@ -46353,16 +46353,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "red, white",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -46416,16 +46416,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple",
+      "autumn": "purple",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -46440,7 +46440,7 @@
     "commonName": "",
     "url": "nectarine-queen-giant",
     "mainImage": "nectarine-queen-giant/nectarine-queen-giant.jpg",
-    "description": "Produces beautifully-flavoured, white-fleshed, freestone nectarines. Fruit have crimson-red and pale-cream skins. Pink blossoms in spring. Fruit ripens in mid-summer. Self-fertile.",
+    "description": "Produces beautifully-flavoured, white-fleshed, freestone nectarines. Fruit have crimson-red and pale-cream skins. Pink blossoms in spring. Yellow autumn leaves. Fruit ripens in mid-summer. Self-fertile.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -46452,7 +46452,7 @@
     "width": "3m",
     "filterFloweringSeason": "spring",
     "filterFlowerColor": "pink",
-    "filterAutumnColor": "",
+    "filterAutumnColor": "yellow",
     "filterFoliageColor": "green",
     "filterFruitingSeason": "summer",
     "filterStemColor": "",
@@ -46466,16 +46466,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliageColor": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruitingSeason": {
-      "summer": "",
+      "summer": "red, white",
       "autumn": "",
       "winter": "",
       "spring": ""
