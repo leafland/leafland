@@ -1131,6 +1131,8 @@ type: product
 
                     {% endif %}
 
+                    {% if tree.stem.summer != "" or tree.stem.autumn != "" or tree.stem.winter != "" or tree.stem.spring != "" %}
+
                     <div>
                     
                         <p><span class="tree-information-table-heading">Stem:</span></p>
@@ -1260,6 +1262,10 @@ type: product
                         </ul>
 
                     </div>
+
+                    {% endif %}
+
+                    {% if tree.foliage.summer != "" or tree.foliage.autumn != "" or tree.foliage.winter != "" or tree.foliage.spring != "" %}
 
                     <div>
                     
@@ -1391,6 +1397,10 @@ type: product
 
                     </div>
 
+                    {% endif %}
+
+                    {% if tree.flowers.summer != "" or tree.flowers.autumn != "" or tree.flowers.winter != "" or tree.flowers.spring != "" %}
+
                     <div>
                     
                         <p><span class="tree-information-table-heading">Flowers:</span></p>
@@ -1521,6 +1531,10 @@ type: product
 
                     </div>
 
+                    {% endif %}
+
+                    {% if tree.fruit.summer != "" or tree.fruit.autumn != "" or tree.fruit.winter != "" or tree.fruit.spring != "" %}
+
                     <div>
                     
                         <p><span class="tree-information-table-heading">Fruit:</span></p>
@@ -1650,6 +1664,8 @@ type: product
                         </ul>
 
                     </div>
+
+                    {% endif %}
 
             </div>
 
