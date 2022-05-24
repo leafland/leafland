@@ -43615,14 +43615,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "red",
+      "spring": "red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red, purple",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -43741,7 +43741,7 @@
     "commonName": "Persian Ironwood",
     "url": "parrotia-persica-pendula-persian-ironwood",
     "mainImage": "parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood.jpg",
-    "description": "Weeping form of Parrotia persica that develops into a mound. Beautiful autumn colours of orange, yellow, and scarlet. Awesome feature tree. Needs space. Withstands considerable drought and wind exposure. In late-winter to early-spring, produces stunning red flowers.",
+    "description": "Weeping form of Parrotia persica that develops into a mound. Beautiful autumn colours of orange, yellow, red, and purple. Awesome feature tree. Needs space. Withstands considerable drought and wind exposure. In late-winter to early-spring, produces stunning red flowers.",
     "uses": "attracts-bees",
     "tolerates": "windy",
     "soilType": "dry-soils",
@@ -43760,14 +43760,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "red",
+      "spring": "red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red, purple",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -43818,7 +43818,7 @@
     "commonName": "Princess Tree, Empress Tree",
     "url": "paulownia-tomentosa-princess-tree-empress-tree",
     "mainImage": "paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree.jpg",
-    "description": "Broad-spreading tree with a stout trunk and horizontal branches. Huge, tropical-looking, hairy leaves. Large, showy, fragrant, violet-blue flowers with darker spots and yellow throats adorn the bare branches in spring. Withstands moderate frosts and inland salty gales, but not right on the coast.",
+    "description": "Broad-spreading tree with a stout trunk and horizontal branches. Huge, tropical-looking leaves. Large, showy, fragrant, violet-blue flowers with white inners adorn the bare branches in spring. Withstands moderate frosts and inland salty gales, but not right on the coast.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -43838,13 +43838,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, blue, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -43891,7 +43891,7 @@
     "commonName": "",
     "url": "peach-april-white",
     "mainImage": "peach-april-white/peach-april-white.jpg",
-    "description": "A delicious, large, firm peach that has white flesh. Resistant to leaf-curl. Fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "description": "A delicious, large, firm peach that has white flesh and yellow skin with a pink-red blush. Yellow autumn leaves. Resistant to leaf-curl. Fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -43910,18 +43910,18 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, pink, red",
+      "autumn": "yellow, pink, red",
       "winter": "",
       "spring": ""
     },
@@ -43944,7 +43944,7 @@
     "commonName": "",
     "url": "peach-black-boy",
     "mainImage": "peach-black-boy/peach-black-boy.jpg",
-    "description": "Medium-sized fruit with wine-red, melting flesh. A popular variety for eating fresh and bottling. Good home-garden tree. Fruit ripens late-summer. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "description": "Medium-sized fruit with wine-red, melting flesh. Fruit skin is pale-purple with grey fuzz. A popular variety for eating fresh and bottling. Yellow autumn leaves. Good home-garden tree. Fruit ripens late-summer. Pink blossoms from late-winter to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -43963,17 +43963,17 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "purple, grey",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -43997,7 +43997,7 @@
     "commonName": "",
     "url": "peach-golden-queen",
     "mainImage": "peach-golden-queen/peach-golden-queen.jpg",
-    "description": "A true favourite for bottling and an excellent eater. Firm, yellow-orange flesh and deep yellow-orange skin. Fruit is slightly flat. Clingstone. Fruit ripens in late-summer. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "description": "A true favourite for bottling and an excellent eater. Firm, yellow-orange flesh and deep yellow-orange skin. Fruit is slightly flat. Clingstone. Fruit ripens in late-summer. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44016,17 +44016,17 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "yellow, orange",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -44050,7 +44050,7 @@
     "commonName": "",
     "url": "peach-hiawatha",
     "mainImage": "peach-hiawatha/peach-hiawatha.jpg",
-    "description": "Attractive peach tree with deep-purple leaves and pink blossoms. Purple-skinned fruit with orange flesh and good flavour. Pink blossoms from late-winter to late-spring. Excellent fresh eating, mid-summer ripening, and self-fertile. Regular cropper.",
+    "description": "Attractive peach tree with deep-purple leaves in spring fading to purple-green in summer and pink blossoms. Purple-skinned fruit with orange flesh and good flavour. Pink blossoms from late-winter to late-spring. Excellent fresh eating, mid-summer ripening, and self-fertile. Regular cropper.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44069,17 +44069,17 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, purple",
+      "autumn": "green, purple",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "fruit": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -44094,7 +44094,7 @@
     "commonName": "",
     "url": "peach-scarlet-ohara",
     "mainImage": "peach-scarlet-ohara/peach-scarlet-ohara.jpg",
-    "description": "Produces white-fleshed peaches with pink-red skin that ripen mid-summer. Clingstone, and flesh is firm and crunchy. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "description": "Produces white-fleshed peaches with pink-red skin that ripen mid-summer. Clingstone, and flesh is firm and crunchy. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44113,17 +44113,17 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "pink, red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -44138,7 +44138,7 @@
     "commonName": "",
     "url": "peacherine-healys",
     "mainImage": "peacherine-healys/peacherine-healys.jpg",
-    "description": "A cross between a nectarine and a peach. Produces large, juicy, yellow-fleshed fruit. Clingstone variety that fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "description": "A cross between a nectarine and a peach. Produces large, juicy, yellow-fleshed fruit. Fruit skin is a mix of yellow, orange, and red. Clingstone variety that fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44157,18 +44157,18 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, orange, red",
+      "autumn": "yellow, orange, red",
       "winter": "",
       "spring": ""
     },
@@ -44187,7 +44187,7 @@
     "commonName": "",
     "url": "pear-conference",
     "mainImage": "pear-conference/pear-conference.jpg",
-    "description": "Long-necked, green pears with some russeting. Excellent juicy flavour. Moderately-vigorous and slightly-spreading. Excellent choice for the home gardener. Partially self-fertile, but better crops when planted with Packham's Triumph. Fruit ripens in mid-autumn. White blossoms in spring.",
+    "description": "Long-necked, green pears with some russeting. Excellent juicy flavour. Moderately-vigorous and slightly-spreading. Excellent choice for the home gardener. Partially self-fertile, but better crops when planted with Packham's Triumph. Fruit ripens in mid-autumn. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44207,17 +44207,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
@@ -44236,7 +44236,7 @@
     "commonName": "",
     "url": "pear-doyenne-du-comice",
     "mainImage": "pear-doyenne-du-comice/pear-doyenne-du-comice.jpg",
-    "description": "Large, classic, gourmet pear. Has green skin flushed red with white. Rich, juicy flesh that tastes like sweetened cinnamon. Fruit ripens mid to late-autumn. Upright and vigorous habit. High chilling hours needed to set fruit. Pollinators include Beurre Bosc, Williams' Bon Chretien, Winter Cole, and Winter Nelis. White blossoms in spring.",
+    "description": "Large, classic, gourmet pear. Has green skin flushed red. Rich, juicy flesh that tastes like sweetened cinnamon. Fruit ripens mid to late-autumn. Upright and vigorous habit. High chilling hours needed to set fruit. Pollinators include Beurre Bosc, Williams' Bon Chretien, Winter Cole, and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44256,17 +44256,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red",
       "winter": "",
       "spring": ""
     },
@@ -44309,17 +44309,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown, red",
       "winter": "",
       "spring": ""
     },
@@ -44333,7 +44333,7 @@
     "commonName": "",
     "url": "pear-red-bartlett",
     "mainImage": "pear-red-bartlett/pear-red-bartlett.jpg",
-    "description": "Bright-red skin when fully ripe. Very aromatic pear with melty flesh and good flavour. Fruit ripens mid to late-summer. All-purpose pear for eating fresh, preserving, baking, and poaching. Pollinators in the North Island are Packam's Triumph or Winter Nelis. In the South Island, Conference or Doyenne du Comice. White blossoms in spring.",
+    "description": "Bright-red skin when fully ripe. Very aromatic pear with melty flesh and good flavour. Fruit ripens mid to late-summer. All-purpose pear for eating fresh, preserving, baking, and poaching. Pollinators in the North Island are Packam's Triumph or Winter Nelis. In the South Island, Conference or Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44353,16 +44353,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -44394,7 +44394,7 @@
     "commonName": "Nashi Pear, Asian Pear",
     "url": "pear-reddy-robin-nashi-pear-asian-pear",
     "mainImage": "pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear.jpg",
-    "description": "Looks and tastes like an apple, with the skin and texture of a pear. Very sweet and juicy. Also known as a Papple. Healthy, delicious fruit to snack on. Fruit ready to harvest from late-summer to early-autumn. Partially self-fertile, but better crops when planted with another nashi pear variety.",
+    "description": "Looks and tastes like an apple, with the skin and texture of a pear. Green skin with a red blush. Very sweet and juicy. Also known as a Papple. Healthy, delicious fruit to snack on. Fruit ready to harvest from late-summer to early-autumn. Partially self-fertile, but better crops when planted with another nashi pear variety. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44414,17 +44414,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, red",
+      "autumn": "green, red",
       "winter": "",
       "spring": ""
     },
@@ -44459,7 +44459,7 @@
     "commonName": "",
     "url": "pear-seckel",
     "mainImage": "pear-seckel/pear-seckel.jpg",
-    "description": "Small to medium-sized gourmet fruit are golden with a red blush. Yellow flesh is finely grained, juicy, and melting with spicy overtones. Excellent quality eating fruit. Fireblight resistant. Pollinators include Packham's Triumph and Winter Nelis.",
+    "description": "Small to medium-sized gourmet fruit are golden with a red blush. Yellow flesh is finely grained, juicy, and melting with spicy overtones. Excellent quality eating fruit. Fireblight resistant. Pollinators include Packham's Triumph and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44479,17 +44479,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "yellow, red",
       "winter": "",
       "spring": ""
     },
@@ -44512,7 +44512,7 @@
     "commonName": "",
     "url": "pear-taylors-gold",
     "mainImage": "pear-taylors-gold/pear-taylors-gold.jpg",
-    "description": "Pears have russeted, cinnamon-coloured skin, and a juicy, aromatic flavour. Ivory to cream-coloured flesh. Fruits from mid to late-autumn. Pollinators include Packham's Triumph, Williams' Bon Chretien, and Winter Cole. White blossoms in spring.",
+    "description": "Pears have russeted, cinnamon-coloured skin, and a juicy, aromatic flavour. Ivory to cream-coloured flesh. Fruits from mid to late-autumn. Pollinators include Packham's Triumph, Williams' Bon Chretien, and Winter Cole. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44532,17 +44532,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "yellow, brown",
       "winter": "",
       "spring": ""
     },
@@ -44561,7 +44561,7 @@
     "commonName": "",
     "url": "pear-williams-bon-chretien",
     "mainImage": "pear-williams-bon-chretien/pear-williams-bon-chretien.jpg",
-    "description": "Large, green-yellow fruit, great for eating or bottling. Good pollinator. Fruits from late-summer to early-autumn. Fruit keeps well. Pollinators include Beurre Bosc, Winter Nelis, Conference, and Doyenne du Comice. White blossoms in spring.",
+    "description": "Large, green-yellow fruit, great for eating or bottling. Good pollinator. Fruits from late-summer to early-autumn. Fruit keeps well. Pollinators include Beurre Bosc, Winter Nelis, Conference, and Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44581,17 +44581,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
       "winter": "",
       "spring": ""
     },
@@ -44634,17 +44634,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown, yellow",
       "winter": "",
       "spring": ""
     },
@@ -44658,7 +44658,7 @@
     "commonName": "",
     "url": "pear-winter-cole",
     "mainImage": "pear-winter-cole/pear-winter-cole.jpg",
-    "description": "Small dessert pear with russeted, green skin. Fruit ripens in late-autumn. A prolific and reliable fruiter, with a spreading growth habit. A good keeper with fruit lasting well into winter. Pollinators include Beurre Bosc, Packham's Triumph, and Williams' Bon Chretien. White blossoms in spring.",
+    "description": "Small dessert pear with russeted, green skin. Fruit ripens in late-autumn. A prolific and reliable fruiter, with a spreading growth habit. A good keeper with fruit lasting well into winter. Pollinators include Beurre Bosc, Packham's Triumph, and Williams' Bon Chretien. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -44678,17 +44678,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
