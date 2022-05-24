@@ -42219,7 +42219,7 @@
     "commonName": "",
     "url": "nectarine-snow-queen",
     "mainImage": "nectarine-snow-queen/nectarine-snow-queen.jpg",
-    "description": "One of the sweetest and juiciest nectarines, producing freestone fruit with delicious snow-white flesh with red and yellow skin. Pink blossoms in spring. Fruits from early to mid-summer. Self-fertile.",
+    "description": "One of the sweetest and juiciest nectarines, producing freestone fruit with delicious snow-white flesh with red and yellow skin. Yellow autumn leaves. Pink blossoms in spring. Fruits from early to mid-summer. Self-fertile.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -42239,16 +42239,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -42289,16 +42289,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42356,16 +42356,16 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "treeShape": "images/icons/tree-shapes/nestegis/nestegis-general.svg",
     "relatedTrees": [],
@@ -42400,13 +42400,13 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -42430,7 +42430,7 @@
     "commonName": "Chinese Tupelo",
     "url": "nyssa-sinensis-chinese-tupelo",
     "mainImage": "nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo.jpg",
-    "description": "Has wider-spreading branches than Nyssa sylvatica. Smooth, large leaves which turn vibrant scarlet-pink and orange in autumn, even in mild climates. Tolerant of wet and poor-draining soils.",
+    "description": "Has wider-spreading branches than Nyssa sylvatica. Smooth, large leaves which turn vibrant shades of orange, yellow, and red in autumn, even in mild climates. Tolerant of wet and poor-draining soils.",
     "uses": "street",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -42453,10 +42453,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42518,10 +42518,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42608,7 +42608,7 @@
     "commonName": "Black Tupelo, Black Gum",
     "url": "nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum",
     "mainImage": "nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum.jpg",
-    "description": "Pyramidal grower with wide-spreading branches that cascade to the ground. Spectacular autumn leaves of vivid-scarlet and orange. Tolerant of wet and poor-draining soils.",
+    "description": "Pyramidal grower with wide-spreading branches that cascade to the ground. Spectacular autumn leaves of vivid-scarlet, orange, and yellow. Tolerant of wet and poor-draining soils.",
     "uses": "",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -42631,10 +42631,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42669,7 +42669,7 @@
     "commonName": "Black Tupelo, Black Gum",
     "url": "nyssa-sylvatica-sheffield-park-black-tupelo-black-gum",
     "mainImage": "nyssa-sylvatica-sheffield-park-black-tupelo-black-gum/nyssa-sylvatica-sheffield-park-black-tupelo-black-gum.jpg",
-    "description": "An upright grower with dark-green, glossy leaves. The autumn colours change two weeks earlier than other varieties. Stunning autumn colours of orange, yellow, and purple. Tolerant of wet and poor-draining soils.",
+    "description": "An upright grower with dark-green, glossy leaves. The autumn colours change two weeks earlier than other varieties. Stunning autumn colours of orange, yellow, and red. Tolerant of wet and poor-draining soils.",
     "uses": "",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -42692,10 +42692,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42718,7 +42718,7 @@
     "commonName": "Swamp Tupelo",
     "url": "nyssa-sylvatica-var-biflora-swamp-tupelo",
     "mainImage": "nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo.jpg",
-    "description": "Also known as Nyssa biflora. Naturally grows in wet, heavy, clay soils. Pyramidal growth habit with long, narrow leaves. Beautiful autumn tones of red, purple, and orange.",
+    "description": "Also known as Nyssa biflora. Naturally grows in wet, heavy, clay soils. Pyramidal growth habit with long, narrow leaves. Beautiful autumn tones of red, yellow, and orange.",
     "uses": "",
     "tolerates": "",
     "soilType": "clay-soils, poor-draining-soils",
@@ -42741,10 +42741,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42804,16 +42804,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -42854,15 +42854,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "white",
+      "winter": "white",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -42915,15 +42915,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "white",
+      "winter": "white",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -42954,7 +42954,7 @@
     "commonName": "Hakapiri, Akeake",
     "url": "olearia-traversiorum-hakapiri-akeake",
     "mainImage": "olearia-traversiorum-hakapiri-akeake/olearia-traversiorum-hakapiri-akeake.jpg",
-    "description": "Also known as Olearia traversii. Tough and fast-growing. Tolerates light frosts, coastal conditions, wind, and part-shade. An excellent choice for hedging on dry and exposed sites. Does not like wet sites. Bears small clusters of daisy-like flowers in late-spring.",
+    "description": "Also known as Olearia traversii. Tough and fast-growing. Tolerates light frosts, coastal conditions, wind, and part-shade. An excellent choice for hedging on dry and exposed sites. Does not like wet sites. Bears small clusters of white, daisy-like flowers in late-spring.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy, light-frosts",
     "soilType": "dry-soils",
@@ -42974,13 +42974,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -43003,7 +43003,7 @@
     "commonName": "",
     "url": "olive-ascolano",
     "mainImage": "olive-ascolano/olive-ascolano.jpg",
-    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Excellent street tree as no fruit without a pollinator. Fruit ripens in autumn. Olives stay a light-green when ripe.",
+    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Excellent street tree as no fruit without a pollinator. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43020,20 +43020,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43064,7 +43064,7 @@
     "commonName": "",
     "url": "olive-barnea",
     "mainImage": "olive-barnea/olive-barnea.jpg",
-    "description": "Vigorous, upright, fairly-narrow grower developed in Israel. High-yielding oil. Good for pickling and as table fruit. Partially self-fertile, but best crops when planted with Picholine.",
+    "description": "Vigorous, upright, fairly-narrow grower developed in Israel. High-yielding oil. Good for pickling and as table fruit. Partially self-fertile, but best crops when planted with Picholine. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43081,20 +43081,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43108,7 +43108,7 @@
     "commonName": "",
     "url": "olive-el-greco",
     "mainImage": "olive-el-greco/olive-el-greco.jpg",
-    "description": "Selection from Greece. A dense, bushy tree. Ideal for hedging, screening, and shaping. Excellent as a street tree. Great for containers. Self-fertile, but does not usually fruit well in New Zealand. Fruit ripens in autumn.",
+    "description": "Selection from Greece. A dense, bushy tree. Ideal for hedging, screening, and shaping. Excellent as a street tree. Great for containers. Self-fertile, but does not usually fruit well in New Zealand. White flowers in summer and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43125,16 +43125,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -43169,7 +43169,7 @@
     "commonName": "",
     "url": "olive-frantoio",
     "mainImage": "olive-frantoio/olive-frantoio.jpg",
-    "description": "Main Tuscan oil variety from Italy. Exceptionally high quality and quantity-yielding oil. Pickles well when green. Suitable for lining avenues and driveways. Frost tolerant. Self-fertile. Fruit ripens in autumn. Great variety for pollinating other olives.",
+    "description": "Main Tuscan oil variety from Italy. Exceptionally high quality and quantity-yielding oil. Pickles well when green. Suitable for lining avenues and driveways. Frost tolerant. Self-fertile. Great variety for pollinating other olives. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening, pleaching",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43186,20 +43186,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43218,7 +43218,7 @@
     "commonName": "",
     "url": "olive-j5",
     "mainImage": "olive-j5/olive-j5.jpg",
-    "description": "New Zealand selection. Frost tolerant. Heavy yield of olives on a large tree. Excellent for hedges, screens, lining avenues, and driveways. Self-fertile. Fruit ripens in autumn.",
+    "description": "New Zealand selection. Frost tolerant. Heavy yield of olives on a large tree. Excellent for hedges, screens, lining avenues, and driveways. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43235,20 +43235,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43275,7 +43275,7 @@
     "commonName": "",
     "url": "olive-koroneiki",
     "mainImage": "olive-koroneiki/olive-koroneiki.jpg",
-    "description": "Selection from Greece. Bears large crops of high-yielding oil from small olives. Excellent for hedging and screening. Well suited to coastal areas. Self-fertile. Fruit ripens in autumn.",
+    "description": "Selection from Greece. Bears large crops of high-yielding oil from small olives. Excellent for hedging and screening. Well suited to coastal areas. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43292,20 +43292,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43332,7 +43332,7 @@
     "commonName": "",
     "url": "olive-leccino",
     "mainImage": "olive-leccino/olive-leccino.jpg",
-    "description": "Superb Tuscan selection from Italy for oil. Especially tolerant of cold and frosts once established. Excellent for lining driveways and avenues. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripens in autumn.",
+    "description": "Superb Tuscan selection from Italy for oil. Especially tolerant of cold and frosts once established. Excellent for lining driveways and avenues. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43349,20 +43349,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43385,7 +43385,7 @@
     "commonName": "",
     "url": "olive-manzanillo",
     "mainImage": "olive-manzanillo/olive-manzanillo.jpg",
-    "description": "Famous Spanish dual-purpose variety. Excellent texture and great eating. One of the best pickling olives. Great for pleaching as the branches spread outwards. Not for cold areas. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripens in autumn.",
+    "description": "Famous Spanish dual-purpose variety. Excellent texture and great eating. One of the best pickling olives. Great for pleaching as the branches spread outwards. Not for cold areas. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening, pleaching",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43402,20 +43402,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43438,7 +43438,7 @@
     "commonName": "",
     "url": "olive-mission",
     "mainImage": "olive-mission/olive-mission.jpg",
-    "description": "Selection from California in the USA. A vigorous, upright grower. Olives are great for oil and table eating. Frost tolerant. Self-fertile.",
+    "description": "Selection from California in the USA. A vigorous, upright grower. Olives are great for oil and table eating. Frost tolerant. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43455,20 +43455,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43482,7 +43482,7 @@
     "commonName": "",
     "url": "olive-picual",
     "mainImage": "olive-picual/olive-picual.jpg",
-    "description": "Spain's top oil variety with high quality and quantity oil production. Excellent for screening, hedging, lining avenues, and driveways. Frost tolerant and tolerant of poorly-drained soils. Self-fertile. Fruit ripens in autumn.",
+    "description": "Spain's top oil variety with high quality and quantity oil production. Excellent for screening, hedging, lining avenues, and driveways. Frost tolerant and tolerant of poorly-drained soils. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43499,20 +43499,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
@@ -43543,7 +43543,7 @@
     "commonName": "",
     "url": "olive-verdale",
     "mainImage": "olive-verdale/olive-verdale.jpg",
-    "description": "A dual purpose French olive. Good for pickling at the green fruit stage. A compact grower well suited for hedging and screens. Has slightly-weeping branches. Self-fertile. Fruit ripens in autumn.",
+    "description": "A dual purpose French olive. Good for pickling at the green fruit stage. A compact grower well suited for hedging and screens. Has slightly-weeping branches. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -43560,20 +43560,20 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, red, purple, black",
       "winter": "",
       "spring": ""
     },
