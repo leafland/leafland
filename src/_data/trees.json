@@ -45693,7 +45693,7 @@
     "commonName": "Karo",
     "url": "pittosporum-crassifolium-karo",
     "mainImage": "pittosporum-crassifolium-karo/pittosporum-crassifolium-karo.jpeg",
-    "description": "Forms an erect-growing tree. White-felted new shoots are covered with a dense layer of silver hair. Mature leaves are dark-green and leathery. Purple flowers fragrance the air through mid-summer. Very tough coastal-hardy specimen tree, screen, or hedge.",
+    "description": "Forms an erect-growing tree. Grey-green leaves with white undersides. Purple flowers fragrance the air through spring to early-summer. Very tough coastal-hardy specimen tree, screen, or hedge.",
     "uses": "street, hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -45710,16 +45710,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey, white",
+      "autumn": "green, grey, white",
+      "winter": "green, grey, white",
+      "spring": "green, grey, white"
     },
     "fruit": {
       "summer": "",
@@ -45767,16 +45767,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -45828,16 +45828,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -45871,22 +45871,22 @@
     "height": "3m",
     "width": "2m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "black",
+      "autumn": "black",
+      "winter": "black",
+      "spring": "black"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -45937,13 +45937,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white, pink",
+      "autumn": "green, white, pink",
+      "winter": "green, white, pink",
+      "spring": "green, white, pink"
     },
     "fruit": {
       "summer": "",
@@ -45977,22 +45977,22 @@
     "height": "3m",
     "width": "2m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "black",
+      "autumn": "black",
+      "winter": "black",
+      "spring": "black"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46039,13 +46039,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46088,13 +46088,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46141,13 +46141,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46190,13 +46190,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruit": {
       "summer": "",
@@ -46239,13 +46239,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46292,13 +46292,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46341,13 +46341,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46390,13 +46390,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46439,13 +46439,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -46468,7 +46468,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo.jpeg",
-    "description": "Bushy, erect grower with a rounded form. Small, glossy, fresh-green leaves are tightly-packed along the erect stems. Bright-purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen or hedge.",
+    "description": "Bushy, erect grower with a rounded form. Small, glossy, fresh-green leaves are tightly-packed along the erect stems. Purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen or hedge.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -46488,13 +46488,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46541,13 +46541,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46590,13 +46590,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -46639,13 +46639,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white, pink",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -46687,22 +46687,22 @@
     "height": "3m",
     "width": "2m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "black",
+      "autumn": "black",
+      "winter": "black",
+      "spring": "black"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -46729,7 +46729,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-small-ball-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-small-ball-kohuhu-black-matipo/pittosporum-tenuifolium-small-ball-kohuhu-black-matipo.jpeg",
-    "description": "Lovely, compact grower with a tiny leaf. Suitable for low hedging and edging or as a good filler where a hardy plant is needed. Purple spring flowers scent the air with their sweet fragrance.",
+    "description": "Lovely, compact grower with a tiny, silver-green leaf. Suitable for low hedging and edging or as a good filler where a hardy plant is needed. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -46749,13 +46749,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -46793,13 +46793,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46837,22 +46837,22 @@
     "height": "3m",
     "width": "2m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "black",
+      "autumn": "black",
+      "winter": "black",
+      "spring": "black"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruit": {
       "summer": "",
@@ -46875,7 +46875,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-variegatum-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-variegatum-kohuhu-black-matipo/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo.jpg",
-    "description": "Slender, erect, narrow, pyramidal form with grey branches and stems. Long, grey-green leaves have broad, cream-white margins. Great for lighting up dark areas. Bright-purple spring flowers scent the air with their sweet fragrance. Can be clipped into any size or form. Excellent as a screen.",
+    "description": "Slender, erect, narrow, pyramidal form with grey branches and stems. Long, green leaves have broad, cream-white margins. Great for lighting up dark areas. Purple spring flowers scent the air with their sweet fragrance. Can be clipped into any size or form. Excellent as a screen.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -46895,13 +46895,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "green, white",
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -46928,7 +46928,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo.jpeg",
-    "description": "Erect, bushy tree. The shimmering oval leaves are clear jade-green contrasting with wine-red stems. Great as a feature tree or a hedge. Dark-maroon, almost black flowers in spring. Hardy to most soil conditions, avoid wet ground.",
+    "description": "Erect, bushy tree. The shimmering oval leaves are clear jade-green contrasting with wine-red stems. Great as a feature tree or a hedge. Purple flowers in spring. Hardy to most soil conditions, avoid wet ground.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -46939,22 +46939,22 @@
     "height": "3m",
     "width": "2m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -46981,7 +46981,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo.jpg",
-    "description": "Slender, erect, narrow, pyramidal form with attractively-rippled, grey-green, glossy leaves. Purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen.",
+    "description": "Slender, erect, narrow, pyramidal form with attractively-rippled, blue-green, glossy leaves. Purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen.",
     "uses": "street, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -47001,13 +47001,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
     },
     "fruit": {
       "summer": "",
