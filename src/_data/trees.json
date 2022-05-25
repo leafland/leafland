@@ -47055,16 +47055,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47087,7 +47087,7 @@
     "commonName": "Tawāpou",
     "url": "planchonella-costata-tawapou",
     "mainImage": "planchonella-costata-tawapou/planchonella-costata-tawapou.jpg",
-    "description": "A hardy coastal tree with an upright form when young, maturing to an open, spreading habit. Distinctive leathery, shiny, green leaves. Produces large, red-black, date-like fruit which are adored by birds. Frost tender.",
+    "description": "A hardy coastal tree with an upright form when young, maturing to an open, spreading habit. Distinctive leathery, shiny, green leaves. Produces large, date-sized fruit which are adored by birds. Fruit are red ripening to purple-black. Fruits from early-summer to mid-winter. Frost tender.",
     "uses": "attracts-birds",
     "tolerates": "coastal, windy",
     "soilType": "",
@@ -47110,15 +47110,15 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
+      "summer": "red, purple, black",
+      "autumn": "red, purple, black",
+      "winter": "red, purple, black",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/planchonella/planchonella-general.svg",
@@ -47140,7 +47140,7 @@
     "commonName": "London Plane",
     "url": "platanus-x-acerifolia-london-plane",
     "mainImage": "platanus-x-acerifolia-london-plane/platanus-x-acerifolia-london-plane.jpeg",
-    "description": "Also known as Platanus x hispanica. Grows rapidly to form a large, round-headed tree. Smooth, mottled bark peels off in large flakes. Large, palmate leaves. Great for large lawns, parks, avenues, and streets. Can be pruned heavily. Able to survive extreme conditions of poor soil, limited moisture, and pollution.",
+    "description": "Also known as Platanus x hispanica. Grows rapidly to form a large, round-headed tree. Smooth, mottled bark peels off in large flakes. Large, palmate leaves. Great for large lawns, parks, avenues, and streets. Can be pruned heavily. Able to survive extreme conditions of poor soil, limited moisture, and pollution. Yellow-orange autumn leaves.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "dry-soils",
@@ -47163,10 +47163,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47217,7 +47217,7 @@
     "commonName": "London Plane",
     "url": "platanus-x-acerifolia-pyramidalis-london-plane",
     "mainImage": "platanus-x-acerifolia-pyramidalis-london-plane/platanus-x-acerifolia-pyramidalis-london-plane.jpg",
-    "description": "A more tidy and erect-growing form of Platanus x acerifolia, noted for its more symmetrical shape. Fits into tighter spaces, avenues, and streets.",
+    "description": "A more tidy and erect-growing form of Platanus x acerifolia, noted for its more symmetrical shape. Fits into tighter spaces, avenues, and streets. Yellow-orange autumn leaves.",
     "uses": "street, narrow-sites",
     "tolerates": "windy",
     "soilType": "dry-soils",
@@ -47240,10 +47240,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47261,7 +47261,7 @@
     "commonName": "London Plane",
     "url": "platanus-x-acerifolia-suttneri-london-plane",
     "mainImage": "platanus-x-acerifolia-suttneri-london-plane/platanus-x-acerifolia-suttneri-london-plane.jpg",
-    "description": "Very handsome tree with a rounded and branched head. Attractive, mottled, flaking bark. Large leaves are heavily-striped and splashed with white. Attractive shade tree.",
+    "description": "Very handsome tree with a rounded and branched head. Attractive, mottled, flaking bark. Large leaves are heavily-striped and splashed with white. Attractive shade tree. Yellow-orange autumn leaves.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "dry-soils",
@@ -47284,10 +47284,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, white",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -47305,7 +47305,7 @@
     "commonName": "Oriental Plane",
     "url": "platanus-orientalis-oriental-plane",
     "mainImage": "platanus-orientalis-oriental-plane/platanus-orientalis-oriental-plane.jpg",
-    "description": "Grows rapidly to form a large, round-headed tree. Bark peels off in large flakes to give a dappled appearance. Where space permits, forms a shade tree. Great for large lawns, parks, avenues, and streets. Can be pruned heavily. Tolerant of pollution.",
+    "description": "Grows rapidly to form a large, round-headed tree. Bark peels off in large flakes to give a dappled appearance. Where space permits, forms a shade tree. Great for large lawns, parks, avenues, and streets. Can be pruned heavily. Tolerant of pollution. Yellow autumn leaves.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "",
@@ -47328,10 +47328,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47417,10 +47417,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47443,7 +47443,7 @@
     "commonName": "Oriental Plane",
     "url": "platanus-orientalis-alford-flame-oriental-plane",
     "mainImage": "platanus-orientalis-alford-flame-oriental-plane/platanus-orientalis-alford-flame-oriental-plane.jpg",
-    "description": "A hardy select form of Platanus orientalis found in Canterbury. Deep-green, leathery leaves colour up a brilliant red, orange, and bronze in early-autumn. Suitable for avenue, group, and specimen planting.",
+    "description": "A hardy select form of Platanus orientalis found in Canterbury. Deep-green, leathery leaves colour up a brilliant red and orange in early-autumn. Suitable for avenue, group, and specimen planting.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "",
@@ -47466,10 +47466,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47515,10 +47515,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47545,7 +47545,7 @@
     "commonName": "Oriental Plane",
     "url": "platanus-orientalis-digitata-oriental-plane",
     "mainImage": "platanus-orientalis-digitata-oriental-plane/platanus-orientalis-digitata-oriental-plane.jpg",
-    "description": "Grows into a large tree with a wide, oval crown. This selected form of Platanus orientalis has deeply-divided leaves. Has attractive bark that flakes off giving a speckled appearance on the trunk. Beautiful yellow and orange autumn foliage.",
+    "description": "Grows into a large tree with a wide, oval crown. This selected form of Platanus orientalis has deeply-divided leaves. Has attractive bark that flakes off giving a speckled appearance on the trunk. Beautiful yellow autumn foliage.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -47568,10 +47568,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -47598,7 +47598,7 @@
     "commonName": "Oriental Plane",
     "url": "platanus-orientalis-fitzherbert-oriental-plane",
     "mainImage": "platanus-orientalis-fitzherbert-oriental-plane/platanus-orientalis-fitzherbert-oriental-plane.jpg",
-    "description": "This selected form of Platanus orientalis was developed for the Manawatu, and is the feature tree in Fitzherbert Ave, Palmerston North. Withstands exposed, windy conditions and heavy clay soils. A compact, upright grower with deeply-cut green leaves. Disease-resistant.",
+    "description": "This selected form of Platanus orientalis was developed for the Manawatu, and is the feature tree in Fitzherbert Ave, Palmerston North. Withstands exposed, windy conditions and heavy clay soils. A compact, upright grower with deeply-cut green leaves. Disease-resistant. Yellow autumn leaves.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "clay-soils",
@@ -47621,10 +47621,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
