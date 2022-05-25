@@ -47655,7 +47655,7 @@
     "commonName": "",
     "url": "plum-billington",
     "mainImage": "plum-billington/plum-billington.jpg",
-    "description": "The first plum to ripen with dark-red skin and flesh. Heavy cropper in early to mid-summer. Fruit has a good flavour. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'.",
+    "description": "The first plum to ripen with red-purple skin and red flesh. Heavy cropper in early to mid-summer. Fruit has a good flavour. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47675,16 +47675,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47720,7 +47720,7 @@
     "commonName": "",
     "url": "plum-black-doris",
     "mainImage": "plum-black-doris/plum-black-doris.jpg",
-    "description": "Medium to large, dark black-purple skin with firm, dark-red flesh. Fruits from late-summer to early-autumn. A vigorous, upright tree with heavy crops of fruit. Excellent all-purpose plum for eating, jams, sauces, and bottling. White flowers in spring. Pollinators are Plum 'Billington' and Plum 'Santa Rosa'.",
+    "description": "Medium to large, dark black-purple skin with firm, dark-red flesh. Fruits from late-summer to early-autumn. A vigorous, upright tree with heavy crops of fruit. Excellent all-purpose plum for eating, jams, sauces, and bottling. White flowers in spring. Pollinators are Plum 'Billington' and Plum 'Santa Rosa'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47740,16 +47740,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47773,7 +47773,7 @@
     "commonName": "",
     "url": "plum-black-doris-billington",
     "mainImage": "plum-black-doris-billington/plum-black-doris-billington.jpg",
-    "description": "Double plum. White flowers in spring. See Plum 'Black Doris' and Plum 'Billington' for descriptions. First image is of Plum 'Black Doris', second is of Plum 'Billington'.",
+    "description": "Double plum. See Plum 'Black Doris' and Plum 'Billington' for descriptions. First image is of Plum 'Black Doris', second is of Plum 'Billington'.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47793,16 +47793,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47822,7 +47822,7 @@
     "commonName": "",
     "url": "plum-burbank",
     "mainImage": "plum-burbank/plum-burbank.jpg",
-    "description": "Large, round, dark-red skin. Sweet, juicy, yellow flesh. Heavy cropper in mid-summer. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa'.",
+    "description": "Large, round, dark-red skin. Sweet, juicy, yellow flesh. Heavy cropper in mid-summer. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47842,16 +47842,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47866,7 +47866,7 @@
     "commonName": "",
     "url": "plum-fortune",
     "mainImage": "plum-fortune/plum-fortune.jpg",
-    "description": "Very large, round, bright-red plum with aromatic, amber flesh. Very meaty, sweet, and juicy. Fruits mid to late-summer. White flowers in spring. Pollinator is Plum 'Santa Rosa'.",
+    "description": "Very large, round, bright-red plum with aromatic, amber flesh. Very meaty, sweet, and juicy. Fruits mid to late-summer. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47886,16 +47886,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47910,7 +47910,7 @@
     "commonName": "",
     "url": "plum-hawera",
     "mainImage": "plum-hawera/plum-hawera.jpg",
-    "description": "Has large, dark-red skinned and fleshed fruit. Freestone, sweet, juicy, and very firm. Fruits around late-summer to early-autumn. White flowers in spring. Self-fertile.",
+    "description": "Has large, dark-red skinned and fleshed fruit. Freestone, sweet, juicy, and very firm. Fruits around late-summer to early-autumn. White flowers in spring. Self-fertile. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47930,16 +47930,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -47963,7 +47963,7 @@
     "commonName": "",
     "url": "plum-luisa",
     "mainImage": "plum-luisa/plum-luisa.jpg",
-    "description": "Large, juicy plum with yellow-red skin and yellow flesh. Fruit is shaped like a mango and is very aromatic and sweet. Fruit ripens in mid-summer. Easy to grow and manage in the home garden. White flowers in spring. Self-fertile, but higher-yielding crops when planted with Plum 'Billington'.",
+    "description": "Large, juicy plum with yellow-red skin and yellow flesh. Fruit is shaped like a mango and is very aromatic and sweet. Fruit ripens in mid-summer. Easy to grow and manage in the home garden. White flowers in spring. Self-fertile, but higher-yielding crops when planted with Plum 'Billington'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -47983,16 +47983,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48028,7 +48028,7 @@
     "commonName": "",
     "url": "plum-omega",
     "mainImage": "plum-omega/plum-omega.jpg",
-    "description": "Produces heavy crops of mid-sized, red fruit with speckled skin and red flesh. Fruit ripens in early-autumn. White flowers in spring. Freestone. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa', Plum 'Billington', or Plum 'Burbank'.",
+    "description": "Produces heavy crops of mid-sized, red fruit with speckled skin and red flesh. Fruit ripens in early-autumn. White flowers in spring. Freestone. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa', Plum 'Billington', or Plum 'Burbank'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48048,16 +48048,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48072,7 +48072,7 @@
     "commonName": "",
     "url": "plum-purple-king",
     "mainImage": "plum-purple-king/plum-purple-king.jpg",
-    "description": "Very large, purple-skinned fruit with yellow flesh. Sweet and juicy. Fruits late-summer. An excellent performing plum for warmer regions. White flowers in spring. Requires Plum 'Billington' or Plum 'Santa Rosa' for pollination.",
+    "description": "Very large, purple-skinned fruit with yellow flesh. Sweet and juicy. Fruits late-summer. An excellent performing plum for warmer regions. White flowers in spring. Requires Plum 'Billington' or Plum 'Santa Rosa' for pollination. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48092,16 +48092,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48116,7 +48116,7 @@
     "commonName": "",
     "url": "plum-reine-claude-de-bavay",
     "mainImage": "plum-reine-claude-de-bavay/plum-reine-claude-de-bavay.jpg",
-    "description": "Self-fertile. A heavy cropper which produces sweet, juicy, smaller-sized, green plums. Fruits in early-autumn. White flowers in spring. Well suited to warmer districts.",
+    "description": "Self-fertile. A heavy cropper which produces sweet, juicy, smaller-sized, green plums. Fruits in early-autumn. White flowers in spring. Well suited to warmer districts. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48136,16 +48136,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "green",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48160,7 +48160,7 @@
     "commonName": "",
     "url": "plum-ruby-queen",
     "mainImage": "plum-ruby-queen/plum-ruby-queen.jpeg",
-    "description": "Dark red-black skin and sweet, juicy, red flesh. A highly productive producer with good disease resistance. Recommended for organic-growing and growing in areas with high humidity. Fruit ripens in late-summer to early-autumn. White flowers in spring. Pollinator is Plum 'Santa Rosa'.",
+    "description": "Dark red-purple skin and sweet, juicy, red flesh. A highly productive producer with good disease resistance. Recommended for organic-growing and growing in areas with high humidity. Fruit ripens in late-summer to early-autumn. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48180,16 +48180,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48213,7 +48213,7 @@
     "commonName": "",
     "url": "plum-santa-rosa",
     "mainImage": "plum-santa-rosa/plum-santa-rosa.jpg",
-    "description": "Medium to large, round, crimson-red plum. Yellow flesh is flushed with pink. Sweet and juicy with excellent flavours. Ripens from mid-summer into autumn. All-purpose plum for eating, jams, and sauces. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'.",
+    "description": "Medium to large, round, crimson-red plum. Yellow flesh is flushed with pink. Sweet and juicy with excellent flavours. Ripens from mid-summer into autumn. All-purpose plum for eating, jams, and sauces. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48233,16 +48233,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48274,7 +48274,7 @@
     "commonName": "",
     "url": "plum-satsuma",
     "mainImage": "plum-satsuma/plum-satsuma.jpg",
-    "description": "Plums have deep-red skin and red flesh. White flowers in spring. Fruit ripens around late-summer. Partially self-fertile, but best crops when planted with Plum 'Santa Rosa' or Plum 'Shiro'.",
+    "description": "Plums have purple-red skin and red flesh. White flowers in spring. Fruit ripens around late-summer. Partially self-fertile, but best crops when planted with Plum 'Santa Rosa' or Plum 'Shiro'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48294,16 +48294,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48318,7 +48318,7 @@
     "commonName": "",
     "url": "plum-shiro",
     "mainImage": "plum-shiro/plum-shiro.jpg",
-    "description": "Large, golden, sweet, and juicy plums. Fruits in mid-summer. White flowers in spring. Plums are good for eating, cooking, canning, preserves, and desserts. Pollinator is Plum 'Santa Rosa'.",
+    "description": "Large, golden, sweet, and juicy plums. Fruits in mid-summer. White flowers in spring. Plums are good for eating, cooking, canning, preserves, and desserts. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48338,16 +48338,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
@@ -48362,7 +48362,7 @@
     "commonName": "",
     "url": "plum-sultan",
     "mainImage": "plum-sultan/plum-sultan.jpg",
-    "description": "Large plums with deep-red skin and red flesh that is juicy and highly-flavoured. White flowers in spring. Fruit ripens in late-summer. Pollinators are Plum 'Santa Rosa', Plum 'Burbank', and Plum 'Omega'.",
+    "description": "Large plums with deep-red skin and red flesh that is juicy and highly-flavoured. White flowers in spring. Fruit ripens in late-summer. Pollinators are Plum 'Santa Rosa', Plum 'Burbank', and Plum 'Omega'. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -48382,16 +48382,16 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "red, purple",
       "autumn": "",
       "winter": "",
       "spring": ""
