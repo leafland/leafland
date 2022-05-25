@@ -48429,10 +48429,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48479,7 +48479,7 @@
     "commonName": "Henkel's Yellowwood",
     "url": "podocarpus-henkelii-henkels-yellowwood",
     "mainImage": "podocarpus-henkelii-henkels-yellowwood/podocarpus-henkelii-henkels-yellowwood.jpg",
-    "description": "South African tree forming a large, pyramidal-growing tree. Shiny, dark-green, narrow leaves clothe the pendent branches. New spring shoots are a bright salmon-pink. Protect from heavy frosts.",
+    "description": "South African tree forming a large, pyramidal-growing tree. Shiny, dark-green, narrow leaves clothe the pendent branches. Protect from heavy frosts.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -48502,10 +48502,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48548,7 +48548,7 @@
     "commonName": "Hall's Tōtara, Mountain Tōtara",
     "url": "podocarpus-laetus-halls-totara-mountain-totara",
     "mainImage": "podocarpus-laetus-halls-totara-mountain-totara/podocarpus-laetus-halls-totara-mountain-totara.jpg",
-    "description": "Formerly known as Podocarpus hallii and Podocarpus cunninghamii. A slow-growing conifer. Closely related to Podocarpus totara, but has longer juvenile leaves and thin, flaky, paper-like bark. Great for hedging. Catkins in mid-spring to early-summer are a source of pollen for bees.",
+    "description": "Formerly known as Podocarpus hallii and Podocarpus cunninghamii. A slow-growing conifer. Closely related to Podocarpus totara, but has longer juvenile leaves and thin, flaky, paper-like bark. Great for hedging. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -48565,16 +48565,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48628,10 +48628,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48693,10 +48693,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48750,10 +48750,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -48780,7 +48780,7 @@
     "commonName": "Tōtara",
     "url": "podocarpus-totara-totara",
     "mainImage": "podocarpus-totara-totara/podocarpus-totara-totara.jpeg",
-    "description": "This tall pyramidal tree is covered with olive-green to bronze, needle-like leaves. New leaves are a fresh-green. Red-brown bark peels in long strips. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Catkins in mid-spring to early-summer are a source of pollen for bees.",
+    "description": "This tall pyramidal tree is covered with olive-green to bronze, needle-like leaves. New leaves are a fresh-green. Red-brown bark peels in long strips. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
     "uses": "street, hedging-and-screening, attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -48797,16 +48797,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, brown",
+      "autumn": "green, brown",
+      "winter": "green, brown",
+      "spring": "green, brown"
     },
     "fruit": {
       "summer": "",
@@ -48849,7 +48849,7 @@
     "commonName": "Tōtara",
     "url": "podocarpus-totara-aurea-totara",
     "mainImage": "podocarpus-totara-aurea-totara/podocarpus-totara-aurea-totara.jpg",
-    "description": "Similar growth habit to Podocarpus totara but with more graceful branches. The golden-yellow leaves are softer to touch and impart a beautiful glow in any garden. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Catkins in mid-spring to early-summer are a source of pollen for bees.",
+    "description": "Similar growth habit to Podocarpus totara but with more graceful branches and softer leaves. The leaves emerge yellow-green in spring before changing to yellow in summer and deepning to golden-yellow in winter. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
     "uses": "street, hedging-and-screening, attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -48866,16 +48866,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow",
+      "autumn": "yellow",
+      "winter": "yellow",
+      "spring": "yellow, gren"
     },
     "fruit": {
       "summer": "",
@@ -48906,7 +48906,7 @@
     "commonName": "Tōtara",
     "url": "podocarpus-totara-matapouri-blue-totara",
     "mainImage": "podocarpus-totara-matapouri-blue-totara/podocarpus-totara-matapouri-blue-totara.jpg",
-    "description": "Blue-grey leaves are a feature of this Podocarpus totara selection. Slow-growing. Can be clipped into any shape and size. Great for hedging and screening. Catkins in mid-spring to early-summer are a source of pollen for bees.",
+    "description": "Blue-grey leaves are a feature of this Podocarpus totara selection. Slow-growing. Can be clipped into any shape and size. Great for hedging and screening. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
     "uses": "hedging-and-screening, attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -48923,16 +48923,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow, green",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "blue, grey",
+      "autumn": "blue, grey",
+      "winter": "blue, grey",
+      "spring": "blue, grey"
     },
     "fruit": {
       "summer": "",
@@ -48963,7 +48963,7 @@
     "commonName": "Chinese Pearlbloom",
     "url": "poliothyrsis-sinensis-chinese-pearlbloom",
     "mainImage": "poliothyrsis-sinensis-chinese-pearlbloom/poliothyrsis-sinensis-chinese-pearlbloom.jpg",
-    "description": "A broadly-conical tree. Attractively-tinted leaves with cream-coloured flowers in large panicles in late-summer. A beautiful tree suited to the home garden.",
+    "description": "A broadly-conical tree. Attractive leaves with cream-coloured flowers in large panicles in late-summer. A beautiful tree suited to the home garden. Yellow autumn leaves.",
     "uses": "small-garden",
     "tolerates": "",
     "soilType": "",
@@ -48980,16 +48980,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49035,10 +49035,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49100,10 +49100,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49138,7 +49138,7 @@
     "commonName": "Miro, New Zealand Brown Pine",
     "url": "prumnopitys-ferruginea-miro-new-zealand-brown-pine",
     "mainImage": "prumnopitys-ferruginea-miro-new-zealand-brown-pine/prumnopitys-ferruginea-miro-new-zealand-brown-pine.jpg",
-    "description": "Now also known as Pectinopitys ferruginea. A most beautiful slow-growing tree with very dark-green, feathery leaves. Mature trees bear attractive red fruit which pigeons adore. Grow in semi-shade.",
+    "description": "Now also known as Pectinopitys ferruginea. A most beautiful slow-growing tree with very dark-green, feathery leaves. Mature trees bear attractive red fruit from late-spring to early-autumn which pigeons adore. Grow in semi-shade.",
     "uses": "attracts-birds",
     "tolerates": "drought",
     "soilType": "dry-soils",
@@ -49161,16 +49161,16 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "red",
+      "autumn": "red",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "treeShape": "images/icons/tree-shapes/prumnopitys/prumnopitys-general.svg",
     "relatedTrees": [],
@@ -49191,7 +49191,7 @@
     "commonName": "Mataī, New Zealand Black Pine",
     "url": "prumnopitys-taxifolia-matai-new-zealand-black-pine",
     "mainImage": "prumnopitys-taxifolia-matai-new-zealand-black-pine/prumnopitys-taxifolia-matai-new-zealand-black-pine.jpg",
-    "description": "Very similar looking to Miro, except during the juvenile stage when the Matai bears a tangle of silver and orange-coloured branches. Mature trees bear black fruit.",
+    "description": "Very similar looking to Miro, except during the juvenile stage when the Matai bears a tangle of orange-brown branches. Mature trees bear purple-black fruit throughout the year.",
     "uses": "attracts-birds",
     "tolerates": "drought",
     "soilType": "dry-soils",
@@ -49202,10 +49202,10 @@
     "height": "6m",
     "width": "5m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "orange, brown",
+      "autumn": "orange, brown",
+      "winter": "orange, brown",
+      "spring": "orange, brown"
     },
     "flowers": {
       "summer": "",
@@ -49214,16 +49214,16 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "purple, black",
+      "autumn": "purple, black",
+      "winter": "purple, black",
+      "spring": "purple, black"
     },
     "treeShape": "images/icons/tree-shapes/prumnopitys/prumnopitys-general.svg",
     "relatedTrees": [],
@@ -49272,13 +49272,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49365,7 +49365,7 @@
     "commonName": "Flowering Plum",
     "url": "prunus-x-blireiana-flowering-plum",
     "mainImage": "prunus-x-blireiana-flowering-plum/prunus-x-blireiana-flowering-plum.jpg",
-    "description": "Beautiful hybrid between an ornamental plum and apricot giving a profusion of fragrant, rose-pink, double blossoms from late-winter to early-spring. Rich claret-red leaves persist though summer and remain this colour until they fall in autumn. Great for smaller gardens. Excellent street tree.",
+    "description": "Beautiful hybrid between an ornamental plum and apricot giving a profusion of fragrant, rose-pink, double blossoms from late-winter to early-spring. Rich purple leaves persist though summer and remain this colour until they fall in autumn. Great for smaller gardens. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49384,14 +49384,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple",
+      "autumn": "purple",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "fruit": {
       "summer": "",
@@ -49493,14 +49493,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink, red",
+      "spring": "pink, red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49575,7 +49575,7 @@
     "commonName": "Taiwan Cherry",
     "url": "prunus-campanulata-jims-delight-taiwan-cherry",
     "mainImage": "prunus-campanulata-jims-delight-taiwan-cherry/prunus-campanulata-jims-delight-taiwan-cherry.jpg",
-    "description": "A vase-shaped tree with a slight spreading habit. Small, single, pink flowers in spring. Great for driveways or as a street tree.",
+    "description": "A vase-shaped tree with a slight spreading habit. Small, single, pink flowers in spring. Great for driveways or as a street tree. Yellow, orange, and red autumn leaves.",
     "uses": "small-garden, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49595,13 +49595,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49619,7 +49619,7 @@
     "commonName": "Taiwan Cherry",
     "url": "prunus-campanulata-okame-taiwan-cherry",
     "mainImage": "prunus-campanulata-okame-taiwan-cherry/prunus-campanulata-okame-taiwan-cherry.jpg",
-    "description": "Has a compact, rounded-head. Masses of bright, carmine-rose, bell-shaped, single blossoms hang in pendant clusters. Flowers from late-winter to early-spring. Bright-orange autumn leaves. Great for the smaller garden. Excellent street tree. A superb tree for attracting birds and bees as flowers are full of nectar. This cultivar is not sterile.",
+    "description": "Has a compact, rounded-head. Masses of bright, pink, bell-shaped, single blossoms hang in pendant clusters. Flowers from late-winter to early-spring. Yellow, orange, and red autumn leaves. Great for the smaller garden. Excellent street tree. A superb tree for attracting birds and bees as flowers are full of nectar. This cultivar is not sterile.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49638,14 +49638,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49716,7 +49716,7 @@
     "commonName": "Taiwan Cherry",
     "url": "prunus-campanulata-pink-cloud-taiwan-cherry",
     "mainImage": "prunus-campanulata-pink-cloud-taiwan-cherry/prunus-campanulata-pink-cloud-taiwan-cherry.jpg",
-    "description": "Delightful rounded, neat-headed tree with spreading branches. Great shade tree for a smaller garden. Clusters of soft-pink, single flowers hang from the branches from late-winter to early-spring. Blossoms are full of nectar to the delight of birds. Copper-green leaves all spring and summer. Excellent street tree. A sterile cultivar.",
+    "description": "Delightful rounded, neat-headed tree with spreading branches. Great shade tree for a smaller garden. Clusters of soft-pink, single flowers hang from the branches from late-winter to early-spring. Blossoms are full of nectar to the delight of birds. Excellent street tree. A sterile cultivar. Yellow, orange, and red autumn leaves.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49735,14 +49735,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49813,7 +49813,7 @@
     "commonName": "Taiwan Cherry",
     "url": "prunus-campanulata-superba-taiwan-cherry",
     "mainImage": "prunus-campanulata-superba-taiwan-cherry/prunus-campanulata-superba-taiwan-cherry.jpg",
-    "description": "Hybrid which flowers from late-winter to early-spring. Profuse display of deep rose-red, single blossoms in pendulous clusters. Blossoms are full of nectar to the delight of birds. Forms an upright, pyramidal tree. Great for the smaller garden and lining driveways. Excellent street tree. This cultivar is not sterile.",
+    "description": "Hybrid which flowers from late-winter to early-spring. Profuse display of deep rose-red, single blossoms in pendulous clusters. Blossoms are full of nectar to the delight of birds. Forms an upright, pyramidal tree. Great for the smaller garden and lining driveways. Excellent street tree. This cultivar is not sterile. Yellow, orange, and red autumn leaves.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49832,14 +49832,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink, red",
+      "spring": "pink, red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -49890,7 +49890,7 @@
     "commonName": "Flowering Plum",
     "url": "prunus-cerasifera-thundercloud-flowering-plum",
     "mainImage": "prunus-cerasifera-thundercloud-flowering-plum/prunus-cerasifera-thundercloud-flowering-plum.jpg",
-    "description": "Black stems and branches are revealed through winter. Stems are wreathed in dainty, pink blossoms in early-spring. Leaves emerge smoke-red and darken to purple-black. Colour persists all summer and into autumn when the leaves fall. Upright-grower. Excellent street tree.",
+    "description": "Stems are wreathed in dainty, pink blossoms in early-spring. Leaves emerge red and darken to purple. Colour persists all summer and into autumn when the leaves fall. Upright-grower. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -49910,13 +49910,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "purple",
+      "autumn": "purple",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
@@ -50031,13 +50031,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50055,7 +50055,7 @@
     "commonName": "Flowering Cherry",
     "url": "prunus-x-hillieri-spire-flowering-cherry",
     "mainImage": "prunus-x-hillieri-spire-flowering-cherry/prunus-x-hillieri-spire-flowering-cherry.jpg",
-    "description": "Also known as Prunus 'Spire'. Densely-branched, narrow, upright form with smaller leaves. Bronze spring leaves become green, turning red and orange in autumn. Becomes a cloud of dainty, white to soft-pink blossoms in early-spring, contrasting against the red shoots. Great for narrow spaces and lining driveways. Excellent street tree.",
+    "description": "Also known as Prunus 'Spire'. Densely-branched, narrow, upright form with smaller leaves. Green leaves turn red and orange in autumn. Becomes a cloud of dainty, white to soft-pink blossoms in early-spring. Great for narrow spaces and lining driveways. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50075,13 +50075,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50124,13 +50124,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50181,7 +50181,7 @@
     "commonName": "Portugal Laurel",
     "url": "prunus-lusitanica-portugal-laurel",
     "mainImage": "prunus-lusitanica-portugal-laurel/prunus-lusitanica-portugal-laurel.jpg",
-    "description": "Native to Spain and Portugal. This tree forms a pyramidal shape with dark-green leaves and red stems. Panicles of scented, white flowers during summer. An excellent subject to prune into any shape, form, and size.",
+    "description": "Native to Spain and Portugal. This tree forms a pyramidal shape with dark-green leaves. Panicles of scented, white flowers during summer. An excellent subject to prune into any shape, form, and size.",
     "uses": "hedging-and-screening, topiary, pleaching",
     "tolerates": "coastal, windy",
     "soilType": "",
@@ -50198,16 +50198,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50258,7 +50258,7 @@
     "commonName": "Japanese Apricot",
     "url": "prunus-mume-japanese-apricot",
     "mainImage": "prunus-mume-japanese-apricot/prunus-mume-japanese-apricot.jpg",
-    "description": "Produces flowers in mid-winter to early-spring that range in colour from white to dark-pink. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers.",
+    "description": "Produces flowers in mid-winter to early-spring that range in colour from white to pink to red. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50278,13 +50278,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink, red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
