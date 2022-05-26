@@ -51288,13 +51288,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51385,7 +51385,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-ukon-japanese-cherry",
     "mainImage": "prunus-serrulata-ukon-japanese-cherry/prunus-serrulata-ukon-japanese-cherry.jpg",
-    "description": "Vase-shaped tree with upright, spreading branches. Soft-pink buds open to light-green to cream flowers, sometimes tinged with pink. Large, double flowers are very unique and nestle among the bronze-coloured emerging leaves. Flowers early to mid-spring. Orange-red to purple autumn leaves.",
+    "description": "Vase-shaped tree with upright, spreading branches. Soft-pink buds open to light-green to cream flowers, sometimes tinged with pink. Large, double flowers are very unique and nestle among the bronze-coloured emerging leaves. Flowers early to mid-spring. Yellow, orange, and red autumn leaves.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -51405,13 +51405,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white, green"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51524,15 +51524,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "pink",
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51631,13 +51631,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51720,13 +51720,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51763,14 +51763,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51853,7 +51853,7 @@
     "commonName": "Higan Cherry",
     "url": "prunus-subhirtella-southern-gem-higan-cherry",
     "mainImage": "prunus-subhirtella-southern-gem-higan-cherry/prunus-subhirtella-southern-gem-higan-cherry.jpg",
-    "description": "Upright growth habit. Dainty, semi-double, blush-pink blooms fading to white throughout autumn, winter, and spring. Tolerates root confinement. Autumn foliage is yellow-orange, darkening to red-purple.",
+    "description": "Upright growth habit. Dainty, semi-double, blush-pink blooms fading to white throughout autumn, winter, and spring. Tolerates root confinement. Autumn foliage is yellow, orange, and red.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -51871,15 +51871,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "pink, white",
+      "winter": "pink, white",
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51946,13 +51946,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52047,13 +52047,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52111,22 +52111,22 @@
     "height": "4m",
     "width": "4m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, brown",
+      "autumn": "red, brown",
+      "winter": "red, brown",
+      "spring": "red, brown"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52181,13 +52181,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52290,13 +52290,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52375,13 +52375,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
