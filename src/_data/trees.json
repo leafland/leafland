@@ -50343,7 +50343,7 @@
     "commonName": "Japanese Apricot",
     "url": "prunus-mume-the-geisha-japanese-apricot",
     "mainImage": "prunus-mume-the-geisha-japanese-apricot/prunus-mume-the-geisha-japanese-apricot.jpg",
-    "description": "Flowers from mid-winter to early-spring. Delightfully-fragrant, rose-pink, semi-double flowers with numerous central stamens appear on the bare branches. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers.",
+    "description": "Flowers from mid-winter to early-spring. Delightfully-fragrant, pink, semi-double flowers with numerous central stamens appear on the bare branches. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers. Yellow autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50362,14 +50362,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "pink",
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50447,22 +50447,22 @@
     "height": "6m",
     "width": "5m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, brown",
+      "autumn": "red, brown",
+      "winter": "red, brown",
+      "spring": "red, brown"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50561,14 +50561,14 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-amanogawa-japanese-cherry",
     "mainImage": "prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry.jpg",
-    "description": "Fragrant clusters of semi-double, white to pale-pink flowers with deep margins. Flowers in mid to late-spring. Orange and yellow autumn leaves. A tree for narrow spaces where height is required. Also for lining avenues and driveways. Excellent street tree.",
+    "description": "Fragrant clusters of semi-double, white to pale-pink flowers. Flowers in mid to late-spring. Orange and yellow autumn leaves. A tree for narrow spaces where height is required. Also for lining avenues and driveways. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
     "winterFoliage": "deciduous",
     "origin": "exotic",
-    "types": "",
+    "types": "upright",
     "height": "6m",
     "width": "2m",
     "stem": {
@@ -50581,13 +50581,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50658,7 +50658,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-ichiyo-japanese-cherry",
     "mainImage": "prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry.jpeg",
-    "description": "Also known as Prunus 'Pink Champagne'. Has a spreading habit with gracefully ascending main branches. Double, shell-pink flowers open from pink buds in mid to late-spring. These flowers fade to white as they age. Leaves emerge bronze-green in spring, age to deep-green over summer, and turn beautiful tones of orange and red in autumn.",
+    "description": "Also known as Prunus serrulata 'Pink Champagne'. Has a spreading habit with gracefully ascending main branches. Double, shell-pink flowers open from pink buds in mid to late-spring. These flowers fade to white as they age. Leaves emerge bronze-green in spring, age to deep-green over summer, and turn beautiful tones of orange and red in autumn.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50678,13 +50678,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50743,7 +50743,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-kanzan-japanese-cherry",
     "mainImage": "prunus-serrulata-kanzan-japanese-cherry/prunus-serrulata-kanzan-japanese-cherry.jpg",
-    "description": "Young trees have a narrow, erect, vase-shaped growth habit, but spread out as they mature. Maroon buds open to large, fully-double, deep-pink flowers held in drooping clusters. Bronze leaves emerge with the flowers to contrast nicely. Flowers in mid to late-spring. Red, orange, and yellow autumn leaves. Great for lining avenues and driveways. One of the wind-hardiest flowering cherries.",
+    "description": "Young trees have a narrow, erect, vase-shaped growth habit, but spread out as they mature. Deep-pink buds open to large, fully-double, pink flowers held in drooping clusters. Bronze leaves emerge with the flowers to contrast nicely. Flowers in mid to late-spring. Red, orange, and yellow autumn leaves. Great for lining avenues and driveways. One of the wind-hardiest flowering cherries.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50763,13 +50763,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -50876,7 +50876,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-kiku-shidare-zakura-japanese-cherry",
     "mainImage": "prunus-serrulata-kiku-shidare-zakura-japanese-cherry/prunus-serrulata-kiku-shidare-zakura-japanese-cherry.jpg",
-    "description": "Branches arch before cascading to the ground. Large, double, frilly, deep-pink flowers are borne in clusters in mid to late-spring. Bronze spring leaves are green through summer and scarlet in autumn.",
+    "description": "Branches arch before cascading to the ground. Large, double, frilly, pink flowers are borne in clusters in mid to late-spring. Bronze spring leaves are green through summer and red, orange, and yellow in autumn.",
     "uses": "street, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50896,13 +50896,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
