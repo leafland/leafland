@@ -50977,7 +50977,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-pink-perfection-japanese-cherry",
     "mainImage": "prunus-serrulata-pink-perfection-japanese-cherry/prunus-serrulata-pink-perfection-japanese-cherry.jpg",
-    "description": "Erect, spreading, vase-shaped tree. Bronze new leaves are green through summer and orange in autumn. Fully double flowers with frilled margins are a bright rose-pink in bud, opening to clear-pink. Flowers mid to late-spring. Great for lining driveways and avenues. Excellent street tree.",
+    "description": "Erect, spreading, vase-shaped tree. Bronze new leaves are green through summer and orange, yellow, and red in autumn. Fully double flowers with frilled margins are a bright rose-pink in bud, opening to clear-pink. Flowers mid to late-spring. Great for lining driveways and avenues. Excellent street tree.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -50997,13 +50997,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51026,7 +51026,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-shimidsu-sakura-japanese-cherry",
     "mainImage": "prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry.jpg",
-    "description": "Also known as Prunus 'Shogetsu'. One of the loveliest flowering cherries which grows into a broad-spreading tree with gracefully-arching branches. Mid to late-spring flowering. Pink buds open to double flowers of pale-pink, which fade to white, in pendulous clusters. Orange and red autumn leaves.",
+    "description": "Also known as Prunus serrulata 'Shogetsu'. One of the loveliest flowering cherries which grows into a broad-spreading tree with gracefully-arching branches. Mid to late-spring flowering. Pink buds open to double flowers of pale-pink, which fade to white, in pendulous clusters. Orange and red autumn leaves.",
     "uses": "street, shade, small-garden, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -51046,13 +51046,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -51147,7 +51147,7 @@
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-shirotae-japanese-cherry",
     "mainImage": "prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry.jpg",
-    "description": "Also known as Prunus 'Mount Fuji'. Strong-growing, wide-spreading, flat-top cherry with tiered, horizontal branches. Grows as wide as its height. Large, fragrant, pure-white, semi-double flowers from white buds that are sometimes tinged with pink. Flowers in mid-spring. Serrated, green leaves turn yellow, red, and orange in autumn. A superb shade tree.",
+    "description": "Also known as Prunus serrulata 'Mount Fuji'. Strong-growing, wide-spreading, flat-top cherry with tiered, horizontal branches. Grows as wide as its height. Large, fragrant, pure-white, semi-double flowers from white buds that are sometimes tinged with pink. Flowers in mid-spring. Serrated, green leaves turn yellow, red, and orange in autumn. A superb shade tree.",
     "uses": "street, shade, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -51157,6 +51157,30 @@
     "types": "",
     "height": "5m",
     "width": "5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white, pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "orange, red, yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
     "treeShape": "images/icons/tree-shapes/prunus/prunus-general.svg",
     "relatedTrees": [],
     "images": [
