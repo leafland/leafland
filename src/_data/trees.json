@@ -53421,13 +53421,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53470,7 +53470,7 @@
     "commonName": "Ornamental Pear",
     "url": "pyrus-calleryana-aristocrat-ornamental-pear",
     "mainImage": "pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear.jpg",
-    "description": "Pyramidal-growing tree with an open form and spreading branches that can be trained to grow horizontal. Profusion of white flowers in early-spring. Red-purple new spring leaves mature glossy-green and turn red and yellow in autumn. Tolerant of poor drainage and pollution. Excellent street tree.",
+    "description": "Pyramidal-growing tree with an open form and spreading branches that can be trained to grow horizontal. Profusion of white flowers in early-spring. Glossy-green leaves turn red and yellow in autumn. Tolerant of poor drainage and pollution. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "windy",
     "soilType": "",
@@ -53490,13 +53490,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53571,13 +53571,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange, purple",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53652,13 +53652,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53721,7 +53721,7 @@
     "commonName": "Ornamental Pear",
     "url": "pyrus-calleryana-kea-ornamental-pear",
     "mainImage": "pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear.jpg",
-    "description": "A multi-branched tree with a dense, bushy growth habit. Glossy, green leaves turn to a blend of burgundy and green over summer. This colouring intensifies to red through autumn. Tolerates both dry and heavier wet soils. White spring flowers.",
+    "description": "A multi-branched tree with a dense, bushy growth habit. Glossy, green leaves turn red and orange in autumn. Tolerates both dry and heavier wet soils. White spring flowers.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -53741,13 +53741,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53790,7 +53790,7 @@
     "commonName": "Weeping Pear, Willow-leaved Pear",
     "url": "pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear",
     "mainImage": "pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear.jpg",
-    "description": "Slender, stems with silver-grey bark. Willow-like leaves are silver-white in spring, becoming grey-green in summer. Forms tiers of branches and can be easily clipped. Small, white blossoms in spring. Withstands strong winds and drought conditions.",
+    "description": "Willow-like leaves are silver-white in spring, becoming grey-green in summer. Forms tiers of branches and can be easily clipped. Small, white blossoms in spring. Withstands strong winds and drought conditions.",
     "uses": "attracts-bees",
     "tolerates": "windy",
     "soilType": "",
@@ -53810,13 +53810,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "grey, green",
+      "autumn": "grey, green",
       "winter": "",
-      "spring": ""
+      "spring": "grey, white"
     },
     "fruit": {
       "summer": "",
@@ -53886,10 +53886,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53907,7 +53907,7 @@
     "commonName": "Swamp White Oak",
     "url": "quercus-bicolor-swamp-white-oak",
     "mainImage": "quercus-bicolor-swamp-white-oak/quercus-bicolor-swamp-white-oak.jpg",
-    "description": "An easily-grown, rounded tree. Glossy leaves are felted with grey beneath. Copper-coloured autumn leaves. Produces acorns. Tolerant of moist soils. Grows well on the edge of water.",
+    "description": "An easily-grown, rounded tree. Glossy leaves are felted with grey beneath. Orange-red autumn leaves. The best autumn colour is produced in warm, sunny autumns. Produces acorns. Tolerant of moist soils. Grows well on the edge of water.",
     "uses": "",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -53930,10 +53930,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53987,10 +53987,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54064,10 +54064,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54121,10 +54121,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54190,10 +54190,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54240,10 +54240,10 @@
     "commonName": "Northern Pin Oak",
     "url": "quercus-ellipsoidalis-northern-pin-oak",
     "mainImage": "quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak.jpg",
-    "description": "Glossy, green, deeply-cut leaves turn scarlet, yellow, and bronze in winter. Tolerant of strong, prevailing winds. Suits dry, poor, sandy soils.",
+    "description": "Glossy, green, deeply-cut leaves turn scarlet and purple in winter. Tolerant of strong, prevailing winds.",
     "uses": "street",
     "tolerates": "",
-    "soilType": "",
+    "soilType": "poor-draining-soils, sandy-soils",
     "sunShade": "",
     "winterFoliage": "deciduous",
     "origin": "exotic",
@@ -54263,10 +54263,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, purple",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54324,10 +54324,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54409,10 +54409,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54458,10 +54458,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54488,7 +54488,7 @@
     "commonName": "Pin Oak, Swamp Spanish Oak",
     "url": "quercus-palustris-pin-oak-swamp-spanish-oak",
     "mainImage": "quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg",
-    "description": "Has a neat, pyramidal habit with spreading branches. Glossy, green, deeply-cut leaves turn scarlet, yellow, and bronze in autumn. Tolerant of wet soils and strong winds.",
+    "description": "Has a neat, pyramidal habit with spreading branches. Glossy, green, deeply-cut leaves turn scarlet and orange in autumn. Tolerant of wet soils and strong winds.",
     "uses": "street, paddocks, shade, driveways-and-avenues",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -54511,10 +54511,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54644,10 +54644,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54705,10 +54705,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54771,7 +54771,7 @@
     "commonName": "English Oak",
     "url": "quercus-robur-fastigiata-english-oak",
     "mainImage": "quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak.jpg",
-    "description": "Neat, tight, columnar habit. Great for narrow spaces where height is required. Dark-green leaves turn yellow and copper in autumn, then brown in winter. Plant as a screen, to line avenues and driveways, or as a focal point. Excellent street tree.",
+    "description": "Neat, tight, columnar habit. Great for narrow spaces where height is required. Dark-green leaves turn yellow in autumn, then brown in winter. Plant as a screen, to line avenues and driveways, or as a focal point. Excellent street tree.",
     "uses": "street, narrow-sites",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -54794,10 +54794,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54863,10 +54863,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54932,10 +54932,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -54998,18 +54998,18 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "yellow",
+      "winter": "yellow",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/quince/quince-general.svg",
@@ -55055,18 +55055,18 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "yellow",
+      "winter": "yellow",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/quince/quince-general.svg",
@@ -55096,7 +55096,7 @@
     "commonName": "",
     "url": "quince-taihape",
     "mainImage": "quince-taihape/quince-taihape.jpg",
-    "description": "This disease-resistant quince was developed from an old tree growing at the Brown Sugar Cafe in Taihape. The aromatic fruit have lemon-coloured flesh. Tolerant, and easy to grow in a sunny spot. Use for making cider, jams, and preserves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
+    "description": "This disease-resistant quince was developed from an old tree growing at the Brown Sugar Cafe in Taihape. The aromatic, yellow-skinned fruit have lemon-coloured flesh. Tolerant, and easy to grow in a sunny spot. Use for making cider, jams, and preserves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -55116,18 +55116,18 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "yellow",
+      "winter": "yellow",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/quince/quince-general.svg",
@@ -55170,16 +55170,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55229,10 +55229,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55294,10 +55294,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
