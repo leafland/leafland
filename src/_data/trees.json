@@ -52542,7 +52542,7 @@
     "commonName": "Horoeka, Lancewood",
     "url": "pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood",
     "mainImage": "pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood/pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood.jpg",
-    "description": "Long, narrow leaves adorn the upright, slender stems. Leaves are brilliantly-coloured. Foliage has dark-green tops with orange-yellow midribs and orange-pink undersides. Hardy. Slow, sturdy grower. Small, green-yellow flowers from mid-summer to early-autumn.",
+    "description": "Long, narrow leaves adorn the upright, slender stems. Leaves are brilliantly-coloured. Foliage has dark-green tops with orange-yellow to red-yellow midribs and red-pink undersides. Hardy. Slow, sturdy grower. Small, green-yellow flowers from mid-summer to early-autumn.",
     "uses": "narrow-sites, attracts-birds, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -53246,7 +53246,7 @@
     "commonName": "Horopito, Pepper Tree",
     "url": "pseudowintera-colorata-horopito-pepper-tree",
     "mainImage": "pseudowintera-colorata-horopito-pepper-tree/pseudowintera-colorata-horopito-pepper-tree.jpg",
-    "description": "Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
+    "description": "Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -53269,10 +53269,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow, green, red",
+      "autumn": "yellow, green, red",
+      "winter": "yellow, green, red",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
@@ -53295,7 +53295,7 @@
     "commonName": "Horopito, Pepper Tree",
     "url": "pseudowintera-colorata-red-hot-horopito-pepper-tree",
     "mainImage": "pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree.jpeg",
-    "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
+    "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -53318,10 +53318,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow, green, red",
+      "autumn": "yellow, green, red",
+      "winter": "yellow, green, red",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
@@ -53348,7 +53348,7 @@
     "commonName": "Horopito, Pepper Tree",
     "url": "pseudowintera-colorata-red-leopard-horopito-pepper-tree",
     "mainImage": "pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree.jpeg",
-    "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled with red. Makes a stunning hedge.",
+    "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
@@ -53371,10 +53371,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow, green, red",
+      "autumn": "yellow, green, red",
+      "winter": "yellow, green, red",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
