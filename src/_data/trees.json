@@ -52715,10 +52715,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52772,10 +52772,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52821,10 +52821,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -52851,7 +52851,7 @@
     "commonName": "Houpara, Coastal Five Finger",
     "url": "pseudopanax-lessonii-dark-star-houpara-coastal-five-finger",
     "mainImage": "pseudopanax-lessonii-dark-star-houpara-coastal-five-finger/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger.jpeg",
-    "description": "Handsome, narrow grower with erect stems. Dark-green, leathery leaves are margined with bronze. A great choice for small spaces. Excellent hardy filler which will grow anywhere including the coast.",
+    "description": "Handsome, narrow grower with erect stems. New growth emerges purple, fading to dark-green with purple margins. A great choice for small spaces. Excellent hardy filler which will grow anywhere including the coast.",
     "uses": "hedging-and-screening, attracts-birds, narrow-sites",
     "tolerates": "coastal",
     "soilType": "",
@@ -52874,10 +52874,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "green, purple",
+      "winter": "green, purple",
+      "spring": "purple"
     },
     "fruit": {
       "summer": "",
@@ -52904,7 +52904,7 @@
     "commonName": "Houpara, Coastal Five Finger",
     "url": "pseudopanax-lessonii-dreamtime-houpara-coastal-five-finger",
     "mainImage": "pseudopanax-lessonii-dreamtime-houpara-coastal-five-finger/pseudopanax-lessonii-dreamtime-houpara-coastal-five-finger.jpg",
-    "description": "Erect grower with long-fingered and heavily-serrated leaves. Leaves are bronze-green in summer turning purple through the colder months. Hardy.",
+    "description": "Erect grower with long-fingered and heavily-serrated leaves. Leaves are purple-green but develop a deeper purple colour in winter. Hardy.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "coastal",
     "soilType": "",
@@ -52927,10 +52927,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple",
+      "autumn": "green, purple",
+      "winter": "purple",
+      "spring": "green, purple"
     },
     "fruit": {
       "summer": "",
@@ -52971,10 +52971,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "yellow"
     },
     "fruit": {
       "summer": "",
@@ -52997,7 +52997,7 @@
     "commonName": "Houpara, Coastal Five Finger",
     "url": "pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger",
     "mainImage": "pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger/pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger.jpeg",
-    "description": "Leathery leaves are strongly-lobed to resemble moa's toes. Leaf colour is a blend of green and purple. Upright, bushy grower. Coastal and drought hardy. Protect from heavy frosts.",
+    "description": "Leathery leaves are strongly-lobed to resemble moa's toes. Deep-green leaves with a purple-red margin. Upright, bushy grower. Coastal and drought hardy. Protect from heavy frosts.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
     "soilType": "dry-soils",
@@ -53020,10 +53020,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, purple, red",
+      "autumn": "green, purple, red",
+      "winter": "green, purple, red",
+      "spring": "green, purple, red"
     },
     "fruit": {
       "summer": "",
@@ -53046,7 +53046,7 @@
     "commonName": "Houpara, Coastal Five Finger",
     "url": "pseudopanax-lessonii-purpurea-houpara-coastal-five-finger",
     "mainImage": "pseudopanax-lessonii-purpurea-houpara-coastal-five-finger/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger.jpeg",
-    "description": "A dense, bushy, compact grower with glossy, purple, palmate leaves. The older leaves are dark-green. Prefers a dry position and is coastal hardy. Excellent as a filler or a dense screen. Can be pruned to any size.",
+    "description": "A dense, bushy, compact grower. Leaves emerge purple before maturing to dark-green. Prefers a dry position and is coastal hardy. Excellent as a filler or a dense screen. Can be pruned to any size.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
     "soilType": "dry-soils",
@@ -53069,10 +53069,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "purple"
     },
     "fruit": {
       "summer": "",
@@ -53122,10 +53122,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "green, yellow",
+      "spring": "green, yellow"
     },
     "fruit": {
       "summer": "",
@@ -53171,10 +53171,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -53220,10 +53220,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
