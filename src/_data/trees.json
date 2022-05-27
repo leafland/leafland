@@ -52432,7 +52432,7 @@
     "commonName": "Puahou, Five Finger",
     "url": "pseudopanax-arboreus-puahou-five-finger",
     "mainImage": "pseudopanax-arboreus-puahou-five-finger/pseudopanax-arboreus-puahou-five-finger.jpg",
-    "description": "Forms a rounded tree with an open-habit and spreading framework of slender stems. Large, glossy, handsome leaves. Decorative bunches of black berries which birds relish. A versatile plant which is very hardy. Can be pruned to any size. Small, white flowers flushed with red-pink from mid-winter to early-spring.",
+    "description": "Forms a rounded tree with an open-habit and spreading framework of slender stems. Large, glossy, handsome leaves. Decorative bunches of purple-black berries in autumn which birds relish. A versatile plant which is very hardy. Can be pruned to any size. Small, white flowers flushed with red-pink from mid-winter to early-spring.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -52451,18 +52451,18 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "white, red, pink",
+      "spring": "white, red, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "purple, black",
       "winter": "",
       "spring": ""
     },
@@ -52489,7 +52489,7 @@
     "commonName": "Horoeka, Lancewood",
     "url": "pseudopanax-crassifolius-horoeka-lancewood",
     "mainImage": "pseudopanax-crassifolius-horoeka-lancewood/pseudopanax-crassifolius-horoeka-lancewood.jpg",
-    "description": "Narrow-growing tree with a tall, erect trunk. Juvenile leaves are long and narrow and hang from the main trunk. After many years the foliage changes to a small head of leaves. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Small, green-yellow flowers from mid-summer to early-autumn. Similar to Pseudopanax ferox, but has less prominently-toothed leaves.",
+    "description": "Narrow-growing tree with a tall, erect trunk. Juvenile leaves are long and narrow and hang from the main trunk. After many years the foliage changes to a small head of leaves. Foliage varies in colour from dark-green to orange-brown, usually with an orange-yellow midrib. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Small, green-yellow flowers from mid-summer to early-autumn. Similar to Pseudopanax ferox, but has less prominently-toothed leaves.",
     "uses": "narrow-sites, attracts-birds, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -52506,16 +52506,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, brown, orange, yellow",
+      "autumn": "green, brown, orange, yellow",
+      "winter": "green, brown, orange, yellow",
+      "spring": "green, brown, orange, yellow"
     },
     "fruit": {
       "summer": "",
@@ -52542,7 +52542,7 @@
     "commonName": "Horoeka, Lancewood",
     "url": "pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood",
     "mainImage": "pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood/pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood.jpg",
-    "description": "Long, narrow leaves adorn the upright, slender stems. Leaves are brilliantly-coloured with orange, gold, and pink. Hardy. Slow, sturdy grower. Small, green-yellow flowers from mid-summer to early-autumn.",
+    "description": "Long, narrow leaves adorn the upright, slender stems. Leaves are brilliantly-coloured. Foliage has dark-green tops with orange-yellow midribs and orange-pink undersides. Hardy. Slow, sturdy grower. Small, green-yellow flowers from mid-summer to early-autumn.",
     "uses": "narrow-sites, attracts-birds, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -52559,16 +52559,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, orange, yellow, pink",
+      "autumn": "green, orange, yellow, pink",
+      "winter": "green, orange, yellow, pink",
+      "spring": "green, orange, yellow, pink"
     },
     "fruit": {
       "summer": "",
@@ -52586,7 +52586,7 @@
     "commonName": "Horoeka, Toothed Lancewood",
     "url": "pseudopanax-ferox-horoeka-toothed-lancewood",
     "mainImage": "pseudopanax-ferox-horoeka-toothed-lancewood/pseudopanax-ferox-horoeka-toothed-lancewood.jpeg",
-    "description": "A narrow-growing tree with a tall, erect trunk. Juvenile leaves are short and narrow, distinctly-toothed, and hang from the main trunk. After many years the foliage changes to a small head of leaves. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Similar to Pseudopanax crassifolius, but has more prominently-toothed leaves.",
+    "description": "A narrow-growing tree with a tall, erect trunk. Juvenile leaves are short and narrow, distinctly-toothed, and hang from the main trunk. After many years the foliage changes to a small head of leaves. Foliage varies in colour from dark-green to orange-brown, usually with an orange-yellow midrib. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Similar to Pseudopanax crassifolius, but has more prominently-toothed leaves.",
     "uses": "narrow-sites, attracts-birds",
     "tolerates": "",
     "soilType": "",
@@ -52609,10 +52609,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, brown, orange, yellow",
+      "autumn": "green, brown, orange, yellow",
+      "winter": "green, brown, orange, yellow",
+      "spring": "green, brown, orange, yellow"
     },
     "fruit": {
       "summer": "",
@@ -52639,7 +52639,7 @@
     "commonName": "Five Finger",
     "url": "pseudopanax-laetus-five-finger",
     "mainImage": "pseudopanax-laetus-five-finger/pseudopanax-laetus-five-finger.jpeg",
-    "description": "A tropical-looking, multi-stemmed grower. Clothed in large, leathery, glossy, deep-green leaves. Decorative bunches of black berries in spring which birds relish. A versatile plant which is very hardy. Can be pruned to any size.",
+    "description": "A tropical-looking, multi-stemmed grower. Clothed in large, leathery, glossy, deep-green leaves on purple-red new stems. Decorative bunches of black berries in spring which birds relish. A versatile plant which is very hardy. Can be pruned to any size. Small white flowers in late-winter to late-spring. Purple fruits in late-spring to late-summer that birds love.",
     "uses": "attracts-birds",
     "tolerates": "",
     "soilType": "",
@@ -52650,28 +52650,28 @@
     "height": "4m",
     "width": "3m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red, purple",
+      "autumn": "red, purple",
+      "winter": "red, purple",
+      "spring": "red, purple"
     },
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "white",
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "purple",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple"
     },
     "treeShape": "images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg",
     "relatedTrees": [],
