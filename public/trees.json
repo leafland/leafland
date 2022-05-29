@@ -55341,16 +55341,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruit": {
       "summer": "",
@@ -55397,13 +55397,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "purple, pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55451,16 +55451,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruit": {
       "summer": "",
@@ -55495,7 +55495,7 @@
     "commonName": "Black Locust",
     "url": "robinia-pseudoacacia-hillieri-black-locust",
     "mainImage": "robinia-pseudoacacia-hillieri-black-locust/robinia-pseudoacacia-hillieri-black-locust.jpg",
-    "description": "Elegant, ornamental tree with delicate, mid-green foliage developing a rounded head of branches. Produces fragrant, pale, pink-lilac flowers. These attractive pea-like flowers hang in racemes along the branches. Yellow autumn leaves. Easy to grow in full sun, tolerant of drought, and hardy.",
+    "description": "Elegant, ornamental tree with delicate, mid-green foliage developing a rounded head of branches. Produces fragrant, pink flowers in spring. These attractive pea-like flowers hang in racemes along the branches. Yellow autumn leaves. Easy to grow in full sun, tolerant of drought, and hardy.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -55515,13 +55515,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55544,7 +55544,7 @@
     "commonName": "Black Locust",
     "url": "robinia-pseudoacacia-lace-lady-black-locust",
     "mainImage": "robinia-pseudoacacia-lace-lady-black-locust/robinia-pseudoacacia-lace-lady-black-locust.jpg",
-    "description": "Rich, blue-green, pendulous leaves cover stems which are uniquely contorted and twisted. Ideal for container planting and small gardens. Soft-yellow autumn leaves. Tolerates heat and drought. Sometimes has long, white, pea-like flowers in spring.",
+    "description": "Rich, green, pendulous leaves cover stems which are uniquely contorted and twisted. Ideal for container planting and small gardens. Soft-yellow autumn leaves. Tolerates heat and drought. Sometimes has long, white, pea-like flowers in spring.",
     "uses": "small-garden",
     "tolerates": "",
     "soilType": "",
@@ -55564,13 +55564,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55628,10 +55628,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruit": {
       "summer": "",
@@ -55672,10 +55672,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55718,7 +55718,7 @@
     "commonName": "Weeping Willow",
     "url": "salix-babylonica-weeping-willow",
     "mainImage": "salix-babylonica-weeping-willow/salix-babylonica-weeping-willow.jpg",
-    "description": "Has arching, wide-spreading branches that weep to the ground. Branches are polished brown and covered with slender, deep-green leaves with blue-grey undersides. Slender catkins appear with new spring leaves. Wonderful paddock, park, or shade tree. Looks great planted next to water.",
+    "description": "Has arching, wide-spreading branches that weep to the ground. Branches are polished brown and covered with slender, deep-green leaves with blue-grey undersides. Yellow autumn leaves. Slender catkins appear with new spring leaves. Wonderful paddock, park, or shade tree. Looks great planted next to water.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -55741,10 +55741,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55830,10 +55830,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55868,7 +55868,7 @@
     "commonName": "Corkscrew Willow",
     "url": "salix-matsudana-tortuosa-corkscrew-willow",
     "mainImage": "salix-matsudana-tortuosa-corkscrew-willow/salix-matsudana-tortuosa-corkscrew-willow.jpg",
-    "description": "Branches and stems are twisted and contorted. Great for year-round interest. Cut stems are popular for floral work. Attractive ornamental tree for damp soils. Golden autumn colours.",
+    "description": "Branches and stems are twisted and contorted. Great for year-round interest. Cut stems are popular for floral work. Attractive ornamental tree for damp soils. Golden-yellow autumn colour.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -55891,10 +55891,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55925,7 +55925,7 @@
     "commonName": "Golden Willow",
     "url": "salix-vitellina-pendula-aurea-golden-willow",
     "mainImage": "salix-vitellina-pendula-aurea-golden-willow/salix-vitellina-pendula-aurea-golden-willow.jpg",
-    "description": "Graceful tree with arching, wide-spreading branches that weep to the ground. Golden-yellow branches are covered with slender, soft-green leaves. Wonderful shade tree for parks and paddocks. Looks great planted next to water. Golden autumn leaves.",
+    "description": "Graceful tree with arching, wide-spreading branches that weep to the ground. Golden-yellow new branches are covered with slender, soft-green leaves. Wonderful shade tree for parks and paddocks. Looks great planted next to water. Golden-yellow autumn leaves.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "poor-draining-soils",
@@ -55936,10 +55936,10 @@
     "height": "8m",
     "width": "8m",
     "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "yellow",
+      "autumn": "yellow",
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "flowers": {
       "summer": "",
@@ -55948,10 +55948,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -55992,8 +55992,8 @@
     "mainImage": "schinus-molle-california-peppertree/schinus-molle-california-peppertree.jpg",
     "description": "Has a graceful, habit with aromatic, dark-green foliage. Produces white to yellow flowers in summer, followed by red to purple berries in autumn and winter. Drought-tolerant and withstands extreme heat.",
     "uses": "",
-    "tolerates": "",
-    "soilType": "",
+    "tolerates": "drought",
+    "soilType": "dry-soils",
     "sunShade": "",
     "winterFoliage": "evergreen",
     "origin": "exotic",
@@ -56007,21 +56007,21 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white, yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "red, purple",
+      "winter": "red, purple",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/schinus/schinus-general.svg",
@@ -56074,10 +56074,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56131,10 +56131,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56196,10 +56196,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, grey, blue",
+      "autumn": "green, grey, blue",
+      "winter": "green, grey, blue",
+      "spring": "green, grey, blue"
     },
     "fruit": {
       "summer": "",
@@ -56245,10 +56245,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
     },
     "fruit": {
       "summer": "",
@@ -56287,7 +56287,7 @@
     "commonName": "Coastal Kōwhai",
     "url": "sophora-chathamica-coastal-kowhai",
     "mainImage": "sophora-chathamica-coastal-kowhai/sophora-chathamica-coastal-kowhai.jpg",
-    "description": "Bears a profusion of golden-yellow flowers from late-winter to spring. Does not go through a juvenile tangle of shoots. Larger leaves are more densely packed on the stems. Very hardy, tolerant of dry and windy positions. Flowers from late-winter to mid-spring.",
+    "description": "Bears a profusion of golden-yellow flowers from late-winter to mid-spring. Does not go through a juvenile tangle of shoots. Larger leaves are more densely packed on the stems. Very hardy, tolerant of dry and windy positions.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "poor-draining-soils",
@@ -56306,14 +56306,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56344,7 +56344,7 @@
     "commonName": "West Coast Kōwhai",
     "url": "sophora-fulvida-west-coast-kowhai",
     "mainImage": "sophora-fulvida-west-coast-kowhai/sophora-fulvida-west-coast-kowhai.jpg",
-    "description": "Has a neat, spreading form. Small, grey-green leaves tolerate moderate coastal conditions and dryness. Large, golden-yellow spring flowers attract nectar-seeking birds. Excellent street tree. Flowers from mid to late-spring.",
+    "description": "Has a neat, spreading form. Small, grey-green leaves tolerate moderate coastal conditions and dryness. Large, golden-yellow flowers attract nectar-seeking birds. Excellent street tree. Flowers from mid to late-spring.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "",
@@ -56364,13 +56364,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56422,16 +56422,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56475,16 +56475,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56524,16 +56524,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56560,7 +56560,7 @@
     "commonName": "South Island Kōwhai",
     "url": "sophora-microphylla-south-island-kowhai",
     "mainImage": "sophora-microphylla-south-island-kowhai/sophora-microphylla-south-island-kowhai.jpg",
-    "description": "Develops gracefully arching and spreading branches with small leaves. Golden-yellow spring flowers attract nectar-seeking birds. Grow in sun or semi-shade. Avoid very dry sites. Looks lovely sited overlooking water. Flowers from late-winter to mid-spring.",
+    "description": "Develops gracefully arching and spreading branches with small leaves. Golden-yellow flowers attract nectar-seeking birds. Grow in sun or semi-shade. Avoid very dry sites. Looks lovely sited overlooking water. Flowers from late-winter to mid-spring.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -56579,14 +56579,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
-      "spring": ""
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56643,15 +56643,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "yellow",
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56678,7 +56678,7 @@
     "commonName": "Cook Strait Kōwhai",
     "url": "sophora-molloyi-dragons-gold-cook-strait-kowhai",
     "mainImage": "sophora-molloyi-dragons-gold-cook-strait-kowhai/sophora-molloyi-dragons-gold-cook-strait-kowhai.jpeg",
-    "description": "A wide-spreading, bushy grower with dense foliage. Bears a profusion of lemon-yellow flowers in mid-winter which attract nectar-seeking birds. Will withstand cold conditions and coastal winds. Flowers from late-autumn to early-spring.",
+    "description": "A wide-spreading, bushy grower with dense foliage. Bears a profusion of yellow flowers which attract nectar-seeking birds. Will withstand cold conditions and coastal winds. Flowers from late-autumn to early-spring.",
     "uses": "attracts-birds, small-garden, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "poor-draining-soils",
@@ -56696,15 +56696,15 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "yellow",
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -56727,7 +56727,7 @@
     "commonName": "Large-leaved Kōwhai",
     "url": "sophora-tetraptera-large-leaved-kowhai",
     "mainImage": "sophora-tetraptera-large-leaved-kowhai/sophora-tetraptera-large-leaved-kowhai.jpg",
-    "description": "Larger leaves and flowers than Sophora microphylla. A slender tree with an airy, graceful form. Golden-yellow spring flowers attract nectar-seeking birds. Grow in sun or semi-shade, and not too dry. Looks lovely sited overlooking water. Flowers from mid-spring to early-summer.",
+    "description": "Larger leaves and flowers than Sophora microphylla. A slender tree with an airy, graceful form. Golden-yellow flowers attract nectar-seeking birds. Grow in sun or semi-shade, and not too dry. Looks lovely sited overlooking water. Flowers from mid-spring to early-summer.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -56744,16 +56744,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
