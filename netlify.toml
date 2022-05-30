@@ -120,3 +120,99 @@
     from = "/trees/cotinus-coggygria-grace-smoke-tree/"
     status = 301
     to = "/trees/cotinus-grace-smoke-tree/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-crimson-king-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-crimson-king-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-crimson-queen-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-crimson-queen-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-emerald-lace-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-emerald-lace-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-flavescens-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-flavescens-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-garnet-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-garnet-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-inaba-shidare-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-inaba-shidare-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-orangeola-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-orangeola-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-palmatifidum-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-palmatifidum-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-pendulum-julian-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-pendulum-julian-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-raraflora-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-raraflora-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-red-dragon-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-red-dragon-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-red-feathers-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-red-feathers-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-seiryu-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-seiryu-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-stella-rossa-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-stella-rossa-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-tamukeyama-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-tamukeyama-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-dissectum-viridis-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-viridis-japanese-maple/"
