@@ -56788,7 +56788,7 @@
     "commonName": "Silver Whitebeam",
     "url": "sorbus-aria-lutescens-silver-whitebeam",
     "mainImage": "sorbus-aria-lutescens-silver-whitebeam/sorbus-aria-lutescens-silver-whitebeam.jpg",
-    "description": "Compact, upright tree with a pyramidal form. Bold, rounded leaves are covered with a dense layer of white hairs, giving the leaves a silvery look. Grey-green leaves through summer, turning yellow in autumn. Excellent street tree.",
+    "description": "Compact, upright tree with a pyramidal form. Bold, rounded leaves are covered with a dense layer of white hairs, giving the leaves a silvery look. Yellow leaves in autumn. Excellent street tree.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -56811,10 +56811,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, white, grey",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, white, grey"
     },
     "fruit": {
       "summer": "",
@@ -56865,7 +56865,7 @@
     "commonName": "Rowan, Mountain Ash",
     "url": "sorbus-aucuparia-scarlet-king-rowan-mountain-ash",
     "mainImage": "sorbus-aucuparia-scarlet-king-rowan-mountain-ash/sorbus-aucuparia-scarlet-king-rowan-mountain-ash.jpg",
-    "description": "Erect-growing tree with a compact, oval crown. Grey-green pinnate leaves turn light-orange in autumn. White flowers in late-spring develop into large bunches of bright-red, oval fruit from late-summer. Grows best in climates with cold winters. Excellent street tree.",
+    "description": "Erect-growing tree with a compact, oval crown. Grey-green pinnate leaves turn light-orange in autumn. White flowers in late-spring develop into large bunches of bright-red, oval fruit from late-summer to autumn. Grows best in climates with cold winters. Excellent street tree.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -56885,17 +56885,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "red",
+      "autumn": "red",
       "winter": "",
       "spring": ""
     },
@@ -56930,7 +56930,7 @@
     "commonName": "Devon Whitebeam",
     "url": "sorbus-devonensis-devon-whitebeam",
     "mainImage": "sorbus-devonensis-devon-whitebeam/sorbus-devonensis-devon-whitebeam.jpg",
-    "description": "Compact, oval, rounded form. Large, rounded, green leaves are grey underneath. Yellow autumn leaves. White flowers in spring are followed with bunches of brown, speckled fruit from late-summer.",
+    "description": "Compact, oval, rounded form. Large, rounded, green leaves are grey underneath. Yellow autumn leaves. White flowers in spring are followed with bunches of brown, speckled fruit from late-summer to autumn.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -56950,17 +56950,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, grey",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, grey"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
+      "summer": "brown",
+      "autumn": "brown",
       "winter": "",
       "spring": ""
     },
@@ -57004,16 +57004,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57067,10 +57067,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57132,14 +57132,14 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "",
+      "winter": "red",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57157,7 +57157,7 @@
     "commonName": "Lilly Pilly",
     "url": "syzygium-australe-lilly-pilly",
     "mainImage": "syzygium-australe-lilly-pilly/syzygium-australe-lilly-pilly.jpg",
-    "description": "This Australian native has a compact, upright growth habit that responds well to trimming. New foliage is a maroon-red that changes to a glossy, dark-green as it ages. Produces white flowers in spring, followed by small, edible, dark-red fruit. Great for hedging, screening, and topiary. Once established, will tolerate coastal and drought conditions.",
+    "description": "This Australian native has a compact, upright growth habit that responds well to trimming. New foliage is a maroon-red that changes to a glossy, dark-green as it ages. Produces white flowers in spring, followed by small, edible, pink or dark-red fruit in autumn and winter. Great for hedging, screening, and topiary. Once established, will tolerate coastal and drought conditions.",
     "uses": "hedging-and-screening, topiary",
     "tolerates": "coastal",
     "soilType": "",
@@ -57177,18 +57177,18 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "red, pink",
+      "winter": "red, pink",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/syzygium/syzygium-general.svg",
@@ -57222,7 +57222,7 @@
     "commonName": "Lilly Pilly",
     "url": "syzygium-australe-resilience-lilly-pilly",
     "mainImage": "syzygium-australe-resilience-lilly-pilly/syzygium-australe-resilience-lilly-pilly.jpg",
-    "description": "This cultivar is resistant to psyllids, grows faster, has a straighter central leader, and a better root system. Has glossy-green foliage, preceded by red-bronze new growth. Produces white flowers in spring, followed by small, edible, dark-red fruit. Great for hedging, screening, and topiary. Once established, will tolerate coastal and drought conditions.",
+    "description": "This cultivar is resistant to psyllids, grows faster, has a straighter central leader, and a better root system. Has glossy-green foliage, preceded by red new growth. Produces white flowers in spring, followed by small, edible, pink or dark-red fruit in autumn and winter. Great for hedging, screening, and topiary. Once established, will tolerate coastal and drought conditions.",
     "uses": "hedging-and-screening, topiary",
     "tolerates": "coastal",
     "soilType": "",
@@ -57242,18 +57242,18 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
+      "autumn": "red, pink",
+      "winter": "red, pink",
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/syzygium/syzygium-general.svg",
@@ -57310,10 +57310,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57371,10 +57371,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57448,10 +57448,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57509,10 +57509,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57566,10 +57566,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57592,7 +57592,7 @@
     "commonName": "Irish Yew",
     "url": "taxus-baccata-fastigiata-irish-yew",
     "mainImage": "taxus-baccata-fastigiata-irish-yew/taxus-baccata-fastigiata-irish-yew.jpg",
-    "description": "Erect, columnar growth which slowly forms a narrow, upright column of closely-packed branches. Small, black-green leaves. Remains narrow without the need for clipping.",
+    "description": "Erect, columnar growth which slowly forms a narrow, upright column of closely-packed branches. Small, dark-green leaves. Remains narrow without the need for clipping.",
     "uses": "",
     "tolerates": "windy",
     "soilType": "",
@@ -57615,10 +57615,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57659,10 +57659,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57732,10 +57732,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57790,7 +57790,7 @@
     "commonName": "Western Red Cedar",
     "url": "thuja-plicata-western-red-cedar",
     "mainImage": "thuja-plicata-western-red-cedar/thuja-plicata-western-red-cedar.jpg",
-    "description": "Great shelter tree providing permanent shelter and privacy. Bronze-green leaves. Quick-growing, with a nice pyramidal, bushy form that requires little pruning. Hardy to wind and drought. Canker-resistant. Cattle can eat the foliage without coming to any harm.",
+    "description": "Great shelter tree providing permanent shelter and privacy. Quick-growing, with a nice pyramidal, bushy form that requires little pruning. Hardy to wind and drought. Canker-resistant. Cattle can eat the foliage without coming to any harm.",
     "uses": "street, hedging-and-screening",
     "tolerates": "windy",
     "soilType": "poor-draining-soils",
@@ -57813,10 +57813,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57874,10 +57874,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57896,7 +57896,7 @@
     "url": "tilia-cordata-small-leaved-lime-little-leaf-linden",
     "mainImage": "tilia-cordata-small-leaved-lime-little-leaf-linden/tilia-cordata-small-leaved-lime-little-leaf-linden.jpg",
     "description": "Green leaves through summer, yellow in autumn. Forms a dense, pyramidal tree with masses of pale-yellow, sweetly-scented flowers in summer that attract bees. The pliable branches can be trained along wires for pleaching. Also can be grown as a hedge.",
-    "uses": "street, hedging-and-screening, pleaching",
+    "uses": "street, hedging-and-screening, pleaching, attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -57912,16 +57912,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -57961,7 +57961,7 @@
     "url": "tilia-x-europaea-common-lime-common-linden",
     "mainImage": "tilia-x-europaea-common-lime-common-linden/tilia-x-europaea-common-lime-common-linden.jpg",
     "description": "Forms a large, umbrella-shaped tree with green, heart-shaped leaves which turn yellow in autumn. Produces a mass of pale-yellow flowers in summer which attract bees. Great park tree and for large avenues. Can be used for pleaching.",
-    "uses": "street, paddocks, shade, pleaching",
+    "uses": "street, paddocks, shade, pleaching, attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -57977,16 +57977,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58026,7 +58026,7 @@
     "url": "tilia-platyphyllos-large-leaved-lime-big-leaf-linden",
     "mainImage": "tilia-platyphyllos-large-leaved-lime-big-leaf-linden/tilia-platyphyllos-large-leaved-lime-big-leaf-linden.jpg",
     "description": "Forms a large, umbrella-shaped tree with broad, green, heart-shaped leaves, turning yellow in autumn. Produces a mass of pale-yellow flowers in summer which attract bees. Great park tree, for large avenues, and driveways. Can be used for pleaching.",
-    "uses": "street, paddocks, shade, pleaching",
+    "uses": "street, paddocks, shade, pleaching, attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -58042,16 +58042,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58083,7 +58083,7 @@
     "url": "tilia-tomentosa-silver-lime-silver-linden",
     "mainImage": "tilia-tomentosa-silver-lime-silver-linden/tilia-tomentosa-silver-lime-silver-linden.jpg",
     "description": "Robust tree with erect branches, becoming an umbrella shape with maturity. Dark-green, rounded leaves are silver underneath and look lovely when ruffled by breezes. Produces a mass of pale-yellow, sweetly-scented flowers in summer which attract bees.",
-    "uses": "street, paddocks, shade",
+    "uses": "street, paddocks, shade, attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -58099,16 +58099,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, grey",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -58140,7 +58140,7 @@
     "url": "tilia-tomentosa-orbicularis-silver-lime-silver-linden",
     "mainImage": "tilia-tomentosa-orbicularis-silver-lime-silver-linden/tilia-tomentosa-orbicularis-silver-lime-silver-linden.jpg",
     "description": "Robust, narrow, conical-grower with graceful side branches. Dark-green, heart-shaped leaves are silver underneath and look lovely when ruffled by breezes. Produces a mass of pale-yellow, sweetly-scented flowers in summer which attract bees.",
-    "uses": "",
+    "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -58156,16 +58156,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, grey",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -58184,7 +58184,7 @@
     "url": "tilia-tomentosa-petiolaris-silver-lime-silver-linden",
     "mainImage": "tilia-tomentosa-petiolaris-silver-lime-silver-linden/tilia-tomentosa-petiolaris-silver-lime-silver-linden.jpg",
     "description": "A fabulous specimen tree forming a large, broad crown with downward-sweeping branches. Large, dark-green leaves have silver undersides. Fragrant, yellow summer flowers attract bees.",
-    "uses": "",
+    "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -58200,16 +58200,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "yellow",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, grey",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, grey"
     },
     "fruit": {
       "summer": "",
@@ -58250,10 +58250,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58292,7 +58292,7 @@
     "commonName": "Spotted Elm",
     "url": "ulmus-carpinifolia-variegata-spotted-elm",
     "mainImage": "ulmus-carpinifolia-variegata-spotted-elm/ulmus-carpinifolia-variegata-spotted-elm.jpg",
-    "description": "Beautiful tree with a graceful, open, vase-shaped habit. Deep-green leaves are marbled and speckled with white. Looks particularly good planted in groups. Excellent for lining avenues and as a standalone specimen tree in a lawn or paddock. Tolerates strong winds and poor soils.",
+    "description": "Beautiful tree with a graceful, open, vase-shaped habit. Deep-green leaves are marbled and speckled with white. Looks particularly good planted in groups. Excellent for lining avenues and as a standalone specimen tree in a lawn or paddock. Tolerates strong winds and poor soils. Yellow autumn leaves.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "",
@@ -58315,10 +58315,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, white",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green, white"
     },
     "fruit": {
       "summer": "",
@@ -58368,10 +58368,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "red, purple",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58437,10 +58437,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58481,10 +58481,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58550,10 +58550,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58580,7 +58580,7 @@
     "commonName": "Dutch Elm",
     "url": "ulmus-x-hollandica-jacqueline-hillier-dutch-elm",
     "mainImage": "ulmus-x-hollandica-jacqueline-hillier-dutch-elm/ulmus-x-hollandica-jacqueline-hillier-dutch-elm.jpg",
-    "description": "Forms a wonderful tree of great character. Small, dark-green leaves clothe the arching stems. Very trainable and popular for bonsai as young trees look mature from an early age. Ideal for topiary.",
+    "description": "Forms a wonderful tree of great character. Small, dark-green leaves clothe the arching stems. Very trainable and popular for bonsai as young trees look mature from an early age. Ideal for topiary. Orange autumn leaves.",
     "uses": "topiary",
     "tolerates": "windy",
     "soilType": "",
@@ -58603,10 +58603,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58633,7 +58633,7 @@
     "commonName": "Golden Elm",
     "url": "ulmus-x-hollandica-wredei-golden-elm",
     "mainImage": "ulmus-x-hollandica-wredei-golden-elm/ulmus-x-hollandica-wredei-golden-elm.jpg",
-    "description": "A narrow-growing tree which holds its stunning, large, yellow leaves through spring and summer. Ideal for narrow spaces. Superb street tree. Protect from coastal winds.",
+    "description": "A narrow-growing tree which has bright-yellow leaves in spring, fading to yellow-green in summer before turning yellow again in autumn. Ideal for narrow spaces. Superb street tree. Protect from coastal winds.",
     "uses": "narrow-sites",
     "tolerates": "windy",
     "soilType": "",
@@ -58656,10 +58656,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green, yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow"
     },
     "fruit": {
       "summer": "",
@@ -58717,10 +58717,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58763,7 +58763,7 @@
     "commonName": "Golden Elm",
     "url": "ulmus-louis-van-houtte-golden-elm",
     "mainImage": "ulmus-louis-van-houtte-golden-elm/ulmus-louis-van-houtte-golden-elm.jpeg",
-    "description": "Vase-shaped tree with a large, spreading canopy. Large, light-green to yellow leaves through summer turning golden-yellow in autumn. Excellent specimen tree.",
+    "description": "Vase-shaped tree with a large, spreading canopy. Large, yellow-green leaves emerge in spring before maturing to yellow and holding this colour through autumn before falling. Best leaf colouring in full-sun. Excellent specimen tree.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "",
@@ -58786,10 +58786,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "yellow, green"
     },
     "fruit": {
       "summer": "",
@@ -58911,10 +58911,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, yellow",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -58985,13 +58985,13 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "green, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -59022,8 +59022,8 @@
     "commonName": "Laurustinus",
     "url": "viburnum-tinus-eve-price-laurustinus",
     "mainImage": "viburnum-tinus-eve-price-laurustinus/viburnum-tinus-eve-price-laurustinus.jpg",
-    "description": "Multi-branched with a dense, rounded form. Small, dark-green, leathery leaves. Blush-white flowers from carmine-pink buds in spring, followed by metallic blue-black fruit. An excellent hedge or screen as grows right to the ground and clips readily. Will grow in shade. More floriferous and smaller-growing than Viburnum tinus.",
-    "uses": "hedging-and-screening, small-garden",
+    "description": "Multi-branched with a dense, rounded form. Small, dark-green, leathery leaves. Blush-white flowers from carmine-pink buds in spring, followed by blue fruit in autumn. An excellent hedge or screen as grows right to the ground and clips readily. Will grow in shade. More floriferous and smaller-growing than Viburnum tinus.",
+    "uses": "hedging-and-screening, small-garden, attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -59042,17 +59042,17 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": ""
+      "spring": "pink, white"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "blue",
       "winter": "",
       "spring": ""
     },
@@ -59075,7 +59075,7 @@
     "commonName": "Pūriri",
     "url": "vitex-lucens-puriri",
     "mainImage": "vitex-lucens-puriri/vitex-lucens-puriri.jpg",
-    "description": "Young trees are quite upright, forming a large canopy after many decades. Rich, green leaves have wavy edges. Pink-red flowers are produced through most of the year and attract tuis, while wood pigeons favour the red berries. Tolerant of wind and coastal exposure, but only light frosts.",
+    "description": "Young trees are quite upright, forming a large canopy after many decades. Rich, green leaves have wavy edges. Pink-red flowers from late-autumn to mid-spring attract tuis and bellbirds, while wood pigeons favour the red berries that are produced from mid-summer to mid-spring. Tolerant of wind and coastal exposure, but only light frosts.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "",
@@ -59093,21 +59093,21 @@
     },
     "flowers": {
       "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "pink, red",
+      "winter": "pink, red",
+      "spring": "pink, red"
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
     },
     "treeShape": "images/icons/tree-shapes/vitex/vitex-general.svg",
     "relatedTrees": [],
@@ -59136,7 +59136,7 @@
     "commonName": "",
     "url": "walnut-meyric",
     "mainImage": "walnut-meyric/walnut-meyric.jpg",
-    "description": "New Zealand Tree Crops Association selection. Large walnuts. Prefers free-draining soil. Produces walnuts from about three years of age. Self-fertile, but better crops when planted with another walnut variety.",
+    "description": "New Zealand Tree Crops Association selection. Large walnuts. Prefers free-draining soil. Produces walnuts from about five years of age. Brown nuts are held in a green husk. Self-fertile, but better crops when planted with another walnut variety.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -59159,14 +59159,14 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
@@ -59185,7 +59185,7 @@
     "commonName": "",
     "url": "walnut-shannon",
     "mainImage": "walnut-shannon/walnut-shannon.jpg",
-    "description": "A top-quality walnut bearing large crops of well-flavoured nuts. Easy to crack. Prefers free-draining soils. Produces walnuts from about three years of age. Self-fertile, but better crops when planted with another walnut variety.",
+    "description": "A top-quality walnut bearing large crops of well-flavoured nuts. Easy to crack. Prefers free-draining soils. Produces walnuts from about five years of age. Brown nuts are held in a green husk. Self-fertile, but better crops when planted with another walnut variety.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -59208,14 +59208,14 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
@@ -59229,7 +59229,7 @@
     "commonName": "",
     "url": "walnut-wilsons-wonder",
     "mainImage": "walnut-wilsons-wonder/walnut-wilsons-wonder.jpg",
-    "description": "An old English variety that is vigorous and bears from a young age. Large thin-shelled nuts are sweetly-flavoured. Prefers free-draining soil. Produces walnuts from about three years of age. Self-fertile, but better crops when planted with another walnut variety.",
+    "description": "An old English variety that is vigorous and bears from a young age. Large thin-shelled nuts are sweetly-flavoured. Prefers free-draining soil. Produces walnuts from about three years of age. Brown nuts are held in a green husk. Self-fertile, but better crops when planted with another walnut variety.",
     "uses": "paddocks, shade",
     "tolerates": "",
     "soilType": "",
@@ -59252,14 +59252,14 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "green",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
-      "autumn": "",
+      "autumn": "green, brown",
       "winter": "",
       "spring": ""
     },
@@ -59296,10 +59296,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -59363,16 +59363,16 @@
       "spring": ""
     },
     "flowers": {
-      "summer": "",
+      "summer": "white",
       "autumn": "",
       "winter": "",
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -59442,10 +59442,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "green",
+      "autumn": "yellow, orange, red",
       "winter": "",
-      "spring": ""
+      "spring": "green"
     },
     "fruit": {
       "summer": "",
@@ -59548,7 +59548,7 @@
     "commonName": "Japanese Elm",
     "url": "zelkova-serrata-kiwi-sunset-japanese-elm",
     "mainImage": "zelkova-serrata-kiwi-sunset-japanese-elm/zelkova-serrata-kiwi-sunset-japanese-elm.jpg",
-    "description": "Showy tree with handsome golden leaves in autumn and lime-green leaves in summer. New leaves emerge wine-red to bronze. Prune to keep the height down, which will encourage the long branches to weep in a striking effect.",
+    "description": "Showy tree with handsome golden-yellow leaves in autumn and yellow-green leaves in summer. New leaves emerge red. Prune to keep the height down, which will encourage the long branches to weep in a striking effect.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
     "soilType": "",
@@ -59571,10 +59571,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "",
-      "autumn": "",
+      "summer": "yellow, green",
+      "autumn": "yellow",
       "winter": "",
-      "spring": ""
+      "spring": "red"
     },
     "fruit": {
       "summer": "",
