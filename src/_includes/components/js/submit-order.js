@@ -81,14 +81,14 @@ async function populateForm() {
 
     let treeUrlBotanical = document.createElement("a");
     treeUrlBotanical.href = tree.url;
+    treeUrlBotanical.textContent = tree.botanicalName;
 
     let botanicalName = document.createElement("p");
-    botanicalName.textContent = tree.botanicalName;
     botanicalName.classList.add("botanical-name");
 
-    treeUrlBotanical.appendChild(botanicalName);
+    botanicalName.appendChild(treeUrlBotanical);
 
-    treeNameDiv.appendChild(treeUrlBotanical);
+    treeNameDiv.appendChild(botanicalName);
 
     if (tree.commonName !== "") {
       let treeUrlCommon = document.createElement("a");
