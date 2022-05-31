@@ -820,6 +820,102 @@ type: product
 
             <div id="tree-information-table">
 
+                    {% if tree.family.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Family:</span> {{ tree.family }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.genus.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Genus:</span> {{ tree.genus }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.species.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Species:</span> {{ tree.species }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.subspecies.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Subspecies:</span> {{ tree.subspecies }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.variety.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Variety:</span> {{ tree.variety }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.form.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Form:</span> {{ tree.form }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.cultivar.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Cultivar:</span> {{ tree.cultivar }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.synonyms.size > 0 %}
+
+                    <div>
+
+                        {% assign newString = "" %}
+
+                        {% for item in tree.synonyms %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: item %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: item %}
+
+                        {% endif %}
+
+                        {% endfor %}
+
+                        <p><span class="tree-information-table-heading">Synonyms:</span> {{ newString }}</p>
+
+                    </div>
+
+                    {% endif %}
+
                     {% if botanicalName.size > 0 %}
 
                     <div>
