@@ -216,3 +216,10 @@
     from = "/trees/acer-palmatum-dissectum-viridis-japanese-maple/"
     status = 301
     to = "/trees/acer-palmatum-var-dissectum-viridis-japanese-maple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nandina-firepower/"
+    status = 301
+    to = "/trees/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo/"
+
