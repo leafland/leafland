@@ -1767,10 +1767,30 @@ type: product
 
         </div>
 
+        {% if tree.links.size > 0 %}
+
+        <div id="more-information">
+
+            <h3 id="more-information-heading">More information</h3>
+
+            <div id="more-information-links">
+        
+            {% for link in tree.links %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ link }}</a><p>
+
+            {% endfor %}
+
+            </div>
+        
+        </div>
+        
+        {% endif %}
+
     </div>
 
 
-    {% if tree.relatedTrees.length > 0 %}
+    {% if tree.relatedTrees.size > 0 %}
     <h3 id="related-trees-heading">You may also like</h3>
 
     <div id="related-trees">
@@ -1796,6 +1816,7 @@ type: product
     
     </div>
     {% endif %}
+
 {% comment %} 
     <div id="add-to-order-button-div">
         <button id="add-to-order-button">View pricing and stock</button>

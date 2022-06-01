@@ -634,6 +634,19 @@ body.loggedIn #retail-price {
   align-self: center;
 }
 
+#more-information {
+  border-radius: 8px;
+  padding: 2rem;
+  background: var(--secondary-background);
+  display: grid;
+  gap: 2rem;
+}
+
+#more-information-links {
+  display: grid;
+  gap: 1rem;
+}
+
 #related-trees {
   display: grid;
   grid-gap: 2rem;
