@@ -1522,7 +1522,16 @@
         "alt": "acer monspessulanum montpelier maple foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_monspessulanum",
+      "https://species.wikimedia.org/wiki/Acer_monspessulanum",
+      "https://treesandshrubsonline.org/articles/acer/acer-monspessulanum/",
+      "https://www.vdberk.co.uk/trees/acer-monspessulanum/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-monspessulanum",
+      "https://selectree.calpoly.edu/tree-detail/1537",
+      "https://www.rhs.org.uk/plants/216/acer-monspessulanum/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+monspessulanum"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -1599,7 +1608,24 @@
         "alt": "acer negundo flamingo box elder young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_negundo",
+      "https://species.wikimedia.org/wiki/Acer_negundo",
+      "https://www.gardenia.net/plant/acer-negundo",
+      "https://treesandshrubsonline.org/articles/acer/acer-negundo/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28749#null",
+      "https://www.vdberk.co.uk/trees/acer-negundo/",
+      "https://plants.ces.ncsu.edu/plants/acer-negundo/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+      "https://selectree.calpoly.edu/tree-detail/60",
+      "https://www.rhs.org.uk/plants/217/acer-negundo/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+negundo",
+      "https://www.vdberk.co.uk/trees/acer-negundo-flamingo/",
+      "https://www.rhs.org.uk/plants/26059/acer-negundo-flamingo-(v)/details",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo-flamingo",
+      "https://www.havlis.cz/karta_en.php?kytkaid=112",
+      "https://www.ebben.nl/en/treeebb/acnflami-acer-negundo-flamingo/"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -1672,7 +1698,21 @@
         "alt": "acer negundo kellys gold box elder tassels"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_negundo",
+      "https://species.wikimedia.org/wiki/Acer_negundo",
+      "https://www.gardenia.net/plant/acer-negundo",
+      "https://treesandshrubsonline.org/articles/acer/acer-negundo/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28749#null",
+      "https://www.vdberk.co.uk/trees/acer-negundo/",
+      "https://plants.ces.ncsu.edu/plants/acer-negundo/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+      "https://selectree.calpoly.edu/tree-detail/60",
+      "https://www.rhs.org.uk/plants/217/acer-negundo/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+negundo",
+      "https://www.rhs.org.uk/plants/90571/acer-negundo-kelly-s-gold/details",
+      "https://www.havlis.cz/karta_en.php?kytkaid=2119"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -1741,21 +1781,39 @@
         "alt": "acer negundo variegatum box elder young"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_negundo",
+      "https://species.wikimedia.org/wiki/Acer_negundo",
+      "https://www.gardenia.net/plant/acer-negundo",
+      "https://treesandshrubsonline.org/articles/acer/acer-negundo/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28749#null",
+      "https://www.vdberk.co.uk/trees/acer-negundo/",
+      "https://plants.ces.ncsu.edu/plants/acer-negundo/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+      "https://selectree.calpoly.edu/tree-detail/60",
+      "https://www.rhs.org.uk/plants/217/acer-negundo/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+negundo",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1368",
+      "https://www.rhs.org.uk/plants/96997/acer-negundo-variegatum-(v)/details",
+      "https://www.gardenia.net/plant/acer-negundo-variegatum",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo-variegatum",
+      "https://www.ebben.nl/en/treeebb/acnvarie-acer-negundo-variegatum/",
+      "https://selectree.calpoly.edu/tree-detail/63"
+    ]
   },
   {
     "family": "Sapindaceae",
     "genus": "Acer",
     "species": "Acer negundo",
     "subspecies": "",
-    "variety": "",
+    "variety": "Acer negundo var. violaceum",
     "form": "",
-    "cultivar": "Acer negundo 'Violaceum'",
+    "cultivar": "",
     "synonyms": [],
-    "botanicalName": "Acer negundo 'Violaceum'",
+    "botanicalName": "Acer negundo var. violaceum",
     "commonName": "Box Elder",
-    "url": "acer-negundo-violaceum-box-elder",
-    "mainImage": "acer-negundo-violaceum-box-elder/acer-negundo-violaceum-box-elder.jpeg",
+    "url": "acer-negundo-var-violaceum-box-elder",
+    "mainImage": "acer-negundo-var-violaceum-box-elder/acer-negundo-var-violaceum-box-elder.jpeg",
     "description": "Striking burgundy tassels adorn the bare branches before the new spring growth appears. Young shoots and leaves are purple-maroon. Green summer leaves turn gold in autumn. A vigorous, round, and irregular grower. Produces small, pink-purple flowers in early to mid-spring. Intolerant of shade and strong winds. Seeds are toxic to horses. Tolerates air pollution, drought, and occasionally water-logged soils once established. Cold hardy.",
     "uses": "street, attracts-bees",
     "tolerates": "heavy-rainfall, light-frosts, heavy-frosts, drought",
@@ -1794,15 +1852,28 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/acer-negundo-violaceum-box-elder/acer-negundo-violaceum-box-elder-autumn-foliage.jpg",
+        "src": "images/trees/acer-negundo-var-violaceum-box-elder/acer-negundo-var-violaceum-box-elder-autumn-foliage.jpg",
         "alt": "acer negundo violaceum box elder autumn foliage"
       },
       {
-        "src": "images/trees/acer-negundo-violaceum-box-elder/acer-negundo-violaceum-box-elder-foliage.jpg",
+        "src": "images/trees/acer-negundo-var-violaceum-box-elder/acer-negundo-var-violaceum-box-elder-foliage.jpg",
         "alt": "acer negundo violaceum box elder foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_negundo",
+      "https://species.wikimedia.org/wiki/Acer_negundo",
+      "https://www.gardenia.net/plant/acer-negundo",
+      "https://treesandshrubsonline.org/articles/acer/acer-negundo/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28749#null",
+      "https://www.vdberk.co.uk/trees/acer-negundo/",
+      "https://plants.ces.ncsu.edu/plants/acer-negundo/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-negundo",
+      "https://selectree.calpoly.edu/tree-detail/60",
+      "https://www.rhs.org.uk/plants/217/acer-negundo/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+negundo",
+      "https://www.rhs.org.uk/plants/98709/acer-negundo-var-violaceum/details"
+    ]
   },
   {
     "family": "Sapindaceae",

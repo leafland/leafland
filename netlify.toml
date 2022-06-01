@@ -223,3 +223,9 @@
     status = 301
     to = "/trees/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo/"
 
+[[redirects]]
+    force = true
+    from = "/trees/acer-negundo-violaceum-box-elder/"
+    status = 301
+    to = "/trees/acer-negundo-var-violaceum-box-elder/"
+
