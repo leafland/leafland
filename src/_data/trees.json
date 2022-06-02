@@ -1848,12 +1848,12 @@
     "variety": "Acer negundo var. violaceum",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": ["Acer negundo 'Violaceum'"],
     "botanicalName": "Acer negundo var. violaceum",
     "commonName": "Box Elder",
     "url": "acer-negundo-var-violaceum-box-elder",
     "mainImage": "acer-negundo-var-violaceum-box-elder/acer-negundo-var-violaceum-box-elder.jpeg",
-    "description": "Striking burgundy tassels adorn the bare branches before the new spring growth appears. Young shoots and leaves are purple-maroon. Green summer leaves turn gold in autumn. A vigorous, round, and irregular grower. Produces small, pink-purple flowers in early to mid-spring. Intolerant of shade and strong winds. Seeds are toxic to horses. Tolerates air pollution, drought, and occasionally water-logged soils once established. Cold hardy.",
+    "description": "Also known as Acer negundo 'Violaceum'. Striking burgundy tassels adorn the bare branches before the new spring growth appears. Young shoots and leaves are purple-maroon. Green summer leaves turn gold in autumn. A vigorous, round, and irregular grower. Produces small, pink-purple flowers in early to mid-spring. Intolerant of shade and strong winds. Seeds are toxic to horses. Tolerates air pollution, drought, and occasionally water-logged soils once established. Cold hardy.",
     "uses": "street, attracts-bees",
     "tolerates": "heavy-rainfall, light-frosts, heavy-frosts, drought",
     "soilType": "clay-soils, sandy-soils, dry-soils",
@@ -3567,7 +3567,8 @@
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
       "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
-      "https://www.havlis.cz/karta_en.php?kytkaid=1256"
+      "https://www.havlis.cz/karta_en.php?kytkaid=1256",
+      "https://www.gardenia.net/plant/acer-palmatum-atrolineare"
     ]
   },
   {
@@ -5374,7 +5375,10 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/194723/acer-palmatum-red-dragon-(d)/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257201",
+      "https://www.gardenia.net/plant/acer-palmatum-red-dragon-laceleaf-japanese-maple"
     ]
   },
   {
@@ -5384,13 +5388,13 @@
     "subspecies": "",
     "variety": "Acer palmatum var. dissectum",
     "form": "",
-    "cultivar": "Acer palmatum var. dissectum 'Red Feathers'",
-    "synonyms": [],
-    "botanicalName": "Acer palmatum var. dissectum 'Red Feathers'",
+    "cultivar": "Acer palmatum var. dissectum 'Red Feather'",
+    "synonyms": ["Acer palmatum var. dissectum 'Red Feathers'"],
+    "botanicalName": "Acer palmatum var. dissectum 'Red Feather'",
     "commonName": "Japanese Maple",
-    "url": "acer-palmatum-var-dissectum-red-feathers-japanese-maple",
-    "mainImage": "acer-palmatum-var-dissectum-red-feathers-japanese-maple/acer-palmatum-var-dissectum-red-feathers-japanese-maple.jpg",
-    "description": "Vigorous grower. Finely-cut, purple-red leaves. Retains colour throughout spring and summer. Bright-crimson autumn leaves. Excellent for containers. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "url": "acer-palmatum-var-dissectum-red-feather-japanese-maple",
+    "mainImage": "acer-palmatum-var-dissectum-red-feather-japanese-maple/acer-palmatum-var-dissectum-red-feather-japanese-maple.jpg",
+    "description": "Also known as Acer palmatum var. dissectum 'Red Feathers'. Vigorous grower. Finely-cut, purple-red leaves. Retains colour throughout spring and summer. Bright-crimson autumn leaves. Excellent for containers. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
@@ -5428,12 +5432,12 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/acer-palmatum-var-dissectum-red-feathers-japanese-maple/acer-palmatum-var-dissectum-red-feathers-japanese-maple-new-foliage.jpg",
-        "alt": "acer palmatum var dissectum red feathers japanese maple new foliage"
+        "src": "images/trees/acer-palmatum-var-dissectum-red-feather-japanese-maple/acer-palmatum-var-dissectum-red-feather-japanese-maple-new-foliage.jpg",
+        "alt": "acer palmatum var dissectum red feather japanese maple new foliage"
       },
       {
-        "src": "images/trees/acer-palmatum-var-dissectum-red-feathers-japanese-maple/acer-palmatum-var-dissectum-red-feathers-japanese-maple-water-droplets.jpg",
-        "alt": "acer palmatum var dissectum red feathers japanese maple water droplets"
+        "src": "images/trees/acer-palmatum-var-dissectum-red-feather-japanese-maple/acer-palmatum-var-dissectum-red-feather-japanese-maple-water-droplets.jpg",
+        "alt": "acer palmatum var dissectum red feather japanese maple water droplets"
       }
     ],
     "links": [

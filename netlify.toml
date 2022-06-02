@@ -247,3 +247,9 @@
     status = 301
     to = "/trees/acer-palmatum-roseomarginatum-japanese-maple/"
 
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-var-dissectum-red-feathers-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-var-dissectum-red-feather-japanese-maple/"
+
