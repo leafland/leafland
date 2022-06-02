@@ -2957,13 +2957,13 @@
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Acer palmatum 'Okagami'",
-    "synonyms": [],
-    "botanicalName": "Acer palmatum 'Okagami'",
+    "cultivar": "Acer palmatum 'O-kagami'",
+    "synonyms": ["Acer palmatum 'Okagami'"],
+    "botanicalName": "Acer palmatum 'O-kagami'",
     "commonName": "Japanese Maple",
-    "url": "acer-palmatum-okagami-japanese-maple",
-    "mainImage": "acer-palmatum-okagami-japanese-maple/acer-palmatum-okagami-japanese-maple.jpg",
-    "description": "Large, intense-red leaves in spring turn a glossy, purple-black through summer. Fiery scarlet autumn leaves. A robust, upright grower. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "url": "acer-palmatum-o-kagami-japanese-maple",
+    "mainImage": "acer-palmatum-o-kagami-japanese-maple/acer-palmatum-o-kagami-japanese-maple.jpg",
+    "description": "Also known as Acer palmatum 'Okagami'. Large, intense-red leaves in spring turn a glossy, purple-black through summer. Fiery scarlet autumn leaves. A robust, upright grower. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
@@ -3001,12 +3001,12 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/acer-palmatum-okagami-japanese-maple/acer-palmatum-okagami-japanese-maple-autumn-foliage.jpg",
-        "alt": "acer palmatum okagami japanese maple autumn foliage"
+        "src": "images/trees/acer-palmatum-o-kagami-japanese-maple/acer-palmatum-o-kagami-japanese-maple-autumn-foliage.jpg",
+        "alt": "acer palmatum o kagami japanese maple autumn foliage"
       },
       {
-        "src": "images/trees/acer-palmatum-okagami-japanese-maple/acer-palmatum-okagami-japanese-maple-foliage.jpg",
-        "alt": "acer palmatum okagami japanese maple foliage"
+        "src": "images/trees/acer-palmatum-o-kagami-japanese-maple/acer-palmatum-o-kagami-japanese-maple-foliage.jpg",
+        "alt": "acer palmatum o kagami japanese maple foliage"
       }
     ],
     "links": [
@@ -3022,7 +3022,8 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/75155/acer-palmatum-o-kagami-(p)/details"
     ]
   },
   {
