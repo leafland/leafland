@@ -3195,7 +3195,13 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.vdberk.co.uk/trees/acer-palmatum-osakazuki/",
+      "https://plants.ces.ncsu.edu/plants/acer-palmatum-osakazuki/",
+      "https://www.rhs.org.uk/plants/26137/acer-palmatum-(heptalobum-group)-osakazuki/details",
+      "https://www.rhs.org.uk/plants/235/acer-palmatum-(elegans-group)-osakazuki/details",
+      "https://www.ebben.nl/en/treeebb/acposaka-acer-palmatum-osakazuki",
+      "https://www.gardenia.net/plant/acer-palmatum-osakazuki-japanese-maple"
     ]
   },
   {
@@ -3206,12 +3212,12 @@
     "variety": "",
     "form": "",
     "cultivar": "Acer palmatum 'Red Emperor'",
-    "synonyms": [],
+    "synonyms": ["Acer palmatum 'Emperor 1'", "Acer palmatum 'Emperor One'"],
     "botanicalName": "Acer palmatum 'Red Emperor'",
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-red-emperor-japanese-maple",
     "mainImage": "acer-palmatum-red-emperor-japanese-maple/acer-palmatum-red-emperor-japanese-maple.jpg",
-    "description": "Finely-serrated leaves are bright-red in spring before maturing to purple in summer. Brilliant red autumn foliage. Upright, spreading grower. Ideal for the smaller garden. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "description": "Also known as Acer palmatum 'Emperor 1' and Acer palmatum 'Emperor One'. Finely-serrated leaves are bright-red in spring before maturing to purple in summer. Brilliant red autumn foliage. Upright, spreading grower. Ideal for the smaller garden. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
@@ -3274,7 +3280,10 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/167915/acer-palmatum-red-emperor/details",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/acer-palmatum-red-emperor/",
+      "https://www.gardenia.net/plant/acer-palmatum-emperor-i"
     ]
   },
   {
@@ -3284,13 +3293,13 @@
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Acer palmatum 'Roseo Marginatum'",
-    "synonyms": [],
-    "botanicalName": "Acer palmatum 'Roseo Marginatum'",
+    "cultivar": "Acer palmatum 'Roseomarginatum'",
+    "synonyms": ["Acer palmatum 'Kagiri-nishiki'"],
+    "botanicalName": "Acer palmatum 'Roseomarginatum'",
     "commonName": "Japanese Maple",
-    "url": "acer-palmatum-roseo-marginatum-japanese-maple",
-    "mainImage": "acer-palmatum-roseo-marginatum-japanese-maple/acer-palmatum-roseo-marginatum-japanese-maple.jpg",
-    "description": "Has small, deeply-cut, lobed leaves that are green and white, margined with pink. Autumn leaves are bright carmine and red colours. Dense, upright, vase-shaped tree, great for small spaces. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "url": "acer-palmatum-roseomarginatum-japanese-maple",
+    "mainImage": "acer-palmatum-roseomarginatum-japanese-maple/acer-palmatum-roseomarginatum-japanese-maple.jpg",
+    "description": "Also known as Acer palmatum 'Kagiri-nishiki'. Has small, deeply-cut, lobed leaves that are green and white, margined with pink. Autumn leaves are bright carmine and red colours. Dense, upright, vase-shaped tree, great for small spaces. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
@@ -3328,12 +3337,12 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/acer-palmatum-roseo-marginatum-japanese-maple/acer-palmatum-roseo-marginatum-japanese-maple-foliage.jpg",
-        "alt": "acer palmatum roseo marginatum japanese maple foliage"
+        "src": "images/trees/acer-palmatum-roseomarginatum-japanese-maple/acer-palmatum-roseomarginatum-japanese-maple-foliage.jpg",
+        "alt": "acer palmatum roseomarginatum japanese maple foliage"
       },
       {
-        "src": "images/trees/acer-palmatum-roseo-marginatum-japanese-maple/acer-palmatum-roseo-marginatum-japanese-maple-new-foliage.jpg",
-        "alt": "acer palmatum roseo marginatum japanese maple new foliage"
+        "src": "images/trees/acer-palmatum-roseomarginatum-japanese-maple/acer-palmatum-roseomarginatum-japanese-maple-new-foliage.jpg",
+        "alt": "acer palmatum roseomarginatum japanese maple new foliage"
       }
     ],
     "links": [
@@ -3349,7 +3358,8 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://mendocinomaples.com/japanese-maple-trees-cultivars-from-species-acer-palmatum-acer-japonicum-and-acer-shirasawanum/acer-palmatums/kagiri-nishiki/"
     ]
   },
   {
