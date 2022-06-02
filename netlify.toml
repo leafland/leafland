@@ -235,3 +235,9 @@
     status = 301
     to = "/trees/acer-palmatum-o-kagami-japanese-maple/"
 
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-omurayama-japanese-maple/"
+    status = 301
+    to = "/trees/acer-palmatum-omure-yama-japanese-maple/"
+

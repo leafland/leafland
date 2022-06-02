@@ -3033,13 +3033,13 @@
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Acer palmatum 'Omurayama'",
-    "synonyms": [],
-    "botanicalName": "Acer palmatum 'Omurayama'",
+    "cultivar": "Acer palmatum 'Omure-yama'",
+    "synonyms": ["Acer palmatum 'Omurayama'"],
+    "botanicalName": "Acer palmatum 'Omure-yama'",
     "commonName": "Japanese Maple",
-    "url": "acer-palmatum-omurayama-japanese-maple",
-    "mainImage": "acer-palmatum-omurayama-japanese-maple/acer-palmatum-omurayama-japanese-maple.jpg",
-    "description": "A spreading, spectacular grower with pendulous side branches. These branches will eventually cascade to the ground. Bright-green leaves are deeply-cut and lobed. Glowing orange-red autumn leaves. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "url": "acer-palmatum-omure-yama-japanese-maple",
+    "mainImage": "acer-palmatum-omure-yama-japanese-maple/acer-palmatum-omure-yama-japanese-maple.jpg",
+    "description": "Also known as Acer palmatum 'Omurayama'. A spreading, spectacular grower with pendulous side branches. These branches will eventually cascade to the ground. Bright-green leaves are deeply-cut and lobed. Glowing orange-red autumn leaves. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
@@ -3077,16 +3077,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/acer-palmatum-omurayama-japanese-maple/acer-palmatum-omurayama-japanese-maple-autumn-foliage.jpg",
-        "alt": "acer palmatum omurayama japanese maple autumn foliage"
+        "src": "images/trees/acer-palmatum-omure-yama-japanese-maple/acer-palmatum-omure-yama-japanese-maple-autumn-foliage.jpg",
+        "alt": "acer palmatum omure yama japanese maple autumn foliage"
       },
       {
-        "src": "images/trees/acer-palmatum-omurayama-japanese-maple/acer-palmatum-omurayama-japanese-maple-autumn-park.jpg",
-        "alt": "acer palmatum omurayama japanese maple autumn park"
+        "src": "images/trees/acer-palmatum-omure-yama-japanese-maple/acer-palmatum-omure-yama-japanese-maple-autumn-park.jpg",
+        "alt": "acer palmatum omure yama japanese maple autumn park"
       },
       {
-        "src": "images/trees/acer-palmatum-omurayama-japanese-maple/acer-palmatum-omurayama-japanese-maple-foliage.jpg",
-        "alt": "acer palmatum omurayama japanese maple foliage"
+        "src": "images/trees/acer-palmatum-omure-yama-japanese-maple/acer-palmatum-omure-yama-japanese-maple-foliage.jpg",
+        "alt": "acer palmatum omure yama japanese maple foliage"
       }
     ],
     "links": [
@@ -3102,7 +3102,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.gardenia.net/plant/acer-palmatum-omure-yama-japanese-maple",
+      "https://www.rhs.org.uk/plants/99485/acer-palmatum-omure-yama-(m)/details"
     ]
   },
   {
