@@ -1,1442 +1,406 @@
 [
-    [
-      "Ashburton/Timaru/Oamaru",
-      "Minimum",
-      "$140.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P3/1L/1.5L",
-      "$2.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P5/2L",
-      "$3.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$4.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P12/6L/6.5L/7L/7.5L",
-      "$6.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$10.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$18.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "20L/25L",
-      "$25.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "30L/35L",
-      "$30.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "40L/45L",
-      "$37.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "50L/55L/60L/65L",
-      "$44.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "70L/75L/80L/85L",
-      "$61.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "90L/95L/100L/105L",
-      "$105.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$165.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "200L/250L/300L/350L",
-      "$245.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "400L/450L/500L/550L/600L/650L",
-      "$490.00"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Ashburton/Timaru/Oamaru",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Auckland",
-      "Minimum",
-      "$90.00"
-    ],
-    [
-      "Auckland",
-      "P3/1L/1.5L",
-      "$1.10"
-    ],
-    [
-      "Auckland",
-      "P5/2L",
-      "$1.30"
-    ],
-    [
-      "Auckland",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.60"
-    ],
-    [
-      "Auckland",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.50"
-    ],
-    [
-      "Auckland",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$8.00"
-    ],
-    [
-      "Auckland",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$11.00"
-    ],
-    [
-      "Auckland",
-      "20L/25L",
-      "$21.00"
-    ],
-    [
-      "Auckland",
-      "30L/35L",
-      "$23.00"
-    ],
-    [
-      "Auckland",
-      "40L/45L",
-      "$32.00"
-    ],
-    [
-      "Auckland",
-      "50L/55L/60L/65L",
-      "$53.00"
-    ],
-    [
-      "Auckland",
-      "70L/75L/80L/85L",
-      "$53.00"
-    ],
-    [
-      "Auckland",
-      "90L/95L/100L/105L",
-      "$63.00"
-    ],
-    [
-      "Auckland",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$95.00"
-    ],
-    [
-      "Auckland",
-      "200L/250L/300L/350L",
-      "$116.00"
-    ],
-    [
-      "Auckland",
-      "400L/450L/500L/550L/600L/650L",
-      "$315.00"
-    ],
-    [
-      "Auckland",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Auckland",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Balclutha/Gore",
-      "Minimum",
-      "$172.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P3/1L/1.5L",
-      "$3.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P5/2L",
-      "$3.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$4.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P12/6L/6.5L/7L/7.5L",
-      "$7.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$12.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$26.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "20L/25L",
-      "$33.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "30L/35L",
-      "$41.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "40L/45L",
-      "$49.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "50L/55L/60L/65L",
-      "$66.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "70L/75L/80L/85L",
-      "$83.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "90L/95L/100L/105L",
-      "$143.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$220.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "200L/250L/300L/350L",
-      "$310.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "400L/450L/500L/550L/600L/650L",
-      "$620.00"
-    ],
-    [
-      "Balclutha/Gore",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Balclutha/Gore",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Blenheim/Nelson",
-      "Minimum",
-      "$120.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P3/1L/1.5L",
-      "$1.60"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P5/2L",
-      "$1.90"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$2.70"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P12/6L/6.5L/7L/7.5L",
-      "$3.80"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$9.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$16.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "20L/25L",
-      "$21.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "30L/35L",
-      "$23.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "40L/45L",
-      "$32.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "50L/55L/60L/65L",
-      "$48.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "70L/75L/80L/85L",
-      "$48.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "90L/95L/100L/105L",
-      "$58.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$168.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "200L/250L/300L/350L",
-      "$210.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "400L/450L/500L/550L/600L/650L",
-      "$315.00"
-    ],
-    [
-      "Blenheim/Nelson",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Blenheim/Nelson",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Christchurch",
-      "Minimum",
-      "$120.00"
-    ],
-    [
-      "Christchurch",
-      "P3/1L/1.5L",
-      "$1.80"
-    ],
-    [
-      "Christchurch",
-      "P5/2L",
-      "$2.10"
-    ],
-    [
-      "Christchurch",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$3.20"
-    ],
-    [
-      "Christchurch",
-      "P12/6L/6.5L/7L/7.5L",
-      "$4.50"
-    ],
-    [
-      "Christchurch",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$10.00"
-    ],
-    [
-      "Christchurch",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$18.00"
-    ],
-    [
-      "Christchurch",
-      "20L/25L",
-      "$23.00"
-    ],
-    [
-      "Christchurch",
-      "30L/35L",
-      "$27.00"
-    ],
-    [
-      "Christchurch",
-      "40L/45L",
-      "$34.00"
-    ],
-    [
-      "Christchurch",
-      "50L/55L/60L/65L",
-      "$53.00"
-    ],
-    [
-      "Christchurch",
-      "70L/75L/80L/85L",
-      "$53.00"
-    ],
-    [
-      "Christchurch",
-      "90L/95L/100L/105L",
-      "$68.00"
-    ],
-    [
-      "Christchurch",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$185.00"
-    ],
-    [
-      "Christchurch",
-      "200L/250L/300L/350L",
-      "$231.00"
-    ],
-    [
-      "Christchurch",
-      "400L/450L/500L/550L/600L/650L",
-      "$338.00"
-    ],
-    [
-      "Christchurch",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Christchurch",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Dunedin/West Coast",
-      "Minimum",
-      "$143.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P3/1L/1.5L",
-      "$2.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P5/2L",
-      "$3.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$4.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P12/6L/6.5L/7L/7.5L",
-      "$6.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$12.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$24.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "20L/25L",
-      "$31.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "30L/35L",
-      "$36.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "40L/45L",
-      "$45.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "50L/55L/60L/65L",
-      "$55.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "70L/75L/80L/85L",
-      "$73.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "90L/95L/100L/105L",
-      "$121.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$190.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "200L/250L/300L/350L",
-      "$280.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "400L/450L/500L/550L/600L/650L",
-      "$560.00"
-    ],
-    [
-      "Dunedin/West Coast",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Dunedin/West Coast",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Hamilton",
-      "Minimum",
-      "$90.00"
-    ],
-    [
-      "Hamilton",
-      "P3/1L/1.5L",
-      "$1.10"
-    ],
-    [
-      "Hamilton",
-      "P5/2L",
-      "$1.30"
-    ],
-    [
-      "Hamilton",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.60"
-    ],
-    [
-      "Hamilton",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.50"
-    ],
-    [
-      "Hamilton",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$8.00"
-    ],
-    [
-      "Hamilton",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$11.00"
-    ],
-    [
-      "Hamilton",
-      "20L/25L",
-      "$21.00"
-    ],
-    [
-      "Hamilton",
-      "30L/35L",
-      "$23.00"
-    ],
-    [
-      "Hamilton",
-      "40L/45L",
-      "$32.00"
-    ],
-    [
-      "Hamilton",
-      "50L/55L/60L/65L",
-      "$53.00"
-    ],
-    [
-      "Hamilton",
-      "70L/75L/80L/85L",
-      "$53.00"
-    ],
-    [
-      "Hamilton",
-      "90L/95L/100L/105L",
-      "$63.00"
-    ],
-    [
-      "Hamilton",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$95.00"
-    ],
-    [
-      "Hamilton",
-      "200L/250L/300L/350L",
-      "$116.00"
-    ],
-    [
-      "Hamilton",
-      "400L/450L/500L/550L/600L/650L",
-      "$315.00"
-    ],
-    [
-      "Hamilton",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Hamilton",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Hawkes Bay",
-      "Minimum",
-      "$42.00"
-    ],
-    [
-      "Hawkes Bay",
-      "P3/1L/1.5L",
-      "$0.80"
-    ],
-    [
-      "Hawkes Bay",
-      "P5/2L",
-      "$0.90"
-    ],
-    [
-      "Hawkes Bay",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.10"
-    ],
-    [
-      "Hawkes Bay",
-      "P12/6L/6.5L/7L/7.5L",
-      "$1.40"
-    ],
-    [
-      "Hawkes Bay",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$5.50"
-    ],
-    [
-      "Hawkes Bay",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$8.00"
-    ],
-    [
-      "Hawkes Bay",
-      "20L/25L",
-      "$13.00"
-    ],
-    [
-      "Hawkes Bay",
-      "30L/35L",
-      "$18.00"
-    ],
-    [
-      "Hawkes Bay",
-      "40L/45L",
-      "$24.00"
-    ],
-    [
-      "Hawkes Bay",
-      "50L/55L/60L/65L",
-      "$35.00"
-    ],
-    [
-      "Hawkes Bay",
-      "70L/75L/80L/85L",
-      "$35.00"
-    ],
-    [
-      "Hawkes Bay",
-      "90L/95L/100L/105L",
-      "$44.00"
-    ],
-    [
-      "Hawkes Bay",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$70.00"
-    ],
-    [
-      "Hawkes Bay",
-      "200L/250L/300L/350L",
-      "$87.00"
-    ],
-    [
-      "Hawkes Bay",
-      "400L/450L/500L/550L/600L/650L",
-      "$242.00"
-    ],
-    [
-      "Hawkes Bay",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Hawkes Bay",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "Minimum",
-      "$190.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P3/1L/1.5L",
-      "$2.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P5/2L",
-      "$3.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$5.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P12/6L/6.5L/7L/7.5L",
-      "$7.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$14.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$29.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "20L/25L",
-      "$35.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "30L/35L",
-      "$44.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "40L/45L",
-      "$53.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "50L/55L/60L/65L",
-      "$66.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "70L/75L/80L/85L",
-      "$93.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "90L/95L/100L/105L",
-      "$143.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$215.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "200L/250L/300L/350L",
-      "$320.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "400L/450L/500L/550L/600L/650L",
-      "$632.00"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Invercargill/Central Otago",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Taranaki",
-      "Minimum",
-      "$60.00"
-    ],
-    [
-      "Taranaki",
-      "P3/1L/1.5L",
-      "$0.90"
-    ],
-    [
-      "Taranaki",
-      "P5/2L",
-      "$1.10"
-    ],
-    [
-      "Taranaki",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.40"
-    ],
-    [
-      "Taranaki",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.00"
-    ],
-    [
-      "Taranaki",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$6.50"
-    ],
-    [
-      "Taranaki",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$9.00"
-    ],
-    [
-      "Taranaki",
-      "20L/25L",
-      "$16.00"
-    ],
-    [
-      "Taranaki",
-      "30L/35L",
-      "$21.00"
-    ],
-    [
-      "Taranaki",
-      "40L/45L",
-      "$26.00"
-    ],
-    [
-      "Taranaki",
-      "50L/55L/60L/65L",
-      "$38.00"
-    ],
-    [
-      "Taranaki",
-      "70L/75L/80L/85L",
-      "$38.00"
-    ],
-    [
-      "Taranaki",
-      "90L/95L/100L/105L",
-      "$48.00"
-    ],
-    [
-      "Taranaki",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$77.00"
-    ],
-    [
-      "Taranaki",
-      "200L/250L/300L/350L",
-      "$97.00"
-    ],
-    [
-      "Taranaki",
-      "400L/450L/500L/550L/600L/650L",
-      "$285.00"
-    ],
-    [
-      "Taranaki",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Taranaki",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Taupo/Rotorua",
-      "Minimum",
-      "$60.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P3/1L/1.5L",
-      "$0.90"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P5/2L",
-      "$1.10"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.40"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$6.50"
-    ],
-    [
-      "Taupo/Rotorua",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$9.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "20L/25L",
-      "$16.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "30L/35L",
-      "$21.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "40L/45L",
-      "$26.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "50L/55L/60L/65L",
-      "$38.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "70L/75L/80L/85L",
-      "$38.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "90L/95L/100L/105L",
-      "$48.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$77.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "200L/250L/300L/350L",
-      "$97.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "400L/450L/500L/550L/600L/650L",
-      "$285.00"
-    ],
-    [
-      "Taupo/Rotorua",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Taupo/Rotorua",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Tauranga",
-      "Minimum",
-      "$90.00"
-    ],
-    [
-      "Tauranga",
-      "P3/1L/1.5L",
-      "$1.10"
-    ],
-    [
-      "Tauranga",
-      "P5/2L",
-      "$1.30"
-    ],
-    [
-      "Tauranga",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.60"
-    ],
-    [
-      "Tauranga",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.50"
-    ],
-    [
-      "Tauranga",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$8.00"
-    ],
-    [
-      "Tauranga",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$11.00"
-    ],
-    [
-      "Tauranga",
-      "20L/25L",
-      "$21.00"
-    ],
-    [
-      "Tauranga",
-      "30L/35L",
-      "$23.00"
-    ],
-    [
-      "Tauranga",
-      "40L/45L",
-      "$32.00"
-    ],
-    [
-      "Tauranga",
-      "50L/55L/60L/65L",
-      "$53.00"
-    ],
-    [
-      "Tauranga",
-      "70L/75L/80L/85L",
-      "$53.00"
-    ],
-    [
-      "Tauranga",
-      "90L/95L/100L/105L",
-      "$63.00"
-    ],
-    [
-      "Tauranga",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$95.00"
-    ],
-    [
-      "Tauranga",
-      "200L/250L/300L/350L",
-      "$116.00"
-    ],
-    [
-      "Tauranga",
-      "400L/450L/500L/550L/600L/650L",
-      "$315.00"
-    ],
-    [
-      "Tauranga",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Tauranga",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Wairarapa",
-      "Minimum",
-      "$42.00"
-    ],
-    [
-      "Wairarapa",
-      "P3/1L/1.5L",
-      "$0.80"
-    ],
-    [
-      "Wairarapa",
-      "P5/2L",
-      "$0.90"
-    ],
-    [
-      "Wairarapa",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.10"
-    ],
-    [
-      "Wairarapa",
-      "P12/6L/6.5L/7L/7.5L",
-      "$1.40"
-    ],
-    [
-      "Wairarapa",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$5.50"
-    ],
-    [
-      "Wairarapa",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$8.00"
-    ],
-    [
-      "Wairarapa",
-      "20L/25L",
-      "$13.00"
-    ],
-    [
-      "Wairarapa",
-      "30L/35L",
-      "$18.00"
-    ],
-    [
-      "Wairarapa",
-      "40L/45L",
-      "$24.00"
-    ],
-    [
-      "Wairarapa",
-      "50L/55L/60L/65L",
-      "$35.00"
-    ],
-    [
-      "Wairarapa",
-      "70L/75L/80L/85L",
-      "$35.00"
-    ],
-    [
-      "Wairarapa",
-      "90L/95L/100L/105L",
-      "$44.00"
-    ],
-    [
-      "Wairarapa",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$70.00"
-    ],
-    [
-      "Wairarapa",
-      "200L/250L/300L/350L",
-      "$87.00"
-    ],
-    [
-      "Wairarapa",
-      "400L/450L/500L/550L/600L/650L",
-      "$242.00"
-    ],
-    [
-      "Wairarapa",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Wairarapa",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "Minimum",
-      "$60.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P3/1L/1.5L",
-      "$0.80"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P5/2L",
-      "$0.90"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.10"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P12/6L/6.5L/7L/7.5L",
-      "$1.40"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$5.50"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$8.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "20L/25L",
-      "$13.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "30L/35L",
-      "$18.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "40L/45L",
-      "$24.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "50L/55L/60L/65L",
-      "$35.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "70L/75L/80L/85L",
-      "$35.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "90L/95L/100L/105L",
-      "$44.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$70.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "200L/250L/300L/350L",
-      "$87.00"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "400L/450L/500L/550L/600L/650L",
-      "242"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Wellington/Lower North Island",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Whakatane",
-      "Minimum",
-      "$90.00"
-    ],
-    [
-      "Whakatane",
-      "P3/1L/1.5L",
-      "$1.10"
-    ],
-    [
-      "Whakatane",
-      "P5/2L",
-      "$1.30"
-    ],
-    [
-      "Whakatane",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$1.60"
-    ],
-    [
-      "Whakatane",
-      "P12/6L/6.5L/7L/7.5L",
-      "$2.50"
-    ],
-    [
-      "Whakatane",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$8.00"
-    ],
-    [
-      "Whakatane",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$11.00"
-    ],
-    [
-      "Whakatane",
-      "20L/25L",
-      "$21.00"
-    ],
-    [
-      "Whakatane",
-      "30L/35L",
-      "$23.00"
-    ],
-    [
-      "Whakatane",
-      "40L/45L",
-      "$32.00"
-    ],
-    [
-      "Whakatane",
-      "50L/55L/60L/65L",
-      "$53.00"
-    ],
-    [
-      "Whakatane",
-      "70L/75L/80L/85L",
-      "$53.00"
-    ],
-    [
-      "Whakatane",
-      "90L/95L/100L/105L",
-      "$63.00"
-    ],
-    [
-      "Whakatane",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$95.00"
-    ],
-    [
-      "Whakatane",
-      "200L/250L/300L/350L",
-      "$116.00"
-    ],
-    [
-      "Whakatane",
-      "400L/450L/500L/550L/600L/650L",
-      "$315.00"
-    ],
-    [
-      "Whakatane",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Whakatane",
-      "2000L",
-      "P.O.A"
-    ],
-    [
-      "Whanganui",
-      "Minimum",
-      "$42.00"
-    ],
-    [
-      "Whanganui",
-      "P3/1L/1.5L",
-      "$0.80"
-    ],
-    [
-      "Whanganui",
-      "P5/2L",
-      "$0.80"
-    ],
-    [
-      "Whanganui",
-      "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
-      "$0.90"
-    ],
-    [
-      "Whanganui",
-      "P12/6L/6.5L/7L/7.5L",
-      "$1.20"
-    ],
-    [
-      "Whanganui",
-      "P18/8L/8.5L/9L/9.5L/10L/10.5L",
-      "$5.50"
-    ],
-    [
-      "Whanganui",
-      "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
-      "$8.00"
-    ],
-    [
-      "Whanganui",
-      "20L/25L",
-      "$12.00"
-    ],
-    [
-      "Whanganui",
-      "30L/35L",
-      "$16.00"
-    ],
-    [
-      "Whanganui",
-      "40L/45L",
-      "$21.00"
-    ],
-    [
-      "Whanganui",
-      "50L/55L/60L/65L",
-      "$32.00"
-    ],
-    [
-      "Whanganui",
-      "70L/75L/80L/85L",
-      "$32.00"
-    ],
-    [
-      "Whanganui",
-      "90L/95L/100L/105L",
-      "$37.00"
-    ],
-    [
-      "Whanganui",
-      "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
-      "$63.00"
-    ],
-    [
-      "Whanganui",
-      "200L/250L/300L/350L",
-      "$79.00"
-    ],
-    [
-      "Whanganui",
-      "400L/450L/500L/550L/600L/650L",
-      "$210.00"
-    ],
-    [
-      "Whanganui",
-      "700L/750L/800L/850L/900L/950L/1000L/1500L",
-      "P.O.A"
-    ],
-    [
-      "Whanganui",
-      "2000L",
-      "P.O.A"
-    ]
-  ]
+  ["Ashburton/Timaru/Oamaru", "Minimum", "$148.00"],
+  ["Ashburton/Timaru/Oamaru", "P3/1L/1.5L", "$2.00"],
+  ["Ashburton/Timaru/Oamaru", "P5/2L", "$3.00"],
+  ["Ashburton/Timaru/Oamaru", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$4.00"],
+  ["Ashburton/Timaru/Oamaru", "P12/6L/6.5L/7L/7.5L", "$6.00"],
+  ["Ashburton/Timaru/Oamaru", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$10.00"],
+  [
+    "Ashburton/Timaru/Oamaru",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$19.00"
+  ],
+  ["Ashburton/Timaru/Oamaru", "20L/25L", "$27.00"],
+  ["Ashburton/Timaru/Oamaru", "30L/35L", "$32.00"],
+  ["Ashburton/Timaru/Oamaru", "40L/45L", "$39.00"],
+  ["Ashburton/Timaru/Oamaru", "50L/55L/60L/65L", "$47.00"],
+  ["Ashburton/Timaru/Oamaru", "70L/75L/80L/85L", "$65.00"],
+  ["Ashburton/Timaru/Oamaru", "90L/95L/100L/105L", "$111.00"],
+  [
+    "Ashburton/Timaru/Oamaru",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$175.00"
+  ],
+  ["Ashburton/Timaru/Oamaru", "200L/250L/300L/350L", "$260.00"],
+  ["Ashburton/Timaru/Oamaru", "400L/450L/500L/550L/600L/650L", "$519.00"],
+  [
+    "Ashburton/Timaru/Oamaru",
+    "700L/750L/800L/850L/900L/950L/1000L/1500L",
+    "P.O.A"
+  ],
+  ["Ashburton/Timaru/Oamaru", "2000L", "P.O.A"],
+  ["Auckland", "Minimum", "$90.00"],
+  ["Auckland", "P3/1L/1.5L", "$1.10"],
+  ["Auckland", "P5/2L", "$1.30"],
+  ["Auckland", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.60"],
+  ["Auckland", "P12/6L/6.5L/7L/7.5L", "$2.50"],
+  ["Auckland", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$8.00"],
+  [
+    "Auckland",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$11.00"
+  ],
+  ["Auckland", "20L/25L", "$21.00"],
+  ["Auckland", "30L/35L", "$23.00"],
+  ["Auckland", "40L/45L", "$32.00"],
+  ["Auckland", "50L/55L/60L/65L", "$53.00"],
+  ["Auckland", "70L/75L/80L/85L", "$53.00"],
+  ["Auckland", "90L/95L/100L/105L", "$63.00"],
+  ["Auckland", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$95.00"],
+  ["Auckland", "200L/250L/300L/350L", "$116.00"],
+  ["Auckland", "400L/450L/500L/550L/600L/650L", "$315.00"],
+  ["Auckland", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Auckland", "2000L", "P.O.A"],
+  ["Balclutha/Gore", "Minimum", "$182.00"],
+  ["Balclutha/Gore", "P3/1L/1.5L", "$3.00"],
+  ["Balclutha/Gore", "P5/2L", "$3.00"],
+  ["Balclutha/Gore", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$5.00"],
+  ["Balclutha/Gore", "P12/6L/6.5L/7L/7.5L", "$7.00"],
+  ["Balclutha/Gore", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$13.00"],
+  [
+    "Balclutha/Gore",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$28.00"
+  ],
+  ["Balclutha/Gore", "20L/25L", "$35.00"],
+  ["Balclutha/Gore", "30L/35L", "$43.00"],
+  ["Balclutha/Gore", "40L/45L", "$52.00"],
+  ["Balclutha/Gore", "50L/55L/60L/65L", "$70.00"],
+  ["Balclutha/Gore", "70L/75L/80L/85L", "$88.00"],
+  ["Balclutha/Gore", "90L/95L/100L/105L", "$152.00"],
+  [
+    "Balclutha/Gore",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$233.00"
+  ],
+  ["Balclutha/Gore", "200L/250L/300L/350L", "$329.00"],
+  ["Balclutha/Gore", "400L/450L/500L/550L/600L/650L", "$657.00"],
+  ["Balclutha/Gore", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Balclutha/Gore", "2000L", "P.O.A"],
+  ["Blenheim/Nelson", "Minimum", "$120.00"],
+  ["Blenheim/Nelson", "P3/1L/1.5L", "$1.60"],
+  ["Blenheim/Nelson", "P5/2L", "$1.90"],
+  ["Blenheim/Nelson", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$2.70"],
+  ["Blenheim/Nelson", "P12/6L/6.5L/7L/7.5L", "$3.80"],
+  ["Blenheim/Nelson", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$9.00"],
+  [
+    "Blenheim/Nelson",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$16.00"
+  ],
+  ["Blenheim/Nelson", "20L/25L", "$21.00"],
+  ["Blenheim/Nelson", "30L/35L", "$23.00"],
+  ["Blenheim/Nelson", "40L/45L", "$32.00"],
+  ["Blenheim/Nelson", "50L/55L/60L/65L", "$48.00"],
+  ["Blenheim/Nelson", "70L/75L/80L/85L", "$48.00"],
+  ["Blenheim/Nelson", "90L/95L/100L/105L", "$58.00"],
+  [
+    "Blenheim/Nelson",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$168.00"
+  ],
+  ["Blenheim/Nelson", "200L/250L/300L/350L", "$210.00"],
+  ["Blenheim/Nelson", "400L/450L/500L/550L/600L/650L", "$315.00"],
+  ["Blenheim/Nelson", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Blenheim/Nelson", "2000L", "P.O.A"],
+  ["Christchurch", "Minimum", "$120.00"],
+  ["Christchurch", "P3/1L/1.5L", "$1.80"],
+  ["Christchurch", "P5/2L", "$2.10"],
+  ["Christchurch", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$3.20"],
+  ["Christchurch", "P12/6L/6.5L/7L/7.5L", "$4.50"],
+  ["Christchurch", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$10.00"],
+  [
+    "Christchurch",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$18.00"
+  ],
+  ["Christchurch", "20L/25L", "$23.00"],
+  ["Christchurch", "30L/35L", "$27.00"],
+  ["Christchurch", "40L/45L", "$34.00"],
+  ["Christchurch", "50L/55L/60L/65L", "$53.00"],
+  ["Christchurch", "70L/75L/80L/85L", "$53.00"],
+  ["Christchurch", "90L/95L/100L/105L", "$68.00"],
+  [
+    "Christchurch",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$185.00"
+  ],
+  ["Christchurch", "200L/250L/300L/350L", "$231.00"],
+  ["Christchurch", "400L/450L/500L/550L/600L/650L", "$338.00"],
+  ["Christchurch", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Christchurch", "2000L", "P.O.A"],
+  ["Dunedin/West Coast", "Minimum", "$152.00"],
+  ["Dunedin/West Coast", "P3/1L/1.5L", "$2.00"],
+  ["Dunedin/West Coast", "P5/2L", "$3.00"],
+  ["Dunedin/West Coast", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$4.00"],
+  ["Dunedin/West Coast", "P12/6L/6.5L/7L/7.5L", "$6.00"],
+  ["Dunedin/West Coast", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$13.00"],
+  [
+    "Dunedin/West Coast",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$25.00"
+  ],
+  ["Dunedin/West Coast", "20L/25L", "$33.00"],
+  ["Dunedin/West Coast", "30L/35L", "$38.00"],
+  ["Dunedin/West Coast", "40L/45L", "$48.00"],
+  ["Dunedin/West Coast", "50L/55L/60L/65L", "$58.00"],
+  ["Dunedin/West Coast", "70L/75L/80L/85L", "$77.00"],
+  ["Dunedin/West Coast", "90L/95L/100L/105L", "$128.00"],
+  [
+    "Dunedin/West Coast",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$201.00"
+  ],
+  ["Dunedin/West Coast", "200L/250L/300L/350L", "$297.00"],
+  ["Dunedin/West Coast", "400L/450L/500L/550L/600L/650L", "$594.00"],
+  ["Dunedin/West Coast", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Dunedin/West Coast", "2000L", "P.O.A"],
+  ["Hamilton", "Minimum", "$90.00"],
+  ["Hamilton", "P3/1L/1.5L", "$1.10"],
+  ["Hamilton", "P5/2L", "$1.30"],
+  ["Hamilton", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.60"],
+  ["Hamilton", "P12/6L/6.5L/7L/7.5L", "$2.50"],
+  ["Hamilton", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$8.00"],
+  [
+    "Hamilton",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$11.00"
+  ],
+  ["Hamilton", "20L/25L", "$21.00"],
+  ["Hamilton", "30L/35L", "$23.00"],
+  ["Hamilton", "40L/45L", "$32.00"],
+  ["Hamilton", "50L/55L/60L/65L", "$53.00"],
+  ["Hamilton", "70L/75L/80L/85L", "$53.00"],
+  ["Hamilton", "90L/95L/100L/105L", "$63.00"],
+  ["Hamilton", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$95.00"],
+  ["Hamilton", "200L/250L/300L/350L", "$116.00"],
+  ["Hamilton", "400L/450L/500L/550L/600L/650L", "$315.00"],
+  ["Hamilton", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Hamilton", "2000L", "P.O.A"],
+  ["Hawkes Bay", "Minimum", "$42.00"],
+  ["Hawkes Bay", "P3/1L/1.5L", "$0.80"],
+  ["Hawkes Bay", "P5/2L", "$0.90"],
+  ["Hawkes Bay", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.10"],
+  ["Hawkes Bay", "P12/6L/6.5L/7L/7.5L", "$1.40"],
+  ["Hawkes Bay", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$5.50"],
+  [
+    "Hawkes Bay",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$8.00"
+  ],
+  ["Hawkes Bay", "20L/25L", "$13.00"],
+  ["Hawkes Bay", "30L/35L", "$18.00"],
+  ["Hawkes Bay", "40L/45L", "$24.00"],
+  ["Hawkes Bay", "50L/55L/60L/65L", "$35.00"],
+  ["Hawkes Bay", "70L/75L/80L/85L", "$35.00"],
+  ["Hawkes Bay", "90L/95L/100L/105L", "$44.00"],
+  ["Hawkes Bay", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$70.00"],
+  ["Hawkes Bay", "200L/250L/300L/350L", "$87.00"],
+  ["Hawkes Bay", "400L/450L/500L/550L/600L/650L", "$242.00"],
+  ["Hawkes Bay", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Hawkes Bay", "2000L", "P.O.A"],
+  ["Invercargill/Central Otago", "Minimum", "$201.00"],
+  ["Invercargill/Central Otago", "P3/1L/1.5L", "$3.00"],
+  ["Invercargill/Central Otago", "P5/2L", "$3.00"],
+  [
+    "Invercargill/Central Otago",
+    "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
+    "$5.00"
+  ],
+  ["Invercargill/Central Otago", "P12/6L/6.5L/7L/7.5L", "$7.00"],
+  ["Invercargill/Central Otago", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$15.00"],
+  [
+    "Invercargill/Central Otago",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$31.00"
+  ],
+  ["Invercargill/Central Otago", "20L/25L", "$37.00"],
+  ["Invercargill/Central Otago", "30L/35L", "$47.00"],
+  ["Invercargill/Central Otago", "40L/45L", "$56.00"],
+  ["Invercargill/Central Otago", "50L/55L/60L/65L", "$70.00"],
+  ["Invercargill/Central Otago", "70L/75L/80L/85L", "$99.00"],
+  ["Invercargill/Central Otago", "90L/95L/100L/105L", "$152.00"],
+  [
+    "Invercargill/Central Otago",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$228.00"
+  ],
+  ["Invercargill/Central Otago", "200L/250L/300L/350L", "$339.00"],
+  ["Invercargill/Central Otago", "400L/450L/500L/550L/600L/650L", "$670.00"],
+  [
+    "Invercargill/Central Otago",
+    "700L/750L/800L/850L/900L/950L/1000L/1500L",
+    "P.O.A"
+  ],
+  ["Invercargill/Central Otago", "2000L", "P.O.A"],
+  ["Taranaki", "Minimum", "$60.00"],
+  ["Taranaki", "P3/1L/1.5L", "$0.90"],
+  ["Taranaki", "P5/2L", "$1.10"],
+  ["Taranaki", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.40"],
+  ["Taranaki", "P12/6L/6.5L/7L/7.5L", "$2.00"],
+  ["Taranaki", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$6.50"],
+  [
+    "Taranaki",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$9.00"
+  ],
+  ["Taranaki", "20L/25L", "$16.00"],
+  ["Taranaki", "30L/35L", "$21.00"],
+  ["Taranaki", "40L/45L", "$26.00"],
+  ["Taranaki", "50L/55L/60L/65L", "$38.00"],
+  ["Taranaki", "70L/75L/80L/85L", "$38.00"],
+  ["Taranaki", "90L/95L/100L/105L", "$48.00"],
+  ["Taranaki", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$77.00"],
+  ["Taranaki", "200L/250L/300L/350L", "$97.00"],
+  ["Taranaki", "400L/450L/500L/550L/600L/650L", "$285.00"],
+  ["Taranaki", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Taranaki", "2000L", "P.O.A"],
+  ["Taupo/Rotorua", "Minimum", "$60.00"],
+  ["Taupo/Rotorua", "P3/1L/1.5L", "$0.90"],
+  ["Taupo/Rotorua", "P5/2L", "$1.10"],
+  ["Taupo/Rotorua", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.40"],
+  ["Taupo/Rotorua", "P12/6L/6.5L/7L/7.5L", "$2.00"],
+  ["Taupo/Rotorua", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$6.50"],
+  [
+    "Taupo/Rotorua",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$9.00"
+  ],
+  ["Taupo/Rotorua", "20L/25L", "$16.00"],
+  ["Taupo/Rotorua", "30L/35L", "$21.00"],
+  ["Taupo/Rotorua", "40L/45L", "$26.00"],
+  ["Taupo/Rotorua", "50L/55L/60L/65L", "$38.00"],
+  ["Taupo/Rotorua", "70L/75L/80L/85L", "$38.00"],
+  ["Taupo/Rotorua", "90L/95L/100L/105L", "$48.00"],
+  [
+    "Taupo/Rotorua",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$77.00"
+  ],
+  ["Taupo/Rotorua", "200L/250L/300L/350L", "$97.00"],
+  ["Taupo/Rotorua", "400L/450L/500L/550L/600L/650L", "$285.00"],
+  ["Taupo/Rotorua", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Taupo/Rotorua", "2000L", "P.O.A"],
+  ["Tauranga", "Minimum", "$90.00"],
+  ["Tauranga", "P3/1L/1.5L", "$1.10"],
+  ["Tauranga", "P5/2L", "$1.30"],
+  ["Tauranga", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.60"],
+  ["Tauranga", "P12/6L/6.5L/7L/7.5L", "$2.50"],
+  ["Tauranga", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$8.00"],
+  [
+    "Tauranga",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$11.00"
+  ],
+  ["Tauranga", "20L/25L", "$21.00"],
+  ["Tauranga", "30L/35L", "$23.00"],
+  ["Tauranga", "40L/45L", "$32.00"],
+  ["Tauranga", "50L/55L/60L/65L", "$53.00"],
+  ["Tauranga", "70L/75L/80L/85L", "$53.00"],
+  ["Tauranga", "90L/95L/100L/105L", "$63.00"],
+  ["Tauranga", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$95.00"],
+  ["Tauranga", "200L/250L/300L/350L", "$116.00"],
+  ["Tauranga", "400L/450L/500L/550L/600L/650L", "$315.00"],
+  ["Tauranga", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Tauranga", "2000L", "P.O.A"],
+  ["Wairarapa", "Minimum", "$42.00"],
+  ["Wairarapa", "P3/1L/1.5L", "$0.80"],
+  ["Wairarapa", "P5/2L", "$0.90"],
+  ["Wairarapa", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.10"],
+  ["Wairarapa", "P12/6L/6.5L/7L/7.5L", "$1.40"],
+  ["Wairarapa", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$5.50"],
+  [
+    "Wairarapa",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$8.00"
+  ],
+  ["Wairarapa", "20L/25L", "$13.00"],
+  ["Wairarapa", "30L/35L", "$18.00"],
+  ["Wairarapa", "40L/45L", "$24.00"],
+  ["Wairarapa", "50L/55L/60L/65L", "$35.00"],
+  ["Wairarapa", "70L/75L/80L/85L", "$35.00"],
+  ["Wairarapa", "90L/95L/100L/105L", "$44.00"],
+  ["Wairarapa", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$70.00"],
+  ["Wairarapa", "200L/250L/300L/350L", "$87.00"],
+  ["Wairarapa", "400L/450L/500L/550L/600L/650L", "$242.00"],
+  ["Wairarapa", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Wairarapa", "2000L", "P.O.A"],
+  ["Wellington/Lower North Island", "Minimum", "$60.00"],
+  ["Wellington/Lower North Island", "P3/1L/1.5L", "$0.80"],
+  ["Wellington/Lower North Island", "P5/2L", "$0.90"],
+  [
+    "Wellington/Lower North Island",
+    "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L",
+    "$1.10"
+  ],
+  ["Wellington/Lower North Island", "P12/6L/6.5L/7L/7.5L", "$1.40"],
+  ["Wellington/Lower North Island", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$5.50"],
+  [
+    "Wellington/Lower North Island",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$8.00"
+  ],
+  ["Wellington/Lower North Island", "20L/25L", "$13.00"],
+  ["Wellington/Lower North Island", "30L/35L", "$18.00"],
+  ["Wellington/Lower North Island", "40L/45L", "$24.00"],
+  ["Wellington/Lower North Island", "50L/55L/60L/65L", "$35.00"],
+  ["Wellington/Lower North Island", "70L/75L/80L/85L", "$35.00"],
+  ["Wellington/Lower North Island", "90L/95L/100L/105L", "$44.00"],
+  [
+    "Wellington/Lower North Island",
+    "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L",
+    "$70.00"
+  ],
+  ["Wellington/Lower North Island", "200L/250L/300L/350L", "$87.00"],
+  ["Wellington/Lower North Island", "400L/450L/500L/550L/600L/650L", "242"],
+  [
+    "Wellington/Lower North Island",
+    "700L/750L/800L/850L/900L/950L/1000L/1500L",
+    "P.O.A"
+  ],
+  ["Wellington/Lower North Island", "2000L", "P.O.A"],
+  ["Whakatane", "Minimum", "$90.00"],
+  ["Whakatane", "P3/1L/1.5L", "$1.10"],
+  ["Whakatane", "P5/2L", "$1.30"],
+  ["Whakatane", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$1.60"],
+  ["Whakatane", "P12/6L/6.5L/7L/7.5L", "$2.50"],
+  ["Whakatane", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$8.00"],
+  [
+    "Whakatane",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$11.00"
+  ],
+  ["Whakatane", "20L/25L", "$21.00"],
+  ["Whakatane", "30L/35L", "$23.00"],
+  ["Whakatane", "40L/45L", "$32.00"],
+  ["Whakatane", "50L/55L/60L/65L", "$53.00"],
+  ["Whakatane", "70L/75L/80L/85L", "$53.00"],
+  ["Whakatane", "90L/95L/100L/105L", "$63.00"],
+  ["Whakatane", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$95.00"],
+  ["Whakatane", "200L/250L/300L/350L", "$116.00"],
+  ["Whakatane", "400L/450L/500L/550L/600L/650L", "$315.00"],
+  ["Whakatane", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Whakatane", "2000L", "P.O.A"],
+  ["Whanganui", "Minimum", "$42.00"],
+  ["Whanganui", "P3/1L/1.5L", "$0.80"],
+  ["Whanganui", "P5/2L", "$0.80"],
+  ["Whanganui", "P6.5/P8/2.5L/3L/3.5L/4L/4.5L/5L/5.5L", "$0.90"],
+  ["Whanganui", "P12/6L/6.5L/7L/7.5L", "$1.20"],
+  ["Whanganui", "P18/8L/8.5L/9L/9.5L/10L/10.5L", "$5.50"],
+  [
+    "Whanganui",
+    "P28/11L/11.5L/12L/12.5L/13L/13.5L/14L/14.5L/15L/15.5L/16L/16.5L/17L/17.5L",
+    "$8.00"
+  ],
+  ["Whanganui", "20L/25L", "$12.00"],
+  ["Whanganui", "30L/35L", "$16.00"],
+  ["Whanganui", "40L/45L", "$21.00"],
+  ["Whanganui", "50L/55L/60L/65L", "$32.00"],
+  ["Whanganui", "70L/75L/80L/85L", "$32.00"],
+  ["Whanganui", "90L/95L/100L/105L", "$37.00"],
+  ["Whanganui", "120L/125L/130L/135L/140L/145L/150L/155L/160L/165L", "$63.00"],
+  ["Whanganui", "200L/250L/300L/350L", "$79.00"],
+  ["Whanganui", "400L/450L/500L/550L/600L/650L", "$210.00"],
+  ["Whanganui", "700L/750L/800L/850L/900L/950L/1000L/1500L", "P.O.A"],
+  ["Whanganui", "2000L", "P.O.A"]
+]
