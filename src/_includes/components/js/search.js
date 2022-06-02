@@ -44,100 +44,126 @@ async function search(terms) {
       typesValue = "";
       compareValue = "";
       if (searchData[i].uses.search("hedging-screening") !== -1) {
-        usesValue = `${usesValue} hedging hedge hedges hedged`;
+        usesValue = `${usesValue} hedging hedge hedges hedged `;
       }
       if (searchData[i].uses.search("birds-bees") !== -1) {
-        usesValue = `${usesValue} bird birds bees bee`;
+        usesValue = `${usesValue} bird birds bees bee `;
       }
       if (searchData[i].uses.search("driveways-avenues") !== -1) {
-        usesValue = `${usesValue} driveway driveways avenue avenues`;
+        usesValue = `${usesValue} driveway driveways avenue avenues `;
       }
       if (searchData[i].uses.search("paddocks-shade") !== -1) {
-        usesValue = `${usesValue} paddocks paddock field farm shade shading`;
+        usesValue = `${usesValue} paddocks paddock field farm shade shading `;
       }
       if (searchData[i].uses.search("pleaching") !== -1) {
-        usesValue = `${usesValue} pleaching pleached pleach`;
+        usesValue = `${usesValue} pleaching pleached pleach `;
       }
       if (searchData[i].uses.search("small-garden") !== -1) {
-        usesValue = `${usesValue} small`;
+        usesValue = `${usesValue} small `;
       }
       if (searchData[i].uses.search("street") !== -1) {
-        usesValue = `${usesValue} street`;
+        usesValue = `${usesValue} street `;
       }
       if (searchData[i].uses.search("topiary") !== -1) {
-        usesValue = `${usesValue} topiary topiaried ball`;
+        usesValue = `${usesValue} topiary topiaried ball `;
       }
       if (searchData[i].uses.search("narrow-spaces") !== -1) {
-        usesValue = `${usesValue} narrow restricted thin`;
+        usesValue = `${usesValue} narrow restricted thin `;
       }
       if (searchData[i].uses.search("attracts-birds") !== -1) {
-        usesValue = `${usesValue} attracts birds bird`;
+        usesValue = `${usesValue} attracts birds bird `;
       }
       if (searchData[i].uses.search("attracts-bees") !== -1) {
-        usesValue = `${usesValue} attracts bees bee`;
+        usesValue = `${usesValue} attracts bees bee `;
       }
 
       if (searchData[i].tolerates.search("dry") !== -1) {
-        toleratesValue = `${toleratesValue} dry hot drought`;
+        toleratesValue = `${toleratesValue} dry hot drought `;
       }
       if (searchData[i].tolerates.search("coastal") !== -1) {
-        toleratesValue = `${toleratesValue} coastal coast beach sea seaside`;
+        toleratesValue = `${toleratesValue} coastal coast beach sea seaside `;
       }
       if (searchData[i].tolerates.search("wet") !== -1) {
-        toleratesValue = `${toleratesValue} wet damp moist sodden flood`;
+        toleratesValue = `${toleratesValue} wet damp moist sodden flood `;
       }
       if (searchData[i].tolerates.search("windy") !== -1) {
-        toleratesValue = `${toleratesValue} windy wind gale exposed`;
+        toleratesValue = `${toleratesValue} windy wind gale exposed `;
       }
       if (searchData[i].tolerates.search("clay") !== -1) {
-        toleratesValue = `${toleratesValue} clay heavy`;
+        toleratesValue = `${toleratesValue} clay heavy `;
       }
 
       if (searchData[i].types.search("conifer") !== -1) {
-        typesValue = `${typesValue} conifer coniferous`;
+        typesValue = `${typesValue} conifer coniferous `;
       }
       if (searchData[i].types.search("edible") !== -1) {
-        typesValue = `${typesValue} edible fruit nut`;
+        typesValue = `${typesValue} edible fruit nut `;
       }
       if (searchData[i].types.search("weeping") !== -1) {
-        typesValue = `${typesValue} weeping pendula pendulum drooping`;
+        typesValue = `${typesValue} weeping pendula pendulum drooping `;
       }
 
-      compareValue = `${searchData[i].botanicalName
-        .replace(/ã/g, "a")
-        .replace(/é/g, "e")
-        .replace(/ā/g, "a")
-        .replace(/ē/g, "e")
-        .replace(/ī/g, "i")
-        .replace(/ō/g, "o")
-        .replace(/ū/g, "u")} ${searchData[i].commonName
-        .replace(/ã/g, "a")
-        .replace(/é/g, "e")
-        .replace(/ā/g, "a")
-        .replace(/ē/g, "e")
-        .replace(/ī/g, "i")
-        .replace(/ō/g, "o")
-        .replace(/ū/g, "u")} ${usesValue} ${toleratesValue} ${
-        searchData[i].winterFoliage
-      } ${searchData[i].origin} ${typesValue} ${
-        searchData[i].filterFlowerColor
-      } ${searchData[i].filterFoliageColor} ${
-        searchData[i].filterAutumnColor
-      } ${searchData[i].soilType} ${searchData[i].uses} ${
-        searchData[i].sunShade
-      } ${searchData[i].tolerates} ${searchData[i].types}`
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/\(/g, "")
-        .replace(/\)/g, "")
-        .replace(/,/g, "")
-        .replace(/-/g, "")
-        .replace(/-x-/g, "")
-        .replace(/\s/g, "")
-        .toLowerCase();
+      for (let j = 0; j < searchData[i].synonyms.length; j++) {
+        compareValue += `${searchData[i].synonyms[j]} `
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/\(/g, "")
+          .replace(/\)/g, "")
+          .replace(/,/g, " ")
+          .replace(/-/g, " ")
+          .replace(/-x-/g, " ")
+          // .replace(/\s/g, "")
+          .replace(/ã/g, "a")
+          .replace(/é/g, "e")
+          .replace(/ā/g, "a")
+          .replace(/ē/g, "e")
+          .replace(/ī/g, "i")
+          .replace(/ō/g, "o")
+          .replace(/ū/g, "u")
+          .toLowerCase();
+      }
+
+      compareValue +=
+        `${searchData[i].botanicalName} ${searchData[i].commonName} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .replace(/\(/g, "")
+          .replace(/\)/g, "")
+          .replace(/,/g, " ")
+          .replace(/-/g, " ")
+          .replace(/-x-/g, " ")
+          // .replace(/\s/g, "")
+          .replace(/ã/g, "a")
+          .replace(/é/g, "e")
+          .replace(/ā/g, "a")
+          .replace(/ē/g, "e")
+          .replace(/ī/g, "i")
+          .replace(/ō/g, "o")
+          .replace(/ū/g, "u")
+          .toLowerCase();
 
       for (let j = 0; j < terms.length; j++) {
-        if (compareValue.search(terms[j].toLowerCase()) !== -1) {
+        if (
+          compareValue.search(
+            terms[j]
+              .replace(/'/g, "")
+              .replace(/"/g, "")
+              .replace(/\(/g, "")
+              .replace(/\)/g, "")
+              .replace(/,/g, " ")
+              .replace(/-/g, " ")
+              .replace(/-x-/g, " ")
+              // .replace(/\s/g, "")
+              .replace(/ã/g, "a")
+              .replace(/é/g, "e")
+              .replace(/ā/g, "a")
+              .replace(/ē/g, "e")
+              .replace(/ī/g, "i")
+              .replace(/ō/g, "o")
+              .replace(/ū/g, "u")
+              .toLowerCase()
+          ) !== -1
+        ) {
           add = true;
         } else {
           add = false;
