@@ -4698,7 +4698,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/191897/acer-palmatum-emerald-lace-(d)/details",
+      "https://www.gardenia.net/plant/acer-palmatum-emerald-lace"
     ]
   },
   {
@@ -4778,7 +4780,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/60359/acer-palmatum-dissectum-flavescens-(d)/details",
+      "https://mendocinomaples.com/maples-by-habitat/maples-for-shady-areas/flavescens/"
     ]
   },
   {
@@ -4866,7 +4870,13 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/231/acer-palmatum-garnet-(d)/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261251",
+      "https://www.vdberk.co.uk/trees/acer-palmatum-garnet/",
+      "https://www.havlis.cz/karta_en.php?kytkaid=78",
+      "https://www.ebben.nl/en/treeebb/acpgarne-acer-palmatum-garnet",
+      "https://www.gardenia.net/plant/acer-palmatum-garnet-japanese-maple"
     ]
   },
   {
@@ -4942,7 +4952,11 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/93695/acer-palmatum-inaba-shidare-(d)/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=269581",
+      "https://www.vdberk.co.uk/trees/acer-palmatum-inaba-shidare/",
+      "https://www.havlis.cz/karta_en.php?kytkaid=81"
     ]
   },
   {
@@ -5026,7 +5040,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/117758/acer-palmatum-orangeola-(d)/details",
+      "https://www.gardenia.net/plant/acer-palmatum-orangeola-laceleaf-japanese-maple"
     ]
   },
   {
@@ -5037,12 +5053,12 @@
     "variety": "Acer palmatum var. dissectum",
     "form": "",
     "cultivar": "Acer palmatum var. dissectum 'Palmatifidum'",
-    "synonyms": [],
+    "synonyms": ["Acer palmatum var. dissectum 'Washi-no-o'"],
     "botanicalName": "Acer palmatum var. dissectum 'Palmatifidum'",
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-var-dissectum-palmatifidum-japanese-maple",
     "mainImage": "acer-palmatum-var-dissectum-palmatifidum-japanese-maple/acer-palmatum-var-dissectum-palmatifidum-japanese-maple.jpg",
-    "description": "A rounded tree with palmate, bright-green leaves divided into five deeply-lobed leaflets. Leaves turn red, orange, and yellow in autumn. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
+    "description": "Also known as Acer palmatum var. dissectum 'Washi-no-o'. A rounded tree with palmate, bright-green leaves divided into five deeply-lobed leaflets. Leaves turn red, orange, and yellow in autumn. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
     "tolerates": "light-frosts, heavy-frosts",
     "soilType": "sandy-soils, clay-soils",
