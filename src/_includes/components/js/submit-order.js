@@ -81,7 +81,7 @@ async function populateForm() {
 
     let treeUrlBotanical = document.createElement("a");
     treeUrlBotanical.href = tree.url;
-    treeUrlBotanical.textContent = tree.botanicalName;
+    treeUrlBotanical.innerHTML = tree.botanicalName;
 
     let botanicalName = document.createElement("p");
     botanicalName.classList.add("botanical-name");
@@ -169,9 +169,9 @@ async function populateForm() {
         poaGrade = true;
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-          tree.grade
-        }</b></td> <td><b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+          tree.botanicalName
+        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
@@ -187,9 +187,9 @@ async function populateForm() {
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-          tree.grade
-        }</b></td> <td><b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+          tree.botanicalName
+        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
@@ -209,9 +209,9 @@ async function populateForm() {
     } else {
       freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
 
-      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-        tree.grade
-      }</b></td> <td><b>${
+      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+        tree.botanicalName
+      } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "m"

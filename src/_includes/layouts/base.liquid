@@ -4,13 +4,64 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="{{ description | escape }}"/>
-    <title>
-    {% if type == "index" %}Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-    {% elsif type == "product" and commonName == ""%}{{ botanicalName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-    {% elsif type == "product"%}{{ botanicalName }} ({{ commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
-    {% else %}{{ title }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees
+
+    {% if type == "index" %}
+    
+    <title>Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+    {% elsif type == "product"%}
+
+      {% if tree.cultivar.size > 0 %}
+
+            {% if tree.form.size > 0 %}
+
+            <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% elsif tree.variety.size > 0 %}
+
+            <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% elsif tree.subspecies.size > 0 %}
+
+            <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% elsif tree.hybrid.size > 0 %}
+
+            <title>{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% else %}
+
+            <title>{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% endif %}
+
+        {% elsif tree.form.size > 0 %}
+
+        <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% elsif tree.variety.size > 0 %}
+
+        <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% elsif tree.subspecies.size > 0 %}
+
+        <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% elsif tree.hybrid.size > 0 %}
+
+        <title>{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% else %}
+
+        <title>{{ tree.genus }} {{ tree.species }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+      {% endif %}
+
+    {% else %}
+    
+    <title>{{ title }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
     {% endif %}
-    </title>
 
     {% comment %} <link rel='preconnect' href="https://bat.bing.com">
     <link rel='dns-prefetch' href="https://bat.bing.com">

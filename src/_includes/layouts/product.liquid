@@ -6,7 +6,52 @@ type: product
 <div id="content">
 
     <div id="tree-name-block">
-        <h1 class="tree-botanical-name">{{ botanicalName }}</h1>
+
+        {% if tree.cultivar.size > 0 %}
+
+            {% if tree.form.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.variety.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.subspecies.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.hybrid.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% else %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% endif %}
+
+        {% elsif tree.form.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></h1>
+
+        {% elsif tree.variety.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></h1>
+
+        {% elsif tree.subspecies.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></h1>
+
+        {% elsif tree.hybrid.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></h1>
+
+        {% else %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></h1>
+
+        {% endif %}
 
         {% if commonName != '' %}
         <h2 class="tree-common-name accent-color">{{ commonName }}</h2>
@@ -834,7 +879,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Genus:</span> {{ tree.genus }}</p>
+                        <p><span class="tree-information-table-heading">Genus:</span> <i>{{ tree.genus }}</i></p>
 
                     </div>
 
@@ -844,7 +889,17 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Species:</span> {{ tree.species }}</p>
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if tree.hybrid.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
 
                     </div>
 
@@ -854,7 +909,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Subspecies:</span> {{ tree.subspecies }}</p>
+                        <p><span class="tree-information-table-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></p>
 
                     </div>
 
@@ -864,7 +919,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Variety:</span> {{ tree.variety }}</p>
+                        <p><span class="tree-information-table-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></p>
 
                     </div>
 
@@ -874,7 +929,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Form:</span> {{ tree.form }}</p>
+                        <p><span class="tree-information-table-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></p>
 
                     </div>
 
@@ -884,7 +939,27 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Cultivar:</span> {{ tree.cultivar }}</p>
+                            {% if tree.form.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.variety.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.subspecies.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.hybrid.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% else %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% endif %}
 
                     </div>
 

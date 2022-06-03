@@ -253,3 +253,116 @@
     status = 301
     to = "/trees/acer-palmatum-var-dissectum-red-feather-japanese-maple/"
 
+[[redirects]]
+    force = true
+    from = "/trees/almond-all-in-one/"
+    status = 301
+    to = "/trees/prunus-dulcis-all-in-one-almond/"
+
+[[redirects]]
+    force = true
+    from = "/trees/almond-monovale/"
+    status = 301
+    to = "/trees/prunus-dulcis-monovale-almond/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-braeburn/"
+    status = 301
+    to = "/trees/malus-domestica-braeburn-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-fuji/"
+    status = 301
+    to = "/trees/malus-domestica-fuji-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-gala/"
+    status = 301
+    to = "/trees/malus-domestica-gala-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-galaxy/"
+    status = 301
+    to = "/trees/malus-domestica-galaxy-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-golden-delicious/"
+    status = 301
+    to = "/trees/malus-domestica-golden-delicious-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-granny-smith/"
+    status = 301
+    to = "/trees/malus-domestica-granny-smith-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-initial/"
+    status = 301
+    to = "/trees/malus-domestica-initial-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-initial-sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-initial-sir-prize-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-liberty/"
+    status = 301
+    to = "/trees/malus-domestica-liberty-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-liberty-sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-liberty-sir-prize-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-montys-surprise/"
+    status = 301
+    to = "/trees/malus-domestica-montys-surprise-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-pacific-rose/"
+    status = 301
+    to = "/trees/malus-domestica-pacific-rose-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-braeburn/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-braeburn-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-granny-smith/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-granny-smith-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-golden-delicious/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-golden-delicious-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-wandin-glory/"
+    status = 301
+    to = "/trees/malus-domestica-wandin-glory-apple/"

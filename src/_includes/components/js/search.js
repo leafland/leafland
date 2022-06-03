@@ -124,7 +124,7 @@ async function search(terms) {
       }
 
       compareValue +=
-        `${searchData[i].botanicalName} ${searchData[i].commonName} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
+        `${searchData[i].genus} ${searchData[i].species} ${searchData[i].hybrid} ${searchData[i].subspecies} ${searchData[i].variety} ${searchData[i].form} ${searchData[i].cultivar} ${searchData[i].commonName} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
           .replace(/'/g, "")
           .replace(/"/g, "")
           .replace(/\(/g, "")
@@ -211,13 +211,32 @@ async function displayResults(results) {
     resultLink.classList.add("button");
     resultLink.textContent = "View Tree";
 
-    if (results[i].commonName === "") {
-      resultTitle.textContent = results[i].botanicalName;
+    if (results[i].cultivar !== "") {
+      if (results[i].form !== "") {
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> f. <i>${results[i].form}</i> '${results[i].cultivar}'`;
+      } else if (results[i].variety !== "") {
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> var. <i>${results[i].variety}</i> '${results[i].cultivar}'`;
+      } else if (results[i].subspecies !== "") {
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i> '${results[i].cultivar}'`;
+      } else if (results[i].hybrid !== "") {
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
+      } else {
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
+      }
+    } else if (results[i].form !== "") {
+      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> f. <i>${results[i].form}</i>`;
+    } else if (results[i].variety !== "") {
+      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> var. <i>${results[i].variety}</i>`;
+    } else if (results[i].subspecies !== "") {
+      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i>`;
+    } else if (results[i].hybrid !== "") {
+      resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;
     } else {
-      resultTitle.textContent = `${results[i].botanicalName}`;
-      resultSubtitle.innerHTML = `<span class="accent-color">${results[i].commonName}</span>`;
-      titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
+      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i>`;
     }
+
+    resultSubtitle.innerHTML = `<span class="accent-color">${results[i].commonName}</span>`;
+    titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let imageDiv = document.createElement("div");
 

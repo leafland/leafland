@@ -423,7 +423,7 @@ function addTreeToLocalStorage() {
 
   if (productTrees.length === 0) {
     productTrees.push({
-      botanicalName: treeBotanicalName.textContent,
+      botanicalName: treeBotanicalName.innerHTML,
       commonName: treeCommonName.textContent,
       url: window.location.pathname,
       mainImage: productImage,
@@ -447,7 +447,7 @@ function addTreeToLocalStorage() {
     for (let i = 0; i < productTrees.length + 1; i++) {
       if (i === productTrees.length) {
         productTrees.push({
-          botanicalName: treeBotanicalName.textContent,
+          botanicalName: treeBotanicalName.innerHTML,
           commonName: treeCommonName.textContent,
           url: window.location.pathname,
           mainImage: productImage,
@@ -869,7 +869,7 @@ function addEventListeners() {
         quantity.value
       }<span class="lowercase">x</span> ${
         document.querySelector(".grade-selection-value-active").dataset.value
-      } ${treeBotanicalName.textContent} ${
+      } ${treeBotanicalName.innerHTML} ${
         treeCommonName.textContent !== ""
           ? '(<span class="accent-color">' +
             treeCommonName.textContent +
