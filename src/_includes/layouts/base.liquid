@@ -37,19 +37,19 @@
 
         {% elsif tree.form.size > 0 %}
 
-        <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+        <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
 
         {% elsif tree.variety.size > 0 %}
 
-        <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+        <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
 
         {% elsif tree.subspecies.size > 0 %}
 
-        <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+        <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
 
         {% elsif tree.hybrid.size > 0 %}
 
-        <title>{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+        <title>{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
 
         {% else %}
 
@@ -181,11 +181,74 @@
 
         <script type="application/ld+json">
           {
-            "@context": "https://schema.org/", 
-            "@type": "Product", 
-            "name": "{% if commonName == "" %}{{ botanicalName | escape}}{% else %}{{ botanicalName | escape}} ({{ commonName | escape}}){% endif %}",
-            "botanicalName": "{{ botanicalName | escape}}",
-            {% unless commonName == "" %}"commonName": "{{ commonName | escape}}",{% endunless %}
+            "@context": "https://schema.org/", /h1
+            "@type": "Product",
+            {% if tree.cultivar.size > 0 %}
+
+              {% if tree.form.size > 0 %}
+
+              "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% elsif tree.variety.size > 0 %}
+
+              "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% elsif tree.subspecies.size > 0 %}
+
+              "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% elsif tree.hybrid.size > 0 %}
+
+              "name": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% else %}
+
+              "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% endif %}
+
+            {% elsif tree.form.size > 0 %}
+
+            "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }}"
+            "commonName": "{{ tree.commonName }}"
+
+            {% elsif tree.variety.size > 0 %}
+
+            "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}  ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}"
+            "commonName": "{{ tree.commonName }}"
+
+            {% elsif tree.subspecies.size > 0 %}
+
+            "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }}"
+            "commonName": "{{ tree.commonName }}"
+
+            {% elsif tree.hybrid.size > 0 %}
+
+            "name": "{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }}"
+            "commonName": "{{ tree.commonName }}"
+
+            {% else %}
+
+            "name": "{{ tree.genus }} {{ tree.species }} ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} {{ tree.species }}"
+            "commonName": "{{ tree.commonName }}"
+
+          {% endif %}
+
             "image": "https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=1500&q=75",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
