@@ -366,3 +366,39 @@
     from = "/trees/apple-wandin-glory/"
     status = 301
     to = "/trees/malus-domestica-wandin-glory-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-royal-rosa/"
+    status = 301
+    to = "/trees/prunus-armeniaca-royal-rosa-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-sundrop/"
+    status = 301
+    to = "/trees/prunus-armeniaca-sundrop-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-sundrop-trevatt/"
+    status = 301
+    to = "/trees/prunus-armeniaca-sundrop-trevatt-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-trevatt/"
+    status = 301
+    to = "/trees/prunus-armeniaca-trevatt-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/avocado-bacon/"
+    status = 301
+    to = "/trees/persea-americana-bacon-avocado/"
+
+[[redirects]]
+    force = true
+    from = "/trees/avocado-hass/"
+    status = 301
+    to = "/trees/persea-americana-hass-avocado/"

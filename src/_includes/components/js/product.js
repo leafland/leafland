@@ -124,11 +124,16 @@ async function getProductStockData() {
   let treeName;
   if (treeCommonName.textContent.search("serrula") !== -1) {
     treeName = treeBotanicalName.textContent + " serrula interstem";
-  } else {
+  } 
+  else {
     treeName = treeBotanicalName.textContent;
   }
   grades = await fetch(
     `https://api.leafland.co.nz/default/get-tree-stock-data?treeName=${treeName
+      .replace('Prunus dulcis', 'Almond')
+      .replace('Malus domestica', 'Apple')
+      .replace('Prunus armeniaca', 'Apricot')
+      .replace('Persea americana', 'Avocado')
       .trim()
       .replace(/ã/g, "a")
       .replace(/é/g, "e")
@@ -471,7 +476,7 @@ function addTreeToLocalStorage() {
         break;
       } else {
         productTrees[i].quantity = parseInt(productTrees[i].quantity, 10);
-        if (productTrees[i].botanicalName === treeBotanicalName.textContent) {
+        if (productTrees[i].botanicalName === treeBotanicalName.innerHTML) {
           if (
             productTrees[i].grade ===
             document.querySelector(".grade-selection-value-active").dataset
@@ -780,6 +785,10 @@ async function createStockTable() {
     return (
       testItem ===
       treeBotanicalName.textContent
+        .replace('Prunus dulcis', 'Almond')
+        .replace('Malus domestica', 'Apple')
+        .replace('Prunus armeniaca', 'Apricot')
+        .replace('Persea americana', 'Avocado')
         .trim()
         .replace(/ã/g, "a")
         .replace(/é/g, "e")

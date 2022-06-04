@@ -9461,1246 +9461,9 @@
     "links": []
   },
   {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Braeburn",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "malus-domestica-braeburn-apple",
-    "mainImage": "malus-domestica-braeburn-apple/malus-domestica-braeburn-apple.jpg",
-    "description": "One of the world's top commercial apples. Delicious, crisp, juicy flesh and superb sweet-tart flavour. Excellent keeper. Harvest from late-summer to mid-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but best planted with another variety with a similar bloom period like Fuji and Granny Smith.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-cut.jpg",
-        "alt": "malus domestica braeburn apple cut"
-      },
-      {
-        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-group.jpg",
-        "alt": "malus domestica braeburn apple group"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Fuji",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "malus-domestica-fuji-apple",
-    "mainImage": "malus-domestica-fuji-apple/malus-domestica-fuji-apple.jpg",
-    "description": "A large, sweet, crisp, red-skinned apple similar to Red Delicious. Fruit ripens in late-autumn. Excellent eating and storage. Vigorous grower. Pink buds open to white flowers in spring. Requires Braeburn, Golden Delicious, or Red Delicious for pollination and fruit production.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/malus-domestica-fuji-apple/malus-domestica-fuji-apple-group.jpg",
-        "alt": "malus-domestica-fuji-apple group"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Gala",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "malus-domestica-gala-apple",
-    "mainImage": "malus-domestica-gala-apple/malus-domestica-gala-apple.jpg",
-    "description": "Apples have yellow skin flushed with red, and the juicy, creamy flesh has a rich flavour. Fruit ripens from late-summer to early-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like Fuji, Golden Delicious, or Red Delicious with a similar bloom period for best fruit production.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, red",
-      "autumn": "yellow, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/malus-domestica-gala-apple/malus-domestica-gala-apple-group.jpg",
-        "alt": "malus domestica gala apple group"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Galaxy",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "malus-domestica-galaxy-apple",
-    "mainImage": "malus-domestica-galaxy-apple/malus-domestica-galaxy-apple.jpg",
-    "description": "A more red clone of Gala. Bright, orange-red flesh with red stripes over gold, inconspicuous, fine russet dots. Medium-sized fruit that is ribbed and crowned. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like Fuji, Golden Delicious, or Red Delicious with a similar bloom period for best fruit production. Fruit ripens from late-summer to early-autumn.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, red, orange",
-      "autumn": "yellow, red, orange",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-apples.jpg",
-        "alt": "malus domestica galaxy apple apples"
-      },
-      {
-        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-flower.jpg",
-        "alt": "malus domestica galaxy apple flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Golden Delicious",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "malus-domestica-golden-delicious-apple",
-    "mainImage": "malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple.jpg",
-    "description": "A dessert cultivar and a good pollinator for other apple trees. Fruit is green-yellow, becoming yellow with age. Fruit is honeyed and very sweet when well-ripened. Apples ripen in late-autumn. Pink buds open to white flowers in spring. Self-fertile, but plant with Fuji, Gala, or Red Delicious for better crops.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, yellow",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-golden-delicious/apple-golden-delicious-apples.jpg",
-        "alt": "apple golden delicious apples"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Granny Smith'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-granny-smith",
-    "mainImage": "apple-granny-smith/apple-granny-smith.jpg",
-    "description": "A good, crisp, green-skinned eating apple, also an excellent cooker. Bears large fruit which ripen in mid-autumn. Excellent keeper. Pink buds open to white flowers in spring. Self-fertile, but better crops when planted with Golden Delicious or Red Delicious.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-granny-smith/apple-granny-smith-apple-group.jpg",
-        "alt": "apple granny smith apple group"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Initial'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-initial",
-    "mainImage": "apple-initial/apple-initial.jpg",
-    "description": "Large red apple with resistance to black spot disease. Excellent flavour, with low acid, high sugar, and a high aroma as well. Fruit ripens late-summer to early-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, and Royal Gala.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-initial/apple-initial-flowers.jpg",
-        "alt": "apple initial flowers"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Initial/Sir Prize'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-initial-sir-prize",
-    "mainImage": "apple-initial-sir-prize/apple-initial-sir-prize.jpg",
-    "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See Apple 'Initial' for description. First image is of Apple 'Initial', second is of Apple 'Sir Prize'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, red",
-      "autumn": "yellow, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-initial-sir-prize/apple-initial-sir-prize-apples.jpg",
-        "alt": "apple initial sir prize apples"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Liberty'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-liberty",
-    "mainImage": "apple-liberty/apple-liberty.jpg",
-    "description": "Excellent selection for the organic grower as is resistant to black spot. Requires little, if any, spraying. Red-blushed fruit with crisp, juicy, sweet-tart flavour. Heavy-bearer. Excellent keeper. Fruit ripens from mid to late-autumn. Pink buds open to white flowers in spring. Self-fertile, but best crops when planted with early-flowering varieties such as Braeburn.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-liberty/apple-liberty-apples.jpg",
-        "alt": "apple liberty apples"
-      },
-      {
-        "src": "images/trees/apple-liberty/apple-liberty-on-tree.jpg",
-        "alt": "apple liberty on tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Liberty/Sir Prize'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-liberty-sir-prize",
-    "mainImage": "apple-liberty-sir-prize/apple-liberty-sir-prize.jpg",
-    "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See Apple 'Liberty' for description. First image is of Apple 'Liberty', second is of Apple 'Sir Prize'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "yellow, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-liberty-sir-prize/apple-liberty-sir-prize-apples.jpg",
-        "alt": "apple liberty sir prize apples"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica \"Monty's Surprise\"",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-montys-surprise",
-    "mainImage": "apple-montys-surprise/apple-montys-surprise.jpg",
-    "description": "A good, crisp, eating apple. Light-green skin striped with red. Bears large fruit which ripen in mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Initial, and Royal Gala.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-montys-surprise/apple-montys-surprise-bowl.jpg",
-        "alt": "apple montys surprise bowl"
-      },
-      {
-        "src": "images/trees/apple-montys-surprise/apple-montys-surprise-flower.jpg",
-        "alt": "apple montys surprise flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Pacific Rose'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-pacific-rose",
-    "mainImage": "apple-pacific-rose/apple-pacific-rose.jpg",
-    "description": "Has clear, rose-pink skin. Firm, crispy, and juicy flesh with a rich and sweet taste. Fruit ripens mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, Initial, and Royal Gala.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "red, pink",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-pacific-rose/apple-pacific-rose-apple-group.jpg",
-        "alt": "apple pacific rose apple group"
-      },
-      {
-        "src": "images/trees/apple-pacific-rose/apple-pacific-rose-apples.jpg",
-        "alt": "apple pacific rose apples"
-      },
-      {
-        "src": "images/trees/apple-pacific-rose/apple-pacific-rose-flower.jpg",
-        "alt": "apple pacific rose flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Royal Gala'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-royal-gala",
-    "mainImage": "apple-royal-gala/apple-royal-gala.jpg",
-    "description": "Medium-sized, red-streaked apples have fine-textured flesh which is crisp, sweet, and juicy. Fruit matures in mid-summer. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, and Initial.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-royal-gala/apple-royal-gala-apple-group.jpg",
-        "alt": "apple royal gala apple group"
-      },
-      {
-        "src": "images/trees/apple-royal-gala/apple-royal-gala-apples.jpg",
-        "alt": "apple royal gala apples"
-      },
-      {
-        "src": "images/trees/apple-royal-gala/apple-royal-gala-flower.jpg",
-        "alt": "apple royal gala flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Royal Gala/Braeburn'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-royal-gala-braeburn",
-    "mainImage": "apple-royal-gala-braeburn/apple-royal-gala-braeburn.jpg",
-    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Braeburn' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Braeburn'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-royal-gala-braeburn/apple-royal-gala-braeburn-apples.jpg",
-        "alt": "apple royal gala braeburn apples"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Royal Gala/Granny Smith'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-royal-gala-granny-smith",
-    "mainImage": "apple-royal-gala-granny-smith/apple-royal-gala-granny-smith.jpg",
-    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Granny Smith' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Granny Smith'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, green",
-      "autumn": "red, green",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-royal-gala-granny-smith/apple-royal-gala-granny-smith-apples.jpg",
-        "alt": "apple royal gala granny smith apples"
-      },
-      {
-        "src": "images/trees/apple-royal-gala-granny-smith/apple-royal-gala-granny-smith-flower.jpg",
-        "alt": "apple royal gala granny smith flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Royal Gala/Golden Delicious'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-royal-gala-golden-delicious",
-    "mainImage": "apple-royal-gala-golden-delicious/apple-royal-gala-golden-delicious.jpg",
-    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Golden Delicious' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Golden Delicious'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, green, yellow",
-      "autumn": "red, green, yellow",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-royal-gala-golden-delicious/apple-royal-gala-golden-delicious-apples.jpg",
-        "alt": "apple royal gala golden delicious apples"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "Malus",
-    "species": "Malus domestica",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Malus domestica 'Wandin Glory'",
-    "synonyms": [],
-    "commonName": "Apple",
-    "url": "apple-wandin-glory",
-    "mainImage": "apple-wandin-glory/apple-wandin-glory.jpeg",
-    "description": "A weeping apple that has fruit ripening mid-summer. Fruit has red-green skin and delicious sweet flesh. Pink buds open to white flowers in spring. Partially self-fertile, but best crops when planted with Golden Delicious, Gala, or Granny Smith.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible, weeping",
-    "height": "3m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, green",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apple/apple-weeping.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apple-wandin-glory/apple-wandin-glory-apple-foliage.jpeg",
-        "alt": "apple wandin glory apple foliage"
-      },
-      {
-        "src": "images/trees/apple-wandin-glory/apple-wandin-glory-apple-fruit.jpeg",
-        "alt": "apple wandin glory apple fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Apricot",
-    "url": "apricot-royal-rosa",
-    "mainImage": "apricot-royal-rosa/apricot-royal-rosa.jpg",
-    "description": "Golden-yellow apricots with a red blush that ripen for harvesting in late-spring and early-summer. Highly disease-resistant. Produces delicious, sweet, and low-acid fruit. Great for eating fresh, canning, or preserves. White flowers in spring. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, red",
-      "autumn": "",
-      "winter": "",
-      "spring": "yellow, red"
-    },
-    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apricot-royal-rosa/apricot-royal-rosa-apricots-bowl.jpg",
-        "alt": "apricot royal rosa apricots bowl"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Apricot",
-    "url": "apricot-sundrop",
-    "mainImage": "apricot-sundrop/apricot-sundrop.jpg",
-    "description": "Large, yellow, oval, freestone fruits that are sweet and juicy. Fruit ripens in mid-summer. Eat fresh or preserve. White flowers in spring. Suitable for most regions. Partially self-fertile, but best crops when planted with Apricot 'Trevatt'.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apricot-sundrop/apricot-sundrop-apricots-bowl.jpg",
-        "alt": "apricot sundrop apricots bowl"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Apricot",
-    "url": "apricot-sundrop-trevatt",
-    "mainImage": "apricot-sundrop-trevatt/apricot-sundrop-trevatt.jpg",
-    "description": "Double apricot. See Apricot 'Sundrop' and Apricot 'Trevatt' for descriptions. First image is of Apricot 'Sundrop', second is of Apricot 'Trevatt'.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apricot-sundrop-trevatt/apricot-sundrop-trevatt-apricots.jpg",
-        "alt": "apricot sundrop trevatt apricots"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rosaceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Apricot",
-    "url": "apricot-trevatt",
-    "mainImage": "apricot-trevatt/apricot-trevatt.jpg",
-    "description": "Vigorous tree producing medium-sized, richly-flavoured, golden apricots. Fruit matures mid-summer. Good for warmer climates. White flowers in spring. Self-fertile, but can be planted with other apricot varieties for highest-yielding crops.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/apricot-trevatt/apricot-trevatt-apricot-group.jpg",
-        "alt": "apricot trevatt apricot group"
-      }
-    ],
-    "links": []
-  },
-  {
     "family": "Araucariaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Araucaria",
+    "species": "araucana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -10776,8 +9539,8 @@
   },
   {
     "family": "Araucariaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Araucaria",
+    "species": "heterophylla",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -10861,8 +9624,8 @@
   },
   {
     "family": "Ericaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Arbutus",
+    "species": "canariensis",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -10934,8 +9697,8 @@
   },
   {
     "family": "Ericaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Arbutus",
+    "species": "unedo",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11019,8 +9782,8 @@
   },
   {
     "family": "Elaeocarpaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Aristotelia",
+    "species": "serrata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11096,8 +9859,8 @@
   },
   {
     "family": "Asteliaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Astelia",
+    "species": "chathamica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11161,13 +9924,13 @@
   },
   {
     "family": "Asteliaceae",
-    "genus": "",
-    "species": "",
+    "genus": "Astelia",
+    "species": "nervosa",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Westland",
     "synonyms": [],
     "commonName": "Mountain Astelia, Kakaha",
     "url": "astelia-nervosa-westland-mountain-astelia-kakaha",
@@ -11221,155 +9984,9 @@
     "links": []
   },
   {
-    "family": "Lauraceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Avocado",
-    "url": "avocado-bacon",
-    "mainImage": "avocado-bacon/avocado-bacon.jpg",
-    "description": "Medium-sized fruit with smooth, thin, green skin. Yellow-green flesh of a light flavour, smooth and silky. The skin remains green, but darkens slightly when ripe. Harvest from late-autumn to early-spring. Self-fertile, but better crops when planted with Avocado 'Hass'. Tree forms a thick canopy with a spreading habit.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "treeShape": "images/icons/tree-shapes/avocado/avocado-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/avocado-bacon/avocado-bacon-foliage.jpg",
-        "alt": "avocado bacon foliage"
-      },
-      {
-        "src": "images/trees/avocado-bacon/avocado-bacon-large-tree.jpg",
-        "alt": "avocado bacon large tree"
-      },
-      {
-        "src": "images/trees/avocado-bacon/avocado-bacon-small-tree.jpg",
-        "alt": "avocado bacon small tree"
-      },
-      {
-        "src": "images/trees/avocado-bacon/avocado-bacon-table.jpg",
-        "alt": "avocado bacon table"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Lauraceae",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Avocado",
-    "url": "avocado-hass",
-    "mainImage": "avocado-hass/avocado-hass.jpg",
-    "description": "The most commonly-grown avocado variety in the world. Fruit has a very nutty, rich taste. Flesh has a smooth texture and thick skin-casing. Skin turns purple-black when ripe after being picked. Harvest from late-spring to early-autumn. Self-fertile, but better crops when planted with Avocado 'Bacon'. Tree forms a thick canopy with a spreading habit.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "",
-      "spring": "green"
-    },
-    "treeShape": "images/icons/tree-shapes/avocado/avocado-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-foliage.jpg",
-        "alt": "avocado hass foliage"
-      },
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-new-growth.jpg",
-        "alt": "avocado hass new growth"
-      },
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-orchard.jpg",
-        "alt": "avocado hass orchard"
-      },
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-park.jpg",
-        "alt": "avocado hass park"
-      },
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-table.jpg",
-        "alt": "avocado hass table"
-      },
-      {
-        "src": "images/trees/avocado-hass/avocado-hass-young-foliage.jpg",
-        "alt": "avocado hass young foliage"
-      }
-    ],
-    "links": []
-  },
-  {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Azara",
+    "species": "microphylla",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11449,8 +10066,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Banksia",
+    "species": "integrifolia",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11538,8 +10155,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Beilschmiedia",
+    "species": "tarairi",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11607,8 +10224,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Beilschmiedia",
+    "species": "tawa",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11664,13 +10281,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Berberis",
+    "species": "thunbergii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
-    "form": "",
-    "cultivar": "",
+    "form": "atropurpurea",
+    "cultivar": "Helmond Pillar",
     "synonyms": [],
     "commonName": "Japanese Barberry",
     "url": "berberis-thunbergii-f-atropurpurea-helmond-pillar-japanese-barberry",
@@ -11729,8 +10346,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "costata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11810,8 +10427,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "ermanii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -11867,13 +10484,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "ermanii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Polar Bear",
     "synonyms": [],
     "commonName": "Erman's Birch",
     "url": "betula-ermanii-polar-bear-ermans-birch",
@@ -11928,8 +10545,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "nigra",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -12001,13 +10618,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "nigra",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Heritage",
     "synonyms": ["Betula nigra 'Cully'"],
     "commonName": "River Birch",
     "url": "betula-nigra-heritage-river-birch",
@@ -12058,13 +10675,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "nigra",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Summer Cascade",
     "synonyms": [],
     "commonName": "River Birch",
     "url": "betula-nigra-summer-cascade-river-birch",
@@ -12135,18 +10752,18 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "nigra",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Uru Tawhai",
     "synonyms": [],
     "commonName": "River Birch",
     "url": "betula-nigra-uru-tawhai-river-birch",
     "mainImage": "betula-nigra-uru-tawhai-river-birch/betula-nigra-uru-tawhai-river-birch.jpg",
-    "description": "A cutting-grown selection of Betula nigra. Great for planting in wet areas. Green leaves turn bright-yellow in autumn. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black.",
+    "description": "Great for planting in wet areas. Green leaves turn bright-yellow in autumn. Has peeling bark that on younger trees is pink to orange-brown and reveals lighter, cream-white bark when peeling. On older trees the bark is red to grey-brown developing to almost black.",
     "uses": "",
     "tolerates": "windy",
     "soilType": "clay-soils, poor-draining-soils",
@@ -12187,11 +10804,11 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "papyrifera",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "commutata",
     "form": "",
     "cultivar": "",
     "synonyms": [],
@@ -12244,8 +10861,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "pendula",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -12325,13 +10942,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "pendula",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Black Prince",
     "synonyms": [],
     "commonName": "Silver Birch",
     "url": "betula-pendula-black-prince-silver-birch",
@@ -12386,13 +11003,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "pendula",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dalecarlica",
     "synonyms": [],
     "commonName": "Silver Birch",
     "url": "betula-pendula-dalecarlica-silver-birch",
@@ -12455,13 +11072,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "pendula",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Wades Gold",
     "synonyms": [],
     "commonName": "Silver Birch",
     "url": "betula-pendula-wades-gold-silver-birch",
@@ -12528,13 +11145,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "pendula",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Youngii",
     "synonyms": [],
     "commonName": "Silver Birch",
     "url": "betula-pendula-youngii-silver-birch",
@@ -12593,11 +11210,11 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "platyphylla",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "japonica",
     "form": "",
     "cultivar": "",
     "synonyms": [],
@@ -12654,13 +11271,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betula",
+    "species": "populifolia",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Whitespire",
     "synonyms": [],
     "commonName": "Grey Birch",
     "url": "betula-populifolia-whitespire-grey-birch",
@@ -12731,11 +11348,11 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betulus",
+    "species": "utilis",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "jacquemontii",
     "form": "",
     "cultivar": "",
     "synonyms": [],
@@ -12820,13 +11437,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betulus",
+    "species": "utilis",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "jacquemontii",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dazzler",
     "synonyms": [],
     "commonName": "Himalayan Birch",
     "url": "betula-utilis-var-jacquemontii-dazzler-himalayan-birch",
@@ -12885,13 +11502,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betulus",
+    "species": "utilis",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "jacquemontii",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Jermyns",
     "synonyms": [],
     "commonName": "Himalayan Birch",
     "url": "betula-utilis-var-jacquemontii-jermyns-himalayan-birch",
@@ -12962,13 +11579,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Betulus",
+    "species": "utilis",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "jacquemontii",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Silver Shadow",
     "synonyms": [],
     "commonName": "Himalayan Birch",
     "url": "betula-utilis-var-jacquemontii-silver-shadow-himalayan-birch",
@@ -43866,6 +42483,1016 @@
     ],
     "links": []
   },
+
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Braeburn",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-braeburn-apple",
+    "mainImage": "malus-domestica-braeburn-apple/malus-domestica-braeburn-apple.jpg",
+    "description": "One of the world's top commercial apples. Delicious, crisp, juicy flesh and superb sweet-tart flavour. Excellent keeper. Harvest from late-summer to mid-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but best planted with another variety with a similar bloom period like Fuji and Granny Smith.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-cut.jpg",
+        "alt": "malus domestica braeburn apple cut"
+      },
+      {
+        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-group.jpg",
+        "alt": "malus domestica braeburn apple group"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Fuji",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-fuji-apple",
+    "mainImage": "malus-domestica-fuji-apple/malus-domestica-fuji-apple.jpg",
+    "description": "A large, sweet, crisp, red-skinned apple similar to Red Delicious. Fruit ripens in late-autumn. Excellent eating and storage. Vigorous grower. Pink buds open to white flowers in spring. Requires Braeburn, Golden Delicious, or Red Delicious for pollination and fruit production.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-fuji-apple/malus-domestica-fuji-apple-group.jpg",
+        "alt": "malus-domestica-fuji-apple group"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Gala",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-gala-apple",
+    "mainImage": "malus-domestica-gala-apple/malus-domestica-gala-apple.jpg",
+    "description": "Apples have yellow skin flushed with red, and the juicy, creamy flesh has a rich flavour. Fruit ripens from late-summer to early-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like Fuji, Golden Delicious, or Red Delicious with a similar bloom period for best fruit production.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, red",
+      "autumn": "yellow, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-gala-apple/malus-domestica-gala-apple-group.jpg",
+        "alt": "malus domestica gala apple group"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Galaxy",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-galaxy-apple",
+    "mainImage": "malus-domestica-galaxy-apple/malus-domestica-galaxy-apple.jpg",
+    "description": "A more red clone of Gala. Bright, orange-red flesh with red stripes over gold, inconspicuous, fine russet dots. Medium-sized fruit that is ribbed and crowned. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like Fuji, Golden Delicious, or Red Delicious with a similar bloom period for best fruit production. Fruit ripens from late-summer to early-autumn.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, red, orange",
+      "autumn": "yellow, red, orange",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-apples.jpg",
+        "alt": "malus domestica galaxy apple apples"
+      },
+      {
+        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-flower.jpg",
+        "alt": "malus domestica galaxy apple flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Golden Delicious",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-golden-delicious-apple",
+    "mainImage": "malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple.jpg",
+    "description": "A dessert cultivar and a good pollinator for other apple trees. Fruit is green-yellow, becoming yellow with age. Fruit is honeyed and very sweet when well-ripened. Apples ripen in late-autumn. Pink buds open to white flowers in spring. Self-fertile, but plant with Fuji, Gala, or Red Delicious for better crops.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple-apples.jpg",
+        "alt": "malus domestica golden delicious apple apples"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Granny Smith",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-granny-smith-apple",
+    "mainImage": "malus-domestica-granny-smith-apple/malus-domestica-granny-smith-apple.jpg",
+    "description": "A good, crisp, green-skinned eating apple, also an excellent cooker. Bears large fruit which ripen in mid-autumn. Excellent keeper. Pink buds open to white flowers in spring. Self-fertile, but better crops when planted with Golden Delicious or Red Delicious.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-granny-smith-apple/malus-domestica-granny-smith-apple-apple-group.jpg",
+        "alt": "malus domestica granny smith apple apple group"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Initial",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-initial-apple",
+    "mainImage": "malus-domestica-initial-apple/malus-domestica-initial-apple.jpg",
+    "description": "Large red apple with resistance to black spot disease. Excellent flavour, with low acid, high sugar, and a high aroma as well. Fruit ripens late-summer to early-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, and Royal Gala.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-initial-apple/malus-domestica-initial-apple-flowers.jpg",
+        "alt": "malus domestica initial apple flowers"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Initial/Sir Prize",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-initial-sir-prize-apple",
+    "mainImage": "malus-domestica-initial-sir-prize-apple/malus-domestica-initial-sir-prize-apple.jpg",
+    "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See Apple 'Initial' for description. First image is of Apple 'Initial', second is of Apple 'Sir Prize'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, red",
+      "autumn": "yellow, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-initial-sir-prize-apple/malus-domestica-initial-sir-prize-apple-apples.jpg",
+        "alt": "malus domestica initial sir prize apple apples"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Liberty",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-liberty-apple",
+    "mainImage": "malus-domestica-liberty-apple/malus-domestica-liberty-apple.jpg",
+    "description": "Excellent selection for the organic grower as is resistant to black spot. Requires little, if any, spraying. Red-blushed fruit with crisp, juicy, sweet-tart flavour. Heavy-bearer. Excellent keeper. Fruit ripens from mid to late-autumn. Pink buds open to white flowers in spring. Self-fertile, but best crops when planted with early-flowering varieties such as Braeburn.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-liberty-apple/malus-domestica-liberty-apple-apples.jpg",
+        "alt": "malus domestica liberty apple apples"
+      },
+      {
+        "src": "images/trees/malus-domestica-liberty-apple/malus-domestica-liberty-apple-on-tree.jpg",
+        "alt": "malus domestica liberty apple on tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Liberty/Sir Prize",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-liberty-sir-prize-apple",
+    "mainImage": "malus-domestica-liberty-sir-prize-apple/malus-domestica-liberty-sir-prize-apple.jpg",
+    "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See Apple 'Liberty' for description. First image is of Apple 'Liberty', second is of Apple 'Sir Prize'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "yellow, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-liberty-sir-prize-apple/malus-domestica-liberty-sir-prize-apple-apples.jpg",
+        "alt": "malus domestica liberty sir prize apple apples"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Monty's Surprise",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-montys-surprise-apple",
+    "mainImage": "malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple.jpg",
+    "description": "A good, crisp, eating apple. Light-green skin striped with red. Bears large fruit which ripen in mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Initial, and Royal Gala.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple-bowl.jpg",
+        "alt": "malus domestica montys surprise apple bowl"
+      },
+      {
+        "src": "images/trees/malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple-flower.jpg",
+        "alt": "malus domestica montys surprise apple flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Pacific Rose",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-pacific-rose-apple",
+    "mainImage": "malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple.jpg",
+    "description": "Has clear, rose-pink skin. Firm, crispy, and juicy flesh with a rich and sweet taste. Fruit ripens mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, Initial, and Royal Gala.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "red, pink",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-apple-group.jpg",
+        "alt": "malus domestica pacific rose apple apple group"
+      },
+      {
+        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-apples.jpg",
+        "alt": "malus domestica pacific rose apple apples"
+      },
+      {
+        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-flower.jpg",
+        "alt": "malus domestica pacific rose apple flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Royal Gala",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-royal-gala-apple",
+    "mainImage": "malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple.jpg",
+    "description": "Medium-sized, red-streaked apples have fine-textured flesh which is crisp, sweet, and juicy. Fruit matures in mid-summer. Pink buds open to white flowers in spring. Requires pollination from varieties such as Gala, Golden Delicious, Granny Smith, Monty's Surprise, and Initial.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-apple-group.jpg",
+        "alt": "malus domestica royal gala apple apple group"
+      },
+      {
+        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-apples.jpg",
+        "alt": "malus domestica royal gala apple apples"
+      },
+      {
+        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-flower.jpg",
+        "alt": "malus domestica royal gala apple flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Royal Gala/Braeburn",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-royal-gala-braeburn-apple",
+    "mainImage": "malus-domestica-royal-gala-braeburn-apple/malus-domestica-royal-gala-braeburn-apple.jpg",
+    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Braeburn' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Braeburn'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-royal-gala-braeburn-apple/malus-domestica-royal-gala-braeburn-apple-apples.jpg",
+        "alt": "malus domestica royal gala braeburn apple apples"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Royal Gala/Granny Smith",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-royal-gala-granny-smith-apple",
+    "mainImage": "malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple.jpg",
+    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Granny Smith' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Granny Smith'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, green",
+      "autumn": "red, green",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple-apples.jpg",
+        "alt": "malus domestica royal gala granny smith apple apples"
+      },
+      {
+        "src": "images/trees/malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple-flower.jpg",
+        "alt": "malus domestica royal gala granny smith apple flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Royal Gala/Golden Delicious",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-royal-gala-golden-delicious-apple",
+    "mainImage": "malus-domestica-royal-gala-golden-delicious-apple/malus-domestica-royal-gala-golden-delicious-apple.jpg",
+    "description": "Double apple. Pink buds open to white flowers in spring. See Apple 'Royal Gala' and Apple 'Golden Delicious' for descriptions. First image is of Apple 'Royal Gala', second is of Apple 'Golden Delicious'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, green, yellow",
+      "autumn": "red, green, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-royal-gala-golden-delicious-apple/malus-domestica-royal-gala-golden-delicious-apple-apples.jpg",
+        "alt": "malus domestica royal gala golden delicious apple apples"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Wandin Glory",
+    "synonyms": [],
+    "commonName": "Apple",
+    "url": "malus-domestica-wandin-glory-apple",
+    "mainImage": "malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple.jpeg",
+    "description": "A weeping apple that has fruit ripening mid-summer. Fruit has red-green skin and delicious sweet flesh. Pink buds open to white flowers in spring. Partially self-fertile, but best crops when planted with Golden Delicious, Gala, or Granny Smith.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible, weeping",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, green",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-weeping.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple-foliage.jpeg",
+        "alt": "malus domestica wandin glory apple foliage"
+      },
+      {
+        "src": "images/trees/malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple-fruit.jpeg",
+        "alt": "malus domestica wandin glory apple fruit"
+      }
+    ],
+    "links": []
+  },
   {
     "family": "",
     "genus": "",
@@ -51454,6 +51081,152 @@
     "links": []
   },
   {
+    "family": "Lauraceae",
+    "genus": "Persea",
+    "species": "americana",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Bacon",
+    "synonyms": [],
+    "commonName": "Avocado",
+    "url": "persea-americana-bacon-avocado",
+    "mainImage": "persea-americana-bacon-avocado/persea-americana-bacon-avocado.jpg",
+    "description": "Medium-sized fruit with smooth, thin, green skin. Yellow-green flesh of a light flavour, smooth and silky. The skin remains green, but darkens slightly when ripe. Harvest from late-autumn to early-spring. Self-fertile, but better crops when planted with Avocado 'Hass'. Tree forms a thick canopy with a spreading habit.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "treeShape": "images/icons/tree-shapes/avocado/avocado-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-foliage.jpg",
+        "alt": "persea americana bacon avocado foliage"
+      },
+      {
+        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-large-tree.jpg",
+        "alt": "persea americana bacon avocado large tree"
+      },
+      {
+        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-small-tree.jpg",
+        "alt": "persea americana bacon avocado small tree"
+      },
+      {
+        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-table.jpg",
+        "alt": "persea americana bacon avocado table"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Lauraceae",
+    "genus": "Persea",
+    "species": "americana",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Hass",
+    "synonyms": [],
+    "commonName": "Avocado",
+    "url": "persea-americana-hass-avocado",
+    "mainImage": "persea-americana-hass-avocado/persea-americana-hass-avocado.jpg",
+    "description": "The most commonly-grown avocado variety in the world. Fruit has a very nutty, rich taste. Flesh has a smooth texture and thick skin-casing. Skin turns purple-black when ripe after being picked. Harvest from late-spring to early-autumn. Self-fertile, but better crops when planted with Avocado 'Bacon'. Tree forms a thick canopy with a spreading habit.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "treeShape": "images/icons/tree-shapes/avocado/avocado-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-foliage.jpg",
+        "alt": "persea americana hass avocado foliage"
+      },
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-new-growth.jpg",
+        "alt": "persea americana hass avocado new growth"
+      },
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-orchard.jpg",
+        "alt": "persea americana hass avocado orchard"
+      },
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-park.jpg",
+        "alt": "persea americana hass avocado park"
+      },
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-table.jpg",
+        "alt": "persea americana hass avocado table"
+      },
+      {
+        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-young-foliage.jpg",
+        "alt": "persea americana hass avocado young foliage"
+      }
+    ],
+    "links": []
+  },
+  {
     "family": "",
     "genus": "",
     "species": "",
@@ -56767,6 +56540,235 @@
       {
         "src": "images/trees/prunus-accolade-flowering-cherry/prunus-accolade-flowering-cherry-row.jpg",
         "alt": "prunus accolade flowering cherry row"
+      }
+    ],
+    "links": []
+  },
+
+  {
+    "family": "Rosaceae",
+    "genus": "Prunus",
+    "species": "armeniaca",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Royal Rosa",
+    "synonyms": [],
+    "commonName": "Apricot",
+    "url": "prunus-armeniaca-royal-rosa-apricot",
+    "mainImage": "prunus-armeniaca-royal-rosa-apricot/prunus-armeniaca-royal-rosa-apricot.jpg",
+    "description": "Golden-yellow apricots with a red blush that ripen for harvesting in late-spring and early-summer. Highly disease-resistant. Produces delicious, sweet, and low-acid fruit. Great for eating fresh, canning, or preserves. White flowers in spring. Self-fertile.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, red",
+      "autumn": "",
+      "winter": "",
+      "spring": "yellow, red"
+    },
+    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-armeniaca-royal-rosa-apricot/prunus-armeniaca-royal-rosa-apricot-apricots-bowl.jpg",
+        "alt": "prunus armeniaca royal rosa apricot apricots bowl"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Prunus",
+    "species": "armeniaca",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Sundrop",
+    "synonyms": [],
+    "commonName": "Apricot",
+    "url": "prunus-armeniaca-sundrop-apricot",
+    "mainImage": "prunus-armeniaca-sundrop-apricot/prunus-armeniaca-sundrop-apricot.jpg",
+    "description": "Large, yellow, oval, freestone fruits that are sweet and juicy. Fruit ripens in mid-summer. Eat fresh or preserve. White flowers in spring. Suitable for most regions. Partially self-fertile, but best crops when planted with Apricot 'Trevatt'.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-armeniaca-sundrop-apricot/prunus-armeniaca-sundrop-apricot-apricots-bowl.jpg",
+        "alt": "prunus armeniaca sundrop apricot apricots bowl"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Prunus",
+    "species": "armeniaca",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Sundrop/Trevatt",
+    "synonyms": [],
+    "commonName": "Apricot",
+    "url": "prunus-armeniaca-sundrop-trevatt-apricot",
+    "mainImage": "prunus-armeniaca-sundrop-trevatt-apricot/prunus-armeniaca-sundrop-trevatt-apricot.jpg",
+    "description": "Double apricot. See Apricot 'Sundrop' and Apricot 'Trevatt' for descriptions. First image is of Apricot 'Sundrop', second is of Apricot 'Trevatt'.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-armeniaca-sundrop-trevatt-apricot/prunus-armeniaca-sundrop-trevatt-apricot-apricots.jpg",
+        "alt": "prunus armeniaca sundrop trevatt apricot apricots"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Prunus",
+    "species": "armeniaca",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Trevatt",
+    "synonyms": [],
+    "commonName": "Apricot",
+    "url": "prunus-armeniaca-trevatt-apricot",
+    "mainImage": "prunus-armeniaca-trevatt-apricot/prunus-armeniaca-trevatt-apricot.jpg",
+    "description": "Vigorous tree producing medium-sized, richly-flavoured, golden apricots. Fruit matures mid-summer. Good for warmer climates. White flowers in spring. Self-fertile, but can be planted with other apricot varieties for highest-yielding crops.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apricot/apricot-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-armeniaca-trevatt-apricot/prunus-armeniaca-trevatt-apricot-apricot-group.jpg",
+        "alt": "prunus armeniaca trevatt apricot apricot group"
       }
     ],
     "links": []
