@@ -27,7 +27,15 @@
 
             {% elsif tree.hybrid.size > 0 %}
 
+            {% if tree.hybrid contains ' x ' %}
+
+            <title>{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% else %}
+
             <title>{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+            {% endif %}
 
             {% else %}
 
@@ -49,7 +57,15 @@
 
         {% elsif tree.hybrid.size > 0 %}
 
+        {% if tree.hybrid contains ' x ' %}
+
+        <title>{{ tree.genus }} {{ tree.hybrid }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% else %}
+
         <title>{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+        {% endif %}
 
         {% else %}
 
@@ -205,9 +221,19 @@
 
               {% elsif tree.hybrid.size > 0 %}
 
+              {% if tree.hybrid contains ' x ' %}
+
+              "name": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+              "botanicalName": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}'"
+              "commonName": "{{ tree.commonName }}"
+
+              {% else %}
+
               "name": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
               "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}'"
               "commonName": "{{ tree.commonName }}"
+
+              {% endif %}
 
               {% else %}
 
@@ -237,9 +263,19 @@
 
             {% elsif tree.hybrid.size > 0 %}
 
+            {% if tree.hybrid contains ' x ' %}
+
+            "name": "{{ tree.genus }} {{ tree.hybrid }} ({{ tree.commonName }})"
+            "botanicalName": "{{ tree.genus }} {{ tree.hybrid }}"
+            "commonName": "{{ tree.commonName }}"
+
+            {% else %}
+
             "name": "{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }})"
             "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }}"
             "commonName": "{{ tree.commonName }}"
+
+            {% endif %}
 
             {% else %}
 

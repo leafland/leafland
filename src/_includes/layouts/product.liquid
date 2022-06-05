@@ -23,7 +23,15 @@ type: product
 
             {% elsif tree.hybrid.size > 0 %}
 
+            {% if tree.hybrid contains ' x ' %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% else %}
+
             <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% endif %}
 
             {% else %}
 
@@ -45,7 +53,15 @@ type: product
 
         {% elsif tree.hybrid.size > 0 %}
 
+        {% if tree.hybrid contains ' x ' %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></h1>
+
+        {% else %}
+
         <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></h1>
+
+        {% endif %}
 
         {% else %}
 
@@ -897,11 +913,23 @@ type: product
 
                     {% if tree.hybrid.size > 0 %}
 
+                    {% if tree.hybrid contains ' x ' %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></p>
+
+                    </div>
+
+                    {% else %}
+
                     <div>
 
                         <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
 
                     </div>
+
+                    {% endif %}
 
                     {% endif %}
 
@@ -953,7 +981,15 @@ type: product
 
                             {% elsif tree.hybrid.size > 0 %}
 
+                            {% if tree.hybrid contains ' x ' %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% else %}
+
                             <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% endif %}
 
                             {% else %}
 

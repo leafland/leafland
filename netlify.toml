@@ -402,3 +402,33 @@
     from = "/trees/avocado-hass/"
     status = 301
     to = "/trees/persea-americana-hass-avocado/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-macarthur-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-viminalis-macarthur-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-red-alert-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-viminalis-red-alert-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-red-cluster-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-citrinus-red-cluster-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-western-glory-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-citrinus-western-glory-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-ariels-song-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-ariels-song-camellia/"

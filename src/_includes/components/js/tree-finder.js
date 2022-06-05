@@ -535,7 +535,13 @@ async function populatePage(
           } else if (treeDataSubset[i].subspecies !== "") {
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i> '${treeDataSubset[i].cultivar}'`;
           } else if (treeDataSubset[i].hybrid !== "") {
-            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
+
+            if(treeDataSubset[i].hybrid.search(' x ') !== -1){
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+            else{
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
+            }
           } else {
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> '${treeDataSubset[i].cultivar}'`;
           }
@@ -546,7 +552,13 @@ async function populatePage(
         } else if (treeDataSubset[i].subspecies !== "") {
           treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i>`;
         } else if (treeDataSubset[i].hybrid !== "") {
-          treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i>`;
+
+          if(treeDataSubset[i].hybrid.search(' x ') !== -1){
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].hybrid}</i>`;
+          }
+          else{
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i>`;
+          }
         } else {
           treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i>`;
         }

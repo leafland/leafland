@@ -219,7 +219,13 @@ async function displayResults(results) {
       } else if (results[i].subspecies !== "") {
         resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i> '${results[i].cultivar}'`;
       } else if (results[i].hybrid !== "") {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
+
+        if(results[i].hybrid.search(' x ') !== -1){
+          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
+        }
+        else{
+          resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
+        }
       } else {
         resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
       }
@@ -230,7 +236,12 @@ async function displayResults(results) {
     } else if (results[i].subspecies !== "") {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i>`;
     } else if (results[i].hybrid !== "") {
-      resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;
+      if(results[i].hybrid.search(' x ') !== -1){
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].hybrid}</i>`;
+      }
+      else{
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;
+      }
     } else {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i>`;
     }

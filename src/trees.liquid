@@ -931,7 +931,15 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
 
                             {% elsif tree.hybrid.size > 0 %}
 
+                            {% if tree.hybrid contains ' x ' %}
+
+                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% else %}
+
                             <h2><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% endif %}
 
                             {% else %}
 
@@ -953,7 +961,15 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
 
                         {% elsif tree.hybrid.size > 0 %}
 
+                        {% if tree.hybrid contains ' x ' %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></h2>
+
+                        {% else %}
+
                         <h2><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></h2>
+
+                        {% endif %}
 
                         {% else %}
 
