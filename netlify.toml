@@ -432,3 +432,99 @@
     from = "/trees/camellia-ariels-song-hybrid-camellia/"
     status = 301
     to = "/trees/camellia-ariels-song-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-black-lace-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-black-lace-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-cinnamon-cindy-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-cinnamon-cindy-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-crimson-king-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-crimson-king-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-debutante-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-debutante-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-early-pearly-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-early-pearly-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-fairy-blush-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-fairy-blush-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-high-fragrance-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-high-fragrance-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-hiryu-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-x-vernalis-hiryu-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-jurys-yellow-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-jurys-yellow-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-kramers-beauty-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-kramers-beauty-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-kramers-supreme-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-kramers-supreme-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-les-jury-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-les-jury-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-mark-allen-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-mark-alan-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-mine-no-yuki-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-mine-no-yuki-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-nicky-crisp-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-nicky-crisp-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-otome-sazanka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-otome-sazanka-camellia/"
