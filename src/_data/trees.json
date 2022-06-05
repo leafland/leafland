@@ -13167,6 +13167,181 @@
   {
     "family": "",
     "genus": "Camellia",
+    "species": "japonica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Roger Hall",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-japonica-roger-hall-camellia",
+    "mainImage": "camellia-japonica-roger-hall-camellia/camellia-japonica-roger-hall-camellia.jpeg",
+    "description": "Has beautiful, formal, double, red flowers. The flowers contrast well against the handsome, glossy, green foliage. Outstanding performer which will make a strong statement either in the garden or a container. Happiest in semi-shade with acid soil. Flowers from late-winter to early-spring.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-japonica-roger-hall-camellia/camellia-japonica-roger-hall-camellia-bush.jpg",
+        "alt": "camellia japonica roger hall camellia bush"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "japonica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Takanini",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-japonica-takanini-camellia",
+    "mainImage": "camellia-japonica-takanini-camellia/camellia-japonica-takanini-camellia.jpeg",
+    "description": "Glowing, deep-red, medium-sized, anemone-formed flowers. Slight fragrance. Strong, bushy, narrow-grower. Flowers from early-winter to late-spring.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-japonica-takanini-camellia/camellia-japonica-takanini-camellia-bush.jpg",
+        "alt": "camellia japonica takanini camellia bush"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "japonica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tom Knudsen",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-japonica-tom-knudsen-camellia",
+    "mainImage": "camellia-japonica-tom-knudsen-camellia/camellia-japonica-tom-knudsen-camellia.jpg",
+    "description": "Dark-red flowers with deeper veining. Flowers from late-winter to early-spring. Peony-form double flowers. Compact, upright-grower.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-japonica-tom-knudsen-camellia/camellia-japonica-tom-knudsen-camellia-bush.jpg",
+        "alt": "camellia japonica tom knudsen camellia bush"
+      },
+      {
+        "src": "images/trees/camellia-japonica-tom-knudsen-camellia/camellia-japonica-tom-knudsen-camellia-flower.jpg",
+        "alt": "camellia japonica tom knudsen camellia flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
@@ -13227,296 +13402,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Camellia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Ruby Wedding",
     "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-paradise-blush-sasanqua-camellia",
-    "mainImage": "camellia-paradise-blush-sasanqua-camellia/camellia-paradise-blush-sasanqua-camellia.jpg",
-    "description": "Deep-pink buds open to stunning semi-double, white flowers blushed with rose-pink on the edges. Flowers from early-autumn to late-winter. A thick, compact, upright grower. Great for hedging and screening.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink, white",
-      "winter": "pink, white",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/camellia-paradise-blush-sasanqua-camellia/camellia-paradise-blush-sasanqua-camellia-flower-bud.jpg",
-        "alt": "camellia paradise blush sasanqua camellia flower bud"
-      },
-      {
-        "src": "images/trees/camellia-paradise-blush-sasanqua-camellia/camellia-paradise-blush-sasanqua-camellia-hedge-corner.jpg",
-        "alt": "camellia paradise blush sasanqua camellia hedge corner"
-      },
-      {
-        "src": "images/trees/camellia-paradise-blush-sasanqua-camellia/camellia-paradise-blush-sasanqua-camellia-hedge.jpg",
-        "alt": "camellia paradise blush sasanqua camellia hedge"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-paradise-sayaka-sasanqua-camellia",
-    "mainImage": "camellia-paradise-sayaka-sasanqua-camellia/camellia-paradise-sayaka-sasanqua-camellia.jpg",
-    "description": "An exquisite variety with single to semi-double, white flowers that are broadly-edged with soft, salmon-pink. Flowers from early-autumn to late-winter. Upright, dense-grower good for restricted sites where narrow growth is required.",
-    "uses": "hedging-and-screening, attracts-bees, narrow-sites",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "2m",
-    "width": "1m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink, white",
-      "winter": "pink, white",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-plantation-pink-sasanqua-camellia",
-    "mainImage": "camellia-plantation-pink-sasanqua-camellia/camellia-plantation-pink-sasanqua-camellia.jpg",
-    "description": "Vigorous and fast-growing. An upright grower with masses of large, sweet-scented, single to semi-double, soft-pink flowers with a wonderful boss of golden-yellow stamens. The blooms are produced over a fairly long period from early-autumn to early-winter.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink",
-      "winter": "pink",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-rainbow-sasanqua-camellia",
-    "mainImage": "camellia-rainbow-sasanqua-camellia/camellia-rainbow-sasanqua-camellia.jpg",
-    "description": "Has a strong, upright habit. Exceptional tolerance to the cold weather with fragrant flowers. Smaller flowers, but produced in large quantities. White, red-tinted buds open to white flowers flushed with pink in autumn and winter.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink, white",
-      "winter": "pink, white",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Japonica Camellia",
-    "url": "camellia-roger-hall-japonica-camellia",
-    "mainImage": "camellia-roger-hall-japonica-camellia/camellia-roger-hall-japonica-camellia.jpeg",
-    "description": "Has beautiful, formal, double, red flowers. The flowers contrast well against the handsome, glossy, green foliage. Outstanding performer which will make a strong statement either in the garden or a container. Happiest in semi-shade with acid soil. Flowers from late-winter to early-spring.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "red",
-      "spring": "red"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/camellia-roger-hall-japonica-camellia/camellia-roger-hall-japonica-camellia-bush.jpg",
-        "alt": "camellia roger hall japonica camellia bush"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Japonica Camellia",
-    "url": "camellia-ruby-wedding-japonica-camellia",
-    "mainImage": "camellia-ruby-wedding-japonica-camellia/camellia-ruby-wedding-japonica-camellia.jpg",
-    "description": "Large, bright-red, frilly flowers of anemone and peony form. These are very showy and contrast against the large, glossy, deep-green leaves. Flowers from late-winter to late-spring. Dense, compact-grower with a pyramidal form.",
+    "commonName": "Camellia",
+    "url": "camellia-ruby-wedding-camellia",
+    "mainImage": "camellia-ruby-wedding-camellia/camellia-ruby-wedding-camellia.jpg",
+    "description": "A hybrid between <i>Camellia japonica</i> 'Kimberley' and <i>Camellia</i> x <i>williamsii</i> 'Dark Nite'. and Large, bright-red, frilly flowers of anemone and peony form. These are very showy and contrast against the large, glossy, deep-green leaves. Flowers from late-winter to late-spring. Dense, compact-grower with a pyramidal form.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13554,16 +13451,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/camellia-ruby-wedding-japonica-camellia/camellia-ruby-wedding-japonica-camellia-bush.jpg",
-        "alt": "camellia ruby wedding japonica camellia bush"
+        "src": "images/trees/camellia-ruby-wedding-camellia/camellia-ruby-wedding-camellia-bush.jpg",
+        "alt": "camellia ruby wedding camellia bush"
       },
       {
-        "src": "images/trees/camellia-ruby-wedding-japonica-camellia/camellia-ruby-wedding-japonica-camellia-flowering.jpg",
-        "alt": "camellia ruby wedding japonica camellia flowering"
+        "src": "images/trees/camellia-ruby-wedding-camellia/camellia-ruby-wedding-camellia-flowering.jpg",
+        "alt": "camellia ruby wedding camellia flowering"
       },
       {
-        "src": "images/trees/camellia-ruby-wedding-japonica-camellia/camellia-ruby-wedding-japonica-camellia-single-flower.jpg",
-        "alt": "camellia ruby wedding japonica camellia single flower"
+        "src": "images/trees/camellia-ruby-wedding-camellia/camellia-ruby-wedding-camellia-single-flower.jpg",
+        "alt": "camellia ruby wedding camellia single flower"
       }
     ],
     "links": []
@@ -13803,17 +13700,238 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Paradise Blush",
     "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-setsugekka-sasanqua-camellia",
-    "mainImage": "camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia.jpg",
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-paradise-blush-camellia",
+    "mainImage": "camellia-sasanqua-paradise-blush-camellia/camellia-sasanqua-paradise-blush-camellia.jpg",
+    "description": "Deep-pink buds open to stunning semi-double, white flowers blushed with rose-pink on the edges. Flowers from early-autumn to late-winter. A thick, compact, upright grower. Great for hedging and screening.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink, white",
+      "winter": "pink, white",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-blush-camellia/camellia-sasanqua-paradise-blush-camellia-flower-bud.jpg",
+        "alt": "camellia sasanqua paradise blush camellia flower bud"
+      },
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-blush-camellia/camellia-sasanqua-paradise-blush-camellia-hedge-corner.jpg",
+        "alt": "camellia sasanqua paradise blush camellia hedge corner"
+      },
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-blush-camellia/camellia-sasanqua-paradise-blush-camellia-hedge.jpg",
+        "alt": "camellia sasanqua paradise blush camellia hedge"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Paradise Sayaka",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-paradise-sayaka-camellia",
+    "mainImage": "camellia-sasanqua-paradise-sayaka-camellia/camellia-sasanqua-paradise-sayaka-camellia.jpg",
+    "description": "An exquisite variety with single to semi-double, white flowers that are broadly-edged with soft, salmon-pink. Flowers from early-autumn to late-winter. Upright, dense-grower good for restricted sites where narrow growth is required.",
+    "uses": "hedging-and-screening, attracts-bees, narrow-sites",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "2m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink, white",
+      "winter": "pink, white",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Plantation Pink",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-plantation-pink-camellia",
+    "mainImage": "camellia-sasanqua-plantation-pink-camellia/camellia-sasanqua-plantation-pink-camellia.jpg",
+    "description": "Vigorous and fast-growing. An upright grower with masses of large, sweet-scented, single to semi-double, soft-pink flowers with a wonderful boss of golden-yellow stamens. The blooms are produced over a fairly long period from early-autumn to early-winter.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink",
+      "winter": "pink",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Rainbow",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-rainbow-camellia",
+    "mainImage": "camellia-sasanqua-rainbow-camellia/camellia-sasanqua-rainbow-camellia.jpg",
+    "description": "Has a strong, upright habit. Exceptional tolerance to the cold weather with fragrant flowers. Smaller flowers, but produced in large quantities. White, red-tinted buds open to white flowers flushed with pink in autumn and winter.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink, white",
+      "winter": "pink, white",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Setsugekka",
+    "synonyms": ["Camellia sasanqua 'Fluted White'", "Camellia sasanqua 'Wavy White'", "Camellia sasanqua 'Elegant Friends'"],
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-setsugekka-camellia",
+    "mainImage": "camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia.jpg",
     "description": "Medium-sized, semi-double flowers of pure-white. Slight fragrance. Flowers from early-autumn to mid-winter. Upright, vigorous grower with deep-green leaves. Excellent for hedges.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
@@ -13852,45 +13970,45 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-fence-hedge.jpg",
-        "alt": "camellia setsugekka sasanqua camellia fence hedge"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-fence-hedge.jpg",
+        "alt": "camellia sasanqua setsugekka camellia fence hedge"
       },
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-flowers-bee.jpg",
-        "alt": "camellia setsugekka sasanqua camellia flowers bee"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-flowers-bee.jpg",
+        "alt": "camellia sasanqua setsugekka camellia flowers bee"
       },
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-foliage.jpg",
-        "alt": "camellia setsugekka sasanqua camellia foliage"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-foliage.jpg",
+        "alt": "camellia sasanqua setsugekka camellia foliage"
       },
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-low-hedge.jpg",
-        "alt": "camellia setsugekka sasanqua camellia low hedge"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-low-hedge.jpg",
+        "alt": "camellia sasanqua setsugekka camellia low hedge"
       },
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-new-growth.jpg",
-        "alt": "camellia setsugekka sasanqua camellia new growth"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-new-growth.jpg",
+        "alt": "camellia sasanqua setsugekka camellia new growth"
       },
       {
-        "src": "images/trees/camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia-tall-hedge.jpg",
-        "alt": "camellia setsugekka sasanqua camellia tall hedge"
+        "src": "images/trees/camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia-tall-hedge.jpg",
+        "alt": "camellia sasanqua setsugekka camellia tall hedge"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Camellia",
+    "species": "sasanqua",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Silver Dollar",
     "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-silver-dollar-sasanqua-camellia",
-    "mainImage": "camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia.jpg",
+    "commonName": "Camellia",
+    "url": "camellia-sasanqua-silver-dollar-camellia",
+    "mainImage": "camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia.jpg",
     "description": "Medium-sized, pure-white, ruffled, double flowers that appear in autumn and early-winter. Slow-growing, but has a dense, upright growth habit making it good for a low hedge.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
@@ -13929,46 +14047,46 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-bud.jpg",
-        "alt": "camellia silver dollar sasanqua camellia bud"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-bud.jpg",
+        "alt": "camellia sasanqua silver dollar camellia bud"
       },
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-bush-nursery.jpg",
-        "alt": "camellia silver dollar sasanqua camellia bush nursery"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-bush-nursery.jpg",
+        "alt": "camellia sasanqua silver dollar camellia bush nursery"
       },
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-flower.jpg",
-        "alt": "camellia silver dollar sasanqua camellia flower"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-flower.jpg",
+        "alt": "camellia sasanqua silver dollar camellia flower"
       },
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-foliage.jpg",
-        "alt": "camellia silver dollar sasanqua camellia foliage"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-foliage.jpg",
+        "alt": "camellia sasanqua silver dollar camellia foliage"
       },
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-new-bud.jpg",
-        "alt": "camellia silver dollar sasanqua camellia new bud"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-new-bud.jpg",
+        "alt": "camellia sasanqua silver dollar camellia new bud"
       },
       {
-        "src": "images/trees/camellia-silver-dollar-sasanqua-camellia/camellia-silver-dollar-sasanqua-camellia-new-flower-bud.jpg",
-        "alt": "camellia silver dollar sasanqua camellia new flower bud"
+        "src": "images/trees/camellia-sasanqua-silver-dollar-camellia/camellia-sasanqua-silver-dollar-camellia-new-flower-bud.jpg",
+        "alt": "camellia sasanqua silver dollar camellia new flower bud"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Camellia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Spring Festival",
     "synonyms": [],
-    "commonName": "Hybrid Camellia",
-    "url": "camellia-spring-festival-hybrid-camellia",
-    "mainImage": "camellia-spring-festival-hybrid-camellia/camellia-spring-festival-hybrid-camellia.jpeg",
-    "description": "Pure-pink, miniature-rose to semi-double flower form. Flowers profusely from mid-winter to early-spring. Narrow, upright-grower with dense foliage.",
+    "commonName": "Camellia",
+    "url": "camellia-spring-festival-camellia",
+    "mainImage": "camellia-spring-festival-camellia/camellia-spring-festival-camellia.jpeg",
+    "description": "A hybrid of <i>Camellia cuspidata</i>. Pure-pink, miniature-rose to semi-double flower form. Flowers profusely from mid-winter to early-spring. Narrow, upright-grower with dense foliage.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14009,192 +14127,17 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Camellia",
+    "species": "transnokoensis",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Japonica Camellia",
-    "url": "camellia-superstar-japonica-camellia",
-    "mainImage": "camellia-superstar-japonica-camellia/camellia-superstar-japonica-camellia.jpeg",
-    "description": "Has pure-white, semi-double flowers in spring with prominent stamens. Early to mid-spring flowering. Flowers drop cleanly and are resistant to rain damage. Upright-grower.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/camellia-superstar-japonica-camellia/camellia-superstar-japonica-camellia-foliage.jpeg",
-        "alt": "camellia superstar japonica camellia foliage"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Japonica Camellia",
-    "url": "camellia-takanini-japonica-camellia",
-    "mainImage": "camellia-takanini-japonica-camellia/camellia-takanini-japonica-camellia.jpeg",
-    "description": "Glowing, deep-red, medium-sized, anemone-formed flowers. Slight fragrance. Strong, bushy, narrow-grower. Flowers from early-winter to late-spring.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "red",
-      "spring": "red"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/camellia-takanini-japonica-camellia/camellia-takanini-japonica-camellia-bush.jpg",
-        "alt": "camellia takanini japonica camellia bush"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Japonica Camellia",
-    "url": "camellia-tom-knudsen-japonica-camellia",
-    "mainImage": "camellia-tom-knudsen-japonica-camellia/camellia-tom-knudsen-japonica-camellia.jpg",
-    "description": "Dark-red flowers with deeper veining. Flowers from late-winter to early-spring. Peony-form double flowers. Compact, upright-grower.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "red",
-      "spring": "red"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/camellia-tom-knudsen-japonica-camellia/camellia-tom-knudsen-japonica-camellia-bush.jpg",
-        "alt": "camellia tom knudsen japonica camellia bush"
-      },
-      {
-        "src": "images/trees/camellia-tom-knudsen-japonica-camellia/camellia-tom-knudsen-japonica-camellia-flower.jpg",
-        "alt": "camellia tom knudsen japonica camellia flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Hybrid Camellia",
-    "url": "camellia-transnokoensis-hybrid-camellia",
-    "mainImage": "camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia.jpg",
+    "commonName": "Camellia",
+    "url": "camellia-transnokoensis-camellia",
+    "mainImage": "camellia-transnokoensis-camellia/camellia-transnokoensis-camellia.jpg",
     "description": "A dense-foliaged bush with an upright form. Excellent for screening. A mass of small, white, single flowers from pink-red buds smother the bush from late-winter to early-spring. Hardy and vigorous.",
     "uses": "hedging-and-screening, narrow-sites, attracts-bees",
     "tolerates": "",
@@ -14233,42 +14176,42 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia-buds.jpg",
-        "alt": "camellia transnokoensis hybrid camellia buds"
+        "src": "images/trees/camellia-transnokoensis-camellia/camellia-transnokoensis-camellia-buds.jpg",
+        "alt": "camellia transnokoensis camellia buds"
       },
       {
-        "src": "images/trees/camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia-bush.jpg",
-        "alt": "camellia transnokoensis hybrid camellia bush"
+        "src": "images/trees/camellia-transnokoensis-camellia/camellia-transnokoensis-camellia-bush.jpg",
+        "alt": "camellia transnokoensis camellia bush"
       },
       {
-        "src": "images/trees/camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia-flowers.jpg",
-        "alt": "camellia transnokoensis hybrid camellia flowers"
+        "src": "images/trees/camellia-transnokoensis-camellia/camellia-transnokoensis-camellia-flowers.jpg",
+        "alt": "camellia transnokoensis camellia flowers"
       },
       {
-        "src": "images/trees/camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia-foliage.jpg",
-        "alt": "camellia transnokoensis hybrid camellia foliage"
+        "src": "images/trees/camellia-transnokoensis-camellia/camellia-transnokoensis-camellia-foliage.jpg",
+        "alt": "camellia transnokoensis camellia foliage"
       },
       {
-        "src": "images/trees/camellia-transnokoensis-hybrid-camellia/camellia-transnokoensis-hybrid-camellia-garden.jpg",
-        "alt": "camellia transnokoensis hybrid camellia garden"
+        "src": "images/trees/camellia-transnokoensis-camellia/camellia-transnokoensis-camellia-garden.jpg",
+        "alt": "camellia transnokoensis camellia garden"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Camellia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Transtasman",
     "synonyms": [],
-    "commonName": "Hybrid Camellia",
-    "url": "camellia-transtasman-hybrid-camellia",
-    "mainImage": "camellia-transtasman-hybrid-camellia/camellia-transtasman-hybrid-camellia.jpg",
-    "description": "Masses of tiny, white to pale-pink flowers in winter and spring opening from pink-red buds, slightly fragrant. Small leaves with a bushy habit.",
+    "commonName": "Camellia",
+    "url": "camellia-transtasman-camellia",
+    "mainImage": "camellia-transtasman-camellia/camellia-transtasman-camellia.jpg",
+    "description": "A hybrid between <i>Camellia pitardii</i> and <a href='/trees/camellia-transnokoensis-camellia'><i>Camellia transnokoensis</i></a>. Masses of tiny, white to pale-pink flowers in winter and spring opening from pink-red buds, slightly fragrant. Small leaves with a bushy habit.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14357,6 +14300,71 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Camellia",
+    "species": "",
+    "hybrid": "vernalis",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Yuletide",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "url": "camellia-vernalis-yuletide-camellia",
+    "mainImage": "camellia-vernalis-yuletide-camellia/camellia-vernalis-yuletide-camellia.jpeg",
+    "description": "A seedling from <a href='/trees/camellia-x-vernalis-hiryu-camellia'><i>Camellia</i> x <i>vernalis</i> 'Hiryū'</a>. <i>Camellia</i> x <i>vernalis</i> is a hybrid formed between <i>Camellia sasanqua</i> and <i>Camellia japonica</i>. Upright, compact, slow-growing variety. Produces single, red flowers with bright-gold stamens over a long period from early-winter to early-spring.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-vernalis-yuletide-camellia/camellia-vernalis-yuletide-camellia-bush.jpg",
+        "alt": "camellia vernalis yuletide camellia bush"
+      },
+      {
+        "src": "images/trees/camellia-vernalis-yuletide-camellia/camellia-vernalis-yuletide-camellia-garden.jpg",
+        "alt": "camellia vernalis yuletide camellia garden"
+      },
+      {
+        "src": "images/trees/camellia-vernalis-yuletide-camellia/camellia-vernalis-yuletide-camellia-in-pot.jpg",
+        "alt": "camellia vernalis yuletide camellia in pot"
+      }
+    ],
     "links": []
   },
   {
@@ -14479,18 +14487,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Camellia",
     "species": "",
-    "hybrid": "",
+    "hybrid": "williamsii",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Sasanqua Camellia",
-    "url": "camellia-yuletide-sasanqua-camellia",
-    "mainImage": "camellia-yuletide-sasanqua-camellia/camellia-yuletide-sasanqua-camellia.jpeg",
-    "description": "A species of camellia native to China and Japan. It is usually found growing up to an altitude of 900m. Upright, compact, slow-growing variety. Produces single, red flowers with bright-gold stamens over a long period from early-winter to early-spring.",
+    "cultivar": "Super Star",
+    "synonyms": ["Camellia x williamsii 'Superstar'"],
+    "commonName": "Camellia",
+    "url": "camellia-x-williamsii-super-star-camellia",
+    "mainImage": "camellia-x-williamsii-super-star-camellia/camellia-x-williamsii-super-star-camellia.jpeg",
+    "description": "<i>Camellia</i> x <i>williamsii</i> is a hybrid formed between <i>Camellia japonica</i> and <i>Camellia saluenensis</i>. Has pure-white, semi-double flowers in spring with prominent stamens. Early to mid-spring flowering. Flowers drop cleanly and are resistant to rain damage. Upright-grower.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14499,7 +14507,7 @@
     "origin": "exotic",
     "types": "",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -14509,8 +14517,8 @@
     "flowers": {
       "summer": "",
       "autumn": "",
-      "winter": "red",
-      "spring": "red"
+      "winter": "",
+      "spring": "white"
     },
     "foliage": {
       "summer": "green",
@@ -14528,16 +14536,8 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/camellia-yuletide-sasanqua-camellia/camellia-yuletide-sasanqua-camellia-bush.jpg",
-        "alt": "camellia yuletide sasanqua camellia bush"
-      },
-      {
-        "src": "images/trees/camellia-yuletide-sasanqua-camellia/camellia-yuletide-sasanqua-camellia-garden.jpg",
-        "alt": "camellia yuletide sasanqua camellia garden"
-      },
-      {
-        "src": "images/trees/camellia-yuletide-sasanqua-camellia/camellia-yuletide-sasanqua-camellia-in-pot.jpg",
-        "alt": "camellia yuletide sasanqua camellia in pot"
+        "src": "images/trees/camellia-x-williamsii-super-star-camellia/camellia-x-williamsii-super-star-camellia-foliage.jpeg",
+        "alt": "camellia x williamsii super star camellia foliage"
       }
     ],
     "links": []

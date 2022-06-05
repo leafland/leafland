@@ -528,3 +528,93 @@
     from = "/trees/camellia-otome-sazanka-sasanqua-camellia/"
     status = 301
     to = "/trees/camellia-sasanqua-otome-sazanka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-paradise-blush-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-paradise-blush-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-paradise-sayaka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-paradise-sayaka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-plantation-pink-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-plantation-pink-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-rainbow-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-rainbow-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-roger-hall-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-roger-hall-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-ruby-wedding-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-ruby-wedding-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-setsugekka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-setsugekka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-silver-dollar-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-silver-dollar-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-spring-festival-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-spring-festival-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-superstar-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-super-star-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-takanini-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-takanini-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-tom-knudsen-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-tom-knudsen-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-transnokoensis-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-transnokoensis-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-transtasman-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-transtasman-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-yuletide-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-vernalis-yuletide-camellia/"
