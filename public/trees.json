@@ -1629,7 +1629,17 @@
     "variety": "violaceum",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Acer","species":"negundo","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Violaceum"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "negundo",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Violaceum"
+      }
+    ],
     "commonName": "Box Elder",
     "url": "acer-negundo-var-violaceum-box-elder",
     "mainImage": "acer-negundo-var-violaceum-box-elder/acer-negundo-var-violaceum-box-elder.jpeg",
@@ -2769,7 +2779,17 @@
     "variety": "",
     "form": "",
     "cultivar": "O-kagami",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Okagami"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Okagami"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-o-kagami-japanese-maple",
     "mainImage": "acer-palmatum-o-kagami-japanese-maple/acer-palmatum-o-kagami-japanese-maple.jpg",
@@ -2846,7 +2866,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Omure-yama",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Omurayama"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Omurayama"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-omure-yama-japanese-maple",
     "mainImage": "acer-palmatum-omure-yama-japanese-maple/acer-palmatum-omure-yama-japanese-maple.jpg",
@@ -3029,27 +3059,33 @@
     "form": "",
     "cultivar": "Red Emperor",
     "synonyms": [
-     {"genus": "Acer",
-      "species": "palmatum",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": "",
-      "cultivar": "Emperor 1"},
-      {"genus": "Acer",
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Emperor One"},
-        {"genus": "Acer",
-          "species": "palmatum",
-          "hybrid": "",
-          "subspecies": "",
-          "variety": "",
-          "form": "",
-          "cultivar": "Wolff"}
+        "cultivar": "Emperor 1"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Emperor One"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wolff"
+      }
     ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-red-emperor-japanese-maple",
@@ -3134,7 +3170,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Roseomarginatum",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Kagiri-nishiki"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Kagiri-nishiki"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-roseomarginatum-japanese-maple",
     "mainImage": "acer-palmatum-roseomarginatum-japanese-maple/acer-palmatum-roseomarginatum-japanese-maple.jpg",
@@ -3213,7 +3259,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Scolopendrifolium",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Linearilobum"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Linearilobum"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-scolopendrifolium-japanese-maple",
     "mainImage": "acer-palmatum-scolopendrifolium-japanese-maple/acer-palmatum-scolopendrifolium-japanese-maple.jpg",
@@ -3300,48 +3356,60 @@
     "form": "",
     "cultivar": "Scolopendrifolium Atropurpureum",
     "synonyms": [
-{"genus": "Acer",
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Atrolineare"},
-{"genus": "Acer",
+        "cultivar": "Atrolineare"
+      },
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Linearilobum Atropurpureum"},
-{"genus": "Acer",
+        "cultivar": "Linearilobum Atropurpureum"
+      },
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Ao Shime-no-uchi Shidare"},
-{"genus": "Acer",
+        "cultivar": "Ao Shime-no-uchi Shidare"
+      },
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Aoshime-no-uchi"},
-{"genus": "Acer",
+        "cultivar": "Aoshime-no-uchi"
+      },
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Scolopendrifolium Purpureum"},
-{"genus": "Acer",
+        "cultivar": "Scolopendrifolium Purpureum"
+      },
+      {
+        "genus": "Acer",
         "species": "palmatum",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Aome-shime-no-uchi"}
+        "cultivar": "Aome-shime-no-uchi"
+      }
     ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-scolopendrifolium-atropurpureum-japanese-maple",
@@ -3426,7 +3494,26 @@
     "variety": "",
     "form": "",
     "cultivar": "Senkaki",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Sango-kaku"}, {"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Sangokaku"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sango-kaku"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sangokaku"
+      }
+    ],
     "commonName": "Japanese Maple, Coral Bark Maple",
     "url": "acer-palmatum-senkaki-japanese-maple-coral-bark-maple",
     "mainImage": "acer-palmatum-senkaki-japanese-maple-coral-bark-maple/acer-palmatum-senkaki-japanese-maple-coral-bark-maple.jpg",
@@ -3796,7 +3883,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Shirazz",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Gwen's Rose Delight"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Gwen's Rose Delight"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-shirazz-japanese-maple",
     "mainImage": "acer-palmatum-shirazz-japanese-maple/acer-palmatum-shirazz-japanese-maple.jpg",
@@ -3874,7 +3971,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Skeeter's Broom",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Skeeters"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Skeeters"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-skeeters-broom-japanese-maple",
     "mainImage": "acer-palmatum-skeeters-broom-japanese-maple/acer-palmatum-skeeters-broom-japanese-maple.jpg",
@@ -3961,7 +4068,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Sumi-nagashi",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Suminagashi"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Suminagashi"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-sumi-nagashi-japanese-maple",
     "mainImage": "acer-palmatum-sumi-nagashi-japanese-maple/acer-palmatum-sumi-nagashi-japanese-maple.jpg",
@@ -4137,7 +4254,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Ukigumo",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Floating Clouds"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Floating Clouds"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-ukigumo-japanese-maple",
     "mainImage": "acer-palmatum-ukigumo-japanese-maple/acer-palmatum-ukigumo-japanese-maple.jpg",
@@ -4214,7 +4341,26 @@
     "variety": "",
     "form": "",
     "cultivar": "Ukon",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Aoyagi"}, {"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Yukon"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Aoyagi"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Yukon"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-ukon-japanese-maple",
     "mainImage": "acer-palmatum-ukon-japanese-maple/acer-palmatum-ukon-japanese-maple.jpg",
@@ -4901,7 +5047,17 @@
     "variety": "dissectum",
     "form": "",
     "cultivar": "Palmatifidum",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"dissectum","form":"","cultivar":"Washi-no-o"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "dissectum",
+        "form": "",
+        "cultivar": "Washi-no-o"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-var-dissectum-palmatifidum-japanese-maple",
     "mainImage": "acer-palmatum-var-dissectum-palmatifidum-japanese-maple/acer-palmatum-var-dissectum-palmatifidum-japanese-maple.jpg",
@@ -5236,7 +5392,17 @@
     "variety": "dissectum",
     "form": "",
     "cultivar": "Red Feather",
-    "synonyms": [{"genus":"Acer","species":"palmatum","hybrid":"","subspecies":"","variety":"dissectum","form":"","cultivar":"Red Feathers"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "dissectum",
+        "form": "",
+        "cultivar": "Red Feathers"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-var-dissectum-red-feather-japanese-maple",
     "mainImage": "acer-palmatum-var-dissectum-red-feather-japanese-maple/acer-palmatum-var-dissectum-red-feather-japanese-maple.jpg",
@@ -6133,7 +6299,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Esk Sunset",
-    "synonyms": [{"genus":"Acer","species":"pseudoplatanus","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Eskimo Sunset"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Eskimo Sunset"
+      }
+    ],
     "commonName": "Sycamore Maple",
     "url": "acer-pseudoplatanus-esk-sunset-sycamore-maple",
     "mainImage": "acer-pseudoplatanus-esk-sunset-sycamore-maple/acer-pseudoplatanus-esk-sunset-sycamore-maple.jpg",
@@ -6591,7 +6767,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Autumn Glory",
-    "synonyms": [{"genus":"Acer","species":"rubrum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"October Glory"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "rubrum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "October Glory"
+      }
+    ],
     "commonName": "Red Maple",
     "url": "acer-rubrum-autumn-glory-red-maple",
     "mainImage": "acer-rubrum-autumn-glory-red-maple/acer-rubrum-autumn-glory-red-maple.jpg",
@@ -6960,20 +7146,24 @@
     "form": "",
     "cultivar": "Jeffersred",
     "synonyms": [
-{"genus": "Acer",
+      {
+        "genus": "Acer",
         "species": "",
         "hybrid": "freemanii",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Jeffersred"},
-{"genus": "Acer",
+        "cultivar": "Jeffersred"
+      },
+      {
+        "genus": "Acer",
         "species": "",
         "hybrid": "freemanii",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Autumn Blaze"}
+        "cultivar": "Autumn Blaze"
+      }
     ],
     "commonName": "Red Maple",
     "url": "acer-rubrum-jeffersred-red-maple",
@@ -7079,7 +7269,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Red Sunset",
-    "synonyms": [{"genus":"Acer","species":"rubrum","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Franksred"}],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "rubrum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Franksred"
+      }
+    ],
     "commonName": "Red Maple",
     "url": "acer-rubrum-red-sunset-red-maple",
     "mainImage": "acer-rubrum-red-sunset-red-maple/acer-rubrum-red-sunset-red-maple.jpg",
@@ -8174,7 +8374,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Agathis","species":"palmerstonii","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Agathis",
+        "species": "palmerstonii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Queensland Kauri",
     "url": "agathis-robusta-queensland-kauri",
     "mainImage": "agathis-robusta-queensland-kauri/agathis-robusta-queensland-kauri.jpg",
@@ -10691,7 +10901,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Heritage",
-    "synonyms": [{"genus":"Betula","species":"nigra","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Cully"}],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "nigra",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Cully"
+      }
+    ],
     "commonName": "River Birch",
     "url": "betula-nigra-heritage-river-birch",
     "mainImage": "betula-nigra-heritage-river-birch/betula-nigra-heritage-river-birch.jpg",
@@ -10934,7 +11154,26 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Betula","species":"alba","hybrid":"","subspecies":"","variety":"pendula","form":"","cultivar":""}, {"genus":"Betula","species":"pendula","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Alba"}],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "alba",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "pendula",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Betula",
+        "species": "pendula",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Alba"
+      }
+    ],
     "commonName": "Silver Birch",
     "url": "betula-pendula-silver-birch",
     "mainImage": "betula-pendula-silver-birch/betula-pendula-silver-birch.jpg",
@@ -11940,7 +12179,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Melaleuca","species":"citrina","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Melaleuca",
+        "species": "citrina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Bottlebrush",
     "url": "callistemon-citrinus-bottlebrush",
     "mainImage": "callistemon-citrinus-bottlebrush/callistemon-citrinus-bottlebrush.jpg",
@@ -12475,7 +12724,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Macarthur",
-    "synonyms": [{"genus":"Callistemon","species":"viminalis","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"LC01"}],
+    "synonyms": [
+      {
+        "genus": "Callistemon",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "LC01"
+      }
+    ],
     "commonName": "Bottlebrush",
     "url": "callistemon-viminalis-macarthur-bottlebrush",
     "mainImage": "callistemon-viminalis-macarthur-bottlebrush/callistemon-viminalis-macarthur-bottlebrush.jpg",
@@ -12533,7 +12792,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Red Alert",
-    "synonyms": [{"genus":"Callistmeon","species":"viminalis","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"KPS38"}],
+    "synonyms": [
+      {
+        "genus": "Callistmeon",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "KPS38"
+      }
+    ],
     "commonName": "Bottlebrush",
     "url": "callistemon-viminalis-red-alert-bottlebrush",
     "mainImage": "callistemon-viminalis-red-alert-bottlebrush/callistemon-viminalis-red-alert-bottlebrush.jpg",
@@ -13012,7 +13281,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Debutante",
-    "synonyms": [{"genus":"Camellia","species":"japonica","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Sara C. Hastie"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sara C. Hastie"
+      }
+    ],
     "commonName": "Japonica Camellia",
     "url": "camellia-japonica-debutante-camellia",
     "mainImage": "camellia-japonica-debutante-camellia/camellia-japonica-debutante-camellia.jpg",
@@ -13182,7 +13461,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Mark Alan",
-    "synonyms": [{"genus":"Camellia","species":"japonica","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Mark Allen"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mark Allen"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-japonica-mark-alan-camellia",
     "mainImage": "camellia-japonica-mark-alan-camellia/camellia-japonica-mark-alan-camellia.jpeg",
@@ -13664,7 +13953,44 @@
     "variety": "",
     "form": "",
     "cultivar": "Mine-no-yuki",
-    "synonyms": [{"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"White Doves"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Snow On The Mountain"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Snow On The Peak"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Snow"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "White Doves"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Snow On The Mountain"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Snow On The Peak"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Snow"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-sasanqua-mine-no-yuki-camellia",
     "mainImage": "camellia-sasanqua-mine-no-yuki-camellia/camellia-sasanqua-mine-no-yuki-camellia.jpg",
@@ -13721,7 +14047,35 @@
     "variety": "",
     "form": "",
     "cultivar": "Otome-sazanka",
-    "synonyms": [{"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Shōwa-otome"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Momo-otome"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Usu-otome"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Shōwa-otome"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Momo-otome"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Usu-otome"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-sasanqua-otome-sazanka-camellia",
     "mainImage": "camellia-sasanqua-otome-sazanka-camellia/camellia-sasanqua-otome-sazanka-camellia.jpg",
@@ -13994,7 +14348,35 @@
     "variety": "",
     "form": "",
     "cultivar": "Setsugekka",
-    "synonyms": [{"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Fluted White"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Wavy White"}, {"genus":"Camellia","species":"sasanqua","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Elegant Friends"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Fluted White"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wavy White"
+      },
+      {
+        "genus": "Camellia",
+        "species": "sasanqua",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Elegant Friends"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-sasanqua-setsugekka-camellia",
     "mainImage": "camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia.jpg",
@@ -14325,7 +14707,44 @@
     "variety": "",
     "form": "",
     "cultivar": "Hiryū",
-    "synonyms": [{"genus":"Camellia","species":"","hybrid":"vernalis","subspecies":"","variety":"","form":"","cultivar":"Flying Dragon"}, {"genus":"Camellia","species":"","hybrid":"vernalis","subspecies":"","variety":"","form":"","cultivar":"Red Bird"}, {"genus":"Camellia","species":"","hybrid":"vernalis","subspecies":"","variety":"","form":"","cultivar":"Scarlet Bird"}, {"genus":"Camellia","species":"","hybrid":"vernalis","subspecies":"","variety":"","form":"","cultivar":"Scarlet Dragon"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "vernalis",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Flying Dragon"
+      },
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "vernalis",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Red Bird"
+      },
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "vernalis",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Scarlet Bird"
+      },
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "vernalis",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Scarlet Dragon"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-x-vernalis-hiryu-camellia",
     "mainImage": "camellia-x-vernalis-hiryu-camellia/camellia-x-vernalis-hiryu-camellia.jpg",
@@ -14560,7 +14979,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Super Star",
-    "synonyms": [{"genus":"Camellia","species":"","hybrid":"williamsii","subspecies":"","variety":"","form":"","cultivar":"Superstar"}],
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "williamsii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Superstar"
+      }
+    ],
     "commonName": "Camellia",
     "url": "camellia-x-williamsii-super-star-camellia",
     "mainImage": "camellia-x-williamsii-super-star-camellia/camellia-x-williamsii-super-star-camellia.jpeg",
@@ -15128,7 +15557,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Flamingo",
-    "synonyms": [{"genus":"Toona","species":"sinensis","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Flamingo"}],
+    "synonyms": [
+      {
+        "genus": "Toona",
+        "species": "sinensis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Flamingo"
+      }
+    ],
     "commonName": "Chinese Toon",
     "url": "cedrela-sinensis-flamingo-chinese-toon",
     "mainImage": "cedrela-sinensis-flamingo-chinese-toon/cedrela-sinensis-flamingo-chinese-toon.jpg",
@@ -15185,7 +15624,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Cedrus","species":"libani","hybrid":"","subspecies":"","variety":"atlantica","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "atlantica",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Atlas Cedar",
     "url": "cedrus-atlantica-atlas-cedar",
     "mainImage": "cedrus-atlantica-atlas-cedar/cedrus-atlantica-atlas-cedar.jpg",
@@ -15270,7 +15719,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Glauca",
-    "synonyms": [{"genus":"Cedrus","species":"libani","hybrid":"","subspecies":"","variety":"atlantica","form":"","cultivar":"Glauca"}],
+    "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "atlantica",
+        "form": "",
+        "cultivar": "Glauca"
+      }
+    ],
     "commonName": "Atlas Cedar",
     "url": "cedrus-atlantica-glauca-atlas-cedar",
     "mainImage": "cedrus-atlantica-glauca-atlas-cedar/cedrus-atlantica-glauca-atlas-cedar.jpg",
@@ -15347,7 +15806,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Glauca Pendula",
-    "synonyms": [{"genus":"Cedrus","species":"libani","hybrid":"","subspecies":"","variety":"atlantica","form":"","cultivar":"Glauca Pendula"}],
+    "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "atlantica",
+        "form": "",
+        "cultivar": "Glauca Pendula"
+      }
+    ],
     "commonName": "Atlas Cedar",
     "url": "cedrus-atlantica-glauca-pendula-atlas-cedar",
     "mainImage": "cedrus-atlantica-glauca-pendula-atlas-cedar/cedrus-atlantica-glauca-pendula-atlas-cedar.jpg",
@@ -21007,7 +21476,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Cornus","species":"sericea","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Flaviramea"}],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "sericea",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Flaviramea"
+      }
+    ],
     "commonName": "Golden-Twig Dogwood",
     "url": "cornus-stolonifera-flaviramea-golden-twig-dogwood",
     "mainImage": "cornus-stolonifera-flaviramea-golden-twig-dogwood/cornus-stolonifera-flaviramea-golden-twig-dogwood.jpg",
@@ -21799,7 +22278,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Cotinus","species":"coggygria","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Ancot"}],
+    "synonyms": [
+      {
+        "genus": "Cotinus",
+        "species": "coggygria",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ancot"
+      }
+    ],
     "commonName": "Smoke Tree",
     "url": "cotinus-coggygria-golden-spirit-smoke-tree",
     "mainImage": "cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree.jpg",
@@ -23476,7 +23965,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Sphaeropteris","species":"medullaris","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Sphaeropteris",
+        "species": "medullaris",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Mamaku, Black Tree Fern",
     "url": "cyathea-medullaris-mamaku-black-tree-fern",
     "mainImage": "cyathea-medullaris-mamaku-black-tree-fern/cyathea-medullaris-mamaku-black-tree-fern.jpg",
@@ -26993,7 +27492,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Fig","species":"","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Tiger Stripe"}],
+    "synonyms": [
+      {
+        "genus": "Fig",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Tiger Stripe"
+      }
+    ],
     "commonName": "Fig",
     "url": "fig-panache",
     "mainImage": "fig-panache/fig-panache.jpg",
@@ -27819,7 +28328,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Fraxinus","species":"angustifolia","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Raywood"}],
+    "synonyms": [
+      {
+        "genus": "Fraxinus",
+        "species": "angustifolia",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Raywood"
+      }
+    ],
     "commonName": "Claret Ash",
     "url": "fraxinus-oxycarpa-raywood-claret-ash",
     "mainImage": "fraxinus-oxycarpa-raywood-claret-ash/fraxinus-oxycarpa-raywood-claret-ash.jpg",
@@ -28041,7 +28560,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Fraxinus","species":"pennsylvanica","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Cimmaron"}],
+    "synonyms": [
+      {
+        "genus": "Fraxinus",
+        "species": "pennsylvanica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Cimmaron"
+      }
+    ],
     "commonName": "Green Ash",
     "url": "fraxinus-pennsylvanica-cimmzam-green-ash",
     "mainImage": "fraxinus-pennsylvanica-cimmzam-green-ash/fraxinus-pennsylvanica-cimmzam-green-ash.jpg",
@@ -29742,7 +30271,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Polyspora","species":"axillaris","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Polyspora",
+        "species": "axillaris",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Fried Egg Tree",
     "url": "gordonia-axillaris-fried-egg-tree",
     "mainImage": "gordonia-axillaris-fried-egg-tree/gordonia-axillaris-fried-egg-tree.jpg",
@@ -33868,7 +34407,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Laurus","species":"nobilis","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Flavour Master"}],
+    "synonyms": [
+      {
+        "genus": "Laurus",
+        "species": "nobilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Flavour Master"
+      }
+    ],
     "commonName": "Sweet Bay, Bay Laurel",
     "url": "laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel",
     "mainImage": "laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel/laurus-nobilis-tuscan-tower-sweet-bay-bay-laurel.jpg",
@@ -35921,7 +36470,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Eriobotrya","species":"japonica","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Eriobotrya",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Loquat",
     "url": "loquat-japonica",
     "mainImage": "loquat-japonica/loquat-japonica.jpg",
@@ -37709,20 +38268,25 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus": "Magnolia",
+    "synonyms": [
+      {
+        "genus": "Magnolia",
         "species": "",
         "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": "Forrest's Pink"},
-        {"genus": "Magnolia",
-          "species": "denudata",
-          "hybrid": "",
-          "subspecies": "",
-          "variety": "",
-          "form": "",
-          "cultivar": "Forrest's Pink"}
+        "cultivar": "Forrest's Pink"
+      },
+      {
+        "genus": "Magnolia",
+        "species": "denudata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Forrest's Pink"
+      }
     ],
     "commonName": "Magnolia",
     "url": "magnolia-forest-pink",
@@ -43699,7 +44263,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Malus","species":"","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Mattfru"}],
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattfru"
+      }
+    ],
     "commonName": "Crabapple",
     "url": "malus-jelly-king-crabapple",
     "mainImage": "malus-jelly-king-crabapple/malus-jelly-king-crabapple.jpeg",
@@ -44940,7 +45514,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Metasequoia","species":"glyptostroboides","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Ogon"}],
+    "synonyms": [
+      {
+        "genus": "Metasequoia",
+        "species": "glyptostroboides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ogon"
+      }
+    ],
     "commonName": "Dawn Redwood",
     "url": "metasequoia-glyptostroboides-gold-rush-dawn-redwood",
     "mainImage": "metasequoia-glyptostroboides-gold-rush-dawn-redwood/metasequoia-glyptostroboides-gold-rush-dawn-redwood.jpg",
@@ -48558,7 +49142,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Nyssa","species":"biflora","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Nyssa",
+        "species": "biflora",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Swamp Tupelo",
     "url": "nyssa-sylvatica-var-biflora-swamp-tupelo",
     "mainImage": "nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo.jpg",
@@ -48826,7 +49420,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Olearia","species":"traversii","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Olearia",
+        "species": "traversii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Hakapiri, Akeake",
     "url": "olearia-traversiorum-hakapiri-akeake",
     "mainImage": "olearia-traversiorum-hakapiri-akeake/olearia-traversiorum-hakapiri-akeake.jpg",
@@ -51029,7 +51633,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Nematolepis","species":"squamea","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Nematolepis",
+        "species": "squamea",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Satinwood",
     "url": "phebalium-squameum-satinwood",
     "mainImage": "phebalium-squameum-satinwood/phebalium-squameum-satinwood.jpeg",
@@ -51090,7 +51704,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Nematolepis","species":"squamea","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Nematolepis",
+        "species": "squamea",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Satinwood",
     "url": "phebalium-squameum-illumination-satinwood",
     "mainImage": "phebalium-squameum-illumination-satinwood/phebalium-squameum-illumination-satinwood.jpeg",
@@ -51142,7 +51766,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Photinia","species":"","hybrid":"fraseri","subspecies":"","variety":"","form":"","cultivar":"Dark Knight"}],
+    "synonyms": [
+      {
+        "genus": "Photinia",
+        "species": "",
+        "hybrid": "fraseri",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Dark Knight"
+      }
+    ],
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-dark-knight-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-dark-knight-red-tip-photinia-christmas-berry/photinia-dark-knight-red-tip-photinia-christmas-berry.jpeg",
@@ -51199,7 +51833,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Photinia","species":"","hybrid":"fraseri","subspecies":"","variety":"","form":"","cultivar":"Red Robin"}],
+    "synonyms": [
+      {
+        "genus": "Photinia",
+        "species": "",
+        "hybrid": "fraseri",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Red Robin"
+      }
+    ],
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-red-robin-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-red-robin-red-tip-photinia-christmas-berry/photinia-red-robin-red-tip-photinia-christmas-berry.jpg",
@@ -51284,7 +51928,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Photinia","species":"","hybrid":"fraseri","subspecies":"","variety":"","form":"","cultivar":"Superhedge"}],
+    "synonyms": [
+      {
+        "genus": "Photinia",
+        "species": "",
+        "hybrid": "fraseri",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Superhedge"
+      }
+    ],
     "commonName": "Red Tip Photinia, Christmas Berry",
     "url": "photinia-superhedge-red-tip-photinia-christmas-berry",
     "mainImage": "photinia-superhedge-red-tip-photinia-christmas-berry/photinia-superhedge-red-tip-photinia-christmas-berry.jpg",
@@ -52518,7 +53172,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Pittosporum","species":"tenuifolium","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Frankie's Folly"}],
+    "synonyms": [
+      {
+        "genus": "Pittosporum",
+        "species": "tenuifolium",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Frankie's Folly"
+      }
+    ],
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo.jpeg",
@@ -53758,7 +54422,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Platanus","species":"","hybrid":"hispanica","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Platanus",
+        "species": "",
+        "hybrid": "hispanica",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "London Plane",
     "url": "platanus-x-acerifolia-london-plane",
     "mainImage": "platanus-x-acerifolia-london-plane/platanus-x-acerifolia-london-plane.jpeg",
@@ -55216,7 +55890,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Afrocarpus","species":"gracilior","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Afrocarpus",
+        "species": "gracilior",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "East African Yellowwood",
     "url": "podocarpus-gracilior-east-african-yellowwood",
     "mainImage": "podocarpus-gracilior-east-african-yellowwood/podocarpus-gracilior-east-african-yellowwood.jpg",
@@ -56044,7 +56728,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Pectinopitys","species":"ferruginea","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Pectinopitys",
+        "species": "ferruginea",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Miro, New Zealand Brown Pine",
     "url": "prumnopitys-ferruginea-miro-new-zealand-brown-pine",
     "mainImage": "prumnopitys-ferruginea-miro-new-zealand-brown-pine/prumnopitys-ferruginea-miro-new-zealand-brown-pine.jpg",
@@ -57619,7 +58313,17 @@
     "variety": "",
     "form": "",
     "cultivar": "All-In-One",
-    "synonyms": [{"genus":"Prunus","species":"amygdalus","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"All-In-One"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "amygdalus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "All-In-One"
+      }
+    ],
     "commonName": "Almond",
     "url": "prunus-dulcis-all-in-one-almond",
     "mainImage": "prunus-dulcis-all-in-one-almond/prunus-dulcis-all-in-one-almond.jpg",
@@ -57688,7 +58392,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Monovale",
-    "synonyms": [{"genus":"Prunus","species":"amygdalus","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Monovale"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "amygdalus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Monovale"
+      }
+    ],
     "commonName": "Almond",
     "url": "prunus-dulcis-monovale-almond",
     "mainImage": "prunus-dulcis-monovale-almond/prunus-dulcis-monovale-almond.jpg",
@@ -57761,7 +58475,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Spire",
-    "synonyms": [{"genus":"Prunus","species":"","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Spire"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Spire"
+      }
+    ],
     "commonName": "Flowering Cherry",
     "url": "prunus-x-hillieri-spire-flowering-cherry",
     "mainImage": "prunus-x-hillieri-spire-flowering-cherry/prunus-x-hillieri-spire-flowering-cherry.jpg",
@@ -58420,7 +59144,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Prunus","species":"serrulata","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Pink Champagne"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "serrulata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pink Champagne"
+      }
+    ],
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-ichiyo-japanese-cherry",
     "mainImage": "prunus-serrulata-ichiyo-japanese-cherry/prunus-serrulata-ichiyo-japanese-cherry.jpeg",
@@ -58820,7 +59554,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Prunus","species":"serrulata","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Shogetsu"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "serrulata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Shogetsu"
+      }
+    ],
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-shimidsu-sakura-japanese-cherry",
     "mainImage": "prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry.jpg",
@@ -58949,7 +59693,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Prunus","species":"serrulata","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Mount Fuji"}],
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "serrulata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mount Fuji"
+      }
+    ],
     "commonName": "Japanese Cherry",
     "url": "prunus-serrulata-shirotae-japanese-cherry",
     "mainImage": "prunus-serrulata-shirotae-japanese-cherry/prunus-serrulata-shirotae-japanese-cherry.jpg",
@@ -67735,7 +68489,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Viburnum","species":"opulus","hybrid":"","subspecies":"","variety":"","form":"","cultivar":"Sterile"}],
+    "synonyms": [
+      {
+        "genus": "Viburnum",
+        "species": "opulus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sterile"
+      }
+    ],
     "commonName": "Snowball Tree",
     "url": "viburnum-opulus-roseum-snowball-tree",
     "mainImage": "viburnum-opulus-roseum-snowball-tree/viburnum-opulus-roseum-snowball-tree.jpg",
@@ -68172,7 +68936,26 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [{"genus":"Yucca","species":"guatemalensis","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}, {"genus":"Yucca","species":"elephantipes","hybrid":"","subspecies":"","variety":"","form":"","cultivar":""}],
+    "synonyms": [
+      {
+        "genus": "Yucca",
+        "species": "guatemalensis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Yucca",
+        "species": "elephantipes",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Giant Yucca, Spineless Yucca",
     "url": "yucca-gigantea-giant-yucca-spineless-yucca",
     "mainImage": "yucca-gigantea-giant-yucca-spineless-yucca/yucca-gigantea-giant-yucca-spineless-yucca.jpg",
