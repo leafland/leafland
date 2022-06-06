@@ -618,3 +618,39 @@
     from = "/trees/camellia-yuletide-sasanqua-camellia/"
     status = 301
     to = "/trees/camellia-vernalis-yuletide-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-compact-stella/"
+    status = 301
+    to = "/trees/prunus-avium-compact-stella-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-dawson/"
+    status = 301
+    to = "/trees/prunus-avium-dawson-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-lapins/"
+    status = 301
+    to = "/trees/prunus-avium-lapins-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-rainier/"
+    status = 301
+    to = "/trees/prunus-avium-rainier-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-stella/"
+    status = 301
+    to = "/trees/prunus-avium-stella-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-summit/"
+    status = 301
+    to = "/trees/prunus-avium-summit-cherry/"
