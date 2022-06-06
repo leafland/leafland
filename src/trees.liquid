@@ -943,7 +943,15 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
 
                             {% else %}
 
-                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h2>
+                                {% if tree.species.size > 0 %}
+
+                                <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h2>
+
+                                {% else %}
+
+                                <h2><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</h2>
+
+                                {% endif %}
 
                             {% endif %}
 

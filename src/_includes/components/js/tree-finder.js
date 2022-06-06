@@ -543,7 +543,14 @@ async function populatePage(
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
             }
           } else {
-            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> '${treeDataSubset[i].cultivar}'`;
+
+            if(treeDataSubset[i].species !== ""){
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+            else{
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+
           }
         } else if (treeDataSubset[i].form !== "") {
           treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> f. <i>${treeDataSubset[i].form}</i>`;

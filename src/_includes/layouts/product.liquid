@@ -35,7 +35,15 @@ type: product
 
             {% else %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h1>
+                {% if tree.species.size > 0 %}
+
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h1>
+
+                {% else %}
+
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</h1>
+
+                {% endif %}
 
             {% endif %}
 
@@ -1039,7 +1047,15 @@ type: product
 
                             {% else %}
 
-                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> '{{ item.cultivar }}'{% endcapture %}
+                                {% if item.species.size > 0 %}
+
+                                {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                                {% else %}
+
+                                {% capture newItem %}<i>{{ item.genus }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                                {% endif %}
 
                             {% endif %}
 

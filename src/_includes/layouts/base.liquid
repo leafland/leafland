@@ -39,7 +39,16 @@
 
             {% else %}
 
-            <title>{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+              {% if tree.species.size > 0 %}
+
+              <title>{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+
+              {% else %}
+
+              <title>{{ tree.genus }} '{{ tree.cultivar }}' ({{ tree.commonName }}) - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
+
+              {% endif %}
 
             {% endif %}
 
@@ -237,9 +246,19 @@
 
               {% else %}
 
-              "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+                {% if tree.species.size > 0 %}
+
+                "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+                "botanicalName": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}'"
+                "commonName": "{{ tree.commonName }}"
+
+                {% else %}
+
+                "name": "{{ tree.genus }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
+                "botanicalName": "{{ tree.genus }} '{{ tree.cultivar }}'"
+                "commonName": "{{ tree.commonName }}"
+
+                {% endif %}
 
               {% endif %}
 

@@ -227,7 +227,13 @@ async function displayResults(results) {
           resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
         }
       } else {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
+
+        if(results[i].species !== ""){
+          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
+        }
+        else{
+          resultTitle.innerHTML = `<i>${results[i].genus}</i> '${results[i].cultivar}'`;
+        }
       }
     } else if (results[i].form !== "") {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> f. <i>${results[i].form}</i>`;
