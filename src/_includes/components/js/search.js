@@ -104,7 +104,7 @@ async function search(terms) {
       }
 
       for (let j = 0; j < searchData[i].synonyms.length; j++) {
-        compareValue += `${searchData[i].synonyms[j]} `
+        compareValue += `${searchData[i].synonyms[j].genus} ${searchData[i].synonyms[j].species} ${searchData[i].synonyms[j].hybrid} ${searchData[i].synonyms[j].subspecies} ${searchData[i].synonyms[j].variety} ${searchData[i].synonyms[j].form} ${searchData[i].synonyms[j].cultivar}`
           .replace(/'/g, "")
           .replace(/"/g, "")
           .replace(/\(/g, "")
