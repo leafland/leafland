@@ -24802,8 +24802,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Dysoxylum",
+    "species": "spectabile",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -24867,18 +24867,28 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Elaeagnus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "submacrophylla",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Elaeagnus",
+        "species": "",
+        "hybrid": "ebbingei",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Silverberry",
     "url": "elaeagnus-x-submacrophylla-silverberry",
     "mainImage": "elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry.jpg",
-    "description": "Formerly known as Elaeagnus x ebbingei. A hybrid between <i>Elaeagnus macrophylla</i> and <i>Elaeagnus pungens</i>. Leaves are initially green, spotted with silver-grey, but mature to dark-green with silver-grey undersides. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, white flowers in autumn that are followed by orange berries in winter.",
+    "description": "A hybrid between <i>Elaeagnus macrophylla</i> and <i>Elaeagnus pungens</i>. Leaves are initially green, spotted with silver-grey, but mature to dark-green with silver-grey undersides. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, white flowers in autumn that are followed by orange berries in winter.",
     "uses": "hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -24936,8 +24946,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "cinerea",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25013,8 +25023,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "crenulata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25074,8 +25084,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "johnstonii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25126,13 +25136,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "leucoxylon",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Rosea",
     "synonyms": [],
     "commonName": "Red-flowering Yellow Gum",
     "url": "eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum",
@@ -25187,8 +25197,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "nicholii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25256,8 +25266,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucalyptus",
+    "species": "sideroxylon",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25325,8 +25335,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucryphia",
+    "species": "moorei",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25386,13 +25396,13 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Eucryphia",
     "species": "",
-    "hybrid": "",
+    "hybrid": "nymansensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Nymansay",
     "synonyms": [],
     "commonName": "Nyman's Hybrid Eucryphia",
     "url": "eucryphia-x-nymansensis-nymansay-nymans-hybrid-eucryphia",
@@ -25451,8 +25461,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Eucryphia",
+    "species": "cordifolia",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25524,8 +25534,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -25597,13 +25607,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dawyck Gold",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-dawyck-gold-european-beech",
@@ -25658,13 +25668,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dawyck Green",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-dawyck-green-european-beech",
@@ -25723,13 +25733,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dawyck Purple",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-dawyck-purple-european-beech",
@@ -25796,14 +25806,24 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
+    "cultivar": "Luteo-variegata",
+    "synonyms": [
+      {
+        "genus": "Fagus",
+        "species": "sylvatica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Luteovariegata"
+      }
+    ],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-luteo-variegata-european-beech",
     "mainImage": "fagus-sylvatica-luteo-variegata-european-beech/fagus-sylvatica-luteo-variegata-european-beech.jpg",
@@ -25861,13 +25881,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Pendula",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-pendula-european-beech",
@@ -25930,13 +25950,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Purple Fountain",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-purple-fountain-european-beech",
@@ -26003,13 +26023,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Purpurea",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-purpurea-european-beech",
@@ -26072,13 +26092,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Purpurea Pendula",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-purpurea-pendula-european-beech",
@@ -26137,13 +26157,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Red Obelisk",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-red-obelisk-european-beech",
@@ -26206,13 +26226,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Riversii",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-riversii-european-beech",
@@ -26263,13 +26283,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Rohanii",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-rohanii-european-beech",
@@ -26324,13 +26344,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Fagus",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Swat Margaret",
     "synonyms": [],
     "commonName": "European Beech",
     "url": "fagus-sylvatica-swat-margaret-european-beech",
@@ -26381,17 +26401,36 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-apollo",
-    "mainImage": "feijoa-apollo/feijoa-apollo.jpg",
+    "cultivar": "Apollo",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Apollo"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Apollo"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-apollo-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-apollo-feijoa-pineapple-guava/feijoa-sellowiana-apollo-feijoa-pineapple-guava.jpg",
     "description": "Coastal and drought-hardy feijoa which makes excellent hedges and screens. Partially self-fertile, but better crops when planted with any other feijoa variety. Large, smooth-skinned fruit in mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy, drought",
@@ -26430,33 +26469,52 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-apollo/feijoa-apollo-flowers.jpg",
-        "alt": "feijoa apollo flowers"
+        "src": "images/trees/feijoa-sellowiana-apollo-feijoa-pineapple-guava/feijoa-sellowiana-apollo-feijoa-pineapple-guava-flowers.jpg",
+        "alt": "feijoa sellowiana apollo feijoa pineapple guava flowers"
       },
       {
-        "src": "images/trees/feijoa-apollo/feijoa-apollo-fruit.jpg",
-        "alt": "feijoa apollo fruit"
+        "src": "images/trees/feijoa-sellowiana-apollo-feijoa-pineapple-guava/feijoa-sellowiana-apollo-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana apollo feijoa pineapple guava fruit"
       },
       {
-        "src": "images/trees/feijoa-apollo/feijoa-apollo-plate.jpg",
-        "alt": "feijoa apollo plate"
+        "src": "images/trees/feijoa-sellowiana-apollo-feijoa-pineapple-guava/feijoa-sellowiana-apollo-feijoa-pineapple-guava-plate.jpg",
+        "alt": "feijoa sellowiana apollo feijoa pineapple guava plate"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-dens-choice",
-    "mainImage": "feijoa-dens-choice/feijoa-dens-choice.jpg",
+    "cultivar": "Den's Choice",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Den's Choice"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Den's Choice"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-dens-choice-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-dens-choice-feijoa-pineapple-guava/feijoa-sellowiana-dens-choice-feijoa-pineapple-guava.jpg",
     "description": "Produces medium to large fruit with outstanding flavour. Partially self-fertile, but better crops when planted with any other feijoa variety. Harvesting in mid to late-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26495,25 +26553,44 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-dens-choice/feijoa-dens-choice-flower.jpg",
-        "alt": "feijoa dens choice flower"
+        "src": "images/trees/feijoa-sellowiana-dens-choice-feijoa-pineapple-guava/feijoa-sellowiana-dens-choice-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana dens choice feijoa pineapple guava flower"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-gemini",
-    "mainImage": "feijoa-gemini/feijoa-gemini.jpg",
+    "cultivar": "Gemini",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Gemini"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Gemini"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-gemini-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-gemini-feijoa-pineapple-guava/feijoa-sellowiana-gemini-feijoa-pineapple-guava.jpg",
     "description": "A high-yielding, hardy variety. Partially self-fertile, but better crops when planted with any other feijoa variety. Produces large, oval-shaped fruit with excellent flavour and texture. Plant in a sunny position with free-draining soil. Harvesting in mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26552,29 +26629,48 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-gemini/feijoa-gemini-flower.jpeg",
-        "alt": "feijoa gemini flower"
+        "src": "images/trees/feijoa-sellowiana-gemini-feijoa-pineapple-guava/feijoa-sellowiana-gemini-feijoa-pineapple-guava-flower.jpeg",
+        "alt": "feijoa sellowiana gemini feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-gemini/feijoa-gemini-fruit.jpg",
-        "alt": "feijoa gemini fruit"
+        "src": "images/trees/feijoa-sellowiana-gemini-feijoa-pineapple-guava/feijoa-sellowiana-gemini-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana gemini feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-golden-goose",
-    "mainImage": "feijoa-golden-goose/feijoa-golden-goose.jpg",
+    "cultivar": "Golden Goose",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Golden Goose"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Golden Goose"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-golden-goose-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-golden-goose-feijoa-pineapple-guava/feijoa-sellowiana-golden-goose-feijoa-pineapple-guava.jpg",
     "description": "Large, smooth, king-sized fruit. Sweet, golden-yellow flesh. Fruits from late-autumn to early-winter. Has an extra long shelf-life for the fruit. Rounded, bushy grower. Partially self-fertile, but better crops when planted with any other feijoa variety. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -26613,25 +26709,44 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-golden-goose/feijoa-golden-goose-flower.jpg",
-        "alt": "feijoa golden goose flower"
+        "src": "images/trees/feijoa-sellowiana-golden-goose-feijoa-pineapple-guava/feijoa-sellowiana-golden-goose-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana golden goose feijoa pineapple guava flower"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-kaiteri",
-    "mainImage": "feijoa-kaiteri/feijoa-kaiteri.jpg",
+    "cultivar": "Kaiteri",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Kaiteri"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Kaiteri"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-kaiteri-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-kaiteri-feijoa-pineapple-guava/feijoa-sellowiana-kaiteri-feijoa-pineapple-guava.jpg",
     "description": "Has exceptionally sweet, tasty, and large fruit. Partially self-fertile, but better crops when planted with any other feijoa variety. Harvest in mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26670,25 +26785,43 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-kaiteri/feijoa-kaiteri-flower.jpg",
-        "alt": "feijoa kaiteri flower"
+        "src": "images/trees/feijoa-sellowiana-kaiteri-feijoa-pineapple-guava/feijoa-sellowiana-kaiteri-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana kaiteri feijoa pineapple guava flower"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
+    "genus": "Feijoa",
+    "hybrid": "sellowiana",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-kakariki",
-    "mainImage": "feijoa-kakariki/feijoa-kakariki.jpg",
+    "cultivar": "Kakariki",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Kakariki"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Kakariki"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-kakariki-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-kakariki-feijoa-pineapple-guava/feijoa-sellowiana-kakariki-feijoa-pineapple-guava.jpg",
     "description": "Produces large and very sweet fruit. Partially self-fertile, but better crops when planted with any other feijoa variety. Harvest in early to mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26727,25 +26860,44 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-kakariki/feijoa-kakariki-flower.jpg",
-        "alt": "feijoa kakariki flower"
+        "src": "images/trees/feijoa-sellowiana-kakariki-feijoa-pineapple-guava/feijoa-sellowiana-kakariki-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana kakariki feijoa pineapple guava flower"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-mammoth",
-    "mainImage": "feijoa-mammoth/feijoa-mammoth.jpg",
+    "cultivar": "Mammoth",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mammoth"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mammoth"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-mammoth-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-mammoth-feijoa-pineapple-guava/feijoa-sellowiana-mammoth-feijoa-pineapple-guava.jpg",
     "description": "Large fruit are soft, juicy, and grainy. Strong-growing. Forms a large bush. Partially self-fertile, but better crops when planted with any other feijoa variety. Fruits from late-autumn to early-winter. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -26784,33 +26936,52 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-mammoth/feijoa-mammoth-cut-fruit.jpeg",
-        "alt": "feijoa mammoth cut fruit"
+        "src": "images/trees/feijoa-sellowiana-mammoth-feijoa-pineapple-guava/feijoa-sellowiana-mammoth-feijoa-pineapple-guava-cut-fruit.jpeg",
+        "alt": "feijoa sellowiana mammoth feijoa pineapple guava cut fruit"
       },
       {
-        "src": "images/trees/feijoa-mammoth/feijoa-mammoth-flower.jpg",
-        "alt": "feijoa mammoth flower"
+        "src": "images/trees/feijoa-sellowiana-mammoth-feijoa-pineapple-guava/feijoa-sellowiana-mammoth-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana mammoth feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-mammoth/feijoa-mammoth-fruit.jpg",
-        "alt": "feijoa mammoth fruit"
+        "src": "images/trees/feijoa-sellowiana-mammoth-feijoa-pineapple-guava/feijoa-sellowiana-mammoth-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana mammoth feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-opal-star",
-    "mainImage": "feijoa-opal-star/feijoa-opal-star.jpg",
+    "cultivar": "Opal Star",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Opal Star"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Opal Star"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-opal-star-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-opal-star-feijoa-pineapple-guava/feijoa-sellowiana-opal-star-feijoa-pineapple-guava.jpg",
     "description": "Compact plant that has a bushy habit, so ideal for home gardens, especially for hedging. Medium to large-sized fruit, uniform size with thin, smooth skin. Harvest from mid to late-autumn. Partially self-fertile, but better crops when planted with any other feijoa variety. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -26849,33 +27020,52 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-opal-star/feijoa-opal-star-flower.jpeg",
-        "alt": "feijoa opal star flower"
+        "src": "images/trees/feijoa-sellowiana-opal-star-feijoa-pineapple-guava/feijoa-sellowiana-opal-star-feijoa-pineapple-guava-flower.jpeg",
+        "alt": "feijoa sellowiana opal star feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-opal-star/feijoa-opal-star-foliage.jpeg",
-        "alt": "feijoa opal star foliage"
+        "src": "images/trees/feijoa-sellowiana-opal-star-feijoa-pineapple-guava/feijoa-sellowiana-opal-star-feijoa-pineapple-guava-foliage.jpeg",
+        "alt": "feijoa sellowiana opal star feijoa pineapple guava foliage"
       },
       {
-        "src": "images/trees/feijoa-opal-star/feijoa-opal-star-fruit.jpg",
-        "alt": "feijoa opal star fruit"
+        "src": "images/trees/feijoa-sellowiana-opal-star-feijoa-pineapple-guava/feijoa-sellowiana-opal-star-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana opal star feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-pounamu",
-    "mainImage": "feijoa-pounamu/feijoa-pounamu.jpg",
+    "cultivar": "Pounamu",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pounamu"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pounamu"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-pounamu-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-pounamu-feijoa-pineapple-guava/feijoa-sellowiana-pounamu-feijoa-pineapple-guava.jpg",
     "description": "Produces medium-sized fruit with sweet and juicy flesh that has a rich flavour. Feijoas have dark-green skin. A high-yielding variety that fruits in mid-autumn. Partially self-fertile, but better crops when planted with any other feijoa variety. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26914,29 +27104,48 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-pounamu/feijoa-pounamu-flower.jpg",
-        "alt": "feijoa pounamu flower"
+        "src": "images/trees/feijoa-sellowiana-pounamu-feijoa-pineapple-guava/feijoa-sellowiana-pounamu-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana pounamu feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-pounamu/feijoa-pounamu-fruit.jpg",
-        "alt": "feijoa pounamu fruit"
+        "src": "images/trees/feijoa-sellowiana-pounamu-feijoa-pineapple-guava/feijoa-sellowiana-pounamu-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana pounamu feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-takaka",
-    "mainImage": "feijoa-takaka/feijoa-takaka.jpg",
+    "cultivar": "Takaka",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Takaka"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Takaka"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-takaka-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-takaka-feijoa-pineapple-guava/feijoa-sellowiana-takaka-feijoa-pineapple-guava.jpg",
     "description": "Large fruit have a rich, delicious, tropical flavour. Fruit ripens in early-autumn. Best variety to grow in marginal colder regions. Hardy, vigorous grower. Partially self-fertile, but better crops when planted with any other feijoa variety. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "attracts-bees, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -26975,29 +27184,48 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-takaka/feijoa-takaka-flower.jpg",
-        "alt": "feijoa takaka flower"
+        "src": "images/trees/feijoa-sellowiana-takaka-feijoa-pineapple-guava/feijoa-sellowiana-takaka-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana takaka feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-takaka/feijoa-takaka-fruit.jpg",
-        "alt": "feijoa takaka fruit"
+        "src": "images/trees/feijoa-sellowiana-takaka-feijoa-pineapple-guava/feijoa-sellowiana-takaka-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana takaka feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-triumph",
-    "mainImage": "feijoa-triumph/feijoa-triumph.jpg",
+    "cultivar": "Triumph",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Triumph"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Triumph"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-triumph-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-triumph-feijoa-pineapple-guava/feijoa-sellowiana-triumph-feijoa-pineapple-guava.jpg",
     "description": "Coastal and drought-hardy feijoa which makes excellent hedges and screens. Partially self-fertile, but better crops when planted with any other feijoa variety. Medium-sized, smooth-skinned, rounded fruit. Slightly-gritty, juicy, and moderately-soft flesh. Fruits from mid to late-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -27036,29 +27264,48 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-triumph/feijoa-triumph-flower.jpg",
-        "alt": "feijoa triumph flower"
+        "src": "images/trees/feijoa-sellowiana-triumph-feijoa-pineapple-guava/feijoa-sellowiana-triumph-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana triumph feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-triumph/feijoa-triumph-fruit.jpg",
-        "alt": "feijoa triumph fruit"
+        "src": "images/trees/feijoa-sellowiana-triumph-feijoa-pineapple-guava/feijoa-sellowiana-triumph-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana triumph feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-unique",
-    "mainImage": "feijoa-unique/feijoa-unique.jpg",
+    "cultivar": "Unique",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Unique"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Unique"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-unique-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-unique-feijoa-pineapple-guava/feijoa-sellowiana-unique-feijoa-pineapple-guava.jpg",
     "description": "Coastal and drought-hardy feijoa which makes excellent hedges and screens. Medium-sized, smooth-skinned fruit with a very sweet pineapple flavour. Compact grower. Self-fertile, no pollinator required. Fruits in mid-autumn. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, topiary, attracts-bees",
     "tolerates": "coastal, windy",
@@ -27097,29 +27344,48 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-unique/feijoa-unique-flower.jpg",
-        "alt": "feijoa unique flower"
+        "src": "images/trees/feijoa-sellowiana-unique-feijoa-pineapple-guava/feijoa-sellowiana-unique-feijoa-pineapple-guava-flower.jpg",
+        "alt": "feijoa sellowiana unique feijoa pineapple guava flower"
       },
       {
-        "src": "images/trees/feijoa-unique/feijoa-unique-fruit.jpg",
-        "alt": "feijoa unique fruit"
+        "src": "images/trees/feijoa-sellowiana-unique-feijoa-pineapple-guava/feijoa-sellowiana-unique-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana unique feijoa pineapple guava fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Feijoa",
+    "species": "sellowiana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Feijoa",
-    "url": "feijoa-wiki-tu",
-    "mainImage": "feijoa-wiki-tu/feijoa-wiki-tu.jpg",
+    "cultivar": "Wiki Tu",
+    "synonyms": [
+      {
+        "genus": "Acca",
+        "species": "sellowiana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wiki Tu"
+      },
+      {
+        "genus": "Orthostemon",
+        "species": "sellowianus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wiki Tu"
+      }
+    ],
+    "commonName": "Feijoa, Pineapple Guava",
+    "url": "feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava",
+    "mainImage": "feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava.jpg",
     "description": "Huge sweet and meaty fruit. Fruit keeps well. Fruits from mid to late-autumn. Partially self-fertile, but better crops when planted with any other feijoa variety. Withstands moderate coastal winds and drought. Beautiful red flowers from late-spring to mid-summer.",
     "uses": "hedging-and-screening, topiary, attracts-bees",
     "tolerates": "coastal, windy",
@@ -27158,12 +27424,12 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/feijoa-wiki-tu/feijoa-wiki-tu-flowers.jpg",
-        "alt": "feijoa wiki tu flowers"
+        "src": "images/trees/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava-flowers.jpg",
+        "alt": "feijoa sellowiana wiki tu feijoa pineapple guava flowers"
       },
       {
-        "src": "images/trees/feijoa-wiki-tu/feijoa-wiki-tu-fruit.jpg",
-        "alt": "feijoa wiki tu fruit"
+        "src": "images/trees/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava-fruit.jpg",
+        "alt": "feijoa sellowiana wiki tu feijoa pineapple guava fruit"
       }
     ],
     "links": []

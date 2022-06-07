@@ -828,3 +828,81 @@
     from = "/trees/corokia-cheesemanii-korokio/"
     status = 301
     to = "/trees/corokia-x-cheesemanii-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-apollo/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-apollo-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-dens-choice/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-dens-choice-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-gemini/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-gemini-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-golden-goose/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-golden-goose-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-kaiteri/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-kaiteri-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-kakariki/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-kakariki-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-mammoth/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-mammoth-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-opal-star/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-opal-star-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-pounamu/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-pounamu-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-takaka/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-takaka-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-triumph/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-triumph-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-unique/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-unique-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-wiki-tu/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/"
