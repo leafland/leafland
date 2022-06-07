@@ -654,3 +654,177 @@
     from = "/trees/cherry-summit/"
     status = 301
     to = "/trees/prunus-avium-summit-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-sublime-lime/"
+    status = 301
+    to = "/trees/citrus-x-aurantiifolia-sublime-key-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-bearss-lime/"
+    status = 301
+    to = "/trees/citrus-x-latifolia-bearss-persian-lime-tahiti-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-tahitian-lime/"
+    status = 301
+    to = "/trees/citrus-x-latifolia-tahitian-persian-lime-tahiti-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-eureka-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-eureka-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-villa-franca-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-villa-franca-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-yen-ben-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-yen-ben-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemonade-lemonade/"
+    status = 301
+    to = "/trees/citrus-limon-x-reticulata-lemonade-lemon-lemonade-fruit-new-zealand-lemonade/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-meyer-lemon/"
+    status = 301
+    to = "/trees/citrus-x-meyeri-meyer-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-grapefruit-golden-special-grapefruit/"
+    status = 301
+    to = "/trees/citrus-x-paradisi-golden-special-grapefruit/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-grapefruit-star-ruby-grapefruit/"
+    status = 301
+    to = "/trees/citrus-x-paradisi-star-ruby-grapefruit/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-encore-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-encore-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-miho-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-miho-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-okitsu-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-okitsu-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-satsuma-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-satsuma-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-bests-seedless-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-bests-seedless-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-carters-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-carters-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-parent-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-parent-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-fukumoto-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-fukumoto-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-valencia-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-valencia-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-washington-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-washington-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-bronze-king-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-bronze-king-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-emerald-and-jade-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-emerald-and-jade-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-frosted-chocolate-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-frosted-chocolate-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-ghost-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-ghost-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-giant-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-giant-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-green-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-green-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-phantom-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-phantom-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-mangatangi-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-mangatangi-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-cheesemanii-korokio/"
+    status = 301
+    to = "/trees/corokia-x-cheesemanii-korokio/"
