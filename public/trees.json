@@ -17024,8 +17024,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Chimonanthus",
+    "species": "praecox",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -17101,8 +17101,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Choisya",
+    "species": "ternata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -17174,8 +17174,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Cinnamomum",
+    "species": "camphora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -17235,18 +17235,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "aurantiifolia",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sublime",
     "synonyms": [],
-    "commonName": "Grapefruit",
-    "url": "citrus-grapefruit-golden-special-grapefruit",
-    "mainImage": "citrus-grapefruit-golden-special-grapefruit/citrus-grapefruit-golden-special-grapefruit.jpg",
-    "description": "Thin-skinned grapefruit with few seeds. Golden-yellow skin with orange flesh. A heavy-bearer that produces juicy, sweet, and tangy grapefruit. Scented white flowers throughout summer. Fruits from mid-winter to late-spring. Self-fertile.",
+    "commonName": "Key Lime",
+    "url": "citrus-x-aurantiifolia-sublime-key-lime",
+    "mainImage": "citrus-x-aurantiifolia-sublime-key-lime/citrus-x-aurantiifolia-sublime-key-lime.jpg",
+    "description": "<i>Citrus</i> x <i>aurantiifolia</i> is a hybrid between <i>Citrus hystrix</i> and <i>Citrus medica</i>. Compact grower that is virtually thornless. Grows well in a large pot. Great for small gardens. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Fruit is used for cooking and flavouring drinks. Crops through winter. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -17254,8 +17254,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "3m",
-    "width": "3m",
+    "height": "2m",
+    "width": "1m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -17277,37 +17277,37 @@
     "fruit": {
       "summer": "",
       "autumn": "",
-      "winter": "yellow",
-      "spring": "yellow"
+      "winter": "green, yellow",
+      "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-grapefruit-golden-special-grapefruit/citrus-grapefruit-golden-special-grapefruit-flower.jpg",
-        "alt": "citrus grapefruit golden special grapefruit flower"
+        "src": "images/trees/citrus-x-aurantiifolia-sublime-key-lime/citrus-x-aurantiifolia-sublime-key-lime-cut-fruit.jpg",
+        "alt": "citrus x aurantiifolia sublime key lime cut fruit"
       },
       {
-        "src": "images/trees/citrus-grapefruit-golden-special-grapefruit/citrus-grapefruit-golden-special-grapefruit-tree.jpg",
-        "alt": "citrus grapefruit golden special grapefruit tree"
+        "src": "images/trees/citrus-x-aurantiifolia-sublime-key-lime/citrus-x-aurantiifolia-sublime-key-lime-fruit.jpeg",
+        "alt": "citrus x aurantiifolia sublime key lime fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "latifolia",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Bearss",
     "synonyms": [],
-    "commonName": "Grapefruit",
-    "url": "citrus-grapefruit-star-ruby-grapefruit",
-    "mainImage": "citrus-grapefruit-star-ruby-grapefruit/citrus-grapefruit-star-ruby-grapefruit.jpg",
-    "description": "Produces abundant crops of juicy, red-fleshed fruit with yellow-orange skin. Fruit ripens from late-winter to mid-spring. The intensity of the red flesh lessens in cooler climates. Fruit holds well on the tree. Low-seeded or seedless in some cases. Scented white flowers throughout summer. Self-fertile.",
+    "commonName": "Persian Lime, Tahiti Lime",
+    "url": "citrus-x-latifolia-bearss-persian-lime-tahiti-lime",
+    "mainImage": "citrus-x-latifolia-bearss-persian-lime-tahiti-lime/citrus-x-latifolia-bearss-persian-lime-tahiti-lime.jpg",
+    "description": "<i>Citrus</i> x <i>latifolia</i> is a hybrid between <i>Citrus</i> x <i>aurantiifolia</i> and <i>Citrus</i> x <i>limon</i>. A heavier-bearing lime, which is cold-hardy. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to green-yellow. Crops through winter and in summer. Has a high juice content. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -17316,7 +17316,59 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "green, yellow",
+      "autumn": "",
+      "winter": "green, yellow",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Citrus",
+    "species": "",
+    "hybrid": "latifolia",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tahitian",
+    "synonyms": [],
+    "commonName": "Persian Lime, Tahiti Lime",
+    "url": "citrus-x-latifolia-tahitian-persian-lime-tahiti-lime",
+    "mainImage": "citrus-x-latifolia-tahitian-persian-lime-tahiti-lime/citrus-x-latifolia-tahitian-persian-lime-tahiti-lime.jpg",
+    "description": "<i>Citrus</i> x <i>latifolia</i> is a hybrid between <i>Citrus</i> x <i>aurantiifolia</i> and <i>Citrus</i> x <i>limon</i>. The most cold-hardy lime for home gardens and quick to commence fruiting. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Crops through winter. Has a high juice content. Excellent for containers. Scented white flowers throughout summer. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "2m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -17338,40 +17390,32 @@
     "fruit": {
       "summer": "",
       "autumn": "",
-      "winter": "yellow, orange",
-      "spring": "yellow, orange"
+      "winter": "green, yellow",
+      "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-grapefruit-star-ruby-grapefruit/citrus-grapefruit-star-ruby-grapefruit-board.jpg",
-        "alt": "citrus grapefruit star ruby grapefruit board"
-      },
-      {
-        "src": "images/trees/citrus-grapefruit-star-ruby-grapefruit/citrus-grapefruit-star-ruby-grapefruit-pieces.jpg",
-        "alt": "citrus grapefruit star ruby grapefruit pieces"
-      },
-      {
-        "src": "images/trees/citrus-grapefruit-star-ruby-grapefruit/citrus-grapefruit-star-ruby-grapefruit-slices.jpg",
-        "alt": "citrus grapefruit star ruby grapefruit slices"
+        "src": "images/trees/citrus-x-latifolia-tahitian-persian-lime-tahiti-lime/citrus-x-latifolia-tahitian-persian-lime-tahiti-lime-fruit.jpeg",
+        "alt": "citrus x latifolia tahitian persian lime tahiti lime fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "limon",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Eureka",
     "synonyms": [],
     "commonName": "Lemon",
-    "url": "citrus-lemon-eureka-lemon",
-    "mainImage": "citrus-lemon-eureka-lemon/citrus-lemon-eureka-lemon.jpg",
+    "url": "citrus-x-limon-eureka-lemon",
+    "mainImage": "citrus-x-limon-eureka-lemon/citrus-x-limon-eureka-lemon.jpg",
     "description": "An almost thornless variety that produces juicy, highly-sour fruit with very few seeds. Eureka is a true lemon so will have a more sour taste than hybrid lemons. Once established, will fruit all year round. Produces the biggest crops in spring and summer. Scented white flowers throughout the year. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17410,86 +17454,25 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-lemon-eureka-lemon/citrus-lemon-eureka-lemon-fruit.jpg",
-        "alt": "citrus lemon eureka lemon fruit"
+        "src": "images/trees/citrus-x-limon-eureka-lemon/citrus-x-limon-eureka-lemon-fruit.jpg",
+        "alt": "citrus x limon eureka lemon fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "limon",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Villa Franca",
     "synonyms": [],
     "commonName": "Lemon",
-    "url": "citrus-lemon-meyer-lemon",
-    "mainImage": "citrus-lemon-meyer-lemon/citrus-lemon-meyer-lemon.jpg",
-    "description": "The most popular lemon for home gardens. Cold-hardy and quick to commence fruiting. Has a low-spreading growth habit which will make a large bush. Large fruit have a high juice content with lower acid level than other varieties. Meyer is a hybrid lemon so will have a sweeter taste than true lemons. Excellent for containers. Once established, will fruit all year round. Produces the biggest crops in autumn and winter. Scented white flowers throughout the year. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "white",
-      "winter": "white",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow",
-      "autumn": "yellow",
-      "winter": "yellow",
-      "spring": "yellow"
-    },
-    "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/citrus-lemon-meyer-lemon/citrus-lemon-meyer-lemon-bush.jpg",
-        "alt": "citrus lemon meyer lemon bush"
-      },
-      {
-        "src": "images/trees/citrus-lemon-meyer-lemon/citrus-lemon-meyer-lemon-fruit.jpeg",
-        "alt": "citrus lemon meyer lemon fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Lemon",
-    "url": "citrus-lemon-villa-franca-lemon",
-    "mainImage": "citrus-lemon-villa-franca-lemon/citrus-lemon-villa-franca-lemon.jpg",
+    "url": "citrus-x-limon-villa-franca-lemon",
+    "mainImage": "citrus-x-limon-villa-franca-lemon/citrus-x-limon-villa-franca-lemon.jpg",
     "description": "An almost thornless variety that produces juicy, highly-sour fruit with very few seeds. Villa Franca is a true lemon so will have a more sour taste than hybrid lemons. Fruit ripens in winter. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17528,25 +17511,25 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-lemon-villa-franca-lemon/citrus-lemon-villa-franca-lemon-fruit.jpg",
-        "alt": "citrus lemon villa franca lemon fruit"
+        "src": "images/trees/citrus-x-limon-villa-franca-lemon/citrus-x-limon-villa-franca-lemon-fruit.jpg",
+        "alt": "citrus x limon villa franca lemon fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "limon",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Yen Ben",
     "synonyms": [],
     "commonName": "Lemon",
-    "url": "citrus-lemon-yen-ben-lemon",
-    "mainImage": "citrus-lemon-yen-ben-lemon/citrus-lemon-yen-ben-lemon.jpg",
+    "url": "citrus-x-limon-yen-ben-lemon",
+    "mainImage": "citrus-x-limon-yen-ben-lemon/citrus-x-limon-yen-ben-lemon.jpg",
     "description": "This is an improved version of Lisbon lemon with a compact growth habit. Yen Ben is a true lemon so will have a more sour taste than hybrid lemons. The large, oval fruits are tangy and considered excellent for culinary use. Fruit ripens in mid to late-winter. One of the hardiest lemons. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17588,17 +17571,17 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "limon x reticulata",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Lemonade",
-    "url": "citrus-lemonade-lemonade",
-    "mainImage": "citrus-lemonade-lemonade/citrus-lemonade-lemonade.jpg",
+    "commonName": "Lemonade Lemon, Lemonade Fruit, New Zealand Lemonade",
+    "url": "citrus-limon-x-reticulata-lemonade-lemon-lemonade-fruit-new-zealand-lemonade",
+    "mainImage": "citrus-limon-x-reticulata-lemonade-lemon-lemonade-fruit-new-zealand-lemonade/citrus-limon-x-reticulata-lemonade-lemon-lemonade-fruit-new-zealand-lemonade.jpg",
     "description": "Similar to a lemon with pale-yellow fruit. Juicy fruit has a mild, fresh, grapefruit-like flavour. Very refreshing to eat off the tree. A heavy cropper in mid-winter to early-spring, with smaller summer crops sometimes occurring. Excellent for containers. Scented white flowers throughout spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17640,18 +17623,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "meyeri",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Lime",
-    "url": "citrus-lime-bearss-lime",
-    "mainImage": "citrus-lime-bearss-lime/citrus-lime-bearss-lime.jpg",
-    "description": "A heavier-bearing selection of Tahitian lime, which is cold-hardy. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to green-yellow. Crops through winter and in summer. Has a high juice content. Scented white flowers throughout summer. Self-fertile.",
+    "commonName": "Meyer Lemon",
+    "url": "citrus-x-meyeri-meyer-lemon",
+    "mainImage": "citrus-x-meyeri-meyer-lemon/citrus-x-meyeri-meyer-lemon.jpg",
+    "description": "Most likely a hybrid between <i>Citrus medica</i> and the hybrid formed between <i>Citrus maxima</i> and <i>Citrus reticulata</i>. The most popular lemon for home gardens. Cold-hardy and quick to commence fruiting. Has a low-spreading growth habit which will make a large bush. Large fruit have a high juice content with lower acid level than other varieties. Meyer is a hybrid lemon so will have a sweeter taste than true lemons. Excellent for containers. Once established, will fruit all year round. Produces the biggest crops in autumn and winter. Scented white flowers throughout the year. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -17669,9 +17652,9 @@
     },
     "flowers": {
       "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
+      "autumn": "white",
+      "winter": "white",
+      "spring": "white"
     },
     "foliage": {
       "summer": "green",
@@ -17680,91 +17663,39 @@
       "spring": "green"
     },
     "fruit": {
-      "summer": "green, yellow",
-      "autumn": "",
-      "winter": "green, yellow",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Lime",
-    "url": "citrus-lime-sublime-lime",
-    "mainImage": "citrus-lime-sublime-lime/citrus-lime-sublime-lime.jpg",
-    "description": "Compact grower that is virtually thornless. Grows well in a large pot. Great for small gardens. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Fruit is used for cooking and flavouring drinks. Crops through winter. Scented white flowers throughout summer. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "2m",
-    "width": "1m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "green, yellow",
-      "spring": ""
+      "summer": "yellow",
+      "autumn": "yellow",
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-lime-sublime-lime/citrus-lime-sublime-lime-cut-fruit.jpg",
-        "alt": "citrus lime sublime lime cut fruit"
+        "src": "images/trees/citrus-x-meyeri-meyer-lemon/citrus-x-meyeri-meyer-lemon-bush.jpg",
+        "alt": "citrus x meyeri meyer lemon bush"
       },
       {
-        "src": "images/trees/citrus-lime-sublime-lime/citrus-lime-sublime-lime-fruit.jpeg",
-        "alt": "citrus lime sublime lime fruit"
+        "src": "images/trees/citrus-x-meyeri-meyer-lemon/citrus-x-meyeri-meyer-lemon-fruit.jpeg",
+        "alt": "citrus x meyeri meyer lemon fruit"
       }
     ],
-    "links": []
+    "links": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817432/"]
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "paradisi",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Golden Special",
     "synonyms": [],
-    "commonName": "Lime",
-    "url": "citrus-lime-tahitian-lime",
-    "mainImage": "citrus-lime-tahitian-lime/citrus-lime-tahitian-lime.jpg",
-    "description": "The most cold-hardy lime for home gardens and quick to commence fruiting. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Crops through winter. Has a high juice content. Excellent for containers. Scented white flowers throughout summer. Self-fertile.",
+    "commonName": "Grapefruit",
+    "url": "citrus-x-paradisi-golden-special-grapefruit",
+    "mainImage": "citrus-x-paradisi-golden-special-grapefruit/citrus-x-paradisi-golden-special-grapefruit.jpg",
+    "description": "<i>Citrus</i> x <i>paradisi</i> is a hybrid between <i>Citrus sinensis</i> and <i>Citrus maxima</i>. Thin-skinned grapefruit with few seeds. Golden-yellow skin with orange flesh. A heavy-bearer that produces juicy, sweet, and tangy grapefruit. Scented white flowers throughout summer. Fruits from mid-winter to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -17772,8 +17703,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "2m",
-    "width": "2m",
+    "height": "3m",
+    "width": "3m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -17795,32 +17726,101 @@
     "fruit": {
       "summer": "",
       "autumn": "",
-      "winter": "green, yellow",
-      "spring": ""
+      "winter": "yellow",
+      "spring": "yellow"
     },
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-lime-tahitian-lime/citrus-lime-tahitian-lime-fruit.jpeg",
-        "alt": "citrus lime tahitian lime fruit"
+        "src": "images/trees/citrus-x-paradisi-golden-special-grapefruit/citrus-x-paradisi-golden-special-grapefruit-flower.jpg",
+        "alt": "citrus x paradisi golden special grapefruit flower"
+      },
+      {
+        "src": "images/trees/citrus-x-paradisi-golden-special-grapefruit/citrus-x-paradisi-golden-special-grapefruit-tree.jpg",
+        "alt": "citrus x paradisi golden special grapefruit tree"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
+    "hybrid": "paradisi",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Star Ruby",
+    "synonyms": [],
+    "commonName": "Grapefruit",
+    "url": "citrus-x-paradisi-star-ruby-grapefruit",
+    "mainImage": "citrus-x-paradisi-star-ruby-grapefruit/citrus-x-paradisi-star-ruby-grapefruit.jpg",
+    "description": "<i>Citrus</i> x <i>paradisi</i> is a hybrid between <i>Citrus sinensis</i> and <i>Citrus maxima</i>. Produces abundant crops of juicy, red-fleshed fruit with yellow-orange skin. Fruit ripens from late-winter to mid-spring. The intensity of the red flesh lessens in cooler climates. Fruit holds well on the tree. Low-seeded or seedless in some cases. Scented white flowers throughout summer. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "yellow, orange",
+      "spring": "yellow, orange"
+    },
+    "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/citrus-x-paradisi-star-ruby-grapefruit/citrus-x-paradisi-star-ruby-grapefruit-board.jpg",
+        "alt": "citrus x paradisi star ruby grapefruit board"
+      },
+      {
+        "src": "images/trees/citrus-x-paradisi-star-ruby-grapefruit/citrus-x-paradisi-star-ruby-grapefruit-pieces.jpg",
+        "alt": "citrus x paradisi star ruby grapefruit pieces"
+      },
+      {
+        "src": "images/trees/citrus-x-paradisi-star-ruby-grapefruit/citrus-x-paradisi-star-ruby-grapefruit-slices.jpg",
+        "alt": "citrus x paradisi star ruby grapefruit slices"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Citrus",
+    "species": "reticulata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Encore",
     "synonyms": [],
     "commonName": "Mandarin",
-    "url": "citrus-mandarin-encore-mandarin",
-    "mainImage": "citrus-mandarin-encore-mandarin/citrus-mandarin-encore-mandarin.jpg",
+    "url": "citrus-reticulata-encore-mandarin",
+    "mainImage": "citrus-reticulata-encore-mandarin/citrus-reticulata-encore-mandarin.jpg",
     "description": "Medium-sized fruit with a thin, yellow-orange rind. Deep-orange, juicy flesh with a rich flavour. Fruits from late-spring to late-summer. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17859,25 +17859,25 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-mandarin-encore-mandarin/citrus-mandarin-encore-mandarin-fruit.jpg",
-        "alt": "citrus mandarin encore mandarin fruit"
+        "src": "images/trees/citrus-reticulata-encore-mandarin/citrus-reticulata-encore-mandarin-fruit.jpg",
+        "alt": "citrus reticulata encore mandarin fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Citrus",
+    "species": "reticulata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Miho",
     "synonyms": [],
     "commonName": "Mandarin",
-    "url": "citrus-mandarin-miho-mandarin",
-    "mainImage": "citrus-mandarin-miho-mandarin/citrus-mandarin-miho-mandarin.jpg",
+    "url": "citrus-reticulata-miho-mandarin",
+    "mainImage": "citrus-reticulata-miho-mandarin/citrus-reticulata-miho-mandarin.jpg",
     "description": "A superior, easy to peel, Satsuma selection with an upright, spreading growth habit. Sweet and juicy. Fruit ripens through winter. Excellent for containers. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17916,25 +17916,25 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-mandarin-miho-mandarin/citrus-mandarin-miho-mandarin-fruit.jpg",
-        "alt": "citrus mandarin miho mandarin fruit"
+        "src": "images/trees/citrus-reticulata-miho-mandarin/citrus-reticulata-miho-mandarin-fruit.jpg",
+        "alt": "citrus reticulata miho mandarin fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Citrus",
+    "species": "reticulata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Okitsu",
     "synonyms": [],
     "commonName": "Mandarin",
-    "url": "citrus-mandarin-okitsu-mandarin",
-    "mainImage": "citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin.jpg",
+    "url": "citrus-reticulata-okitsu-mandarin",
+    "mainImage": "citrus-reticulata-okitsu-mandarin/citrus-reticulata-okitsu-mandarin.jpg",
     "description": "A seedless, large-fruiting variety. Fruit with yellow-orange skin has easy to peel skin and easy to separate segments. Fruits in autumn. White flowers in summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -17973,29 +17973,29 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin-fruit.jpg",
-        "alt": "citrus mandarin okitsu mandarin fruit"
+        "src": "images/trees/citrus-reticulata-okitsu-mandarin/citrus-reticulata-okitsu-mandarin-fruit.jpg",
+        "alt": "citrus reticulata okitsu mandarin fruit"
       },
       {
-        "src": "images/trees/citrus-mandarin-okitsu-mandarin/citrus-mandarin-okitsu-mandarin-fruiting.jpg",
-        "alt": "citrus mandarin okitsu mandarin fruiting"
+        "src": "images/trees/citrus-reticulata-okitsu-mandarin/citrus-reticulata-okitsu-mandarin-fruiting.jpg",
+        "alt": "citrus reticulata okitsu mandarin fruiting"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Citrus",
+    "species": "reticulata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Satsuma",
     "synonyms": [],
     "commonName": "Mandarin",
-    "url": "citrus-mandarin-satsuma-mandarin",
-    "mainImage": "citrus-mandarin-satsuma-mandarin/citrus-mandarin-satsuma-mandarin.jpg",
+    "url": "citrus-reticulata-satsuma-mandarin",
+    "mainImage": "citrus-reticulata-satsuma-mandarin/citrus-reticulata-satsuma-mandarin.jpg",
     "description": "Easy to peel, cold-hardy mandarin with heavy crops of juicy, mild-flavoured, seedless fruit. Slower-growing and well suited to growing in containers. Fruit ripens in early-winter. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -18034,26 +18034,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-mandarin-satsuma-mandarin/citrus-mandarin-satsuma-mandarin-fruit.jpg",
-        "alt": "citrus mandarin satsuma mandarin fruit"
+        "src": "images/trees/citrus-reticulata-satsuma-mandarin/citrus-reticulata-satsuma-mandarin-fruit.jpg",
+        "alt": "citrus reticulata satsuma mandarin fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Best's Seedless",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-bests-seedless-orange",
-    "mainImage": "citrus-orange-bests-seedless-orange/citrus-orange-bests-seedless-orange.jpg",
-    "description": "New Zealand selection of navel orange. Has sweet, juicy, and seedless flesh. Fruits from late-winter to late-spring. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-bests-seedless-orange",
+    "mainImage": "citrus-x-sinensis-bests-seedless-orange/citrus-x-sinensis-bests-seedless-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. New Zealand selection of navel orange. Has sweet, juicy, and seedless flesh. Fruits from late-winter to late-spring. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18091,26 +18091,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-orange-bests-seedless-orange/citrus-orange-bests-seedless-orange-fruit.jpg",
-        "alt": "citrus orange bests seedless orange fruit"
+        "src": "images/trees/citrus-x-sinensis-bests-seedless-orange/citrus-x-sinensis-bests-seedless-orange-fruit.jpg",
+        "alt": "citrus x sinensis bests seedless orange fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Carter's Navel",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-carters-navel-orange",
-    "mainImage": "citrus-orange-carters-navel-orange/citrus-orange-carters-navel-orange.jpg",
-    "description": "A sweet, juicy, and seedless variety of excellent flavour. Remaining juicy for 2 to 3 months if left on the tree. Fruit ripens in late-winter. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-carters-navel-orange",
+    "mainImage": "citrus-x-sinensis-carters-navel-orange/citrus-x-sinensis-carters-navel-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. A sweet, juicy, and seedless variety of excellent flavour. Remaining juicy for 2 to 3 months if left on the tree. Fruit ripens in late-winter. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18148,26 +18148,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-orange-carters-navel-orange/citrus-orange-carters-navel-orange-fruiting.jpg",
-        "alt": "citrus orange carters navel orange fruiting"
+        "src": "images/trees/citrus-x-sinensis-carters-navel-orange/citrus-x-sinensis-carters-navel-orange-fruiting.jpg",
+        "alt": "citrus x sinensis carters navel orange fruiting"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Parent Navel",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-parent-navel-orange",
-    "mainImage": "citrus-orange-parent-navel-orange/citrus-orange-parent-navel-orange.jpg",
-    "description": "Produces very juicy and sweet fruit. The fruit are practically seedless and easy to peel. Fruit ripens in late-winter. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-parent-navel-orange",
+    "mainImage": "citrus-x-sinensis-parent-navel-orange/citrus-x-sinensis-parent-navel-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. Produces very juicy and sweet fruit. The fruit are practically seedless and easy to peel. Fruit ripens in late-winter. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18205,26 +18205,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-orange-parent-navel-orange/citrus-orange-parent-navel-orange-fruit.jpg",
-        "alt": "citrus orange parent navel orange fruit"
+        "src": "images/trees/citrus-x-sinensis-parent-navel-orange/citrus-x-sinensis-parent-navel-orange-fruit.jpg",
+        "alt": "citrus x sinensis parent navel orange fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Fukumoto",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-fukumoto-orange",
-    "mainImage": "citrus-orange-fukumoto-orange/citrus-orange-fukumoto-orange.jpg",
-    "description": "Sweet, juicy, seedless fruit with a strong red-orange tinge to the rind. Excellent flavour, ripening in late-winter. Grow in full-sun. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-fukumoto-orange",
+    "mainImage": "citrus-x-sinensis-fukumoto-orange/citrus-x-sinensis-fukumoto-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. Sweet, juicy, seedless fruit with a strong red-orange tinge to the rind. Excellent flavour, ripening in late-winter. Grow in full-sun. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18265,18 +18265,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Valencia",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-valencia-orange",
-    "mainImage": "citrus-orange-valencia-orange/citrus-orange-valencia-orange.jpg",
-    "description": "Bright-orange fruit with thin skin. Flesh is firm with a rich, sweet flavour and few seeds. Fruits from mid-spring to early-autumn. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-valencia-orange",
+    "mainImage": "citrus-x-sinensis-valencia-orange/citrus-x-sinensis-valencia-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. Bright-orange fruit with thin skin. Flesh is firm with a rich, sweet flavour and few seeds. Fruits from mid-spring to early-autumn. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18314,34 +18314,34 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-orange-valencia-orange/citrus-orange-valencia-orange-fruit.jpg",
-        "alt": "citrus orange valencia orange fruit"
+        "src": "images/trees/citrus-x-sinensis-valencia-orange/citrus-x-sinensis-valencia-orange-fruit.jpg",
+        "alt": "citrus x sinensis valencia orange fruit"
       },
       {
-        "src": "images/trees/citrus-orange-valencia-orange/citrus-orange-valencia-orange-fruiting.jpg",
-        "alt": "citrus orange valencia orange fruiting"
+        "src": "images/trees/citrus-x-sinensis-valencia-orange/citrus-x-sinensis-valencia-orange-fruiting.jpg",
+        "alt": "citrus x sinensis valencia orange fruiting"
       },
       {
-        "src": "images/trees/citrus-orange-valencia-orange/citrus-orange-valencia-orange-harvested-fruit.jpg",
-        "alt": "citrus orange valencia orange harvested fruit"
+        "src": "images/trees/citrus-x-sinensis-valencia-orange/citrus-x-sinensis-valencia-orange-harvested-fruit.jpg",
+        "alt": "citrus x sinensis valencia orange harvested fruit"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Citrus",
     "species": "",
-    "hybrid": "",
+    "hybrid": "sinensis",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Washington Navel",
     "synonyms": [],
     "commonName": "Orange",
-    "url": "citrus-orange-washington-navel-orange",
-    "mainImage": "citrus-orange-washington-navel-orange/citrus-orange-washington-navel-orange.jpg",
-    "description": "Popular variety. The large, sweet, seedless fruit have excellent flavour and plenty of juice. Ripens from mid to late-winter, and will hold well on the tree for several months. Scented white flowers throughout summer. Self-fertile.",
+    "url": "citrus-x-sinensis-washington-navel-orange",
+    "mainImage": "citrus-x-sinensis-washington-navel-orange/citrus-x-sinensis-washington-navel-orange.jpg",
+    "description": "<i>Citrus</i> x <i>sinensis</i> is a hybrid between <i>Citrus reticulata</i> and <i>Citrus maxima</i>. Popular variety. The large, sweet, seedless fruit have excellent flavour and plenty of juice. Ripens from mid to late-winter, and will hold well on the tree for several months. Scented white flowers throughout summer. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -18379,8 +18379,8 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/citrus-orange-washington-navel-orange/citrus-orange-washington-navel-orange-fruiting.jpg",
-        "alt": "citrus orange washington navel orange fruiting"
+        "src": "images/trees/citrus-x-sinensis-washington-navel-orange/citrus-x-sinensis-washington-navel-orange-fruiting.jpg",
+        "alt": "citrus x sinensis washington navel orange fruiting"
       }
     ],
     "links": []
@@ -59563,6 +59563,15 @@
         "variety": "",
         "form": "",
         "cultivar": "Shogetsu"
+      },
+      {
+        "genus": "Prunus",
+        "species": "serrulata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Shimizu-zakura"
       }
     ],
     "commonName": "Japanese Cherry",

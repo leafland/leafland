@@ -124,17 +124,23 @@ async function getProductStockData() {
   let treeName;
   if (treeCommonName.textContent.search("serrula") !== -1) {
     treeName = treeBotanicalName.textContent + " serrula interstem";
-  } 
-  else {
+  } else {
     treeName = treeBotanicalName.textContent;
   }
   grades = await fetch(
     `https://api.leafland.co.nz/default/get-tree-stock-data?treeName=${treeName
-      .replace('Prunus dulcis', 'Almond')
-      .replace('Malus domestica', 'Apple')
-      .replace('Prunus armeniaca', 'Apricot')
-      .replace('Persea americana', 'Avocado')
-      .replace('Prunus avium', 'Cherry')
+      .replace("Prunus dulcis", "Almond")
+      .replace("Malus domestica", "Apple")
+      .replace("Prunus armeniaca", "Apricot")
+      .replace("Persea americana", "Avocado")
+      .replace("Prunus avium", "Cherry")
+      .replace("Citrus x paradisi", "Citrus grapefruit")
+      .replace("Citrus x limon", "Citrus lemon")
+      .replace("Citrus x meyeri", "Citrus lemon Meyer")
+      .replace("Citrus limon x reticulata", "Citrus Lemonade")
+      .replace("Citrus x latifolia", "Citrus lime")
+      .replace("Citrus reticulata", "Citrus mandarin")
+      .replace("Citrus x sinensis", "Citrus orange")
       .trim()
       .replace(/ã/g, "a")
       .replace(/é/g, "e")
@@ -786,11 +792,18 @@ async function createStockTable() {
     return (
       testItem ===
       treeBotanicalName.textContent
-        .replace('Prunus dulcis', 'Almond')
-        .replace('Malus domestica', 'Apple')
-        .replace('Prunus armeniaca', 'Apricot')
-        .replace('Persea americana', 'Avocado')
-        .replace('Prunus avium', 'Cherry')
+        .replace("Prunus dulcis", "Almond")
+        .replace("Malus domestica", "Apple")
+        .replace("Prunus armeniaca", "Apricot")
+        .replace("Persea americana", "Avocado")
+        .replace("Prunus avium", "Cherry")
+        .replace("Citrus x paradisi", "Citrus grapefruit")
+        .replace("Citrus x limon", "Citrus lemon")
+        .replace("Citrus x meyeri", "Citrus lemon Meyer")
+        .replace("Citrus limon x reticulata", "Citrus Lemonade")
+        .replace("Citrus x latifolia", "Citrus lime")
+        .replace("Citrus reticulata", "Citrus mandarin")
+        .replace("Citrus x sinensis", "Citrus orange")
         .trim()
         .replace(/ã/g, "a")
         .replace(/é/g, "e")
