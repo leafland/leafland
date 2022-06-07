@@ -617,7 +617,7 @@
     force = true
     from = "/trees/camellia-yuletide-sasanqua-camellia/"
     status = 301
-    to = "/trees/camellia-vernalis-yuletide-camellia/"
+    to = "/trees/camellia-x-vernalis-yuletide-camellia/"
 
 [[redirects]]
     force = true
