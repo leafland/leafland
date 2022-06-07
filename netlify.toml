@@ -906,3 +906,57 @@
     from = "/trees/feijoa-wiki-tu/"
     status = 301
     to = "/trees/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brown-turkey/"
+    status = 301
+    to = "/trees/ficus-carica-brown-turkey-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brunoro-black/"
+    status = 301
+    to = "/trees/ficus-carica-brunoro-black-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brunswick/"
+    status = 301
+    to = "/trees/ficus-carica-brunswick-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-french-sugar/"
+    status = 301
+    to = "/trees/ficus-carica-french-sugar-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-lesa/"
+    status = 301
+    to = "/trees/ficus-carica-lesa-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-mrs-williams/"
+    status = 301
+    to = "/trees/ficus-carica-mrs-williams-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-panache/"
+    status = 301
+    to = "/trees/ficus-carica-panache-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-sweet-black/"
+    status = 301
+    to = "/trees/ficus-carica-sweet-black-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-ventura/"
+    status = 301
+    to = "/trees/ficus-carica-ventura-fig/"
