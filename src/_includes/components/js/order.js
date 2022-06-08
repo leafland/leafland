@@ -8,8 +8,8 @@ let productList = document.createElement("ul");
 productList.classList.add("order-product-list");
 const orderUpdated = new Event("orderUpdated");
 
-let totalRetailCost = localStorage.getItem("totalRetailCost");
-let totalWholesaleCost = localStorage.getItem("totalWholesaleCost");
+let totalRetailCost = sessionStorage.getItem("totalRetailCost");
+let totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
 let orderTrees;
 
@@ -34,18 +34,18 @@ function displayEmptyOrder() {
 
   orderContent.appendChild(empty);
   totalCostText.style.setProperty("visibility", "hidden");
-  localStorage.setItem("totalRetailCost", "0");
-  localStorage.setItem("totalWholesaleCost", "0");
+  sessionStorage.setItem("totalRetailCost", "0");
+  sessionStorage.setItem("totalWholesaleCost", "0");
 
   submitOrder.classList.add("disabled");
 }
 
 async function updateOrder() {
-  orderTrees = JSON.parse(localStorage.getItem("trees"));
+  orderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
   if (!(orderTrees.length === 0)) {
-    totalRetailCost = localStorage.getItem("totalRetailCost");
-    totalWholesaleCost = localStorage.getItem("totalWholesaleCost");
+    totalRetailCost = sessionStorage.getItem("totalRetailCost");
+    totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
     totalCostText.style.setProperty("visibility", "visible");
     let emptyOrder = document.querySelector(".empty-message");
@@ -274,9 +274,9 @@ async function updateOrder() {
 }
 
 function updateStorage() {
-  localStorage.setItem("trees", JSON.stringify(orderTrees));
-  localStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
-  localStorage.setItem(
+  sessionStorage.setItem("trees", JSON.stringify(orderTrees));
+  sessionStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
+  sessionStorage.setItem(
     "totalWholesaleCost",
     JSON.stringify(totalWholesaleCost)
   );
@@ -290,7 +290,7 @@ closeOrder.addEventListener("click", () => {
   document.body.classList.remove("order-open");
 });
 window.addEventListener("storage", () => {
-  localStorage.getItem("loggedIn") === "true"
+  sessionStorage.getItem("loggedIn") === "true"
     ? (loggedIn = true)
     : (loggedIn = false);
   updateOrder();

@@ -2,8 +2,8 @@ let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
-if (localStorage.getItem("trees") === null) {
-  localStorage.setItem("trees", "[]");
+if (sessionStorage.getItem("trees") === null) {
+  sessionStorage.setItem("trees", "[]");
 }
 
 window.addEventListener("loginUpdated", () => {

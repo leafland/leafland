@@ -35,7 +35,7 @@ let stockTableDiv = document.querySelector("#stock-table-div");
 let heightValues = 0;
 let standardHeightValues = 0;
 
-let productTrees = JSON.parse(localStorage.getItem("trees"));
+let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
 
@@ -437,8 +437,8 @@ async function createStockValues() {
   }
 }
 
-function addTreeToLocalStorage() {
-  productTrees = JSON.parse(localStorage.getItem("trees"));
+function addTreeToSessionStorage() {
+  productTrees = JSON.parse(sessionStorage.getItem("trees"));
   let totalRetailCost = 0;
   let totalWholesaleCost = 0;
 
@@ -529,9 +529,9 @@ function addTreeToLocalStorage() {
       tree.quantity * parseInt(tree.wholesalePrice.slice(1), 10);
   });
 
-  localStorage.setItem("trees", JSON.stringify(productTrees));
-  localStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
-  localStorage.setItem(
+  sessionStorage.setItem("trees", JSON.stringify(productTrees));
+  sessionStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
+  sessionStorage.setItem(
     "totalWholesaleCost",
     JSON.stringify(totalWholesaleCost)
   );
@@ -893,12 +893,12 @@ async function createStockTable() {
 function addEventListeners() {
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
-      productTrees = JSON.parse(localStorage.getItem(event.key));
+      productTrees = JSON.parse(sessionStorage.getItem(event.key));
     }
   });
 
   addToOrderButton.addEventListener("click", () => {
-    addTreeToLocalStorage();
+    addTreeToSessionStorage();
     window.dispatchEvent(productAdded);
 
     if (maximumQuantityReached) {

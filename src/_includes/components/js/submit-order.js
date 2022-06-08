@@ -7,7 +7,7 @@ let region = document.querySelector("#region");
 
 let emptyMessage = document.querySelector("#empty-message");
 let freightData = [];
-let submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+let submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 let total;
 let freightTotal = document.querySelector("#freight-total");
@@ -43,8 +43,8 @@ async function populateForm() {
     });
   }
 
-  totalRetailCost = localStorage.getItem("totalRetailCost");
-  totalWholesaleCost = localStorage.getItem("totalWholesaleCost");
+  totalRetailCost = sessionStorage.getItem("totalRetailCost");
+  totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
   loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
   treesDisplay.innerHTML = "";
   treesField.value = "";
@@ -296,12 +296,12 @@ window.addEventListener("loginUpdated", () => {
 });
 
 send.addEventListener("click", () => {
-  localStorage.removeItem("trees");
+  sessionStorage.removeItem("trees");
 });
 
 window.addEventListener("storage", (event) => {
   if (event.key === "trees") {
-    submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+    submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
     if (submitOrderTrees.length !== 0) {
       emptyMessage.style.setProperty("display", "none");
@@ -317,7 +317,7 @@ window.addEventListener("storage", (event) => {
 });
 
 window.addEventListener("orderUpdated", () => {
-  submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+  submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
   if (submitOrderTrees.length !== 0) {
     emptyMessage.style.setProperty("display", "none");
