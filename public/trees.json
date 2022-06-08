@@ -22088,6 +22088,120 @@
   {
     "family": "",
     "genus": "Corylus",
+    "species": "avellana",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Barcelona",
+    "synonyms": [],
+    "commonName": "Hazelnut, Common Hazel",
+    "url": "corylus-avellana-barcelona-hazelnut-common-hazel",
+    "mainImage": "corylus-avellana-barcelona-hazelnut-common-hazel/corylus-avellana-barcelona-hazelnut-common-hazel.jpg",
+    "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Butler, Merveille de Bowillier, and Tonda di Giffoni.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, orange, brown",
+      "autumn": "red, orange, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/corylus-avellana-barcelona-hazelnut-common-hazel/corylus-avellana-barcelona-hazelnut-common-hazel-nuts.jpg",
+        "alt": "corylus avellana barcelona hazelnut common hazel nuts"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Corylus",
+    "species": "avellana",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Whiteheart",
+    "synonyms": [],
+    "commonName": "Hazelnut, Common Hazel",
+    "url": "corylus-avellana-whiteheart-hazelnut-common-hazel",
+    "mainImage": "corylus-avellana-whiteheart-hazelnut-common-hazel/corylus-avellana-whiteheart-hazelnut-common-hazel.jpg",
+    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Alexandra, Auckland No. 2, and Merveille de Bollwiller.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, orange, brown",
+      "autumn": "red, orange, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/corylus-avellana-whiteheart-hazelnut-common-hazel/corylus-avellana-whiteheart-hazelnut-common-hazel-nuts.jpg",
+        "alt": "corylus avellana whiteheart hazelnut common hazel nuts"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Corylus",
     "species": "colurna",
     "hybrid": "",
     "subspecies": "",
@@ -31407,191 +31521,6 @@
       {
         "src": "images/trees/griselinia-lucida-puka-akapuka-broadleaf/griselinia-lucida-puka-akapuka-broadleaf-foliage.jpeg",
         "alt": "griselinia lucida puka akapuka broadleaf foliage"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Psidium",
-    "species": "cattleyanum",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "cattleyanum",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [
-      {
-        "genus": "Psidium",
-        "species": "cattleianum",
-        "hybrid": "",
-        "subspecies": "",
-        "variety": "cattleianum",
-        "form": "",
-        "cultivar": ""
-      }
-    ],
-    "commonName": "Red Cattley Guava, Red Strawberry Guava, Red Cherry Guava",
-    "url": "psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava",
-    "mainImage": "psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava.jpg",
-    "description": "White flowers in spring followed by sweet, tangy, and red fruit in mid-autumn. Will tolerate light-frosts once established. Can be trimmed into a hedge or screen. Self-fertile.",
-    "uses": "hedging-and-screening",
-    "tolerates": "light-frosts",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/guava/guava-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava-fruit.jpg",
-        "alt": "psidium cattleyanum var cattleyanum red cattley guava red strawberry guava red cherry guava fruit"
-      },
-      {
-        "src": "images/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava-fruiting.jpg",
-        "alt": "psidium cattleyanum var cattleyanum red cattley guava red strawberry guava red cherry guava fruiting"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Hazelnut",
-    "url": "hazelnut-barcelona",
-    "mainImage": "hazelnut-barcelona/hazelnut-barcelona.jpg",
-    "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Butler, Merveille de Bowillier, and Tonda di Giffoni.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, orange, brown",
-      "autumn": "red, orange, brown",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/hazelnut-barcelona/hazelnut-barcelona-nuts.jpg",
-        "alt": "hazelnut barcelona nuts"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Hazelnut",
-    "url": "hazelnut-whiteheart",
-    "mainImage": "hazelnut-whiteheart/hazelnut-whiteheart.jpg",
-    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include Alexandra, Auckland No. 2, and Merveille de Bollwiller.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, orange, brown",
-      "autumn": "red, orange, brown",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/hazelnut-whiteheart/hazelnut-whiteheart-nuts.jpg",
-        "alt": "hazelnut whiteheart nuts"
       }
     ],
     "links": []
@@ -62531,6 +62460,78 @@
       {
         "src": "images/trees/pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree-in-nursery.jpeg",
         "alt": "pseudowintera colorata red leopard horopito pepper tree in nursery"
+      }
+    ],
+    "links": []
+  },
+
+  {
+    "family": "",
+    "genus": "Psidium",
+    "species": "cattleyanum",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "cattleyanum",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [
+      {
+        "genus": "Psidium",
+        "species": "cattleianum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "cattleianum",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
+    "commonName": "Red Cattley Guava, Red Strawberry Guava, Red Cherry Guava",
+    "url": "psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava",
+    "mainImage": "psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava.jpg",
+    "description": "White flowers in spring followed by sweet, tangy, and red fruit in mid-autumn. Will tolerate light-frosts once established. Can be trimmed into a hedge or screen. Self-fertile.",
+    "uses": "hedging-and-screening",
+    "tolerates": "light-frosts",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/guava/guava-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava-fruit.jpg",
+        "alt": "psidium cattleyanum var cattleyanum red cattley guava red strawberry guava red cherry guava fruit"
+      },
+      {
+        "src": "images/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava-fruiting.jpg",
+        "alt": "psidium cattleyanum var cattleyanum red cattley guava red strawberry guava red cherry guava fruiting"
       }
     ],
     "links": []

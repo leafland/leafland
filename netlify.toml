@@ -972,3 +972,15 @@
     from = "/trees/guava-red-cherry/"
     status = 301
     to = "/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/hazelnut-barcelona/"
+    status = 301
+    to = "/trees/corylus-avellana-barcelona-hazelnut-common-hazel/"
+
+[[redirects]]
+    force = true
+    from = "/trees/hazelnut-whiteheart/"
+    status = 301
+    to = "/trees/corylus-avellana-whiteheart-hazelnut-common-hazel/"
