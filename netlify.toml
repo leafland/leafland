@@ -960,3 +960,15 @@
     from = "/trees/fig-ventura/"
     status = 301
     to = "/trees/ficus-carica-ventura-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/alectryon-excelsus-titoki-new-zealand-oak/"
+    status = 301
+    to = "/trees/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/"
+
+[[redirects]]
+    force = true
+    from = "/trees/guava-red-cherry/"
+    status = 301
+    to = "/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/"
