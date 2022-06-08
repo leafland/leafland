@@ -14689,7 +14689,7 @@
     "commonName": "Camellia",
     "url": "camellia-transtasman-camellia",
     "mainImage": "camellia-transtasman-camellia/camellia-transtasman-camellia.jpg",
-    "description": "A hybrid between <i>Camellia pitardii</i> and <a href='/trees/camellia-transnokoensis-camellia'><i>Camellia transnokoensis</i></a>. Masses of tiny, white to pale-pink flowers in winter and spring opening from pink-red buds, slightly fragrant. Small leaves with a bushy habit.",
+    "description": "A hybrid between <a href='https://temperate.theferns.info/plant/Camellia+pitardii' target='_blank' rel='noopener noreferrer'><i>Camellia pitardii</i></a> and <a href='/trees/camellia-transnokoensis-camellia'><i>Camellia transnokoensis</i></a>. Masses of tiny, white to pale-pink flowers in winter and spring opening from pink-red buds, slightly fragrant. Small leaves with a bushy habit.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14726,7 +14726,7 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Transtasman"]
   },
   {
     "family": "",
@@ -14778,7 +14778,7 @@
     "commonName": "Camellia",
     "url": "camellia-x-vernalis-hiryu-camellia",
     "mainImage": "camellia-x-vernalis-hiryu-camellia/camellia-x-vernalis-hiryu-camellia.jpg",
-    "description": "<i>Camellia</i> x <i>vernalis</i> is a hybrid formed between <i>Camellia sasanqua</i> and <i>Camellia japonica</i>. Bright, red-pink, semi-double flowers in abundance. Flowers through autumn into early-winter. A vigorous, hardy variety. Excellent as a screen or a large filler. Grow in sun or semi-shade.",
+    "description": "<a href='https://treesandshrubsonline.org/articles/camellia/camellia-x-vernalis/' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>vernalis</i></a> is a hybrid formed between <a href='https://www.gardenia.net/plant-variety/camellias-sasanqua' target='_blank' rel='noopener noreferrer'><i>Camellia sasanqua</i></a> and <a href='https://www.gardenia.net/plant-variety/camellias-japonica' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i></a>. Bright, red-pink, semi-double flowers in abundance. Flowers through autumn into early-winter. A vigorous, hardy variety. Excellent as a screen or a large filler. Grow in sun or semi-shade.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14815,7 +14815,7 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Hiry%C5%AB"]
   },
   {
     "family": "",
@@ -14830,7 +14830,7 @@
     "commonName": "Camellia",
     "url": "camellia-x-vernalis-yuletide-camellia",
     "mainImage": "camellia-x-vernalis-yuletide-camellia/camellia-x-vernalis-yuletide-camellia.jpeg",
-    "description": "A seedling from <a href='/trees/camellia-x-vernalis-hiryu-camellia'><i>Camellia</i> x <i>vernalis</i> 'Hiryū'</a>. <i>Camellia</i> x <i>vernalis</i> is a hybrid formed between <i>Camellia sasanqua</i> and <i>Camellia japonica</i>. Upright, compact, slow-growing variety. Produces single, red flowers with bright-gold stamens over a long period from early-winter to early-spring.",
+    "description": "A seedling from <a href='/trees/camellia-x-vernalis-hiryu-camellia'><i>Camellia</i> x <i>vernalis</i> 'Hiryū'</a>. <a href='https://treesandshrubsonline.org/articles/camellia/camellia-x-vernalis/' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>vernalis</i></a> is a hybrid formed between <a href='https://www.gardenia.net/plant-variety/camellias-sasanqua' target='_blank' rel='noopener noreferrer'><i>Camellia sasanqua</i></a> and <a href='https://www.gardenia.net/plant-variety/camellias-japonica' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i></a>. Upright, compact, slow-growing variety. Produces single, red flowers with bright-gold stamens over a long period from early-winter to early-spring.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14880,7 +14880,7 @@
         "alt": "camellia x vernalis yuletide camellia in pot"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Yuletide"]
   },
   {
     "family": "",
