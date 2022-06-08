@@ -14,6 +14,8 @@ let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
 
+const orderSent = new Event("orderSent");
+
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
 async function getFreightData() {
@@ -295,10 +297,6 @@ window.addEventListener("loginUpdated", () => {
   })();
 });
 
-send.addEventListener("click", () => {
-  sessionStorage.removeItem("trees");
-});
-
 window.addEventListener("storage", (event) => {
   if (event.key === "trees") {
     submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
@@ -388,6 +386,9 @@ submitForm.addEventListener("submit", (event) => {
     await fetch(endpoint, requestOptions)
       .then((response) => {})
       .catch((error) => {});
+
+    sessionStorage.setItem("trees", "[]");
+    window.dispatchEvent(orderSent);
 
     document.body.querySelector(
       "#content"
