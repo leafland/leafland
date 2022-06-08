@@ -984,3 +984,21 @@
     from = "/trees/hazelnut-whiteheart/"
     status = 301
     to = "/trees/corylus-avellana-whiteheart-hazelnut-common-hazel/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-meyric/"
+    status = 301
+    to = "/trees/juglans-regia-meyric-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-shannon/"
+    status = 301
+    to = "/trees/juglans-regia-shannon-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-wilsons-wonder/"
+    status = 301
+    to = "/trees/juglans-regia-wilsons-wonder-walnut-english-walnut/"
