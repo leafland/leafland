@@ -1098,3 +1098,9 @@
     from = "/trees/macadamia-gt-205/"
     status = 301
     to = "/trees/macadamia-gt-205-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-amethyst-flame/"
+    status = 301
+    to = "/trees/magnolia-amethyst-flame-magnolia/"

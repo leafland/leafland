@@ -37347,8 +37347,8 @@
     "cultivar": "Amethyst Flame",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-amethyst-flame",
-    "mainImage": "magnolia-amethyst-flame/magnolia-amethyst-flame.jpeg",
+    "url": "magnolia-amethyst-flame-magnolia",
+    "mainImage": "magnolia-amethyst-flame-magnolia/magnolia-amethyst-flame-magnolia.jpeg",
     "description": "Early-spring, medium-sized, bright red-purple blooms. Free-flowering tree. Blooms from a young age. <i>Magnolia</i> 'Amethyst Flame' is a hybrid between <a href='https://landscapeplants.oregonstate.edu/plants/magnolia-liliiflora' target='_blank' rel='noopener noreferrer'><i>Magnolia liliiflora</i></a> and <a href='/trees/magnolia-vulcan/'><i>Magnolia</i> 'Vulcan'</a>.",
     "uses": "street",
     "tolerates": "",
@@ -37387,20 +37387,20 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-amethyst-flame/magnolia-amethyst-flame-buds.jpeg",
-        "alt": "magnolia amethyst flame buds"
+        "src": "images/trees/magnolia-amethyst-flame-magnolia/magnolia-amethyst-flame-magnolia-buds.jpeg",
+        "alt": "magnolia amethyst flame magnolia buds"
       },
       {
-        "src": "images/trees/magnolia-amethyst-flame/magnolia-amethyst-flame-flowering.jpg",
-        "alt": "magnolia amethyst flame flowering"
+        "src": "images/trees/magnolia-amethyst-flame-magnolia/magnolia-amethyst-flame-magnolia-flowering.jpg",
+        "alt": "magnolia amethyst flame magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-amethyst-flame/magnolia-amethyst-flame-flowers.jpg",
-        "alt": "magnolia amethyst flame flowers"
+        "src": "images/trees/magnolia-amethyst-flame-magnolia/magnolia-amethyst-flame-magnolia-flowers.jpg",
+        "alt": "magnolia amethyst flame magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-amethyst-flame/magnolia-amethyst-flame-single-flower.jpeg",
-        "alt": "magnolia amethyst flame single flower"
+        "src": "images/trees/magnolia-amethyst-flame-magnolia/magnolia-amethyst-flame-magnolia-single-flower.jpeg",
+        "alt": "magnolia amethyst flame magnolia single flower"
       }
     ],
     "links": ["https://www.magnoliasociety.org/CultivarChecklist"]
@@ -37697,7 +37697,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-black-tulip",
     "mainImage": "magnolia-black-tulip/magnolia-black-tulip.jpeg",
-    "description": "Goblet-shaped, heavily-textured blooms of glowing black-red on a neat, rounded tree. The flowers retain their shape and solid colour. Flowers from an early age. Ideal for the smaller garden. Mid-spring flowering.",
+    "description": "Goblet-shaped, heavily-textured blooms of glowing black-red on a neat, rounded tree. The flowers retain their shape and solid colour. Flowers from an early age. Ideal for the smaller garden. Mid-spring flowering. <i>Magnolia</i> 'Black Tulip' is a hybrid between <a href='/trees/magnolia-vulcan/'><i>Magnolia</i> 'Vulcan'</a> and <a href='/trees/magnolia-iolanthe/'><i>Magnolia</i> 'Iolanthe'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -37782,7 +37782,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-brixton-belle",
     "mainImage": "magnolia-brixton-belle/magnolia-brixton-belle.jpg",
-    "description": "Large, cup and saucer-shaped, rich-pink flowers with blush-pink interiors. Flowers from the first year in tremendous abandon. A neat spreading tree, suited to the smaller garden. Mid-spring flowering, sometimes having a second summer flowering.",
+    "description": "Large, cup and saucer-shaped, rich-pink flowers with blush-pink interiors. Flowers from the first year in tremendous abandon. A neat spreading tree, suited to the smaller garden. Mid-spring flowering, sometimes having a second summer flowering. <i>Magnolia</i> 'Brixton Belle' is a hybrid between <a href='/trees/magnolia-campbellii-sir-harold-hillier-campbells-magnolia/'><i>Magnolia campbellii</i> 'Sir Harold Hillier'</a> and the hybrid formed between <a href='https://www.rhs.org.uk/plants/140766/magnolia-x-soulangeana-sweet-simplicity/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>soulangeana</i> 'Sweet Simplicity'</a> and <a href='/trees/magnolia-black-tulip/'><i>Magnolia</i> 'Black Tulip'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -37852,18 +37852,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Burgundy Star",
     "synonyms": [],
     "commonName": "Magnolia",
     "url": "magnolia-burgundy-star",
     "mainImage": "magnolia-burgundy-star/magnolia-burgundy-star.jpeg",
-    "description": "Glowing, burgundy-red, tulip-shaped buds which open out to large, star-shaped flowers. Very floriferous variety which flowers from an early age and for a prolonged period. Narrow, erect grower. Great where space is limited. Mid-spring flowering. Excellent street tree.",
+    "description": "Glowing, burgundy-red, tulip-shaped buds which open out to large, star-shaped flowers. Very floriferous variety which flowers from an early age and for a prolonged period. Narrow, erect grower. Great where space is limited. Mid-spring flowering. Excellent street tree. <i>Magnolia</i> 'Burgundy Star' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='/trees/magnolia-vulcan'><i>Magnolia</i> 'Vulcan'</a>.",
     "uses": "street, narrow-sites",
     "tolerates": "",
     "soilType": "",
