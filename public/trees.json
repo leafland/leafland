@@ -13346,7 +13346,7 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Debutante"]
   },
   {
     "family": "",
@@ -13403,7 +13403,9 @@
         "alt": "camellia japonica kramers beauty camellia tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Kramer%27s%20Beauty"
+    ]
   },
   {
     "family": "",
@@ -13464,7 +13466,9 @@
         "alt": "camellia japonica kramers supreme camellia single flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Kramer%27s%20Supreme"
+    ]
   },
   {
     "family": "",
@@ -13531,7 +13535,7 @@
         "alt": "camellia japonica mark alan camellia new flower"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Mark%20Alan"]
   },
   {
     "family": "",
@@ -13588,7 +13592,7 @@
         "alt": "camellia japonica roger hall camellia bush"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Roger%20Hall"]
   },
   {
     "family": "",
@@ -13645,7 +13649,7 @@
         "alt": "camellia japonica takanini camellia bush"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Takanini"]
   },
   {
     "family": "",
@@ -13706,7 +13710,7 @@
         "alt": "camellia japonica tom knudsen camellia flower"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Tom%20Knudsen"]
   },
   {
     "family": "",
@@ -13721,7 +13725,7 @@
     "commonName": "Camellia",
     "url": "camellia-nicky-crisp-camellia",
     "mainImage": "camellia-nicky-crisp-camellia/camellia-nicky-crisp-camellia.jpeg",
-    "description": "A hybrid between <i>Camellia pitardii</i> and <i>Camellia japonica</i>. Produces beautiful pale-pink, semi-double flowers from late-autumn to mid-spring. A compact grower. Great for pots, planters, and small gardens.",
+    "description": "A hybrid between <a href='https://temperate.theferns.info/plant/Camellia+pitardii' target='_blank' rel='noopener noreferrer'><i>Camellia pitardii</i></a> and <a href='https://treesandshrubsonline.org/articles/camellia/camellia-japonica/' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i></a>. Produces beautiful pale-pink, semi-double flowers from late-autumn to mid-spring. A compact grower. Great for pots, planters, and small gardens.",
     "uses": "small-garden, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13767,7 +13771,7 @@
         "alt": "camellia nicky crisp camellia bushes"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Nicky%20Crisp"]
   },
   {
     "family": "",
@@ -13782,7 +13786,7 @@
     "commonName": "Camellia",
     "url": "camellia-ruby-wedding-camellia",
     "mainImage": "camellia-ruby-wedding-camellia/camellia-ruby-wedding-camellia.jpg",
-    "description": "A hybrid between <i>Camellia japonica</i> 'Kimberley' and <i>Camellia</i> x <i>williamsii</i> 'Dark Nite'. and Large, bright-red, frilly flowers of anemone and peony form. These are very showy and contrast against the large, glossy, deep-green leaves. Flowers from late-winter to late-spring. Dense, compact-grower with a pyramidal form.",
+    "description": "A hybrid between <a href='https://www.rhs.org.uk/plants/95485/i-camellia-japonica-i-kimberley/details' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i> 'Kimberley'</a> and <a href='https://camellia.iflora.cn/Cutivars/Detail?latin=Dark%20Nite' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>williamsii</i> 'Dark Nite'</a>. and Large, bright-red, frilly flowers of anemone and peony form. These are very showy and contrast against the large, glossy, deep-green leaves. Flowers from late-winter to late-spring. Dense, compact-grower with a pyramidal form.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13832,7 +13836,7 @@
         "alt": "camellia ruby wedding camellia single flower"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Ruby%20Wedding"]
   },
 
   {
@@ -13894,7 +13898,7 @@
         "alt": "camellia sasanqua crimson king camellia new flower"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Crimson%20King"]
   },
 
   {
@@ -13956,7 +13960,7 @@
         "alt": "camellia sasanqua early pearly camellia hedge"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Early%20Pearly"]
   },
   {
     "family": "",
@@ -14050,7 +14054,9 @@
         "alt": "camellia sasanqua mine no yuki camellia bush"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Mine-no-yuki%20(sasanqua)"
+    ]
   },
   {
     "family": "",
@@ -14130,7 +14136,7 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Otome-sazanka"]
   },
   {
     "family": "",
@@ -14195,7 +14201,9 @@
         "alt": "camellia sasanqua paradise blush camellia hedge"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Paradise%20Blush"
+    ]
   },
   {
     "family": "",
@@ -14247,7 +14255,9 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Paradise%20Sayaka"
+    ]
   },
   {
     "family": "",
@@ -14299,7 +14309,9 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Plantation%20Pink"
+    ]
   },
   {
     "family": "",
@@ -14351,7 +14363,7 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Rainbow"]
   },
   {
     "family": "",
@@ -14456,7 +14468,7 @@
         "alt": "camellia sasanqua setsugekka camellia tall hedge"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Setsugekka"]
   },
   {
     "family": "",
@@ -14533,7 +14545,9 @@
         "alt": "camellia sasanqua silver dollar camellia new flower bud"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Silver%20Dollar"
+    ]
   },
   {
     "family": "",
@@ -14548,7 +14562,7 @@
     "commonName": "Camellia",
     "url": "camellia-spring-festival-camellia",
     "mainImage": "camellia-spring-festival-camellia/camellia-spring-festival-camellia.jpeg",
-    "description": "A hybrid of <i>Camellia cuspidata</i>. Pure-pink, miniature-rose to semi-double flower form. Flowers profusely from mid-winter to early-spring. Narrow, upright-grower with dense foliage.",
+    "description": "A hybrid of <a href='https://treesandshrubsonline.org/articles/camellia/camellia-cuspidata/' target='_blank' rel='noopener noreferrer'><i>Camellia cuspidata</i></a>. Pure-pink, miniature-rose to semi-double flower form. Flowers profusely from mid-winter to early-spring. Narrow, upright-grower with dense foliage.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -14585,7 +14599,9 @@
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
     "relatedTrees": [],
     "images": [],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Spring%20Festival"
+    ]
   },
   {
     "family": "",
