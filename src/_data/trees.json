@@ -13019,7 +13019,7 @@
     "commonName": "Camellia",
     "url": "camellia-black-lace-camellia",
     "mainImage": "camellia-black-lace-camellia/camellia-black-lace-camellia.jpg",
-    "description": "A hybrid between <a href='https://www.gardenia.net/plant/camellia-williamsii-donation' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>williamsii</i> 'Donation'</a> and <i>Camellia</i> x <i>reticulata</i> 'Crimson Robe'. A formal-looking camellia with large, dark-red, double flowers in spring. A compact, upright-grower that is great for a hedge.",
+    "description": "A hybrid between <a href='https://www.gardenia.net/plant/camellia-williamsii-donation' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>williamsii</i> 'Donation'</a> and <a href='https://www.backyardgardener.com/plantname/camellia-reticulata-crimson-robe-camellia/' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>reticulata</i> 'Crimson Robe'</a>. A formal-looking camellia with large, dark-red, double flowers in spring. A compact, upright-grower that is great for a hedge.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13077,7 +13077,7 @@
         "alt": "camellia black lace camellia pathway"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Black%20Lace"]
   },
   {
     "family": "",
@@ -13092,7 +13092,7 @@
     "commonName": "Camellia",
     "url": "camellia-cinnamon-cindy-camellia",
     "mainImage": "camellia-cinnamon-cindy-camellia/camellia-cinnamon-cindy-camellia.jpeg",
-    "description": "A hybrid between <i>Camellia japonica</i> 'Ken'yotai' and <i>Camellia lutchuensis</i>. Miniature flowers are semi-double to rose form. A profusion of pink buds open pale-pink to white. Spicy fragrance. Flowers from late-autumn to early-spring. Strong, upright grower, excellent for narrow spaces.",
+    "description": "A hybrid between <a href='https://camellia.iflora.cn/Cutivars/Detail?latin=Kan%27y%C5%8Dtai' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i> 'Kan'yōtai'</a> and <a href='https://treesandshrubsonline.org/articles/camellia/camellia-lutchuensis/' target='_blank' rel='noopener noreferrer'><i>Camellia lutchuensis</i></a>. Miniature flowers are semi-double to rose form. A profusion of pink buds open pale-pink to white. Spicy fragrance. Flowers from late-autumn to early-spring. Strong, upright grower, excellent for narrow spaces.",
     "uses": "hedging-and-screening, narrow-sites, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13146,7 +13146,9 @@
         "alt": "camellia cinnamon cindy camellia garden"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Cinnamon%20Cindy"
+    ]
   },
   {
     "family": "",
@@ -13161,7 +13163,7 @@
     "commonName": "Camellia",
     "url": "camellia-fairy-blush-camellia",
     "mainImage": "camellia-fairy-blush-camellia/camellia-fairy-blush-camellia.jpeg",
-    "description": "A hybrid of <i>Camellia lutchuensis</i>. A profusion of deep-pink buds open to single, white to pale-pink flowers that are blushed pink around the edges. Strongly-scented. Flowers from late-autumn to early-spring. Makes a superb hedge. Full sun or semi-shade.",
+    "description": "A hybrid of <a href='https://treesandshrubsonline.org/articles/camellia/camellia-lutchuensis/' target='_blank' rel='noopener noreferrer'><i>Camellia lutchuensis</i></a>. A profusion of deep-pink buds open to single, white to pale-pink flowers that are blushed pink around the edges. Strongly-scented. Flowers from late-autumn to early-spring. Makes a superb hedge. Full sun or semi-shade.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13211,7 +13213,7 @@
         "alt": "camellia fairy blush camellia mature flower"
       }
     ],
-    "links": []
+    "links": ["https://camellia.iflora.cn/Cutivars/Detail?latin=Fairy%20Blush"]
   },
   {
     "family": "",
@@ -13226,7 +13228,7 @@
     "commonName": "Camellia",
     "url": "camellia-high-fragrance-camellia",
     "mainImage": "camellia-high-fragrance-camellia/camellia-high-fragrance-camellia.jpeg",
-    "description": "A hybrid between <i>Camellia japonica</i> 'Mrs Bertha A. Harms' and the hybrid formed from <i>Camellia</i> 'Salab' and <i>Camellia</i> 'Scentuous'. Large, peony form. Salmon-pink buds open paler and fade to almost white. Delicious, spicy fragrance. Flowers for a long period from mid-winter till mid-spring. Vigorous, upright grower.",
+    "description": "A hybrid between <a href='https://www.rhs.org.uk/plants/85170/i-camellia-japonica-i-mrs-bertha-a-harms/details' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i> 'Mrs Bertha A. Harms'</a> and the hybrid formed from <a href='https://camellia.iflora.cn/Cutivars/Detail?latin=Salab' target='_blank' rel='noopener noreferrer'><i>Camellia</i> 'Salab'</a> and <a href='https://www.gardenia.net/plant/camellia-scentuous' target='_blank' rel='noopener noreferrer'><i>Camellia</i> 'Scentuous'</a>. Large, peony form. Salmon-pink buds open paler and fade to almost white. Delicious, spicy fragrance. Flowers for a long period from mid-winter till mid-spring. Vigorous, upright grower.",
     "uses": "hedging-and-screening, narrow-sites, attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -13280,7 +13282,9 @@
         "alt": "camellia high fragrance camellia new flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=High%20Fragrance"
+    ]
   },
   {
     "family": "",
