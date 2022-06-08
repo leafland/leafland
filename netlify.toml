@@ -1002,3 +1002,69 @@
     from = "/trees/walnut-wilsons-wonder/"
     status = 301
     to = "/trees/juglans-regia-wilsons-wonder-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/"
+    status = 301
+    to = "/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-bergerac-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-bergerac-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-crimson-red-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-de-puard-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-de-puard-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-kimono-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-kimono-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-saint-emilion-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-soir-dete-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-soir-dete-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-tango-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-tango-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-townhouse-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-sioux-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-tuscarora-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle/"

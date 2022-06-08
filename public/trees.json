@@ -33013,13 +33013,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Juniperus",
+    "species": "chinensis",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Kaizuka",
     "synonyms": [],
     "commonName": "Chinese Juniper",
     "url": "juniperus-chinensis-kaizuka-chinese-juniper",
@@ -33090,13 +33090,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Juniperus",
+    "species": "scopulorum",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Skyrocket",
     "synonyms": [],
     "commonName": "Rocky Mountain Juniper",
     "url": "juniperus-scopulorum-skyrocket-rocky-mountain-juniper",
@@ -33167,8 +33167,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Knightia",
+    "species": "excelsa",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -33232,8 +33232,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Koelreuteria",
+    "species": "paniculata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -33321,8 +33321,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Kunzea",
+    "species": "ericoides",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -33390,8 +33390,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Kunzea",
+    "species": "robusta",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -33459,13 +33459,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Laburnum",
+    "species": "alpinum",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Pendulum",
     "synonyms": [],
     "commonName": "Weeping Scotch Laburnum",
     "url": "laburnum-alpinum-pendulum-weeping-scotch-laburnum",
@@ -33532,17 +33532,27 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Laburnum",
     "species": "",
-    "hybrid": "",
+    "hybrid": "watereri",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Voss' Laburnum, Golden Chain",
-    "url": "laburnum-x-watereri-vossii-voss-laburnum-golden-chain",
-    "mainImage": "laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain.jpg",
+    "cultivar": "Vossii",
+    "synonyms": [
+      {
+        "genus": "Laburnum",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Famous Walk"
+      }
+    ],
+    "commonName": "Voss's Laburnum, Golden Chain",
+    "url": "laburnum-x-watereri-vossii-vosss-laburnum-golden-chain",
+    "mainImage": "laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain.jpg",
     "description": "Has a compact, rounded head. Fragrant racemes of yellow flowers hang from the branches in late-spring. Branches are pliable enough to train over high arches. Sets no seeds. Excellent street tree.",
     "uses": "",
     "tolerates": "",
@@ -33581,673 +33591,41 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain-beautiful-flowers.jpg",
-        "alt": "laburnum x watereri vossii voss laburnum golden chain beautiful flowers"
+        "src": "images/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain-beautiful-flowers.jpg",
+        "alt": "laburnum x watereri vossii vosss laburnum golden chain beautiful flowers"
       },
       {
-        "src": "images/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain-flowering.jpg",
-        "alt": "laburnum x watereri vossii voss laburnum golden chain flowering"
+        "src": "images/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain-flowering.jpg",
+        "alt": "laburnum x watereri vossii vosss laburnum golden chain flowering"
       },
       {
-        "src": "images/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain-flowers.jpg",
-        "alt": "laburnum x watereri vossii voss laburnum golden chain flowers"
+        "src": "images/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain-flowers.jpg",
+        "alt": "laburnum x watereri vossii vosss laburnum golden chain flowers"
       },
       {
-        "src": "images/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain-garden.jpg",
-        "alt": "laburnum x watereri vossii voss laburnum golden chain garden"
+        "src": "images/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain-garden.jpg",
+        "alt": "laburnum x watereri vossii vosss laburnum golden chain garden"
       },
       {
-        "src": "images/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/laburnum-x-watereri-vossii-voss-laburnum-golden-chain-park.jpg",
-        "alt": "laburnum x watereri vossii voss laburnum golden chain park"
+        "src": "images/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain-park.jpg",
+        "alt": "laburnum x watereri vossii vosss laburnum golden chain park"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Lagerstroemia",
+    "species": "fauriei",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Townhouse",
     "synonyms": [],
     "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-bergerac-crepe-myrtle",
-    "mainImage": "lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle.jpg",
-    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green spring leaves age green through summer and turn brilliant red, orange, and yellow colours through autumn. Produces large conical panicles of crimped, deep-pink to red flowers in summer.",
-    "uses": "street, small-garden",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "red, pink",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, red, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-autumn.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle autumn"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-flowering-park.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle flowering park"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-flowering.jpeg",
-        "alt": "lagerstroemia bergerac crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-flowers.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-park.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle park"
-      },
-      {
-        "src": "images/trees/lagerstroemia-bergerac-crepe-myrtle/lagerstroemia-bergerac-crepe-myrtle-street.jpg",
-        "alt": "lagerstroemia bergerac crepe myrtle street"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-crimson-red-crepe-myrtle",
-    "mainImage": "lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle.jpg",
-    "description": "Has beautiful deep red-purple to black foliage that emerges in early-spring. Masses of vivid crimson-red flowers cover the tree from summer. Orange and red autumn leaves.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "purple, red, black",
-      "autumn": "orange, red",
-      "winter": "",
-      "spring": "purple, red, black"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-flowering.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-flowers.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-foliage.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle foliage"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-mature.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle mature"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-new-foliage.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle new foliage"
-      },
-      {
-        "src": "images/trees/lagerstroemia-crimson-red-crepe-myrtle/lagerstroemia-crimson-red-crepe-myrtle-young-tree.jpg",
-        "alt": "lagerstroemia crimson red crepe myrtle young tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-de-puard-crepe-myrtle",
-    "mainImage": "lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle.jpg",
-    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Large, cone-shaped panicles of light-pink to pale-purple flowers in summer.",
-    "uses": "street, shade",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "pink, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-autumn-colour.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle autumn colour"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-awesome-flowers.jpeg",
-        "alt": "lagerstroemia de puard crepe myrtle awesome flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-city.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle city"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-flowering.jpeg",
-        "alt": "lagerstroemia de puard crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-flowers.jpeg",
-        "alt": "lagerstroemia de puard crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-in-nursery.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle in nursery"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-new-foliage.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle new foliage"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-row-in-nursery.jpeg",
-        "alt": "lagerstroemia de puard crepe myrtle row in nursery"
-      },
-      {
-        "src": "images/trees/lagerstroemia-de-puard-crepe-myrtle/lagerstroemia-de-puard-crepe-myrtle-street.jpg",
-        "alt": "lagerstroemia de puard crepe myrtle street"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-kimono-crepe-myrtle",
-    "mainImage": "lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle.jpg",
-    "description": "Upright, vase-shaped tree. Frilly, white flowers in summer. Yellow, orange, and red autumn leaves. Frost-hardy. Will handle moderate winds. Drought tolerant once established.",
-    "uses": "street, small-garden",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-autumn-colour.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle autumn colour"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-flower-shot.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle flower shot"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-flowering-garden.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle flowering garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-flowering.jpeg",
-        "alt": "lagerstroemia kimono crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-flowers.jpeg",
-        "alt": "lagerstroemia kimono crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-footpath.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle footpath"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-in-nursery.jpeg",
-        "alt": "lagerstroemia kimono crepe myrtle in nursery"
-      },
-      {
-        "src": "images/trees/lagerstroemia-kimono-crepe-myrtle/lagerstroemia-kimono-crepe-myrtle-young-tree.jpg",
-        "alt": "lagerstroemia kimono crepe myrtle young tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-saint-emilion-crepe-myrtle",
-    "mainImage": "lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle.jpg",
-    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green spring leaves age green through summer and turn brilliant red, orange, and yellow colours through autumn. Large, cone-shaped panicles of deep-pink to red flowers in summer. Will handle moderate winds.",
-    "uses": "street, small-garden",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "red, pink",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-autumn-avenue.jpg",
-        "alt": "lagerstroemia saint emilion crepe myrtle autumn avenue"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flower-cluster.jpeg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flower cluster"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flower.jpeg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flower"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flowering-road.jpg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flowering road"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flowering-street.jpg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flowering street"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flowering.jpg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-flowers.jpeg",
-        "alt": "lagerstroemia saint emilion crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-in-nursery.jpeg",
-        "alt": "lagerstroemia saint emilion crepe myrtle in nursery"
-      },
-      {
-        "src": "images/trees/lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle-road.jpg",
-        "alt": "lagerstroemia saint emilion crepe myrtle road"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-sioux-crepe-myrtle",
-    "mainImage": "lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle.jpg",
-    "description": "Creating a visual impact over a lengthy period, this variety offers masses of intense-pink flowers over summer, followed by stunning rich foliage in tones of yellow, red, and orange through autumn. Will handle moderate winds.",
-    "uses": "street",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "pink",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-beautiful-flowers.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle beautiful flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-flowering.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-flowers.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle flowers"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle garden"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-path.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle path"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-row.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle row"
-      },
-      {
-        "src": "images/trees/lagerstroemia-sioux-crepe-myrtle/lagerstroemia-sioux-crepe-myrtle-street.jpg",
-        "alt": "lagerstroemia sioux crepe myrtle street"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-soir-dete-crepe-myrtle",
-    "mainImage": "lagerstroemia-soir-dete-crepe-myrtle/lagerstroemia-soir-dete-crepe-myrtle.jpg",
-    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Large, cone-shaped panicles of salmon-pink flowers in summer. Will handle moderate winds.",
-    "uses": "street, small-garden",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "pink",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-soir-dete-crepe-myrtle/lagerstroemia-soir-dete-crepe-myrtle-flowering.jpg",
-        "alt": "lagerstroemia soir dete crepe myrtle flowering"
-      },
-      {
-        "src": "images/trees/lagerstroemia-soir-dete-crepe-myrtle/lagerstroemia-soir-dete-crepe-myrtle-flowers.jpg",
-        "alt": "lagerstroemia soir dete crepe myrtle flowers"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-tango-crepe-myrtle",
-    "mainImage": "lagerstroemia-tango-crepe-myrtle/lagerstroemia-tango-crepe-myrtle.jpg",
-    "description": "A dwarf crepe myrtle with purple flowers in summer. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Will handle moderate winds.",
-    "uses": "street, small-garden",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "1m",
-    "width": "0.5m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-dwarf.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/lagerstroemia-tango-crepe-myrtle/lagerstroemia-tango-crepe-myrtle-flowering.jpg",
-        "alt": "lagerstroemia tango crepe myrtle flowering"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-townhouse-crepe-myrtle",
-    "mainImage": "lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle.jpg",
+    "url": "lagerstroemia-fauriei-townhouse-crepe-myrtle",
+    "mainImage": "lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle.jpg",
     "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Large, cone-shaped panicles of pure-white flowers in summer. Will handle moderate winds.",
     "uses": "street, small-garden",
     "tolerates": "windy",
@@ -34286,36 +33664,36 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-bark.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle bark"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-bark.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle bark"
       },
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-flowers.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle flowers"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-flowers.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle flowers"
       },
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-garden.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle garden"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle garden"
       },
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-large-park.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle large park"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-large-park.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle large park"
       },
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-park.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle park"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-park.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle park"
       },
       {
-        "src": "images/trees/lagerstroemia-townhouse-crepe-myrtle/lagerstroemia-townhouse-crepe-myrtle-trunk.jpg",
-        "alt": "lagerstroemia townhouse crepe myrtle trunk"
+        "src": "images/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/lagerstroemia-fauriei-townhouse-crepe-myrtle-trunk.jpg",
+        "alt": "lagerstroemia fauriei townhouse crepe myrtle trunk"
       }
     ],
     "links": []
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -34323,8 +33701,354 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Crepe Myrtle",
-    "url": "lagerstroemia-tuscarora-crepe-myrtle",
-    "mainImage": "lagerstroemia-tuscarora-crepe-myrtle/lagerstroemia-tuscarora-crepe-myrtle.jpg",
+    "url": "lagerstroemia-indica-bergerac-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle.jpg",
+    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green spring leaves age green through summer and turn brilliant red, orange, and yellow colours through autumn. Produces large conical panicles of crimped, deep-pink to red flowers in summer.",
+    "uses": "street, small-garden",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red, pink",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, red, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-autumn.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle autumn"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-flowering-park.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle flowering park"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-flowering.jpeg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-flowers.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-park.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle park"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-bergerac-crepe-myrtle/lagerstroemia-indica-bergerac-crepe-myrtle-street.jpg",
+        "alt": "lagerstroemia indica bergerac crepe myrtle street"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Crimson Red",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-crimson-red-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle.jpg",
+    "description": "Has beautiful deep red-purple to black foliage that emerges in early-spring. Masses of vivid crimson-red flowers cover the tree from summer. Orange and red autumn leaves.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "purple, red, black",
+      "autumn": "orange, red",
+      "winter": "",
+      "spring": "purple, red, black"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-flowering.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-flowers.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-foliage.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle foliage"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-mature.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle mature"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-new-foliage.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle new foliage"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/lagerstroemia-indica-crimson-red-crepe-myrtle-young-tree.jpg",
+        "alt": "lagerstroemia indica crimson red crepe myrtle young tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "De'Puard",
+    "synonyms": [
+      {
+        "genus": "Lagerstroemia",
+        "species": "indica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Souvenir de Hubert Puard"
+      }
+    ],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-de-puard-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle.jpg",
+    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Large, cone-shaped panicles of light-pink to pale-purple flowers in summer.",
+    "uses": "street, shade",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "pink, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-autumn-colour.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle autumn colour"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-awesome-flowers.jpeg",
+        "alt": "lagerstroemia indica de puard crepe myrtle awesome flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-city.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle city"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-flowering.jpeg",
+        "alt": "lagerstroemia indica de puard crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-flowers.jpeg",
+        "alt": "lagerstroemia indica de puard crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-in-nursery.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle in nursery"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-new-foliage.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle new foliage"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-row-in-nursery.jpeg",
+        "alt": "lagerstroemia indica de puard crepe myrtle row in nursery"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-de-puard-crepe-myrtle/lagerstroemia-indica-de-puard-crepe-myrtle-street.jpg",
+        "alt": "lagerstroemia indica de puard crepe myrtle street"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "",
+    "hybrid": "indica x fauriei",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Sioux",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle.jpg",
+    "description": "Creating a visual impact over a lengthy period, this variety offers masses of intense-pink flowers over summer, followed by stunning rich foliage in tones of yellow, red, and orange through autumn. Will handle moderate winds.",
+    "uses": "street",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "pink",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-beautiful-flowers.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle beautiful flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-flowering.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-flowers.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-path.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle path"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-row.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle row"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle-street.jpg",
+        "alt": "lagerstroemia indica x fauriei sioux crepe myrtle street"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "",
+    "hybrid": "indica x fauriei",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tuscarora",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle/lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle.jpg",
     "description": "An upright, wide-spreading, multi-stemmed tree. Best grown in medium-moisture, well-drained soils in full-sun. Does well in loamy, clay soils with good drainage. Long bloom period of bright-pink flowers in summer, exfoliating bark, and superb autumn colors of orange, red, and yellow. Will handle moderate winds.",
     "uses": "street, small-garden",
     "tolerates": "windy",
@@ -34366,13 +34090,309 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Kimono",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-kimono-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle.jpg",
+    "description": "Upright, vase-shaped tree. Frilly, white flowers in summer. Yellow, orange, and red autumn leaves. Frost-hardy. Will handle moderate winds. Drought tolerant once established.",
+    "uses": "street, small-garden",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-autumn-colour.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle autumn colour"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-flower-shot.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle flower shot"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-flowering-garden.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle flowering garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-flowering.jpeg",
+        "alt": "lagerstroemia indica kimono crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-flowers.jpeg",
+        "alt": "lagerstroemia indica kimono crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-footpath.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle footpath"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-garden.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle garden"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-in-nursery.jpeg",
+        "alt": "lagerstroemia indica kimono crepe myrtle in nursery"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-kimono-crepe-myrtle/lagerstroemia-indica-kimono-crepe-myrtle-young-tree.jpg",
+        "alt": "lagerstroemia indica kimono crepe myrtle young tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Saint Emilion",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-saint-emilion-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle.jpg",
+    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green spring leaves age green through summer and turn brilliant red, orange, and yellow colours through autumn. Large, cone-shaped panicles of deep-pink to red flowers in summer. Will handle moderate winds.",
+    "uses": "street, small-garden",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red, pink",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-autumn-avenue.jpg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle autumn avenue"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flower-cluster.jpeg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flower cluster"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flower.jpeg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flower"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flowering-road.jpg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flowering road"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flowering-street.jpg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flowering street"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flowering.jpg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-flowers.jpeg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle flowers"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-in-nursery.jpeg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle in nursery"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle-road.jpg",
+        "alt": "lagerstroemia indica saint emilion crepe myrtle road"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Soir D'ete",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-soir-dete-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-soir-dete-crepe-myrtle/lagerstroemia-indica-soir-dete-crepe-myrtle.jpg",
+    "description": "Has a compact, rounded head and smooth, mottled bark. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Large, cone-shaped panicles of salmon-pink flowers in summer. Will handle moderate winds.",
+    "uses": "street, small-garden",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "pink",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-soir-dete-crepe-myrtle/lagerstroemia-indica-soir-dete-crepe-myrtle-flowering.jpg",
+        "alt": "lagerstroemia indica soir dete crepe myrtle flowering"
+      },
+      {
+        "src": "images/trees/lagerstroemia-indica-soir-dete-crepe-myrtle/lagerstroemia-indica-soir-dete-crepe-myrtle-flowers.jpg",
+        "alt": "lagerstroemia indica soir dete crepe myrtle flowers"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tango",
+    "synonyms": [],
+    "commonName": "Crepe Myrtle",
+    "url": "lagerstroemia-indica-tango-crepe-myrtle",
+    "mainImage": "lagerstroemia-indica-tango-crepe-myrtle/lagerstroemia-indica-tango-crepe-myrtle.jpg",
+    "description": "A dwarf crepe myrtle with purple flowers in summer. Lime-green leaves in spring age green through summer and turn brilliant red, orange, and yellow colours during autumn. Will handle moderate winds.",
+    "uses": "street, small-garden",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "0.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/lagerstroemia/lagerstroemia-dwarf.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/lagerstroemia-indica-tango-crepe-myrtle/lagerstroemia-indica-tango-crepe-myrtle-flowering.jpg",
+        "alt": "lagerstroemia indica tango crepe myrtle flowering"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Lagerstroemia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Yangtze",
     "synonyms": [],
     "commonName": "Crepe Myrtle",
     "url": "lagerstroemia-yangtze-crepe-myrtle",
