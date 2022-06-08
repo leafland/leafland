@@ -1068,3 +1068,33 @@
     from = "/trees/lagerstroemia-tuscarora-crepe-myrtle/"
     status = 301
     to = "/trees/lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/loquat-japonica/"
+    status = 301
+    to = "/trees/eriobotrya-japonica-loquat/"
+
+[[redirects]]
+    force = true
+    from = "/trees/loquat-golden-orb/"
+    status = 301
+    to = "/trees/eriobotrya-japonica-golden-orb-loquat/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-beaumont/"
+    status = 301
+    to = "/trees/macadamia-integrifolia-x-tetraphylla-beaumont-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-gt-207/"
+    status = 301
+    to = "/trees/macadamia-gt-207-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-gt-205/"
+    status = 301
+    to = "/trees/macadamia-gt-205-macadamia/"
