@@ -38881,7 +38881,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-deryk-magnolia",
     "mainImage": "magnolia-deryk-magnolia/magnolia-deryk-magnolia.jpg",
-    "description": "Has rich, glowing, velvet-red flowers from late-winter to early-spring. Sets flowers on all tips, so will tend to be slower-growing. <i>Magnolia</i> 'Deryk' is a seedling of <a href='/trees/magnolia-genie/'><i>Magnolia</i> 'Genie'</a>.",
+    "description": "Has rich, glowing, velvet-red flowers from late-winter to early-spring. Sets flowers on all tips, so will tend to be slower-growing. <i>Magnolia</i> 'Deryk' is a seedling of <a href='/trees/magnolia-genie-magnolia/'><i>Magnolia</i> 'Genie'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -39106,18 +39106,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Galaxy",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-galaxy",
-    "mainImage": "magnolia-galaxy/magnolia-galaxy.jpeg",
-    "description": "Large, dark-pink, slender, tulip-shaped flowers in late-spring. Ideal in areas that get late frosts. Fragrant flowers with a sweet smell. Upright, pyramidal grower. Flowers from an early age. Excellent street tree.",
+    "url": "magnolia-galaxy-magnolia",
+    "mainImage": "magnolia-galaxy-magnolia/magnolia-galaxy-magnolia.jpeg",
+    "description": "Large, dark-pink, slender, tulip-shaped flowers in late-spring. Ideal in areas that get late frosts. Fragrant flowers with a sweet smell. Upright, pyramidal grower. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Galaxy' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='https://www.rhs.org.uk/plants/96260/magnolia-sprengeri-var-diva/details' target='_blank' rel='noopener noreferrer'><i>Magnolia sprengeri</i> var. <i>diva</i></a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -39155,28 +39155,28 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-flowering-garden.jpg",
-        "alt": "magnolia galaxy flowering garden"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-flowering-garden.jpg",
+        "alt": "magnolia galaxy magnolia flowering garden"
       },
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-flowering-park.jpg",
-        "alt": "magnolia galaxy flowering park"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-flowering-park.jpg",
+        "alt": "magnolia galaxy magnolia flowering park"
       },
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-flowering.jpg",
-        "alt": "magnolia galaxy flowering"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-flowering.jpg",
+        "alt": "magnolia galaxy magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-flowers.jpg",
-        "alt": "magnolia galaxy flowers"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-flowers.jpg",
+        "alt": "magnolia galaxy magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-garden.jpg",
-        "alt": "magnolia galaxy garden"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-garden.jpg",
+        "alt": "magnolia galaxy magnolia garden"
       },
       {
-        "src": "images/trees/magnolia-galaxy/magnolia-galaxy-park.jpg",
-        "alt": "magnolia galaxy park"
+        "src": "images/trees/magnolia-galaxy-magnolia/magnolia-galaxy-magnolia-park.jpg",
+        "alt": "magnolia galaxy magnolia park"
       }
     ],
     "links": [
@@ -39186,18 +39186,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Genie",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-genie",
-    "mainImage": "magnolia-genie/magnolia-genie.jpg",
-    "description": "Goblet-shaped flowers are burgundy-red all the way through. Flowers for about ten weeks through spring with a second summer flowering. Produces healthy leaves and is proven to be frost hardy. Ideal where space is limited.",
+    "url": "magnolia-genie-magnolia",
+    "mainImage": "magnolia-genie-magnolia/magnolia-genie-magnolia.jpg",
+    "description": "Goblet-shaped flowers are burgundy-red all the way through. Flowers for about ten weeks through spring with a second summer flowering. Produces healthy leaves and is proven to be frost hardy. Ideal where space is limited. <i>Magnolia</i> 'Genie' is a hybrid between <a href='https://www.havlis.cz/karta_en.php?kytkaid=478' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> 'Sweet Valentine'</a> and the hybrid formed between <a href='https://www.rhs.org.uk/plants/140766/magnolia-x-soulangeana-sweet-simplicity/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>soulangeana</i> 'Sweet Simplicity'</a> and <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -39235,16 +39235,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-genie/magnolia-genie-flowering.jpg",
-        "alt": "magnolia genie flowering"
+        "src": "images/trees/magnolia-genie-magnolia/magnolia-genie-magnolia-flowering.jpg",
+        "alt": "magnolia genie magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-genie/magnolia-genie-flowers.jpg",
-        "alt": "magnolia genie flowers"
+        "src": "images/trees/magnolia-genie-magnolia/magnolia-genie-magnolia-flowers.jpg",
+        "alt": "magnolia genie magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-genie/magnolia-genie-young-tree.jpg",
-        "alt": "magnolia genie young tree"
+        "src": "images/trees/magnolia-genie-magnolia/magnolia-genie-magnolia-young-tree.jpg",
+        "alt": "magnolia genie magnolia young tree"
       }
     ],
     "links": [
@@ -39254,18 +39254,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Gold Star",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-gold-star",
-    "mainImage": "magnolia-gold-star/magnolia-gold-star.jpg",
-    "description": "An upright grower with spreading branches. Bears a profusion of fragrant, large, multi-petalled, star-shaped flowers of soft butter-yellow which fade to cream-white. Mid-spring flowering. Bronze-coloured spring leaves.",
+    "url": "magnolia-gold-star-magnolia",
+    "mainImage": "magnolia-gold-star-magnolia/magnolia-gold-star-magnolia.jpg",
+    "description": "An upright grower with spreading branches. Bears a profusion of fragrant, large, multi-petalled, star-shaped flowers of soft butter-yellow which fade to cream-white. Mid-spring flowering. Bronze-coloured spring leaves. <i>Magnolia</i> 'Gold Star' is a hybrid between <a href='https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=249442' target='_blank' rel='noopener noreferrer'><i>Magnolia acuminata</i> var. <i>subcordata</i> 'Miss Honeybee'</a> and <a href='https://treesandshrubsonline.org/articles/magnolia/magnolia-stellata/' target='_blank' rel='noopener noreferrer'><i>Magnolia stellata</i> 'Rubra'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -39303,16 +39303,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-gold-star/magnolia-gold-star-flower.jpg",
-        "alt": "magnolia gold star flower"
+        "src": "images/trees/magnolia-gold-star-magnolia/magnolia-gold-star-magnolia-flower.jpg",
+        "alt": "magnolia gold star magnolia flower"
       },
       {
-        "src": "images/trees/magnolia-gold-star/magnolia-gold-star-flowering.jpg",
-        "alt": "magnolia gold star flowering"
+        "src": "images/trees/magnolia-gold-star-magnolia/magnolia-gold-star-magnolia-flowering.jpg",
+        "alt": "magnolia gold star magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-gold-star/magnolia-gold-star-park.jpg",
-        "alt": "magnolia gold star park"
+        "src": "images/trees/magnolia-gold-star-magnolia/magnolia-gold-star-magnolia-park.jpg",
+        "alt": "magnolia gold star magnolia park"
       }
     ],
     "links": [
@@ -39322,13 +39322,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Blanchard",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-blanchard-evergreen-magnolia",
@@ -39399,13 +39399,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Ferruginea",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-ferruginea-evergreen-magnolia",
@@ -39468,13 +39468,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Jade Emperor",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-jade-emperor-evergreen-magnolia",
@@ -39525,13 +39525,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Kay Parris",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-kay-parris-evergreen-magnolia",
@@ -39594,13 +39594,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Little Gem",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-little-gem-evergreen-magnolia",
@@ -39683,13 +39683,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Main Street",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-main-street-evergreen-magnolia",
@@ -39752,13 +39752,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Russet",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-russet-evergreen-magnolia",
@@ -39821,13 +39821,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "grandiflora",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Teddy Bear",
     "synonyms": [],
     "commonName": "Evergreen Magnolia",
     "url": "magnolia-grandiflora-teddy-bear-evergreen-magnolia",

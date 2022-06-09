@@ -1218,3 +1218,21 @@
     from = "/trees/magnolia-yellow-bird/"
     status = 301
     to = "/trees/magnolia-x-brooklynensis-yellow-bird-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-galaxy/"
+    status = 301
+    to = "/trees/magnolia-galaxy-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-genie/"
+    status = 301
+    to = "/trees/magnolia-genie-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-gold-star/"
+    status = 301
+    to = "/trees/magnolia-gold-star-magnolia/"
