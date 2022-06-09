@@ -39117,7 +39117,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-galaxy-magnolia",
     "mainImage": "magnolia-galaxy-magnolia/magnolia-galaxy-magnolia.jpeg",
-    "description": "Large, dark-pink, slender, tulip-shaped flowers in late-spring. Ideal in areas that get late frosts. Fragrant flowers with a sweet smell. Upright, pyramidal grower. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Galaxy' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='https://www.rhs.org.uk/plants/96260/magnolia-sprengeri-var-diva/details' target='_blank' rel='noopener noreferrer'><i>Magnolia sprengeri</i> var. <i>diva</i></a>.",
+    "description": "Large, dark-pink, slender, tulip-shaped flowers in late-spring. Ideal in areas that get late frosts. Fragrant flowers with a sweet smell. Upright, pyramidal grower. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Galaxy' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='https://www.gardenia.net/plant/magnolia-sprengeri-var-diva-diva-sprengers-magnolia' target='_blank' rel='noopener noreferrer'><i>Magnolia sprengeri</i> var. <i>diva</i> 'Diva'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -39894,18 +39894,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Heaven Scent",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-heaven-scent",
-    "mainImage": "magnolia-heaven-scent/magnolia-heaven-scent.jpeg",
-    "description": "Erect, pastel lavender-pink, tulip-shaped blooms, paler towards the tips and with white interiors. A unique colour among magnolias and flowers have a pleasant fragrance. Upright, rounded grower. Mid-spring flowering. Flowers from an early age. Excellent street tree.",
+    "url": "magnolia-heaven-scent-magnolia",
+    "mainImage": "magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia.jpeg",
+    "description": "Erect, pastel lavender-pink, tulip-shaped blooms, paler towards the tips and with white interiors. A unique colour among magnolias and flowers have a pleasant fragrance. Upright, rounded grower. Mid-spring flowering. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Heaven Scent' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='https://frustratedgardener.com/2019/03/19/magnolia-x-veitchii-peter-veitch/' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>veitchii</i> 'Peter Veitch'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -39943,28 +39943,28 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-flowering-garden.jpg",
-        "alt": "magnolia heaven scent flowering garden"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-flowering-garden.jpg",
+        "alt": "magnolia heaven scent magnolia flowering garden"
       },
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-flowering-tree.jpg",
-        "alt": "magnolia heaven scent flowering tree"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-flowering-tree.jpg",
+        "alt": "magnolia heaven scent magnolia flowering tree"
       },
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-flowering.jpg",
-        "alt": "magnolia heaven scent flowering"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-flowering.jpg",
+        "alt": "magnolia heaven scent magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-flowers.jpeg",
-        "alt": "magnolia heaven scent flowers"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-flowers.jpeg",
+        "alt": "magnolia heaven scent magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-young-flowering-tree.jpg",
-        "alt": "magnolia heaven scent young flowering tree"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-young-flowering-tree.jpg",
+        "alt": "magnolia heaven scent magnolia young flowering tree"
       },
       {
-        "src": "images/trees/magnolia-heaven-scent/magnolia-heaven-scent-young-tree.jpg",
-        "alt": "magnolia heaven scent young tree"
+        "src": "images/trees/magnolia-heaven-scent-magnolia/magnolia-heaven-scent-magnolia-young-tree.jpg",
+        "alt": "magnolia heaven scent magnolia young tree"
       }
     ],
     "links": [
@@ -39974,18 +39974,28 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
+    "cultivar": "Hollywell",
+    "synonyms": [
+      {
+        "genus": "Magnolia",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Holywell"
+      }
+    ],
     "commonName": "Magnolia",
-    "url": "magnolia-holywell",
-    "mainImage": "magnolia-holywell/magnolia-holywell.jpg",
-    "description": "Large, soft-pink blooms in spring of firm texture open out to reveal a white inner. Delicious, delicate fragrance.",
+    "url": "magnolia-hollywell-magnolia",
+    "mainImage": "magnolia-hollywell-magnolia/magnolia-hollywell-magnolia.jpg",
+    "description": "Large, soft-pink blooms in spring of firm texture open out to reveal a white inner. Delicious, delicate fragrance. <i>Magnolia</i> 'Hollywell' is a seedling of <a href='https://www.gardenia.net/plant/magnolia-sprengeri-var-diva-diva-sprengers-magnolia' target='_blank' rel='noopener noreferrer'><i>Magnolia sprengeri</i> var. <i>diva</i> 'Diva'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -40023,8 +40033,8 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-holywell/magnolia-holywell-flower.jpg",
-        "alt": "magnolia holywell flower"
+        "src": "images/trees/magnolia-hollywell-magnolia/magnolia-hollywell-magnolia-flower.jpg",
+        "alt": "magnolia hollywell magnolia flower"
       }
     ],
     "links": ["https://www.magnoliasociety.org/CultivarChecklist"]

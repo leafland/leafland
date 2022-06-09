@@ -1236,3 +1236,15 @@
     from = "/trees/magnolia-gold-star/"
     status = 301
     to = "/trees/magnolia-gold-star-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-heaven-scent/"
+    status = 301
+    to = "/trees/magnolia-heaven-scent-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-holywell/"
+    status = 301
+    to = "/trees/magnolia-hollywell-magnolia/"
