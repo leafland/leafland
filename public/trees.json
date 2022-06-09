@@ -37713,7 +37713,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-black-tulip-magnolia",
     "mainImage": "magnolia-black-tulip-magnolia/magnolia-black-tulip-magnolia.jpeg",
-    "description": "Goblet-shaped, heavily-textured blooms of glowing black-red on a neat, rounded tree. The flowers retain their shape and solid colour. Flowers from an early age. Ideal for the smaller garden. Mid-spring flowering. <i>Magnolia</i> 'Black Tulip' is a hybrid between <a href='/trees/magnolia-vulcan/'><i>Magnolia</i> 'Vulcan'</a> and <a href='/trees/magnolia-iolanthe-magnolia/'><i>Magnolia</i> 'Iolanthe'</a>.",
+    "description": "Goblet-shaped, heavily-textured blooms of glowing black-red on a neat, rounded tree. The flowers retain their shape and solid colour. Flowers from an early age. Ideal for the smaller garden. Mid-spring flowering. <i>Magnolia</i> 'Black Tulip' is a hybrid between <a href='/trees/magnolia-vulcan-magnolia/'><i>Magnolia</i> 'Vulcan'</a> and <a href='/trees/magnolia-iolanthe-magnolia/'><i>Magnolia</i> 'Iolanthe'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -38032,7 +38032,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-burgundy-star-magnolia",
     "mainImage": "magnolia-burgundy-star-magnolia/magnolia-burgundy-star-magnolia.jpeg",
-    "description": "Glowing, burgundy-red, tulip-shaped buds which open out to large, star-shaped flowers. Very floriferous variety which flowers from an early age and for a prolonged period. Narrow, erect grower. Great where space is limited. Mid-spring flowering. Excellent street tree. <i>Magnolia</i> 'Burgundy Star' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='/trees/magnolia-vulcan'><i>Magnolia</i> 'Vulcan'</a>.",
+    "description": "Glowing, burgundy-red, tulip-shaped buds which open out to large, star-shaped flowers. Very floriferous variety which flowers from an early age and for a prolonged period. Narrow, erect grower. Great where space is limited. Mid-spring flowering. Excellent street tree. <i>Magnolia</i> 'Burgundy Star' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='/trees/magnolia-vulcan-magnolia'><i>Magnolia</i> 'Vulcan'</a>.",
     "uses": "street, narrow-sites",
     "tolerates": "",
     "soilType": "",
@@ -38587,7 +38587,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-charisma-magnolia",
     "mainImage": "magnolia-charisma-magnolia/magnolia-charisma-magnolia.jpg",
-    "description": "New Zealand hybrid. Very large cup and saucer-shaped flowers of red in spring. Upright grower. <i>Magnolia</i> 'Charisma' is a hybrid between <a href='/trees/magnolia-j-c-williams-magnolia/'><i>Magnolia</i> 'J.C. Williams'</a> and <a href='/trees/magnolia-vulcan'><i>Magnolia</i> 'Vulcan'</a>.",
+    "description": "New Zealand hybrid. Very large cup and saucer-shaped flowers of red in spring. Upright grower. <i>Magnolia</i> 'Charisma' is a hybrid between <a href='/trees/magnolia-j-c-williams-magnolia/'><i>Magnolia</i> 'J.C. Williams'</a> and <a href='/trees/magnolia-vulcan-magnolia'><i>Magnolia</i> 'Vulcan'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -40062,7 +40062,7 @@
     "commonName": "Magnolia",
     "url": "magnolia-honey-tulip-magnolia",
     "mainImage": "magnolia-honey-tulip-magnolia/magnolia-honey-tulip-magnolia.jpeg",
-    "description": "Golden form of Magnolia 'Black Tulip' with the same heavily-textured, goblet-shaped flowers, but a smaller growth habit. Retains its yellow colouring without fading. Flowers from late-winter to early-spring. Great for the smaller garden. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Honey Tulip' is a hybrid between <a href='/trees/magnolia-x-brooklynensis-yellow-bird-magnolia/'><i>Magnolia</i> x <i>brooklynensis</i> 'Yellow Bird'</a> and <a href='/trees/magnolia-iolanthe-magnolia-magnolia/'><i>Magnolia</i> 'Iolanthe'</a>.",
+    "description": "Golden form of Magnolia 'Black Tulip' with the same heavily-textured, goblet-shaped flowers, but a smaller growth habit. Retains its yellow colouring without fading. Flowers from late-winter to early-spring. Great for the smaller garden. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Honey Tulip' is a hybrid between <a href='/trees/magnolia-x-brooklynensis-yellow-bird-magnolia/'><i>Magnolia</i> x <i>brooklynensis</i> 'Yellow Bird'</a> and <a href='/trees/magnolia-iolanthe-magnolia/'><i>Magnolia</i> 'Iolanthe'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -41671,6 +41671,95 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Sundew",
+    "synonyms": [
+      {
+        "genus": "Magnolia",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sundew"
+      },
+      {
+        "genus": "Magnolia",
+        "species": "",
+        "hybrid": "soulangeana",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pickard's Sundew"
+      },
+      {
+        "genus": "Magnolia",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pickard's Sundew"
+      }
+    ],
+    "commonName": "Saucer Magnolia",
+    "url": "magnolia-x-soulangeana-sundew-saucer-magnolia",
+    "mainImage": "magnolia-x-soulangeana-sundew-saucer-magnolia/magnolia-x-soulangeana-sundew-saucer-magnolia.jpg",
+    "description": "Beautiful, clear-pink, goblet-shaped flowers over a long period from early-spring. Has elegant, spreading branches. Flowers from an early age. <i>Magnolia</i> x <i>soulangeana</i> 'Sundew' is believed to be a seedling of <a href='https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261562' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>soulangeana</i> 'Picture'</a>.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "6m",
+    "width": "5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/magnolia/magnolia-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/magnolia-x-soulangeana-sundew-saucer-magnolia/magnolia-x-soulangeana-sundew-saucer-magnolia-bud.jpeg",
+        "alt": "magnolia x soulangeana sundew saucer magnolia bud"
+      },
+      {
+        "src": "images/trees/magnolia-x-soulangeana-sundew-saucer-magnolia/magnolia-x-soulangeana-sundew-saucer-magnolia-flowers.jpg",
+        "alt": "magnolia x soulangeana sundew saucer magnolia flowers"
+      }
+    ],
+    "links": ["https://www.magnoliasociety.org/CultivarChecklist"]
+  },
+  {
+    "family": "",
+    "genus": "Magnolia",
+    "species": "",
+    "hybrid": "soulangeana",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Touch Of Class",
     "synonyms": [],
     "commonName": "Magnolia",
@@ -41788,8 +41877,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -41853,18 +41942,18 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Dawn",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-dawn-star-magnolia",
     "mainImage": "magnolia-stellata-dawn-star-magnolia/magnolia-stellata-dawn-star-magnolia.jpeg",
-    "description": "One of the best pink-flowering star magnolias. The flowers are pink in bud, opening blush-pink, and fading to white-pink. Has lighter-pink flowers than Magnolia stellata 'Jane Platt'. A strong, vigorous grower. Flowers early-spring in great abundance.",
+    "description": "One of the best pink-flowering star magnolias. The flowers are pink in bud, opening blush-pink, and fading to white-pink. Has lighter-pink flowers than <a href='/trees/magnolia-stellata-jane-platt-star-magnolia/'><i>Magnolia stellata</i> 'Jane Platt'</a>. A strong, vigorous grower. Flowers early-spring in great abundance.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -41918,18 +42007,18 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Jane Platt",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-jane-platt-star-magnolia",
     "mainImage": "magnolia-stellata-jane-platt-star-magnolia/magnolia-stellata-jane-platt-star-magnolia.jpeg",
-    "description": "Forms a compact, densely-branched, spreading tree. Deep-pink buds open to frilly flowers of white with pink undersides. Has darker-pink flowers than Magnolia stellata 'Dawn'. Very pretty and desirable. Early-spring flowering. Flowers from an early age.",
+    "description": "Forms a compact, densely-branched, spreading tree. Deep-pink buds open to frilly flowers of white with pink undersides. Has darker-pink flowers than <a href='/trees/magnolia-stellata-dawn-star-magnolia/'><i>Magnolia stellata</i> 'Dawn'</a>. Very pretty and desirable. Early-spring flowering. Flowers from an early age.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -41983,13 +42072,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "King Rose",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-king-rose-star-magnolia",
@@ -42044,13 +42133,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Rosea",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-rosea-star-magnolia",
@@ -42096,13 +42185,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Royal Star",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-royal-star-star-magnolia",
@@ -42161,13 +42250,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Magnolia",
+    "species": "stellata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Waterlily",
     "synonyms": [],
     "commonName": "Star Magnolia",
     "url": "magnolia-stellata-waterlily-star-magnolia",
@@ -42222,18 +42311,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Strawberry Fields",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-strawberry-fields",
-    "mainImage": "magnolia-strawberry-fields/magnolia-strawberry-fields.jpeg",
-    "description": "Upright, columnar grower. In early-spring, fat, furry buds split to release large, vibrant, wine-red goblets which open out into a star of broad petals. Flowers from an early age. Excellent street tree.",
+    "url": "magnolia-strawberry-fields-magnolia",
+    "mainImage": "magnolia-strawberry-fields-magnolia/magnolia-strawberry-fields-magnolia.jpeg",
+    "description": "Upright, columnar grower. In early-spring, fat, furry buds split to release large, vibrant, wine-red goblets which open out into a star of broad petals. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Strawberry Fields' is a hybrid between <a href='https://www.rhs.org.uk/plants/134763/magnolia-pegasus/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> 'Pegasus'</a> and <a href='/trees/magnolia-vulcan-magnolia'><i>Magnolia</i> 'Vulcan'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -42271,26 +42360,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-strawberry-fields/magnolia-strawberry-fields-flowering.jpg",
-        "alt": "magnolia strawberry fields flowering"
+        "src": "images/trees/magnolia-strawberry-fields-magnolia/magnolia-strawberry-fields-magnolia-flowering.jpg",
+        "alt": "magnolia strawberry fields magnolia flowering"
       }
     ],
     "links": ["https://www.magnoliasociety.org/CultivarChecklist"]
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sundance",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-sundance",
-    "mainImage": "magnolia-sundance/magnolia-sundance.jpeg",
-    "description": "Elegant, tulip-shaped, deep-yellow flowers dance like canaries on the bare branches in mid-spring. Tidy, conical grower with slender branches. Flowers from an early age.",
+    "url": "magnolia-sundance-magnolia",
+    "mainImage": "magnolia-sundance-magnolia/magnolia-sundance-magnolia.jpeg",
+    "description": "Elegant, tulip-shaped, deep-yellow flowers dance like canaries on the bare branches in mid-spring. Tidy, conical grower with slender branches. Flowers from an early age. <i>Magnolia</i> 'Sundance' is a hybrid between <a href='https://treesandshrubsonline.org/articles/magnolia/magnolia-acuminata/' target='_blank' rel='noopener noreferrer'><i>Magnolia acuminata</i></a> and <a href='/trees/magnolia-denudata-yulan-magnolia/'><i>Magnolia denudata</i></a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -42328,24 +42417,24 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-sundance/magnolia-sundance-flowering-garden.jpg",
-        "alt": "magnolia sundance flowering garden"
+        "src": "images/trees/magnolia-sundance-magnolia/magnolia-sundance-magnolia-flowering-garden.jpg",
+        "alt": "magnolia sundance magnolia flowering garden"
       },
       {
-        "src": "images/trees/magnolia-sundance/magnolia-sundance-flowering.jpg",
-        "alt": "magnolia sundance flowering"
+        "src": "images/trees/magnolia-sundance-magnolia/magnolia-sundance-magnolia-flowering.jpg",
+        "alt": "magnolia sundance magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-sundance/magnolia-sundance-flowers.jpg",
-        "alt": "magnolia sundance flowers"
+        "src": "images/trees/magnolia-sundance-magnolia/magnolia-sundance-magnolia-flowers.jpg",
+        "alt": "magnolia sundance magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-sundance/magnolia-sundance-foliage.jpg",
-        "alt": "magnolia sundance foliage"
+        "src": "images/trees/magnolia-sundance-magnolia/magnolia-sundance-magnolia-foliage.jpg",
+        "alt": "magnolia sundance magnolia foliage"
       },
       {
-        "src": "images/trees/magnolia-sundance/magnolia-sundance-garden.jpg",
-        "alt": "magnolia sundance garden"
+        "src": "images/trees/magnolia-sundance-magnolia/magnolia-sundance-magnolia-garden.jpg",
+        "alt": "magnolia sundance magnolia garden"
       }
     ],
     "links": [
@@ -42355,79 +42444,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sunsation",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-sundew",
-    "mainImage": "magnolia-sundew/magnolia-sundew.jpg",
-    "description": "Beautiful, clear-pink, goblet-shaped flowers over a long period from early-spring. Has elegant, spreading branches. Flowers from an early age.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "6m",
-    "width": "5m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/magnolia/magnolia-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/magnolia-sundew/magnolia-sundew-bud.jpeg",
-        "alt": "magnolia sundew bud"
-      },
-      {
-        "src": "images/trees/magnolia-sundew/magnolia-sundew-flowers.jpg",
-        "alt": "magnolia sundew flowers"
-      }
-    ],
-    "links": ["https://www.magnoliasociety.org/CultivarChecklist"]
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Magnolia",
-    "url": "magnolia-sunsation",
-    "mainImage": "magnolia-sunsation/magnolia-sunsation.jpg",
-    "description": "Green buds open to cup-shaped, yellow flowers with a green tinge and a red base. Very profuse flowering in mid-spring, mostly before the leaves emerge. Has an upright, columnar form which fits into smaller spaces.",
+    "url": "magnolia-sunsation-magnolia",
+    "mainImage": "magnolia-sunsation-magnolia/magnolia-sunsation-magnolia.jpg",
+    "description": "Green buds open to cup-shaped, yellow flowers with a green tinge and a red base. Very profuse flowering in mid-spring, mostly before the leaves emerge. Has an upright, columnar form which fits into smaller spaces. <i>Magnolia</i> 'Sunsation' is a hybrid between <a href='/trees/magnolia-x-brooklynensis-woodsman-magnolia/'><i>Magnolia</i> x <i>brooklynensis</i> 'Woodsman'</a> and <a href='https://www.gardenia.net/plant/magnolia-elizabeth' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>brooklynensis</i> 'Elizabeth'</a>.",
     "uses": "narrow-sites",
     "tolerates": "",
     "soilType": "",
@@ -42465,16 +42493,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-sunsation/magnolia-sunsation-flower.jpg",
-        "alt": "magnolia sunsation flower"
+        "src": "images/trees/magnolia-sunsation-magnolia/magnolia-sunsation-magnolia-flower.jpg",
+        "alt": "magnolia sunsation magnolia flower"
       },
       {
-        "src": "images/trees/magnolia-sunsation/magnolia-sunsation-flowering.jpg",
-        "alt": "magnolia sunsation flowering"
+        "src": "images/trees/magnolia-sunsation-magnolia/magnolia-sunsation-magnolia-flowering.jpg",
+        "alt": "magnolia sunsation magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-sunsation/magnolia-sunsation-flowers.jpg",
-        "alt": "magnolia sunsation flowers"
+        "src": "images/trees/magnolia-sunsation-magnolia/magnolia-sunsation-magnolia-flowers.jpg",
+        "alt": "magnolia sunsation magnolia flowers"
       }
     ],
     "links": [
@@ -42484,18 +42512,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Susan",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-susan",
-    "mainImage": "magnolia-susan/magnolia-susan.jpg",
-    "description": "An upright, multi-branched grower. Erect, long, tapered, deep claret-purple buds open to red-violet flowers with white-tinged violet interiors. Flowers with great abundance in late-spring, from an early age. Flowers are slightly fragrant.",
+    "url": "magnolia-susan-magnolia",
+    "mainImage": "magnolia-susan-magnolia/magnolia-susan-magnolia.jpg",
+    "description": "An upright, multi-branched grower. Erect, long, tapered, deep claret-purple buds open to red-violet flowers with white-tinged violet interiors. Flowers with great abundance in late-spring, from an early age. Flowers are slightly fragrant. <i>Magnolia</i> 'Susan' is a hybrid between <a href='/trees/magnolia-liliiflora-nigra-lily-magnolia/'><i>Magnolia liliiflora</i> 'Nigra'</a> and <a href='/trees/magnolia-stellata-rosea-star-magnolia/'><i>Magnolia stellata</i> 'Rosea'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -42533,8 +42561,8 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-susan/magnolia-susan-flowering.jpg",
-        "alt": "magnolia susan flowering"
+        "src": "images/trees/magnolia-susan-magnolia/magnolia-susan-magnolia-flowering.jpg",
+        "alt": "magnolia susan magnolia flowering"
       }
     ],
     "links": [
@@ -42544,18 +42572,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sweet Merlot",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-sweet-merlot",
-    "mainImage": "magnolia-sweet-merlot/magnolia-sweet-merlot.jpg",
-    "description": "Medium-sized, globe-shaped flowers are coloured claret-red. Bears a profusion of flowers in spring which cut well. Neat tree of conical shape.",
+    "url": "magnolia-sweet-merlot-magnolia",
+    "mainImage": "magnolia-sweet-merlot-magnolia/magnolia-sweet-merlot-magnolia.jpg",
+    "description": "Medium-sized, globe-shaped flowers are coloured claret-red. Bears a profusion of flowers in spring which cut well. Neat tree of conical shape. <i>Magnolia</i> 'Sweet Merlot' is a hybrid between <a href='https://www.rhs.org.uk/plants/140766/magnolia-x-soulangeana-sweet-simplicity/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>soulangeana</i> 'Sweet Simplicity'</a> and <a href='/trees/magnolia-black-tulip-magnolia/'><i>Magnolia</i> 'Black Tulip'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -42599,18 +42627,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sweetheart",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-sweetheart",
-    "mainImage": "magnolia-sweetheart/magnolia-sweetheart.jpg",
-    "description": "Great for restricted spaces where height is required. A profusion of large, heavily-textured, rich clear-pink flowers, paler within. Flowers from an early age. Mid-spring flowering. Excellent street tree.",
+    "url": "magnolia-sweetheart-magnolia",
+    "mainImage": "magnolia-sweetheart-magnolia/magnolia-sweetheart-magnolia.jpg",
+    "description": "Great for restricted spaces where height is required. A profusion of large, heavily-textured, rich clear-pink flowers, paler within. Flowers from an early age. Mid-spring flowering. Excellent street tree. <i>Magnolia</i> 'Sweetheart' is a seedling of <a href='https://www.rhs.org.uk/plants/43334/magnolia-caerhays-belle-/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> 'Caerhays Belle'</a>.",
     "uses": "street, narrow-sites",
     "tolerates": "",
     "soilType": "",
@@ -42654,73 +42682,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Todd Gresham",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-thomas-messel",
-    "mainImage": "magnolia-thomas-messel/magnolia-thomas-messel.jpg",
-    "description": "Vigorous, upright, conical grower, ideal to site where space is restricted. Large, pure-white flowers are flushed deep-pink at the base. Mid to late-spring flowering. Flowers from an early age. Excellent street tree.",
-    "uses": "narrow-sites",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "5m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/magnolia/magnolia-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": [
-      "https://www.magnoliasociety.org/CultivarChecklist",
-      "https://treesandshrubsonline.org/articles/magnolia/magnolia-cultivars-t/"
-    ]
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Magnolia",
-    "url": "magnolia-todd-gresham",
-    "mainImage": "magnolia-todd-gresham/magnolia-todd-gresham.jpg",
-    "description": "Goblet-shaped flowers are purple on the outside with white interiors. Flowers for a long period from early-spring. Has elegant, spreading branches. Flowers from an early age.",
+    "url": "magnolia-todd-gresham-magnolia",
+    "mainImage": "magnolia-todd-gresham-magnolia/magnolia-todd-gresham-magnolia.jpg",
+    "description": "Goblet-shaped flowers are purple on the outside with white interiors. Flowers for a long period from early-spring. Has elegant, spreading branches. Flowers from an early age. <i>Magnolia</i> 'Todd Gresham' is a hybrid between <a href='https://treesandshrubsonline.org/articles/magnolia/magnolia-x-veitchii/' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>veitchii</i></a> and <a href='/trees/magnolia-x-soulangeana-rustica-rubra-saucer-magnolia/'><i>Magnolia</i> x <i>soulangeana</i> 'Rustica Rubra'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -42758,12 +42731,12 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-todd-gresham/magnolia-todd-gresham-flowering.jpg",
-        "alt": "magnolia todd gresham flowering"
+        "src": "images/trees/magnolia-todd-gresham-magnolia/magnolia-todd-gresham-magnolia-flowering.jpg",
+        "alt": "magnolia todd gresham magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-todd-gresham/magnolia-todd-gresham-flowers.jpg",
-        "alt": "magnolia todd gresham flowers"
+        "src": "images/trees/magnolia-todd-gresham-magnolia/magnolia-todd-gresham-magnolia-flowers.jpg",
+        "alt": "magnolia todd gresham magnolia flowers"
       }
     ],
     "links": [
@@ -42773,18 +42746,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Ula",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-ula",
-    "mainImage": "magnolia-ula/magnolia-ula.jpg",
-    "description": "Blooms appear in late-spring when most other magnolias are past their best. Has spectacular blooms of rose-pink.",
+    "url": "magnolia-ula-magnolia",
+    "mainImage": "magnolia-ula-magnolia/magnolia-ula-magnolia.jpg",
+    "description": "Blooms appear in late-spring when most other magnolias are past their best. Has spectacular blooms of rose-pink. <i>Magnolia</i> 'Ula' is a hyrbid between <a href='https://www.rhs.org.uk/plants/43334/magnolia-caerhays-belle-/details' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> 'Caerhays Belle'</a> and <a href='/trees/magnolia-x-soulangeana-alba-saucer-magnolia/'><i>Magnolia</i> x <i>soulangeana</i> 'Alba'</a>.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -42822,26 +42795,26 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-ula/magnolia-ula-bud.jpg",
-        "alt": "magnolia ula bud"
+        "src": "images/trees/magnolia-ula-magnolia/magnolia-ula-magnolia-bud.jpg",
+        "alt": "magnolia ula magnolia bud"
       }
     ],
     "links": ["https://www.magnoliasociety.org/CultivarChecklist"]
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Vulcan",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-vulcan",
-    "mainImage": "magnolia-vulcan/magnolia-vulcan.jpeg",
-    "description": "Erect and open-branched habit. Massive, brilliant, ruby-red, heavily-textured flowers open from wine-red buds from late-winter to early-spring. They exude a fruity fragrance. Not good for areas with early spring frosts. Flowers from an early age.",
+    "url": "magnolia-vulcan-magnolia",
+    "mainImage": "magnolia-vulcan-magnolia/magnolia-vulcan-magnolia.jpeg",
+    "description": "Erect and open-branched habit. Massive, brilliant, ruby-red, heavily-textured flowers open from wine-red buds from late-winter to early-spring. They exude a fruity fragrance. Not good for areas with early spring frosts. Flowers from an early age. <i>Magnolia</i> 'Vulcan' is a hybrid between <a href='https://treesandshrubsonline.org/articles/magnolia/magnolia-campbellii/' target='_blank' rel='noopener noreferrer'><i>Magnolia campbellii</i></a> and <a href='https://landscapeplants.oregonstate.edu/plants/magnolia-liliiflora' target='_blank' rel='noopener noreferrer'><i>Magnolia liliiflora</i></a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -42879,16 +42852,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-vulcan/magnolia-vulcan-flowering.jpg",
-        "alt": "magnolia vulcan flowering"
+        "src": "images/trees/magnolia-vulcan-magnolia/magnolia-vulcan-magnolia-flowering.jpg",
+        "alt": "magnolia vulcan magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-vulcan/magnolia-vulcan-flowers.jpeg",
-        "alt": "magnolia vulcan flowers"
+        "src": "images/trees/magnolia-vulcan-magnolia/magnolia-vulcan-magnolia-flowers.jpeg",
+        "alt": "magnolia vulcan magnolia flowers"
       },
       {
-        "src": "images/trees/magnolia-vulcan/magnolia-vulcan-foliage.jpg",
-        "alt": "magnolia vulcan foliage"
+        "src": "images/trees/magnolia-vulcan-magnolia/magnolia-vulcan-magnolia-foliage.jpg",
+        "alt": "magnolia vulcan magnolia foliage"
       }
     ],
     "links": [
@@ -42898,18 +42871,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Yellow Fever",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-yellow-fever",
-    "mainImage": "magnolia-yellow-fever/magnolia-yellow-fever.jpg",
-    "description": "Cup-shaped, rich butter-yellow flowers appear just before the leaves in mid-spring. Upright, conical grower. Flowers from an early age. Excellent street tree.",
+    "url": "magnolia-yellow-fever-magnolia",
+    "mainImage": "magnolia-yellow-fever-magnolia/magnolia-yellow-fever-magnolia.jpg",
+    "description": "Cup-shaped, rich butter-yellow flowers appear just before the leaves in mid-spring. Upright, conical grower. Flowers from an early age. Excellent street tree. <i>Magnolia</i> 'Yellow Fever' is a hybrid between <a href='https://treesandshrubsonline.org/articles/magnolia/magnolia-acuminata/' target='_blank' rel='noopener noreferrer'><i>Magnolia acuminata</i></a> and <a href='/trees/magnolia-denudata-yulan-magnolia/'><i>Magnolia denudata</i></a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -42953,18 +42926,18 @@
   },
   {
     "family": "",
-    "genus": "",
+    "genus": "Magnolia",
     "species": "",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Yellow Lantern",
     "synonyms": [],
     "commonName": "Magnolia",
-    "url": "magnolia-yellow-lantern",
-    "mainImage": "magnolia-yellow-lantern/magnolia-yellow-lantern.jpeg",
-    "description": "Large flowers are yellow with a hint of pink at the base. The flowers are tulip-shaped and fragrant. Flowers in mid-spring. An upright grower.",
+    "url": "magnolia-yellow-lantern-magnolia",
+    "mainImage": "magnolia-yellow-lantern-magnolia/magnolia-yellow-lantern-magnolia.jpeg",
+    "description": "Large flowers are yellow with a hint of pink at the base. The flowers are tulip-shaped and fragrant. Flowers in mid-spring. An upright grower. <i>Magnolia</i> 'Yellow Lantern' is a hybrid between <a href='https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=249442' target='_blank' rel='noopener noreferrer'><i>Magnolia acuminata</i> var. <i>subcordata</i> 'Miss Honeybee'</a> and <a href='https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261558' target='_blank' rel='noopener noreferrer'><i>Magnolia</i> x <i>soulangeana</i> 'Alexandrina'</a>.",
     "uses": "street",
     "tolerates": "",
     "soilType": "",
@@ -43002,16 +42975,16 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/magnolia-yellow-lantern/magnolia-yellow-lantern-flower.jpeg",
-        "alt": "magnolia yellow lantern flower"
+        "src": "images/trees/magnolia-yellow-lantern-magnolia/magnolia-yellow-lantern-magnolia-flower.jpeg",
+        "alt": "magnolia yellow lantern magnolia flower"
       },
       {
-        "src": "images/trees/magnolia-yellow-lantern/magnolia-yellow-lantern-flowering.jpg",
-        "alt": "magnolia yellow lantern flowering"
+        "src": "images/trees/magnolia-yellow-lantern-magnolia/magnolia-yellow-lantern-magnolia-flowering.jpg",
+        "alt": "magnolia yellow lantern magnolia flowering"
       },
       {
-        "src": "images/trees/magnolia-yellow-lantern/magnolia-yellow-lantern-flowers.jpg",
-        "alt": "magnolia yellow lantern flowers"
+        "src": "images/trees/magnolia-yellow-lantern-magnolia/magnolia-yellow-lantern-magnolia-flowers.jpg",
+        "alt": "magnolia yellow lantern magnolia flowers"
       }
     ],
     "links": [

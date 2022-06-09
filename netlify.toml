@@ -1332,3 +1332,75 @@
     from = "/trees/magnolia-star-wars/"
     status = 301
     to = "/trees/magnolia-star-wars-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-strawberry-fields/"
+    status = 301
+    to = "/trees/magnolia-strawberry-fields-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sundance/"
+    status = 301
+    to = "/trees/magnolia-sundance-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sundew/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-sundew-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sunsation/"
+    status = 301
+    to = "/trees/magnolia-sunsation-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-susan/"
+    status = 301
+    to = "/trees/magnolia-susan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sweet-merlot/"
+    status = 301
+    to = "/trees/magnolia-sweet-merlot-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sweetheart/"
+    status = 301
+    to = "/trees/magnolia-sweetheart-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-todd-gresham/"
+    status = 301
+    to = "/trees/magnolia-todd-gresham-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-ula/"
+    status = 301
+    to = "/trees/magnolia-ula-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-vulcan/"
+    status = 301
+    to = "/trees/magnolia-vulcan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-fever/"
+    status = 301
+    to = "/trees/magnolia-yellow-fever-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-lantern/"
+    status = 301
+    to = "/trees/magnolia-yellow-lantern-magnolia/"
