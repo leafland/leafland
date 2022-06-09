@@ -1278,3 +1278,57 @@
     from = "/trees/magnolia-lois/"
     status = 301
     to = "/trees/magnolia-lois-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-manchu-fan/"
+    status = 301
+    to = "/trees/magnolia-manchu-fan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-margaret-helen/"
+    status = 301
+    to = "/trees/magnolia-margaret-helen-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-milky-way/"
+    status = 301
+    to = "/trees/magnolia-milky-way-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-purple-sensation/"
+    status = 301
+    to = "/trees/magnolia-purple-sensation-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-royal-purple/"
+    status = 301
+    to = "/trees/magnolia-royal-purple-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-serene/"
+    status = 301
+    to = "/trees/magnolia-serene-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-shirazz/"
+    status = 301
+    to = "/trees/magnolia-shirazz-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-solar-flair/"
+    status = 301
+    to = "/trees/magnolia-solar-flair-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-star-wars/"
+    status = 301
+    to = "/trees/magnolia-star-wars-magnolia/"
