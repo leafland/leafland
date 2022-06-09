@@ -1248,3 +1248,33 @@
     from = "/trees/magnolia-holywell/"
     status = 301
     to = "/trees/magnolia-hollywell-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-honey-tulip/"
+    status = 301
+    to = "/trees/magnolia-honey-tulip-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-ians-red/"
+    status = 301
+    to = "/trees/magnolia-ians-red-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-iolanthe/"
+    status = 301
+    to = "/trees/magnolia-iolanthe-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-jc-williams/"
+    status = 301
+    to = "/trees/magnolia-j-c-williams-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-lois/"
+    status = 301
+    to = "/trees/magnolia-lois-magnolia/"
