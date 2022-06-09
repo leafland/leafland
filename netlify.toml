@@ -1104,3 +1104,117 @@
     from = "/trees/magnolia-amethyst-flame/"
     status = 301
     to = "/trees/magnolia-amethyst-flame-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-arabian-nights/"
+    status = 301
+    to = "/trees/magnolia-arabian-nights-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-athene/"
+    status = 301
+    to = "/trees/magnolia-athene-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-atlas/"
+    status = 301
+    to = "/trees/magnolia-atlas-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-billowing-cloud/"
+    status = 301
+    to = "/trees/magnolia-billowing-cloud-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-black-tulip/"
+    status = 301
+    to = "/trees/magnolia-black-tulip-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-brixton-belle/"
+    status = 301
+    to = "/trees/magnolia-brixton-belle-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-burgundy-star/"
+    status = 301
+    to = "/trees/magnolia-burgundy-star-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-butterflies/"
+    status = 301
+    to = "/trees/magnolia-butterflies-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-cameo/"
+    status = 301
+    to = "/trees/magnolia-cameo-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-charisma/"
+    status = 301
+    to = "/trees/magnolia-charisma-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-cleopatra/"
+    status = 301
+    to = "/trees/magnolia-cleopatra-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-deryk/"
+    status = 301
+    to = "/trees/magnolia-deryk-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-felix/"
+    status = 301
+    to = "/trees/magnolia-felix-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-forest-pink/"
+    status = 301
+    to = "/trees/magnolia-forrests-pink-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-lanarth/"
+    status = 301
+    to = "/trees/magnolia-campbellii-lanarth-campbells-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-old-port/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-old-port-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-touch-of-class/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-touch-of-class-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-woodsman/"
+    status = 301
+    to = "/trees/magnolia-x-brooklynensis-woodsman-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-bird/"
+    status = 301
+    to = "/trees/magnolia-x-brooklynensis-yellow-bird-magnolia/"
