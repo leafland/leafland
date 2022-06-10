@@ -1404,3 +1404,99 @@
     from = "/trees/magnolia-yellow-lantern/"
     status = 301
     to = "/trees/magnolia-yellow-lantern-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-flatto-button-bright/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-button-bright-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-goldmine/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-goldmine-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-mabel/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-mabel-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-queen-giant/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-queen-giant-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-snow-queen/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-snow-queen-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-ascolano/"
+    status = 301
+    to = "/trees/olea-europaea-ascolano-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-barnea/"
+    status = 301
+    to = "/trees/olea-europaea-barnea-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-el-greco/"
+    status = 301
+    to = "/trees/olea-europaea-el-greco-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-frantoio/"
+    status = 301
+    to = "/trees/olea-europaea-frantoio-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-j5/"
+    status = 301
+    to = "/trees/olea-europaea-j5-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-koroneiki/"
+    status = 301
+    to = "/trees/olea-europaea-koroneiki-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-leccino/"
+    status = 301
+    to = "/trees/olea-europaea-leccino-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-manzanillo/"
+    status = 301
+    to = "/trees/olea-europaea-manzanillo-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-mission/"
+    status = 301
+    to = "/trees/olea-europaea-mission-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-picual/"
+    status = 301
+    to = "/trees/olea-europaea-picual-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-verdale/"
+    status = 301
+    to = "/trees/olea-europaea-verdale-olive/"

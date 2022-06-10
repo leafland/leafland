@@ -492,7 +492,7 @@
     "commonName": "Campbell's Maple",
     "url": "acer-campbellii-gwavas-campbells-maple",
     "mainImage": "acer-campbellii-gwavas-campbells-maple/acer-campbellii-gwavas-campbells-maple.jpg",
-    "description": "Species from Western China. Large, deeply-lobed leaves emerge bronze-purple and mature to olive-green with prominent veins. Upright, spreading habit. Glowing yellow and orange autumn leaves. Grows best in full sun in moist, well-drained soils.",
+    "description": "Species from Western China. Large, deeply-lobed leaves emerge bronze-purple and mature to olea-europaea-green with prominent veins. Upright, spreading habit. Glowing yellow and orange autumn leaves. Grows best in full sun in moist, well-drained soils.",
     "uses": "",
     "tolerates": "light-frosts, windy",
     "soilType": "",
@@ -8922,7 +8922,7 @@
     "commonName": "Tītoki, New Zealand Oak",
     "url": "alectryon-excelsus-var-excelsus-titoki-new-zealand-oak",
     "mainImage": "alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak.jpg",
-    "description": "An upright-grower with a rounded head. New leaves are a mix of orange and rose-pink, maturing to glossy, olive-green, pinnate leaves. Shiny black seeds emerge from scarlet fruit during summer. Attractive to seed-eating birds. Tolerates light frosts once established. Great shade tree. Excellent street tree. Prefers moist, well-drained soils.",
+    "description": "An upright-grower with a rounded head. New leaves are a mix of orange and rose-pink, maturing to glossy, olea-europaea-green, pinnate leaves. Shiny black seeds emerge from scarlet fruit during summer. Attractive to seed-eating birds. Tolerates light frosts once established. Great shade tree. Excellent street tree. Prefers moist, well-drained soils.",
     "uses": "street, attracts-birds, paddocks, shade, topiary",
     "tolerates": "windy, light-frosts",
     "soilType": "clay-soils",
@@ -10442,7 +10442,7 @@
     "commonName": "Taraire",
     "url": "beilschmiedia-tarairi-taraire",
     "mainImage": "beilschmiedia-tarairi-taraire/beilschmiedia-tarairi-taraire.jpeg",
-    "description": "Stately, erect tree with smooth, brown bark. Young shoots are covered with fine, brown hairs. Broad, leathery, olive-green leaves are heavily-veined and glossy. Prefers moist soil and tolerates light to medium frosts. Wood pigeons adore the large, purple berries in autumn.",
+    "description": "Stately, erect tree with smooth, brown bark. Young shoots are covered with fine, brown hairs. Broad, leathery, olea-europaea-green leaves are heavily-veined and glossy. Prefers moist soil and tolerates light to medium frosts. Wood pigeons adore the large, purple berries in autumn.",
     "uses": "attracts-birds",
     "tolerates": "",
     "soilType": "",
@@ -34602,7 +34602,7 @@
     "commonName": "Primrose Tree, Norfolk Island Hibiscus",
     "url": "lagunaria-patersonii-primrose-tree-norfolk-island-hibiscus",
     "mainImage": "lagunaria-patersonii-primrose-tree-norfolk-island-hibiscus/lagunaria-patersonii-primrose-tree-norfolk-island-hibiscus.jpg",
-    "description": "Handsome erect and stately pyramidal-growing tree. Clothed with thick, olive-green leaves. A profusion of miniature hibiscus-shaped pink flowers through summer and autumn. Excellent as a dense screen or hedge, clips well. Very tough, enduring coastal winds and drought.",
+    "description": "Handsome erect and stately pyramidal-growing tree. Clothed with thick, olea-europaea-green leaves. A profusion of miniature hibiscus-shaped pink flowers through summer and autumn. Excellent as a dense screen or hedge, clips well. Very tough, enduring coastal winds and drought.",
     "uses": "",
     "tolerates": "coastal, windy",
     "soilType": "poor-draining-soils, dry-soils",
@@ -46803,7 +46803,7 @@
     "commonName": "Pōhutukawa, Rātā",
     "url": "metrosideros-mistral-pohutukawa-rata",
     "mainImage": "metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata.jpg",
-    "description": "Pōhutukawa and Northern rātā cross. Dense-growing tree that forms a neat, tight canopy of thick, olive-green leaves. A profusion of deep rust-red flowers from early to mid-summer attract nectar-seeking birds. Excellent tough coastal tree. Superb as a screen. Excellent street tree.",
+    "description": "Pōhutukawa and Northern rātā cross. Dense-growing tree that forms a neat, tight canopy of thick, olea-europaea-green leaves. A profusion of deep rust-red flowers from early to mid-summer attract nectar-seeking birds. Excellent tough coastal tree. Superb as a screen. Excellent street tree.",
     "uses": "street, hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -46872,7 +46872,7 @@
     "commonName": "Northern Rātā",
     "url": "metrosideros-robusta-northern-rata",
     "mainImage": "metrosideros-robusta-northern-rata/metrosideros-robusta-northern-rata.jpg",
-    "description": "A bushy tree with small, dark olive-green leaves. Cold hardy and tolerant of moderate coastal exposure. Superb as a screen and very adaptable to pruning into any shape or form. Rust-red flowers are borne from early to mid-summer. Excellent street tree.",
+    "description": "A bushy tree with small, dark olea-europaea-green leaves. Cold hardy and tolerant of moderate coastal exposure. Superb as a screen and very adaptable to pruning into any shape or form. Rust-red flowers are borne from early to mid-summer. Excellent street tree.",
     "uses": "street, hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy",
     "soilType": "clay-soils, poor-draining-soils, dry-soils",
@@ -48410,13 +48410,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Morus",
+    "species": "alba",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Pendula",
     "synonyms": [],
     "commonName": "White Mulberry",
     "url": "morus-alba-pendula-white-mulberry",
@@ -48491,8 +48491,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Morus",
+    "species": "nigra",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -48556,8 +48556,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Muehlenbeckia",
+    "species": "astonii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -48613,8 +48613,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Myoporum",
+    "species": "laetum",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -48670,8 +48670,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Myrsine",
+    "species": "australis",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -48731,8 +48731,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Myrsine",
+    "species": "salicina",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -48788,13 +48788,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nandina",
+    "species": "domestica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Fire Power",
     "synonyms": [],
     "commonName": "Nandina, Heavenly Bamboo, Sacred Bamboo",
     "url": "nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo",
@@ -48845,313 +48845,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nerium",
+    "species": "oleander",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nectarine",
-    "url": "nectarine-flatto-button-bright",
-    "mainImage": "nectarine-flatto-button-bright/nectarine-flatto-button-bright.jpg",
-    "description": "Produces good crops of sweet, yellow-fleshed, red-skinned fruit through mid to late-summer. Pink blossoms in spring. Yellow autumn leaves. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/nectarine-flatto-button-bright/nectarine-flatto-button-bright-flower.jpg",
-        "alt": "nectarine flatto button bright flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nectarine",
-    "url": "nectarine-goldmine",
-    "mainImage": "nectarine-goldmine/nectarine-goldmine.jpg",
-    "description": "Medium-sized, white-fleshed, freestone fruit that is juicy and sweet with white and red-blushed skin. Fruits in mid-summer. Pink blossoms in spring. Yellow autumn leaves. An old favourite variety which is very productive. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/nectarine-goldmine/nectarine-goldmine-flower.jpg",
-        "alt": "nectarine goldmine flower"
-      },
-      {
-        "src": "images/trees/nectarine-goldmine/nectarine-goldmine-foliage.jpg",
-        "alt": "nectarine goldmine foliage"
-      },
-      {
-        "src": "images/trees/nectarine-goldmine/nectarine-goldmine-fruit.jpg",
-        "alt": "nectarine goldmine fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nectarine",
-    "url": "nectarine-mabel",
-    "mainImage": "nectarine-mabel/nectarine-mabel.jpg",
-    "description": "Beautiful burgundy-purple foliage. Stunning pink blossoms in spring are followed by delicious, sweet, purple-skinned nectarines with pale-yellow flesh in late-summer. Self-fertile. Leaf-curl resistant.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "purple",
-      "autumn": "purple",
-      "winter": "",
-      "spring": "purple"
-    },
-    "fruit": {
-      "summer": "purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nectarine",
-    "url": "nectarine-queen-giant",
-    "mainImage": "nectarine-queen-giant/nectarine-queen-giant.jpg",
-    "description": "Produces beautifully-flavoured, white-fleshed, freestone nectarines. Fruit have crimson-red and pale-cream skins. Pink blossoms in spring. Yellow autumn leaves. Fruit ripens in mid-summer. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/nectarine-queen-giant/nectarine-queen-giant-flowers.jpg",
-        "alt": "nectarine queen giant flowers"
-      },
-      {
-        "src": "images/trees/nectarine-queen-giant/nectarine-queen-giant-fruit-group.jpg",
-        "alt": "nectarine queen giant fruit group"
-      },
-      {
-        "src": "images/trees/nectarine-queen-giant/nectarine-queen-giant-fruit.jpg",
-        "alt": "nectarine queen giant fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nectarine",
-    "url": "nectarine-snow-queen",
-    "mainImage": "nectarine-snow-queen/nectarine-snow-queen.jpg",
-    "description": "One of the sweetest and juiciest nectarines, producing freestone fruit with delicious snow-white flesh with red and yellow skin. Yellow autumn leaves. Pink blossoms in spring. Fruits from early to mid-summer. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/nectarine-snow-queen/nectarine-snow-queen-flower.jpg",
-        "alt": "nectarine snow queen flower"
-      },
-      {
-        "src": "images/trees/nectarine-snow-queen/nectarine-snow-queen-fruit.jpg",
-        "alt": "nectarine snow queen fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
+    "cultivar": "Madonna",
     "synonyms": [],
     "commonName": "Oleander",
     "url": "nerium-oleander-madonna-oleander",
@@ -49214,8 +48914,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nestegis",
+    "species": "cunninghamii",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49266,8 +48966,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nestegis",
+    "species": "montana",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49327,8 +49027,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nyssa",
+    "species": "sinensis",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49400,8 +49100,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nyssa",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49521,13 +49221,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nyssa",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Autumn Cascade",
     "synonyms": [],
     "commonName": "Black Tupelo, Black Gum",
     "url": "nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum",
@@ -49590,13 +49290,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nyssa",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Sheffield Park",
     "synonyms": [],
     "commonName": "Black Tupelo, Black Gum",
     "url": "nyssa-sylvatica-sheffield-park-black-tupelo-black-gum",
@@ -49647,11 +49347,11 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Nyssa",
+    "species": "sylvatica",
     "hybrid": "",
     "subspecies": "",
-    "variety": "",
+    "variety": "biflora",
     "form": "",
     "cultivar": "",
     "synonyms": [
@@ -49734,8 +49434,689 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Ascolano",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-ascolano-olive",
+    "mainImage": "olea-europaea-ascolano-olive/olea-europaea-ascolano-olive.jpg",
+    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Excellent street tree as no fruit without a pollinator. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "street, hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-foliage.jpeg",
+        "alt": "olea europaea ascolano olive foliage"
+      },
+      {
+        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-fruit.jpeg",
+        "alt": "olea europaea ascolano olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-grove.jpg",
+        "alt": "olea europaea ascolano olive grove"
+      },
+      {
+        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-in-nursery.jpeg",
+        "alt": "olea europaea ascolano olive in nursery"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Barnea",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-barnea-olive",
+    "mainImage": "olea-europaea-barnea-olive/olea-europaea-barnea-olive.jpg",
+    "description": "Vigorous, upright, fairly-narrow grower developed in Israel. High-yielding oil. Good for pickling and as table fruit. Partially self-fertile, but best crops when planted with Picholine. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "street, hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "El Greco",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-el-greco-olive",
+    "mainImage": "olea-europaea-el-greco-olive/olea-europaea-el-greco-olive.jpg",
+    "description": "Selection from Greece. A dense, bushy tree. Ideal for hedging, screening, and shaping. Excellent as a street tree. Great for containers. Self-fertile, but does not usually fruit well in New Zealand. White flowers in summer and has grey-green leaves.",
+    "uses": "street, hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-foliage.jpeg",
+        "alt": "olea europaea el greco olive foliage"
+      },
+      {
+        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-fruit.jpeg",
+        "alt": "olea europaea el greco olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-in-nursery.jpeg",
+        "alt": "olea europaea el greco olive in nursery"
+      },
+      {
+        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-row.jpeg",
+        "alt": "olea europaea el greco olive row"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Frantoio",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-frantoio-olive",
+    "mainImage": "olea-europaea-frantoio-olive/olea-europaea-frantoio-olive.jpg",
+    "description": "Main Tuscan oil variety from Italy. Exceptionally high quality and quantity-yielding oil. Pickles well when green. Suitable for lining avenues and driveways. Frost tolerant. Self-fertile. Great variety for pollinating other olives. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "street, hedging-and-screening, pleaching",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-frantoio-olive/olea-europaea-frantoio-olive-fruit.jpeg",
+        "alt": "olea europaea frantoio olive fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "J5",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-j5-olive",
+    "mainImage": "olea-europaea-j5-olive/olea-europaea-j5-olive.jpg",
+    "description": "New Zealand selection. Frost tolerant. Heavy yield of olives on a large tree. Excellent for hedges, screens, lining avenues, and driveways. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-foliage.jpg",
+        "alt": "olea europaea j5 olive foliage"
+      },
+      {
+        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-fruit.jpg",
+        "alt": "olea europaea j5 olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-mature-tree.jpg",
+        "alt": "olea europaea j5 olive mature tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Koroneiki",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-koroneiki-olive",
+    "mainImage": "olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive.jpg",
+    "description": "Selection from Greece. Bears large crops of high-yielding oil from small olives. Excellent for hedging and screening. Well suited to coastal areas. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-foliage.jpeg",
+        "alt": "olea europaea koroneiki olive foliage"
+      },
+      {
+        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-fruit.jpg",
+        "alt": "olea europaea koroneiki olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-mature-tree.jpg",
+        "alt": "olea europaea koroneiki olive mature tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Leccino",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-leccino-olive",
+    "mainImage": "olea-europaea-leccino-olive/olea-europaea-leccino-olive.jpg",
+    "description": "Superb Tuscan selection from Italy for oil. Especially tolerant of cold and frosts once established. Excellent for lining driveways and avenues. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "street, hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-leccino-olive/olea-europaea-leccino-olive-fruit.jpg",
+        "alt": "olea europaea leccino olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-leccino-olive/olea-europaea-leccino-olive-grove.jpg",
+        "alt": "olea europaea leccino olive grove"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Manzanillo",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-manzanillo-olive",
+    "mainImage": "olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive.jpg",
+    "description": "Famous Spanish dual-purpose variety. Excellent texture and great eating. One of the best pickling olives. Great for pleaching as the branches spread outwards. Not for cold areas. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "street, hedging-and-screening, pleaching",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive-fruit.jpg",
+        "alt": "olea europaea manzanillo olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive-mature-tree.jpg",
+        "alt": "olea europaea manzanillo olive mature tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Mission",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-mission-olive",
+    "mainImage": "olea-europaea-mission-olive/olea-europaea-mission-olive.jpg",
+    "description": "Selection from California in the USA. A vigorous, upright grower. Olives are great for oil and table eating. Frost tolerant. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Picual",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-picual-olive",
+    "mainImage": "olea-europaea-picual-olive/olea-europaea-picual-olive.jpg",
+    "description": "Spain's top oil variety with high quality and quantity oil production. Excellent for screening, hedging, lining avenues, and driveways. Frost tolerant and tolerant of poorly-drained soils. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-foliage.jpeg",
+        "alt": "olea europaea picual olive foliage"
+      },
+      {
+        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-fruit.jpeg",
+        "alt": "olea europaea picual olive fruit"
+      },
+      {
+        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-grove.jpg",
+        "alt": "olea europaea picual olive grove"
+      },
+      {
+        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-olives.jpg",
+        "alt": "olea europaea picual olive olives"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olea",
+    "species": "europaea",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Verdale",
+    "synonyms": [],
+    "commonName": "Olive",
+    "url": "olea-europaea-verdale-olive",
+    "mainImage": "olea-europaea-verdale-olive/olea-europaea-verdale-olive.jpg",
+    "description": "A dual purpose French olive. Good for pickling at the green fruit stage. A compact grower well suited for hedging and screens. Has slightly-weeping branches. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple, black",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/olea-europaea-verdale-olive/olea-europaea-verdale-olive-city.jpg",
+        "alt": "olea europaea verdale olive city"
+      },
+      {
+        "src": "images/trees/olea-europaea-verdale-olive/olea-europaea-verdale-olive-fruit.jpg",
+        "alt": "olea europaea verdale olive fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Olearia",
+    "species": "albida",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49791,8 +50172,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Olearia",
+    "species": "paniculata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49860,13 +50241,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Olearia",
+    "species": "paniculata",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Kaikoura",
     "synonyms": [],
     "commonName": "Akiraho",
     "url": "olearia-paniculata-kaikoura-akiraho",
@@ -49925,8 +50306,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Olearia",
+    "species": "traversiorum",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -49986,687 +50367,6 @@
       {
         "src": "images/trees/olearia-traversiorum-hakapiri-akeake/olearia-traversiorum-hakapiri-akeake-foliage.jpeg",
         "alt": "olearia traversiorum hakapiri akeake foliage"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-ascolano",
-    "mainImage": "olive-ascolano/olive-ascolano.jpg",
-    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Excellent street tree as no fruit without a pollinator. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "street, hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-ascolano/olive-ascolano-foliage.jpeg",
-        "alt": "olive ascolano foliage"
-      },
-      {
-        "src": "images/trees/olive-ascolano/olive-ascolano-fruit.jpeg",
-        "alt": "olive ascolano fruit"
-      },
-      {
-        "src": "images/trees/olive-ascolano/olive-ascolano-grove.jpg",
-        "alt": "olive ascolano grove"
-      },
-      {
-        "src": "images/trees/olive-ascolano/olive-ascolano-in-nursery.jpeg",
-        "alt": "olive ascolano in nursery"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-barnea",
-    "mainImage": "olive-barnea/olive-barnea.jpg",
-    "description": "Vigorous, upright, fairly-narrow grower developed in Israel. High-yielding oil. Good for pickling and as table fruit. Partially self-fertile, but best crops when planted with Picholine. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "street, hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-el-greco",
-    "mainImage": "olive-el-greco/olive-el-greco.jpg",
-    "description": "Selection from Greece. A dense, bushy tree. Ideal for hedging, screening, and shaping. Excellent as a street tree. Great for containers. Self-fertile, but does not usually fruit well in New Zealand. White flowers in summer and has grey-green leaves.",
-    "uses": "street, hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-el-greco/olive-el-greco-foliage.jpeg",
-        "alt": "olive el greco foliage"
-      },
-      {
-        "src": "images/trees/olive-el-greco/olive-el-greco-fruit.jpeg",
-        "alt": "olive el greco fruit"
-      },
-      {
-        "src": "images/trees/olive-el-greco/olive-el-greco-in-nursery.jpeg",
-        "alt": "olive el greco in nursery"
-      },
-      {
-        "src": "images/trees/olive-el-greco/olive-el-greco-row.jpeg",
-        "alt": "olive el greco row"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-frantoio",
-    "mainImage": "olive-frantoio/olive-frantoio.jpg",
-    "description": "Main Tuscan oil variety from Italy. Exceptionally high quality and quantity-yielding oil. Pickles well when green. Suitable for lining avenues and driveways. Frost tolerant. Self-fertile. Great variety for pollinating other olives. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "street, hedging-and-screening, pleaching",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-frantoio/olive-frantoio-fruit.jpeg",
-        "alt": "olive frantoio fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-j5",
-    "mainImage": "olive-j5/olive-j5.jpg",
-    "description": "New Zealand selection. Frost tolerant. Heavy yield of olives on a large tree. Excellent for hedges, screens, lining avenues, and driveways. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-j5/olive-j5-foliage.jpg",
-        "alt": "olive j5 foliage"
-      },
-      {
-        "src": "images/trees/olive-j5/olive-j5-fruit.jpg",
-        "alt": "olive j5 fruit"
-      },
-      {
-        "src": "images/trees/olive-j5/olive-j5-mature-tree.jpg",
-        "alt": "olive j5 mature tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-koroneiki",
-    "mainImage": "olive-koroneiki/olive-koroneiki.jpg",
-    "description": "Selection from Greece. Bears large crops of high-yielding oil from small olives. Excellent for hedging and screening. Well suited to coastal areas. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-koroneiki/olive-koroneiki-foliage.jpeg",
-        "alt": "olive koroneiki foliage"
-      },
-      {
-        "src": "images/trees/olive-koroneiki/olive-koroneiki-fruit.jpg",
-        "alt": "olive koroneiki fruit"
-      },
-      {
-        "src": "images/trees/olive-koroneiki/olive-koroneiki-mature-tree.jpg",
-        "alt": "olive koroneiki mature tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-leccino",
-    "mainImage": "olive-leccino/olive-leccino.jpg",
-    "description": "Superb Tuscan selection from Italy for oil. Especially tolerant of cold and frosts once established. Excellent for lining driveways and avenues. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "street, hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-leccino/olive-leccino-fruit.jpg",
-        "alt": "olive leccino fruit"
-      },
-      {
-        "src": "images/trees/olive-leccino/olive-leccino-grove.jpg",
-        "alt": "olive leccino grove"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-manzanillo",
-    "mainImage": "olive-manzanillo/olive-manzanillo.jpg",
-    "description": "Famous Spanish dual-purpose variety. Excellent texture and great eating. One of the best pickling olives. Great for pleaching as the branches spread outwards. Not for cold areas. Partially self-fertile, but best crops when planted with Frantoio. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "street, hedging-and-screening, pleaching",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-manzanillo/olive-manzanillo-fruit.jpg",
-        "alt": "olive manzanillo fruit"
-      },
-      {
-        "src": "images/trees/olive-manzanillo/olive-manzanillo-mature-tree.jpg",
-        "alt": "olive manzanillo mature tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-mission",
-    "mainImage": "olive-mission/olive-mission.jpg",
-    "description": "Selection from California in the USA. A vigorous, upright grower. Olives are great for oil and table eating. Frost tolerant. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-picual",
-    "mainImage": "olive-picual/olive-picual.jpg",
-    "description": "Spain's top oil variety with high quality and quantity oil production. Excellent for screening, hedging, lining avenues, and driveways. Frost tolerant and tolerant of poorly-drained soils. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-picual/olive-picual-foliage.jpeg",
-        "alt": "olive picual foliage"
-      },
-      {
-        "src": "images/trees/olive-picual/olive-picual-fruit.jpeg",
-        "alt": "olive picual fruit"
-      },
-      {
-        "src": "images/trees/olive-picual/olive-picual-grove.jpg",
-        "alt": "olive picual grove"
-      },
-      {
-        "src": "images/trees/olive-picual/olive-picual-olives.jpg",
-        "alt": "olive picual olives"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Olive",
-    "url": "olive-verdale",
-    "mainImage": "olive-verdale/olive-verdale.jpg",
-    "description": "A dual purpose French olive. Good for pickling at the green fruit stage. A compact grower well suited for hedging and screens. Has slightly-weeping branches. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
-    "uses": "hedging-and-screening",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, grey",
-      "autumn": "green, grey",
-      "winter": "green, grey",
-      "spring": "green, grey"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red, purple, black",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/olive/olive-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/olive-verdale/olive-verdale-city.jpg",
-        "alt": "olive verdale city"
-      },
-      {
-        "src": "images/trees/olive-verdale/olive-verdale-fruit.jpg",
-        "alt": "olive verdale fruit"
       }
     ],
     "links": []
@@ -54515,7 +54215,7 @@
     "commonName": "Kōhūhū, Black Matipo",
     "url": "pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo",
     "mainImage": "pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo.jpg",
-    "description": "Selection from Stephens Island in the deep south, so tolerant of colder conditions and coastal areas. Forms a dense, rounded tree with olive-green, leathery leaves. Can be clipped into any size or form. Excellent as a screen. Purple spring flowers scent the air with their sweet fragrance.",
+    "description": "Selection from Stephens Island in the deep south, so tolerant of colder conditions and coastal areas. Forms a dense, rounded tree with olea-europaea-green, leathery leaves. Can be clipped into any size or form. Excellent as a screen. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -56838,7 +56538,7 @@
     "commonName": "Tōtara",
     "url": "podocarpus-totara-totara",
     "mainImage": "podocarpus-totara-totara/podocarpus-totara-totara.jpeg",
-    "description": "This tall pyramidal tree is covered with olive-green to bronze, needle-like leaves. New leaves are a fresh-green. Red-brown bark peels in long strips. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
+    "description": "This tall pyramidal tree is covered with olea-europaea-green to bronze, needle-like leaves. New leaves are a fresh-green. Red-brown bark peels in long strips. Very tough tree tolerating dry and windy conditions. Easily trimmed as a screen or hedge. Excellent street tree. Yellow-green catkins in mid-spring to early-summer are a source of pollen for bees.",
     "uses": "street, hedging-and-screening, attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -61054,6 +60754,306 @@
       {
         "src": "images/trees/prunus-subhirtella-southern-gem-higan-cherry/prunus-subhirtella-southern-gem-higan-cherry-pathway.jpg",
         "alt": "prunus subhirtella southern gem higan cherry pathway"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "nectarina",
+    "form": "",
+    "cultivar": "Button Bright",
+    "synonyms": [],
+    "commonName": "Nectarine",
+    "url": "prunus-persica-var-nectarina-button-bright-nectarine",
+    "mainImage": "prunus-persica-var-nectarina-button-bright-nectarine/prunus-persica-var-nectarina-button-bright-nectarine.jpg",
+    "description": "Produces good crops of sweet, yellow-fleshed, red-skinned fruit through mid to late-summer. Pink blossoms in spring. Yellow autumn leaves. Self-fertile.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-button-bright-nectarine/prunus-persica-var-nectarina-button-bright-nectarine-flower.jpg",
+        "alt": "prunus persica var nectarina button bright nectarine flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "nectarina",
+    "form": "",
+    "cultivar": "Goldmine",
+    "synonyms": [],
+    "commonName": "Nectarine",
+    "url": "prunus-persica-var-nectarina-goldmine-nectarine",
+    "mainImage": "prunus-persica-var-nectarina-goldmine-nectarine/prunus-persica-var-nectarina-goldmine-nectarine.jpg",
+    "description": "Medium-sized, white-fleshed, freestone fruit that is juicy and sweet with white and red-blushed skin. Fruits in mid-summer. Pink blossoms in spring. Yellow autumn leaves. An old favourite variety which is very productive. Self-fertile.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-goldmine-nectarine/prunus-persica-var-nectarina-goldmine-nectarine-flower.jpg",
+        "alt": "prunus persica var nectarina goldmine nectarine flower"
+      },
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-goldmine-nectarine/prunus-persica-var-nectarina-goldmine-nectarine-foliage.jpg",
+        "alt": "prunus persica var nectarina goldmine nectarine foliage"
+      },
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-goldmine-nectarine/prunus-persica-var-nectarina-goldmine-nectarine-fruit.jpg",
+        "alt": "prunus persica var nectarina goldmine nectarine fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "nectarina",
+    "form": "",
+    "cultivar": "Mabel",
+    "synonyms": [],
+    "commonName": "Nectarine",
+    "url": "prunus-persica-var-nectarina-mabel-nectarine",
+    "mainImage": "prunus-persica-var-nectarina-mabel-nectarine/prunus-persica-var-nectarina-mabel-nectarine.jpg",
+    "description": "Beautiful burgundy-purple foliage. Stunning pink blossoms in spring are followed by delicious, sweet, purple-skinned nectarines with pale-yellow flesh in late-summer. Self-fertile. Leaf-curl resistant.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "purple",
+      "autumn": "purple",
+      "winter": "",
+      "spring": "purple"
+    },
+    "fruit": {
+      "summer": "purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "nectarina",
+    "form": "",
+    "cultivar": "Queen Giant",
+    "synonyms": [],
+    "commonName": "Nectarine",
+    "url": "prunus-persica-var-nectarina-queen-giant-nectarine",
+    "mainImage": "prunus-persica-var-nectarina-queen-giant-nectarine/prunus-persica-var-nectarina-queen-giant-nectarine.jpg",
+    "description": "Produces beautifully-flavoured, white-fleshed, freestone nectarines. Fruit have crimson-red and pale-cream skins. Pink blossoms in spring. Yellow autumn leaves. Fruit ripens in mid-summer. Self-fertile.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-queen-giant-nectarine/prunus-persica-var-nectarina-queen-giant-nectarine-flowers.jpg",
+        "alt": "prunus persica var. nectarina queen giant nectarine flowers"
+      },
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-queen-giant-nectarine/prunus-persica-var-nectarina-queen-giant-nectarine-fruit-group.jpg",
+        "alt": "prunus persica var. nectarina queen giant nectarine fruit group"
+      },
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-queen-giant-nectarine/prunus-persica-var-nectarina-queen-giant-nectarine-fruit.jpg",
+        "alt": "prunus persica var. nectarina queen giant nectarine fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "nectarina",
+    "form": "",
+    "cultivar": "Snow Queen",
+    "synonyms": [],
+    "commonName": "Nectarine",
+    "url": "prunus-persica-var-nectarina-snow-queen-nectarine",
+    "mainImage": "prunus-persica-var-nectarina-snow-queen-nectarine/prunus-persica-var-nectarina-snow-queen-nectarine.jpg",
+    "description": "One of the sweetest and juiciest nectarines, producing freestone fruit with delicious snow-white flesh with red and yellow skin. Yellow autumn leaves. Pink blossoms in spring. Fruits from early to mid-summer. Self-fertile.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/nectarine/nectarine-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-snow-queen-nectarine/prunus-persica-var-nectarina-snow-queen-nectarine-flower.jpg",
+        "alt": "prunus persica var nectarina snow queen nectarine flower"
+      },
+      {
+        "src": "images/trees/prunus-persica-var-nectarina-snow-queen-nectarine/prunus-persica-var-nectarina-snow-queen-nectarine-fruit.jpg",
+        "alt": "prunus persica var nectarina snow queen nectarine fruit"
       }
     ],
     "links": []
