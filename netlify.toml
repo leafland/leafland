@@ -1500,3 +1500,189 @@
     from = "/trees/olive-verdale/"
     status = 301
     to = "/trees/olea-europaea-verdale-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-april-white/"
+    status = 301
+    to = "/trees/prunus-persica-april-white-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-black-boy/"
+    status = 301
+    to = "/trees/prunus-persica-black-boy-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-golden-queen/"
+    status = 301
+    to = "/trees/prunus-persica-golden-queen-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-hiawatha/"
+    status = 301
+    to = "/trees/prunus-persica-hiawatha-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-scarlet-ohara/"
+    status = 301
+    to = "/trees/prunus-persica-scarlett-ohara-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peacherine-healys/"
+    status = 301
+    to = "/trees/prunus-persica-healys-peacherine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-reddy-robin-nashi-pear-asian-pear/"
+    status = 301
+    to = "/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-doyenne-du-comice/"
+    status = 301
+    to = "/trees/pyrus-communis-doyenne-du-comice-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-doyenne-du-comice-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-doyenne-du-comice-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-red-bartlett/"
+    status = 301
+    to = "/trees/pyrus-communis-red-bartlett-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-seckel/"
+    status = 301
+    to = "/trees/pyrus-communis-seckel-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-taylors-gold/"
+    status = 301
+    to = "/trees/pyrus-communis-taylors-gold-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-williams-bon-chretien-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-williams-bon-chretien-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-williams-bon-chretien/"
+    status = 301
+    to = "/trees/pyrus-communis-williams-bon-chretien-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-winter-cole/"
+    status = 301
+    to = "/trees/pyrus-communis-winter-cole-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-billington/"
+    status = 301
+    to = "/trees/prunus-salicina-billington-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-black-doris/"
+    status = 301
+    to = "/trees/prunus-salicina-black-doris-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-black-doris-billington/"
+    status = 301
+    to = "/trees/prunus-salicina-black-doris-billington-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-burbank/"
+    status = 301
+    to = "/trees/prunus-salicina-burbank-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-fortune/"
+    status = 301
+    to = "/trees/prunus-salicina-fortune-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-hawera/"
+    status = 301
+    to = "/trees/prunus-salicina-hawera-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-luisa/"
+    status = 301
+    to = "/trees/prunus-domestica-luisa-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-omega/"
+    status = 301
+    to = "/trees/prunus-salicina-omega-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-purple-king/"
+    status = 301
+    to = "/trees/prunus-salicina-purple-king-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-reine-claude-de-bavay/"
+    status = 301
+    to = "/trees/prunus-domestica-reine-claude-de-bavay-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-ruby-queen/"
+    status = 301
+    to = "/trees/prunus-salicina-ruby-queen-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-santa-rosa/"
+    status = 301
+    to = "/trees/prunus-salicina-santa-rosa-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-satsuma/"
+    status = 301
+    to = "/trees/prunus-salicina-satsuma-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-shiro/"
+    status = 301
+    to = "/trees/prunus-salicina-shiro-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-sultan/"
+    status = 301
+    to = "/trees/prunus-salicina-sultan-plum/"

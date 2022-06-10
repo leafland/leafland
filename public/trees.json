@@ -10144,8 +10144,8 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Silver Spear, Kakaha",
-    "url": "astelia-chathamica-silver-spear-kakaha",
-    "mainImage": "astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha.jpg",
+    "url": "astelia-chathamica-silver-spyrus-communis-kakaha",
+    "mainImage": "astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha.jpg",
     "description": "Ornamental, clump-forming plant with broad, spiky, silver-green leaves which droop at their tips. Easily grown in full sun or semi-shade. Will tolerate both moist and dry sites. Dramatic in group plantings. Coastal hardy. Excellent in containers.",
     "uses": "",
     "tolerates": "coastal, windy",
@@ -10184,15 +10184,15 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-foliage.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-foliage.jpg",
         "alt": "astelia chathamica silver spear kakaha foliage"
       },
       {
-        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-garden.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-garden.jpg",
         "alt": "astelia chathamica silver spear kakaha garden"
       },
       {
-        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-park.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-park.jpg",
         "alt": "astelia chathamica silver spear kakaha park"
       }
     ],
@@ -27714,7 +27714,7 @@
     "commonName": "Fig",
     "url": "ficus-carica-brown-turkey-fig",
     "mainImage": "ficus-carica-brown-turkey-fig/ficus-carica-brown-turkey-fig.jpg",
-    "description": "Coastal and drought-hardy tree which can be trained into any shape. Large crops of pear-shaped, green figs with a brown tinge. Flesh is white to amber, tinged with red. Great all-purpose fruit. Reliable cropper. Fruits in early-autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
+    "description": "Coastal and drought-hardy tree which can be trained into any shape. Large crops of pyrus-communis-shaped, green figs with a brown tinge. Flesh is white to amber, tinged with red. Great all-purpose fruit. Reliable cropper. Fruits in early-autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
     "uses": "",
     "tolerates": "coastal, windy, drought",
     "soilType": "dry-soils",
@@ -50373,8 +50373,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Parrotia",
+    "species": "persica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -50526,13 +50526,13 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Parrotia",
+    "species": "persica",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "",
+    "cultivar": "Pendula",
     "synonyms": [],
     "commonName": "Persian Ironwood",
     "url": "parrotia-persica-pendula-persian-ironwood",
@@ -50611,8 +50611,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Paulownia",
+    "species": "tomentosa",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -50686,954 +50686,6 @@
       {
         "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-young-tree.jpg",
         "alt": "paulownia tomentosa princess tree empress tree young tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peach",
-    "url": "peach-april-white",
-    "mainImage": "peach-april-white/peach-april-white.jpg",
-    "description": "A delicious, large, firm peach that has white flesh and yellow skin with a pink-red blush. Yellow autumn leaves. Resistant to leaf-curl. Fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, pink, red",
-      "autumn": "yellow, pink, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/peach-april-white/peach-april-white-flower.jpg",
-        "alt": "peach april white flower"
-      },
-      {
-        "src": "images/trees/peach-april-white/peach-april-white-fruit.jpg",
-        "alt": "peach april white fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peach",
-    "url": "peach-black-boy",
-    "mainImage": "peach-black-boy/peach-black-boy.jpg",
-    "description": "Medium-sized fruit with wine-red, melting flesh. Fruit skin is pale-purple with grey fuzz. A popular variety for eating fresh and bottling. Yellow autumn leaves. Good home-garden tree. Fruit ripens late-summer. Pink blossoms from late-winter to late-spring. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "purple, grey",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/peach-black-boy/peach-black-boy-flower.jpg",
-        "alt": "peach black boy flower"
-      },
-      {
-        "src": "images/trees/peach-black-boy/peach-black-boy-fruit.jpg",
-        "alt": "peach black boy fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peach",
-    "url": "peach-golden-queen",
-    "mainImage": "peach-golden-queen/peach-golden-queen.jpg",
-    "description": "A true favourite for bottling and an excellent eater. Firm, yellow-orange flesh and deep yellow-orange skin. Fruit is slightly flat. Clingstone. Fruit ripens in late-summer. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, orange",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/peach-golden-queen/peach-golden-queen-flower.jpg",
-        "alt": "peach golden queen flower"
-      },
-      {
-        "src": "images/trees/peach-golden-queen/peach-golden-queen-fruit.jpg",
-        "alt": "peach golden queen fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peach",
-    "url": "peach-hiawatha",
-    "mainImage": "peach-hiawatha/peach-hiawatha.jpg",
-    "description": "Attractive peach tree with deep-purple leaves in spring fading to purple-green in summer and pink blossoms. Purple-skinned fruit with orange flesh and good flavour. Pink blossoms from late-winter to late-spring. Excellent fresh eating, mid-summer ripening, and self-fertile. Regular cropper.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green, purple",
-      "autumn": "green, purple",
-      "winter": "",
-      "spring": "purple"
-    },
-    "fruit": {
-      "summer": "purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peach",
-    "url": "peach-scarlet-ohara",
-    "mainImage": "peach-scarlet-ohara/peach-scarlet-ohara.jpg",
-    "description": "Produces white-fleshed peaches with pink-red skin that ripen mid-summer. Clingstone, and flesh is firm and crunchy. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "pink, red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Peacherine",
-    "url": "peacherine-healys",
-    "mainImage": "peacherine-healys/peacherine-healys.jpg",
-    "description": "A cross between a nectarine and a peach. Produces large, juicy, yellow-fleshed fruit. Fruit skin is a mix of yellow, orange, and red. Clingstone variety that fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "pink",
-      "spring": "pink"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow, orange, red",
-      "autumn": "yellow, orange, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/peacherine-healys/peacherine-healys-flower.jpg",
-        "alt": "peacherine healys flower"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-conference",
-    "mainImage": "pear-conference/pear-conference.jpg",
-    "description": "Long-necked, green pears with some russeting. Excellent juicy flavour. Moderately-vigorous and slightly-spreading. Excellent choice for the home gardener. Partially self-fertile, but better crops when planted with Packham's Triumph. Fruit ripens in mid-autumn. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, brown",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-conference/pear-conference-fruit.jpg",
-        "alt": "pear conference fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-doyenne-du-comice",
-    "mainImage": "pear-doyenne-du-comice/pear-doyenne-du-comice.jpg",
-    "description": "Large, classic, gourmet pear. Has green skin flushed red. Rich, juicy flesh that tastes like sweetened cinnamon. Fruit ripens mid to late-autumn. Upright and vigorous habit. High chilling hours needed to set fruit. Pollinators include Beurre Bosc, Williams' Bon Chretien, Winter Cole, and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "",
-    "width": "",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-doyenne-du-comice/pear-doyenne-du-comice-flowers.jpg",
-        "alt": "pear doyenne du comice flowers"
-      },
-      {
-        "src": "images/trees/pear-doyenne-du-comice/pear-doyenne-du-comice-fruit.jpg",
-        "alt": "pear doyenne du comice fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-doyenne-du-comice-conference",
-    "mainImage": "pear-doyenne-du-comice-conference/pear-doyenne-du-comice-conference.jpg",
-    "description": "Double pear. See Pear 'Doyenne du Comice' and Pear 'Conference' for descriptions. Image is of Pear 'Doyenne du Comice'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, brown, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-red-bartlett",
-    "mainImage": "pear-red-bartlett/pear-red-bartlett.jpg",
-    "description": "Bright-red skin when fully ripe. Very aromatic pear with melty flesh and good flavour. Fruit ripens mid to late-summer. All-purpose pear for eating fresh, preserving, baking, and poaching. Pollinators in the North Island are Packam's Triumph or Winter Nelis. In the South Island, Conference or Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-red-bartlett/pear-red-bartlett-flower-buds.jpg",
-        "alt": "pear red bartlett flower buds"
-      },
-      {
-        "src": "images/trees/pear-red-bartlett/pear-red-bartlett-flower.jpg",
-        "alt": "pear red bartlett flower"
-      },
-      {
-        "src": "images/trees/pear-red-bartlett/pear-red-bartlett-fruit.jpg",
-        "alt": "pear red bartlett fruit"
-      },
-      {
-        "src": "images/trees/pear-red-bartlett/pear-red-bartlett-on-tree.jpg",
-        "alt": "pear red bartlett on tree"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Nashi Pear, Asian Pear",
-    "url": "pear-reddy-robin-nashi-pear-asian-pear",
-    "mainImage": "pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear.jpg",
-    "description": "Looks and tastes like an apple, with the skin and texture of a pear. Green skin with a red blush. Very sweet and juicy. Healthy, delicious fruit to snack on. Fruit ready to harvest from late-summer to early-autumn. Partially self-fertile, but better crops when planted with another nashi pear variety. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "green, red",
-      "autumn": "green, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear-cut-fruit.jpg",
-        "alt": "pear reddy robin nashi pear asian pear cut fruit"
-      },
-      {
-        "src": "images/trees/pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear-flowers.jpg",
-        "alt": "pear reddy robin nashi pear asian pear flowers"
-      },
-      {
-        "src": "images/trees/pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear-fruit-slice.jpg",
-        "alt": "pear reddy robin nashi pear asian pear fruit slice"
-      },
-      {
-        "src": "images/trees/pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear-fruit.jpg",
-        "alt": "pear reddy robin nashi pear asian pear fruit"
-      },
-      {
-        "src": "images/trees/pear-reddy-robin-nashi-pear-asian-pear/pear-reddy-robin-nashi-pear-asian-pear-whole-fruit.jpg",
-        "alt": "pear reddy robin nashi pear asian pear whole fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-seckel",
-    "mainImage": "pear-seckel/pear-seckel.jpg",
-    "description": "Small to medium-sized gourmet fruit are golden with a red blush. Yellow flesh is finely grained, juicy, and melting with spicy overtones. Excellent quality eating fruit. Fireblight resistant. Pollinators include Packham's Triumph and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "yellow, red",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-seckel/pear-seckel-flower.jpg",
-        "alt": "pear seckel flower"
-      },
-      {
-        "src": "images/trees/pear-seckel/pear-seckel-fruit.jpg",
-        "alt": "pear seckel fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-taylors-gold",
-    "mainImage": "pear-taylors-gold/pear-taylors-gold.jpg",
-    "description": "Pears have russeted, cinnamon-coloured skin, and a juicy, aromatic flavour. Ivory to cream-coloured flesh. Fruits from mid to late-autumn. Pollinators include Packham's Triumph, Williams' Bon Chretien, and Winter Cole. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "yellow, brown",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-taylors-gold/pear-taylors-gold-fruit.jpg",
-        "alt": "pear taylors gold fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-williams-bon-chretien",
-    "mainImage": "pear-williams-bon-chretien/pear-williams-bon-chretien.jpg",
-    "description": "Large, green-yellow fruit, great for eating or bottling. Good pollinator. Fruits from late-summer to early-autumn. Fruit keeps well. Pollinators include Beurre Bosc, Winter Nelis, Conference, and Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "green, yellow",
-      "autumn": "green, yellow",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-williams-bon-chretien/pear-williams-bon-chretien-flower.jpg",
-        "alt": "pear williams bon chretien flower"
-      },
-      {
-        "src": "images/trees/pear-williams-bon-chretien/pear-williams-bon-chretien-fruit.jpg",
-        "alt": "pear williams bon chretien fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-williams-bon-chretien-conference",
-    "mainImage": "pear-williams-bon-chretien-conference/pear-williams-bon-chretien-conference.jpg",
-    "description": "Double pear. See Pear \"Williams' Bon Chretien\" and Pear 'Conference' for descriptions. Image is of Pear \"Williams' Bon Chretien\".",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, brown, yellow",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Pear",
-    "url": "pear-winter-cole",
-    "mainImage": "pear-winter-cole/pear-winter-cole.jpg",
-    "description": "Small dessert pear with russeted, green skin. Fruit ripens in late-autumn. A prolific and reliable fruiter, with a spreading growth habit. A good keeper with fruit lasting well into winter. Pollinators include Beurre Bosc, Packham's Triumph, and Williams' Bon Chretien. White blossoms in spring. Yellow and orange autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, orange",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "green, brown",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/pear-winter-cole/pear-winter-cole-flowers.jpg",
-        "alt": "pear winter cole flowers"
-      },
-      {
-        "src": "images/trees/pear-winter-cole/pear-winter-cole-fruit.jpg",
-        "alt": "pear winter cole fruit"
       }
     ],
     "links": []
@@ -51786,60 +50838,8 @@
   },
   {
     "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Persimmon",
-    "url": "persimmon-fuyu",
-    "mainImage": "persimmon-fuyu/persimmon-fuyu.jpg",
-    "description": "An attractive ornamental tree with beautiful autumn foliage of red, orange, and yellow. Produces orange-coloured, sweet, crisp fruit in late-autumn to winter. Self-fertile.",
-    "uses": "",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "red, orange, yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "orange",
-      "winter": "orange",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/persimmon/persimmon-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
+    "genus": "Phebalium",
+    "species": "squameum",
     "hybrid": "",
     "subspecies": "",
     "variety": "",
@@ -55231,877 +54231,6 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-billington",
-    "mainImage": "plum-billington/plum-billington.jpg",
-    "description": "The first plum to ripen with red-purple skin and red flesh. Heavy cropper in early to mid-summer. Fruit has a good flavour. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-billington/plum-billington-basket.jpg",
-        "alt": "plum billington basket"
-      },
-      {
-        "src": "images/trees/plum-billington/plum-billington-cut-fruit.jpg",
-        "alt": "plum billington cut fruit"
-      },
-      {
-        "src": "images/trees/plum-billington/plum-billington-flower.jpeg",
-        "alt": "plum billington flower"
-      },
-      {
-        "src": "images/trees/plum-billington/plum-billington-fruit.jpg",
-        "alt": "plum billington fruit"
-      },
-      {
-        "src": "images/trees/plum-billington/plum-billington-new-growth.jpeg",
-        "alt": "plum billington new growth"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-black-doris",
-    "mainImage": "plum-black-doris/plum-black-doris.jpg",
-    "description": "Medium to large, dark black-purple skin with firm, dark-red flesh. Fruits from late-summer to early-autumn. A vigorous, upright tree with heavy crops of fruit. Excellent all-purpose plum for eating, jams, sauces, and bottling. White flowers in spring. Pollinators are Plum 'Billington' and Plum 'Santa Rosa'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-black-doris/plum-black-doris-fruit.jpg",
-        "alt": "plum black doris fruit"
-      },
-      {
-        "src": "images/trees/plum-black-doris/plum-black-doris-plums.jpg",
-        "alt": "plum black doris plums"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-black-doris-billington",
-    "mainImage": "plum-black-doris-billington/plum-black-doris-billington.jpg",
-    "description": "Double plum. See Plum 'Black Doris' and Plum 'Billington' for descriptions. First image is of Plum 'Black Doris', second is of Plum 'Billington'.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-black-doris-billington/plum-black-doris-billington-plums.jpg",
-        "alt": "plum black doris billington plums"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-burbank",
-    "mainImage": "plum-burbank/plum-burbank.jpg",
-    "description": "Large, round, dark-red skin. Sweet, juicy, yellow flesh. Heavy cropper in mid-summer. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-fortune",
-    "mainImage": "plum-fortune/plum-fortune.jpg",
-    "description": "Very large, round, bright-red plum with aromatic, amber flesh. Very meaty, sweet, and juicy. Fruits mid to late-summer. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-hawera",
-    "mainImage": "plum-hawera/plum-hawera.jpg",
-    "description": "Has large, dark-red skinned and fleshed fruit. Freestone, sweet, juicy, and very firm. Fruits around late-summer to early-autumn. White flowers in spring. Self-fertile. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-hawera/plum-hawera-flowers.jpeg",
-        "alt": "plum hawera flowers"
-      },
-      {
-        "src": "images/trees/plum-hawera/plum-hawera-fruit.jpg",
-        "alt": "plum hawera fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-luisa",
-    "mainImage": "plum-luisa/plum-luisa.jpg",
-    "description": "Large, juicy plum with yellow-red skin and yellow flesh. Fruit is shaped like a mango and is very aromatic and sweet. Fruit ripens in mid-summer. Easy to grow and manage in the home garden. White flowers in spring. Self-fertile, but higher-yielding crops when planted with Plum 'Billington'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-luisa/plum-luisa-flowers.jpeg",
-        "alt": "plum luisa flowers"
-      },
-      {
-        "src": "images/trees/plum-luisa/plum-luisa-fruit.jpg",
-        "alt": "plum luisa fruit"
-      },
-      {
-        "src": "images/trees/plum-luisa/plum-luisa-fruiting.jpg",
-        "alt": "plum luisa fruiting"
-      },
-      {
-        "src": "images/trees/plum-luisa/plum-luisa-on-tree.jpg",
-        "alt": "plum luisa on tree"
-      },
-      {
-        "src": "images/trees/plum-luisa/plum-luisa-plate.jpg",
-        "alt": "plum luisa plate"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-omega",
-    "mainImage": "plum-omega/plum-omega.jpg",
-    "description": "Produces heavy crops of mid-sized, red fruit with speckled skin and red flesh. Fruit ripens in early-autumn. White flowers in spring. Freestone. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa', Plum 'Billington', or Plum 'Burbank'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-purple-king",
-    "mainImage": "plum-purple-king/plum-purple-king.jpg",
-    "description": "Very large, purple-skinned fruit with yellow flesh. Sweet and juicy. Fruits late-summer. An excellent performing plum for warmer regions. White flowers in spring. Requires Plum 'Billington' or Plum 'Santa Rosa' for pollination. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-reine-claude-de-bavay",
-    "mainImage": "plum-reine-claude-de-bavay/plum-reine-claude-de-bavay.jpg",
-    "description": "Self-fertile. A heavy cropper which produces sweet, juicy, smaller-sized, green plums. Fruits in early-autumn. White flowers in spring. Well suited to warmer districts. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "green",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-ruby-queen",
-    "mainImage": "plum-ruby-queen/plum-ruby-queen.jpeg",
-    "description": "Dark red-purple skin and sweet, juicy, red flesh. A highly productive producer with good disease resistance. Recommended for organic-growing and growing in areas with high humidity. Fruit ripens in late-summer to early-autumn. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-ruby-queen/plum-ruby-queen-flower.jpg",
-        "alt": "plum ruby queen flower"
-      },
-      {
-        "src": "images/trees/plum-ruby-queen/plum-ruby-queen-fruit.jpeg",
-        "alt": "plum ruby queen fruit"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-santa-rosa",
-    "mainImage": "plum-santa-rosa/plum-santa-rosa.jpg",
-    "description": "Medium to large, round, crimson-red plum. Yellow flesh is flushed with pink. Sweet and juicy with excellent flavours. Ripens from mid-summer into autumn. All-purpose plum for eating, jams, and sauces. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [
-      {
-        "src": "images/trees/plum-santa-rosa/plum-santa-rosa-flowering.jpg",
-        "alt": "plum santa rosa flowering"
-      },
-      {
-        "src": "images/trees/plum-santa-rosa/plum-santa-rosa-fruit.jpg",
-        "alt": "plum santa rosa fruit"
-      },
-      {
-        "src": "images/trees/plum-santa-rosa/plum-santa-rosa-fruiting.jpg",
-        "alt": "plum santa rosa fruiting"
-      },
-      {
-        "src": "images/trees/plum-santa-rosa/plum-santa-rosa-plum.jpg",
-        "alt": "plum santa rosa plum"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-satsuma",
-    "mainImage": "plum-satsuma/plum-satsuma.jpg",
-    "description": "Plums have purple-red skin and red flesh. White flowers in spring. Fruit ripens around late-summer. Partially self-fertile, but best crops when planted with Plum 'Santa Rosa' or Plum 'Shiro'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-shiro",
-    "mainImage": "plum-shiro/plum-shiro.jpg",
-    "description": "Large, golden, sweet, and juicy plums. Fruits in mid-summer. White flowers in spring. Plums are good for eating, cooking, canning, preserves, and desserts. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "yellow",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Plum",
-    "url": "plum-sultan",
-    "mainImage": "plum-sultan/plum-sultan.jpg",
-    "description": "Large plums with deep-red skin and red flesh that is juicy and highly-flavoured. White flowers in spring. Fruit ripens in late-summer. Pollinators are Plum 'Santa Rosa', Plum 'Burbank', and Plum 'Omega'. Yellow autumn leaves.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, purple",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "relatedTrees": [],
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
     "synonyms": [
       {
         "genus": "Afrocarpus",
@@ -58517,6 +56646,135 @@
     "links": []
   },
   {
+    "family": "",
+    "genus": "Prunus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Luisa",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-domestica-luisa-plum",
+    "mainImage": "prunus-domestica-luisa-plum/prunus-domestica-luisa-plum.jpg",
+    "description": "Large, juicy plum with yellow-red skin and yellow flesh. Fruit is shaped like a mango and is very aromatic and sweet. Fruit ripens in mid-summer. Easy to grow and manage in the home garden. White flowers in spring. Self-fertile, but higher-yielding crops when planted with Plum 'Billington'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-domestica-luisa-plum/prunus-domestica-luisa-plum-flowers.jpeg",
+        "alt": "prunus domestica luisa plum flowers"
+      },
+      {
+        "src": "images/trees/prunus-domestica-luisa-plum/prunus-domestica-luisa-plum-fruit.jpg",
+        "alt": "prunus domestica luisa plum fruit"
+      },
+      {
+        "src": "images/trees/prunus-domestica-luisa-plum/prunus-domestica-luisa-plum-fruiting.jpg",
+        "alt": "prunus domestica luisa plum fruiting"
+      },
+      {
+        "src": "images/trees/prunus-domestica-luisa-plum/prunus-domestica-luisa-plum-on-tree.jpg",
+        "alt": "prunus domestica luisa plum on tree"
+      },
+      {
+        "src": "images/trees/prunus-domestica-luisa-plum/prunus-domestica-luisa-plum-plate.jpg",
+        "alt": "prunus domestica luisa plum plate"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Reine Claude de Bavay",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-domestica-reine-claude-de-bavay-plum",
+    "mainImage": "prunus-domestica-reine-claude-de-bavay-plum/prunus-domestica-reine-claude-de-bavay-plum.jpg",
+    "description": "Self-fertile. A heavy cropper which produces sweet, juicy, smaller-sized, green plums. Fruits in early-autumn. White flowers in spring. Well suited to warmer districts. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "green",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
     "family": "Rosaceae",
     "genus": "Prunus",
     "species": "dulcis",
@@ -59107,6 +57365,350 @@
         "alt": "prunus mume the geisha japanese apricot flowers on branches"
       }
     ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "April White",
+    "synonyms": [],
+    "commonName": "Peach",
+    "url": "prunus-persica-april-white-peach",
+    "mainImage": "prunus-persica-april-white-peach/prunus-persica-april-white-peach.jpg",
+    "description": "A delicious, large, firm peach that has white flesh and yellow skin with a pink-red blush. Yellow autumn leaves. Resistant to leaf-curl. Fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, pink, red",
+      "autumn": "yellow, pink, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-april-white-peach/prunus-persica-april-white-peach-flower.jpg",
+        "alt": "prunus persica april white peach flower"
+      },
+      {
+        "src": "images/trees/prunus-persica-april-white-peach/prunus-persica-april-white-peach-fruit.jpg",
+        "alt": "prunus persica april white peach fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Black Boy",
+    "synonyms": [],
+    "commonName": "Peach",
+    "url": "prunus-persica-black-boy-peach",
+    "mainImage": "prunus-persica-black-boy-peach/prunus-persica-black-boy-peach.jpg",
+    "description": "Medium-sized fruit with wine-red, melting flesh. Fruit skin is pale-purple with grey fuzz. A popular variety for eating fresh and bottling. Yellow autumn leaves. Good home-garden tree. Fruit ripens late-summer. Pink blossoms from late-winter to late-spring. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "purple, grey",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-black-boy-peach/prunus-persica-black-boy-peach-flower.jpg",
+        "alt": "prunus persica black boy peach flower"
+      },
+      {
+        "src": "images/trees/prunus-persica-black-boy-peach/prunus-persica-black-boy-peach-fruit.jpg",
+        "alt": "prunus persica black boy peach fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Golden Queen",
+    "synonyms": [],
+    "commonName": "Peach",
+    "url": "prunus-persica-golden-queen-peach",
+    "mainImage": "prunus-persica-golden-queen-peach/prunus-persica-golden-queen-peach.jpg",
+    "description": "A true favourite for bottling and an excellent eater. Firm, yellow-orange flesh and deep yellow-orange skin. Fruit is slightly flat. Clingstone. Fruit ripens in late-summer. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, orange",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-golden-queen-peach/prunus-persica-golden-queen-peach-flower.jpg",
+        "alt": "prunus persica golden queen peach flower"
+      },
+      {
+        "src": "images/trees/prunus-persica-golden-queen-peach/prunus-persica-golden-queen-peach-fruit.jpg",
+        "alt": "prunus persica golden queen peach fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Healy's",
+    "synonyms": [],
+    "commonName": "Peacherine",
+    "url": "prunus-persica-healys-peacherine",
+    "mainImage": "prunus-persica-healys-peacherine/prunus-persica-healys-peacherine.jpg",
+    "description": "A cross between a nectarine and a peach. Produces large, juicy, yellow-fleshed fruit. Fruit skin is a mix of yellow, orange, and red. Clingstone variety that fruits from late-summer to early-autumn. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow, orange, red",
+      "autumn": "yellow, orange, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-persica-healys-peacherine/prunus-persica-healys-peacherine-flower.jpg",
+        "alt": "prunus persica healys peacherine flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Hiawatha",
+    "synonyms": [],
+    "commonName": "Peach",
+    "url": "prunus-persica-hiawatha-peach",
+    "mainImage": "prunus-persica-hiawatha-peach/prunus-persica-hiawatha-peach.jpg",
+    "description": "Attractive peach tree with deep-purple leaves in spring fading to purple-green in summer and pink blossoms. Purple-skinned fruit with orange flesh and good flavour. Pink blossoms from late-winter to late-spring. Excellent fresh eating, mid-summer ripening, and self-fertile. Regular cropper.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green, purple",
+      "autumn": "green, purple",
+      "winter": "",
+      "spring": "purple"
+    },
+    "fruit": {
+      "summer": "purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "persica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Scarlett O'Hara",
+    "synonyms": [],
+    "commonName": "Peach",
+    "url": "prunus-persica-scarlett-ohara-peach",
+    "mainImage": "prunus-persica-scarlett-ohara-peach/prunus-persica-scarlett-ohara-peach.jpg",
+    "description": "Produces white-fleshed peaches with pink-red skin that ripen mid-summer. Clingstone, and flesh is firm and crunchy. Pink blossoms from late-winter to late-spring. Yellow autumn leaves. Self-fertile.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "pink, red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/peach/peach-general.svg",
+    "relatedTrees": [],
+    "images": [],
     "links": []
   },
   {
@@ -61060,6 +59662,794 @@
   },
   {
     "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Billington",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-billington-plum",
+    "mainImage": "prunus-salicina-billington-plum/prunus-salicina-billington-plum.jpg",
+    "description": "The first plum to ripen with red-purple skin and red flesh. Heavy cropper in early to mid-summer. Fruit has a good flavour. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-billington-plum/prunus-salicina-billington-plum-basket.jpg",
+        "alt": "prunus salicina billington plum basket"
+      },
+      {
+        "src": "images/trees/prunus-salicina-billington-plum/prunus-salicina-billington-plum-cut-fruit.jpg",
+        "alt": "prunus salicina billington plum cut fruit"
+      },
+      {
+        "src": "images/trees/prunus-salicina-billington-plum/prunus-salicina-billington-plum-flower.jpeg",
+        "alt": "prunus salicina billington plum flower"
+      },
+      {
+        "src": "images/trees/prunus-salicina-billington-plum/prunus-salicina-billington-plum-fruit.jpg",
+        "alt": "prunus salicina billington plum fruit"
+      },
+      {
+        "src": "images/trees/prunus-salicina-billington-plum/prunus-salicina-billington-plum-new-growth.jpeg",
+        "alt": "prunus salicina billington plum new growth"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Black Doris",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-black-doris-plum",
+    "mainImage": "prunus-salicina-black-doris-plum/prunus-salicina-black-doris-plum.jpg",
+    "description": "Medium to large, dark black-purple skin with firm, dark-red flesh. Fruits from late-summer to early-autumn. A vigorous, upright tree with heavy crops of fruit. Excellent all-purpose plum for eating, jams, sauces, and bottling. White flowers in spring. Pollinators are Plum 'Billington' and Plum 'Santa Rosa'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-black-doris-plum/prunus-salicina-black-doris-plum-fruit.jpg",
+        "alt": "prunus salicina black doris plum fruit"
+      },
+      {
+        "src": "images/trees/prunus-salicina-black-doris-plum/prunus-salicina-black-doris-plum-plums.jpg",
+        "alt": "prunus salicina black doris plum plums"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Black Doris/Billington",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-black-doris-billington-plum",
+    "mainImage": "prunus-salicina-black-doris-billington-plum/prunus-salicina-black-doris-billington-plum.jpg",
+    "description": "Double plum. See Plum 'Black Doris' and Plum 'Billington' for descriptions. First image is of Plum 'Black Doris', second is of Plum 'Billington'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-black-doris-billington-plum/prunus-salicina-black-doris-billington-plum-plums.jpg",
+        "alt": "prunus salicina black doris billington plum plums"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Burbank",
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "salicina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wright's Early"
+      }
+    ],
+    "commonName": "Plum",
+    "url": "prunus-salicina-burbank-plum",
+    "mainImage": "prunus-salicina-burbank-plum/prunus-salicina-burbank-plum.jpg",
+    "description": "Large, round, dark-red skin. Sweet, juicy, yellow flesh. Heavy cropper in mid-summer. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Fortune",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-fortune-plum",
+    "mainImage": "prunus-salicina-fortune-plum/prunus-salicina-fortune-plum.jpg",
+    "description": "Very large, round, bright-red plum with aromatic, amber flesh. Very meaty, sweet, and juicy. Fruits mid to late-summer. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Hawera",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-hawera-plum",
+    "mainImage": "prunus-salicina-hawera-plum/prunus-salicina-hawera-plum.jpg",
+    "description": "Has large, dark-red skinned and fleshed fruit. Freestone, sweet, juicy, and very firm. Fruits around late-summer to early-autumn. White flowers in spring. Self-fertile. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-hawera-plum/prunus-salicina-hawera-plum-flowers.jpeg",
+        "alt": "prunus salicina hawera plum flowers"
+      },
+      {
+        "src": "images/trees/prunus-salicina-hawera-plum/prunus-salicina-hawera-plum-fruit.jpg",
+        "alt": "prunus salicina hawera plum fruit"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Omega",
+    "synonyms": [
+      {
+        "genus": "Prunus",
+        "species": "salicina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "George Wilson"
+      }
+    ],
+    "commonName": "Plum",
+    "url": "prunus-salicina-omega-plum",
+    "mainImage": "prunus-salicina-omega-plum/prunus-salicina-omega-plum.jpg",
+    "description": "Produces heavy crops of mid-sized, red fruit with speckled skin and red flesh. Fruit ripens in early-autumn. White flowers in spring. Freestone. Partially self-fertile, but better crops when planted with Plum 'Santa Rosa', Plum 'Billington', or Plum 'Burbank'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Purple King",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-purple-king-plum",
+    "mainImage": "prunus-salicina-purple-king-plum/prunus-salicina-purple-king-plum.jpg",
+    "description": "Very large, purple-skinned fruit with yellow flesh. Sweet and juicy. Fruits late-summer. An excellent performing plum for warmer regions. White flowers in spring. Requires Plum 'Billington' or Plum 'Santa Rosa' for pollination. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Ruby Queen",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-ruby-queen-plum",
+    "mainImage": "prunus-salicina-ruby-queen-plum/prunus-salicina-ruby-queen-plum.jpeg",
+    "description": "Dark red-purple skin and sweet, juicy, red flesh. A highly productive producer with good disease resistance. Recommended for organic-growing and growing in areas with high humidity. Fruit ripens in late-summer to early-autumn. White flowers in spring. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-ruby-queen-plum/prunus-salicina-ruby-queen-plum-flower.jpg",
+        "alt": "prunus salicina ruby queen plum flower"
+      },
+      {
+        "src": "images/trees/prunus-salicina-ruby-queen-plum/prunus-salicina-ruby-queen-plum-fruit.jpeg",
+        "alt": "prunus salicina ruby queen plum fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Santa Rosa",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-santa-rosa-plum",
+    "mainImage": "prunus-salicina-santa-rosa-plum/prunus-salicina-santa-rosa-plum.jpg",
+    "description": "Medium to large, round, crimson-red plum. Yellow flesh is flushed with pink. Sweet and juicy with excellent flavours. Ripens from mid-summer into autumn. All-purpose plum for eating, jams, and sauces. White flowers in spring. Partially self-fertile, but better crops when planted with Plum 'Black Doris'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/prunus-salicina-santa-rosa-plum/prunus-salicina-santa-rosa-plum-flowering.jpg",
+        "alt": "prunus salicina santa rosa plum flowering"
+      },
+      {
+        "src": "images/trees/prunus-salicina-santa-rosa-plum/prunus-salicina-santa-rosa-plum-fruit.jpg",
+        "alt": "prunus salicina santa rosa plum fruit"
+      },
+      {
+        "src": "images/trees/prunus-salicina-santa-rosa-plum/prunus-salicina-santa-rosa-plum-fruiting.jpg",
+        "alt": "prunus salicina santa rosa plum fruiting"
+      },
+      {
+        "src": "images/trees/prunus-salicina-santa-rosa-plum/prunus-salicina-santa-rosa-plum-plum.jpg",
+        "alt": "prunus salicina santa rosa plum plum"
+      }
+    ],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Satsuma",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-satsuma-plum",
+    "mainImage": "prunus-salicina-satsuma-plum/prunus-salicina-satsuma-plum.jpg",
+    "description": "Plums have purple-red skin and red flesh. White flowers in spring. Fruit ripens around late-summer. Partially self-fertile, but best crops when planted with Plum 'Santa Rosa' or Plum 'Shiro'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Shiro",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-shiro-plum",
+    "mainImage": "prunus-salicina-shiro-plum/prunus-salicina-shiro-plum.jpg",
+    "description": "Large, golden, sweet, and juicy plums. Fruits in mid-summer. White flowers in spring. Plums are good for eating, cooking, canning, preserves, and desserts. Pollinator is Plum 'Santa Rosa'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "yellow",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "salicina",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [],
+    "commonName": "Plum",
+    "url": "prunus-salicina-sultan-plum",
+    "mainImage": "prunus-salicina-sultan-plum/prunus-salicina-sultan-plum.jpg",
+    "description": "Large plums with deep-red skin and red flesh that is juicy and highly-flavoured. White flowers in spring. Fruit ripens in late-summer. Pollinators are Plum 'Santa Rosa', Plum 'Burbank', and Plum 'Omega'. Yellow autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, purple",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": [
+      "https://www.naturalhub.com/grow_fruit_cultivars_plum_new_zealand.htm"
+    ]
+  },
+  {
+    "family": "",
     "genus": "",
     "species": "",
     "hybrid": "",
@@ -62856,27 +62246,27 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-autumn-foliage.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-autumn-foliage.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear autumn foliage"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-autumn-in-nursery.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-autumn-in-nursery.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear autumn in nursery"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-flower-cluster.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-flower-cluster.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear flower cluster"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-flowers.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-flowers.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear flowers"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-foliage-flowers.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-foliage-flowers.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear foliage flowers"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-foliage.jpg",
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pyrus-communis-foliage.jpg",
         "alt": "pyrus betulifolia autumn leaves birchleaf pear foliage"
       }
     ],
@@ -62933,39 +62323,39 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-autumn-form.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-autumn-form.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear autumn form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-autumn-leaves.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-autumn-leaves.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear autumn leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flower.jpeg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-flower.jpeg",
         "alt": "pyrus calleryana aristocrat ornamental pear flower"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flowering-street.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-flowering-street.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear flowering street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flowering.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-flowering.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear flowering"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-foliage.jpeg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-foliage.jpeg",
         "alt": "pyrus calleryana aristocrat ornamental pear foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-garden.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-garden.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear garden"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-row-street.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-row-street.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear row street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-street.jpg",
+        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pyrus-communis-street.jpg",
         "alt": "pyrus calleryana aristocrat ornamental pear street"
       }
     ],
@@ -63022,39 +62412,39 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-colour-foliage.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-autumn-colour-foliage.jpg",
         "alt": "pyrus calleryana bradford ornamental pear autumn colour foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-colour-form.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-autumn-colour-form.jpg",
         "alt": "pyrus calleryana bradford ornamental pear autumn colour form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-street.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-autumn-street.jpg",
         "alt": "pyrus calleryana bradford ornamental pear autumn street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-flowering-avenue.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-flowering-avenue.jpg",
         "alt": "pyrus calleryana bradford ornamental pear flowering avenue"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-flowers.jpeg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-flowers.jpeg",
         "alt": "pyrus calleryana bradford ornamental pear flowers"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-foliage.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-foliage.jpg",
         "alt": "pyrus calleryana bradford ornamental pear foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-spring-flowering-street-tree.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-spring-flowering-street-tree.jpg",
         "alt": "pyrus calleryana bradford ornamental pear spring flowering street tree"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-spring-flowering.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-spring-flowering.jpg",
         "alt": "pyrus calleryana bradford ornamental pear spring flowering"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-summer-form.jpg",
+        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pyrus-communis-summer-form.jpg",
         "alt": "pyrus calleryana bradford ornamental pear summer form"
       }
     ],
@@ -63111,47 +62501,47 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-colour.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-autumn-colour.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear autumn colour"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-leaves.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-autumn-leaves.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear autumn leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-street.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-autumn-street.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear autumn street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-flowers.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-flowers.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear flowers"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-foliage.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-foliage.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-garden.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-garden.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear garden"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-single-tree.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-single-tree.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear single tree"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-spring-avenue.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-spring-avenue.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear spring avenue"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-street.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-street.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-summer-form.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-summer-form.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear summer form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-summer-row.jpg",
+        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pyrus-communis-summer-row.jpg",
         "alt": "pyrus calleryana candelabra ornamental pear summer row"
       }
     ],
@@ -63208,28 +62598,632 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-autumn-form-leaves.jpg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-autumn-form-leaves.jpg",
         "alt": "pyrus calleryana kea ornamental pear autumn form leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-autumn-form.jpg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-autumn-form.jpg",
         "alt": "pyrus calleryana kea ornamental pear autumn form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-carpark.jpg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-carpark.jpg",
         "alt": "pyrus calleryana kea ornamental pear carpark"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-foliage.jpeg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-foliage.jpeg",
         "alt": "pyrus calleryana kea ornamental pear foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-spring-flowering-park.jpg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-spring-flowering-park.jpg",
         "alt": "pyrus calleryana kea ornamental pear spring flowering park"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-spring-flowers.jpeg",
+        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pyrus-communis-spring-flowers.jpeg",
         "alt": "pyrus calleryana kea ornamental pear spring flowers"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Conference",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-conference-pear",
+    "mainImage": "pyrus-communis-conference-pear/pyrus-communis-conference-pear.jpg",
+    "description": "Long-necked, green pears with some russeting. Excellent juicy flavour. Moderately-vigorous and slightly-spreading. Excellent choice for the home gardener. Partially self-fertile, but better crops when planted with Packham's Triumph. Fruit ripens in mid-autumn. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-conference-pear/pyrus-communis-conference-pear-fruit.jpg",
+        "alt": "pyrus communis conference pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Doyenné du Comice",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-doyenne-du-comice-pear",
+    "mainImage": "pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear.jpg",
+    "description": "Large, classic, gourmet pear. Has green skin flushed red. Rich, juicy flesh that tastes like sweetened cinnamon. Fruit ripens mid to late-autumn. Upright and vigorous habit. High chilling hours needed to set fruit. Pollinators include Beurre Bosc, Williams' Bon Chretien, Winter Cole, and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "",
+    "width": "",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear-flowers.jpg",
+        "alt": "pyrus communis doyenne du comice pear flowers"
+      },
+      {
+        "src": "images/trees/pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear-fruit.jpg",
+        "alt": "pyrus communis doyenne du comice pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Doyenné du Comice/Conference",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-doyenne-du-comice-conference-pear",
+    "mainImage": "pyrus-communis-doyenne-du-comice-conference-pear/pyrus-communis-doyenne-du-comice-conference-pear.jpg",
+    "description": "Double pear. See Pear 'Doyenne du Comice' and Pear 'Conference' for descriptions. Image is of Pear 'Doyenne du Comice'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, brown, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Red Bartlett",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-red-bartlett-pear",
+    "mainImage": "pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear.jpg",
+    "description": "Bright-red skin when fully ripe. Very aromatic pear with melty flesh and good flavour. Fruit ripens mid to late-summer. All-purpose pear for eating fresh, preserving, baking, and poaching. Pollinators in the North Island are Packam's Triumph or Winter Nelis. In the South Island, Conference or Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-flower-buds.jpg",
+        "alt": "pyrus communis red bartlett pear flower buds"
+      },
+      {
+        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-flower.jpg",
+        "alt": "pyrus communis red bartlett pear flower"
+      },
+      {
+        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-fruit.jpg",
+        "alt": "pyrus communis red bartlett pear fruit"
+      },
+      {
+        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-on-tree.jpg",
+        "alt": "pyrus communis red bartlett pear on tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Seckel",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-seckel-pear",
+    "mainImage": "pyrus-communis-seckel-pear/pyrus-communis-seckel-pear.jpg",
+    "description": "Small to medium-sized gourmet fruit are golden with a red blush. Yellow flesh is finely grained, juicy, and melting with spicy overtones. Excellent quality eating fruit. Fireblight resistant. Pollinators include Packham's Triumph and Winter Nelis. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "yellow, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-seckel-pear/pyrus-communis-seckel-pear-flower.jpg",
+        "alt": "pyrus communis seckel pear flower"
+      },
+      {
+        "src": "images/trees/pyrus-communis-seckel-pear/pyrus-communis-seckel-pear-fruit.jpg",
+        "alt": "pyrus communis seckel pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Taylor's Gold",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-taylors-gold-pear",
+    "mainImage": "pyrus-communis-taylors-gold-pear/pyrus-communis-taylors-gold-pear.jpg",
+    "description": "Pears have russeted, cinnamon-coloured skin, and a juicy, aromatic flavour. Ivory to cream-coloured flesh. Fruits from mid to late-autumn. Pollinators include Packham's Triumph, Williams' Bon Chretien, and Winter Cole. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "yellow, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-taylors-gold-pear/pyrus-communis-taylors-gold-pear-fruit.jpg",
+        "alt": "pyrus communis taylors gold pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Williams' Bon Chrétien",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-williams-bon-chretien-pear",
+    "mainImage": "pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear.jpg",
+    "description": "Large, green-yellow fruit, great for eating or bottling. Good pollinator. Fruits from late-summer to early-autumn. Fruit keeps well. Pollinators include Beurre Bosc, Winter Nelis, Conference, and Doyenne du Comice. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "green, yellow",
+      "autumn": "green, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear-flower.jpg",
+        "alt": "pyrus communis williams bon chretien pear flower"
+      },
+      {
+        "src": "images/trees/pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear-fruit.jpg",
+        "alt": "pyrus communis williams bon chretien pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Williams' Bon Chrétien/Conference",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-williams-bon-chretien-conference-pear",
+    "mainImage": "pyrus-communis-williams-bon-chretien-conference-pear/pyrus-communis-williams-bon-chretien-conference-pear.jpg",
+    "description": "Double pear. See Pear 'Williams' Bon Chrétien' and Pear 'Conference' for descriptions. Image is of Pear 'Williams' Bon Chrétien'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, brown, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "communis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Winter Cole",
+    "synonyms": [],
+    "commonName": "Pear",
+    "url": "pyrus-communis-winter-cole-pear",
+    "mainImage": "pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear.jpg",
+    "description": "Small dessert pear with russeted, green skin. Fruit ripens in late-autumn. A prolific and reliable fruiter, with a spreading growth habit. A good keeper with fruit lasting well into winter. Pollinators include Beurre Bosc, Packham's Triumph, and Williams' Bon Chretien. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear-flowers.jpg",
+        "alt": "pyrus communis winter cole pear flowers"
+      },
+      {
+        "src": "images/trees/pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear-fruit.jpg",
+        "alt": "pyrus communis winter cole pear fruit"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Pyrus",
+    "species": "pyrifolia",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Reddy Robin",
+    "synonyms": [],
+    "commonName": "Nashi Pear, Asian Pear",
+    "url": "pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear",
+    "mainImage": "pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear.jpg",
+    "description": "Looks and tastes like an apple, with the skin and texture of a pear. Green skin with a red blush. Very sweet and juicy. Healthy, delicious fruit to snack on. Fruit ready to harvest from late-summer to early-autumn. Partially self-fertile, but better crops when planted with another nashi pear variety. White blossoms in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "green, red",
+      "autumn": "green, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/pear/pear-general.svg",
+    "relatedTrees": [],
+    "images": [
+      {
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pyrus-communis-cut-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear cut fruit"
+      },
+      {
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pyrus-communis-flowers.jpg",
+        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear flowers"
+      },
+      {
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pyrus-communis-fruit-slice.jpg",
+        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear fruit slice"
+      },
+      {
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pyrus-communis-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear fruit"
+      },
+      {
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pyrus-communis-asian-pyrus-communis-whole-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear whole fruit"
       }
     ],
     "links": []
@@ -63245,8 +63239,8 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Weeping Pear, Willow-leaved Pear",
-    "url": "pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear",
-    "mainImage": "pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear.jpg",
+    "url": "pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear",
+    "mainImage": "pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear.jpg",
     "description": "Willow-like leaves are silver-white in spring, becoming grey-green in summer. Forms tiers of branches and can be easily clipped. Small, white blossoms in spring. Withstands strong winds and drought conditions.",
     "uses": "attracts-bees",
     "tolerates": "windy",
@@ -63285,31 +63279,31 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-back-garden.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-back-garden.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear back garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-flowering.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-flowering.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear flowering"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-flowers.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-flowers.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear flowers"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-foliage.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-foliage.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear foliage"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-front-garden.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-front-garden.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear front garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-garden.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-garden.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-park.jpg",
+        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pyrus-communis-willow-leaved-pyrus-communis-park.jpg",
         "alt": "pyrus salicifolia pendula weeping pear willow leaved pear park"
       }
     ],
@@ -64636,7 +64630,7 @@
     "commonName": "Quince",
     "url": "quince-smyrna",
     "mainImage": "quince-smyrna/quince-smyrna.jpg",
-    "description": "Popular selection from Turkey. Fruit is large, furrowed, oblong to pear-shaped, golden-yellow, and very aromatic. Flesh is mild, tender, and light-yellow. The fruit keeps very well. Moderately vigorous tree with unusually large leaves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
+    "description": "Popular selection from Turkey. Fruit is large, furrowed, oblong to pyrus-communis-shaped, golden-yellow, and very aromatic. Flesh is mild, tender, and light-yellow. The fruit keeps very well. Moderately vigorous tree with unusually large leaves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
