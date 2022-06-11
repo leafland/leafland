@@ -1704,3 +1704,21 @@
     from = "/trees/photinia-superhedge-red-tip-photinia-christmas-berry/"
     status = 301
     to = "/trees/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-pineapple/"
+    status = 301
+    to = "/trees/cydonia-oblonga-pineapple-quince/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-smyrna/"
+    status = 301
+    to = "/trees/cydonia-oblonga-smyrna-quince/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-taihape/"
+    status = 301
+    to = "/trees/cydonia-oblonga-taihape-quince/"
