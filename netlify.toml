@@ -1686,3 +1686,21 @@
     from = "/trees/plum-sultan/"
     status = 301
     to = "/trees/prunus-salicina-sultan-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-dark-knight-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-red-robin-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-superhedge-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry/"
