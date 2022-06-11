@@ -4,7 +4,7 @@ main {
 
 main h1,
 main h2 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #content {

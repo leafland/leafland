@@ -10144,8 +10144,8 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Silver Spear, Kakaha",
-    "url": "astelia-chathamica-silver-spyrus-communis-kakaha",
-    "mainImage": "astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha.jpg",
+    "url": "astelia-chathamica-silver-spear-kakaha",
+    "mainImage": "astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha.jpg",
     "description": "Ornamental, clump-forming plant with broad, spiky, silver-green leaves which droop at their tips. Easily grown in full sun or semi-shade. Will tolerate both moist and dry sites. Dramatic in group plantings. Coastal hardy. Excellent in containers.",
     "uses": "",
     "tolerates": "coastal, windy",
@@ -10184,15 +10184,15 @@
     "relatedTrees": [],
     "images": [
       {
-        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-foliage.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-foliage.jpg",
         "alt": "astelia chathamica silver spear kakaha foliage"
       },
       {
-        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-garden.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-garden.jpg",
         "alt": "astelia chathamica silver spear kakaha garden"
       },
       {
-        "src": "images/trees/astelia-chathamica-silver-spyrus-communis-kakaha/astelia-chathamica-silver-spyrus-communis-kakaha-park.jpg",
+        "src": "images/trees/astelia-chathamica-silver-spear-kakaha/astelia-chathamica-silver-spear-kakaha-park.jpg",
         "alt": "astelia chathamica silver spear kakaha park"
       }
     ],
@@ -27260,7 +27260,8 @@
   {
     "family": "",
     "genus": "Feijoa",
-    "hybrid": "sellowiana",
+    "species": "sellowiana",
+    "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",

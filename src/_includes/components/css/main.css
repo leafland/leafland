@@ -261,7 +261,7 @@ main p a {
 h1,
 h2,
 h3 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: bold;
   line-height: 1.2;
   transition: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);

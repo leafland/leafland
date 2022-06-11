@@ -110,11 +110,11 @@ window.addEventListener("loginUpdated", () => {
     if (treeCommonName.textContent !== "") {
       document.querySelector(
         "#tree-name-content"
-      ).textContent = `${treeBotanicalName.textContent} (${treeCommonName.textContent})`;
+      ).innerHTML = `${treeBotanicalName.innerHTML} (${treeCommonName.textContent})`;
     } else {
       document.querySelector(
         "#tree-name-content"
-      ).textContent = `${treeBotanicalName.textContent}`;
+      ).innerHTML = `${treeBotanicalName.innerHTML}`;
     }
     await createStockTable();
   })();

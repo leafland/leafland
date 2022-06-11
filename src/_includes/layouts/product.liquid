@@ -25,7 +25,11 @@ type: product
 
             {% if tree.hybrid contains ' x ' %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+            {% assign text = tree.hybrid | split: ' x ' %}
+
+            {% assign newText = text | join: '</i> x <i>' %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</h1>
 
             {% else %}
 
@@ -63,7 +67,11 @@ type: product
 
         {% if tree.hybrid contains ' x ' %}
 
-        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></h1>
+        {% assign text = tree.hybrid | split: ' x ' %}
+
+        {% assign newText = text | join: '</i> x <i>' %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i></h1>
 
         {% else %}
 
@@ -876,7 +884,7 @@ type: product
                     </div>
 
                     <div id="success-message">
-                        <p id="success-message-text" class="paragraph-title">Added to order</p>
+                        <p id="success-message-text">Added to order</p>
                     </div>
 
                 </div>
@@ -923,9 +931,13 @@ type: product
 
                     {% if tree.hybrid contains ' x ' %}
 
+                    {% assign text = tree.hybrid | split: ' x ' %}
+
+                    {% assign newText = text | join: '</i> x <i>' %}
+
                     <div>
 
-                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></p>
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i></p>
 
                     </div>
 
@@ -991,7 +1003,11 @@ type: product
 
                             {% if tree.hybrid contains ' x ' %}
 
-                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+                            {% assign text = tree.hybrid | split: ' x ' %}
+
+                            {% assign newText = text | join: '</i> x <i>' %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</p>
 
                             {% else %}
 
@@ -1037,7 +1053,11 @@ type: product
 
                             {% if item.hybrid contains ' x ' %}
 
-                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.hybrid }}</i> '{{ item.cultivar }}'{% endcapture %}
+                            {% assign text = tree.hybrid | split: ' x ' %}
+
+                            {% assign newText = text | join: '</i> x <i>' %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ newText }}</i> '{{ item.cultivar }}'{% endcapture %}
 
                             {% else %}
 
@@ -1075,7 +1095,11 @@ type: product
 
                         {% if item.hybrid contains ' x ' %}
 
-                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.hybrid }}</i>{% endcapture %}
+                        {% assign text = tree.hybrid | split: ' x ' %}
+
+                        {% assign newText = text | join: '</i> x <i>' %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ newText }}</i>{% endcapture %}
 
                         {% else %}
 

@@ -83,6 +83,7 @@ main h3 {
 
 #hero-text h1 {
   color: var(--secondary-background);
+  text-transform: uppercase;
 }
 
 #hero-text .subtitle {

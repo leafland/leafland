@@ -221,7 +221,10 @@ async function displayResults(results) {
       } else if (results[i].hybrid !== "") {
 
         if(results[i].hybrid.search(' x ') !== -1){
-          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
+
+          let text = results[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i> '${results[i].cultivar}'`;
         }
         else{
           resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
@@ -243,7 +246,10 @@ async function displayResults(results) {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i>`;
     } else if (results[i].hybrid !== "") {
       if(results[i].hybrid.search(' x ') !== -1){
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].hybrid}</i>`;
+
+        let text = results[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i>`;
       }
       else{
         resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;

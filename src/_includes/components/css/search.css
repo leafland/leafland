@@ -131,7 +131,7 @@ body.search-loaded #search-results {
 }
 
 .result-botanical-name {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 
   font-weight: bold;
   color: var(--secondary-background);
@@ -145,7 +145,7 @@ body.search-loaded #search-results {
   display: inline-block;
   font-size: var(--font-size-2);
   font-weight: bold;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 
   margin-top: 0.5rem;
 }

@@ -46,7 +46,7 @@ body.stock-table-open #stock-table {
   }
   
   #stock-table-tree-name{
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: bold;
     font-size: var(--font-size-4)
   }

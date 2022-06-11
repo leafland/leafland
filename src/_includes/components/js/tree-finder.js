@@ -537,7 +537,10 @@ async function populatePage(
           } else if (treeDataSubset[i].hybrid !== "") {
 
             if(treeDataSubset[i].hybrid.search(' x ') !== -1){
-              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
+
+              let text = treeDataSubset[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i> '${treeDataSubset[i].cultivar}'`;
             }
             else{
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
@@ -561,7 +564,9 @@ async function populatePage(
         } else if (treeDataSubset[i].hybrid !== "") {
 
           if(treeDataSubset[i].hybrid.search(' x ') !== -1){
-            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].hybrid}</i>`;
+            let text = treeDataSubset[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i>`;
           }
           else{
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i>`;
