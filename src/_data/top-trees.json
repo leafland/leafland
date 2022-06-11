@@ -5,73 +5,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer palmatum",
+                "botanicalName":"<i>Acer palmatum</i>",
                 "commonName":"Japanese Maple",
                 "url":"acer-palmatum-japanese-maple",
                 "mainImage":"acer-palmatum-japanese-maple/acer-palmatum-japanese-maple.jpg"
             },
             {
-                "botanicalName":"Acer rubrum",
+                "botanicalName":"<i>Acer rubrum</i>",
                 "commonName":"Red Maple",
                 "url":"acer-rubrum-red-maple",
                 "mainImage":"acer-rubrum-red-maple/acer-rubrum-red-maple.jpg"
             },
             {
-                "botanicalName":"Amelanchier canadensis",
+                "botanicalName":"<i>Amelanchier canadensis</i>",
                 "commonName":"Canadian Serviceberry, Shadbush",
                 "url":"amelanchier-canadensis-canadian-serviceberry-shadbush",
                 "mainImage":"amelanchier-canadensis-canadian-serviceberry-shadbush/amelanchier-canadensis-canadian-serviceberry-shadbush.jpg"
             },
             {
-                "botanicalName":"Fraxinus pennsylvanica 'Cimmzam'",
+                "botanicalName":"<i>Fraxinus pennsylvanica</i> 'Cimmzam'",
                 "commonName":"Green Ash",
                 "url":"fraxinus-pennsylvanica-cimmzam-green-ash",
                 "mainImage":"fraxinus-pennsylvanica-cimmzam-green-ash/fraxinus-pennsylvanica-cimmzam-green-ash.jpg"
             },
             {
-                "botanicalName":"Ginkgo biloba 'Autumn Gold'",
+                "botanicalName":"<i>Ginkgo biloba</i> 'Autumn Gold'",
                 "commonName":"Maidenhair Tree",
                 "url":"ginkgo-biloba-autumn-gold-maidenhair-tree",
                 "mainImage":"ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree.jpg"
             },
             {
-                "botanicalName":"Liquidambar styraciflua",
+                "botanicalName":"<i>Liquidambar styraciflua</i>",
                 "commonName":"American Sweetgum",
                 "url":"liquidambar-styraciflua-american-sweetgum",
                 "mainImage":"liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum.jpg"
             },
             {
-                "botanicalName":"Nyssa sylvatica",
+                "botanicalName":"<i>Nyssa sylvatica</i>",
                 "commonName":"Black Tupelo, Black Gum",
                 "url":"nyssa-sylvatica-black-tupelo-black-gum",
                 "mainImage":"nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum.jpg"
             },
             {
-                "botanicalName":"Parrotia persica",
+                "botanicalName":"<i>Parrotia persica</i>",
                 "commonName":"Persian Ironwood",
                 "url":"parrotia-persica-persian-ironwood",
                 "mainImage":"parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood.jpg"
             },
             {
-                "botanicalName":"Pyrus calleryana 'Aristocrat'",
+                "botanicalName":"<i>Pyrus calleryana</i> 'Aristocrat'",
                 "commonName":"Ornamental Pear",
                 "url":"pyrus-calleryana-aristocrat-ornamental-pear",
                 "mainImage":"pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear.jpg"
             },
             {
-                "botanicalName":"Quercus palustris",
+                "botanicalName":"<i>Quercus palustris</i>",
                 "commonName":"Pin Oak, Swamp Spanish Oak",
                 "url":"quercus-palustris-pin-oak-swamp-spanish-oak",
                 "mainImage":"quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg"
             },
             {
-                "botanicalName":"Ulmus 'Louis van Houtte'",
+                "botanicalName":"<i>Ulmus</i> 'Louis van Houtte'",
                 "commonName":"Golden Elm",
                 "url":"ulmus-louis-van-houtte-golden-elm",
                 "mainImage":"ulmus-louis-van-houtte-golden-elm/ulmus-louis-van-houtte-golden-elm.jpeg"
             },
             {
-                "botanicalName":"Zelkova serrata",
+                "botanicalName":"<i>Zelkova serrata</i>",
                 "commonName":"Japanese Elm",
                 "url":"zelkova-serrata-japanese-elm",
                 "mainImage":"zelkova-serrata-japanese-elm/zelkova-serrata-japanese-elm.jpg"
@@ -84,7 +84,7 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Albizia julibrissin 'Red Silk'",
+                "botanicalName":"<i>Albizia julibrissin</i> 'Red Silk'",
                 "commonName":"Persian Silk Tree, Pink Silk Tree",
                 "url":"albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree",
                 "mainImage":"albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree/albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree.jpg"
