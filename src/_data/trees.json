@@ -6506,6 +6506,24 @@
         "variety": "",
         "form": "",
         "cultivar": "Eskimo Sunset"
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "variegatum",
+        "cultivar": "Eskimo Sunset"
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "variegatum",
+        "cultivar": "Esk Sunset"
       }
     ],
     "commonName": "Sycamore Maple",
@@ -6561,7 +6579,23 @@
         "alt": "acer pseudoplatanus esk sunset sycamore maple summer foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+      "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
+      "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28756",
+      "https://www.rhs.org.uk/plants/269/i-acer-pseudoplatanus-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275368",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus/",
+      "https://plants.ces.ncsu.edu/plants/acer-pseudoplatanus/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus",
+      "https://selectree.calpoly.edu/tree-detail/98",
+      "https://www.ebben.nl/en/treeebb/acpseudo-acer-pseudoplatanus",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus",
+      "https://www.rhs.org.uk/plants/175032/i-acer-pseudoplatanus-i-f-i-variegatum-i-esk-sunset-(v)/details",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus-esk-sunset",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1182"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -6572,7 +6606,26 @@
     "variety": "",
     "form": "",
     "cultivar": "Leopoldii",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "variegatum",
+        "cultivar": "Leopoldii"
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Variegatum"
+      }
+    ],
     "commonName": "Sycamore Maple",
     "url": "acer-pseudoplatanus-leopoldii-sycamore-maple",
     "mainImage": "acer-pseudoplatanus-leopoldii-sycamore-maple/acer-pseudoplatanus-leopoldii-sycamore-maple.jpg",
@@ -6622,7 +6675,24 @@
         "alt": "acer pseudoplatanus leopoldii sycamore maple summer foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+      "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
+      "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28756",
+      "https://www.rhs.org.uk/plants/269/i-acer-pseudoplatanus-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275368",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus/",
+      "https://plants.ces.ncsu.edu/plants/acer-pseudoplatanus/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus",
+      "https://selectree.calpoly.edu/tree-detail/98",
+      "https://www.ebben.nl/en/treeebb/acpseudo-acer-pseudoplatanus",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus",
+      "https://www.rhs.org.uk/plants/92474/acer-pseudoplatanus-f-variegatum-leopoldii-ambig-(v)/details",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus-leopoldii/",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1074",
+      "https://www.ebben.nl/en/treeebb/acpleopo-acer-pseudoplatanus-leopoldii"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -6633,7 +6703,35 @@
     "variety": "",
     "form": "",
     "cultivar": "Purpureum",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "purpureum",
+        "cultivar": ""
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Atropurpureum"
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Purpureum Spaethii"
+      }
+    ],
     "commonName": "Sycamore Maple",
     "url": "acer-pseudoplatanus-purpureum-sycamore-maple",
     "mainImage": "acer-pseudoplatanus-purpureum-sycamore-maple/acer-pseudoplatanus-purpureum-sycamore-maple.jpg",
@@ -6683,7 +6781,27 @@
         "alt": "acer pseudoplatanus purpureum sycamore maple summer foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+      "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
+      "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28756",
+      "https://www.rhs.org.uk/plants/269/i-acer-pseudoplatanus-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275368",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus/",
+      "https://plants.ces.ncsu.edu/plants/acer-pseudoplatanus/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus",
+      "https://selectree.calpoly.edu/tree-detail/98",
+      "https://www.ebben.nl/en/treeebb/acpseudo-acer-pseudoplatanus",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus",
+      "https://www.rhs.org.uk/plants/133269/i-acer-pseudoplatanus-i-f-i-purpureum-i/details",
+      "https://www.rhs.org.uk/plants/83939/i-acer-pseudoplatanus-i-atropurpureum/details",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus-atropurpureum/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus-atropurpureum",
+      "https://selectree.calpoly.edu/tree-detail/99",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1369",
+      "https://www.ebben.nl/en/treeebb/acepatro-acer-pseudoplatanus-atropurpureum"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -6694,7 +6812,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Worley",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Worleei"
+      }
+    ],
     "commonName": "Sycamore Maple",
     "url": "acer-pseudoplatanus-worley-sycamore-maple",
     "mainImage": "acer-pseudoplatanus-worley-sycamore-maple/acer-pseudoplatanus-worley-sycamore-maple.jpg",
@@ -6748,7 +6876,23 @@
         "alt": "acer pseudoplatanus worley sycamore maple park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+      "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
+      "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28756",
+      "https://www.rhs.org.uk/plants/269/i-acer-pseudoplatanus-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275368",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus/",
+      "https://plants.ces.ncsu.edu/plants/acer-pseudoplatanus/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-pseudoplatanus",
+      "https://selectree.calpoly.edu/tree-detail/98",
+      "https://www.ebben.nl/en/treeebb/acpseudo-acer-pseudoplatanus",
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus",
+      "https://www.rhs.org.uk/plants/89699/i-acer-pseudoplatanus-i-worley/details",
+      "https://www.vdberk.co.uk/trees/acer-pseudoplatanus-worley/",
+      "https://www.ebben.nl/en/treeebb/acpworle-acer-pseudoplatanus-worley"
+    ]
   },
   {
     "family": "Sapindaceae",
