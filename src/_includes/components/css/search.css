@@ -135,7 +135,8 @@ body.search-loaded #search-results {
 
   font-weight: bold;
   color: var(--secondary-background);
-  line-height: 1.2
+  line-height: 1.2;
+  font-size:var(--font-size-4)
 }
 
 .result-common-name {
