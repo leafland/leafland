@@ -212,35 +212,35 @@
 
               {% if tree.form.size > 0 %}
 
-              "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+              "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}'",
+              "commonName": "{{ tree.commonName }}",
 
               {% elsif tree.variety.size > 0 %}
 
-              "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+              "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}'",
+              "commonName": "{{ tree.commonName }}",
 
               {% elsif tree.subspecies.size > 0 %}
 
-              "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+              "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+              "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}'",
+              "commonName": "{{ tree.commonName }}",
 
               {% elsif tree.hybrid.size > 0 %}
 
               {% if tree.hybrid contains ' x ' %}
 
-              "name": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+              "name": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+              "botanicalName": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}'",
+              "commonName": "{{ tree.commonName }}",
 
               {% else %}
 
-              "name": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-              "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}'"
-              "commonName": "{{ tree.commonName }}"
+              "name": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+              "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}'",
+              "commonName": "{{ tree.commonName }}",
 
               {% endif %}
 
@@ -248,15 +248,15 @@
 
                 {% if tree.species.size > 0 %}
 
-                "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-                "botanicalName": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}'"
-                "commonName": "{{ tree.commonName }}"
+                "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+                "botanicalName": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}'",
+                "commonName": "{{ tree.commonName }}",
 
                 {% else %}
 
-                "name": "{{ tree.genus }} '{{ tree.cultivar }}' ({{ tree.commonName }})"
-                "botanicalName": "{{ tree.genus }} '{{ tree.cultivar }}'"
-                "commonName": "{{ tree.commonName }}"
+                "name": "{{ tree.genus }} '{{ tree.cultivar }}' ({{ tree.commonName }})",
+                "botanicalName": "{{ tree.genus }} '{{ tree.cultivar }}'",
+                "commonName": "{{ tree.commonName }}",
 
                 {% endif %}
 
@@ -264,43 +264,43 @@
 
             {% elsif tree.form.size > 0 %}
 
-            "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }}",
+            "commonName": "{{ tree.commonName }}",
 
             {% elsif tree.variety.size > 0 %}
 
-            "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}  ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}  ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}",
+            "commonName": "{{ tree.commonName }}",
 
             {% elsif tree.subspecies.size > 0 %}
 
-            "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }}",
+            "commonName": "{{ tree.commonName }}",
 
             {% elsif tree.hybrid.size > 0 %}
 
             {% if tree.hybrid contains ' x ' %}
 
-            "name": "{{ tree.genus }} {{ tree.hybrid }} ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} {{ tree.hybrid }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} {{ tree.hybrid }} ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} {{ tree.hybrid }}",
+            "commonName": "{{ tree.commonName }}",
 
             {% else %}
 
-            "name": "{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} x {{ tree.hybrid }} ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} x {{ tree.hybrid }}",
+            "commonName": "{{ tree.commonName }}",
 
             {% endif %}
 
             {% else %}
 
-            "name": "{{ tree.genus }} {{ tree.species }} ({{ tree.commonName }})"
-            "botanicalName": "{{ tree.genus }} {{ tree.species }}"
-            "commonName": "{{ tree.commonName }}"
+            "name": "{{ tree.genus }} {{ tree.species }} ({{ tree.commonName }})",
+            "botanicalName": "{{ tree.genus }} {{ tree.species }}",
+            "commonName": "{{ tree.commonName }}",
 
           {% endif %}
 
