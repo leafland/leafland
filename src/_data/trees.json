@@ -5640,7 +5640,17 @@
     "variety": "dissectum",
     "form": "",
     "cultivar": "Tamukeyama",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "dissectum",
+        "form": "",
+        "cultivar": "Beni-hagoromo"
+      }
+    ],
     "commonName": "Japanese Maple",
     "url": "acer-palmatum-var-dissectum-tamukeyama-japanese-maple",
     "mainImage": "acer-palmatum-var-dissectum-tamukeyama-japanese-maple/acer-palmatum-var-dissectum-tamukeyama-japanese-maple.jpg",
@@ -5712,7 +5722,10 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/191092/acer-palmatum-tamukeyama-(d)/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c564",
+      "https://www.havlis.cz/karta_en.php?kytkaid=82"
     ]
   },
   {
@@ -5796,7 +5809,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=505",
       "https://www.ebben.nl/en/treeebb/acpalmat-acer-palmatum",
       "https://www.gardenia.net/plant-variety/acer-palmatum-japanese-maple",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+palmatum",
+      "https://www.rhs.org.uk/plants/152181/acer-palmatum-var-dissectum-viridis/details",
+      "https://www.gardenia.net/plant/acer-palmatum-dissectum-viride-group"
     ]
   },
   {
