@@ -14,7 +14,7 @@ h1{
 
 .tree-item {
   text-align: center;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: grid;
   justify-items: start;
   border-radius: 8px;
