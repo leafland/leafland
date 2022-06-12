@@ -13,12 +13,17 @@ main h2 {
   justify-self: center;
 }
 
+.tree-botanical-name{
+  font-size: var(--font-size-7)
+}
+
 .tree-common-name {
-  font-size: var(--font-size-4);
+  font-size: var(--font-size-3);
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 0.8rem;
   display: inline-block;
+  color:var(--accent-color)
 }
 
 #tree-info-description-icons {

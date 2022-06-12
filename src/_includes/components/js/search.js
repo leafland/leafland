@@ -258,7 +258,7 @@ async function displayResults(results) {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i>`;
     }
 
-    resultSubtitle.innerHTML = `<span class="accent-color">${results[i].commonName}</span>`;
+    resultSubtitle.innerHTML = `${results[i].commonName}`;
     titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let imageDiv = document.createElement("div");

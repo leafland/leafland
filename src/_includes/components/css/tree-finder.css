@@ -61,17 +61,16 @@ h1{
 
 .title-link-box h2 {
   color: var(--secondary-background);
-
   text-align: left;
   font-size: var(--font-size-4);
 }
 
 .title-link-box h3 {
-  color: var(--brand-color);
-  background: var(--secondary-background);
+  color: var(--secondary-background);
+  /* background: var(--secondary-background); */
   text-align: left;
-  border-radius: 8px;
-  padding: 0.3rem 0.6rem;
+  /* border-radius: 8px;
+  padding: 0.3rem 0.6rem; */
   float: left;
   margin-top: 0.4rem;
   font-size: var(--font-size-2);
