@@ -915,7 +915,75 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
                 
                     <div class="title-container">
                     
-                        <h2>{{ tree.botanicalName }}</h2>
+                        {% if tree.cultivar.size > 0 %}
+
+                            {% if tree.form.size > 0 %}
+
+                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% elsif tree.variety.size > 0 %}
+
+                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% elsif tree.subspecies.size > 0 %}
+
+                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% elsif tree.hybrid.size > 0 %}
+
+                            {% if tree.hybrid contains ' x ' %}
+
+                            <h2><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% else %}
+
+                            <h2><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h2>
+
+                            {% endif %}
+
+                            {% else %}
+
+                                {% if tree.species.size > 0 %}
+
+                                <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h2>
+
+                                {% else %}
+
+                                <h2><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</h2>
+
+                                {% endif %}
+
+                            {% endif %}
+
+                        {% elsif tree.form.size > 0 %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></h2>
+
+                        {% elsif tree.variety.size > 0 %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></h2>
+
+                        {% elsif tree.subspecies.size > 0 %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></h2>
+
+                        {% elsif tree.hybrid.size > 0 %}
+
+                        {% if tree.hybrid contains ' x ' %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.hybrid }}</i></h2>
+
+                        {% else %}
+
+                        <h2><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></h2>
+
+                        {% endif %}
+
+                        {% else %}
+
+                        <h2><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></h2>
+
+                        {% endif %}
 
                         {% if tree.commonName != "" %}
                         

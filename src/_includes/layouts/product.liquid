@@ -6,12 +6,89 @@ type: product
 <div id="content">
 
     <div id="tree-name-block">
-        <h1 class="tree-botanical-name">{{ botanicalName }}</h1>
+
+        {% if tree.cultivar.size > 0 %}
+
+            {% if tree.form.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.variety.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.subspecies.size > 0 %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% elsif tree.hybrid.size > 0 %}
+
+            {% if tree.hybrid contains ' x ' %}
+
+            {% assign text = tree.hybrid | split: ' x ' %}
+
+            {% assign newText = text | join: '</i> x <i>' %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% else %}
+
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+
+            {% endif %}
+
+            {% else %}
+
+                {% if tree.species.size > 0 %}
+
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h1>
+
+                {% else %}
+
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</h1>
+
+                {% endif %}
+
+            {% endif %}
+
+        {% elsif tree.form.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></h1>
+
+        {% elsif tree.variety.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></h1>
+
+        {% elsif tree.subspecies.size > 0 %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></h1>
+
+        {% elsif tree.hybrid.size > 0 %}
+
+        {% if tree.hybrid contains ' x ' %}
+
+        {% assign text = tree.hybrid | split: ' x ' %}
+
+        {% assign newText = text | join: '</i> x <i>' %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i></h1>
+
+        {% else %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></h1>
+
+        {% endif %}
+
+        {% else %}
+
+        <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></h1>
+
+        {% endif %}
 
         {% if commonName != '' %}
-        <h2 class="tree-common-name accent-color">{{ commonName }}</h2>
+        <h2 class="tree-common-name">{{ commonName }}</h2>
         {% else %}
-        <h2 class="tree-common-name accent-color" style="display:none"></h2>
+        <h2 class="tree-common-name" style="display:none"></h2>
         {% endif %}
     </div>
 
@@ -807,7 +884,7 @@ type: product
                     </div>
 
                     <div id="success-message">
-                        <p id="success-message-text" class="paragraph-title">Added to order</p>
+                        <p id="success-message-text">Added to order</p>
                     </div>
 
                 </div>
@@ -834,7 +911,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Genus:</span> {{ tree.genus }}</p>
+                        <p><span class="tree-information-table-heading">Genus:</span> <i>{{ tree.genus }}</i></p>
 
                     </div>
 
@@ -844,9 +921,35 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Species:</span> {{ tree.species }}</p>
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></p>
 
                     </div>
+
+                    {% endif %}
+
+                    {% if tree.hybrid.size > 0 %}
+
+                    {% if tree.hybrid contains ' x ' %}
+
+                    {% assign text = tree.hybrid | split: ' x ' %}
+
+                    {% assign newText = text | join: '</i> x <i>' %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i></p>
+
+                    </div>
+
+                    {% else %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
+
+                    </div>
+
+                    {% endif %}
 
                     {% endif %}
 
@@ -854,7 +957,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Subspecies:</span> {{ tree.subspecies }}</p>
+                        <p><span class="tree-information-table-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></p>
 
                     </div>
 
@@ -864,7 +967,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Variety:</span> {{ tree.variety }}</p>
+                        <p><span class="tree-information-table-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></p>
 
                     </div>
 
@@ -874,7 +977,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Form:</span> {{ tree.form }}</p>
+                        <p><span class="tree-information-table-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></p>
 
                     </div>
 
@@ -884,7 +987,39 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Cultivar:</span> {{ tree.cultivar }}</p>
+                            {% if tree.form.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.variety.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.subspecies.size > 0 %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% elsif tree.hybrid.size > 0 %}
+
+                            {% if tree.hybrid contains ' x ' %}
+
+                            {% assign text = tree.hybrid | split: ' x ' %}
+
+                            {% assign newText = text | join: '</i> x <i>' %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% else %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% endif %}
+
+                            {% else %}
+
+                            <p><span class="tree-information-table-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</p>
+
+                            {% endif %}
 
                     </div>
 
@@ -898,13 +1033,93 @@ type: product
 
                         {% for item in tree.synonyms %}
 
-                        {% if newString == "" %}
+                        {% capture newItem %}{% endcapture %}
 
-                        {% assign newString = newString | append: item %}
+                        {% if item.cultivar.size > 0 %}
+
+                            {% if item.form.size > 0 %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> f. <i>{{ item.form }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                            {% elsif item.variety.size > 0 %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> var. <i>{{ item.variety }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                            {% elsif item.subspecies.size > 0 %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> subsp. <i>{{ item.subspecies }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                            {% elsif item.hybrid.size > 0 %}
+
+                            {% if item.hybrid contains ' x ' %}
+
+                            {% assign text = tree.hybrid | split: ' x ' %}
+
+                            {% assign newText = text | join: '</i> x <i>' %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ newText }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                            {% else %}
+
+                            {% capture newItem %}<i>{{ item.genus }}</i> x <i>{{ item.hybrid }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                            {% endif %}
+
+                            {% else %}
+
+                                {% if item.species.size > 0 %}
+
+                                {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                                {% else %}
+
+                                {% capture newItem %}<i>{{ item.genus }}</i> '{{ item.cultivar }}'{% endcapture %}
+
+                                {% endif %}
+
+                            {% endif %}
+
+                        {% elsif item.form.size > 0 %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> f. <i>{{ item.form }}</i>{% endcapture %}
+
+                        {% elsif item.variety.size > 0 %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> var. <i>{{ item.variety }}</i>{% endcapture %}
+
+                        {% elsif item.subspecies.size > 0 %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i> subsp. <i>{{ item.subspecies }}</i>{% endcapture %}
+
+                        {% elsif item.hybrid.size > 0 %}
+
+                        {% if item.hybrid contains ' x ' %}
+
+                        {% assign text = tree.hybrid | split: ' x ' %}
+
+                        {% assign newText = text | join: '</i> x <i>' %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ newText }}</i>{% endcapture %}
 
                         {% else %}
 
-                        {% assign newString = newString | append: ", " | append: item %}
+                        {% capture newItem %}<i>{{ item.genus }}</i> x <i>{{ item.hybrid }}</i>{% endcapture %}
+
+                        {% endif %}
+
+                        {% else %}
+
+                        {% capture newItem %}<i>{{ item.genus }}</i> <i>{{ item.species }}</i>{% endcapture %}
+
+                        {% endif %}
+
+                        {% if newString == "" %}
+
+                        {% assign newString = newString | append: newItem %}
+
+                        {% else %}
+
+                        {% assign newString = newString | append: ", " | append: newItem %}
 
                         {% endif %}
 

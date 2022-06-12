@@ -253,3 +253,1472 @@
     status = 301
     to = "/trees/acer-palmatum-var-dissectum-red-feather-japanese-maple/"
 
+[[redirects]]
+    force = true
+    from = "/trees/almond-all-in-one/"
+    status = 301
+    to = "/trees/prunus-dulcis-all-in-one-almond/"
+
+[[redirects]]
+    force = true
+    from = "/trees/almond-monovale/"
+    status = 301
+    to = "/trees/prunus-dulcis-monovale-almond/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-braeburn/"
+    status = 301
+    to = "/trees/malus-domestica-braeburn-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-fuji/"
+    status = 301
+    to = "/trees/malus-domestica-fuji-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-gala/"
+    status = 301
+    to = "/trees/malus-domestica-gala-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-galaxy/"
+    status = 301
+    to = "/trees/malus-domestica-galaxy-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-golden-delicious/"
+    status = 301
+    to = "/trees/malus-domestica-golden-delicious-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-granny-smith/"
+    status = 301
+    to = "/trees/malus-domestica-granny-smith-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-initial/"
+    status = 301
+    to = "/trees/malus-domestica-initial-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-initial-sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-initial-sir-prize-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-liberty/"
+    status = 301
+    to = "/trees/malus-domestica-liberty-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-liberty-sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-liberty-sir-prize-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-montys-surprise/"
+    status = 301
+    to = "/trees/malus-domestica-montys-surprise-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-pacific-rose/"
+    status = 301
+    to = "/trees/malus-domestica-pacific-rose-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-braeburn/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-braeburn-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-granny-smith/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-granny-smith-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-royal-gala-golden-delicious/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-golden-delicious-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apple-wandin-glory/"
+    status = 301
+    to = "/trees/malus-domestica-wandin-glory-apple/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-royal-rosa/"
+    status = 301
+    to = "/trees/prunus-armeniaca-royal-rosa-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-sundrop/"
+    status = 301
+    to = "/trees/prunus-armeniaca-sundrop-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-sundrop-trevatt/"
+    status = 301
+    to = "/trees/prunus-armeniaca-sundrop-trevatt-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/apricot-trevatt/"
+    status = 301
+    to = "/trees/prunus-armeniaca-trevatt-apricot/"
+
+[[redirects]]
+    force = true
+    from = "/trees/avocado-bacon/"
+    status = 301
+    to = "/trees/persea-americana-bacon-avocado/"
+
+[[redirects]]
+    force = true
+    from = "/trees/avocado-hass/"
+    status = 301
+    to = "/trees/persea-americana-hass-avocado/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-macarthur-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-viminalis-macarthur-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-red-alert-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-viminalis-red-alert-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-red-cluster-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-citrinus-red-cluster-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/callistemon-western-glory-bottlebrush/"
+    status = 301
+    to = "/trees/callistemon-citrinus-western-glory-bottlebrush/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-ariels-song-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-ariels-song-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-black-lace-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-black-lace-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-cinnamon-cindy-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-cinnamon-cindy-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-crimson-king-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-crimson-king-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-debutante-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-debutante-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-early-pearly-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-early-pearly-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-fairy-blush-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-fairy-blush-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-high-fragrance-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-high-fragrance-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-hiryu-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-x-vernalis-hiryu-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-jurys-yellow-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-jurys-yellow-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-kramers-beauty-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-kramers-beauty-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-kramers-supreme-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-kramers-supreme-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-les-jury-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-les-jury-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-mark-allen-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-mark-alan-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-mine-no-yuki-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-mine-no-yuki-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-nicky-crisp-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-nicky-crisp-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-otome-sazanka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-otome-sazanka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-paradise-blush-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-paradise-blush-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-paradise-sayaka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-paradise-sayaka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-plantation-pink-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-plantation-pink-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-rainbow-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-rainbow-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-roger-hall-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-roger-hall-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-ruby-wedding-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-ruby-wedding-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-setsugekka-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-setsugekka-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-silver-dollar-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-sasanqua-silver-dollar-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-spring-festival-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-spring-festival-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-superstar-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-x-williamsii-super-star-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-takanini-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-takanini-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-tom-knudsen-japonica-camellia/"
+    status = 301
+    to = "/trees/camellia-japonica-tom-knudsen-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-transnokoensis-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-transnokoensis-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-transtasman-hybrid-camellia/"
+    status = 301
+    to = "/trees/camellia-transtasman-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/camellia-yuletide-sasanqua-camellia/"
+    status = 301
+    to = "/trees/camellia-x-vernalis-yuletide-camellia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-compact-stella/"
+    status = 301
+    to = "/trees/prunus-avium-compact-stella-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-dawson/"
+    status = 301
+    to = "/trees/prunus-avium-dawson-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-lapins/"
+    status = 301
+    to = "/trees/prunus-avium-lapins-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-rainier/"
+    status = 301
+    to = "/trees/prunus-avium-rainier-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-stella/"
+    status = 301
+    to = "/trees/prunus-avium-stella-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cherry-summit/"
+    status = 301
+    to = "/trees/prunus-avium-summit-cherry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-sublime-lime/"
+    status = 301
+    to = "/trees/citrus-x-aurantiifolia-sublime-key-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-bearss-lime/"
+    status = 301
+    to = "/trees/citrus-x-latifolia-bearss-persian-lime-tahiti-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lime-tahitian-lime/"
+    status = 301
+    to = "/trees/citrus-x-latifolia-tahitian-persian-lime-tahiti-lime/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-eureka-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-eureka-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-villa-franca-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-villa-franca-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-yen-ben-lemon/"
+    status = 301
+    to = "/trees/citrus-x-limon-yen-ben-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemonade-lemonade/"
+    status = 301
+    to = "/trees/citrus-limon-x-reticulata-lemonade-lemon-lemonade-fruit-new-zealand-lemonade/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-lemon-meyer-lemon/"
+    status = 301
+    to = "/trees/citrus-x-meyeri-meyer-lemon/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-grapefruit-golden-special-grapefruit/"
+    status = 301
+    to = "/trees/citrus-x-paradisi-golden-special-grapefruit/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-grapefruit-star-ruby-grapefruit/"
+    status = 301
+    to = "/trees/citrus-x-paradisi-star-ruby-grapefruit/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-encore-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-encore-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-miho-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-miho-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-okitsu-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-okitsu-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-mandarin-satsuma-mandarin/"
+    status = 301
+    to = "/trees/citrus-reticulata-satsuma-mandarin/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-bests-seedless-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-bests-seedless-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-carters-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-carters-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-parent-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-parent-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-fukumoto-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-fukumoto-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-valencia-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-valencia-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/citrus-orange-washington-navel-orange/"
+    status = 301
+    to = "/trees/citrus-x-sinensis-washington-navel-orange/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-bronze-king-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-bronze-king-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-emerald-and-jade-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-emerald-and-jade-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-frosted-chocolate-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-frosted-chocolate-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-ghost-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-ghost-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-giant-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-giant-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-geentys-green-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-geentys-green-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-phantom-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-phantom-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-mangatangi-korokio/"
+    status = 301
+    to = "/trees/corokia-x-virgata-mangatangi-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/corokia-cheesemanii-korokio/"
+    status = 301
+    to = "/trees/corokia-x-cheesemanii-korokio/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-apollo/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-apollo-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-dens-choice/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-dens-choice-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-gemini/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-gemini-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-golden-goose/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-golden-goose-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-kaiteri/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-kaiteri-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-kakariki/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-kakariki-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-mammoth/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-mammoth-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-opal-star/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-opal-star-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-pounamu/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-pounamu-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-takaka/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-takaka-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-triumph/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-triumph-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-unique/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-unique-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/feijoa-wiki-tu/"
+    status = 301
+    to = "/trees/feijoa-sellowiana-wiki-tu-feijoa-pineapple-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brown-turkey/"
+    status = 301
+    to = "/trees/ficus-carica-brown-turkey-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brunoro-black/"
+    status = 301
+    to = "/trees/ficus-carica-brunoro-black-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-brunswick/"
+    status = 301
+    to = "/trees/ficus-carica-brunswick-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-french-sugar/"
+    status = 301
+    to = "/trees/ficus-carica-french-sugar-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-lesa/"
+    status = 301
+    to = "/trees/ficus-carica-lesa-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-mrs-williams/"
+    status = 301
+    to = "/trees/ficus-carica-mrs-williams-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-panache/"
+    status = 301
+    to = "/trees/ficus-carica-panache-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-sweet-black/"
+    status = 301
+    to = "/trees/ficus-carica-sweet-black-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fig-ventura/"
+    status = 301
+    to = "/trees/ficus-carica-ventura-fig/"
+
+[[redirects]]
+    force = true
+    from = "/trees/alectryon-excelsus-titoki-new-zealand-oak/"
+    status = 301
+    to = "/trees/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/"
+
+[[redirects]]
+    force = true
+    from = "/trees/guava-red-cherry/"
+    status = 301
+    to = "/trees/psidium-cattleyanum-var-cattleyanum-red-cattley-guava-red-strawberry-guava-red-cherry-guava/"
+
+[[redirects]]
+    force = true
+    from = "/trees/hazelnut-barcelona/"
+    status = 301
+    to = "/trees/corylus-avellana-barcelona-hazelnut-common-hazel/"
+
+[[redirects]]
+    force = true
+    from = "/trees/hazelnut-whiteheart/"
+    status = 301
+    to = "/trees/corylus-avellana-whiteheart-hazelnut-common-hazel/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-meyric/"
+    status = 301
+    to = "/trees/juglans-regia-meyric-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-shannon/"
+    status = 301
+    to = "/trees/juglans-regia-shannon-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/walnut-wilsons-wonder/"
+    status = 301
+    to = "/trees/juglans-regia-wilsons-wonder-walnut-english-walnut/"
+
+[[redirects]]
+    force = true
+    from = "/trees/laburnum-x-watereri-vossii-voss-laburnum-golden-chain/"
+    status = 301
+    to = "/trees/laburnum-x-watereri-vossii-vosss-laburnum-golden-chain/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-bergerac-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-bergerac-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-crimson-red-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-crimson-red-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-de-puard-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-de-puard-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-kimono-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-kimono-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-saint-emilion-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-saint-emilion-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-soir-dete-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-soir-dete-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-tango-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-tango-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-townhouse-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-fauriei-townhouse-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-sioux-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-x-fauriei-sioux-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/lagerstroemia-tuscarora-crepe-myrtle/"
+    status = 301
+    to = "/trees/lagerstroemia-indica-x-fauriei-tuscarora-crepe-myrtle/"
+
+[[redirects]]
+    force = true
+    from = "/trees/loquat-japonica/"
+    status = 301
+    to = "/trees/eriobotrya-japonica-loquat/"
+
+[[redirects]]
+    force = true
+    from = "/trees/loquat-golden-orb/"
+    status = 301
+    to = "/trees/eriobotrya-japonica-golden-orb-loquat/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-beaumont/"
+    status = 301
+    to = "/trees/macadamia-integrifolia-x-tetraphylla-beaumont-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-gt-207/"
+    status = 301
+    to = "/trees/macadamia-gt-207-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/macadamia-gt-205/"
+    status = 301
+    to = "/trees/macadamia-gt-205-macadamia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-amethyst-flame/"
+    status = 301
+    to = "/trees/magnolia-amethyst-flame-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-arabian-nights/"
+    status = 301
+    to = "/trees/magnolia-arabian-nights-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-athene/"
+    status = 301
+    to = "/trees/magnolia-athene-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-atlas/"
+    status = 301
+    to = "/trees/magnolia-atlas-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-billowing-cloud/"
+    status = 301
+    to = "/trees/magnolia-billowing-cloud-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-black-tulip/"
+    status = 301
+    to = "/trees/magnolia-black-tulip-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-brixton-belle/"
+    status = 301
+    to = "/trees/magnolia-brixton-belle-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-burgundy-star/"
+    status = 301
+    to = "/trees/magnolia-burgundy-star-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-butterflies/"
+    status = 301
+    to = "/trees/magnolia-butterflies-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-cameo/"
+    status = 301
+    to = "/trees/magnolia-cameo-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-charisma/"
+    status = 301
+    to = "/trees/magnolia-charisma-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-cleopatra/"
+    status = 301
+    to = "/trees/magnolia-cleopatra-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-deryk/"
+    status = 301
+    to = "/trees/magnolia-deryk-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-felix/"
+    status = 301
+    to = "/trees/magnolia-felix-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-forest-pink/"
+    status = 301
+    to = "/trees/magnolia-forrests-pink-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-lanarth/"
+    status = 301
+    to = "/trees/magnolia-campbellii-lanarth-campbells-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-old-port/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-old-port-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-touch-of-class/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-touch-of-class-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-woodsman/"
+    status = 301
+    to = "/trees/magnolia-x-brooklynensis-woodsman-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-bird/"
+    status = 301
+    to = "/trees/magnolia-x-brooklynensis-yellow-bird-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-galaxy/"
+    status = 301
+    to = "/trees/magnolia-galaxy-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-genie/"
+    status = 301
+    to = "/trees/magnolia-genie-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-gold-star/"
+    status = 301
+    to = "/trees/magnolia-gold-star-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-heaven-scent/"
+    status = 301
+    to = "/trees/magnolia-heaven-scent-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-holywell/"
+    status = 301
+    to = "/trees/magnolia-hollywell-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-honey-tulip/"
+    status = 301
+    to = "/trees/magnolia-honey-tulip-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-ians-red/"
+    status = 301
+    to = "/trees/magnolia-ians-red-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-iolanthe/"
+    status = 301
+    to = "/trees/magnolia-iolanthe-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-jc-williams/"
+    status = 301
+    to = "/trees/magnolia-j-c-williams-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-lois/"
+    status = 301
+    to = "/trees/magnolia-lois-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-manchu-fan/"
+    status = 301
+    to = "/trees/magnolia-manchu-fan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-margaret-helen/"
+    status = 301
+    to = "/trees/magnolia-margaret-helen-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-milky-way/"
+    status = 301
+    to = "/trees/magnolia-milky-way-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-purple-sensation/"
+    status = 301
+    to = "/trees/magnolia-purple-sensation-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-royal-purple/"
+    status = 301
+    to = "/trees/magnolia-royal-purple-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-serene/"
+    status = 301
+    to = "/trees/magnolia-serene-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-shirazz/"
+    status = 301
+    to = "/trees/magnolia-shirazz-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-solar-flair/"
+    status = 301
+    to = "/trees/magnolia-solar-flair-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-star-wars/"
+    status = 301
+    to = "/trees/magnolia-star-wars-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-strawberry-fields/"
+    status = 301
+    to = "/trees/magnolia-strawberry-fields-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sundance/"
+    status = 301
+    to = "/trees/magnolia-sundance-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sundew/"
+    status = 301
+    to = "/trees/magnolia-x-soulangeana-sundew-saucer-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sunsation/"
+    status = 301
+    to = "/trees/magnolia-sunsation-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-susan/"
+    status = 301
+    to = "/trees/magnolia-susan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sweet-merlot/"
+    status = 301
+    to = "/trees/magnolia-sweet-merlot-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-sweetheart/"
+    status = 301
+    to = "/trees/magnolia-sweetheart-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-todd-gresham/"
+    status = 301
+    to = "/trees/magnolia-todd-gresham-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-ula/"
+    status = 301
+    to = "/trees/magnolia-ula-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-vulcan/"
+    status = 301
+    to = "/trees/magnolia-vulcan-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-fever/"
+    status = 301
+    to = "/trees/magnolia-yellow-fever-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-yellow-lantern/"
+    status = 301
+    to = "/trees/magnolia-yellow-lantern-magnolia/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-flatto-button-bright/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-button-bright-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-goldmine/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-goldmine-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-mabel/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-mabel-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-queen-giant/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-queen-giant-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/nectarine-snow-queen/"
+    status = 301
+    to = "/trees/prunus-persica-var-nectarina-snow-queen-nectarine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-ascolano/"
+    status = 301
+    to = "/trees/olea-europaea-ascolano-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-barnea/"
+    status = 301
+    to = "/trees/olea-europaea-barnea-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-el-greco/"
+    status = 301
+    to = "/trees/olea-europaea-el-greco-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-frantoio/"
+    status = 301
+    to = "/trees/olea-europaea-frantoio-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-j5/"
+    status = 301
+    to = "/trees/olea-europaea-j5-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-koroneiki/"
+    status = 301
+    to = "/trees/olea-europaea-koroneiki-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-leccino/"
+    status = 301
+    to = "/trees/olea-europaea-leccino-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-manzanillo/"
+    status = 301
+    to = "/trees/olea-europaea-manzanillo-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-mission/"
+    status = 301
+    to = "/trees/olea-europaea-mission-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-picual/"
+    status = 301
+    to = "/trees/olea-europaea-picual-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/olive-verdale/"
+    status = 301
+    to = "/trees/olea-europaea-verdale-olive/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-april-white/"
+    status = 301
+    to = "/trees/prunus-persica-april-white-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-black-boy/"
+    status = 301
+    to = "/trees/prunus-persica-black-boy-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-golden-queen/"
+    status = 301
+    to = "/trees/prunus-persica-golden-queen-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-hiawatha/"
+    status = 301
+    to = "/trees/prunus-persica-hiawatha-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peach-scarlet-ohara/"
+    status = 301
+    to = "/trees/prunus-persica-scarlett-ohara-peach/"
+
+[[redirects]]
+    force = true
+    from = "/trees/peacherine-healys/"
+    status = 301
+    to = "/trees/prunus-persica-healys-peacherine/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-reddy-robin-nashi-pear-asian-pear/"
+    status = 301
+    to = "/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-doyenne-du-comice/"
+    status = 301
+    to = "/trees/pyrus-communis-doyenne-du-comice-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-doyenne-du-comice-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-doyenne-du-comice-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-red-bartlett/"
+    status = 301
+    to = "/trees/pyrus-communis-red-bartlett-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-seckel/"
+    status = 301
+    to = "/trees/pyrus-communis-seckel-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-taylors-gold/"
+    status = 301
+    to = "/trees/pyrus-communis-taylors-gold-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-williams-bon-chretien-conference/"
+    status = 301
+    to = "/trees/pyrus-communis-williams-bon-chretien-conference-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-williams-bon-chretien/"
+    status = 301
+    to = "/trees/pyrus-communis-williams-bon-chretien-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pear-winter-cole/"
+    status = 301
+    to = "/trees/pyrus-communis-winter-cole-pear/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-billington/"
+    status = 301
+    to = "/trees/prunus-salicina-billington-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-black-doris/"
+    status = 301
+    to = "/trees/prunus-salicina-black-doris-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-black-doris-billington/"
+    status = 301
+    to = "/trees/prunus-salicina-black-doris-billington-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-burbank/"
+    status = 301
+    to = "/trees/prunus-salicina-burbank-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-fortune/"
+    status = 301
+    to = "/trees/prunus-salicina-fortune-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-hawera/"
+    status = 301
+    to = "/trees/prunus-salicina-hawera-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-luisa/"
+    status = 301
+    to = "/trees/prunus-domestica-luisa-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-omega/"
+    status = 301
+    to = "/trees/prunus-salicina-omega-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-purple-king/"
+    status = 301
+    to = "/trees/prunus-salicina-purple-king-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-reine-claude-de-bavay/"
+    status = 301
+    to = "/trees/prunus-domestica-reine-claude-de-bavay-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-ruby-queen/"
+    status = 301
+    to = "/trees/prunus-salicina-ruby-queen-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-santa-rosa/"
+    status = 301
+    to = "/trees/prunus-salicina-santa-rosa-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-satsuma/"
+    status = 301
+    to = "/trees/prunus-salicina-satsuma-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-shiro/"
+    status = 301
+    to = "/trees/prunus-salicina-shiro-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/plum-sultan/"
+    status = 301
+    to = "/trees/prunus-salicina-sultan-plum/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-dark-knight-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-red-robin-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/photinia-superhedge-red-tip-photinia-christmas-berry/"
+    status = 301
+    to = "/trees/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-pineapple/"
+    status = 301
+    to = "/trees/cydonia-oblonga-pineapple-quince/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-smyrna/"
+    status = 301
+    to = "/trees/cydonia-oblonga-smyrna-quince/"
+
+[[redirects]]
+    force = true
+    from = "/trees/quince-taihape/"
+    status = 301
+    to = "/trees/cydonia-oblonga-taihape-quince/"

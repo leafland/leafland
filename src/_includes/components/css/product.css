@@ -4,7 +4,7 @@ main {
 
 main h1,
 main h2 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #content {
@@ -13,12 +13,17 @@ main h2 {
   justify-self: center;
 }
 
+.tree-botanical-name{
+  font-size: var(--font-size-7)
+}
+
 .tree-common-name {
-  font-size: var(--font-size-4);
+  font-size: var(--font-size-3);
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 0.8rem;
   display: inline-block;
+  color:var(--accent-color)
 }
 
 #tree-info-description-icons {
@@ -599,11 +604,11 @@ body.add-to-order-open #add-to-order-overlay {
 #width-span,
 #height-span {
   font-weight: bold;
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-2);
 }
 
 .arrow {
-  font-size: 2rem;
+  font-size: 1.5rem
 }
 
 #wholesale-price {
@@ -640,6 +645,10 @@ body.loggedIn #retail-price {
   background: var(--secondary-background);
   display: grid;
   gap: 2rem;
+}
+
+#more-information-heading{
+  text-transform: uppercase;
 }
 
 #more-information-links {

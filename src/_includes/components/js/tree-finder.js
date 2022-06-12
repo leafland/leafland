@@ -527,15 +527,57 @@ async function populatePage(
         let titleContainer = document.createElement("div");
         titleContainer.classList.add("title-container");
 
-        treeTitle.textContent = treeDataSubset[i].botanicalName;
+        if (treeDataSubset[i].cultivar !== "") {
+          if (treeDataSubset[i].form !== "") {
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> f. <i>${treeDataSubset[i].form}</i> '${treeDataSubset[i].cultivar}'`;
+          } else if (treeDataSubset[i].variety !== "") {
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> var. <i>${treeDataSubset[i].variety}</i> '${treeDataSubset[i].cultivar}'`;
+          } else if (treeDataSubset[i].subspecies !== "") {
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i> '${treeDataSubset[i].cultivar}'`;
+          } else if (treeDataSubset[i].hybrid !== "") {
 
-        if (!(treeDataSubset[i].commonName === "")) {
-          treeSubtitle.textContent = `${treeDataSubset[i].commonName}`;
-          titleContainer.appendChild(treeTitle);
-          titleContainer.appendChild(treeSubtitle);
+            if(treeDataSubset[i].hybrid.search(' x ') !== -1){
+
+              let text = treeDataSubset[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+            else{
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+          } else {
+
+            if(treeDataSubset[i].species !== ""){
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+            else{
+              treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> '${treeDataSubset[i].cultivar}'`;
+            }
+
+          }
+        } else if (treeDataSubset[i].form !== "") {
+          treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> f. <i>${treeDataSubset[i].form}</i>`;
+        } else if (treeDataSubset[i].variety !== "") {
+          treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> var. <i>${treeDataSubset[i].variety}</i>`;
+        } else if (treeDataSubset[i].subspecies !== "") {
+          treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i>`;
+        } else if (treeDataSubset[i].hybrid !== "") {
+
+          if(treeDataSubset[i].hybrid.search(' x ') !== -1){
+            let text = treeDataSubset[i].hybrid.split(' x ')
+          let newText = text.join('</i> x <i>')
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i>`;
+          }
+          else{
+            treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i>`;
+          }
         } else {
-          titleContainer.appendChild(treeTitle);
+          treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i>`;
         }
+
+        treeSubtitle.textContent = `${treeDataSubset[i].commonName}`;
+        titleContainer.appendChild(treeTitle);
+        titleContainer.appendChild(treeSubtitle);
 
         container.appendChild(titleContainer);
         container.appendChild(treeUrl);

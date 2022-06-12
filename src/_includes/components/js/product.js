@@ -35,7 +35,7 @@ let stockTableDiv = document.querySelector("#stock-table-div");
 let heightValues = 0;
 let standardHeightValues = 0;
 
-let productTrees = JSON.parse(localStorage.getItem("trees"));
+let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
 
@@ -110,11 +110,11 @@ window.addEventListener("loginUpdated", () => {
     if (treeCommonName.textContent !== "") {
       document.querySelector(
         "#tree-name-content"
-      ).textContent = `${treeBotanicalName.textContent} (${treeCommonName.textContent})`;
+      ).innerHTML = `${treeBotanicalName.innerHTML} (${treeCommonName.textContent})`;
     } else {
       document.querySelector(
         "#tree-name-content"
-      ).textContent = `${treeBotanicalName.textContent}`;
+      ).innerHTML = `${treeBotanicalName.innerHTML}`;
     }
     await createStockTable();
   })();
@@ -129,6 +129,36 @@ async function getProductStockData() {
   }
   grades = await fetch(
     `https://api.leafland.co.nz/default/get-tree-stock-data?treeName=${treeName
+      .replace("Prunus dulcis", "Almond")
+      .replace("Malus domestica", "Apple")
+      .replace("Prunus armeniaca", "Apricot")
+      .replace("Persea americana", "Avocado")
+      .replace("Prunus avium", "Cherry")
+      .replace("Citrus x paradisi", "Citrus grapefruit")
+      .replace("Citrus x limon", "Citrus lemon")
+      .replace("Citrus x meyeri", "Citrus lemon Meyer")
+      .replace("Citrus limon x reticulata", "Citrus Lemonade")
+      .replace("Citrus x latifolia", "Citrus lime")
+      .replace("Citrus reticulata", "Citrus mandarin")
+      .replace("Citrus x sinensis", "Citrus orange")
+      .replace("Feijoa sellowiana", "Feijoa")
+      .replace("Ficus carica", "Fig")
+      .replace("Alectryon excelsus var. excelsus", "Alectryon excelsus")
+      .replace("Psidium cattleyanum var. cattleyanum", "Guava Red Cherry")
+      .replace("Corylus avellana", "Hazelnut")
+      .replace("Juglans regia '", "Walnut '")
+      .replace("Eriobotrya japonica 'Golden Orb'", "Loquat Golden Orb")
+      .replace("Eriobotrya japonica", "Loquat japonica")
+      .replace("Macadamia integrifolia x tetraphylla", "Macadamia")
+      .replace("Prunus persica var. nectarina", "Nectarine")
+      .replace("Olea europaea", "Olive")
+      .replace("Prunus persica 'Healy's'", "Peacherine Healy's")
+      .replace("Prunus persica", "Peach")
+      .replace("Pyrus pyrifolia", "Pear")
+      .replace("Pyrus communis", "Pear")
+      .replace("Prunus salicina", "Plum")
+      .replace("Prunus domestica", "Plum")
+      .replace('Cydonia oblonga', 'Quince')
       .trim()
       .replace(/ã/g, "a")
       .replace(/é/g, "e")
@@ -416,14 +446,14 @@ async function createStockValues() {
   }
 }
 
-function addTreeToLocalStorage() {
-  productTrees = JSON.parse(localStorage.getItem("trees"));
+function addTreeToSessionStorage() {
+  productTrees = JSON.parse(sessionStorage.getItem("trees"));
   let totalRetailCost = 0;
   let totalWholesaleCost = 0;
 
   if (productTrees.length === 0) {
     productTrees.push({
-      botanicalName: treeBotanicalName.textContent,
+      botanicalName: treeBotanicalName.innerHTML,
       commonName: treeCommonName.textContent,
       url: window.location.pathname,
       mainImage: productImage,
@@ -447,7 +477,7 @@ function addTreeToLocalStorage() {
     for (let i = 0; i < productTrees.length + 1; i++) {
       if (i === productTrees.length) {
         productTrees.push({
-          botanicalName: treeBotanicalName.textContent,
+          botanicalName: treeBotanicalName.innerHTML,
           commonName: treeCommonName.textContent,
           url: window.location.pathname,
           mainImage: productImage,
@@ -471,7 +501,7 @@ function addTreeToLocalStorage() {
         break;
       } else {
         productTrees[i].quantity = parseInt(productTrees[i].quantity, 10);
-        if (productTrees[i].botanicalName === treeBotanicalName.textContent) {
+        if (productTrees[i].botanicalName === treeBotanicalName.innerHTML) {
           if (
             productTrees[i].grade ===
             document.querySelector(".grade-selection-value-active").dataset
@@ -508,9 +538,9 @@ function addTreeToLocalStorage() {
       tree.quantity * parseInt(tree.wholesalePrice.slice(1), 10);
   });
 
-  localStorage.setItem("trees", JSON.stringify(productTrees));
-  localStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
-  localStorage.setItem(
+  sessionStorage.setItem("trees", JSON.stringify(productTrees));
+  sessionStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
+  sessionStorage.setItem(
     "totalWholesaleCost",
     JSON.stringify(totalWholesaleCost)
   );
@@ -780,6 +810,36 @@ async function createStockTable() {
     return (
       testItem ===
       treeBotanicalName.textContent
+        .replace("Prunus dulcis", "Almond")
+        .replace("Malus domestica", "Apple")
+        .replace("Prunus armeniaca", "Apricot")
+        .replace("Persea americana", "Avocado")
+        .replace("Prunus avium", "Cherry")
+        .replace("Citrus x paradisi", "Citrus grapefruit")
+        .replace("Citrus x limon", "Citrus lemon")
+        .replace("Citrus x meyeri", "Citrus lemon Meyer")
+        .replace("Citrus limon x reticulata", "Citrus Lemonade")
+        .replace("Citrus x latifolia", "Citrus lime")
+        .replace("Citrus reticulata", "Citrus mandarin")
+        .replace("Citrus x sinensis", "Citrus orange")
+        .replace("Feijoa sellowiana", "Feijoa")
+        .replace("Ficus carica", "Fig")
+        .replace("Alectryon excelsus var. excelsus", "Alectryon excelsus")
+        .replace("Psidium cattleyanum var. cattleyanum", "Guava Red Cherry")
+        .replace("Corylus avellana", "Hazelnut")
+        .replace("Juglans regia '", "Walnut '")
+        .replace("Eriobotrya japonica 'Golden Orb'", "Loquat Golden Orb")
+        .replace("Eriobotrya japonica", "Loquat japonica")
+        .replace("Macadamia integrifolia x tetraphylla", "Macadamia")
+        .replace("Prunus persica var. nectarina", "Nectarine")
+        .replace("Olea europaea", "Olive")
+        .replace("Prunus persica 'Healy's'", "Peacherine Healy's")
+        .replace("Prunus persica", "Peach")
+        .replace("Pyrus pyrifolia", "Pear")
+        .replace("Pyrus communis", "Pear")
+        .replace("Prunus salicina", "Plum")
+        .replace("Prunus domestica", "Plum")
+        .replace('Cydonia oblonga', 'Quince')
         .trim()
         .replace(/ã/g, "a")
         .replace(/é/g, "e")
@@ -851,12 +911,12 @@ async function createStockTable() {
 function addEventListeners() {
   window.addEventListener("storage", function (event) {
     if (event.key === "trees") {
-      productTrees = JSON.parse(localStorage.getItem(event.key));
+      productTrees = JSON.parse(sessionStorage.getItem(event.key));
     }
   });
 
   addToOrderButton.addEventListener("click", () => {
-    addTreeToLocalStorage();
+    addTreeToSessionStorage();
     window.dispatchEvent(productAdded);
 
     if (maximumQuantityReached) {
@@ -869,7 +929,7 @@ function addEventListeners() {
         quantity.value
       }<span class="lowercase">x</span> ${
         document.querySelector(".grade-selection-value-active").dataset.value
-      } ${treeBotanicalName.textContent} ${
+      } ${treeBotanicalName.innerHTML} ${
         treeCommonName.textContent !== ""
           ? '(<span class="accent-color">' +
             treeCommonName.textContent +

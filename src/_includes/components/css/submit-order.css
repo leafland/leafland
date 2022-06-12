@@ -2,6 +2,10 @@ main {
   margin-top: 5rem;
 }
 
+h1,h3{
+  text-transform: uppercase;
+}
+
 #content {
   max-width: 80rem;
   display: grid;
@@ -42,7 +46,7 @@ main textarea {
 
 #form-trees {
   font-weight: bold;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: 1fr;

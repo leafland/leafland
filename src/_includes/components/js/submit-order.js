@@ -7,12 +7,14 @@ let region = document.querySelector("#region");
 
 let emptyMessage = document.querySelector("#empty-message");
 let freightData = [];
-let submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+let submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 let total;
 let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
+
+const orderSent = new Event("orderSent");
 
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
@@ -43,8 +45,8 @@ async function populateForm() {
     });
   }
 
-  totalRetailCost = localStorage.getItem("totalRetailCost");
-  totalWholesaleCost = localStorage.getItem("totalWholesaleCost");
+  totalRetailCost = sessionStorage.getItem("totalRetailCost");
+  totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
   loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
   treesDisplay.innerHTML = "";
   treesField.value = "";
@@ -81,7 +83,7 @@ async function populateForm() {
 
     let treeUrlBotanical = document.createElement("a");
     treeUrlBotanical.href = tree.url;
-    treeUrlBotanical.textContent = tree.botanicalName;
+    treeUrlBotanical.innerHTML = tree.botanicalName;
 
     let botanicalName = document.createElement("p");
     botanicalName.classList.add("botanical-name");
@@ -169,9 +171,9 @@ async function populateForm() {
         poaGrade = true;
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-          tree.grade
-        }</b></td> <td><b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+          tree.botanicalName
+        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
@@ -187,9 +189,9 @@ async function populateForm() {
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
 
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-          tree.grade
-        }</b></td> <td><b>${
+        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+          tree.botanicalName
+        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
           tree.averageHeight.toLowerCase() === "n/a"
             ? tree.averageHeight
             : tree.averageHeight + "m"
@@ -209,9 +211,9 @@ async function populateForm() {
     } else {
       freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
 
-      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${tree.botanicalName.toUpperCase()} (${tree.commonName.toUpperCase()})</b></td> <td><b>${
-        tree.grade
-      }</b></td> <td><b>${
+      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
+        tree.botanicalName
+      } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
         tree.averageHeight.toLowerCase() === "n/a"
           ? tree.averageHeight
           : tree.averageHeight + "m"
@@ -295,13 +297,9 @@ window.addEventListener("loginUpdated", () => {
   })();
 });
 
-send.addEventListener("click", () => {
-  localStorage.removeItem("trees");
-});
-
 window.addEventListener("storage", (event) => {
   if (event.key === "trees") {
-    submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+    submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
     if (submitOrderTrees.length !== 0) {
       emptyMessage.style.setProperty("display", "none");
@@ -317,7 +315,7 @@ window.addEventListener("storage", (event) => {
 });
 
 window.addEventListener("orderUpdated", () => {
-  submitOrderTrees = JSON.parse(localStorage.getItem("trees"));
+  submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
   if (submitOrderTrees.length !== 0) {
     emptyMessage.style.setProperty("display", "none");
@@ -388,6 +386,9 @@ submitForm.addEventListener("submit", (event) => {
     await fetch(endpoint, requestOptions)
       .then((response) => {})
       .catch((error) => {});
+
+    sessionStorage.setItem("trees", "[]");
+    window.dispatchEvent(orderSent);
 
     document.body.querySelector(
       "#content"

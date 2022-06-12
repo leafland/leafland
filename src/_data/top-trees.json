@@ -5,73 +5,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer palmatum",
+                "botanicalName":"<i>Acer palmatum</i>",
                 "commonName":"Japanese Maple",
                 "url":"acer-palmatum-japanese-maple",
                 "mainImage":"acer-palmatum-japanese-maple/acer-palmatum-japanese-maple.jpg"
             },
             {
-                "botanicalName":"Acer rubrum",
+                "botanicalName":"<i>Acer rubrum</i>",
                 "commonName":"Red Maple",
                 "url":"acer-rubrum-red-maple",
                 "mainImage":"acer-rubrum-red-maple/acer-rubrum-red-maple.jpg"
             },
             {
-                "botanicalName":"Amelanchier canadensis",
+                "botanicalName":"<i>Amelanchier canadensis</i>",
                 "commonName":"Canadian Serviceberry, Shadbush",
                 "url":"amelanchier-canadensis-canadian-serviceberry-shadbush",
                 "mainImage":"amelanchier-canadensis-canadian-serviceberry-shadbush/amelanchier-canadensis-canadian-serviceberry-shadbush.jpg"
             },
             {
-                "botanicalName":"Fraxinus pennsylvanica 'Cimmzam'",
+                "botanicalName":"<i>Fraxinus pennsylvanica</i> 'Cimmzam'",
                 "commonName":"Green Ash",
                 "url":"fraxinus-pennsylvanica-cimmzam-green-ash",
                 "mainImage":"fraxinus-pennsylvanica-cimmzam-green-ash/fraxinus-pennsylvanica-cimmzam-green-ash.jpg"
             },
             {
-                "botanicalName":"Ginkgo biloba 'Autumn Gold'",
+                "botanicalName":"<i>Ginkgo biloba</i> 'Autumn Gold'",
                 "commonName":"Maidenhair Tree",
                 "url":"ginkgo-biloba-autumn-gold-maidenhair-tree",
                 "mainImage":"ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree.jpg"
             },
             {
-                "botanicalName":"Liquidambar styraciflua",
+                "botanicalName":"<i>Liquidambar styraciflua</i>",
                 "commonName":"American Sweetgum",
                 "url":"liquidambar-styraciflua-american-sweetgum",
                 "mainImage":"liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum.jpg"
             },
             {
-                "botanicalName":"Nyssa sylvatica",
+                "botanicalName":"<i>Nyssa sylvatica</i>",
                 "commonName":"Black Tupelo, Black Gum",
                 "url":"nyssa-sylvatica-black-tupelo-black-gum",
                 "mainImage":"nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum.jpg"
             },
             {
-                "botanicalName":"Parrotia persica",
+                "botanicalName":"<i>Parrotia persica</i>",
                 "commonName":"Persian Ironwood",
                 "url":"parrotia-persica-persian-ironwood",
                 "mainImage":"parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood.jpg"
             },
             {
-                "botanicalName":"Pyrus calleryana 'Aristocrat'",
+                "botanicalName":"<i>Pyrus calleryana</i> 'Aristocrat'",
                 "commonName":"Ornamental Pear",
                 "url":"pyrus-calleryana-aristocrat-ornamental-pear",
                 "mainImage":"pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear.jpg"
             },
             {
-                "botanicalName":"Quercus palustris",
+                "botanicalName":"<i>Quercus palustris</i>",
                 "commonName":"Pin Oak, Swamp Spanish Oak",
                 "url":"quercus-palustris-pin-oak-swamp-spanish-oak",
                 "mainImage":"quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg"
             },
             {
-                "botanicalName":"Ulmus 'Louis van Houtte'",
+                "botanicalName":"<i>Ulmus</i> 'Louis van Houtte'",
                 "commonName":"Golden Elm",
                 "url":"ulmus-louis-van-houtte-golden-elm",
                 "mainImage":"ulmus-louis-van-houtte-golden-elm/ulmus-louis-van-houtte-golden-elm.jpeg"
             },
             {
-                "botanicalName":"Zelkova serrata",
+                "botanicalName":"<i>Zelkova serrata</i>",
                 "commonName":"Japanese Elm",
                 "url":"zelkova-serrata-japanese-elm",
                 "mainImage":"zelkova-serrata-japanese-elm/zelkova-serrata-japanese-elm.jpg"
@@ -84,73 +84,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Albizia julibrissin 'Red Silk'",
+                "botanicalName":"<i>Albizia julibrissin</i> 'Red Silk'",
                 "commonName":"Persian Silk Tree, Pink Silk Tree",
                 "url":"albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree",
                 "mainImage":"albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree/albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree.jpg"
             },
             {
-                "botanicalName":"Camellia 'Setsugekka'",
-                "commonName":"Sasanqua Camellia",
-                "url":"camellia-setsugekka-sasanqua-camellia",
-                "mainImage":"camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia.jpg"
+                "botanicalName":"<i>Camellia sasanqua</i> 'Setsugekka'",
+                "commonName":"Camellia",
+                "url":"camellia-sasanqua-setsugekka-camellia",
+                "mainImage":"camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia.jpg"
             },
             {
-                "botanicalName":"Cercis canadensis 'Forest Pansy'",
+                "botanicalName":"<i>Cercis canadensis</i> 'Forest Pansy'",
                 "commonName":"Eastern Redbud",
                 "url":"cercis-canadensis-forest-pansy-eastern-redbud",
                 "mainImage":"cercis-canadensis-forest-pansy-eastern-redbud/cercis-canadensis-forest-pansy-eastern-redbud.jpg"
             },
             {
-                "botanicalName":"Cornus \"Eddie's White Wonder\"",
+                "botanicalName":"<i>Cornus</i> 'Eddie's White Wonder'",
                 "commonName":"Flowering Dogwood",
                 "url":"cornus-eddies-white-wonder-flowering-dogwood",
                 "mainImage":"cornus-eddies-white-wonder-flowering-dogwood/cornus-eddies-white-wonder-flowering-dogwood.jpg"
             },
             {
-                "botanicalName":"Jacaranda mimosifolia",
+                "botanicalName":"<i>Jacaranda mimosifolia</i>",
                 "commonName":"Blue Jacaranda",
                 "url":"jacaranda-mimosifolia-blue-jacaranda",
                 "mainImage":"jacaranda-mimosifolia-blue-jacaranda/jacaranda-mimosifolia-blue-jacaranda.jpg"
             },
             {
-                "botanicalName":"Lagerstroemia 'Saint Emilion'",
+                "botanicalName":"<i>Lagerstroemia indica</i> 'Saint Emilion'",
                 "commonName":"Crepe Myrtle",
-                "url":"lagerstroemia-saint-emilion-crepe-myrtle",
-                "mainImage":"lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle.jpg"
+                "url":"lagerstroemia-indica-saint-emilion-crepe-myrtle",
+                "mainImage":"lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle.jpg"
             },
             {
-                "botanicalName":"Magnolia 'Billowing Cloud'",
-                "commonName":"",
-                "url":"magnolia-billowing-cloud",
-                "mainImage":"magnolia-billowing-cloud/magnolia-billowing-cloud.jpeg"
+                "botanicalName":"<i>Magnolia</i> 'Billowing Cloud'",
+                "commonName":"Magnolia",
+                "url":"magnolia-billowing-cloud-magnolia",
+                "mainImage":"magnolia-billowing-cloud-magnolia/magnolia-billowing-cloud-magnolia.jpeg"
             },
             {
-                "botanicalName":"Malus ioensis 'Plena'",
+                "botanicalName":"<i>Malus ioensis</i> 'Plena'",
                 "commonName":"Prairie Crabapple",
                 "url":"malus-ioensis-plena-prairie-crabapple",
                 "mainImage":"malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple.jpg"
             },
             {
-                "botanicalName":"Metrosideros excelsa",
+                "botanicalName":"<i>Metrosideros excelsa</i>",
                 "commonName":"Pōhutukawa",
                 "url":"metrosideros-excelsa-pohutukawa",
                 "mainImage":"metrosideros-excelsa-pohutukawa/metrosideros-excelsa-pohutukawa.jpg"
             },
             {
-                "botanicalName":"Michelia figo",
+                "botanicalName":"<i>Michelia figo</i>",
                 "commonName":"Port Wine Magnolia",
                 "url":"michelia-figo-port-wine-magnolia",
                 "mainImage":"michelia-figo-port-wine-magnolia/michelia-figo-port-wine-magnolia.jpeg"
             },
             {
-                "botanicalName":"Prunus 'Shimidsu-sakura'",
-                "commonName":"Flowering Cherry",
-                "url":"prunus-shimidsu-sakura-flowering-cherry",
-                "mainImage":"prunus-shimidsu-sakura-flowering-cherry/prunus-shimidsu-sakura-flowering-cherry.jpg"
+                "botanicalName":"<i>Prunus serrulata</i> 'Shimidsu-sakura'",
+                "commonName":"Japanese Cherry",
+                "url":"prunus-serrulata-shimidsu-sakura-japanese-cherry",
+                "mainImage":"prunus-serrulata-shimidsu-sakura-japanese-cherry/prunus-serrulata-shimidsu-sakura-japanese-cherry.jpg"
             },
             {
-                "botanicalName":"Sophora microphylla",
+                "botanicalName":"<i>Sophora microphylla</i>",
                 "commonName":"South Island Kōwhai",
                 "url":"sophora-microphylla-south-island-kowhai",
                 "mainImage":"sophora-microphylla-south-island-kowhai/sophora-microphylla-south-island-kowhai.jpg"
@@ -163,73 +163,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer rubrum 'Jeffersred'",
+                "botanicalName":"<i>Acer rubrum</i> 'Jeffersred'",
                 "commonName":"Red Maple",
                 "url":"acer-rubrum-jeffersred-red-maple",
                 "mainImage":"acer-rubrum-jeffersred-red-maple/acer-rubrum-jeffersred-red-maple.jpg"
             },
             {
-                "botanicalName":"Betula populifolia 'Whitespire'",
+                "botanicalName":"<i>Betula populifolia</i> 'Whitespire'",
                 "commonName":"Grey Birch",
                 "url":"betula-populifolia-whitespire-grey-birch",
                 "mainImage":"betula-populifolia-whitespire-grey-birch/betula-populifolia-whitespire-grey-birch.jpg"
             },
             {
-                "botanicalName":"Cupressus sempervirens 'Stricta'",
+                "botanicalName":"<i>Cupressus sempervirens</i> 'Stricta'",
                 "commonName":"Italian Cypress",
                 "url":"cupressus-sempervirens-stricta-italian-cypress",
                 "mainImage":"cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg"
             },
             {
-                "botanicalName":"Fraxinus excelsior 'Green Glow'",
+                "botanicalName":"<i>Fraxinus excelsior</i> 'Green Glow'",
                 "commonName":"European Ash",
                 "url":"fraxinus-excelsior-green-glow-european-ash",
                 "mainImage":"fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash.jpg"
             },
             {
-                "botanicalName":"Fraxinus excelsior 'Purple Spire'",
+                "botanicalName":"<i>Fraxinus excelsior</i> 'Purple Spire'",
                 "commonName":"European Ash",
                 "url":"fraxinus-excelsior-purple-spire-european-ash",
                 "mainImage":"fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash.jpg"
             },
             {
-                "botanicalName":"Liquidambar styraciflua 'Worplesdon'",
+                "botanicalName":"<i>Liquidambar styraciflua</i> 'Worplesdon'",
                 "commonName":"American Sweetgum",
                 "url":"liquidambar-styraciflua-worplesdon-american-sweetgum",
                 "mainImage":"liquidambar-styraciflua-worplesdon-american-sweetgum/liquidambar-styraciflua-worplesdon-american-sweetgum.jpg"
             },
             {
-                "botanicalName":"Magnolia grandiflora 'Little Gem'",
+                "botanicalName":"<i>Magnolia grandiflora</i> 'Little Gem'",
                 "commonName":"Evergreen Magnolia",
                 "url":"magnolia-grandiflora-little-gem-evergreen-magnolia",
                 "mainImage":"magnolia-grandiflora-little-gem-evergreen-magnolia/magnolia-grandiflora-little-gem-evergreen-magnolia.jpg"
             },
             {
-                "botanicalName":"Metrosideros excelsa 'Maori Princess'",
+                "botanicalName":"<i>Metrosideros excelsa</i> 'Maori Princess'",
                 "commonName":"Pōhutukawa",
                 "url":"metrosideros-excelsa-maori-princess-pohutukawa",
                 "mainImage":"metrosideros-excelsa-maori-princess-pohutukawa/metrosideros-excelsa-maori-princess-pohutukawa.jpg"
             },
             {
-                "botanicalName":"Prunus yedoensis 'Awanui'",
+                "botanicalName":"<i>Prunus yedoensis</i> 'Awanui'",
                 "commonName":"Yoshino Cherry",
                 "url":"prunus-yedoensis-awanui-yoshino-cherry",
                 "mainImage":"prunus-yedoensis-awanui-yoshino-cherry/prunus-yedoensis-awanui-yoshino-cherry.jpg"
             },
             {
-                "botanicalName":"Pyrus calleryana 'Candelabra'",
+                "botanicalName":"<i>Pyrus calleryana</i> 'Candelabra'",
                 "commonName":"Ornamental Pear",
                 "url":"pyrus-calleryana-candelabra-ornamental-pear",
                 "mainImage":"pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear.jpg"
             },
             {
-                "botanicalName":"Quercus palustris",
+                "botanicalName":"<i>Quercus palustris</i>",
                 "commonName":"Pin Oak, Swamp Spanish Oak",
                 "url":"quercus-palustris-pin-oak-swamp-spanish-oak",
                 "mainImage":"quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg"
             },
             {
-                "botanicalName":"Thuja occidentalis 'Pyramidalis'",
+                "botanicalName":"<i>Thuja occidentalis</i> 'Pyramidalis'",
                 "commonName":"Northern White Cedar",
                 "url":"thuja-occidentalis-pyramidalis-northern-white-cedar",
                 "mainImage":"thuja-occidentalis-pyramidalis-northern-white-cedar/thuja-occidentalis-pyramidalis-northern-white-cedar.jpg"
@@ -242,73 +242,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Alnus jorullensis",
+                "botanicalName":"<i>Alnus jorullensis</i>",
                 "commonName":"Mexican Alder, Evergreen Alder",
                 "url":"alnus-jorullensis-mexican-alder-evergreen-alder",
                 "mainImage":"alnus-jorullensis-mexican-alder-evergreen-alder/alnus-jorullensis-mexican-alder-evergreen-alder.jpg"
             },
             {
-                "botanicalName":"Camellia 'Setsugekka'",
-                "commonName":"Sasanqua Camellia",
-                "url":"camellia-setsugekka-sasanqua-camellia",
-                "mainImage":"camellia-setsugekka-sasanqua-camellia/camellia-setsugekka-sasanqua-camellia.jpg"
+                "botanicalName":"<i>Camellia sasanqua</i> 'Setsugekka'",
+                "commonName":"Camellia",
+                "url":"camellia-sasanqua-setsugekka-camellia",
+                "mainImage":"camellia-sasanqua-setsugekka-camellia/camellia-sasanqua-setsugekka-camellia.jpg"
             },
             {
-                "botanicalName":"Carpinus betulus",
+                "botanicalName":"<i>Carpinus betulus</i>",
                 "commonName":"European Hornbeam",
                 "url":"carpinus-betulus-european-hornbeam",
                 "mainImage":"carpinus-betulus-european-hornbeam/carpinus-betulus-european-hornbeam.jpg"
             },
             {
-                "botanicalName":"Corokia \"Geenty's Green\"",
+                "botanicalName":"<i>Corokia</i> x <i>virgata</i> 'Geenty's Green'",
                 "commonName":"Korokio",
-                "url":"corokia-geentys-green-korokio",
-                "mainImage":"corokia-geentys-green-korokio/corokia-geentys-green-korokio.jpg"
+                "url":"corokia-x-virgata-geentys-green-korokio",
+                "mainImage":"corokia-x-virgata-geentys-green-korokio/corokia-x-virgata-geentys-green-korokio.jpg"
             },
             {
-                "botanicalName":"Cryptomeria japonica",
+                "botanicalName":"<i>Cryptomeria japonica</i>",
                 "commonName":"Japanese Cedar",
                 "url":"cryptomeria-japonica-japanese-cedar",
                 "mainImage":"cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar.jpg"
             },
             {
-                "botanicalName":"Cupressus x ovensii",
+                "botanicalName":"<i>Cupressus</i> x <i>ovensii</i>",
                 "commonName":"Oven's Cypress",
                 "url":"cupressus-x-ovensii-ovens-cypress",
                 "mainImage":"cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress.jpg"
             },
             {
-                "botanicalName":"Griselinia littoralis 'Broadway Mint'",
+                "botanicalName":"<i>Griselinia littoralis</i> 'Broadway Mint'",
                 "commonName":"Kāpuka, Pāpāuma, Broadleaf",
                 "url":"griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf",
                 "mainImage":"griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf.jpeg"
             },
             {
-                "botanicalName":"Michelia 'Fairy White'",
+                "botanicalName":"<i>Michelia</i> 'Fairy White'",
                 "commonName":"Fairy Magnolia",
                 "url":"michelia-fairy-white-fairy-magnolia",
                 "mainImage":"michelia-fairy-white-fairy-magnolia/michelia-fairy-white-fairy-magnolia.jpeg"
             },
             {
-                "botanicalName":"Olive 'El Greco'",
-                "commonName":"",
-                "url":"olive-el-greco",
-                "mainImage":"olive-el-greco/olive-el-greco.jpg"
+                "botanicalName":"<i>Olea europaea</i> 'El Greco'",
+                "commonName":"Olive",
+                "url":"olea-europaea-el-greco-olive",
+                "mainImage":"olea-europaea-el-greco-olive/olea-europaea-el-greco-olive.jpg"
             },
             {
-                "botanicalName":"Pittosporum tenuifolium 'Wrinkle Blue'",
+                "botanicalName":"<i>Pittosporum tenuifolium</i> 'Wrinkle Blue'",
                 "commonName":"Kōhūhū, Black Matipo",
                 "url":"pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo",
                 "mainImage":"pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo.jpg"
             },
             {
-                "botanicalName":"Podocarpus gracilior",
+                "botanicalName":"<i>Podocarpus gracilior</i>",
                 "commonName":"East African Yellowwood",
                 "url":"podocarpus-gracilior-east-african-yellowwood",
                 "mainImage":"podocarpus-gracilior-east-african-yellowwood/podocarpus-gracilior-east-african-yellowwood.jpg"
             },
             {
-                "botanicalName":"Thuja plicata",
+                "botanicalName":"<i>Thuja plicata</i>",
                 "commonName":"Western Red Cedar",
                 "url":"thuja-plicata-western-red-cedar",
                 "mainImage":"thuja-plicata-western-red-cedar/thuja-plicata-western-red-cedar.jpg"
@@ -321,73 +321,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer palmatum \"Skeeter's Broom\"",
+                "botanicalName":"<i>Acer palmatum</i> 'Skeeter's Broom'",
                 "commonName":"Japanese Maple",
                 "url":"acer-palmatum-skeeters-broom-japanese-maple",
                 "mainImage":"acer-palmatum-skeeters-broom-japanese-maple/acer-palmatum-skeeters-broom-japanese-maple.jpg"
             },
             {
-                "botanicalName":"Acer rubrum 'Bowhall'",
+                "botanicalName":"<i>Acer rubrum</i> 'Bowhall'",
                 "commonName":"Red Maple",
                 "url":"acer-rubrum-bowhall-red-maple",
                 "mainImage":"acer-rubrum-bowhall-red-maple/acer-rubrum-bowhall-red-maple.jpg"
             },
             {
-                "botanicalName":"Camellia 'Cinnamon Cindy'",
-                "commonName":"Hybrid Camellia",
-                "url":"camellia-cinnamon-cindy-hybrid-camellia",
-                "mainImage":"camellia-cinnamon-cindy-hybrid-camellia/camellia-cinnamon-cindy-hybrid-camellia.jpeg"
+                "botanicalName":"<i>Camellia</i> 'Cinnamon Cindy'",
+                "commonName":"Camellia",
+                "url":"camellia-cinnamon-cindy-camellia",
+                "mainImage":"camellia-cinnamon-cindy-camellia/camellia-cinnamon-cindy-camellia.jpeg"
             },
             {
-                "botanicalName":"Cupressus sempervirens 'Stricta'",
+                "botanicalName":"<i>Cupressus sempervirens</i> 'Stricta'",
                 "commonName":"Italian Cypress",
                 "url":"cupressus-sempervirens-stricta-italian-cypress",
                 "mainImage":"cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg"
             },
             {
-                "botanicalName":"Ilex crenata 'Sky Pencil'",
+                "botanicalName":"<i>Ilex crenata</i> 'Sky Pencil'",
                 "commonName":"Japanese Holly",
                 "url":"ilex-crenata-sky-pencil-japanese-holly",
                 "mainImage":"ilex-crenata-sky-pencil-japanese-holly/ilex-crenata-sky-pencil-japanese-holly.jpg"
             },
             {
-                "botanicalName":"Juniperus scopulorum 'Skyrocket'",
+                "botanicalName":"<i>Juniperus scopulorum</i> 'Skyrocket'",
                 "commonName":"Rocky Mountain Juniper",
                 "url":"juniperus-scopulorum-skyrocket-rocky-mountain-juniper",
                 "mainImage":"juniperus-scopulorum-skyrocket-rocky-mountain-juniper/juniperus-scopulorum-skyrocket-rocky-mountain-juniper.jpg"
             },
             {
-                "botanicalName":"Magnolia 'Cleopatra'",
-                "commonName":"",
-                "url":"magnolia-cleopatra",
-                "mainImage":"magnolia-cleopatra/magnolia-cleopatra.jpg"
+                "botanicalName":"<i>Magnolia</i> 'Cleopatra'",
+                "commonName":"Magnolia",
+                "url":"magnolia-cleopatra-magnolia",
+                "mainImage":"magnolia-cleopatra-magnolia/magnolia-cleopatra-magnolia.jpg"
             },
             {
-                "botanicalName":"Malus 'Van Eseltine'",
+                "botanicalName":"<i>Malus</i> 'Van Eseltine'",
                 "commonName":"Crabapple",
                 "url":"malus-van-eseltine-crabapple",
                 "mainImage":"malus-van-eseltine-crabapple/malus-van-eseltine-crabapple.jpg"
             },
             {
-                "botanicalName":"Picea pungens 'Baby Blue'",
+                "botanicalName":"<i>Picea pungens</i> 'Baby Blue'",
                 "commonName":"Colorado Spruce, Blue Spruce",
                 "url":"picea-pungens-baby-blue-colorado-spruce-blue-spruce",
                 "mainImage":"picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce.jpg"
             },
             {
-                "botanicalName":"Prunus 'Amanogawa'",
-                "commonName":"Flowering Cherry",
-                "url":"prunus-amanogawa-flowering-cherry",
-                "mainImage":"prunus-amanogawa-flowering-cherry/prunus-amanogawa-flowering-cherry.jpg"
+                "botanicalName":"<i>Prunus serrulata</i> 'Amanogawa'",
+                "commonName":"Japanese Cherry",
+                "url":"prunus-serrulata-amanogawa-japanese-cherry",
+                "mainImage":"prunus-serrulata-amanogawa-japanese-cherry/prunus-serrulata-amanogawa-japanese-cherry.jpg"
             },
             {
-                "botanicalName":"Pyrus calleryana 'Candelabra'",
+                "botanicalName":"<i>Pyrus calleryana</i> 'Candelabra'",
                 "commonName":"Ornamental Pear",
                 "url":"pyrus-calleryana-candelabra-ornamental-pear",
                 "mainImage":"pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear.jpg"
             },
             {
-                "botanicalName":"Thuja occidentalis 'Smaragd'",
+                "botanicalName":"<i>Thuja occidentalis</i> 'Smaragd'",
                 "commonName":"Northern White Cedar",
                 "url":"thuja-occidentalis-smaragd-northern-white-cedar",
                 "mainImage":"thuja-occidentalis-smaragd-northern-white-cedar/thuja-occidentalis-smaragd-northern-white-cedar.jpg"
@@ -400,73 +400,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer pseudoplatanus 'Purpureum'",
+                "botanicalName":"<i>Acer pseudoplatanus</i> 'Purpureum'",
                 "commonName":"Sycamore Maple",
                 "url":"acer-pseudoplatanus-purpureum-sycamore-maple",
                 "mainImage":"acer-pseudoplatanus-purpureum-sycamore-maple/acer-pseudoplatanus-purpureum-sycamore-maple.jpg"
             },
             {
-                "botanicalName":"Eucalyptus nicholii",
+                "botanicalName":"<i>Eucalyptus nicholii</i>",
                 "commonName":"Narrow-leaved Black Peppermint",
                 "url":"eucalyptus-nicholii-narrow-leaved-black-peppermint",
                 "mainImage":"eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint.jpg"
             },
             {
-                "botanicalName":"Fraxinus excelsior 'Aurea'",
+                "botanicalName":"<i>Fraxinus excelsior</i> 'Aurea'",
                 "commonName":"European Ash",
                 "url":"fraxinus-excelsior-aurea-european-ash",
                 "mainImage":"fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash.jpg"
             },
             {
-                "botanicalName":"Grevillea robusta",
+                "botanicalName":"<i>Grevillea robusta</i>",
                 "commonName":"Silky Oak",
                 "url":"grevillea-robusta-silky-oak",
                 "mainImage":"grevillea-robusta-silky-oak/grevillea-robusta-silky-oak.jpg"
             },
             {
-                "botanicalName":"Liquidambar styraciflua",
+                "botanicalName":"<i>Liquidambar styraciflua</i>",
                 "commonName":"American Sweetgum",
                 "url":"liquidambar-styraciflua-american-sweetgum",
                 "mainImage":"liquidambar-styraciflua-american-sweetgum/liquidambar-styraciflua-american-sweetgum.jpg"
             },
             {
-                "botanicalName":"Liriodendron tulipifera",
+                "botanicalName":"<i>Liriodendron tulipifera</i>",
                 "commonName":"Tulip Tree",
                 "url":"liriodendron-tulipifera-tulip-tree",
                 "mainImage":"liriodendron-tulipifera-tulip-tree/liriodendron-tulipifera-tulip-tree.jpg"
             },
             {
-                "botanicalName":"Magnolia grandiflora 'Blanchard'",
+                "botanicalName":"<i>Magnolia grandiflora</i> 'Blanchard'",
                 "commonName":"Evergreen Magnolia",
                 "url":"magnolia-grandiflora-blanchard-evergreen-magnolia",
                 "mainImage":"magnolia-grandiflora-blanchard-evergreen-magnolia/magnolia-grandiflora-blanchard-evergreen-magnolia.jpg"
             },
             {
-                "botanicalName":"Platanus orientalis",
+                "botanicalName":"<i>Platanus orientalis</i>",
                 "commonName":"Oriental Plane",
                 "url":"platanus-orientalis-oriental-plane",
                 "mainImage":"platanus-orientalis-oriental-plane/platanus-orientalis-oriental-plane.jpg"
             },
             {
-                "botanicalName":"Quercus robur",
+                "botanicalName":"<i>Quercus robur</i>",
                 "commonName":"English Oak",
                 "url":"quercus-robur-english-oak",
                 "mainImage":"quercus-robur-english-oak/quercus-robur-english-oak.jpg"
             },
             {
-                "botanicalName":"Salix babylonica",
+                "botanicalName":"<i>Salix babylonica</i>",
                 "commonName":"Weeping Willow",
                 "url":"salix-babylonica-weeping-willow",
                 "mainImage":"salix-babylonica-weeping-willow/salix-babylonica-weeping-willow.jpg"
             },
             {
-                "botanicalName":"Ulmus parvifolia",
+                "botanicalName":"<i>Ulmus parvifolia</i>",
                 "commonName":"Chinese Elm",
                 "url":"ulmus-parvifolia-chinese-elm",
                 "mainImage":"ulmus-parvifolia-chinese-elm/ulmus-parvifolia-chinese-elm.jpg"
             },
             {
-                "botanicalName":"Zelkova serrata",
+                "botanicalName":"<i>Zelkova serrata</i>",
                 "commonName":"Japanese Elm",
                 "url":"zelkova-serrata-japanese-elm",
                 "mainImage":"zelkova-serrata-japanese-elm/zelkova-serrata-japanese-elm.jpg"
@@ -479,73 +479,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Alectryon excelsus",
+                "botanicalName":"<i>Alectryon excelsus</i> var. <i>excelsus</i>",
                 "commonName":"Tītoki, New Zealand Oak",
-                "url":"alectryon-excelsus-titoki-new-zealand-oak",
-                "mainImage":"alectryon-excelsus-titoki-new-zealand-oak/alectryon-excelsus-titoki-new-zealand-oak.jpg"
+                "url":"alectryon-excelsus-var-excelsus-titoki-new-zealand-oak",
+                "mainImage":"alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak.jpg"
             },
             {
-                "botanicalName":"Alnus jorullensis",
+                "botanicalName":"<i>Alnus jorullensis</i>",
                 "commonName":"Mexican Alder, Evergreen Alder",
                 "url":"alnus-jorullensis-mexican-alder-evergreen-alder",
                 "mainImage":"alnus-jorullensis-mexican-alder-evergreen-alder/alnus-jorullensis-mexican-alder-evergreen-alder.jpg"
             },
             {
-                "botanicalName":"Carpinus betulus",
+                "botanicalName":"<i>Carpinus betulus</i>",
                 "commonName":"European Hornbeam",
                 "url":"carpinus-betulus-european-hornbeam",
                 "mainImage":"carpinus-betulus-european-hornbeam/carpinus-betulus-european-hornbeam.jpg"
             },
             {
-                "botanicalName":"Fagus sylvatica",
+                "botanicalName":"<i>Fagus sylvatica</i>",
                 "commonName":"European Beech",
                 "url":"fagus-sylvatica-european-beech",
                 "mainImage":"fagus-sylvatica-european-beech/fagus-sylvatica-european-beech.jpg"
             },
             {
-                "botanicalName":"Malus ioensis 'Plena'",
+                "botanicalName":"<i>Malus ioensis</i> 'Plena'",
                 "commonName":"Prairie Crabapple",
                 "url":"malus-ioensis-plena-prairie-crabapple",
                 "mainImage":"malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple.jpg"
             },
             {
-                "botanicalName":"Michelia 'Fairy Cream'",
+                "botanicalName":"<i>Michelia</i> 'Fairy Cream'",
                 "commonName":"Fairy Magnolia",
                 "url":"michelia-fairy-cream-fairy-magnolia",
                 "mainImage":"michelia-fairy-cream-fairy-magnolia/michelia-fairy-cream-fairy-magnolia.jpeg"
             },
             {
-                "botanicalName":"Olive 'El Greco'",
-                "commonName":"",
-                "url":"olive-el-greco",
-                "mainImage":"olive-el-greco/olive-el-greco.jpg"
+                "botanicalName":"<i>Olea europaea</i> 'El Greco'",
+                "commonName":"Olive",
+                "url":"olea-europaea-el-greco-olive",
+                "mainImage":"olea-europaea-el-greco-olive/olea-europaea-el-greco-olive.jpg"
             },
             {
-                "botanicalName":"Photinia 'Red Robin'",
+                "botanicalName":"<i>Photinia</i> x <i>fraseri</i> 'Red Robin'",
                 "commonName":"Red Tip Photinia, Christmas Berry",
-                "url":"photinia-red-robin-red-tip-photinia-christmas-berry",
-                "mainImage":"photinia-red-robin-red-tip-photinia-christmas-berry/photinia-red-robin-red-tip-photinia-christmas-berry.jpg"
+                "url":"photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry",
+                "mainImage":"photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry.jpg"
             },
             {
-                "botanicalName":"Prunus laurocerasus",
+                "botanicalName":"<i>Prunus laurocerasus</i>",
                 "commonName":"Cherry Laurel",
                 "url":"prunus-laurocerasus-cherry-laurel",
                 "mainImage":"prunus-laurocerasus-cherry-laurel/prunus-laurocerasus-cherry-laurel.jpg"
             },
             {
-                "botanicalName":"Pyrus calleryana 'Aristocrat'",
+                "botanicalName":"<i>Pyrus calleryana</i> 'Aristocrat'",
                 "commonName":"Ornamental Pear",
                 "url":"pyrus-calleryana-aristocrat-ornamental-pear",
                 "mainImage":"pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear.jpg"
             },
             {
-                "botanicalName":"Quercus ilex",
+                "botanicalName":"<i>Quercus ilex</i>",
                 "commonName":"Evergreen Oak, Holm Oak",
                 "url":"quercus-ilex-evergreen-oak-holm-oak",
                 "mainImage":"quercus-ilex-evergreen-oak-holm-oak/quercus-ilex-evergreen-oak-holm-oak.jpg"
             },
             {
-                "botanicalName":"Tilia cordata",
+                "botanicalName":"<i>Tilia cordata</i>",
                 "commonName":"Small-leaved Lime, Little-leaf Linden",
                 "url":"tilia-cordata-small-leaved-lime-little-leaf-linden",
                 "mainImage":"tilia-cordata-small-leaved-lime-little-leaf-linden/tilia-cordata-small-leaved-lime-little-leaf-linden.jpg"
@@ -558,73 +558,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer palmatum 'Fireglow'",
+                "botanicalName":"<i>Acer palmatum</i> 'Fireglow'",
                 "commonName":"Japanese Maple",
                 "url":"acer-palmatum-fireglow-japanese-maple",
                 "mainImage":"acer-palmatum-fireglow-japanese-maple/acer-palmatum-fireglow-japanese-maple.jpg"
             },
             {
-                "botanicalName":"Camellia 'Black Lace'",
-                "commonName":"Hybrid Camellia",
-                "url":"camellia-black-lace-hybrid-camellia",
-                "mainImage":"camellia-black-lace-hybrid-camellia/camellia-black-lace-hybrid-camellia.jpg"
+                "botanicalName":"<i>Camellia</i> 'Black Lace'",
+                "commonName":"Camellia",
+                "url":"camellia-black-lace-camellia",
+                "mainImage":"camellia-black-lace-camellia/camellia-black-lace-camellia.jpg"
             },
             {
-                "botanicalName":"Cercis canadensis 'Hearts of Gold'",
+                "botanicalName":"<i>Cercis canadensis</i> 'Hearts of Gold'",
                 "commonName":"Eastern Redbud",
                 "url":"cercis-canadensis-hearts-of-gold-eastern-redbud",
                 "mainImage":"cercis-canadensis-hearts-of-gold-eastern-redbud/cercis-canadensis-hearts-of-gold-eastern-redbud.jpg"
             },
             {
-                "botanicalName":"Griselinia littoralis 'Gecko Green'",
+                "botanicalName":"<i>Griselinia littoralis</i> 'Gecko Green'",
                 "commonName":"Kāpuka, Pāpāuma, Broadleaf",
                 "url":"griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf",
                 "mainImage":"griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf/griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf.jpeg"
             },
             {
-                "botanicalName":"Ilex crenata 'Sky Pencil'",
+                "botanicalName":"<i>Ilex crenata</i> 'Sky Pencil'",
                 "commonName":"Japanese Holly",
                 "url":"ilex-crenata-sky-pencil-japanese-holly",
                 "mainImage":"ilex-crenata-sky-pencil-japanese-holly/ilex-crenata-sky-pencil-japanese-holly.jpg"
             },
             {
-                "botanicalName":"Lagerstroemia 'Saint Emilion'",
+                "botanicalName":"<i>Lagerstroemia indica</i> 'Saint Emilion'",
                 "commonName":"Crepe Myrtle",
-                "url":"lagerstroemia-saint-emilion-crepe-myrtle",
-                "mainImage":"lagerstroemia-saint-emilion-crepe-myrtle/lagerstroemia-saint-emilion-crepe-myrtle.jpg"
+                "url":"lagerstroemia-indica-saint-emilion-crepe-myrtle",
+                "mainImage":"lagerstroemia-indica-saint-emilion-crepe-myrtle/lagerstroemia-indica-saint-emilion-crepe-myrtle.jpg"
             },
             {
-                "botanicalName":"Magnolia stellata 'Jane Platt'",
+                "botanicalName":"<i>Magnolia stellata</i> 'Jane Platt'",
                 "commonName":"Star Magnolia",
                 "url":"magnolia-stellata-jane-platt-star-magnolia",
                 "mainImage":"magnolia-stellata-jane-platt-star-magnolia/magnolia-stellata-jane-platt-star-magnolia.jpeg"
             },
             {
-                "botanicalName":"Nandina 'Firepower'",
-                "commonName":"",
-                "url":"nandina-firepower",
-                "mainImage":"nandina-firepower/nandina-firepower.jpg"
+                "botanicalName":"<i>Nandina domestica</i> 'Fire Power'",
+                "commonName":"Nandina, Heavenly Bamboo, Sacred Bamboo",
+                "url":"nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo",
+                "mainImage":"nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo.jpg"
             },
             {
-                "botanicalName":"Pittosporum tenuifolium 'Hedgehog'",
+                "botanicalName":"<i>Pittosporum tenuifolium</i> 'Hedgehog'",
                 "commonName":"Kōhūhū, Black Matipo",
                 "url":"pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo",
                 "mainImage":"pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo.jpeg"
             },
             {
-                "botanicalName":"Pseudopanax lessonii 'Cyril Watson'",
+                "botanicalName":"<i>Pseudopanax lessonii</i> 'Cyril Watson'",
                 "commonName":"Houpara, Coastal Five Finger",
                 "url":"pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger",
                 "mainImage":"pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger.jpg"
             },
             {
-                "botanicalName":"Sophora molloyi 'Dragon's Gold'",
+                "botanicalName":"<i>Sophora molloyi</i> 'Dragon's Gold'",
                 "commonName":"Cook Strait Kōwhai",
                 "url":"sophora-molloyi-dragons-gold-cook-strait-kowhai",
                 "mainImage":"sophora-molloyi-dragons-gold-cook-strait-kowhai/sophora-molloyi-dragons-gold-cook-strait-kowhai.jpeg"
             },
             {
-                "botanicalName":"Viburnum opulus 'Roseum'",
+                "botanicalName":"<i>Viburnum opulus</i> 'Roseum'",
                 "commonName":"Snowball Tree",
                 "url":"viburnum-opulus-roseum-snowball-tree",
                 "mainImage":"viburnum-opulus-roseum-snowball-tree/viburnum-opulus-roseum-snowball-tree.jpg"
@@ -637,73 +637,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acacia melanoxylon",
+                "botanicalName":"<i>Acacia melanoxylon</i>",
                 "commonName":"Blackwood",
                 "url":"acacia-melanoxylon-blackwood",
                 "mainImage":"acacia-melanoxylon-blackwood/acacia-melanoxylon-blackwood.jpg"
             },
             {
-                "botanicalName":"Acer campestre",
+                "botanicalName":"<i>Acer campestre</i>",
                 "commonName":"Field Maple, Hedge Maple",
                 "url":"acer-campestre-field-maple-hedge-maple",
                 "mainImage":"acer-campestre-field-maple-hedge-maple/acer-campestre-field-maple-hedge-maple.jpg"
             },
             {
-                "botanicalName":"Acer pseudoplatanus 'Purpureum'",
+                "botanicalName":"<i>Acer pseudoplatanus</i> 'Purpureum'",
                 "commonName":"Sycamore Maple",
                 "url":"acer-pseudoplatanus-purpureum-sycamore-maple",
                 "mainImage":"acer-pseudoplatanus-purpureum-sycamore-maple/acer-pseudoplatanus-purpureum-sycamore-maple.jpg"
             },
             {
-                "botanicalName":"Aesculus x carnea",
+                "botanicalName":"<i>Aesculus</i> x <i>carnea</i>",
                 "commonName":"Red Horse Chestnut",
                 "url":"aesculus-x-carnea-red-horse-chestnut",
                 "mainImage":"aesculus-x-carnea-red-horse-chestnut/aesculus-x-carnea-red-horse-chestnut.jpg"
             },
             {
-                "botanicalName":"Fraxinus excelsior 'Aurea'",
+                "botanicalName":"<i>Fraxinus excelsior</i> 'Aurea'",
                 "commonName":"European Ash",
                 "url":"fraxinus-excelsior-aurea-european-ash",
                 "mainImage":"fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash.jpg"
             },
             {
-                "botanicalName":"Liriodendron tulipifera",
+                "botanicalName":"<i>Liriodendron tulipifera</i>",
                 "commonName":"Tulip Tree",
                 "url":"liriodendron-tulipifera-tulip-tree",
                 "mainImage":"liriodendron-tulipifera-tulip-tree/liriodendron-tulipifera-tulip-tree.jpg"
             },
             {
-                "botanicalName":"Magnolia grandiflora 'Blanchard'",
+                "botanicalName":"<i>Magnolia grandiflora</i> 'Blanchard'",
                 "commonName":"Evergreen Magnolia",
                 "url":"magnolia-grandiflora-blanchard-evergreen-magnolia",
                 "mainImage":"magnolia-grandiflora-blanchard-evergreen-magnolia/magnolia-grandiflora-blanchard-evergreen-magnolia.jpg"
             },
             {
-                "botanicalName":"Platanus orientalis",
+                "botanicalName":"<i>Platanus orientalis</i>",
                 "commonName":"Oriental Plane",
                 "url":"platanus-orientalis-oriental-plane",
                 "mainImage":"platanus-orientalis-oriental-plane/platanus-orientalis-oriental-plane.jpg"
             },
             {
-                "botanicalName":"Quercus robur",
+                "botanicalName":"<i>Quercus robur</i>",
                 "commonName":"English Oak",
                 "url":"quercus-robur-english-oak",
                 "mainImage":"quercus-robur-english-oak/quercus-robur-english-oak.jpg"
             },
             {
-                "botanicalName":"Salix babylonica",
+                "botanicalName":"<i>Salix babylonica</i>",
                 "commonName":"Weeping Willow",
                 "url":"salix-babylonica-weeping-willow",
                 "mainImage":"salix-babylonica-weeping-willow/salix-babylonica-weeping-willow.jpg"
             },
             {
-                "botanicalName":"Ulmus parvifolia",
+                "botanicalName":"<i>Ulmus parvifolia</i>",
                 "commonName":"Chinese Elm",
                 "url":"ulmus-parvifolia-chinese-elm",
                 "mainImage":"ulmus-parvifolia-chinese-elm/ulmus-parvifolia-chinese-elm.jpg"
             },
             {
-                "botanicalName":"Zelkova serrata",
+                "botanicalName":"<i>Zelkova serrata</i>",
                 "commonName":"Japanese Elm",
                 "url":"zelkova-serrata-japanese-elm",
                 "mainImage":"zelkova-serrata-japanese-elm/zelkova-serrata-japanese-elm.jpg"
@@ -716,73 +716,73 @@
         "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
         "trees": [
             {
-                "botanicalName":"Acer platanoides 'Globosum'",
+                "botanicalName":"<i>Acer platanoides</i> 'Globosum'",
                 "commonName":"Norway Maple",
                 "url":"acer-platanoides-globosum-norway-maple",
                 "mainImage":"acer-platanoides-globosum-norway-maple/acer-platanoides-globosum-norway-maple.jpg"
             },
             {
-                "botanicalName":"Alectryon excelsus",
+                "botanicalName":"<i>Alectryon excelsus</i> var. <i>excelsus</i>",
                 "commonName":"Tītoki, New Zealand Oak",
-                "url":"alectryon-excelsus-titoki-new-zealand-oak",
-                "mainImage":"alectryon-excelsus-titoki-new-zealand-oak/alectryon-excelsus-titoki-new-zealand-oak.jpg"
+                "url":"alectryon-excelsus-var-excelsus-titoki-new-zealand-oak",
+                "mainImage":"alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak.jpg"
             },
             {
-                "botanicalName":"Elaeagnus x submacrophylla",
+                "botanicalName":"<i>Elaeagnus</i> x <i>submacrophylla</i>",
                 "commonName":"Silverberry",
                 "url":"elaeagnus-x-submacrophylla-silverberry",
                 "mainImage":"elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry.jpg"
             },
             {
-                "botanicalName":"Feijoa 'Apollo'",
-                "commonName":"",
-                "url":"feijoa-apollo",
-                "mainImage":"feijoa-apollo/feijoa-apollo.jpg"
+                "botanicalName":"<i>Feijoa sellowiana</i> 'Apollo'",
+                "commonName":"Feijoa, Pineapple Guava",
+                "url":"feijoa-sellowiana-apollo-feijoa-pineapple-guava",
+                "mainImage":"feijoa-sellowiana-apollo-feijoa-pineapple-guava/feijoa-sellowiana-apollo-feijoa-pineapple-guava.jpg"
             },
             {
-                "botanicalName":"Ilex 'Largo'",
+                "botanicalName":"<i>Ilex</i> 'Largo'",
                 "commonName":"Holly",
                 "url":"ilex-largo-holly",
                 "mainImage":"ilex-largo-holly/ilex-largo-holly.jpg"
             },
             {
-                "botanicalName":"Laurus nobilis",
+                "botanicalName":"<i>Laurus nobilis</i>",
                 "commonName":"Sweet Bay, Bay Laurel",
                 "url":"laurus-nobilis-sweet-bay-bay-laurel",
                 "mainImage":"laurus-nobilis-sweet-bay-bay-laurel/laurus-nobilis-sweet-bay-bay-laurel.jpg"
             },
             {
-                "botanicalName":"Liquidambar styraciflua 'Gumball'",
+                "botanicalName":"<i>Liquidambar styraciflua</i> 'Gumball'",
                 "commonName":"American Sweetgum",
                 "url":"liquidambar-styraciflua-gumball-american-sweetgum",
                 "mainImage":"liquidambar-styraciflua-gumball-american-sweetgum/liquidambar-styraciflua-gumball-american-sweetgum.jpeg"
             },
             {
-                "botanicalName":"Michelia gracipes",
+                "botanicalName":"<i>Michelia gracipes</i>",
                 "commonName":"",
                 "url":"michelia-gracipes",
                 "mainImage":"michelia-gracipes/michelia-gracipes.jpeg"
             },
             {
-                "botanicalName":"Podocarpus macrophyllus",
+                "botanicalName":"<i>Podocarpus macrophyllus</i>",
                 "commonName":"Yew Pine, Fern Pine",
                 "url":"podocarpus-macrophyllus-yew-pine-fern-pine",
                 "mainImage":"podocarpus-macrophyllus-yew-pine-fern-pine/podocarpus-macrophyllus-yew-pine-fern-pine.jpg"
             },
             {
-                "botanicalName":"Prunus lusitanica",
+                "botanicalName":"<i>Prunus lusitanica</i>",
                 "commonName":"Portugal Laurel",
                 "url":"prunus-lusitanica-portugal-laurel",
                 "mainImage":"prunus-lusitanica-portugal-laurel/prunus-lusitanica-portugal-laurel.jpg"
             },
             {
-                "botanicalName":"Quercus ilex",
+                "botanicalName":"<i>Quercus ilex</i>",
                 "commonName":"Evergreen Oak, Holm Oak",
                 "url":"quercus-ilex-evergreen-oak-holm-oak",
                 "mainImage":"quercus-ilex-evergreen-oak-holm-oak/quercus-ilex-evergreen-oak-holm-oak.jpg"
             },
             {
-                "botanicalName":"Syzygium australe 'Resilience'",
+                "botanicalName":"<i>Syzygium australe</i> 'Resilience'",
                 "commonName":"Lilly Pilly",
                 "url":"syzygium-australe-resilience-lilly-pilly",
                 "mainImage":"syzygium-australe-resilience-lilly-pilly/syzygium-australe-resilience-lilly-pilly.jpg"
