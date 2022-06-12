@@ -6246,7 +6246,13 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=2350",
       "https://www.ebben.nl/nl/treeebb/acplatan-acer-platanoides/",
       "https://www.gardenia.net/plant/acer-platanoides",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides",
+      "https://www.rhs.org.uk/plants/99961/acer-platanoides-globosum/details",
+      "https://www.vdberk.co.uk/trees/acer-platanoides-globosum/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-platanoides-globosum",
+      "https://selectree.calpoly.edu/tree-detail/90",
+      "https://www.havlis.cz/karta_en.php?kytkaid=853",
+      "https://www.ebben.nl/en/treeebb/acpglobo-acer-platanoides-globosum"
     ]
   },
   {
@@ -6258,7 +6264,53 @@
     "variety": "",
     "form": "",
     "cultivar": "Nigrum",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Reitenbachii"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Reichenbachii"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Bloodleaf"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Youngii"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Purpureum Reitenbachii"
+      }
+    ],
     "commonName": "Norway Maple",
     "url": "acer-platanoides-nigrum-norway-maple",
     "mainImage": "acer-platanoides-nigrum-norway-maple/acer-platanoides-nigrum-norway-maple.jpg",
@@ -6334,7 +6386,9 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=2350",
       "https://www.ebben.nl/nl/treeebb/acplatan-acer-platanoides/",
       "https://www.gardenia.net/plant/acer-platanoides",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides",
+      "https://www.rhs.org.uk/plants/89979/acer-platanoides-reitenbachii/details",
+      "https://www.vdberk.co.uk/trees/acer-platanoides-reitenbachii/"
     ]
   },
   {
@@ -6346,7 +6400,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Princeton Gold",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Prigo"
+      }
+    ],
     "commonName": "Norway Maple",
     "url": "acer-platanoides-princeton-gold-norway-maple",
     "mainImage": "acer-platanoides-princeton-gold-norway-maple/acer-platanoides-princeton-gold-norway-maple.jpg",
@@ -6418,7 +6482,10 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=2350",
       "https://www.ebben.nl/nl/treeebb/acplatan-acer-platanoides/",
       "https://www.gardenia.net/plant/acer-platanoides",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+platanoides",
+      "https://www.rhs.org.uk/plants/117421/i-acer-platanoides-i-font-face-times-new-roman-princeton-gold-font-prigo-sup-(pbr)-sup/details",
+      "https://landscapeplants.oregonstate.edu/plants/acer-platanoides-princeton-gold",
+      "https://www.havlis.cz/karta_en.php?kytkaid=5042"
     ]
   },
   {
