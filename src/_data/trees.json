@@ -7139,6 +7139,7 @@
       "https://www.gardenia.net/plant/acer-rubrum",
       "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-x-freemanii/",
+      "https://plants.ces.ncsu.edu/plants/acer-x-freemanii/",
       "https://www.rhs.org.uk/plants/159727/i-acer-i-times%3B-i-freemanii-i-armstrong/details",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261905",
       "https://www.vdberk.co.uk/trees/acer-freemanii-armstrong/",
@@ -7258,7 +7259,14 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/97324/i-acer-rubrum-i-october-glory/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b981",
+      "https://www.vdberk.co.uk/trees/acer-rubrum-october-glory/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-rubrum-october-glory",
+      "https://selectree.calpoly.edu/tree-detail/108",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1075",
+      "https://www.ebben.nl/nl/treeebb/acroglor-acer-rubrum-october-glory"
     ]
   },
   {
@@ -7370,7 +7378,12 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/103571/i-acer-rubrum-i-bowhall/details",
+      "https://www.vdberk.co.uk/trees/acer-rubrum-bowhall/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-rubrum-bowhall",
+      "https://selectree.calpoly.edu/tree-detail/104",
+      "https://www.ebben.nl/en/treeebb/acrbowha-acer-rubrum-bowhall"
     ]
   },
   {
@@ -7478,7 +7491,12 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/227692/i-acer-rubrum-i-brandywine/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=273746",
+      "https://www.vdberk.co.uk/trees/acer-rubrum-brandywine/",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1996",
+      "https://www.ebben.nl/en/treeebb/acrbrand-acer-rubrum-brandywine"
     ]
   },
   {
@@ -7582,7 +7600,10 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/98785/i-acer-rubrum-i-columnare/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261332",
+      "https://selectree.calpoly.edu/tree-detail/105"
     ]
   },
   {
@@ -7608,6 +7629,15 @@
         "genus": "Acer",
         "species": "",
         "hybrid": "freemanii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Autumn Blaze"
+      },
+      {
+        "genus": "Acer",
+        "species": "rubrum",
+        "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
@@ -7722,7 +7752,16 @@
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
       "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
-      "https://treesandshrubsonline.org/articles/acer/acer-x-freemanii/"
+      "https://treesandshrubsonline.org/articles/acer/acer-x-freemanii/",
+      "https://plants.ces.ncsu.edu/plants/acer-x-freemanii/",
+      "https://www.rhs.org.uk/plants/66660/i-acer-i-times%3B-i-freemanii-i-font-face-times-new-roman-autumn-blaze-font-jeffersred/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=255063",
+      "https://www.vdberk.co.uk/trees/acer-freemanii-autumn-blaze-jeffersred/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-freemanii-autumn-blaze",
+      "https://selectree.calpoly.edu/tree-detail/1524",
+      "https://www.havlis.cz/karta_en.php?kytkaid=843",
+      "https://www.ebben.nl/en/treeebb/acfjeffe-acer-x-freemanii-jeffersred",
+      "https://www.gardenia.net/plant/acer-freemanii-autumn-blaze"
     ]
   },
   {
@@ -7836,7 +7875,15 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/64775/i-acer-rubrum-i-font-face-times-new-roman-red-sunset-font-franksred/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b110",
+      "https://www.vdberk.co.uk/trees/acer-rubrum-red-sunset-franksred/",
+      "https://landscapeplants.oregonstate.edu/plants/acer-rubrum-red-sunset",
+      "https://selectree.calpoly.edu/tree-detail/1525",
+      "https://selectree.calpoly.edu/tree-detail/109",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1657",
+      "https://www.ebben.nl/en/treeebb/acrfrank-acer-rubrum-franksred"
     ]
   },
   {
@@ -7916,7 +7963,11 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=869",
       "https://www.ebben.nl/en/treeebb/acrubrum-acer-rubrum",
       "https://www.gardenia.net/plant/acer-rubrum",
-      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum"
+      "https://temperate.theferns.info/viewtropical.php?id=Acer+rubrum",
+      "https://www.rhs.org.uk/plants/119848/i-acer-rubrum-i-scanlon/details",
+      "https://www.vdberk.co.uk/trees/acer-rubrum-scanlon/",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1648",
+      "https://www.ebben.nl/en/treeebb/acrscanl-acer-rubrum-scanlon"
     ]
   },
   {
