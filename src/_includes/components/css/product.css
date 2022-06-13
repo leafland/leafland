@@ -328,7 +328,7 @@ main h2 {
   background: var(--primary-background);
   border-radius: 4px;
   padding: 0.3rem 0.6rem;
-  font-weight: bold;
+  font-weight: 900;
   white-space: nowrap;
 }
 
