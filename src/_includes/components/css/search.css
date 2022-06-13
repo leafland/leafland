@@ -2,6 +2,7 @@
   padding: 8px 16px;
   font-size: var(--font-size-5);
   width: 100%;
+  font-weight: 900;
 }
 
 #search:disabled {
@@ -133,10 +134,10 @@ body.search-loaded #search-results {
 .result-botanical-name {
   /* text-transform: uppercase; */
 
-  font-weight: bold;
+  font-weight: 900;
   color: var(--secondary-background);
   line-height: 1.2;
-  font-size:var(--font-size-4)
+  font-size: var(--font-size-4);
 }
 
 .result-common-name {
@@ -146,11 +147,11 @@ body.search-loaded #search-results {
   padding: 0.3rem 0.6rem; */
   display: inline-block;
   font-size: var(--font-size-2);
-  font-weight: bold;
+  font-weight: 700;
   /* text-transform: uppercase; */
 
   margin-top: 0.4rem;
-  line-height: 1.2
+  line-height: 1.2;
 }
 
 #search-section {

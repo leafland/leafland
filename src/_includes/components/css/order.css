@@ -95,9 +95,16 @@
   grid-row-start: 3;
 }
 
-.order-botanical-name {
+.order-product p {
+  font-weight: 700;
+  /* text-transform: uppercase; */
+  font-size: var(--font-size-2);
+}
+
+.order-product p.order-botanical-name {
   font-size: var(--font-size-4);
   line-height: 1.2;
+  font-weight: 900;
 }
 
 .order-botanical-name a {
@@ -114,12 +121,6 @@
   /* border: 2px solid var(--primary-text); */
   font-weight: 700;
   /* transition: all .4s cubic-bezier(.31,.87,.32,1); */
-}
-
-.order-product p {
-  font-weight: bold;
-  /* text-transform: uppercase; */
-  font-size: var(--font-size-2);
 }
 
 .order-product input {
@@ -141,11 +142,11 @@
   flex-wrap: wrap;
 }
 
-.order-item-details p{
+.order-item-details p {
   text-transform: uppercase;
 }
 
-.order-item-details p .accent-color{
+.order-item-details p .accent-color {
   text-transform: none;
 }
 

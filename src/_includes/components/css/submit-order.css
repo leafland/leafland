@@ -2,7 +2,8 @@ main {
   margin-top: 5rem;
 }
 
-h1,h3{
+h1,
+h3 {
   text-transform: uppercase;
 }
 
@@ -91,7 +92,7 @@ main h3 {
 
 .form-tree p {
   display: inline-block;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .form-tree h3 {
@@ -110,9 +111,10 @@ main h3 {
   /* transition: all .4s cubic-bezier(.31,.87,.32,1); */
 }
 
-.botanical-name {
+.form-tree p.botanical-name {
   font-size: var(--font-size-4);
   line-height: 1.2;
+  font-weight: 900;
 }
 
 .tree-info {
@@ -132,6 +134,7 @@ main h3 {
 
 main label {
   margin-bottom: 1rem;
+  font-weight: 600;
 }
 
 .checkbox-field {
@@ -179,6 +182,7 @@ main label {
 .region-select select {
   max-width: 20rem;
   width: 100%;
+  font-weight: 900;
 }
 
 .region-select,

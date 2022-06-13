@@ -1,3 +1,12 @@
+@font-face {
+  font-display: swap;
+  font-family: Inter;
+  font-style: oblique 0deg 20deg;
+  font-weight: 1 999;
+  src: url(/public/assets/fonts/Inter.woff2) format("woff2 supports variations"),
+    url(/public/assets/fonts/Inter.woff2) format("woff2-variations");
+}
+
 /* RESET */
 
 /*
@@ -67,8 +76,8 @@ h6 {
 /**********************/
 
 :root {
-  --global-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+  --global-font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
     "Helvetica Neue", Arial, sans-serif;
 
   --accent-color: lch(55%, 74, 139);
@@ -258,6 +267,10 @@ main p a {
   outline: none;
 }
 
+i {
+  font-synthesis: none;
+}
+
 h1,
 h2,
 h3 {
@@ -286,7 +299,7 @@ a {
 
 p.bold-up {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 button,
@@ -316,7 +329,7 @@ button,
 .button,
 input[type="submit"] {
   border: 2px solid var(--primary-text);
-  font-weight: bold;
+  font-weight: 900;
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
   background: none;
@@ -424,7 +437,7 @@ footer {
   /* padding: 1rem; */
 }
 footer p {
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
