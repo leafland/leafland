@@ -2,9 +2,10 @@ main {
   margin-top: 5rem;
 }
 
-h1,h3{
+/* h1,
+h3 {
   text-transform: uppercase;
-}
+} */
 
 #content {
   max-width: 80rem;
@@ -91,7 +92,7 @@ main h3 {
 
 .form-tree p {
   display: inline-block;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .form-tree h3 {
@@ -110,9 +111,10 @@ main h3 {
   /* transition: all .4s cubic-bezier(.31,.87,.32,1); */
 }
 
-.botanical-name {
+.form-tree p.botanical-name {
   font-size: var(--font-size-4);
   line-height: 1.2;
+  font-weight: 900;
 }
 
 .tree-info {
@@ -165,6 +167,7 @@ main label {
   gap: 1rem;
   flex-wrap: wrap;
   align-items: center;
+  font-weight: 900;
 }
 
 #order-totals p .info-pill {
@@ -172,13 +175,22 @@ main label {
   white-space: normal;
 }
 
+#order-totals .accent-color {
+  font-weight: 700;
+}
+
 .region-select {
   margin-top: 3rem;
+}
+
+.region-select label {
+  font-weight: 600;
 }
 
 .region-select select {
   max-width: 20rem;
   width: 100%;
+  font-weight: 900;
 }
 
 .region-select,

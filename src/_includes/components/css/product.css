@@ -13,8 +13,9 @@ main h2 {
   justify-self: center;
 }
 
-.tree-botanical-name{
-  font-size: var(--font-size-7)
+.tree-botanical-name {
+  font-size: var(--font-size-7);
+  font-weight: 900;
 }
 
 .tree-common-name {
@@ -23,7 +24,8 @@ main h2 {
   border-radius: 8px;
   padding: 0.8rem;
   display: inline-block;
-  color:var(--accent-color)
+  color: var(--accent-color);
+  font-weight: 700;
 }
 
 #tree-info-description-icons {
@@ -326,7 +328,7 @@ main h2 {
   background: var(--primary-background);
   border-radius: 4px;
   padding: 0.3rem 0.6rem;
-  font-weight: bold;
+  font-weight: 900;
   white-space: nowrap;
 }
 
@@ -608,7 +610,7 @@ body.add-to-order-open #add-to-order-overlay {
 }
 
 .arrow {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 #wholesale-price {
@@ -647,7 +649,7 @@ body.loggedIn #retail-price {
   gap: 2rem;
 }
 
-#more-information-heading{
+#more-information-heading {
   text-transform: uppercase;
 }
 
