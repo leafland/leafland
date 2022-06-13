@@ -482,7 +482,7 @@ body.lightbox-open #image-lightbox {
   justify-self: end;
 }
 
-#add-to-order-button-div {
+/* #add-to-order-button-div {
   display: grid;
   width: 100%;
   position: fixed;
@@ -498,14 +498,14 @@ body.lightbox-open #image-lightbox {
 
 #add-to-order-button {
   border-color: var(--primary-text);
-  /* border-top: solid 2px var(--secondary-background); */
+  border-top: solid 2px var(--secondary-background);
   font-size: var(--font-size-5);
   width: 100%;
   color: var(--primary-text);
   max-width: 800px;
-}
+} */
 
-#add-to-order-overlay {
+/* #add-to-order-overlay {
   opacity: 0;
   visibility: hidden;
   z-index: -1;
@@ -536,7 +536,7 @@ body.add-to-order-open #add-to-order-overlay {
   border-color: var(--primary-text);
   align-self: center;
   justify-self: end;
-}
+} */
 
 #tree-info {
   display: grid;
@@ -920,14 +920,14 @@ details b {
     cursor: pointer;
   }
 
-  #close-add-to-order:hover {
+  /* #close-add-to-order:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
-  #add-to-order-button:hover {
+  } */
+  /* #add-to-order-button:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
+  } */
   .selection-box:hover {
     cursor: pointer;
     background: var(--primary-text);

@@ -102,7 +102,6 @@
 }
 
 .order-product p.order-botanical-name {
-  font-size: var(--font-size-4);
   line-height: 1.2;
   font-weight: 900;
 }
