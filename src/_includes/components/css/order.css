@@ -185,7 +185,7 @@
   opacity: 0;
 }
 
-.info-pill {
+/* .info-pill {
   font-size: var(--font-size-1);
   background: var(--primary-text);
   color: var(--secondary-background);
@@ -193,7 +193,7 @@
   font-weight: bold;
   padding: 0.3rem 0.6rem;
   white-space: nowrap;
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   #submit-order:hover,

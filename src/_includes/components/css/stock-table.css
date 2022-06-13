@@ -15,7 +15,7 @@
   flex-direction: column;
   gap: 2rem;
   padding: 1rem;
-  overflow-y: auto
+  overflow-y: auto;
 }
 
 body.stock-table-open #stock-table {
@@ -30,79 +30,80 @@ body.stock-table-open #stock-table {
   align-self: end;
 }
 
-#open-stock-table{
+#open-stock-table {
   border-color: var(--primary-text);
-  margin-bottom: 2rem
+  margin-bottom: 2rem;
 }
 
 #stock-table-div {
-    overflow: auto;
-    width: 100%;
-    border: 2px solid var(--primary-text);
-    /* background: var(--secondary-background); */
-    border-radius: 8px;
-    height:100%;
-    min-height: 30rem
-  }
-  
-  #stock-table-tree-name{
-    /* text-transform: uppercase; */
-    font-weight: bold;
-    font-size: var(--font-size-4)
-  }
+  overflow: auto;
+  width: 100%;
+  border: 2px solid var(--primary-text);
+  /* background: var(--secondary-background); */
+  border-radius: 8px;
+  height: 100%;
+  min-height: 30rem;
+}
 
-  #stock-table table {
-    border-spacing: 0px;
-    width: 100%;
-  }
-  
-  #stock-table th {
-    text-align: center;
-    padding: 0.5rem 1rem;
-    border-bottom: 2px solid var(--primary-text);
-    white-space: break-spaces;
-    word-break: keep-all;
-  }
-  
-  #stock-table tr:first-child th:first-child {
-    border-top-left-radius: 8px;
-  }
-  
-  #stock-table tr:first-child th:last-child {
-    border-top-right-radius: 8px;
-  }
-  
-  #stock-table tr:last-child td:first-child {
-    border-bottom-left-radius: 8px;
-  }
-  
-  #stock-table tr:last-child td:last-child {
-    border-bottom-right-radius: 8px;
-  }
-  
-  #stock-table tr:nth-child(even):not(tr:first-child) {
-    background: var(--secondary-background);
-  }
-  #stock-table tr:nth-child(odd):not(tr:first-child) {
-    background: var(--surface1-light);
-  }
-  
-  #stock-table tr:first-child {
-    height: 5rem;
-    position: sticky;
-    top: 0;
-    background: var(--primary-background);
-  }
-  
-  #stock-table tr:not(tr:first-child) {
-    height: 4rem;
-  }
-  
-  #stock-table tr td {
-    text-align: center;
-  }
-  
-  /* #stock-table tr td:nth-child(1),
+#stock-table-tree-name {
+  /* text-transform: uppercase; */
+  font-weight: bold;
+  font-size: var(--font-size-4);
+}
+
+#stock-table table {
+  border-spacing: 0px;
+  width: 100%;
+}
+
+#stock-table th {
+  text-align: center;
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid var(--primary-text);
+  white-space: break-spaces;
+  word-break: keep-all;
+  font-weight: 900;
+}
+
+#stock-table tr:first-child th:first-child {
+  border-top-left-radius: 8px;
+}
+
+#stock-table tr:first-child th:last-child {
+  border-top-right-radius: 8px;
+}
+
+#stock-table tr:last-child td:first-child {
+  border-bottom-left-radius: 8px;
+}
+
+#stock-table tr:last-child td:last-child {
+  border-bottom-right-radius: 8px;
+}
+
+#stock-table tr:nth-child(even):not(tr:first-child) {
+  background: var(--secondary-background);
+}
+#stock-table tr:nth-child(odd):not(tr:first-child) {
+  background: var(--surface1-light);
+}
+
+#stock-table tr:first-child {
+  height: 5rem;
+  position: sticky;
+  top: 0;
+  background: var(--primary-background);
+}
+
+#stock-table tr:not(tr:first-child) {
+  height: 4rem;
+}
+
+#stock-table tr td {
+  text-align: center;
+}
+
+/* #stock-table tr td:nth-child(1),
   #stock-table tr td:nth-child(2) {
     text-align: left;
   }
@@ -112,27 +113,27 @@ body.stock-table-open #stock-table {
     text-align: left;
     min-width: 15rem;
   } */
-  
-  #stock-table td {
-    padding: 0.5rem 1rem;
-    font-weight: bold;
-    /* min-width: 5rem;
+
+#stock-table td {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  /* min-width: 5rem;
     max-width: 5rem; */
-  }
+}
 
-  #info-section{
-    display: grid;
-    gap: 1rem
-  }
+#info-section {
+  display: grid;
+  gap: 1rem;
+}
 
-  #info-section p{
-    font-size: var(--font-size-2)
-  }
+#info-section p {
+  font-size: var(--font-size-2);
+}
 
-  @media (hover: hover) and (pointer: fine) {
-    button#open-stock-table:hover,
-    button#stock-table-close:hover {
-      background: var(--primary-text);
-      color: var(--secondary-background);
-    }
+@media (hover: hover) and (pointer: fine) {
+  button#open-stock-table:hover,
+  button#stock-table-close:hover {
+    background: var(--primary-text);
+    color: var(--secondary-background);
   }
+}

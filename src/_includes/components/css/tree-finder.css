@@ -157,6 +157,7 @@ select[multiple] {
 main label {
   display: inline-block;
   text-transform: none;
+  font-weight: 700;
 }
 
 footer label {
@@ -178,17 +179,17 @@ details > summary {
   display: grid;
   grid-template-columns: 1fr auto;
   align-items: center;
-  font-weight: bold;
+  font-weight: 900;
   text-transform: uppercase;
   background: var(--secondary-background);
   padding: 1rem;
   border-radius: 8px;
 }
 
-summary .info-pill {
+/* summary .info-pill {
   margin-left: 0.5rem;
   padding: 0.2rem 0.4rem;
-}
+} */
 
 #filter svg {
   height: 20px;

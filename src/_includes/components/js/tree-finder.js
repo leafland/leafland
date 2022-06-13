@@ -535,25 +535,19 @@ async function populatePage(
           } else if (treeDataSubset[i].subspecies !== "") {
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i> '${treeDataSubset[i].cultivar}'`;
           } else if (treeDataSubset[i].hybrid !== "") {
-
-            if(treeDataSubset[i].hybrid.search(' x ') !== -1){
-
-              let text = treeDataSubset[i].hybrid.split(' x ')
-          let newText = text.join('</i> x <i>')
+            if (treeDataSubset[i].hybrid.search(" x ") !== -1) {
+              let text = treeDataSubset[i].hybrid.split(" x ");
+              let newText = text.join("</i> x <i>");
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i> '${treeDataSubset[i].cultivar}'`;
-            }
-            else{
+            } else {
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i> '${treeDataSubset[i].cultivar}'`;
             }
           } else {
-
-            if(treeDataSubset[i].species !== ""){
+            if (treeDataSubset[i].species !== "") {
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> '${treeDataSubset[i].cultivar}'`;
-            }
-            else{
+            } else {
               treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> '${treeDataSubset[i].cultivar}'`;
             }
-
           }
         } else if (treeDataSubset[i].form !== "") {
           treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> f. <i>${treeDataSubset[i].form}</i>`;
@@ -562,13 +556,11 @@ async function populatePage(
         } else if (treeDataSubset[i].subspecies !== "") {
           treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${treeDataSubset[i].species}</i> subsp. <i>${treeDataSubset[i].subspecies}</i>`;
         } else if (treeDataSubset[i].hybrid !== "") {
-
-          if(treeDataSubset[i].hybrid.search(' x ') !== -1){
-            let text = treeDataSubset[i].hybrid.split(' x ')
-          let newText = text.join('</i> x <i>')
+          if (treeDataSubset[i].hybrid.search(" x ") !== -1) {
+            let text = treeDataSubset[i].hybrid.split(" x ");
+            let newText = text.join("</i> x <i>");
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> <i>${newText}</i>`;
-          }
-          else{
+          } else {
             treeTitle.innerHTML = `<i>${treeDataSubset[i].genus}</i> x <i>${treeDataSubset[i].hybrid}</i>`;
           }
         } else {

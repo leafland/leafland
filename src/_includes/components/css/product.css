@@ -176,7 +176,7 @@ main h2 {
 #stock-values p {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.5rem;
   font-weight: bold;
 }
 
@@ -745,14 +745,14 @@ body.loggedIn #retail-price {
   align-items: center;
 }
 
-.info-pill {
+/* .info-pill {
   font-size: var(--font-size-2);
   background: var(--primary-text);
   color: var(--secondary-background);
   border-radius: 8px;
   font-weight: bold;
   padding: 0.3rem 0.6rem;
-}
+} */
 
 #add-product {
   border-color: var(--primary-text);
