@@ -117,6 +117,10 @@ main h3 {
   font-weight: 900;
 }
 
+.form-tree p.botanical-name a {
+  font-size: var(--font-size-4);
+}
+
 .tree-info {
   display: flex;
   gap: 1rem;
@@ -203,6 +207,10 @@ main label {
 .checkbox-field label a,
 .freight-message {
   font-size: var(--font-size-3);
+}
+
+.freight-message {
+  font-weight: 600;
 }
 
 .send-order {
