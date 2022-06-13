@@ -269,6 +269,7 @@ main p a {
 
 i {
   font-synthesis: none;
+  font-variation-settings: "ital" 1;
 }
 
 h1,
