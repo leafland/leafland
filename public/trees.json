@@ -8739,11 +8739,21 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Podocarpus",
+        "species": "mannii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "São Tomé Yellowwood",
     "url": "afrocarpus-mannii-sao-tome-yellowwood",
     "mainImage": "afrocarpus-mannii-sao-tome-yellowwood/afrocarpus-mannii-sao-tome-yellowwood.jpg",
-    "description": "Formerly known as Podocarpus mannii. A dense-growing tree which trims well as a hedge. Long leaves are fresh-green when young. Quick, vigorous grower.",
+    "description": " A dense-growing tree which trims well as a hedge. Long leaves are fresh-green when young. Quick, vigorous grower.",
     "uses": "hedging-and-screening",
     "tolerates": "",
     "soilType": "",
