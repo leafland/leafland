@@ -1,10 +1,21 @@
 @font-face {
   font-display: swap;
   font-family: Inter;
-  font-style: oblique 0deg 20deg;
+  font-style: normal;
   font-weight: 1 999;
-  src: url(/public/assets/fonts/Inter.woff2) format("woff2 supports variations"),
-    url(/public/assets/fonts/Inter.woff2) format("woff2-variations");
+  src: url(/public/assets/fonts/Inter-roman.woff2)
+      format("woff2 supports variations"),
+    url(/public/assets/fonts/Inter-roman.woff2) format("woff2-variations");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Inter;
+  font-style: italic;
+  font-weight: 1 999;
+  src: url(/public/assets/fonts/Inter-italic.woff2)
+      format("woff2 supports variations"),
+    url(/public/assets/fonts/Inter-italic.woff2) format("woff2-variations");
 }
 
 /* RESET */
