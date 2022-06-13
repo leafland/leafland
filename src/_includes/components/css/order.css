@@ -152,7 +152,7 @@
 
 #order-overlay-total {
   margin: 0 auto;
-  font-weight: bold;
+  font-weight: 700;
   margin-top: 5rem;
   text-align: center;
   display: flex;
@@ -190,7 +190,7 @@
   background: var(--primary-text);
   color: var(--secondary-background);
   border-radius: 8px;
-  font-weight: bold;
+  font-weight: 700;
   padding: 0.3rem 0.6rem;
   white-space: nowrap;
 } */

@@ -48,7 +48,7 @@ body.search-loaded #search-results {
   padding: 0;
   justify-self: start;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 #search-results img {

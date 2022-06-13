@@ -90,7 +90,7 @@ main h2 {
 .grade-select-grid-div p {
   text-transform: uppercase;
   font-size: var(--font-size-3);
-  font-weight: bold;
+  font-weight: 900;
 }
 
 .selection-grid {
@@ -103,14 +103,14 @@ main h2 {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .selection-box-disabled {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
-  font-weight: bold;
+  font-weight: 700;
   opacity: 0.5;
 }
 
@@ -177,7 +177,7 @@ main h2 {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .stock-value {
@@ -202,7 +202,7 @@ main h2 {
 
 .stock-value-title {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 900;
 }
 
 #grid-content {
@@ -605,7 +605,7 @@ body.add-to-order-open #add-to-order-overlay {
 
 #width-span,
 #height-span {
-  font-weight: bold;
+  font-weight: 700;
   font-size: var(--font-size-2);
 }
 
@@ -737,7 +737,7 @@ body.loggedIn #retail-price {
 
 #coming-on {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
   margin-top: 4rem;
   display: flex;
   flex-wrap: wrap;
@@ -750,7 +750,7 @@ body.loggedIn #retail-price {
   background: var(--primary-text);
   color: var(--secondary-background);
   border-radius: 8px;
-  font-weight: bold;
+  font-weight: 700;
   padding: 0.3rem 0.6rem;
 } */
 
@@ -777,7 +777,7 @@ details > summary {
   display: flex;
   align-items: center;
   gap: 1rem;
-  font-weight: bold;
+  font-weight: 700;
   text-transform: uppercase;
   background: var(--secondary-background);
   margin-bottom: 2rem;
@@ -825,22 +825,22 @@ details b {
 
 .tree-information-table-heading {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 900;
 }
 
-.block-title {
+/* .block-title {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
   font-size: var(--font-size-5);
   margin-bottom: 3rem;
 }
 
 .block-title-less-margin {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
   font-size: var(--font-size-5);
   margin-bottom: 2rem;
-}
+} */
 
 /* #quantity-field, #wholesale-price, #retail-price{
   visibility: hidden;

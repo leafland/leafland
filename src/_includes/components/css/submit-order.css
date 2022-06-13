@@ -46,7 +46,7 @@ main textarea {
 }
 
 #form-trees {
-  font-weight: bold;
+  font-weight: 700;
   /* text-transform: uppercase; */
   display: grid;
   grid-gap: 1rem;
@@ -152,7 +152,7 @@ main label {
   background: var(--secondary-background);
   padding: 2rem;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
   border-radius: 8px;
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -234,7 +234,7 @@ details > summary {
   display: flex;
   align-items: center;
   gap: 1rem;
-  font-weight: bold;
+  font-weight: 700;
   text-transform: uppercase;
   width: 100%;
   max-width: 300px;

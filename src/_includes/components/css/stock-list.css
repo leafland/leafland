@@ -90,14 +90,14 @@ th:nth-child(2) {
 
 td {
   padding: 0.5rem 1rem;
-  font-weight: bold;
+  font-weight: 700;
   min-width: 5rem;
   max-width: 5rem;
 }
 
 .message {
   text-align: center;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .search-section {
@@ -141,7 +141,7 @@ input[type="text"].search {
 #result-totals {
   margin-top: 1rem;
   margin-bottom: 2rem;
-  font-weight: bold;
+  font-weight: 700;
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 1rem;
