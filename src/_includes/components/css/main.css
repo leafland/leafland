@@ -262,8 +262,8 @@ main {
 }
 
 p.paragraph-title {
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: 600;
+  text-transform: none;
 }
 
 main p a {
