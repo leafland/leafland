@@ -2,9 +2,9 @@ main {
   margin-top: 5rem;
 }
 
-h1{
+/* h1 {
   text-transform: uppercase;
-}
+} */
 
 #content {
   max-width: 80rem;
@@ -63,6 +63,7 @@ h1{
   color: var(--secondary-background);
   text-align: left;
   font-size: var(--font-size-4);
+  font-weight: 900;
 }
 
 .title-link-box h3 {

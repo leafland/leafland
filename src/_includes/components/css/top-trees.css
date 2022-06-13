@@ -2,14 +2,14 @@ main {
   margin-top: 5rem;
 }
 
-h1{
+/* h1 {
   text-transform: uppercase;
-}
+} */
 
-#content{
-  max-width:80rem;
-  display:grid;
-  justify-self:center
+#content {
+  max-width: 80rem;
+  display: grid;
+  justify-self: center;
 }
 
 .tree-item {
@@ -50,6 +50,7 @@ h1{
   text-align: left;
   font-size: var(--font-size-4);
   color: var(--secondary-background);
+  font-weight: 900;
 }
 
 .title-link-box h3 {

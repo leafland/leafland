@@ -287,13 +287,14 @@ h1,
 h2,
 h3 {
   /* text-transform: uppercase; */
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.2;
   transition: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 }
 
 h1 {
   font-size: var(--font-size-7);
+  font-weight: 900;
 }
 
 h2 {
@@ -304,13 +305,17 @@ h3 {
   font-size: var(--font-size-5);
 }
 
+main h3 {
+  font-weight: 900;
+}
+
 p,
 a {
   font-size: var(--font-size-3);
 }
 
 p.bold-up {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 600;
 }
 
@@ -404,8 +409,8 @@ input {
 
 label {
   display: block;
-  text-transform: uppercase;
-  font-weight: bold;
+  /* text-transform: uppercase; */
+  font-weight: 900;
 }
 
 /* HEADER AND MENUS */
@@ -449,7 +454,7 @@ footer {
   /* padding: 1rem; */
 }
 footer p {
-  font-weight: 600;
+  font-weight: 900;
   text-transform: uppercase;
 }
 

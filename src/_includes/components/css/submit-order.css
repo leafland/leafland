@@ -2,10 +2,10 @@ main {
   margin-top: 5rem;
 }
 
-h1,
+/* h1,
 h3 {
   text-transform: uppercase;
-}
+} */
 
 #content {
   max-width: 80rem;
@@ -134,7 +134,6 @@ main h3 {
 
 main label {
   margin-bottom: 1rem;
-  font-weight: 600;
 }
 
 .checkbox-field {
@@ -168,6 +167,7 @@ main label {
   gap: 1rem;
   flex-wrap: wrap;
   align-items: center;
+  font-weight: 900;
 }
 
 #order-totals p .info-pill {
@@ -175,8 +175,16 @@ main label {
   white-space: normal;
 }
 
+#order-totals .accent-color {
+  font-weight: 700;
+}
+
 .region-select {
   margin-top: 3rem;
+}
+
+.region-select label {
+  font-weight: 600;
 }
 
 .region-select select {
