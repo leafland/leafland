@@ -1465,7 +1465,7 @@
 
 [[redirects]]
     force = true
-    from = "/trees/abies-concolor/"
+    from = "/trees/abies-concolor-white-fir/"
     status = 301
     to = "/trees/abies-concolor/"
 
@@ -1479,98 +1479,98 @@
 
 [[redirects]]
     force = true
-    from = "/trees/acacia-floribunda/"
+    from = "/trees/acacia-floribunda-gossamer-wattle-white-sallow-wattle/"
     status = 301
     to = "/trees/acacia-floribunda/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acacia-howittii/"
+    from = "/trees/acacia-howittii-sticky-wattle/"
     status = 301
     to = "/trees/acacia-howittii/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acacia-melanoxylon/"
+    from = "/trees/acacia-melanoxylon-blackwood/"
     status = 301
     to = "/trees/acacia-melanoxylon/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-buergerianum/"
+    from = "/trees/acer-buergerianum-trident-maple/"
     status = 301
     to = "/trees/acer-buergerianum/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-campbellii-gwavas/"
+    from = "/trees/acer-campbellii-gwavas-campbells-maple/"
     status = 301
     to = "/trees/acer-campbellii-gwavas/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-campestre/"
+    from = "/trees/acer-campestre-field-maple-hedge-maple/"
     status = 301
     to = "/trees/acer-campestre/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-capillipes/"
+    from = "/trees/acer-capillipes-snakebark-maple/"
     status = 301
     to = "/trees/acer-capillipes/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-cappadocicum-aureum/"
+    from = "/trees/acer-cappadocicum-aureum-cappadocian-maple/"
     status = 301
     to = "/trees/acer-cappadocicum-aureum/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-cappadocicum-rubrum/"
+    from = "/trees/acer-cappadocicum-rubrum-cappadocian-maple/"
     status = 301
     to = "/trees/acer-cappadocicum-rubrum/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-caudatifolium-summer-surprise/"
+    from = "/trees/acer-caudatifolium-summer-surprise-kawakami-maple-snakebark-maple/"
     status = 301
     to = "/trees/acer-caudatifolium-summer-surprise/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-davidii/"
+    from = "/trees/acer-davidii-snakebark-maple/"
     status = 301
     to = "/trees/acer-davidii/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-gracefield/"
+    from = "/trees/acer-gracefield-snakebark-maple/"
     status = 301
     to = "/trees/acer-gracefield/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-griseum/"
+    from = "/trees/acer-griseum-paperbark-maple/"
     status = 301
     to = "/trees/acer-griseum/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/acer-japonicum-vitifolium/"
+    from = "/trees/acer-japonicum-vitifolium-full-moon-maple/"
     status = 301
     to = "/trees/acer-japonicum-vitifolium/"
 
