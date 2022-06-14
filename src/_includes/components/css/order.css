@@ -48,6 +48,11 @@
   scrollbar-width: thin;
 }
 
+#order-content .empty-message {
+  font-size: var(--font-size-5);
+  font-weight: 900;
+}
+
 #order-inner h1 {
   /* text-transform: uppercase; */
   text-align: center;
