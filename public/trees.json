@@ -8823,7 +8823,15 @@
         "alt": "aesculus x neglecta erythroblastos buckeye caroline horse chestnut yellow leaves"
       }
     ],
-    "links": []
+    "links": [
+      "https://species.wikimedia.org/wiki/Aesculus_%C3%97_neglecta",
+      "https://treesandshrubsonline.org/articles/aesculus/aesculus-neglecta/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182125",
+      "https://www.rhs.org.uk/plants/99273/i-aesculus-i-times%3B-i-neglecta-i/details",
+      "https://www.rhs.org.uk/plants/90136/i-aesculus-i-times%3B-i-neglecta-i-erythroblastos/details",
+      "https://www.ebben.nl/nl/treeebb/aeneryth-aesculus-x-neglecta-erythroblastos",
+      "https://www.gardenia.net/plant/aesculus-neglecta-erythroblastos"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -8896,7 +8904,15 @@
         "alt": "aesculus turbinata japanese horse chestnut foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Aesculus_turbinata",
+      "https://species.wikimedia.org/wiki/Aesculus_turbinata",
+      "https://treesandshrubsonline.org/articles/aesculus/aesculus-turbinata/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506070",
+      "https://www.rhs.org.uk/plants/590/i-aesculus-turbinata-i/details",
+      "https://www.vdberk.co.uk/trees/aesculus-turbinata/",
+      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+turbinata"
+    ]
   },
   {
     "family": "Podocarpaceae",
@@ -8963,7 +8979,12 @@
         "alt": "afrocarpus mannii sao tome yellowwood foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Afrocarpus_mannii",
+      "https://species.wikimedia.org/wiki/Afrocarpus_mannii",
+      "https://www.rhs.org.uk/plants/185801/i-afrocarpus-mannii-i/details",
+      "https://tropical.theferns.info/viewtropical.php?id=Afrocarpus+mannii"
+    ]
   },
   {
     "family": "Araucariaceae",
@@ -9036,7 +9057,18 @@
         "alt": "agathis australis kauri street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Agathis_australis",
+      "https://species.wikimedia.org/wiki/Agathis_australis",
+      "https://treesandshrubsonline.org/articles/agathis/agathis-australis/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=183487",
+      "https://www.rhs.org.uk/plants/652/i-agathis-australis-i/details",
+      "https://landscapeplants.oregonstate.edu/node/2090",
+      "https://temperate.theferns.info/viewtropical.php?id=Agathis+australis",
+      "https://www.nzpcn.org.nz/flora/species/agathis-australis/",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/7f37cc9a-5b47-4bac-9646-e8fb2937716c",
+      "https://www.doc.govt.nz/nature/native-plants/kauri/"
+    ]
   },
   {
     "family": "Araucariaceae",
@@ -9123,7 +9155,14 @@
         "alt": "agathis robusta queensland kauri young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Agathis_robusta",
+      "https://species.wikimedia.org/wiki/Agathis_robusta",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506777",
+      "https://www.rhs.org.uk/plants/660/i-agathis-robusta-i/details",
+      "https://selectree.calpoly.edu/tree-detail/142",
+      "https://temperate.theferns.info/viewtropical.php?id=Agathis+robusta"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -9192,7 +9231,13 @@
         "alt": "agonis flexuosa willow myrtle peppermint tree wild"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Agonis_flexuosa",
+      "https://species.wikimedia.org/wiki/Agonis_flexuosa",
+      "https://www.rhs.org.uk/plants/712/i-agonis-flexuosa-i/details",
+      "https://plants.ces.ncsu.edu/plants/agonis-flexuosa/",
+      "https://selectree.calpoly.edu/tree-detail/143"
+    ]
   },
   {
     "family": "Fabaceae",
