@@ -1472,7 +1472,7 @@
 
 [[redirects]]
     force = true
-    from = "/trees/acacia-baileyana-purpurea/"
+    from = "/trees/acacia-baileyana-purpurea-cootamundra-wattle/"
     status = 301
     to = "/trees/acacia-baileyana-purpurea/"
 
@@ -1577,7 +1577,7 @@
 
 [[redirects]]
     force = true
-    from = "/trees/acer-monspessulanum/"
+    from = "/trees/acer-monspessulanum-montpelier-maple/"
     status = 301
     to = "/trees/acer-monspessulanum/"
 
