@@ -9322,7 +9322,22 @@
         "alt": "albizia julibrissin persian silk tree pink silk tree park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Albizia_julibrissin",
+      "https://species.wikimedia.org/wiki/Albizia_julibrissin",
+      "https://treesandshrubsonline.org/articles/albizia/albizia-julibrissin/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=26449",
+      "https://www.rhs.org.uk/plants/26447/albizia-julibrissin/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280416",
+      "https://www.vdberk.co.uk/trees/albizia-julibrissin/",
+      "https://plants.ces.ncsu.edu/plants/albizia-julibrissin/",
+      "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin",
+      "https://selectree.calpoly.edu/tree-detail/147",
+      "https://www.havlis.cz/karta_en.php?kytkaid=2571",
+      "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
+      "https://www.gardenia.net/plant/albizia-julibrissin",
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -9447,7 +9462,22 @@
         "alt": "albizia julibrissin red silk persian silk tree pink silk tree stunning flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Albizia_julibrissin",
+      "https://species.wikimedia.org/wiki/Albizia_julibrissin",
+      "https://treesandshrubsonline.org/articles/albizia/albizia-julibrissin/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=26449",
+      "https://www.rhs.org.uk/plants/26447/albizia-julibrissin/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280416",
+      "https://www.vdberk.co.uk/trees/albizia-julibrissin/",
+      "https://plants.ces.ncsu.edu/plants/albizia-julibrissin/",
+      "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin",
+      "https://selectree.calpoly.edu/tree-detail/147",
+      "https://www.havlis.cz/karta_en.php?kytkaid=2571",
+      "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
+      "https://www.gardenia.net/plant/albizia-julibrissin",
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -9458,7 +9488,26 @@
     "variety": "",
     "form": "",
     "cultivar": "Rosea",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Albizia",
+        "species": "julibrissin",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "rosea",
+        "cultivar": ""
+      },
+      {
+        "genus": "Albizia",
+        "species": "julibrissin",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "rosea",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Persian Silk Tree, Pink Silk Tree",
     "url": "albizia-julibrissin-rosea",
     "mainImage": "albizia-julibrissin-rosea-persian-silk-tree-pink-silk-tree/albizia-julibrissin-rosea-persian-silk-tree-pink-silk-tree.jpg",
@@ -9568,7 +9617,25 @@
         "alt": "albizia julibrissin rosea persian silk tree pink silk tree stunning flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Albizia_julibrissin",
+      "https://species.wikimedia.org/wiki/Albizia_julibrissin",
+      "https://treesandshrubsonline.org/articles/albizia/albizia-julibrissin/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=26449",
+      "https://www.rhs.org.uk/plants/26447/albizia-julibrissin/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280416",
+      "https://www.vdberk.co.uk/trees/albizia-julibrissin/",
+      "https://plants.ces.ncsu.edu/plants/albizia-julibrissin/",
+      "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin",
+      "https://selectree.calpoly.edu/tree-detail/147",
+      "https://www.havlis.cz/karta_en.php?kytkaid=2571",
+      "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
+      "https://www.gardenia.net/plant/albizia-julibrissin",
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin",
+      "https://www.rhs.org.uk/plants/206754/albizia-julibrissin-rosea/details",
+      "https://www.rhs.org.uk/plants/77621/i-albizia-julibrissin-i-f-i-rosea-i/details",
+      "https://www.gardenia.net/plant/albizia-julibrissin-rosea-pink-silk-tree"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -9625,20 +9692,42 @@
         "alt": "albizia julibrissin summer chocolate persian silk tree pink silk tree foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Albizia_julibrissin",
+      "https://species.wikimedia.org/wiki/Albizia_julibrissin",
+      "https://treesandshrubsonline.org/articles/albizia/albizia-julibrissin/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=26449",
+      "https://www.rhs.org.uk/plants/26447/albizia-julibrissin/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280416",
+      "https://www.vdberk.co.uk/trees/albizia-julibrissin/",
+      "https://plants.ces.ncsu.edu/plants/albizia-julibrissin/",
+      "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin",
+      "https://selectree.calpoly.edu/tree-detail/147",
+      "https://www.havlis.cz/karta_en.php?kytkaid=2571",
+      "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
+      "https://www.gardenia.net/plant/albizia-julibrissin",
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin",
+      "https://www.rhs.org.uk/plants/258154/i-albizia-julibrissin-i-summer-chocolate-sup-(pbr)-sup/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=293062",
+      "https://www.vdberk.co.uk/trees/albizia-julibrissin-summer-chocolate/",
+      "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin-summer-chocolate",
+      "https://www.havlis.cz/karta_en.php?kytkaid=765",
+      "https://www.ebben.nl/en/treeebb/aljschoc-albizia-julibrissin-summer-chocolate",
+      "https://www.gardenia.net/plant/albizia-julibrissin-summer-chocolate"
+    ]
   },
   {
     "family": "Sapindaceae",
     "genus": "Alectryon",
     "species": "excelsus",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "excelsus",
+    "subspecies": "excelsus",
+    "variety": "",
     "form": "",
     "cultivar": "",
     "synonyms": [],
     "commonName": "Tītoki, New Zealand Oak",
-    "url": "alectryon-excelsus-var-excelsus",
+    "url": "alectryon-excelsus-subsp-excelsus",
     "mainImage": "alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak.jpg",
     "description": "An upright-grower with a rounded head. New leaves are a mix of orange and rose-pink, maturing to glossy, olea-europaea-green, pinnate leaves. Shiny black seeds emerge from scarlet fruit during summer. Attractive to seed-eating birds. Tolerates light frosts once established. Great shade tree. Excellent street tree. Prefers moist, well-drained soils.",
     "uses": "street, attracts-birds, paddocks, shade, topiary",
@@ -9718,7 +9807,16 @@
         "alt": "alectryon excelsus var excelsus titoki new zealand oak topiary"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alectryon_excelsus",
+      "https://species.wikimedia.org/wiki/Alectryon_excelsus",
+      "https://treesandshrubsonline.org/articles/alectryon/alectryon-excelsus/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=837870",
+      "https://www.rhs.org.uk/plants/57155/i-alectryon-excelsus-i/details",
+      "https://selectree.calpoly.edu/tree-detail/1610",
+      "https://www.nzpcn.org.nz/flora/species/alectryon-excelsus-subsp-excelsus/",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9d91a079-15d1-4490-84fe-201b14738bbe"
+    ]
   },
   {
     "family": "Betulaceae",
