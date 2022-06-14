@@ -1,7 +1,7 @@
-main {
+/* main {
   padding: 0;
   margin-top: 0;
-}
+} */
 
 main .button {
   font-size: var(--font-size-4);
@@ -19,11 +19,28 @@ main h3 {
 
 #content {
   display: grid;
+  /* padding: 1rem; */
+  gap: 2rem;
+}
+#collapsing-content {
+  justify-self: center;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 80rem;
+  width: 100%;
 }
 
 #hero {
   display: grid;
-  height: 750px;
+  /* height: 750px; */
+  max-width: 80rem;
+  justify-self: center;
+  width: 100%;
+  background: var(--secondary-background);
+  border-radius: 8px;
+  padding: 2rem;
 }
 
 #hero > * {
@@ -32,15 +49,15 @@ main h3 {
 
 #surface-content {
   z-index: 2;
-  padding: 20px;
+  /* padding: 2rem; */
   display: grid;
-  place-content: center;
+  /* place-content: center; */
   gap: 3rem;
 }
 
 #link-block {
   text-align: center;
-  grid-row-start: 3;
+  /* grid-row-start: 3; */
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
@@ -51,7 +68,7 @@ main h3 {
 }
 
 #hero-images {
-  display: grid;
+  display: none;
   filter: brightness(0.8);
 }
 
@@ -76,37 +93,37 @@ main h3 {
 }
 
 #hero-text {
-  color: var(--inverse-text-color);
+  /* color: var(--inverse-text-color); */
   align-self: start;
-  grid-row-start: 2;
+  /* grid-row-start: 2; */
   /* animation: fadeInUp 1s 500ms forwards cubic-bezier(0.31,0.87,0.32,1) */
 }
 
 #hero-text h1 {
-  color: var(--secondary-background);
+  /* color: var(--secondary-background); */
   text-transform: uppercase;
   font-weight: 900;
 }
 
 #hero-text .subtitle {
   text-transform: uppercase;
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
   display: inline-block;
   color: var(--brand-color);
-  border-radius: 8px;
-  padding: 4px 8px;
+  /* border-radius: 8px; */
+  /* padding: 4px 8px; */
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  /* margin-bottom: 0.5rem; */
 }
 
 #hero .button {
-  color: var(--secondary-background);
-  border-color: var(--secondary-background);
+  /* color: var(--secondary-background);
+  border-color: var(--secondary-background); */
   text-align: left;
 }
 
 .split-section {
-  margin: 5rem 1rem;
+  /* margin: 5rem 0 5rem 0; */
   padding: 2rem;
   background: var(--secondary-background);
   border-radius: 8px;
@@ -115,10 +132,13 @@ main h3 {
   grid-gap: 3rem;
   align-items: center;
   justify-items: end;
+  width: 100%;
 }
 
 .split-section img {
+  max-height: 300px;
   max-width: 750px;
+  object-fit: cover;
   border-radius: 8px;
   justify-self: center;
 }
@@ -135,9 +155,13 @@ main h3 {
   max-width: 750px;
 }
 .banner-section {
-  min-height: 400px;
+  /* min-height: 400px; */
   display: grid;
-  padding: 1rem;
+  padding: 2rem;
+  background: var(--secondary-background);
+  width: 100%;
+  /* max-width: 80rem; */
+  border-radius: 8px;
 }
 .banner-section-inner {
   margin: auto;
@@ -147,7 +171,7 @@ main h3 {
 }
 
 .banner-section-inner .button {
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
   justify-self: center;
   border-color: var(--primary-text);
   background: none;
@@ -157,16 +181,20 @@ main h3 {
 .banner-section {
   justify-self: center;
   max-width: 80rem;
+  max-height: 40rem;
+  height: 100%;
+  width: 100%;
 }
 
-footer {
+/* footer {
   padding: 1rem;
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   div#hero .button:hover {
     background: var(--primary-text);
     border-color: var(--primary-text);
+    color: var(--secondary-background);
   }
 
   .banner-section-inner .button:hover {
@@ -179,29 +207,51 @@ footer {
   footer {
     padding-bottom: 2rem;
   }
-}
 
-@media (min-width: 900px) {
-  #hero-text .subtitle {
-    margin-bottom: 0;
+  .split-section {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media (min-width: 1000px) {
+/* @media (min-width: 1000px) {
   div#hero,
   .hero-image {
     height: 1000px;
   }
-}
+} */
 
 @media (min-width: 1200px) {
   .split-section {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
+    padding: 3rem;
+  }
+
+  .split-section:last-child {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+  }
+
+  .split-section:last-child .split-section-text {
+    justify-self: center;
+  }
+
+  .split-section:last-child img {
+    justify-self: center;
+  }
+
+  .banner-section,
+  #hero {
     padding: 3rem;
   }
 
   .split-section img,
   .split-section video {
     justify-self: end;
+  }
+
+  #collapsing-content {
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto;
   }
 }
