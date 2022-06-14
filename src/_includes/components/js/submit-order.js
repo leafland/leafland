@@ -392,6 +392,10 @@ submitForm.addEventListener("submit", (event) => {
 
     document.body.querySelector(
       "#content"
-    ).innerHTML = `<h1>Thanks for your order!</h1><p>From here, we will process your order and confirm we can supply the trees and grades you are after. We will also double-check the freight and let you know if there will be any extra costs (like a surcharge for rural addresses). Then we will send you an invoice that will have our bank details on for payment. We do not take payment via any sort of card.</p>`;
+    ).innerHTML = `<h1 style="margin-bottom:3rem">Thanks for your order!</h1><p style="margin-bottom:2rem">If we cannot supply the grades or quantities specified, we will confirm alternatives with you. We will also double-check the freight and if there will be any extra costs (like a surcharge for rural addresses) we will let you know before sending the order.</p>
+    
+    <p style="margin-bottom:2rem">We will send you an invoice that will have our bank details on for payment. We do not take payment via any sort of card. Once payment is received, the trees will be sent.</p>
+
+    <p>Please note that truck drivers will only unload trees within 5m of truck access.</p>`;
   })();
 });

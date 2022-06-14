@@ -11,6 +11,7 @@ h3 {
   max-width: 80rem;
   display: grid;
   justify-self: center;
+  width: 100%;
 }
 
 main input[type="text"],
