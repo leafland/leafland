@@ -478,6 +478,10 @@ footer p {
   border-radius: 8px;
 }
 
+#email-signup .paragraph-title {
+  font-weight: 700;
+}
+
 #email-signup input {
   width: 150px;
 }
