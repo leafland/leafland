@@ -567,6 +567,11 @@ body.add-to-order-open #add-to-order-overlay {
   /* margin-top: 5rem */
 }
 
+#tree-shape .paragraph-title {
+  font-weight: 900;
+  font-size: var(--font-size-2);
+}
+
 #tree-shape p {
   grid-row-start: 1;
   grid-column-start: 1;
@@ -605,12 +610,13 @@ body.add-to-order-open #add-to-order-overlay {
 
 #width-span,
 #height-span {
-  font-weight: 700;
+  font-weight: 900;
   font-size: var(--font-size-2);
 }
 
 .arrow {
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-weight: 900;
 }
 
 #wholesale-price {
@@ -858,8 +864,9 @@ details b {
 
 #features-table th {
   text-align: left;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   word-break: normal;
+  font-weight: 900;
 }
 
 #features-table td {
