@@ -107,15 +107,10 @@ window.addEventListener("loginUpdated", () => {
       .then((response) => response.json())
       .catch((error) => {});
 
-    if (treeCommonName.textContent !== "") {
-      document.querySelector(
-        "#tree-name-content"
-      ).innerHTML = `${treeBotanicalName.innerHTML} (${treeCommonName.textContent})`;
-    } else {
-      document.querySelector(
-        "#tree-name-content"
-      ).innerHTML = `${treeBotanicalName.innerHTML}`;
-    }
+    document.querySelector(
+      "#tree-name-content"
+    ).innerHTML = `${treeBotanicalName.innerHTML}`;
+
     await createStockTable();
   })();
 });
