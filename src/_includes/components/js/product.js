@@ -762,22 +762,22 @@ async function createStockTable() {
   let heading = [];
   if (document.body.classList.contains("loggedIn")) {
     heading = [
-      "GRADE",
-      "$RETAIL",
-      "$WHOLESALE",
-      "HEIGHT (m)",
-      "STANDARD HEIGHT (m)",
-      "READY",
-      "IN PRODUCTION",
+      "Grade",
+      "$Retail",
+      "$Wholesale",
+      "Height (m)",
+      "Standard Height (m)",
+      "Ready",
+      "In Production",
     ];
   } else {
     heading = [
-      "GRADE",
-      "$RETAIL",
-      "HEIGHT (m)",
-      "STANDARD HEIGHT (m)",
-      "READY",
-      "IN PRODUCTION",
+      "Grade",
+      "$Retail",
+      "Height (m)",
+      "Standard Height (m)",
+      "Ready",
+      "In Production",
     ];
   }
 

@@ -741,7 +741,7 @@ body.loggedIn #retail-price {
   font-size: var(--font-size-2);
 }
 
-#coming-on {
+/* #coming-on {
   text-transform: uppercase;
   font-weight: 700;
   margin-top: 4rem;
@@ -749,7 +749,7 @@ body.loggedIn #retail-price {
   flex-wrap: wrap;
   gap: 1rem;
   align-items: center;
-}
+} */
 
 /* .info-pill {
   font-size: var(--font-size-2);
@@ -764,14 +764,14 @@ body.loggedIn #retail-price {
   border-color: var(--primary-text);
 }
 
-#details-section {
+/* #details-section {
   margin-top: 5rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
-}
+} */
 
-details > summary:focus {
+/* details > summary:focus {
   outline: none;
 }
 
@@ -793,9 +793,9 @@ details > summary {
 
 summary > span {
   font-size: var(--font-size-3);
-}
+} */
 
-#order-block .right-icon {
+/* #order-block .right-icon {
   display: block;
   transition: transform 0.3s var(--default-animation-easing);
   width: 25px;
@@ -819,7 +819,7 @@ details p {
 
 details b {
   text-transform: uppercase;
-}
+} */
 
 #tree-information-table {
   border-radius: 8px;

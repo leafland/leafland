@@ -30,26 +30,26 @@ let heading = [];
 
 if (stockListType === "retail") {
   heading = [
-    "BOTANICAL NAME",
-    "COMMON NAME",
-    "GRADE",
-    "$RETAIL",
-    "HEIGHT (m)",
-    "STANDARD HEIGHT (m)",
-    "READY",
-    "IN PRODUCTION",
+    "Botanical Name",
+    "Common Name",
+    "Grade",
+    "$Retail",
+    "Height (m)",
+    "Standard Height (m)",
+    "Ready",
+    "In Production",
   ];
 } else {
   heading = [
-    "BOTANICAL NAME",
-    "COMMON NAME",
-    "GRADE",
-    "$RETAIL",
-    "$WHOLESALE",
-    "HEIGHT (m)",
-    "STANDARD HEIGHT (m)",
-    "READY",
-    "IN PRODUCTION",
+    "Botanical Name",
+    "Common Name",
+    "Grade",
+    "$Retail",
+    "$Wholesale",
+    "Height (m)",
+    "Standard Height (m)",
+    "Ready",
+    "In Production",
   ];
 }
 

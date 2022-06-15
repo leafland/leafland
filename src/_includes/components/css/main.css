@@ -459,7 +459,7 @@ footer {
 }
 footer p {
   font-weight: 900;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #footer-grid {
