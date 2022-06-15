@@ -1135,7 +1135,17 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-table-heading">Common Name(s):</span> {{ commonName }}</p>
+                        <p><span class="tree-information-table-heading">Common Name:</span> {{ commonName }}</p>
+
+                    </div>
+
+                    {% endif %}
+
+                    {% if otherCommonNames.size > 0 %}
+
+                    <div>
+
+                        <p><span class="tree-information-table-heading">Other Common Name(s):</span> {{ otherCommonNames }}</p>
 
                     </div>
 

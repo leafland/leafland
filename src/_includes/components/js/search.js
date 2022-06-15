@@ -104,27 +104,28 @@ async function search(terms) {
       }
 
       for (let j = 0; j < searchData[i].synonyms.length; j++) {
-        compareValue += `${searchData[i].synonyms[j].genus} ${searchData[i].synonyms[j].species} ${searchData[i].synonyms[j].hybrid} ${searchData[i].synonyms[j].subspecies} ${searchData[i].synonyms[j].variety} ${searchData[i].synonyms[j].form} ${searchData[i].synonyms[j].cultivar}`
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/\(/g, "")
-          .replace(/\)/g, "")
-          .replace(/,/g, " ")
-          .replace(/-/g, " ")
-          .replace(/-x-/g, " ")
-          // .replace(/\s/g, "")
-          .replace(/ã/g, "a")
-          .replace(/é/g, "e")
-          .replace(/ā/g, "a")
-          .replace(/ē/g, "e")
-          .replace(/ī/g, "i")
-          .replace(/ō/g, "o")
-          .replace(/ū/g, "u")
-          .toLowerCase();
+        compareValue +=
+          `${searchData[i].synonyms[j].genus} ${searchData[i].synonyms[j].species} ${searchData[i].synonyms[j].hybrid} ${searchData[i].synonyms[j].subspecies} ${searchData[i].synonyms[j].variety} ${searchData[i].synonyms[j].form} ${searchData[i].synonyms[j].cultivar}`
+            .replace(/'/g, "")
+            .replace(/"/g, "")
+            .replace(/\(/g, "")
+            .replace(/\)/g, "")
+            .replace(/,/g, " ")
+            .replace(/-/g, " ")
+            .replace(/-x-/g, " ")
+            // .replace(/\s/g, "")
+            .replace(/ã/g, "a")
+            .replace(/é/g, "e")
+            .replace(/ā/g, "a")
+            .replace(/ē/g, "e")
+            .replace(/ī/g, "i")
+            .replace(/ō/g, "o")
+            .replace(/ū/g, "u")
+            .toLowerCase();
       }
 
       compareValue +=
-        `${searchData[i].genus} ${searchData[i].species} ${searchData[i].hybrid} ${searchData[i].subspecies} ${searchData[i].variety} ${searchData[i].form} ${searchData[i].cultivar} ${searchData[i].commonName} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
+        `${searchData[i].genus} ${searchData[i].species} ${searchData[i].hybrid} ${searchData[i].subspecies} ${searchData[i].variety} ${searchData[i].form} ${searchData[i].cultivar} ${searchData[i].commonName} ${searchData[i].otherCommonNames} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
           .replace(/'/g, "")
           .replace(/"/g, "")
           .replace(/\(/g, "")
@@ -219,22 +220,17 @@ async function displayResults(results) {
       } else if (results[i].subspecies !== "") {
         resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i> '${results[i].cultivar}'`;
       } else if (results[i].hybrid !== "") {
-
-        if(results[i].hybrid.search(' x ') !== -1){
-
-          let text = results[i].hybrid.split(' x ')
-          let newText = text.join('</i> x <i>')
+        if (results[i].hybrid.search(" x ") !== -1) {
+          let text = results[i].hybrid.split(" x ");
+          let newText = text.join("</i> x <i>");
           resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i> '${results[i].cultivar}'`;
-        }
-        else{
+        } else {
           resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
         }
       } else {
-
-        if(results[i].species !== ""){
+        if (results[i].species !== "") {
           resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
-        }
-        else{
+        } else {
           resultTitle.innerHTML = `<i>${results[i].genus}</i> '${results[i].cultivar}'`;
         }
       }
@@ -245,13 +241,11 @@ async function displayResults(results) {
     } else if (results[i].subspecies !== "") {
       resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i>`;
     } else if (results[i].hybrid !== "") {
-      if(results[i].hybrid.search(' x ') !== -1){
-
-        let text = results[i].hybrid.split(' x ')
-          let newText = text.join('</i> x <i>')
+      if (results[i].hybrid.search(" x ") !== -1) {
+        let text = results[i].hybrid.split(" x ");
+        let newText = text.join("</i> x <i>");
         resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i>`;
-      }
-      else{
+      } else {
         resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;
       }
     } else {
