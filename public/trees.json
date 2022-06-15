@@ -10601,7 +10601,12 @@
         "alt": "amelanchier canadensis canadian serviceberry shadbush summer park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Amelanchier_canadensis",
+      "https://species.wikimedia.org/wiki/Amelanchier_canadensis",
+      "https://treesandshrubsonline.org/articles/amelanchier/amelanchier-canadensis/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25112"
+    ]
   },
   {
     "family": "Araucariaceae",
