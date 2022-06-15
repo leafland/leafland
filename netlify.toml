@@ -2241,13 +2241,6 @@
 
 [[redirects]]
     force = true
-    from = "/trees/alnus-glutinosa-subsp-barbata-black-alder/"
-    status = 301
-    to = "/trees/alnus-glutinosa-subsp-barbata/"
-
-
-[[redirects]]
-    force = true
     from = "/trees/alnus-incana-aurea-grey-alder/"
     status = 301
     to = "/trees/alnus-incana-aurea/"

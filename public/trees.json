@@ -9921,7 +9921,19 @@
         "alt": "alnus cordata italian alder catkins"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_cordata",
+      "https://species.wikimedia.org/wiki/Alnus_cordata",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-cordata/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=845148",
+      "https://www.rhs.org.uk/plants/894/i-alnus-cordata-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=243565",
+      "https://www.vdberk.co.uk/trees/alnus-cordata/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-cordata",
+      "https://selectree.calpoly.edu/tree-detail/150",
+      "https://www.ebben.nl/nl/treeebb/alcordat-alnus-cordata",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+cordata"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -9933,7 +9945,7 @@
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Black Alder",
+    "commonName": "Common Alder, Black Alder",
     "url": "alnus-glutinosa",
     "mainImage": "alnus-glutinosa-black-alder/alnus-glutinosa-black-alder.jpg",
     "description": "Pyramidal form. Will thrive in very wet areas. Also tolerates dry, infertile soils. Vigorous, quick-grower. Excellent as a shelter tree. Great for erosion control and stabilising river banks. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
@@ -10006,7 +10018,20 @@
         "alt": "alnus glutinosa black alder winter"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_glutinosa",
+      "https://species.wikimedia.org/wiki/Alnus_glutinosa",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-glutinosa/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19470",
+      "https://www.rhs.org.uk/plants/897/i-alnus-glutinosa-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277813",
+      "https://www.vdberk.co.uk/trees/alnus-glutinosa/",
+      "https://plants.ces.ncsu.edu/plants/alnus-glutinosa/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-glutinosa",
+      "https://selectree.calpoly.edu/tree-detail/151",
+      "https://www.ebben.nl/en/treeebb/alglutin-alnus-glutinosa",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+glutinosa"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -10018,7 +10043,7 @@
     "form": "",
     "cultivar": "Imperialis",
     "synonyms": [],
-    "commonName": "Black Alder",
+    "commonName": "Common Alder, Black Alder",
     "url": "alnus-glutinosa-imperialis",
     "mainImage": "alnus-glutinosa-imperialis-black-alder/alnus-glutinosa-imperialis-black-alder.jpg",
     "description": "Elegant tree with outspreading branches. Fine and deeply-cut, green leaves. Tolerant of wet soils. Looks great planted next to water. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
@@ -10063,7 +10088,25 @@
         "alt": "alnus glutinosa imperialis black alder foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_glutinosa",
+      "https://species.wikimedia.org/wiki/Alnus_glutinosa",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-glutinosa/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19470",
+      "https://www.rhs.org.uk/plants/897/i-alnus-glutinosa-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277813",
+      "https://www.vdberk.co.uk/trees/alnus-glutinosa/",
+      "https://plants.ces.ncsu.edu/plants/alnus-glutinosa/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-glutinosa",
+      "https://selectree.calpoly.edu/tree-detail/151",
+      "https://www.ebben.nl/en/treeebb/alglutin-alnus-glutinosa",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+glutinosa",
+      "https://www.rhs.org.uk/plants/99028/i-alnus-glutinosa-i-imperialis/details",
+      "https://www.vdberk.co.uk/trees/alnus-glutinosa-imperialis/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-glutinosa-imperialis",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1431",
+      "https://www.ebben.nl/en/treeebb/algimper-alnus-glutinosa-imperialis"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -10075,7 +10118,7 @@
     "form": "",
     "cultivar": "Laciniata",
     "synonyms": [],
-    "commonName": "Black Alder",
+    "commonName": "Common Alder, Black Alder",
     "url": "alnus-glutinosa-laciniata",
     "mainImage": "alnus-glutinosa-laciniata-black-alder/alnus-glutinosa-laciniata-black-alder.jpg",
     "description": "Conical-growing tree with finely-cut, green leaves. Tolerates wet and windy sites. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
@@ -10120,64 +10163,25 @@
         "alt": "alnus glutinosa laciniata black alder leaf"
       }
     ],
-    "links": []
-  },
-  {
-    "family": "Betulaceae",
-    "genus": "Alnus",
-    "species": "glutinosa",
-    "hybrid": "",
-    "subspecies": "barbata",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Black Alder",
-    "url": "alnus-glutinosa-subsp-barbata",
-    "mainImage": "alnus-glutinosa-subsp-barbata-black-alder/alnus-glutinosa-subsp-barbata-black-alder.jpg",
-    "description": "Vigorous and broadly-conical tree. A tree for wet and windy sites with timber and firewood uses. Yellow-green catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "10m",
-    "width": "5m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "yellow, green"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/alnus/alnus-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/alnus-glutinosa-subsp-barbata-black-alder/alnus-glutinosa-subsp-barbata-black-alder-leaf.jpg",
-        "alt": "alnus glutinosa subsp barbata black alder leaf"
-      }
-    ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_glutinosa",
+      "https://species.wikimedia.org/wiki/Alnus_glutinosa",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-glutinosa/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19470",
+      "https://www.rhs.org.uk/plants/897/i-alnus-glutinosa-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277813",
+      "https://www.vdberk.co.uk/trees/alnus-glutinosa/",
+      "https://plants.ces.ncsu.edu/plants/alnus-glutinosa/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-glutinosa",
+      "https://selectree.calpoly.edu/tree-detail/151",
+      "https://www.ebben.nl/en/treeebb/alglutin-alnus-glutinosa",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+glutinosa",
+      "https://www.rhs.org.uk/plants/80567/i-alnus-glutinosa-i-laciniata/details",
+      "https://www.vdberk.co.uk/trees/alnus-glutinosa-laciniata/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-glutinosa-laciniata",
+      "https://www.havlis.cz/karta_en.php?kytkaid=1306",
+      "https://www.ebben.nl/en/treeebb/alglacin-alnus-glutinosa-laciniata"
+    ]
   },
   {
     "family": "Betulaceae",
