@@ -101,12 +101,12 @@ main h3 {
 
 #hero-text h1 {
   /* color: var(--secondary-background); */
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 900;
 }
 
 #hero-text .subtitle {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   /* background: var(--secondary-background); */
   display: inline-block;
   color: var(--brand-color);
