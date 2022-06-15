@@ -10193,7 +10193,7 @@
     "form": "",
     "cultivar": "Aurea",
     "synonyms": [],
-    "commonName": "Grey Alder",
+    "commonName": "Grey Alder, Speckled Alder",
     "url": "alnus-incana-aurea",
     "mainImage": "alnus-incana-aurea-grey-alder/alnus-incana-aurea-grey-alder.jpg",
     "description": "A large, conical tree with yellow leaves in spring, maturing to yellow-green in summer before turning yellow in autumn. The young branches are orange-yellow, providing a spectacular show in winter. Red-pink catkins are a source of pollen for bees in early to mid-spring. Fixes nitrogen in the soil, so good for improving soil conditions for other plants.",
@@ -10238,7 +10238,21 @@
         "alt": "alnus incana aurea grey alder foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_incana",
+      "https://species.wikimedia.org/wiki/Alnus_incana",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-incana/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19471",
+      "https://www.rhs.org.uk/plants/901/i-alnus-incana-i/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277814",
+      "https://www.vdberk.co.uk/trees/alnus-incana/",
+      "https://selectree.calpoly.edu/tree-detail/1534",
+      "https://www.ebben.nl/en/treeebb/alincana-alnus-incana",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+incana",
+      "https://www.rhs.org.uk/plants/99331/i-alnus-incana-i-aurea/details",
+      "https://www.vdberk.co.uk/trees/alnus-incana-aurea/",
+      "https://www.ebben.nl/en/treeebb/aliaurea-alnus-incana-aurea"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -10249,7 +10263,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Alnus",
+        "species": "hirsuta",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "inokumae",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Alder",
     "url": "alnus-inokumae",
     "mainImage": "alnus-inokumae-alder/alnus-inokumae-alder.jpg",
@@ -10299,7 +10323,11 @@
         "alt": "alnus inokumae alder new growth"
       }
     ],
-    "links": []
+    "links": [
+      "https://species.wikimedia.org/wiki/Alnus_hirsuta",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-inokumae/",
+      "https://www.rhs.org.uk/plants/232646/i-alnus-inokumae-i/details"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -10376,7 +10404,13 @@
         "alt": "alnus jorullensis mexican alder evergreen alder shelter"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_jorullensis",
+      "https://species.wikimedia.org/wiki/Alnus_jorullensis",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-jorullensis/",
+      "https://www.rhs.org.uk/plants/26518/i-alnus-jorullensis-i/details",
+      "https://tropical.theferns.info/viewtropical.php?id=Alnus+jorullensis"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -10457,7 +10491,20 @@
         "alt": "alnus rubra red alder winter"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Alnus_rubra",
+      "https://species.wikimedia.org/wiki/Alnus_rubra",
+      "https://treesandshrubsonline.org/articles/alnus/alnus-rubra/",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19474",
+      "https://www.rhs.org.uk/plants/908/i-alnus-rubra-i/details",
+      "https://www.vdberk.co.uk/trees/alnus-rubra/",
+      "https://plants.ces.ncsu.edu/plants/alnus-rubra/",
+      "https://landscapeplants.oregonstate.edu/plants/alnus-rubra",
+      "https://selectree.calpoly.edu/tree-detail/153",
+      "https://www.ebben.nl/en/treeebb/alrubra-alnus-rubra",
+      "https://www.gardenia.net/plant/alnus-rubra",
+      "https://temperate.theferns.info/viewtropical.php?id=Alnus+rubra"
+    ]
   },
   {
     "family": "Rosaceae",
