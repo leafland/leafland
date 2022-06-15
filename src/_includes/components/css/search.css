@@ -5,6 +5,10 @@
   font-weight: 900;
 }
 
+input#search::placeholder {
+  text-transform: none;
+}
+
 #search:disabled {
   opacity: 0.7;
   cursor: default;
