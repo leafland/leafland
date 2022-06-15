@@ -57,6 +57,7 @@
   display: grid;
   width: 100%;
   padding: 1rem;
+  text-transform: none;
 }
 
 #main-menu-inner .button {
@@ -70,6 +71,11 @@
   align-items: center;
   grid-gap: 1rem;
   padding: 0;
+}
+
+#desktop-menu li a,
+#desktop-menu li button {
+  text-transform: none;
 }
 
 #desktop-menu .button,
