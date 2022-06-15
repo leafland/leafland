@@ -873,9 +873,9 @@ details b {
   min-width: 10rem;
 }
 
-#features-table tr:first-child {
+/* #features-table tr:first-child {
   height: 5rem;
-}
+} */
 
 #features-table tr:not(tr:first-child) {
   height: 4rem;
@@ -884,6 +884,10 @@ details b {
 #features-table th,
 #features-table td {
   padding: 0.5rem 1rem;
+}
+
+#features-table tr:first-child th {
+  padding: 0 1rem 2rem 1rem;
 }
 
 #features-table tr:not(tr:nth-child(1)) th {
