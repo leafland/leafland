@@ -257,6 +257,11 @@ details > summary {
   background: #443730;
 }
 
+p#no-products {
+  font-weight: 900;
+  font-size: var(--font-size-4);
+}
+
 @media (min-width: 650px) {
   .title-link-box {
     padding: 2rem;
