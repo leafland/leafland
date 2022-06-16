@@ -899,87 +899,183 @@ type: product
 
                     {% if tree.family.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.family.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Family:</span> {{ tree.family }}</p>
+                            <div>
 
-                    </div>
+                                <p><span class="tree-information-table-heading">Family:</span> <i>{{ tree.family }}</i>, {{tree.nameBreakdown.family}}</p>
+
+                            </div>
+
+                            {% else %}
+
+                            <div>
+
+                                <p><span class="tree-information-table-heading">Family:</span> <i>{{ tree.family }}</i></p>
+
+                            </div>
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.genus.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.genus.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Genus:</span> <i>{{ tree.genus }}</i></p>
+                            <div>
 
-                    </div>
+                                <p><span class="tree-information-table-heading">Genus:</span> <i>{{ tree.genus }}</i>, {{tree.nameBreakdown.genus}}</p>
+
+                            </div>
+
+                            {% else %}
+
+                            <div>
+
+                                <p><span class="tree-information-table-heading">Genus:</span> <i>{{ tree.genus }}</i></p>
+
+                            </div>
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.species.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.species.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></p>
+                            <div>
 
-                    </div>
+                                <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i>, {{tree.nameBreakdown.species}}</p>
+
+                            </div>
+
+                            {% else %}
+
+                            <div>
+
+                                <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></p>
+
+                            </div>
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.hybrid.size > 0 %}
 
-                    {% if tree.hybrid contains ' x ' %}
+                        {% if tree.hybrid contains ' x ' %}
 
-                    {% assign text = tree.hybrid | split: ' x ' %}
+                        {% assign text = tree.hybrid | split: ' x ' %}
 
-                    {% assign newText = text | join: '</i> x <i>' %}
+                        {% assign newText = text | join: '</i> x <i>' %}
 
-                    <div>
+                            {% if tree.nameBreakdown.hybrid.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i></p>
+                            <div>
 
-                    </div>
+                                <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i>, {{tree.nameBreakdown.hybrid}}</p>
 
-                    {% else %}
+                            </div>
 
-                    <div>
+                            {% else %}
 
-                        <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
+                            <div>
 
-                    </div>
+                                <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i></p>
 
-                    {% endif %}
+                            </div>
+
+                            {% endif %}
+
+                        {% else %}
+
+                            {% if tree.nameBreakdown.hybrid.size > 0 %}
+
+                                <div>
+
+                                    <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i>, {{tree.nameBreakdown.hybrid}}</p>
+
+                                </div>
+
+                                {% else %}
+
+                                <div>
+
+                                    <p><span class="tree-information-table-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
+
+                                </div>
+
+                            {% endif %}
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.subspecies.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.subspecies.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></p>
+                        <div>
 
-                    </div>
+                            <p><span class="tree-information-table-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i>, {{tree.nameBreakdown.subspecies}}</p>
+
+                        </div>
+
+                        {% else %}
+
+                        <div>
+
+                            <p><span class="tree-information-table-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></p>
+
+                        </div>
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.variety.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.variety.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></p>
+                        <div>
 
-                    </div>
+                            <p><span class="tree-information-table-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i>, {{tree.nameBreakdown.variety}}</p>
+
+                        </div>
+
+                        {% else %}
+
+                        <div>
+
+                            <p><span class="tree-information-table-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></p>
+
+                        </div>
+
+                        {% endif %}
 
                     {% endif %}
 
                     {% if tree.form.size > 0 %}
 
-                    <div>
+                        {% if tree.nameBreakdown.form.size > 0 %}
 
-                        <p><span class="tree-information-table-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></p>
+                        <div>
 
-                    </div>
+                            <p><span class="tree-information-table-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i>, {{tree.nameBreakdown.form}}</p>
+
+                        </div>
+
+                        {% else %}
+
+                        <div>
+
+                            <p><span class="tree-information-table-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></p>
+
+                        </div>
+
+                        {% endif %}
 
                     {% endif %}
 
@@ -1150,7 +1246,6 @@ type: product
                     </div>
 
                     {% endif %}
-
 
                     {% if description.size > 0 %}
 
