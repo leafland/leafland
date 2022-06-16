@@ -1843,7 +1843,7 @@
       {
         "genus": "Acer",
         "species": "negundo",
-        "hybrid": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
+        "hybrid": "",
         "subspecies": "",
         "variety": "",
         "form": "",
@@ -1855,10 +1855,10 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
-      "variety": "",
+      "variety": "violaceum (Latin), meaning 'violet', in reference to the colour of the stems.",
       "form": ""
     },
     "url": "acer-negundo-var-violaceum",
