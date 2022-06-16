@@ -34533,7 +34533,7 @@
     "otherCommonNames": "",
     "url": "juglans-nigra",
     "mainImage": "juglans-nigra-black-walnut/juglans-nigra-black-walnut.jpg",
-    "description": "A fast-growing tree with a tall, straight trunk and a wide, spreading head. Has dark-brown to black bark. Walnuts ripen in autumn. They are edible and have a desirable taste, but are much harder to extract than walnuts produced by Juglans regia. Self-fertile. The wood is highly-valued for commercial purposes such as furniture.",
+    "description": "A fast-growing tree with a tall, straight trunk and a wide, spreading head. Has dark-brown to black bark. Walnuts ripen in autumn. They are edible and have a desirable taste, but are much harder to extract than walnuts produced by <a href='/trees/juglans-regia/'><i>Juglans regia</i></a>. Self-fertile. The wood is highly-valued for commercial purposes such as furniture.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -34571,19 +34571,19 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-juglans-regia-foliage.jpg",
+        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-walnut-foliage.jpg",
         "alt": "juglans nigra black walnut foliage"
       },
       {
-        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-juglans-regia-group.jpg",
+        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-walnut-group.jpg",
         "alt": "juglans nigra black walnut group"
       },
       {
-        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-juglans-regia-nut.jpg",
+        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-walnut-nut.jpg",
         "alt": "juglans nigra black walnut nut"
       },
       {
-        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-juglans-regia-park.jpg",
+        "src": "images/trees/juglans-nigra-black-walnut/juglans-nigra-black-walnut-park.jpg",
         "alt": "juglans nigra black walnut park"
       }
     ],
@@ -45355,7 +45355,7 @@
     "otherCommonNames": "",
     "url": "malus-domestica-golden-delicious",
     "mainImage": "malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple.jpg",
-    "description": "A dessert cultivar and a good pollinator for other apple trees. Fruit is green-yellow, becoming yellow with age. Fruit is honeyed and very sweet when well-ripened. Apples ripen in late-autumn. Pink buds open to white flowers in spring. Self-fertile, but plant with Fuji, Gala, or Red Delicious for better crops.",
+    "description": "A dessert cultivar and a good pollinator for other apple trees. Fruit is green-yellow, becoming yellow with age. Fruit is honeyed and very sweet when well-ripened. Apples ripen in late-autumn. Pink buds open to white flowers in spring. Self-fertile, but plant with <a href='/trees/malus-domestica-fuji/'><i>Malus domestica</i> 'Fuji'</a>, <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a> for better crops.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -51340,7 +51340,7 @@
     "otherCommonNames": "",
     "url": "olea-europaea-ascolano",
     "mainImage": "olea-europaea-ascolano-olive/olea-europaea-ascolano-olive.jpg",
-    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Excellent street tree as no fruit without a pollinator. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
+    "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with Frantoio or Leccino. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
