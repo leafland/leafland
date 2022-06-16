@@ -13,7 +13,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs.",
-      "genus": "firs, a genus of various species of evergreen coniferous trees. The genus name is derived from the Latin 'to rise' (<i>abeo</i>) in reference to the height of its species.",
+      "genus": "firs, a genus of various species of evergreen coniferous trees. The genus name is derived from the Latin 'to rise' (<i>abeo</i>), in reference to the height of its species.",
       "species": "concolor (Latin), meaning 'to have uniform color throughout'.",
       "hybrid": "",
       "subspecies": "",
@@ -353,7 +353,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
       "genus": "wattles or acacias, a genus of various trees and shrubs.",
-      "species": "melanoxylon (Latin) lit., blackwood, from the Greek <i>melas</i> (black) and <i>xulon</i> (wood).",
+      "species": "melanoxylon (Latin) lit., blackwood, derived from the Greek <i>melas</i> (black) and <i>xulon</i> (wood).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -725,11 +725,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Snakebark Maple",
-    "otherCommonNames": "",
+    "otherCommonNames": "Hair-foot Maple, Hosoe-Kaede, Ashiboso-urinoki, Red Snakebark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "capillipes, derived from the Latin <i>capillus</i> (hair) and <i>pes</i> (foot), in reference to its thin flower and fruit stalks.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -818,7 +818,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "cappadocicum, meaning 'of Cappadocia', in reference to an ancient region that is now modern-day west central Turkey. Derived from the Latin <i>cappadoc</i> (of Cappadocia) and the Greek suffix <i>ikos</i> meaning 'belonging to, of, from'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -904,7 +904,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "cappadocicum, meaning 'of Cappadocia', in reference to an ancient region that is now modern-day west central Turkey. Derived from the Latin <i>cappadoc</i> (of Cappadocia) and the Greek suffix <i>ikos</i> meaning 'belonging to, of, from'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -996,13 +996,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Summer Surprise",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "kawakamii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Summer Surprise"
+      }
+    ],
     "commonName": "Kawakami Maple",
     "otherCommonNames": "Snakebark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "caudatifolium, derived from <i>caudate</i> (having a narrow, tail-like appendage or tip), which itself is derived from the Latin <i>caudatus</i> (having a tail, lengthened, extended, elongated), and <i>folium</i> (leaf), in reference to the narrow, tapering end of its leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1079,7 +1089,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "davidii (Latinised), in reference to the supposed discoverer, Armand David (1826 - 1900). The species was originally discovered by a Chinese person, but unfortunately their name has been lost to history. Armand David took credit for the species' discovery when he was a missionary in Central China.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1241,7 +1251,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "griseum (Latin), meaning 'grey', in reference to the silver-grey undersides of its leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1346,7 +1356,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1442,12 +1452,12 @@
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Montpelier Maple",
+    "commonName": "Montpellier Maple",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "monspessulanum, derived from <i>Monspessulanus</i>, which is the Latinised name of the French city of Montpellier.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1530,7 +1540,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1636,7 +1646,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1735,7 +1745,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "maples, a genus of various trees and shrubs.",
-      "species": "",
+      "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1833,7 +1843,7 @@
       {
         "genus": "Acer",
         "species": "negundo",
-        "hybrid": "",
+        "hybrid": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
         "subspecies": "",
         "variety": "",
         "form": "",
@@ -13919,7 +13929,7 @@
       "species": "",
       "hybrid": "",
       "subspecies": "",
-      "variety": "",
+      "variety": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "form": ""
     },
     "url": "betula-platyphylla-var-japonica",
@@ -15945,7 +15955,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16007,7 +16017,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16076,7 +16086,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16159,7 +16169,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16226,7 +16236,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16293,7 +16303,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16360,7 +16370,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18176,7 +18186,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19109,7 +19119,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19204,7 +19214,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27044,7 +27054,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27127,7 +27137,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29776,7 +29786,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29855,7 +29865,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -77278,7 +77288,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "japonicus (Latin), meaning 'Japanese, of or relating to Japan'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
