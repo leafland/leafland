@@ -4334,7 +4334,7 @@
 
 [[redirects]]
     force = true
-    from = "/trees/gardenia-professor-pucci/"
+    from = "/trees/gardenia-professor-pucci-gardenia/"
     status = 301
     to = "/trees/gardenia-professor-pucci/"
 
@@ -5090,14 +5090,14 @@
 
 [[redirects]]
     force = true
-    from = "/trees/macadamia-gt-205-macadamia/"
+    from = "/trees/macadamia-gt-205/"
     status = 301
     to = "/trees/macadamia-gt205/"
 
 
 [[redirects]]
     force = true
-    from = "/trees/macadamia-gt-207-macadamia/"
+    from = "/trees/macadamia-gt-207/"
     status = 301
     to = "/trees/macadamia-gt207/"
 
