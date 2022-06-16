@@ -11121,9 +11121,19 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Aristotelia",
+        "species": "racemosa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Makomako",
-    "otherCommonNames": "Wineberry",
+    "otherCommonNames": "Mako, Wineberry",
     "url": "aristotelia-serrata",
     "mainImage": "aristotelia-serrata-makomako-wineberry/aristotelia-serrata-makomako-wineberry.jpg",
     "description": "Cream to rose-pink flowers in spring followed by dark-red to purple-black berries in summer that attract native birds. The leaves sometimes have pink-red undersides. Tolerates light-frosts and can be semi-evergreen in colder climates.",
@@ -11188,7 +11198,15 @@
         "alt": "aristotelia serrata makomako wineberry pigeon"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Aristotelia_serrata",
+      "https://species.wikimedia.org/wiki/Aristotelia_serrata",
+      "https://treesandshrubsonline.org/articles/aristotelia/aristotelia-serrata/",
+      "https://www.rhs.org.uk/plants/20516/i-aristotelia-serrata-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Aristotelia+serrata",
+      "https://www.nzpcn.org.nz/flora/species/aristotelia-serrata/",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/cc8baf11-488f-499e-b06c-3da121d8b816"
+    ]
   },
   {
     "family": "Asteliaceae",
@@ -11199,7 +11217,17 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Astelia",
+        "species": "nervosa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "chathamica",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Kakaha",
     "otherCommonNames": "Silver Spear",
     "url": "astelia-chathamica",
@@ -11254,7 +11282,13 @@
         "alt": "astelia chathamica silver spear kakaha park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Astelia_chathamica",
+      "https://species.wikimedia.org/wiki/Astelia_chathamica",
+      "https://www.rhs.org.uk/plants/47428/i-astelia-chathamica-i/details",
+      "https://www.nzpcn.org.nz/flora/species/astelia-chathamica/",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/astelia-chathamica/"
+    ]
   },
   {
     "family": "Asteliaceae",
@@ -11267,7 +11301,7 @@
     "cultivar": "Westland",
     "synonyms": [],
     "commonName": "Kakaha",
-    "otherCommonNames": "Mountain Astelia",
+    "otherCommonNames": "Mountain Astelia, Bush Flax, Bush Lily",
     "url": "astelia-nervosa-westland",
     "mainImage": "astelia-nervosa-westland-mountain-astelia-kakaha/astelia-nervosa-westland-mountain-astelia-kakaha.jpg",
     "description": "Ornamental, clump-forming plant with broad, spiky, silver-green leaves overlaid with red-bronze. Easily grown in full sun or semi-shade. Will tolerate both moist and dry sites. Dramatic in group plantings. Excellent in containers.",
@@ -11316,7 +11350,15 @@
         "alt": "astelia nervosa westland mountain astelia kakaha garden"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Astelia_nervosa",
+      "https://species.wikimedia.org/wiki/Astelia_nervosa",
+      "https://www.rhs.org.uk/plants/1736/i-astelia-nervosa-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Astelia+nervosa",
+      "https://www.nzpcn.org.nz/flora/species/astelia-nervosa/",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/f0b3cc3d-dbfe-42bc-a25d-5e3624530988",
+      "https://www.rhs.org.uk/plants/169727/i-astelia-nervosa-i-westland/details"
+    ]
   },
   {
     "family": "",
