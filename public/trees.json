@@ -13,7 +13,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs.",
-      "genus": "firs, a genus of various species of evergreen coniferous trees. The genus name is derived from the Latin 'to rise' (<i>abeo</i>), in reference to the height of its species.",
+      "genus": "fir, a genus of various species of evergreen coniferous trees. The origin of the genus name is unclear but it is possibly derived from the Latin verb <i>abeo</i> (to depart), in reference to the great height attained by some species.",
       "species": "concolor (Latin), meaning 'to have uniform color throughout'.",
       "hybrid": "",
       "subspecies": "",
@@ -107,7 +107,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
-      "genus": "wattles or acacias, a genus of various trees and shrubs.",
+      "genus": "acacia (Latin), derived from the Greek <i>akakia</i>, a name given by the early Greek botanist-physician Pedanius Dioscorides, which, in turn, was derived from the Greek noun <i>akis</i>, meaning 'sharp, pointed object', in reference to the characteristic thorns on many species in this genus. Commonly known as wattle or acacia, a genus of various trees and shrubs.",
       "species": "baileyana (Latinised), honouring the botanist Frederick Manson Bailey (1827 - 1915).",
       "hybrid": "",
       "subspecies": "",
@@ -197,8 +197,8 @@
     "otherCommonNames": "White Sallow Wattle",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
-      "genus": "wattles or acacias, a genus of various trees and shrubs.",
-      "species": "floribunda (Latin), many-flowering or many-blooming.",
+      "genus": "acacia (Latin), derived from the Greek <i>akakia</i>, a name given by the early Greek botanist-physician Pedanius Dioscorides, which, in turn, was derived from the Greek noun <i>akis</i>, meaning 'sharp, pointed object', in reference to the characteristic thorns on many species in this genus. Commonly known as wattle or acacia, a genus of various trees and shrubs.",
+      "species": "floribunda (Latin, adjective), many-flowering, blooming, or blossoming.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -274,7 +274,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
-      "genus": "wattles or acacias, a genus of various trees and shrubs.",
+      "genus": "acacia (Latin), derived from the Greek <i>akakia</i>, a name given by the early Greek botanist-physician Pedanius Dioscorides, which, in turn, was derived from the Greek noun <i>akis</i>, meaning 'sharp, pointed object', in reference to the characteristic thorns on many species in this genus. Commonly known as wattle or acacia, a genus of various trees and shrubs.",
       "species": "howittii (Latinised), named for Alfred William Howitt (1830 - 1908).",
       "hybrid": "",
       "subspecies": "",
@@ -352,8 +352,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
-      "genus": "wattles or acacias, a genus of various trees and shrubs.",
-      "species": "melanoxylon (Latin) lit., blackwood, derived from the Greek <i>melas</i> (black) and <i>xulon</i> (wood).",
+      "genus": "acacia (Latin), derived from the Greek <i>akakia</i>, a name given by the early Greek botanist-physician Pedanius Dioscorides, which, in turn, was derived from the Greek noun <i>akis</i>, meaning 'sharp, pointed object', in reference to the characteristic thorns on many species in this genus. Commonly known as wattle or acacia, a genus of various trees and shrubs.",
+      "species": "melanoxylon (Latin, noun) lit., black wood, derived from the Greek adjective <i>melas</i> (black) and noun <i>xulon</i> (wood).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -465,7 +465,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "buergerianum (Latinised), named for J. Buerger (1804-1858).",
       "hybrid": "",
       "subspecies": "",
@@ -553,7 +553,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "campbellii (Latinised), named by Sir Joseph Hooker in 1875 for his friend, presumably with the surname Campbell.",
       "hybrid": "",
       "subspecies": "",
@@ -627,8 +627,8 @@
     "otherCommonNames": "Hedge Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
-      "species": "campestre (Latin), meaning 'plain-dwelling' or 'on an open plain/field'.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
+      "species": "campestre (Latin, adjective), meaning 'field, plain, level, flat', in reference to the species commonly being found growing on plains.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -728,7 +728,7 @@
     "otherCommonNames": "Hair-foot Maple, Hosoe-Kaede, Ashiboso-urinoki, Red Snakebark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "capillipes, derived from the Latin <i>capillus</i> (hair) and <i>pes</i> (foot), in reference to its thin flower and fruit stalks.",
       "hybrid": "",
       "subspecies": "",
@@ -817,7 +817,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "cappadocicum, meaning 'of Cappadocia', in reference to an ancient region that is now modern-day west central Turkey. Derived from the Latin <i>cappadoc</i> (of Cappadocia) and the Greek suffix <i>ikos</i> meaning 'belonging to, of, from'.",
       "hybrid": "",
       "subspecies": "",
@@ -903,7 +903,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "cappadocicum, meaning 'of Cappadocia', in reference to an ancient region that is now modern-day west central Turkey. Derived from the Latin <i>cappadoc</i> (of Cappadocia) and the Greek suffix <i>ikos</i> meaning 'belonging to, of, from'.",
       "hybrid": "",
       "subspecies": "",
@@ -1011,7 +1011,7 @@
     "otherCommonNames": "Snakebark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "caudatifolium, derived from <i>caudate</i> (having a narrow, tail-like appendage or tip), which itself is derived from the Latin <i>caudatus</i> (having a tail, lengthened, extended, elongated), and <i>folium</i> (leaf), in reference to the narrow, tapering end of its leaves.",
       "hybrid": "",
       "subspecies": "",
@@ -1088,7 +1088,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "davidii (Latinised), in reference to the supposed discoverer, Armand David (1826 - 1900). The species was originally discovered by a Chinese person, but unfortunately their name has been lost to history. Armand David took credit for the species' discovery when he was a missionary in Central China.",
       "hybrid": "",
       "subspecies": "",
@@ -1183,7 +1183,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -1250,7 +1250,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "griseum (Latin), meaning 'grey', in reference to the silver-grey undersides of its leaves.",
       "hybrid": "",
       "subspecies": "",
@@ -1355,8 +1355,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
-      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -1456,7 +1456,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "monspessulanum, derived from <i>Monspessulanus</i>, which is the Latinised name of the French city of Montpellier.",
       "hybrid": "",
       "subspecies": "",
@@ -1539,7 +1539,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -1645,7 +1645,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -1744,7 +1744,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -1854,7 +1854,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "negundo (Latin), derived from the Sanskrit name for <i>Vitex negundo</i>, <i>nirgundi</i>. <i>Vitex negundo</i> has similar leaves to <i>Acer negundo</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -1940,7 +1940,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2066,7 +2066,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2167,7 +2167,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2258,7 +2258,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2341,7 +2341,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2451,7 +2451,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2548,7 +2548,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2644,7 +2644,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2746,7 +2746,7 @@
     "otherCommonNames": "Coral Bark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2842,7 +2842,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -2930,7 +2930,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3028,7 +3028,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3134,7 +3134,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3231,7 +3231,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3324,7 +3324,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3461,7 +3461,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3565,7 +3565,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3664,7 +3664,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3815,7 +3815,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -3928,7 +3928,7 @@
     "otherCommonNames": "Coral Bark Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4039,7 +4039,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4142,7 +4142,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4237,7 +4237,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4348,7 +4348,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4446,7 +4446,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4553,7 +4553,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4650,7 +4650,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4759,7 +4759,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4865,7 +4865,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -4957,7 +4957,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5039,7 +5039,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5154,7 +5154,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5250,7 +5250,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5342,7 +5342,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5446,7 +5446,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5536,7 +5536,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5642,7 +5642,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5732,7 +5732,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5826,7 +5826,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -5920,7 +5920,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6027,7 +6027,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6113,7 +6113,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6207,7 +6207,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6305,7 +6305,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6402,7 +6402,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "palmatum (Latin), meaning 'hand-shaped'. A palmate leaf is one that has veins radiating out from a central point, resembling fingers pointing away from the palm.",
       "hybrid": "",
       "subspecies": "",
@@ -6498,7 +6498,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -6604,7 +6604,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -6686,7 +6686,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -6785,7 +6785,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -6885,7 +6885,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7035,7 +7035,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7145,7 +7145,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "platanoides (Latin), derived from the Latin <i>platan</i> (plane tree from the <i>Platanus</i> genus) and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to the plane tree (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7270,7 +7270,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "pseudoplatanus, derived from the Greek prefix <i>pseudo</i> (false) and the Latin <i>platanus</i> (plane tree), in reference to the superficial similarity of the species' leaves and bark to those of plane trees (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7380,7 +7380,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "pseudoplatanus, derived from the Greek prefix <i>pseudo</i> (false) and the Latin <i>platanus</i> (plane tree), in reference to the superficial similarity of the species' leaves and bark to those of plane trees (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7496,7 +7496,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "pseudoplatanus, derived from the Greek prefix <i>pseudo</i> (false) and the Latin <i>platanus</i> (plane tree), in reference to the superficial similarity of the species' leaves and bark to those of plane trees (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7597,7 +7597,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "pseudoplatanus, derived from the Greek prefix <i>pseudo</i> (false) and the Latin <i>platanus</i> (plane tree), in reference to the superficial similarity of the species' leaves and bark to those of plane trees (<i>Platanus</i>).",
       "hybrid": "",
       "subspecies": "",
@@ -7688,7 +7688,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -7832,7 +7832,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -7972,7 +7972,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8093,7 +8093,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8220,7 +8220,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8343,7 +8343,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8488,7 +8488,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8638,7 +8638,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8760,7 +8760,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "rubrum (Latin), meaning 'red', in reference to the colour of the species' flowers.",
       "hybrid": "",
       "subspecies": "",
@@ -8854,7 +8854,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "saccharinum (Latin), meaning 'sweet', in reference to the sweet sap it produces.",
       "hybrid": "",
       "subspecies": "",
@@ -8955,7 +8955,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "saccharum (Latin), meaning 'sugar', in reference to the sweet sap it produces. This species is one of the major sources of sap for making maple syrup.",
       "hybrid": "",
       "subspecies": "",
@@ -9056,7 +9056,7 @@
     "otherCommonNames": "Full Moon Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "shirasawanum (Latinised), named after Japanese botanist Yasuyoshi Shirasawa (1868 - 1947).",
       "hybrid": "",
       "subspecies": "",
@@ -9139,7 +9139,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "maples, a genus of various trees and shrubs.",
+      "genus": "acer (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
       "species": "tschonoskii (Latinised), named after Japanese botanist Sugawa Tschonoski (1842 - 1925).",
       "hybrid": "",
       "subspecies": "",
@@ -9635,7 +9635,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "buckeye and horse chestnut, a genus of various flowering trees and shrubs.",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9917,9 +9917,9 @@
     "commonName": "São Tomé Yellowwood",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
+      "genus": "a genus of several evergreen conifers that are native to Africa.",
+      "species": "mannii (Latinised), named after Georg Mann who collected the type specimen.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9973,7 +9973,8 @@
       "https://en.wikipedia.org/wiki/Afrocarpus_mannii",
       "https://species.wikimedia.org/wiki/Afrocarpus_mannii",
       "https://www.rhs.org.uk/plants/185801/i-afrocarpus-mannii-i/details",
-      "https://tropical.theferns.info/viewtropical.php?id=Afrocarpus+mannii"
+      "https://tropical.theferns.info/viewtropical.php?id=Afrocarpus+mannii",
+      "https://www.conifers.org/po/Afrocarpus_mannii.php"
     ]
   },
   {
@@ -9989,9 +9990,9 @@
     "commonName": "Kauri",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "araucarians, an ancient family of coniferous trees.",
+      "genus": "agathis (Greek), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
+      "species": "australis (Latin), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -10093,8 +10094,8 @@
     "commonName": "Queensland Kauri",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "araucarians, an ancient family of coniferous trees.",
+      "genus": "agathis (Greek), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -11789,7 +11790,7 @@
     "commonName": "Monkey Puzzle",
     "otherCommonNames": "Chilean Pine",
     "nameBreakdown": {
-      "family": "",
+      "family": "araucarians, an ancient family of coniferous trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -11901,7 +11902,7 @@
     "commonName": "Norfolk Island Pine",
     "otherCommonNames": "Star Pine, House Pine",
     "nameBreakdown": {
-      "family": "",
+      "family": "araucarians, an ancient family of coniferous trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -13929,7 +13930,7 @@
       "species": "",
       "hybrid": "",
       "subspecies": "",
-      "variety": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "variety": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "form": ""
     },
     "url": "betula-platyphylla-var-japonica",
@@ -15955,7 +15956,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16017,7 +16018,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16086,7 +16087,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16169,7 +16170,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16236,7 +16237,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16303,7 +16304,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -16370,7 +16371,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18186,7 +18187,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19043,7 +19044,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "",
-      "genus": "",
+      "genus": "australis (Latin), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -19119,7 +19120,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19214,7 +19215,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonicum (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22301,7 +22302,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "australis (Latin), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22380,7 +22381,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "australis (Latin), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27054,7 +27055,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27137,7 +27138,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29786,7 +29787,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29865,7 +29866,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonica (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -39800,7 +39801,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -39891,7 +39892,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -39992,7 +39993,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -40248,7 +40249,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -40347,7 +40348,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -40446,7 +40447,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -40517,7 +40518,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent'.",
+      "species": "indica (Latin), meaning 'Indian, of or relating to the Indian subcontinent', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -56864,7 +56865,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "australis (Latin), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -63224,7 +63225,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "gracilior",
     "hybrid": "",
@@ -63246,7 +63247,7 @@
     "commonName": "East African Yellowwood",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63325,7 +63326,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "henkelii",
     "hybrid": "",
@@ -63337,7 +63338,7 @@
     "commonName": "Henkel's Yellowwood",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63412,7 +63413,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "laetus",
     "hybrid": "",
@@ -63443,7 +63444,7 @@
     "commonName": "Hall's Tōtara",
     "otherCommonNames": "Mountain Tōtara",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63506,7 +63507,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "macrophyllus",
     "hybrid": "",
@@ -63518,7 +63519,7 @@
     "commonName": "Yew Pine",
     "otherCommonNames": "Fern Pine",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63589,7 +63590,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "macrophyllus",
     "hybrid": "",
@@ -63601,7 +63602,7 @@
     "commonName": "Yew Pine",
     "otherCommonNames": "Fern Pine",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63664,7 +63665,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "parlatorei",
     "hybrid": "",
@@ -63676,7 +63677,7 @@
     "commonName": "Parlatore's Podocarp",
     "otherCommonNames": "Pino del Cerro",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63735,7 +63736,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "totara",
     "hybrid": "",
@@ -63747,7 +63748,7 @@
     "commonName": "Tōtara",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63822,7 +63823,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "totara",
     "hybrid": "",
@@ -63834,7 +63835,7 @@
     "commonName": "Tōtara",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -63897,7 +63898,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Podocarpaceae",
     "genus": "Podocarpus",
     "species": "totara",
     "hybrid": "",
@@ -63909,7 +63910,7 @@
     "commonName": "Tōtara",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a large family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -77288,7 +77289,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "japonicus (Latin), meaning 'Japanese, of or relating to Japan'.",
+      "species": "japonicus (Latin), meaning 'Japanese, of or relating to Japan', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
