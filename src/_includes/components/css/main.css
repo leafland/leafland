@@ -448,6 +448,15 @@ header {
   height: 75px;
   width: auto;
 }
+
+#top-bar {
+  padding: 1rem;
+  text-align: center;
+  background: var(--primary-text);
+  color: var(--secondary-background);
+  font-weight: 700;
+}
+
 /* FOOTER */
 footer {
   margin-top: 10rem;
