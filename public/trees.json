@@ -10068,6 +10068,7 @@
       "https://temperate.theferns.info/viewtropical.php?id=Agathis+australis",
       "https://www.nzpcn.org.nz/flora/species/agathis-australis/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/7f37cc9a-5b47-4bac-9646-e8fb2937716c",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/4425e126-8013-472f-9f2c-886eb8438b10",
       "https://www.doc.govt.nz/nature/native-plants/kauri/"
     ]
   },
@@ -10886,7 +10887,8 @@
       "https://www.rhs.org.uk/plants/57155/i-alectryon-excelsus-i/details",
       "https://selectree.calpoly.edu/tree-detail/1610",
       "https://www.nzpcn.org.nz/flora/species/alectryon-excelsus-subsp-excelsus/",
-      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9d91a079-15d1-4490-84fe-201b14738bbe"
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9d91a079-15d1-4490-84fe-201b14738bbe",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/f366aed6-a5e4-44b6-b4bc-a71155dc94ec"
     ]
   },
   {
@@ -11904,7 +11906,7 @@
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
       "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered.",
-      "species": "heterophylla (Latin, adjective), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of the species.",
+      "species": "heterophylla (Latin, adjective), derived from the Greek adjective <i>heteros</i> (different) and noun <i>phullon</i> (leaf), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12217,9 +12219,9 @@
     "commonName": "Makomako",
     "otherCommonNames": "Mako, Wineberry",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering trees and shrubs.",
+      "genus": "aristotelia (Latinised), named in honour of the Greek philosopher and polymath, Aristotle.",
+      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12296,7 +12298,8 @@
       "https://www.rhs.org.uk/plants/20516/i-aristotelia-serrata-i/details",
       "https://temperate.theferns.info/viewtropical.php?id=Aristotelia+serrata",
       "https://www.nzpcn.org.nz/flora/species/aristotelia-serrata/",
-      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/cc8baf11-488f-499e-b06c-3da121d8b816"
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/cc8baf11-488f-499e-b06c-3da121d8b816",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/fb269d69-99c6-4eb3-ab35-b3dfc0f5285b"
     ]
   },
   {
@@ -12322,9 +12325,9 @@
     "commonName": "Kakaha",
     "otherCommonNames": "Silver Spear",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering plants.",
+      "genus": "astelia, derived from the Greek prefix <i>a</i> (makes the sense of a word opposite to the word to which it is attached) and noun <i>stele</i> (upright rock, pillar, column), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
+      "species": "chathamica (Latinised), meaning 'of or relating to the Chatham Islands', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12387,7 +12390,8 @@
       "https://species.wikimedia.org/wiki/Astelia_chathamica",
       "https://www.rhs.org.uk/plants/47428/i-astelia-chathamica-i/details",
       "https://www.nzpcn.org.nz/flora/species/astelia-chathamica/",
-      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/astelia-chathamica/"
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/astelia-chathamica/",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/a8f92150-62e0-406d-91b3-e33e88d4779a"
     ]
   },
   {
@@ -12403,9 +12407,9 @@
     "commonName": "Kakaha",
     "otherCommonNames": "Mountain Astelia, Bush Flax, Bush Lily",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering plants.",
+      "genus": "astelia, derived from the Greek prefix <i>a</i> (makes the sense of a word opposite to the word to which it is attached) and noun <i>stele</i> (upright rock, pillar, column), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
+      "species": "nervosa (Latin, adjective), meaning 'sinewy, nervous', in reference to the conspicuous veins on the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12466,11 +12470,12 @@
       "https://temperate.theferns.info/viewtropical.php?id=Astelia+nervosa",
       "https://www.nzpcn.org.nz/flora/species/astelia-nervosa/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/f0b3cc3d-dbfe-42bc-a25d-5e3624530988",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/d0e8a36a-0f28-4239-b67b-c8f557b7bc8a",
       "https://www.rhs.org.uk/plants/169727/i-astelia-nervosa-i-westland/details"
     ]
   },
   {
-    "family": "",
+    "family": "Salicaceae",
     "genus": "Azara",
     "species": "microphylla",
     "hybrid": "",
@@ -12482,9 +12487,9 @@
     "commonName": "Boxleaf Azara",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "willow family, a family of flowering trees and shrubs.",
+      "genus": "azara (Latinised), named after the Spanish military officer, naturalist, and engineer, Félix de Azara. Some sources claim the genus was actually named after his older brother, José Nicolás de Azara, a Spanish diplomat.",
+      "species": "microphylla (Latin, adjective), derived from the Greek adjective <i>mikros</i> (small) and noun <i>phullon</i> (leaf), meaning 'small leaves', in reference to the size of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -76428,7 +76433,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "chathamica (Latinised), meaning 'of or relating to the Chatham Islands', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -76791,7 +76796,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "microphylla (Latin, adjective), derived from the Greek adjective <i>mikros</i> (small) and noun <i>phullon</i> (leaf), meaning 'small leaves', in reference to the size of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80334,7 +80339,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80481,7 +80486,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
