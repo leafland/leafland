@@ -6114,14 +6114,26 @@
     force = true
     from = "/trees/metrosideros-maungapiko-pohutukawa-rata/"
     status = 301
-    to = "/trees/metrosideros-maungapiko/"
+    to = "/trees/metrosideros-excelsa-x-umbellata-maungapiko/"
+
+[[redirects]]
+    force = true
+    from = "/trees/metrosideros-maungapiko/"
+    status = 301
+    to = "/trees/metrosideros-excelsa-x-umbellata-maungapiko/"
 
 
 [[redirects]]
     force = true
     from = "/trees/metrosideros-mistral-pohutukawa-rata/"
     status = 301
-    to = "/trees/metrosideros-mistral/"
+    to = "/trees/metrosideros-x-sub-tomentosa-mistral/"
+
+[[redirects]]
+    force = true
+    from = "/trees/metrosideros-mistral/"
+    status = 301
+    to = "/trees/metrosideros-x-sub-tomentosa-mistral/"
 
 
 [[redirects]]
