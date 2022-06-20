@@ -10069,7 +10069,7 @@
       "https://www.nzpcn.org.nz/flora/species/agathis-australis/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/7f37cc9a-5b47-4bac-9646-e8fb2937716c",
       "https://biotanz.landcareresearch.co.nz/scientific-names/4425e126-8013-472f-9f2c-886eb8438b10",
-      "https://www.doc.govt.nz/nature/native-plants/kauri/"
+      "https://www.nzflora.info/factsheet/Taxon/Agathis-australis.html"
     ]
   },
   {
@@ -10888,7 +10888,8 @@
       "https://selectree.calpoly.edu/tree-detail/1610",
       "https://www.nzpcn.org.nz/flora/species/alectryon-excelsus-subsp-excelsus/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9d91a079-15d1-4490-84fe-201b14738bbe",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/f366aed6-a5e4-44b6-b4bc-a71155dc94ec"
+      "https://biotanz.landcareresearch.co.nz/scientific-names/f366aed6-a5e4-44b6-b4bc-a71155dc94ec",
+      "https://www.nzflora.info/factsheet/Taxon/Alectryon-excelsus.html"
     ]
   },
   {
@@ -12299,7 +12300,8 @@
       "https://temperate.theferns.info/viewtropical.php?id=Aristotelia+serrata",
       "https://www.nzpcn.org.nz/flora/species/aristotelia-serrata/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/cc8baf11-488f-499e-b06c-3da121d8b816",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/fb269d69-99c6-4eb3-ab35-b3dfc0f5285b"
+      "https://biotanz.landcareresearch.co.nz/scientific-names/fb269d69-99c6-4eb3-ab35-b3dfc0f5285b",
+      "https://www.nzflora.info/factsheet/Taxon/Aristotelia-serrata.html"
     ]
   },
   {
@@ -12391,7 +12393,8 @@
       "https://www.rhs.org.uk/plants/47428/i-astelia-chathamica-i/details",
       "https://www.nzpcn.org.nz/flora/species/astelia-chathamica/",
       "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/astelia-chathamica/",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/a8f92150-62e0-406d-91b3-e33e88d4779a"
+      "https://biotanz.landcareresearch.co.nz/scientific-names/a8f92150-62e0-406d-91b3-e33e88d4779a",
+      "https://www.nzflora.info/factsheet/Taxon/Astelia-chathamica.html"
     ]
   },
   {
@@ -12471,6 +12474,7 @@
       "https://www.nzpcn.org.nz/flora/species/astelia-nervosa/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/f0b3cc3d-dbfe-42bc-a25d-5e3624530988",
       "https://biotanz.landcareresearch.co.nz/scientific-names/d0e8a36a-0f28-4239-b67b-c8f557b7bc8a",
+      "https://www.nzflora.info/factsheet/Taxon/Astelia-nervosa.html",
       "https://www.rhs.org.uk/plants/169727/i-astelia-nervosa-i-westland/details"
     ]
   },
@@ -12575,7 +12579,7 @@
     ]
   },
   {
-    "family": "",
+    "family": "Proteaceae",
     "genus": "Banksia",
     "species": "integrifolia",
     "hybrid": "",
@@ -12587,9 +12591,9 @@
     "commonName": "Coastal Banksia",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering plants predominantly distributed in the Southern Hemisphere.",
+      "genus": "banksia (Latinised), named in honour of the English naturalist and botanist, Joseph Banks (1743 - 1820).",
+      "species": "integrifolia (Latin, adjective), derived from the Latin adjective <i>integer</i> (entire, whole, undivided) and noun <i>folium</i> (leaf), meaning 'entire leaves', in reference to the entire leaf margins and undivided leaves of the species that are not divided or serrated.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12674,7 +12678,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Lauraceae",
     "genus": "Beilschmiedia",
     "species": "tarairi",
     "hybrid": "",
@@ -12686,9 +12690,9 @@
     "commonName": "Taraire",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "laurel family, a family of flowering trees and shrubs. Many are aromatic and evergreen, but some are deciduous.",
+      "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848).",
+      "species": "tarairi (Latinised), derived from the Te Reo Māori noun <i>taraire</i>, the name of the species in Te Reo Māori.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12750,10 +12754,12 @@
         "alt": "beilschmiedia tarairi taraire new growth"
       }
     ],
-    "links": []
+    "links": [
+      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335"
+    ]
   },
   {
-    "family": "",
+    "family": "Lauraceae",
     "genus": "Beilschmiedia",
     "species": "tawa",
     "hybrid": "",
@@ -12765,9 +12771,9 @@
     "commonName": "Tawa",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "laurel family, a family of flowering trees and shrubs. Many are aromatic and evergreen, but some are deciduous.",
+      "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848).",
+      "species": "tawa (Latinised), derived from the Te Reo Māori noun <i>tawa</i>, the name of the species in Te Reo Māori.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12817,7 +12823,9 @@
         "alt": "beilschmiedia tawa tawa foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335"
+    ]
   },
   {
     "family": "",
