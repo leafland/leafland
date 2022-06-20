@@ -11474,8 +11474,8 @@
     "otherCommonNames": "Evergreen Alder",
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
-      "genus": "",
-      "species": "",
+      "genus": "alnus (Latin, noun), meaning 'alder'.",
+      "species": "jorullensis (Latinised), in reference to the report by Alexander von Humboldt, Aimé Bonpland, and Carl Sigismund Kunth (1817) that the original specimen of the species was collected from the volcano El Jorullo in Michoacán, Mexico.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11567,8 +11567,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
-      "genus": "",
-      "species": "",
+      "genus": "alnus (Latin, noun), meaning 'alder'.",
+      "species": "rubra (Latin, adjective), meaning 'red', in reference to the orange-red inner bark.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11670,9 +11670,9 @@
     "commonName": "Canadian Serviceberry",
     "otherCommonNames": "Shadbush",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
+      "genus": "amelanchier, derived from the French <i>amelanchier</i>, meaning 'serviceberry', in reference to <i>Amelanchier ovalis</i>.",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11791,8 +11791,8 @@
     "otherCommonNames": "Chilean Pine",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "",
-      "species": "",
+      "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered.",
+      "species": "araucana, derived from the native Araucanian Mapuche of Chile who used the nuts (seeds) of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11903,8 +11903,8 @@
     "otherCommonNames": "Star Pine, House Pine",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "",
-      "species": "",
+      "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered.",
+      "species": "heterophylla (Latin, adjective), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12009,9 +12009,9 @@
     "commonName": "Canary Madrona",
     "otherCommonNames": "Canary Madrone, Canary Islands Strawberry Tree",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
+      "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>.",
+      "species": "canariensis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12098,9 +12098,9 @@
     "commonName": "Strawberry Tree",
     "otherCommonNames": "Irish Strawberry Tree, Killarney Strawberry Tree, Cane Apple",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
+      "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>.",
+      "species": "unedo (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. There is a folk etymology of <i>unedo</i> by Pliny the Elder (AD 23/24 - 79) that it comes from the Latin numeral <i>unum</i> (one) and the verb <i>edo</i> (I eat), in supposed reference to the foul taste of the fruit so only one could be eaten at a time.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19318,7 +19318,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19465,7 +19465,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19548,7 +19548,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19631,7 +19631,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19706,7 +19706,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19785,7 +19785,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -50657,7 +50657,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -50728,7 +50728,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -50795,7 +50795,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -50862,7 +50862,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -50933,7 +50933,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51000,7 +51000,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51067,7 +51067,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51134,7 +51134,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51201,7 +51201,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51272,7 +51272,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51339,7 +51339,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51410,7 +51410,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51485,7 +51485,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51560,7 +51560,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51627,7 +51627,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51698,7 +51698,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -51765,7 +51765,7 @@
     "commonName": "Apple",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -64560,7 +64560,7 @@
     "commonName": "Apricot",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -64627,7 +64627,7 @@
     "commonName": "Apricot",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -64694,7 +64694,7 @@
     "commonName": "Apricot",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -64761,7 +64761,7 @@
     "commonName": "Apricot",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -66222,7 +66222,7 @@
     "commonName": "Almond",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -66311,7 +66311,7 @@
     "commonName": "Almond",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "",
       "species": "",
       "hybrid": "",
@@ -73686,7 +73686,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "canariensis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' supposed native geographical location. Despite the species' name, it does not occur naturally today in the Canary Islands, though it may have in the past.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
