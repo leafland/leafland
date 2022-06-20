@@ -54559,79 +54559,6 @@
   {
     "family": "",
     "genus": "Metrosideros",
-    "species": "kermadecensis",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Variegata",
-    "synonyms": [],
-    "commonName": "Pōhutukawa",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "metrosideros-kermadecensis-variegata",
-    "mainImage": "metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa.jpg",
-    "description": "Green leaves are broadly-margined with cream-yellow. Compact grower. Red flowers in mid-summer. Coastal hardy. Excellent for containers and hedges or as a street or specimen tree. <i>Metrosideros kermadecensis</i> 'Variegata' was probably first released by Duncan & Davies Nurseries and was listed in their catalogue circa 1940-1942.",
-    "uses": "street, attracts-bees, attracts-birds",
-    "tolerates": "coastal, windy",
-    "soilType": "poor-draining-soils, dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "native",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "red",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "yellow, white, green",
-      "autumn": "yellow, white, green",
-      "winter": "yellow, white, green",
-      "spring": "yellow, white, green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/metrosideros/metrosideros-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa-bushy-tree.jpg",
-        "alt": "metrosideros kermadecensis variegata pohutukawa bushy tree"
-      },
-      {
-        "src": "images/trees/metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa-foliage.jpeg",
-        "alt": "metrosideros kermadecensis variegata pohutukawa foliage"
-      }
-    ],
-    "links": [
-      "https://www.researchgate.net/publication/264383960_Metrosideros_in_cultivation_Pohutukawa"
-    ]
-  },
-  {
-    "family": "",
-    "genus": "Metrosideros",
     "species": "",
     "hybrid": "excelsa x umbellata",
     "subspecies": "",
@@ -54713,33 +54640,14 @@
   {
     "family": "",
     "genus": "Metrosideros",
-    "species": "",
-    "hybrid": "sub-tomentosa",
+    "species": "kermadecensis",
+    "hybrid": "",
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Mistral",
-    "synonyms": [
-      {
-        "genus": "Metrosideros",
-        "species": "",
-        "hybrid": "subtomentosa",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Mistral"
-      },
-      {
-        "genus": "Metrosideros",
-        "species": "",
-        "hybrid": "",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Mistral"
-      }
-    ],
-    "commonName": "Pōhutukawa and Northern Rātā Hybrid",
+    "cultivar": "Variegata",
+    "synonyms": [],
+    "commonName": "Pōhutukawa",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "",
@@ -54750,17 +54658,17 @@
       "variety": "",
       "form": ""
     },
-    "url": "metrosideros-x-sub-tomentosa-mistral",
-    "mainImage": "metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata.jpg",
-    "description": "Dense-growing tree that forms a neat, tight canopy of thick, olive-green leaves. A profusion of deep rust-red flowers from early to mid-summer attract nectar-seeking birds. Excellent tough coastal tree. Superb as a screen. Excellent street tree. <i>Metrosideros</i> x <i>sub-tomentosa</i> 'Mistral' was discovered by Graeme Platt in <a href='/trees/kunzea-robusta'>kānuka</a>/<a href='/trees/leptospermum-scoparium'>mānuka</a> scrub on the Coromandel Peninsula, on the ranges east of Coromandel township, on the road from Coromandel to Te Rerenga. <i>Metrosideros</i> x <i>sub-tomentosa</i> is a natural hybrid between <a href='/trees/metrosideros-excelsa/'><i>Metrosideros excelsa</i></a> and <a href='/trees/metrosideros-robusta/'><i>Metrosideros robusta</i></a>.",
-    "uses": "street, hedging-and-screening, attracts-bees, attracts-birds",
+    "url": "metrosideros-kermadecensis-variegata",
+    "mainImage": "metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa.jpg",
+    "description": "Green leaves are broadly-margined with cream-yellow. Compact grower. Red flowers in mid-summer. Coastal hardy. Excellent for containers and hedges or as a street or specimen tree. <i>Metrosideros kermadecensis</i> 'Variegata' was probably first released by Duncan & Davies Nurseries and was listed in their catalogue circa 1940-1942.",
+    "uses": "street, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils, dry-soils",
+    "soilType": "poor-draining-soils, dry-soils",
     "sunShade": "",
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
-    "height": "5m",
+    "height": "4m",
     "width": "3m",
     "stem": {
       "summer": "",
@@ -54775,10 +54683,10 @@
       "spring": ""
     },
     "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
+      "summer": "yellow, white, green",
+      "autumn": "yellow, white, green",
+      "winter": "yellow, white, green",
+      "spring": "yellow, white, green"
     },
     "fruit": {
       "summer": "",
@@ -54790,20 +54698,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-flower.jpeg",
-        "alt": "metrosideros mistral pohutukawa rata flower"
+        "src": "images/trees/metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa-bushy-tree.jpg",
+        "alt": "metrosideros kermadecensis variegata pohutukawa bushy tree"
       },
       {
-        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-flowering.jpeg",
-        "alt": "metrosideros mistral pohutukawa rata flowering"
-      },
-      {
-        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-foliage.jpeg",
-        "alt": "metrosideros mistral pohutukawa rata foliage"
-      },
-      {
-        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-street.jpg",
-        "alt": "metrosideros mistral pohutukawa rata street"
+        "src": "images/trees/metrosideros-kermadecensis-variegata-pohutukawa/metrosideros-kermadecensis-variegata-pohutukawa-foliage.jpeg",
+        "alt": "metrosideros kermadecensis variegata pohutukawa foliage"
       }
     ],
     "links": [
@@ -54962,6 +54862,106 @@
     ],
     "links": [
       "https://www.researchgate.net/publication/259950683_Metrosideros_in_cultivation_Rata_and_other_species"
+    ]
+  },
+  {
+    "family": "",
+    "genus": "Metrosideros",
+    "species": "",
+    "hybrid": "sub-tomentosa",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Mistral",
+    "synonyms": [
+      {
+        "genus": "Metrosideros",
+        "species": "",
+        "hybrid": "subtomentosa",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mistral"
+      },
+      {
+        "genus": "Metrosideros",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mistral"
+      }
+    ],
+    "commonName": "Pōhutukawa and Northern Rātā Hybrid",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "metrosideros-x-sub-tomentosa-mistral",
+    "mainImage": "metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata.jpg",
+    "description": "Dense-growing tree that forms a neat, tight canopy of thick, olive-green leaves. A profusion of deep rust-red flowers from early to mid-summer attract nectar-seeking birds. Excellent tough coastal tree. Superb as a screen. Excellent street tree. <i>Metrosideros</i> x <i>sub-tomentosa</i> 'Mistral' was discovered by Graeme Platt in <a href='/trees/kunzea-robusta'>kānuka</a>/<a href='/trees/leptospermum-scoparium'>mānuka</a> scrub on the Coromandel Peninsula, on the ranges east of Coromandel township, on the road from Coromandel to Te Rerenga. <i>Metrosideros</i> x <i>sub-tomentosa</i> is a natural hybrid between <a href='/trees/metrosideros-excelsa/'><i>Metrosideros excelsa</i></a> and <a href='/trees/metrosideros-robusta/'><i>Metrosideros robusta</i></a>.",
+    "uses": "street, hedging-and-screening, attracts-bees, attracts-birds",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils, dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "5m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/metrosideros/metrosideros-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-flower.jpeg",
+        "alt": "metrosideros mistral pohutukawa rata flower"
+      },
+      {
+        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-flowering.jpeg",
+        "alt": "metrosideros mistral pohutukawa rata flowering"
+      },
+      {
+        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-foliage.jpeg",
+        "alt": "metrosideros mistral pohutukawa rata foliage"
+      },
+      {
+        "src": "images/trees/metrosideros-mistral-pohutukawa-rata/metrosideros-mistral-pohutukawa-rata-street.jpg",
+        "alt": "metrosideros mistral pohutukawa rata street"
+      }
+    ],
+    "links": [
+      "https://www.researchgate.net/publication/264383960_Metrosideros_in_cultivation_Pohutukawa"
     ]
   },
   {
