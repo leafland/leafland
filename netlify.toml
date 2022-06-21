@@ -2409,13 +2409,6 @@
 
 [[redirects]]
     force = true
-    from = "/trees/betula-papyrifera-var-commutata-western-paper-birch/"
-    status = 301
-    to = "/trees/betula-papyrifera-var-commutata/"
-
-
-[[redirects]]
-    force = true
     from = "/trees/betula-pendula-silver-birch/"
     status = 301
     to = "/trees/betula-pendula/"

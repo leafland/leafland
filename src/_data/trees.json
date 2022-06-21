@@ -12913,7 +12913,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "costata",
     "hybrid": "",
@@ -12921,13 +12921,32 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "ermanii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "costata",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Betula",
+        "species": "ermanii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "costata",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Korean Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "costāta (Latin, adjective), meaning 'ribbed', in reference to the prominent veins on the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13004,7 +13023,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "ermanii",
     "hybrid": "",
@@ -13016,9 +13035,9 @@
     "commonName": "Erman's Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "ermanii (Latinised), named after the German natural scientist who discovered the species, George Adolph Erman (1806 - 1877).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13071,7 +13090,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "ermanii",
     "hybrid": "",
@@ -13083,9 +13102,9 @@
     "commonName": "Erman's Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "ermanii (Latinised), named after the German natural scientist who discovered the species, George Adolph Erman (1806 - 1877).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13142,7 +13161,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "nigra",
     "hybrid": "",
@@ -13154,9 +13173,9 @@
     "commonName": "River Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13225,7 +13244,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "nigra",
     "hybrid": "",
@@ -13247,9 +13266,9 @@
     "commonName": "River Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13302,7 +13321,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "nigra",
     "hybrid": "",
@@ -13314,9 +13333,9 @@
     "commonName": "River Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13389,7 +13408,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "nigra",
     "hybrid": "",
@@ -13401,9 +13420,9 @@
     "commonName": "River Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
+      "genus": "betula (Latin, noun), meaning 'birch tree'.",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13451,74 +13470,7 @@
     "links": []
   },
   {
-    "family": "",
-    "genus": "Betula",
-    "species": "papyrifera",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "commutata",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Western Paper Birch",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "betula-papyrifera-var-commutata",
-    "mainImage": "betula-papyrifera-var-commutata-western-paper-birch/betula-papyrifera-var-commutata-western-paper-birch.jpg",
-    "description": "One of the largest and fastest-growing birches. Smooth, white bark peels in layers to reveal orange-brown bark underneath. Bright-yellow autumn leaves. A magnificent specimen subject as a solitary specimen, in groves, or avenues.",
-    "uses": "street",
-    "tolerates": "windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "9m",
-    "width": "5m",
-    "stem": {
-      "summer": "white, orange, brown",
-      "autumn": "white, orange, brown",
-      "winter": "white, orange, brown",
-      "spring": "white, orange, brown"
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/betula/betula-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/betula-papyrifera-var-commutata-western-paper-birch/betula-papyrifera-var-commutata-western-paper-birch-foliage.jpg",
-        "alt": "betula papyrifera var commutata western paper birch foliage"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "pendula",
     "hybrid": "",
@@ -13628,7 +13580,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "pendula",
     "hybrid": "",
@@ -13699,7 +13651,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "pendula",
     "hybrid": "",
@@ -13778,7 +13730,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "pendula",
     "hybrid": "",
@@ -13861,7 +13813,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "pendula",
     "hybrid": "",
@@ -13936,7 +13888,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "platyphylla",
     "hybrid": "",
@@ -14007,7 +13959,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Betulaceae",
     "genus": "Betula",
     "species": "populifolia",
     "hybrid": "",
@@ -38723,7 +38675,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -56734,7 +56686,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "nigrā (Latin, adjective), meaning 'black, dark'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -62539,7 +62491,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "costāta (Latin, adjective), meaning 'ribbed'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
