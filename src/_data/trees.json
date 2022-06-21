@@ -353,7 +353,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering plants.",
       "genus": "acacia (Latin), derived from the Greek ἀκακία (<i>akakía</i>), a name given by the early Greek botanist-physician Pedanius Dioscorides, which, in turn, was derived from the Greek noun ἀκίς (<i>akís</i>), meaning 'sharp, pointed object', in reference to the characteristic thorns on many species in this genus. Commonly known as wattle or acacia, a genus of various trees and shrubs.",
-      "species": "melanoxylon (Latin, noun) lit., black wood, derived from the Greek adjective μέλᾱς (<i>mélās</i>, 'black') and noun ξῠ́λον (<i>xúlon</i>, 'wood').",
+      "species": "melanoxylon (Latin, noun) lit., black wood, derived from the Greek adjective μέλᾱς (<i>mélās</i>, 'black') and noun ξύλον (<i>xúlon</i>, 'wood').",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9439,7 +9439,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "aesculus (Latin, noun), meaning 'a kind of oak bearing edible acorns'. Commonly known as buckeye and horse chestnut, a genus of various flowering trees and shrubs.",
-      "species": "hippocastanum lit., horse chestnut, derived from the Greek nouns <i>hippos</i> (horse) and <i>castanon</i> (chestnut tree).",
+      "species": "hippocastanum lit., horse chestnut, derived from the Greek noun ἵππος (<i>híppos</i>, 'horse') and Latin adjective castanea (chestnut tree, chestnut).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9544,7 +9544,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "aesculus (Latin, noun), meaning 'a kind of oak bearing edible acorns'. Commonly known as buckeye and horse chestnut, a genus of various flowering trees and shrubs.",
-      "species": "hippocastanum lit., horse chestnut, derived from the Greek nouns <i>hippos</i> (horse) and <i>castanon</i> (chestnut tree).",
+      "species": "hippocastanum lit., horse chestnut, derived from the Greek noun ἵππος (<i>híppos</i>, 'horse') and Latin adjective castanea (chestnut tree, chestnut).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9724,7 +9724,7 @@
       "family": "soapberry family, a family of flowering plants.",
       "genus": "aesculus (Latin, noun), meaning 'a kind of oak bearing edible acorns'. Commonly known as buckeye and horse chestnut, a genus of various flowering trees and shrubs.",
       "species": "",
-      "hybrid": "neglecta (Latin, participle), meaning 'neglected, ignored, overlooked, disregarded'.",
+      "hybrid": "neglēcta (Latin, participle), meaning 'neglected, ignored, overlooked, disregarded'.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -9818,7 +9818,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
       "genus": "aesculus (Latin, noun), meaning 'a kind of oak bearing edible acorns'. Commonly known as buckeye and horse chestnut, a genus of various flowering trees and shrubs.",
-      "species": "turbinata (Latin, adjective), meaning 'cone-shaped, conical', in reference to the species' fruit that are broadly pear-shaped. The fruit are wide near the top and taper to a short stalk.",
+      "species": "turbīnāta (Latin, adjective), meaning 'cone-shaped, conical', in reference to the species' fruit that are broadly pear-shaped. The fruit are wide near the top and taper to a short stalk.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -9918,7 +9918,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "podocarp family, a family of mainly Southern Hemisphere coniferous trees and shrubs.",
-      "genus": "afrocarpus, meaning 'African fruit', from the Latin prefix <i>afro</i> (found in Africa) and the Greek noun <i>karpos</i> (fruit), in reference to the species' native geographical location and the prominent fruit it produces. A genus of several evergreen conifers that are native to Africa.",
+      "genus": "afrocarpus, meaning 'African fruit', from the Latin prefix <i>afro</i> (found in Africa) and the Greek noun καρπός (<i>karpós</i>, 'fruit'), in reference to the species' native geographical location and the prominent fruit it produces. A genus of several evergreen conifers that are native to Africa.",
       "species": "mannii (Latinised), named after Georg Mann who collected the type specimen.",
       "hybrid": "",
       "subspecies": "",
@@ -9991,8 +9991,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "agathis (Greek, noun), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
-      "species": "australis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
+      "genus": "ἀγαθίς (<i>agathís</i>, Greek, noun), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
+      "species": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -10096,8 +10096,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "agathis (Greek, noun), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong', in reference to its vigorous growth habit.",
+      "genus": "ἀγαθίς (<i>agathís</i>, Greek, noun), meaning 'ball of thread', in reference to the appearance of the female cone. Commonly known as kauri or dammara, a genus of evergreen trees.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong', in reference to its vigorous growth habit.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -10190,8 +10190,8 @@
     "otherCommonNames": "Peppermint Tree",
     "nameBreakdown": {
       "family": "myrtle family, a family of evergreen trees and shrubs.",
-      "genus": "agonis, derived from the Greek noun <i>agon</i> (gathering, cluster, collection), in reference to the tightly clustered flowers, fruit, and seeds.",
-      "species": "flexuosa (Latin, adjective), meaning 'tortuous, flexuous, winding', in reference to the zig-zag course of the stems which change direction at each leaf node.",
+      "genus": "agonis, derived from the Greek noun ἀγών (<i>agon</i>, 'gathering, cluster, collection'), in reference to the tightly clustered flowers, fruit, and seeds.",
+      "species": "flexuōsa (Latin, adjective), meaning 'tortuous, flexuous, winding', in reference to the zig-zag course of the stems which change direction at each leaf node.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -10792,7 +10792,7 @@
     "otherCommonNames": "New Zealand Oak",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering plants.",
-      "genus": "alectryon, derived from the Greek noun <i>alektruon</i> (also <i>alektor</i>, rooster), in reference to the appearance of the aril covering the seed which looks like a rooster's cockscomb (comb).",
+      "genus": "alectryon, derived from the Greek noun ἀλεκτρυών (<i>alektruṓn</i>, also ἀλέκτωρ [<i>aléktōr</i>], 'rooster'), in reference to the appearance of the aril covering the seed which looks like a rooster's cockscomb (comb).",
       "species": "excelsus (Latin, adjective), meaning 'elevated, lofty, tall', in reference to the height of the species.",
       "hybrid": "",
       "subspecies": "excelsus (Latin, adjective), meaning 'elevated, lofty, tall', in reference to the height of the species.",
@@ -10907,7 +10907,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "alnus (Latin, noun), meaning 'alder'.",
-      "species": "cordata (Latin, adjective), meaning 'heart-shaped', in reference to the shape of the species' leaves.",
+      "species": "cordāta (Latin, adjective), meaning 'heart-shaped', in reference to the shape of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11034,7 +11034,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "alnus (Latin, noun), meaning 'alder'.",
-      "species": "glutinosa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
+      "species": "glūtinōsa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11142,7 +11142,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "alnus (Latin, noun), meaning 'alder'.",
-      "species": "glutinosa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
+      "species": "glūtinōsa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11227,7 +11227,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "alnus (Latin, noun), meaning 'alder'.",
-      "species": "glutinosa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
+      "species": "glūtinōsa (Latin, adjective), meaning 'gluey, sticky', in reference to the sticky young buds and shoots of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11312,7 +11312,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "alnus (Latin, noun), meaning 'alder'.",
-      "species": "incana (Latin, adjective), meaning 'quite grey, hoary (white, grey-white)', in reference to the colour of the underside of the leaves.",
+      "species": "incāna (Latin, adjective), meaning 'quite grey, hoary (white, grey-white)', in reference to the colour of the underside of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11674,8 +11674,8 @@
     "otherCommonNames": "Shadbush",
     "nameBreakdown": {
       "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
-      "genus": "amelanchier, derived from the French <i>amelanchier</i>, meaning 'serviceberry', in reference to <i>Amelanchier ovalis</i>.",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "genus": "amelanchier, derived from the French <i>amélanchier</i>, meaning 'serviceberry', in reference to <i>Amelanchier ovalis</i>.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11907,7 +11907,7 @@
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
       "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered.",
-      "species": "heterophylla (Latin, adjective), derived from the Greek adjective <i>heteros</i> (different) and noun <i>phullon</i> (leaf), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of the species.",
+      "species": "heterophylla (Latin, adjective), derived from the Greek adjective ἕτερος (<i>héteros</i>, 'different') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12014,7 +12014,7 @@
     "nameBreakdown": {
       "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
       "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>.",
-      "species": "canariensis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' native geographical location.",
+      "species": "canariēnsis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12103,7 +12103,7 @@
     "nameBreakdown": {
       "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
       "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>.",
-      "species": "unedo (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. There is a folk etymology of <i>unedo</i> by Pliny the Elder (AD 23/24 - 79) that it comes from the Latin numeral <i>unum</i> (one) and the verb <i>edo</i> (I eat), in supposed reference to the foul taste of the fruit so only one could be eaten at a time.",
+      "species": "unedō (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. There is a folk etymology of <i>unedō</i> by Pliny the Elder (AD 23/24 - 79) that it comes from the Latin numeral <i>ūnum</i> (one) and the verb <i>edō</i> (I eat), in supposed reference to the foul taste of the fruit so only one could be eaten at a time.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12222,7 +12222,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees and shrubs.",
       "genus": "aristotelia (Latinised), named in honour of the Greek philosopher and polymath, Aristotle.",
-      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12328,7 +12328,7 @@
     "otherCommonNames": "Silver Spear",
     "nameBreakdown": {
       "family": "a family of flowering plants.",
-      "genus": "astelia, derived from the Greek prefix <i>a</i> (makes the sense of a word opposite to the word to which it is attached) and noun <i>stele</i> (upright rock, pillar, column), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
+      "genus": "astelia, derived from the Greek prefix <i>ἀ</i> (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
       "species": "chathamica (Latinised), meaning 'of or relating to the Chatham Islands', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -12411,8 +12411,8 @@
     "otherCommonNames": "Mountain Astelia, Bush Flax, Bush Lily",
     "nameBreakdown": {
       "family": "a family of flowering plants.",
-      "genus": "astelia, derived from the Greek prefix <i>a</i> (makes the sense of a word opposite to the word to which it is attached) and noun <i>stele</i> (upright rock, pillar, column), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
-      "species": "nervosa (Latin, adjective), meaning 'sinewy, nervous', in reference to the conspicuous veins on the species' leaves.",
+      "genus": "astelia, derived from the Greek prefix ἀ (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
+      "species": "nervōsa (Latin, adjective), meaning 'sinewy, nervous', in reference to the conspicuous veins on the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12493,7 +12493,7 @@
     "nameBreakdown": {
       "family": "willow family, a family of flowering trees and shrubs.",
       "genus": "azara (Latinised), named after the Spanish military officer, naturalist, and engineer, Félix de Azara. Some sources claim the genus was actually named after his older brother, José Nicolás de Azara, a Spanish diplomat.",
-      "species": "microphylla (Latin, adjective), derived from the Greek adjective <i>mikros</i> (small) and noun <i>phullon</i> (leaf), meaning 'small leaves', in reference to the size of the species' leaves.",
+      "species": "mīcrophylla (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12852,11 +12852,11 @@
     "nameBreakdown": {
       "family": "barberry family, a family of herbs, shrubs, and trees.",
       "genus": "berberis (Latin, noun), probably referring to species of this genus growing in Europe or specifically Spain. Possibly derived from the Arabic noun <i>barbārīs</i> (barberry).",
-      "species": "",
+      "species": "thunbergii (Latinised), named after the Swedish naturalist Carl Peter Thunberg (1743 - 1828) who sent the species from Japan to Europe.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
-      "form": ""
+      "form": "ātropurpurea (Latin, adjective), meaning 'dark purple'."
     },
     "url": "berberis-thunbergii-f-atropurpurea-helmond-pillar",
     "mainImage": "berberis-thunbergii-f-atropurpurea-helmond-pillar-japanese-barberry/berberis-thunbergii-f-atropurpurea-helmond-pillar-japanese-barberry.jpg",
@@ -19067,7 +19067,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "",
-      "genus": "australis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
+      "genus": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -19341,7 +19341,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19488,7 +19488,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19571,7 +19571,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19654,7 +19654,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19729,7 +19729,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19808,7 +19808,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canadensis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
+      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22325,7 +22325,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "australis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
+      "species": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22404,7 +22404,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "australis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
+      "species": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -36635,7 +36635,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong', in reference to this species being the largest of the genus <i>Grevillea</i>.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong', in reference to this species being the largest of the genus <i>Grevillea</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -39482,7 +39482,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong', in reference to the stature of the mature trees of this species.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong', in reference to the stature of the mature trees of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -54748,7 +54748,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong, firm', in reference to the immense strength and hardness of the species' wood.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong, firm', in reference to the immense strength and hardness of the species' wood.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -54829,7 +54829,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong, firm', in reference to the immense strength and hardness of the species' wood.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong, firm', in reference to the immense strength and hardness of the species' wood.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -56943,7 +56943,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "australis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
+      "species": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -73709,7 +73709,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canariensis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' supposed native geographical location. Despite the species' name, it does not occur naturally today in the Canary Islands, though it may have in the past.",
+      "species": "canariēnsis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to the species' supposed native geographical location. Despite the species' name, it does not occur naturally today in the Canary Islands, though it may have in the past.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -76814,7 +76814,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "microphylla (Latin, adjective), derived from the Greek adjective <i>mikros</i> (small) and noun <i>phullon</i> (leaf), meaning 'small leaves', in reference to the size of the species' leaves.",
+      "species": "mīcrophylla (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -78545,7 +78545,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "cordata (Latin, adjective), meaning 'heart-shaped', in reference to the shape of the species' leaves.",
+      "species": "cordāta (Latin, adjective), meaning 'heart-shaped', in reference to the shape of the species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80156,7 +80156,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "robusta (Latin, adjective), meaning 'robust, strong', in reference to the species' hardy and adaptable characteristics.",
+      "species": "rōbusta (Latin, adjective), meaning 'robust, strong', in reference to the species' hardy and adaptable characteristics.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80357,7 +80357,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80504,7 +80504,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "serrata (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
