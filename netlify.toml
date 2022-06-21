@@ -7129,6 +7129,11 @@
     status = 301
     to = "/trees/prunus-cerasifera-thundercloud/"
 
+[[redirects]]
+    force = true
+    from = "/trees/prunus-cerasifera/"
+    status = 301
+    to = "/trees/prunus-cerasifera-thundercloud/"
 
 [[redirects]]
     force = true
