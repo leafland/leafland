@@ -653,6 +653,7 @@ body.loggedIn #retail-price {
   background: var(--secondary-background);
   display: grid;
   gap: 2rem;
+  margin-top: 2rem;
 }
 
 /* #more-information-heading {
@@ -821,15 +822,40 @@ details b {
   text-transform: uppercase;
 } */
 
-#tree-information-table {
+#information-section {
+  margin-top: 2rem;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+}
+
+#tree-information {
   border-radius: 8px;
   padding: 2rem;
   display: grid;
-  gap: 1rem;
+  gap: 2rem;
   background: var(--secondary-background);
 }
 
-.tree-information-table-heading {
+#tree-information-inner {
+  display: grid;
+  gap: 1rem;
+}
+
+#taxonomy {
+  border-radius: 8px;
+  padding: 2rem;
+  background: var(--secondary-background);
+  display: grid;
+  gap: 2rem;
+}
+
+#taxonomy-inner {
+  display: grid;
+  gap: 1rem;
+}
+
+.tree-information-heading {
   /* text-transform: uppercase; */
   font-weight: 900;
 }
@@ -1005,6 +1031,9 @@ details b {
   div#grid-content {
     grid-template-columns: 1fr 1fr;
   }
+  /* div#information-section {
+    grid-template-columns: 1fr 1fr;
+  } */
 }
 
 @media (min-width: 1200px) {
