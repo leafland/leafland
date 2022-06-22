@@ -928,13 +928,7 @@ function addEventListeners() {
         quantity.value
       }<span class="lowercase">x</span> ${
         document.querySelector(".grade-selection-value-active").dataset.value
-      } ${treeBotanicalName.innerHTML} ${
-        treeCommonName.textContent !== ""
-          ? '(<span class="accent-color">' +
-            treeCommonName.textContent +
-            "</span>)"
-          : ""
-      } added to order.`;
+      } ${treeBotanicalName.innerHTML} added to order.`;
     }
 
     successMessage.style.setProperty("opacity", "1");
