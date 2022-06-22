@@ -14635,7 +14635,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "citrinus",
     "hybrid": "",
@@ -14657,9 +14657,9 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "citrīnus (Latin, adjective), meaning 'citric, citrus', in reference to the species' leaves emitting a citrus fragrance when crushed.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -14716,7 +14716,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "citrinus",
     "hybrid": "",
@@ -14724,13 +14724,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Red Cluster",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Melaleuca",
+        "species": "citrina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Red Cluster"
+      }
+    ],
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "citrīnus (Latin, adjective), meaning 'citric, citrus', in reference to the species' leaves emitting a citrus fragrance when crushed.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -14787,7 +14797,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "citrinus",
     "hybrid": "",
@@ -14795,13 +14805,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Western Glory",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Melaleuca",
+        "species": "citrina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Western Glory"
+      }
+    ],
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "citrīnus (Latin, adjective), meaning 'citric, citrus', in reference to the species' leaves emitting a citrus fragrance when crushed.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -14870,7 +14890,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "",
     "hybrid": "",
@@ -14882,8 +14902,8 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -14937,7 +14957,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "",
     "hybrid": "",
@@ -14949,8 +14969,8 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -15008,7 +15028,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "",
     "hybrid": "",
@@ -15020,8 +15040,8 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -15091,7 +15111,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "salignus",
     "hybrid": "",
@@ -15099,13 +15119,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Melaleuca",
+        "species": "salicina",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "salignus (Latin, adjective), meaning 'of the willow', in reference to the species' leaves supposedly looking similar to those of willow trees in the genus <i>Salix</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -15162,7 +15192,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "viminalis",
     "hybrid": "",
@@ -15170,13 +15200,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Melaleuca",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "vīminālis (Latin, adjective), meaning 'with long, slender, flexible shoots/twigs/branches', in reference to the graceful pendulous branches of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -15257,7 +15297,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "viminalis",
     "hybrid": "",
@@ -15267,7 +15307,25 @@
     "cultivar": "Macarthur",
     "synonyms": [
       {
+        "genus": "Melaleuca",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Macarthur"
+      },
+      {
         "genus": "Callistemon",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "LC01"
+      },
+      {
+        "genus": "Melaleuca",
         "species": "viminalis",
         "hybrid": "",
         "subspecies": "",
@@ -15279,9 +15337,9 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "vīminālis (Latin, adjective), meaning 'with long, slender, flexible shoots/twigs/branches', in reference to the graceful pendulous branches of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -15334,7 +15392,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Myrtaceae",
     "genus": "Callistemon",
     "species": "viminalis",
     "hybrid": "",
@@ -15344,7 +15402,25 @@
     "cultivar": "Red Alert",
     "synonyms": [
       {
+        "genus": "Melaleuca",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Red Alert"
+      },
+      {
         "genus": "Callistmeon",
+        "species": "viminalis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "KPS38"
+      },
+      {
+        "genus": "Melaleuca",
         "species": "viminalis",
         "hybrid": "",
         "subspecies": "",
@@ -15356,9 +15432,9 @@
     "commonName": "Bottlebrush",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "myrtle family, a family of evergreen trees and shrubs.",
+      "genus": "callistemon, derived from the Greek nouns κάλλος (<i>kalós</i>, 'beauty') and στήμονας (<i>stímonas</i>, 'stamen'), meaning 'beautiful stamen', in reference to the beauty of the flowers in this genus. Commonly known as bottlebrush, a genus of flowering shrubs.",
+      "species": "vīminālis (Latin, adjective), meaning 'with long, slender, flexible shoots/twigs/branches', in reference to the graceful pendulous branches of the species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
