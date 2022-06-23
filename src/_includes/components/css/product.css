@@ -654,7 +654,7 @@ body.loggedIn #retail-price {
   gap: 2rem;
 }
 
-#more-information {
+#more-information-section {
   border-radius: 8px;
   padding: 2rem;
   background: var(--secondary-background);
@@ -672,13 +672,13 @@ body.loggedIn #retail-price {
   gap: 1rem;
 }
 
-#related-trees {
+#related-trees-section {
   display: grid;
   grid-gap: 2rem;
   grid-template-columns: 1fr;
 }
 
-#related-trees-heading {
+#related-trees {
   margin: 7rem 0 3rem 0;
 }
 
