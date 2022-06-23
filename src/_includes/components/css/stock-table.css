@@ -32,7 +32,8 @@ body.stock-table-open #stock-table {
 
 #open-stock-table {
   border-color: var(--primary-text);
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
+  max-width: max-content;
 }
 
 #stock-table-div {

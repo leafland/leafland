@@ -13,6 +13,13 @@ main {
   width: 100%;
 }
 
+main .button {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem 0.8rem;
+  max-width: max-content;
+}
+
 h3 {
   margin-top: 5rem;
   margin-bottom: 3rem;
@@ -27,7 +34,6 @@ main img {
 
 #content-inner {
   margin-top: 5rem;
-  padding-bottom: 1rem;
 }
 
 #content-inner p {

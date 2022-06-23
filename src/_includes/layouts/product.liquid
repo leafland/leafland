@@ -92,6 +92,26 @@ type: product
         {% endif %}
     </div>
 
+    <div id="heading-buttons">
+
+        <a href="#order-tree-heading" class="button">Order Tree</a>
+        <a href="#taxonomy-heading" class="button">Taxonomy and Etymology</a>
+        <a href="#description-heading" class="button">Description and Features</a>
+
+        {% if tree.links.size > 0 %}
+
+        <a href="#more-information-heading" class="button">More Information</a>
+
+        {% endif %}
+
+        {% if tree.relatedTrees.size > 0 %}
+
+        <a href="#related-trees-heading" class="button">Related Trees</a>
+
+        {% endif %}
+
+    </div>
+
     <div id="grid-content">
 
         <div id="grid-content-left">
@@ -800,6 +820,8 @@ type: product
 
                 {% comment %} <h3 id="grade-sizes-heading">Add to order</h3> {% endcomment %}
 
+                <h3 id="order-tree-heading">Order Tree</h3>
+
                 <button id="open-stock-table">View pricing and stock numbers</button>
 
                 <div id="grade-sizes">
@@ -898,7 +920,7 @@ type: product
     <div id="information-section">
         <div id="taxonomy">
 
-            <h3>Taxonomy and Etymology</h3>
+            <h3 id="taxonomy-heading">Taxonomy and Etymology</h3>
 
             <div id="taxonomy-inner">
 
@@ -1256,7 +1278,7 @@ type: product
 
         <div id="tree-information">
 
-            <h3>Description and Features</h3>
+            <h3 id="description-heading">Description and Features</h3>
 
             <div id="tree-information-inner">
 

@@ -260,7 +260,7 @@ body > footer {
 
 main {
   padding: 1rem;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   display: grid;
   /* justify-content: center; */
 }
@@ -406,7 +406,8 @@ input {
 
 #content {
   opacity: 1;
-  overflow-y: hidden;
+  height: 100%;
+  /* overflow-y: hidden; */
 }
 
 /*********************************/
