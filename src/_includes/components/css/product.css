@@ -632,10 +632,10 @@ body.add-to-order-open #add-to-order-overlay {
   display: block;
 }
 
-#wholesale-price,
+/* #wholesale-price,
 #retail-price {
   text-transform: uppercase;
-}
+} */
 
 body.loggedIn #wholesale-price {
   display: block;
