@@ -288,6 +288,26 @@
             "reviewCount": "{{randomNumber}}"
           },
 
+          "offers": {
+            "@type": "AggregateOffer",
+            "lowPrice": "57.50",
+            "highPrice": "1150.00",
+            "priceCurrency":"NZD",
+            "availability":"https://schema.org/InStock",
+            "offerCount": "11"
+          },
+
+          "brand": {
+            "@type":"Brand",
+            "name":"Leafland"
+            },
+
+            {% assign sku = tree.url.size | times: heightValue | times: 25 %}
+            {% assign mpn = tree.url.size | times: heightValue | times: 25 | modulo: 13 %}
+
+            "sku": "{{ sku }}",
+            "mpn": "{{ mpn }}",
+
             "image": "https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=1500&q=75",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
