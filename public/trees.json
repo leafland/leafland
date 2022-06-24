@@ -18397,7 +18397,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
-      "genus": "castanea (Latin, noun), meaning 'chestnut tree, chestnut'.",
+      "genus": "castanea (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere.",
       "species": "satīva (Latin, adjective), meaning 'sown, planted, cultivated', in reference to the species being widely cultivated by humans since ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -18472,7 +18472,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
-      "genus": "castanea (Latin, noun), meaning 'chestnut tree, chestnut'.",
+      "genus": "castanea (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere.",
       "species": "satīva (Latin, adjective), meaning 'sown, planted, cultivated', in reference to the species being widely cultivated by humans since ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -18554,7 +18554,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Bignoniaceae",
     "genus": "Catalpa",
     "species": "bignonioides",
     "hybrid": "",
@@ -18566,9 +18566,9 @@
     "commonName": "Indian Bean Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "bignonia or trumpetvine family, a family of flowering plants.",
+      "genus": "catalpa, derived from the Muscogee name for <i>Catalpa speciosa</i>, <i>kutuhlpa</i>, which means 'winged head', in reference to the appearance of the flowers of species in this genus. Commonly known as catalpa or catawba, a genus of flowering plants that are native to warm temperate and subtropical regions of North America, the Caribbean, and East Asia.",
+      "species": "bignonioides, derived from the genus name <i>Bignonia</i> and the Latin suffix <i>oides</i> (like, similar to), in reference to the species' similarity to a species in the genus <i>Bignonia</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18625,7 +18625,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Meliaceae",
     "genus": "Cedrela",
     "species": "sinensis",
     "hybrid": "",
@@ -18647,9 +18647,9 @@
     "commonName": "Chinese Toon",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "mahogany family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "cedrela, derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar-wood'), in reference to the wood of species in this genus having a fragrance similar to that of species in the genus <i>Cedrus</i>. A genus of flowering plants that are native to tropical and subtropical regions from southern Mexico to northern Argentina.",
+      "species": "sinēnsis (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18699,7 +18699,7 @@
         "alt": "cedrela sinensis flamingo chinese toon foliage"
       }
     ],
-    "links": []
+    "links": ["https://issuu.com/marcoacuna/docs/the_names_of_plants_114"]
   },
   {
     "family": "",
