@@ -862,6 +862,10 @@ details b {
   gap: 1rem;
 }
 
+.tree-name{
+  font-weight: 600
+}
+
 .tree-information-heading {
   /* text-transform: uppercase; */
   font-weight: 900;

@@ -11,15 +11,15 @@ type: product
 
             {% if tree.form.size > 0 %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</h1>
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</span></h1>
 
             {% elsif tree.variety.size > 0 %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</h1>
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</span></h1>
 
             {% elsif tree.subspecies.size > 0 %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</h1>
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</span></h1>
 
             {% elsif tree.hybrid.size > 0 %}
 
@@ -29,11 +29,11 @@ type: product
 
             {% assign newText = text | join: '</i> x <i>' %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</h1>
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</span></h1>
 
             {% else %}
 
-            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</h1>
+            <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</span></h1>
 
             {% endif %}
 
@@ -41,11 +41,11 @@ type: product
 
                 {% if tree.species.size > 0 %}
 
-                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</h1>
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</span></h1>
 
                 {% else %}
 
-                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</h1>
+                <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> '{{ tree.cultivar }}'</span></h1>
 
                 {% endif %}
 
@@ -930,7 +930,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Family:</span> <i>{{ tree.family }}</i>, {{tree.nameBreakdown.family}}</p>
+                                <p><span class="tree-information-heading">Family:</span> <span class="tree-name"><i>{{ tree.family }}</i></span>, {{tree.nameBreakdown.family}}</p>
 
                             </div>
 
@@ -938,7 +938,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Family:</span> <i>{{ tree.family }}</i></p>
+                                <p><span class="tree-information-heading">Family:</span> <span class="tree-name"><i>{{ tree.family }}</i></span></p>
 
                             </div>
 
@@ -952,7 +952,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Genus:</span> <i>{{ tree.genus }}</i>, {{tree.nameBreakdown.genus}}</p>
+                                <p><span class="tree-information-heading">Genus:</span> <span class="tree-name"><i>{{ tree.genus }}</i></span>, {{tree.nameBreakdown.genus}}</p>
 
                             </div>
 
@@ -960,7 +960,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Genus:</span> <i>{{ tree.genus }}</i></p>
+                                <p><span class="tree-information-heading">Genus:</span> <span class="tree-name"><i>{{ tree.genus }}</i></span></p>
 
                             </div>
 
@@ -974,7 +974,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i>, {{tree.nameBreakdown.species}}</p>
+                                <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></span>, {{tree.nameBreakdown.species}}</p>
 
                             </div>
 
@@ -982,7 +982,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></p>
+                                <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></span></p>
 
                             </div>
 
@@ -1002,7 +1002,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i>, {{tree.nameBreakdown.hybrid}}</p>
+                                <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i></span>, {{tree.nameBreakdown.hybrid}}</p>
 
                             </div>
 
@@ -1010,7 +1010,7 @@ type: product
 
                             <div>
 
-                                <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i></p>
+                                <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i></span></p>
 
                             </div>
 
@@ -1022,7 +1022,7 @@ type: product
 
                                 <div>
 
-                                    <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i>, {{tree.nameBreakdown.hybrid}}</p>
+                                    <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></span>, {{tree.nameBreakdown.hybrid}}</p>
 
                                 </div>
 
@@ -1030,7 +1030,7 @@ type: product
 
                                 <div>
 
-                                    <p><span class="tree-information-heading">Species:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></p>
+                                    <p><span class="tree-information-heading">Species:</span> <span class="tree-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></span></p>
 
                                 </div>
 
@@ -1046,7 +1046,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i>, {{tree.nameBreakdown.subspecies}}</p>
+                            <p><span class="tree-information-heading">Subspecies:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></span>, {{tree.nameBreakdown.subspecies}}</p>
 
                         </div>
 
@@ -1054,7 +1054,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Subspecies:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></p>
+                            <p><span class="tree-information-heading">Subspecies:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></span></p>
 
                         </div>
 
@@ -1068,7 +1068,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i>, {{tree.nameBreakdown.variety}}</p>
+                            <p><span class="tree-information-heading">Variety:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></span>, {{tree.nameBreakdown.variety}}</p>
 
                         </div>
 
@@ -1076,7 +1076,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Variety:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></p>
+                            <p><span class="tree-information-heading">Variety:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></span></p>
 
                         </div>
 
@@ -1090,7 +1090,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i>, {{tree.nameBreakdown.form}}</p>
+                            <p><span class="tree-information-heading">Form:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></span>, {{tree.nameBreakdown.form}}</p>
 
                         </div>
 
@@ -1098,7 +1098,7 @@ type: product
 
                         <div>
 
-                            <p><span class="tree-information-heading">Form:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></p>
+                            <p><span class="tree-information-heading">Form:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></span></p>
 
                         </div>
 
@@ -1112,15 +1112,15 @@ type: product
 
                             {% if tree.form.size > 0 %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</span></span></p>
 
                             {% elsif tree.variety.size > 0 %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</span></p>
 
                             {% elsif tree.subspecies.size > 0 %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</span></p>
 
                             {% elsif tree.hybrid.size > 0 %}
 
@@ -1130,17 +1130,17 @@ type: product
 
                             {% assign newText = text | join: '</i> x <i>' %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</span></p>
 
                             {% else %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</span></p>
 
                             {% endif %}
 
                             {% else %}
 
-                            <p><span class="tree-information-heading">Cultivar:</span> <i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</p>
+                            <p><span class="tree-information-heading">Cultivar:</span> <span class="tree-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</span></p>
 
                             {% endif %}
 
@@ -1248,7 +1248,7 @@ type: product
 
                         {% endfor %}
 
-                        <p><span class="tree-information-heading">Synonyms:</span> {{ newString }}</p>
+                        <p><span class="tree-information-heading">Synonyms:</span> <span class='tree-name'>{{ newString }}</span></p>
 
                     </div>
 
@@ -1258,7 +1258,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-heading">Common Name:</span> {{ commonName }}</p>
+                        <p><span class="tree-information-heading">Common Name:</span> <span class='tree-name'>{{ commonName }}</span></p>
 
                     </div>
 
@@ -1268,7 +1268,7 @@ type: product
 
                     <div>
 
-                        <p><span class="tree-information-heading">Other Common Name(s):</span> {{ otherCommonNames }}</p>
+                        <p><span class="tree-information-heading">Other Common Name(s):</span> <span class='tree-name'>{{ otherCommonNames }}</span></p>
 
                     </div>
 
