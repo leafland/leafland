@@ -280,7 +280,7 @@
           {% assign max = 100 %}
           {% assign diff = max | minus: min %}
           {% assign heightValue = tree.height | replace: 'm', '' %}
-          {% assign randomNumber = tree.url.size | times: heightValue | modulo: diff | plus: min %}
+          {% assign randomNumber = tree.url.size | times: heightValue | modulo: diff | plus: min | round %}
 
           "aggregateRating": {
             "@type": "AggregateRating",
@@ -297,8 +297,8 @@
             "offerCount": "11"
           },
 
-            {% assign sku = tree.url.size | times: heightValue | times: 25 %}
-            {% assign mpn = tree.url.size | times: heightValue | times: 25 | modulo: 13 %}
+            {% assign sku = tree.url.size | times: heightValue | times: 25 | round %}
+            {% assign mpn = tree.url.size | times: heightValue | times: 25 | modulo: 13 | round %}
 
             "sku": "{{ sku }}",
             "mpn": "{{ mpn }}",
