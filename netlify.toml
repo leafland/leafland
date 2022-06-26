@@ -8131,13 +8131,6 @@
 
 [[redirects]]
     force = true
-    from = "/trees/sycoparrotia-semidecidua/"
-    status = 301
-    to = "/trees/sycoparrotia-semidecidua/"
-
-
-[[redirects]]
-    force = true
     from = "/trees/syzygium-australe-lilly-pilly/"
     status = 301
     to = "/trees/syzygium-australe/"
