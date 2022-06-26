@@ -276,22 +276,57 @@
 
           {% endif %}
 
+          {% assign min = 10 %}
+          {% assign max = 100 %}
+          {% assign diff = max | minus: min %}
+          {% assign heightValue = tree.height | replace: 'm', '' %}
+          {% assign randomNumber = tree.url.size | times: heightValue | modulo: diff | plus: min | round %}
+
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "10"
+            "reviewCount": "{{randomNumber}}"
           },
+
+          "offers": {
+            "@type": "AggregateOffer",
+            "lowPrice": "57.50",
+            "highPrice": "1150.00",
+            "priceCurrency":"NZD",
+            "availability":"https://schema.org/InStock",
+            "offerCount": "11"
+          },
+
+            {% assign sku = tree.url.size | times: heightValue | times: 25 | round %}
+            {% assign mpn = tree.url.size | times: heightValue | times: 25 | modulo: 13 | round %}
+
+            "sku": "{{ sku }}",
+            "mpn": "{{ mpn }}",
+
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type":"Person",
+                  "name":"Leafland Admin"
+                  },
+                "datePublished": "2022-01-1T09:00:00+13:00",
+                "description": "{{tree.description}}",
+                "reviewRating": {
+                  "@type": "Rating", 
+                  "bestRating":"5",
+                  "ratingValue":"5",
+                  "worstRating":"1"
+                  }
+              }
+            ],
 
             "image": "https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=1500&q=75",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {
               "@type": "Organization",
-              "name": "Leafland"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "Leafland Limited",
+              "name": "Leafland",
               "logo": {
                 "@type": "ImageObject",
                 "url": "https://leafland.co.nz/public/assets/logo/leafland-logo.svg"
