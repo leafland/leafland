@@ -18702,7 +18702,7 @@
     "links": ["https://issuu.com/marcoacuna/docs/the_names_of_plants_114"]
   },
   {
-    "family": "",
+    "family": "Pinaceae",
     "genus": "Cedrus",
     "species": "atlantica",
     "hybrid": "",
@@ -18711,6 +18711,15 @@
     "form": "",
     "cultivar": "",
     "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "atlantica",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      },
       {
         "genus": "Cedrus",
         "species": "libani",
@@ -18724,9 +18733,9 @@
     "commonName": "Atlas Cedar",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "pine family, a family of coniferous trees and shrubs.",
+      "genus": "cedrus (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "species": "ātlantica (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18807,7 +18816,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Pinaceae",
     "genus": "Cedrus",
     "species": "atlantica",
     "hybrid": "",
@@ -18816,6 +18825,15 @@
     "form": "",
     "cultivar": "Glauca",
     "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "atlantica",
+        "variety": "",
+        "form": "",
+        "cultivar": "Glauca"
+      },
       {
         "genus": "Cedrus",
         "species": "libani",
@@ -18829,9 +18847,9 @@
     "commonName": "Atlas Cedar",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "pine family, a family of coniferous trees and shrubs.",
+      "genus": "cedrus (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "species": "ātlantica (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18904,7 +18922,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Pinaceae",
     "genus": "Cedrus",
     "species": "atlantica",
     "hybrid": "",
@@ -18913,6 +18931,15 @@
     "form": "",
     "cultivar": "Glauca Pendula",
     "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "atlantica",
+        "variety": "",
+        "form": "",
+        "cultivar": "Glauca Pendula"
+      },
       {
         "genus": "Cedrus",
         "species": "libani",
@@ -18926,9 +18953,9 @@
     "commonName": "Atlas Cedar",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "pine family, a family of coniferous trees and shrubs.",
+      "genus": "cedrus (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "species": "ātlantica (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to the species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -18936,7 +18963,7 @@
     },
     "url": "cedrus-atlantica-glauca-pendula",
     "mainImage": "cedrus-atlantica-glauca-pendula-atlas-cedar/cedrus-atlantica-glauca-pendula-atlas-cedar.jpg",
-    "description": "An imposing, conifer with curtains of silver-blue foliage cascading from a dome-shaped crown. Stake initially to get the height required before allowing to weep to the ground.",
+    "description": "An imposing conifer with curtains of silver-blue foliage cascading from a dome-shaped crown. Stake initially to get the height required before allowing to weep to the ground.",
     "uses": "",
     "tolerates": "windy, coastal",
     "soilType": "clay-soils, dry-soils",
@@ -19001,7 +19028,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Pinaceae",
     "genus": "Cedrus",
     "species": "deodara",
     "hybrid": "",
@@ -19009,13 +19036,32 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cedrus",
+        "species": "indica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Cedrus",
+        "species": "libani",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "deodara",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Himalayan Cedar",
-    "otherCommonNames": "",
+    "otherCommonNames": "Deodar Cedar",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "pine family, a family of coniferous trees and shrubs.",
+      "genus": "cedrus (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "species": "deodara, derived from the Hindi <i>devdāru</i>, which itself is derived from the Sanskrit <i>deva-dāru</i>, meaning 'divine tree, wood of the gods'. As the name suggests, this species is considered sacred and worshipped by Hindus.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19092,7 +19138,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cannabaceae",
     "genus": "Celtis",
     "species": "australis",
     "hybrid": "",
@@ -19102,11 +19148,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "European Nettle",
-    "otherCommonNames": "",
+    "otherCommonNames": "Mediterranean Hackberry",
     "nameBreakdown": {
-      "family": "",
-      "genus": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia.",
-      "species": "",
+      "family": "a family of flowering trees and herbaceous plants.",
+      "genus": "celtis (Latin, noun), referring to various species of this genus. Commonly known as hackberry or nettle tree, a genus of deciduous trees native to warm temperate regions of the Northern Hemisphere.",
+      "species": "austrālis (Latin, adjective), meaning 'southern', in reference to the species' native geographical location. Does not necessarily mean from Australia. As this species is native to Southern Europe, the specific epithet is probably in reference to Europe.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
