@@ -12690,7 +12690,7 @@
     "commonName": "Taraire",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "laurel family, a family of flowering trees and shrubs. Many are aromatic and evergreen, but some are deciduous.",
+      "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous.",
       "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
       "species": "tarairi (Latinised), derived from the Te Reo Māori noun <i>taraire</i>, the name of the species in Te Reo Māori.",
       "hybrid": "",
@@ -12771,7 +12771,7 @@
     "commonName": "Tawa",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "laurel family, a family of flowering trees and shrubs. Many are aromatic and evergreen, but some are deciduous.",
+      "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous.",
       "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
       "species": "tawa (Latinised), derived from the Te Reo Māori noun <i>tawa</i>, the name of the species in Te Reo Māori.",
       "hybrid": "",
@@ -20366,7 +20366,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Calycanthaceae",
     "genus": "Chimonanthus",
     "species": "praecox",
     "hybrid": "",
@@ -20378,9 +20378,9 @@
     "commonName": "Wintersweet",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "sweetshrub or spicebush family, a family of flowering shrubs and one genus which grows as a tree.",
+      "genus": "chimonanthus, derived from the the Greek nouns χειμών (<i>kheimṓn</i>, 'winter') and ἄνθος (<i>ánthos</i>, 'flower'), meaning 'winter flower' in reference to species of this genus flowering during the winter months. A genus of deciduous and evergreen shrubs native to China.",
+      "species": "praecox (Latin, adjective), meaning 'ripe before its time, premature', in reference to the early bloom time in winter.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -20453,7 +20453,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Choisya",
     "species": "ternata",
     "hybrid": "",
@@ -20465,9 +20465,9 @@
     "commonName": "Mexican Orange Blossom",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "choisya (Latinised), named after Swiss botanist Jacques Denys Choisy (1799 - 1859) by Alexander von Humboldt (1769 - 1859) and Aimé Bonpland (1773 - 1858). Commonly known as Mexican orange, a genus of aromatic evergreen shrubs native to southern North America, from Arizona, New Mexico, Texas and south through most of Mexico.",
+      "species": "ternata, derived from the Latin adjective <i>ternus</i> (triple, threefold, trinary, ternary), in reference to the leaves usually appearing in groups of three (trifoliate).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -20536,7 +20536,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Lauraceae",
     "genus": "Cinnamomum",
     "species": "camphora",
     "hybrid": "",
@@ -20546,11 +20546,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Camphor Tree",
-    "otherCommonNames": "",
+    "otherCommonNames": "Camphor Laurel",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous.",
+      "genus": "cinnamōmum (Latin, noun), meaning 'cinnamon', in reference to the fragrant leaves and bark of species of this genus which is due to the leaves and bark containing aromatic oils. A genus of aromatic trees and shrubs native to tropical and subtropical regions throughout the world.",
+      "species": "camphora (Latin, adjective), meaning 'bearing camphor', in reference to the leaves releasing a fragrance of camphor when crushed.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -20607,7 +20607,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "aurantiifolia",
@@ -20615,21 +20615,31 @@
     "variety": "",
     "form": "",
     "cultivar": "Sublime",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Citrus",
+        "species": "",
+        "hybrid": "aurantifolia",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sublime"
+      }
+    ],
     "commonName": "Key Lime",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "aurantiifolia, derived from the Latin adjective <i>aurantium</i> (orange) and noun <i>folia</i> (leaf), in reference to the hybrid species having leaves resembling those of the bitter orange <i>Citrus</i> x <i>aurantium</i>.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "citrus-x-aurantiifolia-sublime",
     "mainImage": "citrus-x-aurantiifolia-sublime-key-lime/citrus-x-aurantiifolia-sublime-key-lime.jpg",
-    "description": "Compact grower that is virtually thornless. Grows well in a large pot. Great for small gardens. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Fruit is used for cooking and flavouring drinks. Crops through winter. Scented white flowers throughout summer. Self-fertile. <a href='https://www.rhs.org.uk/plants/112190/citrus-x-aurantiifolia-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>aurantiifolia</i></a> is a hybrid between <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+hystrix' target='_blank' rel='noopener noreferrer'><i>Citrus hystrix</i></a> and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+medica' target='_blank' rel='noopener noreferrer'><i>Citrus medica</i></a>.",
+    "description": "Compact grower that is virtually thornless. Grows well in a large pot. Great for small gardens. Prolific crops of large-sized fruit start green but are ready when the fruit changes to yellow-green. Fruit is used for cooking and flavouring drinks. Crops through winter. Scented white flowers throughout summer. Self-fertile. <a href='https://www.rhs.org.uk/plants/112190/citrus-x-aurantiifolia-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>aurantiifolia</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Micrantha_(citrus)' target='_blank' rel='noopener noreferrer'><i>Citrus micrantha</i></a> (syn. <i>Citrus hystrix</i> var. <i>micrantha</i>) and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+medica' target='_blank' rel='noopener noreferrer'><i>Citrus medica</i></a>.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -20675,10 +20685,10 @@
         "alt": "citrus x aurantiifolia sublime key lime fruit"
       }
     ],
-    "links": []
+    "links": ["https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=683"]
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "latifolia",
@@ -20690,17 +20700,17 @@
     "commonName": "Persian Lime",
     "otherCommonNames": "Tahiti Lime",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "lātifolia (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "citrus-x-latifolia-bearss",
     "mainImage": "citrus-x-latifolia-bearss-persian-lime-tahiti-lime/citrus-x-latifolia-bearss-persian-lime-tahiti-lime.jpg",
-    "description": "A heavier-bearing lime, which is cold-hardy. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to green-yellow. Crops through winter and in summer. Has a high juice content. Scented white flowers throughout summer. Self-fertile. <a href='https://www.gardenia.net/plant/citrus-latifolia' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>latifolia</i></a> is a hybrid between <a href='https://www.rhs.org.uk/plants/112190/citrus-x-aurantiifolia-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>aurantiifolia</i></a> and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+limon' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>limon</i></a>.",
+    "description": "A heavier-bearing lime, which is cold-hardy. Upright, bushy grower. Prolific crops of large-sized fruit start green but are ready when the fruit changes to green-yellow. Crops through winter and in summer. Has a high juice content. Scented white flowers throughout summer. Self-fertile. <i>Citrus</i> x <i>latifolia</i> 'Bearss' is named after John T. Bearss, who developed this seedless variety about 1895 in his nursery at Porterville, California. <a href='https://www.gardenia.net/plant/citrus-latifolia' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>latifolia</i></a> is a hybrid between <a href='https://www.rhs.org.uk/plants/112190/citrus-x-aurantiifolia-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>aurantiifolia</i></a> and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+limon' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>limon</i></a>.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -20740,7 +20750,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "latifolia",
@@ -20752,10 +20762,10 @@
     "commonName": "Persian Lime",
     "otherCommonNames": "Tahiti Lime",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "lātifolia (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -20807,7 +20817,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "limon",
@@ -20819,10 +20829,10 @@
     "commonName": "Lemon",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "limon (French, noun), meaning 'a type of lemon'.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -20874,7 +20884,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "limon",
@@ -20886,10 +20896,10 @@
     "commonName": "Lemon",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "limon (French, noun), meaning 'a type of lemon'.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -20941,7 +20951,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "limon",
@@ -20953,10 +20963,10 @@
     "commonName": "Lemon",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "citrus (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "limon (French, noun), meaning 'a type of lemon'.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -21003,7 +21013,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "limon x reticulata",
@@ -21015,10 +21025,10 @@
     "commonName": "Lemonade Lemon",
     "otherCommonNames": "Lemonade Fruit, New Zealand Lemonade",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon', and <i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -21065,7 +21075,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "meyeri",
@@ -21136,7 +21146,7 @@
     "links": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817432/"]
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "paradisi",
@@ -21207,7 +21217,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "paradisi",
@@ -21282,7 +21292,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "reticulata",
     "hybrid": "",
@@ -21296,7 +21306,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "rēticulāta (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -21349,7 +21359,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "reticulata",
     "hybrid": "",
@@ -21363,7 +21373,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "rēticulāta (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -21416,7 +21426,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "reticulata",
     "hybrid": "",
@@ -21430,7 +21440,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "rēticulāta (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -21487,7 +21497,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "reticulata",
     "hybrid": "",
@@ -21501,7 +21511,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "rēticulāta (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -21554,7 +21564,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
@@ -21621,7 +21631,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
@@ -21688,7 +21698,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
@@ -21755,7 +21765,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
@@ -21817,7 +21827,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
@@ -21892,7 +21902,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rutaceae",
     "genus": "Citrus",
     "species": "",
     "hybrid": "sinensis",
