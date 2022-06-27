@@ -20137,7 +20137,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "siliquastrum (Latin), derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
+      "species": "siliquastrum, derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -20243,7 +20243,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "siliquastrum (Latin), derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
+      "species": "siliquastrum, derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -20291,7 +20291,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Chamaecyparis",
     "species": "pisifera",
     "hybrid": "",
@@ -20303,9 +20303,9 @@
     "commonName": "Sawara Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "chamaecyparis, derived from the Greek adverb χαμαί (<i>khamaí</i>, 'on the earth, near the ground') and noun κυπάρισσος (<i>kupárissos</i>, 'cypress [specifically, <i>Cupressus sempervirens</i>]'), meaning 'dwarf cypress, low-growing cypress', which is ironic considering even the smaller growing species of this genus can grow to 30m tall in the wild. Commonly known as cypress or false cypress, a genus of coniferous trees native to eastern Asia (Japan and Taiwan) and to the western and eastern margins of the United States.",
+      "species": "pisifera, derived from the Latin noun <i>pisum</i> (pea) and verb <i>ferre</i> (to bear), meaning 'pea-bearing', in reference to the small, pea-sized seed cones.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
