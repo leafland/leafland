@@ -8379,3 +8379,15 @@
     from = "/trees/zelkova-serrata-kiwi-sunset-japanese-elm/"
     status = 301
     to = "/trees/zelkova-serrata-kiwi-sunset/"
+
+[[redirects]]
+    force = true
+    from = "/trees/category/deciduous/"
+    status = 301
+    to = "/trees/"
+
+[[redirects]]
+    force = true
+    from = "/trees/category/exotic/"
+    status = 301
+    to = "/trees/"
