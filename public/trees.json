@@ -11403,7 +11403,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "<i>alnus</i> (Latin, noun), meaning 'alder'. Commonly known as alder, a genus of trees and shrubs.",
-      "species": "",
+      "species": "<i>inokumae</i>, unknown origin, but possibly a Latinisation of the Japanese surname Inokuma.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11478,7 +11478,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "<i>alnus</i> (Latin, noun), meaning 'alder'. Commonly known as alder, a genus of trees and shrubs.",
-      "species": "jorullensis (Latinised), in reference to the report by Alexander von Humboldt, Aimé Bonpland, and Carl Sigismund Kunth (1817) that the original specimen of this species was collected from the volcano El Jorullo in Michoacán, Mexico.",
+      "species": "<i>jorullensis</i> (Latinised), in reference to the report by Alexander von Humboldt, Aimé Bonpland, and Carl Sigismund Kunth (1817) that the original specimen of this species was collected from the volcano El Jorullo in Michoacán, Mexico.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11571,7 +11571,7 @@
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs.",
       "genus": "<i>alnus</i> (Latin, noun), meaning 'alder'. Commonly known as alder, a genus of trees and shrubs.",
-      "species": "rubra (Latin, adjective), meaning 'red', in reference to the orange-red inner bark.",
+      "species": "<i>rubra</i> (Latin, adjective), meaning 'red', in reference to the orange-red inner bark of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11674,8 +11674,8 @@
     "otherCommonNames": "Shadbush",
     "nameBreakdown": {
       "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
-      "genus": "amelanchier, derived from the French <i>amélanchier</i>, meaning 'serviceberry', in reference to <i>Amelanchier ovalis</i>. Commonly known as shadbush, shadwood, shadblow, serviceberry, juneberry, or sugarplum, a genus of deciduous shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location.",
+      "genus": "<i>amelanchier</i>, derived from the French <i>amélanchier</i>, meaning 'serviceberry', in reference to <i>Amelanchier ovalis</i>. Commonly known as shadbush, shadwood, shadblow, serviceberry, juneberry, or sugarplum, a genus of deciduous shrubs and small trees.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11794,8 +11794,8 @@
     "otherCommonNames": "Chilean Pine",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered. A genus of evergreen coniferous trees.",
-      "species": "araucana, derived from the native Araucanian Mapuche of Chile who used the nuts (seeds) of this species.",
+      "genus": "<i>araucaria</i>, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered. A genus of evergreen coniferous trees.",
+      "species": "<i>araucana</i>, derived from the native Araucanian Mapuche of Chile who used the nuts (seeds) of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -11906,8 +11906,8 @@
     "otherCommonNames": "Star Pine, House Pine",
     "nameBreakdown": {
       "family": "araucaria family, an ancient family of coniferous trees.",
-      "genus": "araucaria, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered. A genus of evergreen coniferous trees.",
-      "species": "heterophylla (Latin, adjective), derived from the Greek adjective ἕτερος (<i>héteros</i>, 'different') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of this species.",
+      "genus": "<i>araucaria</i>, derived from Arauco, the name of a province in southern Chile where trees from the genus were first discovered. A genus of evergreen coniferous trees.",
+      "species": "<i>heterophylla</i> (Latin, adjective), derived from the Greek adjective ἕτερος (<i>héteros</i>, 'different') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'different leaves', in reference to the variation in the leaves between young and mature plants of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12013,8 +12013,8 @@
     "otherCommonNames": "Canary Madrone, Canary Islands Strawberry Tree",
     "nameBreakdown": {
       "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
-      "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. A genus of flowering plants.",
-      "species": "canariēnsis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to this species' native geographical location.",
+      "genus": "<i>arbutus</i> (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. A genus of flowering plants.",
+      "species": "<i>canariēnsis</i> (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12102,8 +12102,8 @@
     "otherCommonNames": "Irish Strawberry Tree, Killarney Strawberry Tree, Cane Apple",
     "nameBreakdown": {
       "family": "heath or heather family, a family of flowering herbs, shrubs, and trees.",
-      "genus": "arbutus (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. A genus of flowering plants.",
-      "species": "unedō (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. There is a folk etymology of <i>unedō</i> by Pliny the Elder (AD 23/24 - 79) that it comes from the Latin numeral <i>ūnum</i> (one) and the verb <i>edō</i> (I eat), in supposed reference to the foul taste of the fruit so only one could be eaten at a time.",
+      "genus": "<i>arbutus</i> (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. A genus of flowering plants.",
+      "species": "<i>unedō</i> (Latin, noun), meaning 'strawberry tree', in reference to <i>Arbutus unedo</i>. There is a folk etymology of <i>unedō</i> by Pliny the Elder (AD 23/24 - 79) that it comes from the Latin numeral <i>ūnum</i> (one) and the verb <i>edō</i> (I eat), in supposed reference to the foul taste of the fruit so only one could be eaten at a time.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12221,8 +12221,8 @@
     "otherCommonNames": "Mako, Wineberry",
     "nameBreakdown": {
       "family": "a family of flowering trees and shrubs.",
-      "genus": "aristotelia (Latinised), named in honour of the Greek philosopher and polymath, Aristotle. A genus of flowering plants.",
-      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "genus": "<i>aristotelia</i> (Latinised), named in honour of the Greek philosopher and polymath, Aristotle. A genus of flowering plants.",
+      "species": "<i>serrāta</i> (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12328,8 +12328,8 @@
     "otherCommonNames": "Silver Spear",
     "nameBreakdown": {
       "family": "a family of flowering plants.",
-      "genus": "astelia, derived from the Greek prefix ἀ (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
-      "species": "chathamica (Latinised), meaning 'of or relating to the Chatham Islands', in reference to this species' native geographical location.",
+      "genus": "<i>astelia</i>, derived from the Greek prefix ἀ (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in this genus.",
+      "species": "<i>chathamica</i> (Latinised), meaning 'of or relating to the Chatham Islands', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12411,8 +12411,8 @@
     "otherCommonNames": "Mountain Astelia, Bush Flax, Bush Lily",
     "nameBreakdown": {
       "family": "a family of flowering plants.",
-      "genus": "astelia, derived from the Greek prefix ἀ (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in the genus.",
-      "species": "nervōsa (Latin, adjective), meaning 'sinewy, nervous', in reference to the conspicuous veins on this species' leaves.",
+      "genus": "<i>astelia</i>, derived from the Greek prefix ἀ (makes the sense of a word opposite to the word to which it is attached) and noun στήλη (<i>stḗlē</i>, 'upright rock, pillar, column'), meaning 'without a pillar/column', in reference to the apparent stemless condition of some species in this genus.",
+      "species": "<i>nervōsa</i> (Latin, adjective), meaning 'sinewy, nervous', in reference to the conspicuous veins on this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12492,8 +12492,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "willow family, a family of flowering trees and shrubs.",
-      "genus": "azara (Latinised), named after the Spanish military officer, naturalist, and engineer, Félix de Azara. Some sources claim the genus was actually named after his older brother, José Nicolás de Azara, a Spanish diplomat. A genus of flowering evergreen shrubs and small trees",
-      "species": "mīcrophylla (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of this species' leaves.",
+      "genus": "<i>azara</i> (Latinised), named after the Spanish military officer, naturalist, and engineer, Félix de Azara (1746 - 1821). Some sources claim this genus was actually named after his older brother, José Nicolás de Azara (1730 - 1804), a Spanish diplomat. A genus of flowering evergreen shrubs and small trees",
+      "species": "<i>mīcrophylla</i> (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12592,8 +12592,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering plants predominantly distributed in the Southern Hemisphere.",
-      "genus": "banksia (Latinised), named in honour of the English naturalist and botanist, Joseph Banks (1743 - 1820). A genus of flowering trees and shrubs.",
-      "species": "integrifolia (Latin, adjective), derived from the Latin adjective <i>integer</i> (entire, whole, undivided) and noun <i>folium</i> (leaf), meaning 'entire leaves', in reference to the entire leaf margins and undivided leaves of this species that are not divided or serrated.",
+      "genus": "<i>banksia</i> (Latinised), named in honour of the English naturalist and botanist, Joseph Banks (1743 - 1820). A genus of flowering trees and shrubs.",
+      "species": "<i>integrifolia</i> (Latin, adjective), derived from the Latin adjective <i>integer</i> (entire, whole, undivided) and noun <i>folium</i> (leaf), meaning 'entire leaves', in reference to the entire leaf margins and undivided leaves of this species that are not divided or serrated.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12691,8 +12691,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous.",
-      "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
-      "species": "tarairi (Latinised), derived from the Te Reo Māori noun <i>taraire</i>, the name of this species in Te Reo Māori.",
+      "genus": "<i>beilschmiedia</i> (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
+      "species": "<i>tarairi</i> (Latinised), derived from the Te Reo Māori noun <i>taraire</i>, the name of this species in Te Reo Māori.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12772,8 +12772,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous.",
-      "genus": "beilschmiedia (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
-      "species": "tawa (Latinised), derived from the Te Reo Māori noun <i>tawa</i>, the name of this species in Te Reo Māori.",
+      "genus": "<i>beilschmiedia</i> (Latinised), named after the German pharmacist and botanist, Carl Traugott Beilschmied (1793 - 1848). A genus of trees and shrubs.",
+      "species": "<i>tawa</i> (Latinised), derived from the Te Reo Māori noun <i>tawa</i>, the name of this species in Te Reo Māori.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12851,12 +12851,12 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "barberry family, a family of herbs, shrubs, and trees.",
-      "genus": "berberis (Latin, noun), probably referring to species of this genus growing in Europe or specifically Spain. Possibly derived from the Arabic noun <i>barbārīs</i> (barberry). Commonly known as barberry, a genus of deciduous and evergreen shrubs.",
-      "species": "thunbergii (Latinised), named after the Swedish naturalist Carl Peter Thunberg (1743 - 1828) who sent the species from Japan to Europe.",
+      "genus": "<i>berberis</i> (Latin, noun), probably referring to species of this genus growing in Europe or specifically Spain. Possibly derived from the Arabic noun <i>barbārīs</i> (barberry). Commonly known as barberry, a genus of deciduous and evergreen shrubs.",
+      "species": "<i>thunbergii</i> (Latinised), named after the Swedish naturalist Carl Peter Thunberg (1743 - 1828) who sent this species from Japan to Europe.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
-      "form": "ātropurpurea (Latin, adjective), meaning 'dark purple'."
+      "form": "<i>ātropurpurea</i> (Latin, adjective), meaning 'dark purple', in reference to the colour of this form's leaves."
     },
     "url": "berberis-thunbergii-f-atropurpurea-helmond-pillar",
     "mainImage": "berberis-thunbergii-f-atropurpurea-helmond-pillar-japanese-barberry/berberis-thunbergii-f-atropurpurea-helmond-pillar-japanese-barberry.jpg",
@@ -12945,8 +12945,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
-      "species": "costāta (Latin, adjective), meaning 'ribbed', in reference to the prominent veins on this species' leaves.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "species": "<i>costāta</i> (Latin, adjective), meaning 'ribbed', in reference to the prominent veins on this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -12992,8 +12992,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/betula-costata-korean-birch/betula-costata-foliage-close-up-3.jpg",
-        "alt": "betula costata foliage close up 3"
+        "src": "images/trees/betula-costata-korean-birch/betula-costata-leaves-close-up.jpg",
+        "alt": "betula costata leaves close up"
       },
       {
         "src": "images/trees/betula-costata-korean-birch/betula-costata-foliage-close-up.jpg",
@@ -13036,8 +13036,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
-      "species": "ermanii (Latinised), named after the German natural scientist who discovered the species, George Adolph Erman (1806 - 1877).",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "species": "<i>ermanii</i> (Latinised), named after the German natural scientist who discovered this species, George Adolph Erman (1806 - 1877).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13103,8 +13103,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
-      "species": "ermanii (Latinised), named after the German natural scientist who discovered the species, George Adolph Erman (1806 - 1877).",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "species": "<i>ermanii</i> (Latinised), named after the German natural scientist who discovered this species, George Adolph Erman (1806 - 1877).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -13174,7 +13174,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
@@ -13267,7 +13267,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
@@ -13334,7 +13334,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
@@ -13421,7 +13421,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "nigrā (Latin, adjective), meaning 'black, dark', in reference to the colour of the bark on mature trees.",
       "hybrid": "",
       "subspecies": "",
@@ -13502,7 +13502,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "pendula (Latin, adjective), meaning 'hanging, hanging down, pendant, suspended', in reference to the graceful, pendulous young stems.",
       "hybrid": "",
       "subspecies": "",
@@ -13593,7 +13593,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "pendula (Latin, adjective), meaning 'hanging, hanging down, pendant, suspended', in reference to the graceful, pendulous young stems.",
       "hybrid": "",
       "subspecies": "",
@@ -13664,7 +13664,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "pendula (Latin, adjective), meaning 'hanging, hanging down, pendant, suspended', in reference to the graceful, pendulous young stems.",
       "hybrid": "",
       "subspecies": "",
@@ -13743,7 +13743,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "pendula (Latin, adjective), meaning 'hanging, hanging down, pendant, suspended', in reference to the graceful, pendulous young stems.",
       "hybrid": "",
       "subspecies": "",
@@ -13826,7 +13826,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "pendula (Latin, adjective), meaning 'hanging, hanging down, pendant, suspended', in reference to the graceful, pendulous young stems.",
       "hybrid": "",
       "subspecies": "",
@@ -13901,7 +13901,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "platyphylla (Latin, adjective), meaning 'broad-leaved', in reference to the species having larger, broader leaves than the closely related <i>Betula pendula</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -13972,7 +13972,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "populifolia, derived from the Latin nouns <i>pōpulus</i> (poplar tree) and <i>folia</i> (leaf), meaning 'poplar-leaved', in reference to this species' leaves resembling those of the genus <i>Populus</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -14059,7 +14059,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "ūtilis (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -14158,7 +14158,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "ūtilis (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -14233,7 +14233,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "ūtilis (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -14320,7 +14320,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
-      "genus": "betula (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
+      "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "ūtilis (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -17522,7 +17522,7 @@
     "nameBreakdown": {
       "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia.",
       "genus": "camellia (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia.",
-      "species": "",
+      "species": "<i>transnokoensis</i>, unknown origin.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19425,7 +19425,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19574,7 +19574,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19659,7 +19659,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19744,7 +19744,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19821,7 +19821,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -19902,7 +19902,7 @@
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants.",
       "genus": "cercis, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species of this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
-      "species": "canadēnsis (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "texēnsis (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to the variety's native geographical location.",
@@ -62664,7 +62664,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "costāta (Latin, adjective), meaning 'ribbed'.",
+      "species": "<i>costāta</i> (Latin, adjective), meaning 'ribbed'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -73834,7 +73834,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "canariēnsis (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to this species' supposed native geographical location. Despite this species' name, it does not occur naturally today in the Canary Islands, though it may have in the past.",
+      "species": "<i>canariēnsis</i> (Latin, adjective), meaning 'of or relating to the Canary Islands', in reference to this species' supposed native geographical location. Despite this species' name, it does not occur naturally today in the Canary Islands, though it may have in the past.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -76576,7 +76576,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "chathamica (Latinised), meaning 'of or relating to the Chatham Islands', in reference to this species' native geographical location.",
+      "species": "<i>chathamica</i> (Latinised), meaning 'of or relating to the Chatham Islands', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -76939,7 +76939,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "mīcrophylla (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of this species' leaves.",
+      "species": "<i>mīcrophylla</i> (Latin, adjective), derived from the Greek adjective μικρός (<i>mīkrós</i>, 'small') and noun φύλλον (<i>phúllon</i>, 'leaf'), meaning 'small leaves', in reference to the size of this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80482,7 +80482,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "species": "<i>serrāta</i> (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -80629,7 +80629,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "serrāta (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
+      "species": "<i>serrāta</i> (Latin, adjective), meaning 'serrated, saw-toothed', in reference to the serrated edges of the leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
