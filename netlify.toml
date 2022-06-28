@@ -3263,7 +3263,13 @@
     force = true
     from = "/trees/cordyline-green-goddess-ti-kouka-cabbage-tree/"
     status = 301
-    to = "/trees/cordyline-green-goddess/"
+    to = "/trees/cordyline-obtecta-green-goddess/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cordyline-green-goddess/"
+    status = 301
+    to = "/trees/cordyline-obtecta-green-goddess/"
 
 
 [[redirects]]
