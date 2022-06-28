@@ -21969,7 +21969,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "brockii",
     "hybrid": "",
@@ -21981,9 +21981,9 @@
     "commonName": "Taupata",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs.",
+      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus.",
+      "species": "<i>brockii</i>, unknown origin, but possibly a Latinisation of a surname.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22040,7 +22040,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "grandifolia",
     "hybrid": "",
@@ -22052,9 +22052,9 @@
     "commonName": "Kanono",
     "otherCommonNames": "Raurēkau, Large-leaved Coprosma",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs.",
+      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus.",
+      "species": "<i>grandifolia</i> (Latin, adjective), derived from the Latin adjective <i>grandis</i> (large) and noun <i>folium</i> (leaf), meaning 'large-leaved', in reference to the large leaves of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22111,72 +22111,10 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Inferno",
-    "synonyms": [],
-    "commonName": "Taupata",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "coprosma-inferno",
-    "mainImage": "coprosma-inferno-taupata/coprosma-inferno-taupata.jpg",
-    "description": "Has glossy, green leaves edged with yellow-orange during spring and summer. The leaves change to a dark-purple with red margins during autumn and winter. A trouble-free grower that requires little maintenance. An ideal patio plant.",
-    "uses": "",
-    "tolerates": "coastal, windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "native",
-    "types": "",
-    "height": "2m",
-    "width": "1m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, yellow, orange",
-      "autumn": "purple, red",
-      "winter": "purple, red",
-      "spring": "green, yellow, orange"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/coprosma/coprosma-small.svg",
-    "relatedTrees": "",
-    "images": [],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Coprosma",
-    "species": "kirkii",
-    "hybrid": "",
+    "hybrid": "kirkii",
     "subspecies": "",
     "variety": "",
     "form": "",
@@ -22185,17 +22123,17 @@
     "commonName": "Taupata",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs.",
+      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>kirkii</i>, unknown origin, but possibly a Latinisation of a surname.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
-    "url": "coprosma-kirkii-variegata",
+    "url": "coprosma-x-kirkii-variegata",
     "mainImage": "coprosma-kirkii-variegata-taupata/coprosma-kirkii-variegata-taupata.jpg",
-    "description": "A low-growing native. Small, sage-green leaves are edged cream-white. Eye-catching contrast to lighten up areas. Excellent for containers. Great for groundcovers and low-hedges.",
+    "description": "A low-growing native. Small, sage-green leaves are edged cream-white. Eye-catching contrast to lighten up areas. Excellent for containers. Great for groundcovers and low-hedges. <i>Coprosma</i> x <i>kirkii</i> is a hybrid between <a href='https://www.nzpcn.org.nz/flora/species/coprosma-acerosa/' target='_blank' rel='noopener noreferrer'><i>Coprosma acerosa</i></a> and <a href='/trees/coprosma-repens/'><i>Coprosma repens</i></a>.",
     "uses": "",
     "tolerates": "coastal, windy",
     "soilType": "dry-soils",
@@ -22240,7 +22178,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "repens",
     "hybrid": "",
@@ -22307,7 +22245,69 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
+    "genus": "Coprosma",
+    "species": "repens",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Inferno",
+    "synonyms": [],
+    "commonName": "Taupata",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs.",
+      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus.",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "coprosma-repens-inferno",
+    "mainImage": "coprosma-inferno-taupata/coprosma-inferno-taupata.jpg",
+    "description": "Has glossy, green leaves edged with yellow-orange during spring and summer. The leaves change to a dark-purple with red margins during autumn and winter. A trouble-free grower that requires little maintenance. An ideal patio plant.",
+    "uses": "",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "2m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, yellow, orange",
+      "autumn": "purple, red",
+      "winter": "purple, red",
+      "spring": "green, yellow, orange"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/coprosma/coprosma-small.svg",
+    "relatedTrees": "",
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "repens",
     "hybrid": "",
@@ -22369,7 +22369,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rubiaceae",
     "genus": "Coprosma",
     "species": "virescens",
     "hybrid": "",

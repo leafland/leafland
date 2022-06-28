@@ -3188,14 +3188,26 @@
     force = true
     from = "/trees/coprosma-inferno-taupata/"
     status = 301
-    to = "/trees/coprosma-inferno/"
+    to = "/trees/coprosma-repens-inferno/"
+
+[[redirects]]
+    force = true
+    from = "/trees/coprosma-inferno/"
+    status = 301
+    to = "/trees/coprosma-repens-inferno/"
 
 
 [[redirects]]
     force = true
     from = "/trees/coprosma-kirkii-variegata-taupata/"
     status = 301
-    to = "/trees/coprosma-kirkii-variegata/"
+    to = "/trees/coprosma-x-kirkii-variegata/"
+
+[[redirects]]
+    force = true
+    from = "/trees/coprosma-kirkii-variegata/"
+    status = 301
+    to = "/trees/coprosma-x-kirkii-variegata/"
 
 
 [[redirects]]
