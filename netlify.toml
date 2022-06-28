@@ -3276,7 +3276,13 @@
     force = true
     from = "/trees/cordyline-red-star-ti-kouka-cabbage-tree/"
     status = 301
-    to = "/trees/cordyline-red-star/"
+    to = "/trees/cordyline-australis-red-star/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cordyline-red-star/"
+    status = 301
+    to = "/trees/cordyline-australis-red-star/"
 
 
 [[redirects]]

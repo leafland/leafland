@@ -22579,6 +22579,81 @@
   {
     "family": "Asparagaceae",
     "genus": "Cordyline",
+    "species": "australis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Red Star",
+    "synonyms": [],
+    "commonName": "Tī Kōuka",
+    "otherCommonNames": "Cabbage Tree",
+    "nameBreakdown": {
+      "family": "asparagus family, a family of flowering plants.",
+      "genus": "<i>cordyline</i>, derived from the Greek noun κορδύλη (<i>kordúlē</i>, 'club, cudgel'), in reference to the enlarged underground stems or rhizomes of species in this genus. A genus of flowering plants native to the western Pacific Ocean region, from New Zealand, eastern Australia, southeastern Asia and Polynesia, with one species found in southeastern South America.",
+      "species": "<i>austrālis</i> (Latin, adjective), meaning 'southern', in reference to this species' native geographical location. Does not necessarily mean from Australia.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "cordyline-australis-red-star",
+    "mainImage": "cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree.jpg",
+    "description": "Has bronze-red, strap-like leaves. Coastal and frost tolerant once established. Best in full-sun in well-drained soil. Great for containers and adding colour to a garden.",
+    "uses": "small-garden, attracts-bees, attracts-birds",
+    "tolerates": "",
+    "soilType": "clay-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/cordyline/cordyline-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-foliage.jpeg",
+        "alt": "cordyline red star ti kouka cabbage tree foliage"
+      },
+      {
+        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-group.jpeg",
+        "alt": "cordyline red star ti kouka cabbage tree group"
+      },
+      {
+        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-leaves.jpeg",
+        "alt": "cordyline red star ti kouka cabbage tree leaves"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Asparagaceae",
+    "genus": "Cordyline",
     "species": "banksii",
     "hybrid": "",
     "subspecies": "",
@@ -22802,8 +22877,18 @@
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Red Star",
-    "synonyms": [],
+    "cultivar": "Renegade",
+    "synonyms": [
+      {
+        "genus": "Cordyline",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Tana"
+      }
+    ],
     "commonName": "Tī Kōuka",
     "otherCommonNames": "Cabbage Tree",
     "nameBreakdown": {
@@ -22815,84 +22900,9 @@
       "variety": "",
       "form": ""
     },
-    "url": "cordyline-red-star",
-    "mainImage": "cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree.jpg",
-    "description": "Has bronze-red, strap-like leaves. Coastal and frost tolerant once established. Best in full-sun in well-drained soil. Great for containers and adding colour to a garden.",
-    "uses": "small-garden, attracts-bees, attracts-birds",
-    "tolerates": "",
-    "soilType": "clay-soils",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "native",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "red",
-      "autumn": "red",
-      "winter": "red",
-      "spring": "red"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/cordyline/cordyline-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-foliage.jpeg",
-        "alt": "cordyline red star ti kouka cabbage tree foliage"
-      },
-      {
-        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-group.jpeg",
-        "alt": "cordyline red star ti kouka cabbage tree group"
-      },
-      {
-        "src": "images/trees/cordyline-red-star-ti-kouka-cabbage-tree/cordyline-red-star-ti-kouka-cabbage-tree-leaves.jpeg",
-        "alt": "cordyline red star ti kouka cabbage tree leaves"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Asparagaceae",
-    "genus": "Cordyline",
-    "species": "",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Renegade",
-    "synonyms": [],
-    "commonName": "Tī Kōuka",
-    "otherCommonNames": "Cabbage Tree",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
     "url": "cordyline-renegade",
     "mainImage": "cordyline-renegade-ti-kouka-cabbage-tree/cordyline-renegade-ti-kouka-cabbage-tree.jpg",
-    "description": "Has broad leaves of glossy, dark-purple. A sturdy grower which matures with multi-trunks. Produces panicles of small, white, fragrant flowers in early-spring. Excellent for large containers.",
+    "description": "Has broad leaves of glossy, dark-purple. A sturdy grower which matures with multi-trunks. Produces panicles of small, white, fragrant flowers in early-spring. Excellent for large containers. <i>Cordyline</i> 'Renegade' is a hybrid between <a href='/trees/cordyline-australis/'><i>Cordyline australis</i></a> and <a href='/trees/cordyline-banksii/'><i>Cordyline banksii</i></a>.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
     "soilType": "clay-soils",
@@ -22929,7 +22939,7 @@
     "treeShape": "images/icons/tree-shapes/cordyline/cordyline-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": ["https://www.smgrowers.com/info/cordyline.asp"]
   },
   {
     "family": "",
