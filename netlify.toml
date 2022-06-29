@@ -3548,7 +3548,13 @@
     force = true
     from = "/trees/cornus-stolonifera-flaviramea-golden-twig-dogwood/"
     status = 301
-    to = "/trees/cornus-stolonifera-flaviramea/"
+    to = "/trees/cornus-sericea-flaviramea/"
+
+[[redirects]]
+    force = true
+    from = "/trees/cornus-stolonifera-flaviramea/"
+    status = 301
+    to = "/trees/cornus-sericea-flaviramea/"
 
 
 [[redirects]]
