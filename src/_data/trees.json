@@ -27344,7 +27344,7 @@
       "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "<i>crataegus</i>, derived from the Greek noun κράτος (<i>krátos</i>, 'might, strength, power'), in reference to the great strength of the wood, and from the Greek noun ἀκίς (<i>akís</i>, 'sharp, pointed object'), in reference to some species in this genus having thorns. Commonly known as hawthorn, quickthorn, thornapple, May-tree, whitethorn, or hawberry, a genus of flowering trees and shrubs native to temperate regions of the Northern Hemisphere in Europe, Asia, North Africa, and North America.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>media</i> (Latin, adjective), meaning 'middle, half, intermediate', in reference to the hybrid origin of this hybrid species.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -27465,7 +27465,7 @@
       "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
       "genus": "<i>crataegus</i>, derived from the Greek noun κράτος (<i>krátos</i>, 'might, strength, power'), in reference to the great strength of the wood, and from the Greek noun ἀκίς (<i>akís</i>, 'sharp, pointed object'), in reference to some species in this genus having thorns. Commonly known as hawthorn, quickthorn, thornapple, May-tree, whitethorn, or hawberry, a genus of flowering trees and shrubs native to temperate regions of the Northern Hemisphere in Europe, Asia, North Africa, and North America.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>media</i> (Latin, adjective), meaning 'middle, half, intermediate', in reference to the hybrid origin of this hybrid species.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -27529,7 +27529,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cryptomeria",
     "species": "japonica",
     "hybrid": "",
@@ -27537,12 +27537,22 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cupressus",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Japanese Cedar",
-    "otherCommonNames": "",
+    "otherCommonNames": "Japanese Redwood",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cryptomeria</i>, derived from the Greek adjective κρυπτός (<i>kruptós</i>, 'concealed, hidden, secret') and noun μέρος (<i>méros</i>, 'part, component'), meaning 'hidden part', in reference to the concealed position of the male cones of species in this genus. A genus of evergreen trees native to Japan.",
       "species": "<i>jāpōnica</i> (Latin, adjective), meaning 'Japanese, of or relating to Japan', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -27612,7 +27622,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cryptomeria",
     "species": "japonica",
     "hybrid": "",
@@ -27620,12 +27630,22 @@
     "variety": "",
     "form": "",
     "cultivar": "Egmont",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cupressus",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Egmont"
+      }
+    ],
     "commonName": "Japanese Cedar",
-    "otherCommonNames": "",
+    "otherCommonNames": "Japanese Redwood",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cryptomeria</i>, derived from the Greek adjective κρυπτός (<i>kruptós</i>, 'concealed, hidden, secret') and noun μέρος (<i>méros</i>, 'part, component'), meaning 'hidden part', in reference to the concealed position of the male cones of species in this genus. A genus of evergreen trees native to Japan.",
       "species": "<i>jāpōnica</i> (Latin, adjective), meaning 'Japanese, of or relating to Japan', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
