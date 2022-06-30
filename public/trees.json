@@ -27319,29 +27319,39 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rosaceae",
     "genus": "Crataegus",
-    "species": "laevigata",
-    "hybrid": "",
+    "species": "",
+    "hybrid": "media",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "Paul's Scarlet",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Crataegus",
+        "species": "laevigata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Paul's Scarlet"
+      }
+    ],
     "commonName": "Hawthorn",
-    "otherCommonNames": "",
+    "otherCommonNames": "Midland Hawthorn, English Hawthorn, Woodland Hawthorn",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
+      "genus": "<i>crataegus</i>, derived from the Greek noun κράτος (<i>krátos</i>, 'might, strength, power'), in reference to the great strength of the wood, and from the Greek noun ἀκίς (<i>akís</i>, 'sharp, pointed object'), in reference to some species in this genus having thorns. Commonly known as hawthorn, quickthorn, thornapple, May-tree, whitethorn, or hawberry, a genus of flowering trees and shrubs native to temperate regions of the Northern Hemisphere in Europe, Asia, North Africa, and North America.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
-    "url": "crataegus-laevigata-pauls-scarlet",
+    "url": "crataegus-x-media-pauls-scarlet",
     "mainImage": "crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn.jpg",
-    "description": "This cultivar was discovered as a branch sport on a Crataegus laevigata 'Rosea Flore Pleno' in the mid-19th century. Upright tree with a compact, rounded head. Impressive heads of double crimson-red flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions.",
+    "description": "This cultivar was discovered as a branch sport on a Crataegus laevigata 'Rosea Flore Pleno' in the mid-19th century. Upright tree with a compact, rounded head. Impressive heads of double crimson-red flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions. <a href='https://en.wikipedia.org/wiki/Crataegus_%C3%97_media' target='_blank' rel='noopener noreferrer'><i>Crataegus</i> x <i>media</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Crataegus_monogyna' target='_blank' rel='noopener noreferrer'><i>Crataegus monogyna</i></a> and <a href='https://en.wikipedia.org/wiki/Crataegus_laevigata' target='_blank' rel='noopener noreferrer'><i>Crataegus laevigata</i></a>.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
     "soilType": "dry-soils, poor-draining-soils, clay-soils, sandy-soils, rocky-soils",
@@ -27394,29 +27404,75 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Rosaceae",
     "genus": "Crataegus",
-    "species": "laevigata",
-    "hybrid": "",
+    "species": "",
+    "hybrid": "media",
     "subspecies": "",
     "variety": "",
     "form": "",
     "cultivar": "Rosea Flore Pleno",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Crataegus",
+        "species": "laevigata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Rosea Flore Pleno"
+      },
+      {
+        "genus": "Crataegus",
+        "species": "laevigata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Coccinea Flore Pleno"
+      },
+      {
+        "genus": "Crataegus",
+        "species": "",
+        "hybrid": "media",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Coccinea Flore Pleno"
+      },
+      {
+        "genus": "Crataegus",
+        "species": "laevigata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Punicea Flore Pleno"
+      },
+      {
+        "genus": "Crataegus",
+        "species": "",
+        "hybrid": "media",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Punicea Flore Pleno"
+      }
+    ],
     "commonName": "Hawthorn",
-    "otherCommonNames": "",
+    "otherCommonNames": "Midland Hawthorn, English Hawthorn, Woodland Hawthorn",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees.",
+      "genus": "<i>crataegus</i>, derived from the Greek noun κράτος (<i>krátos</i>, 'might, strength, power'), in reference to the great strength of the wood, and from the Greek noun ἀκίς (<i>akís</i>, 'sharp, pointed object'), in reference to some species in this genus having thorns. Commonly known as hawthorn, quickthorn, thornapple, May-tree, whitethorn, or hawberry, a genus of flowering trees and shrubs native to temperate regions of the Northern Hemisphere in Europe, Asia, North Africa, and North America.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
-    "url": "crataegus-laevigata-rosea-flore-pleno",
+    "url": "crataegus-x-media-rosea-flore-pleno",
     "mainImage": "crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn.jpg",
-    "description": "Upright tree with a compact, rounded head. Impressive heads of double salmon-pink flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions.",
+    "description": "Upright tree with a compact, rounded head. Impressive heads of double salmon-pink flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions. <a href='https://en.wikipedia.org/wiki/Crataegus_%C3%97_media' target='_blank' rel='noopener noreferrer'><i>Crataegus</i> x <i>media</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Crataegus_monogyna' target='_blank' rel='noopener noreferrer'><i>Crataegus monogyna</i></a> and <a href='https://en.wikipedia.org/wiki/Crataegus_laevigata' target='_blank' rel='noopener noreferrer'><i>Crataegus laevigata</i></a>.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
     "soilType": "dry-soils, poor-draining-soils, clay-soils, sandy-soils, rocky-soils",

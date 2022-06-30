@@ -3694,14 +3694,26 @@
     force = true
     from = "/trees/crataegus-laevigata-pauls-scarlet-hawthorn/"
     status = 301
-    to = "/trees/crataegus-laevigata-pauls-scarlet/"
+    to = "/trees/crataegus-x-media-pauls-scarlet/"
+
+[[redirects]]
+    force = true
+    from = "/trees/crataegus-laevigata-pauls-scarlet/"
+    status = 301
+    to = "/trees/crataegus-x-media-pauls-scarlet/"
 
 
 [[redirects]]
     force = true
     from = "/trees/crataegus-laevigata-rosea-flore-pleno-hawthorn/"
     status = 301
-    to = "/trees/crataegus-laevigata-rosea-flore-pleno/"
+    to = "/trees/crataegus-x-media-rosea-flore-pleno/"
+
+[[redirects]]
+    force = true
+    from = "/trees/crataegus-laevigata-rosea-flore-pleno/"
+    status = 301
+    to = "/trees/crataegus-x-media-rosea-flore-pleno/"
 
 
 [[redirects]]
