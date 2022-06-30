@@ -26882,7 +26882,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Anacardiaceae",
     "genus": "Cotinus",
     "species": "coggygria",
     "hybrid": "",
@@ -26899,14 +26899,32 @@
         "variety": "",
         "form": "",
         "cultivar": "Ancot"
+      },
+      {
+        "genus": "Rhus",
+        "species": "cotinus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Golden Spirit"
+      },
+      {
+        "genus": "Rhus",
+        "species": "cotinus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ancot"
       }
     ],
     "commonName": "Smoke Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cashew or sumac family, a family of flowering plants mostly native to tropical North America, South America, Africa, and India.",
+      "genus": "<i>cotinus</i> (Latin, noun), meaning 'a shrub that gives or furnishes a purple colour', a name given by Pliny the Elder (AD 23/24 - 79) to a shrub growing in the Apennine Mountains, Italy from which the Romans extracted a purple dye. Pliny derived this name from the Greek noun κότινος (<i>kótinos</i>, 'wild olive tree [<i>Olea europaea</i>]'). Commonly known as smoke bush or smoketree, a genus of flowering large shrubs and small trees native to the warm temperate Northern Hemisphere.",
+      "species": "<i>coggygria</i>, derived from the Greek noun κοκκυγέα (<i>kokkūgéā</i>), which is the Greek name for this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26967,7 +26985,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Anacardiaceae",
     "genus": "Cotinus",
     "species": "coggygria",
     "hybrid": "",
@@ -26975,13 +26993,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Red Spirit",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Rhus",
+        "species": "cotinus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Red Spirit"
+      }
+    ],
     "commonName": "Smoke Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cashew or sumac family, a family of flowering plants mostly native to tropical North America, South America, Africa, and India.",
+      "genus": "<i>cotinus</i> (Latin, noun), meaning 'a shrub that gives or furnishes a purple colour', a name given by Pliny the Elder (AD 23/24 - 79) to a shrub growing in the Apennine Mountains, Italy from which the Romans extracted a purple dye. Pliny derived this name from the Greek noun κότινος (<i>kótinos</i>, 'wild olive tree [<i>Olea europaea</i>]'). Commonly known as smoke bush or smoketree, a genus of flowering large shrubs and small trees native to the warm temperate Northern Hemisphere.",
+      "species": "<i>coggygria</i>, derived from the Greek noun κοκκυγέα (<i>kokkūgéā</i>), which is the Greek name for this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27042,7 +27070,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Anacardiaceae",
     "genus": "Cotinus",
     "species": "coggygria",
     "hybrid": "",
@@ -27050,13 +27078,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Royal Purple",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Rhus",
+        "species": "cotinus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Royal Purple"
+      }
+    ],
     "commonName": "Smoke Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cashew or sumac family, a family of flowering plants mostly native to tropical North America, South America, Africa, and India.",
+      "genus": "<i>cotinus</i> (Latin, noun), meaning 'a shrub that gives or furnishes a purple colour', a name given by Pliny the Elder (AD 23/24 - 79) to a shrub growing in the Apennine Mountains, Italy from which the Romans extracted a purple dye. Pliny derived this name from the Greek noun κότινος (<i>kótinos</i>, 'wild olive tree [<i>Olea europaea</i>]'). Commonly known as smoke bush or smoketree, a genus of flowering large shrubs and small trees native to the warm temperate Northern Hemisphere.",
+      "species": "<i>coggygria</i>, derived from the Greek noun κοκκυγέα (<i>kokkūgéā</i>), which is the Greek name for this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27117,7 +27155,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Anacardiaceae",
     "genus": "Cotinus",
     "species": "",
     "hybrid": "",
@@ -27129,8 +27167,8 @@
     "commonName": "Smoke Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cashew or sumac family, a family of flowering plants mostly native to tropical North America, South America, Africa, and India.",
+      "genus": "<i>cotinus</i> (Latin, noun), meaning 'a shrub that gives or furnishes a purple colour', a name given by Pliny the Elder (AD 23/24 - 79) to a shrub growing in the Apennine Mountains, Italy from which the Romans extracted a purple dye. Pliny derived this name from the Greek noun κότινος (<i>kótinos</i>, 'wild olive tree [<i>Olea europaea</i>]'). Commonly known as smoke bush or smoketree, a genus of flowering large shrubs and small trees native to the warm temperate Northern Hemisphere.",
       "species": "",
       "hybrid": "",
       "subspecies": "",
@@ -27204,7 +27242,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Anacardiaceae",
     "genus": "Cotinus",
     "species": "obovatus",
     "hybrid": "",
@@ -27212,13 +27250,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cotinus",
+        "species": "americanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Smoke Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cashew or sumac family, a family of flowering plants mostly native to tropical North America, South America, Africa, and India.",
+      "genus": "<i>cotinus</i> (Latin, noun), meaning 'a shrub that gives or furnishes a purple colour', a name given by Pliny the Elder (AD 23/24 - 79) to a shrub growing in the Apennine Mountains, Italy from which the Romans extracted a purple dye. Pliny derived this name from the Greek noun κότινος (<i>kótinos</i>, 'wild olive tree [<i>Olea europaea</i>]'). Commonly known as smoke bush or smoketree, a genus of flowering large shrubs and small trees native to the warm temperate Northern Hemisphere.",
+      "species": "<i>obovātus</i> (Latin, adjective), meaning 'egg-shaped', in reference to the shape of the leaves of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
