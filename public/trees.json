@@ -27782,7 +27782,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "arizonica",
     "hybrid": "",
@@ -27792,19 +27792,19 @@
     "cultivar": "Blue Ice",
     "synonyms": [],
     "commonName": "Smooth Arizona Cypress",
-    "otherCommonNames": "",
+    "otherCommonNames": "Arizona Smooth Bark Cypress",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
+      "species": "<i>arizonicā</i> (Latin, adjective), meaning 'of or relating to Arizona [a state in the United States]', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
-      "variety": "",
+      "variety": "<i>glabrā</i> (Latin, adjective), meaning 'smooth, hairless', in reference to this variety's smooth bark.",
       "form": ""
     },
     "url": "cupressus-arizonica-var-glabra-blue-ice",
     "mainImage": "cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress.jpg",
-    "description": "Compact, pyramidal-growing conifer with smooth, frosted, blue leaves. Very amenable to pruning into any shape or form. Quick-growing and hardy to strong winds and drought. Makes an excellent dense shelter.",
+    "description": "Compact, pyramidal-growing conifer with smooth, frosted, blue leaves. Very amenable to pruning into any shape or form. Quick-growing and hardy to strong winds and drought. Makes an excellent dense shelter. Highly resistant to cypress canker.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -27861,7 +27861,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "cashmeriana",
     "hybrid": "",
@@ -27869,13 +27869,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cupressus",
+        "species": "torulosa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "cashmeriana",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Kashmir Cypress",
-    "otherCommonNames": "",
+    "otherCommonNames": "Bhutan Cypress",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
+      "species": "<i>cashmeriana</i> (Latinised), meaning 'of or relating to Kashmir [the northernmost geographical region of the Indian subcontinent]', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27936,7 +27946,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "gigantea",
     "hybrid": "",
@@ -27944,13 +27954,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cupressus",
+        "species": "torulosa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "gigantea",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Tibetan Cypress",
-    "otherCommonNames": "Tsangpo Cypress",
+    "otherCommonNames": "Tsangpo Cypress, Tsangpo River Cypress",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
+      "species": "<i>giganteā</i> (Latin, adjective), meaning 'gigantic', in reference to the massive heights this species can reach in the wild.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -28015,7 +28035,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "",
     "hybrid": "leylandii",
@@ -28023,21 +28043,58 @@
     "variety": "",
     "form": "",
     "cultivar": "Ferndown",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "x Cupressocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ferndown"
+      },
+      {
+        "genus": "x Cuprocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ferndown"
+      },
+      {
+        "genus": "x Hesperotropsis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ferndown"
+      },
+      {
+        "genus": "Callitropsis",
+        "species": "",
+        "hybrid": "leylandii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Ferndown"
+      }
+    ],
     "commonName": "Leyland Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>leylandii</i> (Latinised), named in 1926 by the English botanist William Dallimore (1871 - 1959) and his associate, the British botanist and dendrologist Albert Bruce Jackson (1876 - 1947), in honour of Christopher Leyland who owned the estates in which this hybrid species was discovered.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "cupressus-x-leylandii-ferndown",
     "mainImage": "cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress.jpg",
-    "description": "Has light-green foliage. Grows with a narrow form and pendulous branches. Great for shelter belts.",
+    "description": "Has light-green foliage. Grows with a narrow form and pendulous branches. Great for shelter belts. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
     "soilType": "clay-soils, dry-soils",
@@ -28091,10 +28148,15 @@
         "alt": "cupressus x leylandii ferndown leyland cypress shelter"
       }
     ],
-    "links": []
+    "links": [
+      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://www.leylandii.com/history/",
+      "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
+      "https://conifersociety.org/conifers/cupressus-leylandii/"
+    ]
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "",
     "hybrid": "leylandii",
@@ -28102,21 +28164,58 @@
     "variety": "",
     "form": "",
     "cultivar": "Leighton Green",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "x Cupressocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Leighton Green"
+      },
+      {
+        "genus": "x Cuprocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Leighton Green"
+      },
+      {
+        "genus": "x Hesperotropsis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Leighton Green"
+      },
+      {
+        "genus": "Callitropsis",
+        "species": "",
+        "hybrid": "leylandii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Leighton Green"
+      }
+    ],
     "commonName": "Leyland Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>leylandii</i> (Latinised), named in 1926 by the English botanist William Dallimore (1871 - 1959) and his associate, the British botanist and dendrologist Albert Bruce Jackson (1876 - 1947), in honour of Christopher Leyland who owned the estates in which this hybrid species was discovered.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "cupressus-x-leylandii-leighton-green",
     "mainImage": "cupressus-x-leylandii-leighton-green-leyland-cypress/cupressus-x-leylandii-leighton-green-leyland-cypress.jpg",
-    "description": "Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow, dense screen. Always has fresh-green leaves which are soft to touch. Tolerant of moderate coastal exposure.",
+    "description": "Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow, dense screen. Always has fresh-green leaves which are soft to touch. Tolerant of moderate coastal exposure. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
     "soilType": "clay-soils, dry-soils",
@@ -28166,10 +28265,15 @@
         "alt": "cupressus x leylandii leighton green leyland cypress road"
       }
     ],
-    "links": []
+    "links": [
+      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://www.leylandii.com/history/",
+      "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
+      "https://conifersociety.org/conifers/cupressus-leylandii/"
+    ]
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "",
     "hybrid": "leylandii",
@@ -28177,21 +28281,58 @@
     "variety": "",
     "form": "",
     "cultivar": "Naylor's Blue",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "x Cupressocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Naylor's Blue"
+      },
+      {
+        "genus": "x Cuprocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Naylor's Blue"
+      },
+      {
+        "genus": "x Hesperotropsis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Naylor's Blue"
+      },
+      {
+        "genus": "Callitropsis",
+        "species": "",
+        "hybrid": "leylandii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Naylor's Blue"
+      }
+    ],
     "commonName": "Leyland Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>leylandii</i> (Latinised), named in 1926 by the English botanist William Dallimore (1871 - 1959) and his associate, the British botanist and dendrologist Albert Bruce Jackson (1876 - 1947), in honour of Christopher Leyland who owned the estates in which this hybrid species was discovered.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "cupressus-x-leylandii-naylors-blue",
     "mainImage": "cupressus-x-leylandii-naylors-blue-leyland-cypress/cupressus-x-leylandii-naylors-blue-leyland-cypress.jpg",
-    "description": "Has attractive blue-green foliage. Great for hedging and screening.",
+    "description": "Has attractive blue-green foliage. Great for hedging and screening. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
     "soilType": "clay-soils, dry-soils",
@@ -28233,10 +28374,15 @@
         "alt": "cupressus x leylandii naylors blue leyland cypress tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://www.leylandii.com/history/",
+      "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
+      "https://conifersociety.org/conifers/cupressus-leylandii/"
+    ]
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "",
     "hybrid": "leylandii",
@@ -28244,21 +28390,58 @@
     "variety": "",
     "form": "",
     "cultivar": "Stapehill",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "x Cupressocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Stapehill"
+      },
+      {
+        "genus": "x Cuprocyparis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Stapehill"
+      },
+      {
+        "genus": "x Hesperotropsis",
+        "species": "leylandii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Stapehill"
+      },
+      {
+        "genus": "Callitropsis",
+        "species": "",
+        "hybrid": "leylandii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Stapehill"
+      }
+    ],
     "commonName": "Leyland Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>leylandii</i> (Latinised), named in 1926 by the English botanist William Dallimore (1871 - 1959) and his associate, the British botanist and dendrologist Albert Bruce Jackson (1876 - 1947), in honour of Christopher Leyland who owned the estates in which this hybrid species was discovered.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "cupressus-x-leylandii-stapehill",
     "mainImage": "cupressus-x-leylandii-stapehill-leyland-cypress/cupressus-x-leylandii-stapehill-leyland-cypress.jpg",
-    "description": "Has light-green foliage. Grows with a narrow form and is lightly-branched. Great for shelter belts and hedges.",
+    "description": "Has light-green foliage. Grows with a narrow form and is lightly-branched. Great for shelter belts and hedges. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
     "soilType": "clay-soils, dry-soils",
@@ -28300,10 +28483,15 @@
         "alt": "cupressus x leylandii stapehill leyland cypress foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://www.leylandii.com/history/",
+      "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
+      "https://conifersociety.org/conifers/cupressus-leylandii/"
+    ]
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "",
     "hybrid": "ovensii",
@@ -28315,17 +28503,17 @@
     "commonName": "Oven's Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "",
-      "hybrid": "",
+      "hybrid": "<i>ovensii</i> (Latinised), named after Howard Ovens who, in 1961, collected seed from a <i>Cupressus lusitanica</i> near a grove of <i>Callitropsis nootkatensis</i> at the Westonbirt Arboretum in Gloucestershire, England. One of the resultant seedlings was this hybrid species.",
       "subspecies": "",
       "variety": "",
       "form": ""
     },
     "url": "cupressus-x-ovensii",
     "mainImage": "cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress.jpg",
-    "description": "Grows well in warmer areas. Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow dense screen. Always has fresh-green leaves which are soft to the touch. Tolerant of strong winds, but not coastal winds.",
+    "description": "Grows well in warmer areas. Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow dense screen. Always has fresh-green leaves which are soft to the touch. Tolerant of strong winds, but not coastal winds. Has better canker resistance than <i>Cupressus</i> x <i>leylandii</i> cultivars. <i>Cupressus</i> x <i>ovensii</i> is a hybrid between <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a> and <a href='https://en.wikipedia.org/wiki/Cupressus_lusitanica' target='_blank' rel='noopener noreferrer'><i>Cupressus lusitanica</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "windy",
     "soilType": "clay-soils, dry-soils",
@@ -28375,10 +28563,12 @@
         "alt": "cupressus x ovensii ovens cypress row"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.rnzih.org.nz/RNZIH_Journal/Pages_23-27_from_2013_Vol16_No1.pdf"
+    ]
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "sempervirens",
     "hybrid": "",
@@ -28390,8 +28580,8 @@
     "commonName": "Italian Cypress",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
+      "family": "cypress family, a family of coniferous trees found all around the world.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
       "species": "<i>sempervirēns</i> (Latin, adjective), derived from the Latin adverb <i>semper</i> (always) and participle <i>virēns</i> (green, flourishing), meaning 'evergreen, always flourishing', in reference to this species being evergreen and not losing its leaves in the colder months.",
       "hybrid": "",
       "subspecies": "",
@@ -28473,7 +28663,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "sempervirens",
     "hybrid": "",
@@ -28540,7 +28730,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "sempervirens",
     "hybrid": "",
@@ -28627,7 +28817,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "sempervirens",
     "hybrid": "",
@@ -28702,7 +28892,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cupressaceae",
     "genus": "Cupressus",
     "species": "sempervirens",
     "hybrid": "",
