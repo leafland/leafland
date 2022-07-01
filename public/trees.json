@@ -29315,7 +29315,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cycadaceae",
     "genus": "Cycas",
     "species": "revoluta",
     "hybrid": "",
@@ -29327,9 +29327,9 @@
     "commonName": "Japanese Sago Palm",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "cycad family, a family of ancient plants that resemble palms and tree ferns.",
+      "genus": "<i>cycas</i>, derived from the Greek noun κυκας (<i>kukas</i>), which is thought to be a transcription error for the Greek noun κόϊκας (<i>kóïkas</i>, 'palm tree [specifically <i>Hyphaene thebaica</i>]') that occured when a scribe was copying a work of Theophrastus. A genus of ancient plants that resemble palms and tree ferns.",
+      "species": "<i>revolūta</i> (Latin, participle), meaning 'revolved, rolled', in reference to the leaflets of this species, which curl under.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29387,7 +29387,7 @@
         "alt": "cycas revoluta japanese sago palm leaves"
       }
     ],
-    "links": []
+    "links": ["https://www.cycadpalm.com/meofcyna.html"]
   },
   {
     "family": "",
@@ -29931,7 +29931,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Dicksoniaceae",
     "genus": "Dicksonia",
     "species": "fibrosa",
     "hybrid": "",
@@ -29943,9 +29943,9 @@
     "commonName": "Kurīpākā",
     "otherCommonNames": "Golden Tree Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of ferns that are found mostly in tropical regions of the Southern Hemisphere, but can be found as far south as southern New Zealand.",
+      "genus": "<i>dicksonia</i> (Latinised), named after the Scottish nurseryman and botanist James Dickson (1738 - 1822). A genus of tree ferns found in Mexico, Argentina, Brazil, Uruguay, Chile, Saint Helena, New Zealand, New Caledonia, Australia, Indonesia, New Guinea, and the Philippines.",
+      "species": "<i>fibrosa</i> (Latin, adjective), meaning 'fibrous', in reference to the trunk of this species, which is protected by a thick layer of fibrous material.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30010,7 +30010,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Dicksoniaceae",
     "genus": "Dicksonia",
     "species": "squarrosa",
     "hybrid": "",
@@ -30022,9 +30022,9 @@
     "commonName": "Whekī",
     "otherCommonNames": "Rough Tree Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of ferns that are found mostly in tropical regions of the Southern Hemisphere, but can be found as far south as southern New Zealand.",
+      "genus": "<i>dicksonia</i> (Latinised), named after the Scottish nurseryman and botanist James Dickson (1738 - 1822). A genus of tree ferns found in Mexico, Argentina, Brazil, Uruguay, Chile, Saint Helena, New Zealand, New Caledonia, Australia, Indonesia, New Guinea, and the Philippines.",
+      "species": "<i>squarrōsa</i> (Latin, adjective), meaning 'rough', in reference to the rough fronds of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
