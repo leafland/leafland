@@ -28979,7 +28979,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cyatheaceae",
     "genus": "Cyathea",
     "species": "cunninghamii",
     "hybrid": "",
@@ -28987,13 +28987,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Alsophila",
+        "species": "cunninghamii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Pūnui",
     "otherCommonNames": "Gully Tree Fern, Slender Tree Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of tree ferns.",
+      "genus": "<i>cyathea</i>, derived from the Latin noun <i>cyathus</i> meaning 'a small ladle, beaker, or cup', in reference to the cup-shaped sori on the underside of the fronds of species in this genus. A genus of tree ferns that grow in habitats ranging from tropical rain forests to temperate woodlands.",
+      "species": "<i>cunninghamii</i> (Latinised), named in honour of the English botanist and explorer Allan Cunningham (1791 - 1839), a plant collector for the Royal Botanic Gardens, Kew in the United Kingdom who visited New Zealand in 1826.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29050,7 +29060,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cyatheaceae",
     "genus": "Cyathea",
     "species": "dealbata",
     "hybrid": "",
@@ -29058,13 +29068,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Alsophila",
+        "species": "dealbata",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Ponga",
     "otherCommonNames": "Silver Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of tree ferns.",
+      "genus": "<i>cyathea</i>, derived from the Latin noun <i>cyathus</i> meaning 'a small ladle, beaker, or cup', in reference to the cup-shaped sori on the underside of the fronds of species in this genus. A genus of tree ferns that grow in habitats ranging from tropical rain forests to temperate woodlands.",
+      "species": "<i>dealbāta</i> (Latin, participle), meaning 'whitewashed', in reference to the distinctive silver-white undersides of the fronds of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29133,7 +29153,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cyatheaceae",
     "genus": "Cyathea",
     "species": "medullaris",
     "hybrid": "",
@@ -29155,9 +29175,9 @@
     "commonName": "Mamaku",
     "otherCommonNames": "Black Tree Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of tree ferns.",
+      "genus": "<i>cyathea</i>, derived from the Latin noun <i>cyathus</i> meaning 'a small ladle, beaker, or cup', in reference to the cup-shaped sori on the underside of the fronds of species in this genus. A genus of tree ferns that grow in habitats ranging from tropical rain forests to temperate woodlands.",
+      "species": "<i>medullaris</i> (Latin, adjective), meaning 'pithy, filled with pith or marrow', in reference to the pith of the trunk of this species that was cooked and eaten by Māori.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29214,7 +29234,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Cyatheaceae",
     "genus": "Cyathea",
     "species": "smithii",
     "hybrid": "",
@@ -29222,13 +29242,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Alsophila",
+        "species": "smithii",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Kātote",
     "otherCommonNames": "Soft Tree Fern",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of tree ferns.",
+      "genus": "<i>cyathea</i>, derived from the Latin noun <i>cyathus</i> meaning 'a small ladle, beaker, or cup', in reference to the cup-shaped sori on the underside of the fronds of species in this genus. A genus of tree ferns that grow in habitats ranging from tropical rain forests to temperate woodlands.",
+      "species": "<i>smithii</i> (Latinised), named in honour of the British botanist John Smith (1798 - 1888) who was the first curator at the Royal Botanic Gardens, Kew in the United Kingdom.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
