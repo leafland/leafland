@@ -1089,7 +1089,7 @@
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering trees, lianas, and herbaceous plants that occur in many temperate and tropical regions.",
       "genus": "<i>ācer</i> (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs.",
-      "species": "<i>davidii</i> (Latinised), in reference to the supposed discoverer, Armand David (1826 - 1900). The species was originally discovered by a Chinese person, but unfortunately their name has been lost to history. Armand David took credit for this species' discovery when he was a missionary in Central China.",
+      "species": "<i>davidii</i> (Latinised), in reference to the supposed discoverer, the Catholic priest, zoologist, and botanist Armand David (1826 - 1900). The species was originally discovered by a Chinese person, but unfortunately their name has been lost to history. Armand David took credit for this species' discovery when he was a missionary in Central China.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29856,7 +29856,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Nyssaceae",
     "genus": "Davidia",
     "species": "involucrata",
     "hybrid": "",
@@ -29868,9 +29868,9 @@
     "commonName": "Dove Tree",
     "otherCommonNames": "Handkerchief Tree, Ghost Tree",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering trees.",
+      "genus": "<i>davidia</i> (Latinised), named after the Catholic priest, zoologist, and botanist Armand David (1826 - 1900) who first described the species <i>Davidia involucrata</i> in 1869. A genus of flowering trees native to South Central and Southwest China.",
+      "species": "<i>involucrata</i>, derived from the Latin noun <i>involūcrum</i>, meaning 'wrapper, covering, case', in reference to the large white bracts that surround the flower heads of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30089,7 +30089,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Sapindaceae",
     "genus": "Dodonaea",
     "species": "viscosa",
     "hybrid": "",
@@ -30101,9 +30101,9 @@
     "commonName": "Akeake",
     "otherCommonNames": "Hopbush",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "soapberry family, a family of flowering trees, lianas, and herbaceous plants that occur in many temperate and tropical regions.",
+      "genus": "<i>dodonaea</i> (Latinised), named after the Flemish physician and botanist Rembert Dodoens (1517 - 1585), who has been referred to as the father of botany. Commonly known as hopbush, a genus of flowering shrubs and small trees native to tropical, subtropical, and warm temperate regions of Africa, the Americas, southern Asia, and Australasia.",
+      "species": "<i>viscōsa</i> (Latin, adjective), meaning 'viscous, sticky', in reference to the young leaves of this species that are covered with a sticky secretion that hardens with age.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30164,7 +30164,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Sapindaceae",
     "genus": "Dodonaea",
     "species": "viscosa",
     "hybrid": "",
@@ -30176,9 +30176,9 @@
     "commonName": "Akeake",
     "otherCommonNames": "Hopbush",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "soapberry family, a family of flowering trees, lianas, and herbaceous plants that occur in many temperate and tropical regions.",
+      "genus": "<i>dodonaea</i> (Latinised), named after the Flemish physician and botanist Rembert Dodoens (1517 - 1585), who has been referred to as the father of botany. Commonly known as hopbush, a genus of flowering shrubs and small trees native to tropical, subtropical, and warm temperate regions of Africa, the Americas, southern Asia, and Australasia.",
+      "species": "<i>viscōsa</i> (Latin, adjective), meaning 'viscous, sticky', in reference to the young leaves of this species that are covered with a sticky secretion that hardens with age.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30247,7 +30247,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Poaceae",
     "genus": "Drepanostachyum",
     "species": "falcatum",
     "hybrid": "",
@@ -30276,11 +30276,11 @@
       }
     ],
     "commonName": "Fairy Bamboo",
-    "otherCommonNames": "Himalayan Bamboo",
+    "otherCommonNames": "Himalayan Bamboo, Himalayan Weeping Bamboo",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "grass family, a family of flowering annual and perennial herbs native to all continents of the world, including Antarctica.",
+      "genus": "<i>drepanostachyum</i>, derived from the Greek nouns δρεπάνη (<i>drepánē</i>, 'sickle') and στάχυς (<i>stákhus</i>, 'an ear of grain'), in reference to the synflorescences (clusters of flowers) of species in this genus being shaped like a spike. Commonly known as bamboo, a genus of grasses native to China, Indochina, and the Indian Subcontinent.",
+      "species": "<i>falcātum</i> (Latin, adjective), meaning 'curved, hooked, sickle-shaped', in reference to the sickle-shaped flowering branches of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
