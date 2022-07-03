@@ -30337,7 +30337,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Meliaceae",
     "genus": "Dysoxylum",
     "species": "spectabile",
     "hybrid": "",
@@ -30345,13 +30345,23 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Didymocheton",
+        "species": "spectabilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Kohekohe",
     "otherCommonNames": "New Zealand Mahogany",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "mahogany family, a family of flowering trees, shrubs, and herbs.",
+      "genus": "<i>dysoxylum</i>, derived from the Greek prefix δυσ (<i>dus</i>, 'bad') and noun ξύλον (<i>xúlon</i>, 'wood'), meaning 'bad-smelling wood', in reference to the fetid odour of the wood of some species in this genus. A genus of flowering trees and shrubs native to New Guinea, eastern and northern Australia, New Caledonia, Fiji, Southeast Asia, southern China, the Indian subcontinent, the Philippines, Taiwan, the Caroline Islands, New Zealand, and Niue.",
+      "species": "<i>spectābile</i> (Latin, adjective), meaning 'notable, admirable, remarkable', possibly in reference to the sweet-smelling flowers that sprout directly from the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
