@@ -29708,7 +29708,7 @@
     "nameBreakdown": {
       "family": "podocarp family, a family of mainly Southern Hemisphere coniferous trees and shrubs.",
       "genus": "<i>dacrydium</i>, derived from the Greek noun δάκρυ (<i>dákru</i>) meaning 'a tear', in reference to the exudation of small tear-shaped resin droplets from the wood. A genus of coniferous trees and shrubs native to New Zealand, New Caledonia, Fiji, the Solomon Islands, New Guinea, Indonesia, Malaysia, the Philippines, Thailand, and southern China.",
-      "species": "<i>cupressinum</i> (Latin, adjective), meaning 'of or relating to a cypress tree'.",
+      "species": "<i>cupressinum</i> (Latin, adjective), meaning 'of or relating to a cypress tree', in reference to this species supposedly resembling some species in the genus <i>Cupressus</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -29773,7 +29773,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Daphniphyllaceae",
     "genus": "Daphniphyllum",
     "species": "macropodum",
     "hybrid": "",
@@ -29782,12 +29782,12 @@
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Large-stalked Daphniphyllum",
+    "commonName": "Daphniphyllum",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering evergreen shrubs and trees native to east and southeast Asia, the Indian Subcontinent, and New Guinea.",
+      "genus": "<i>daphniphyllum</i>, derived from the Greek nouns δάφνη (<i>dáphnē</i>, 'sweet bay laurel [specifically <i>Laurus nobilis</i>]') and φύλλον (<i>phúllon</i>, 'leaf'), meaning 'bay-leaved', in reference to the leaves of some species in this genus resembling those of <i>Laurus nobilis</i>. A genus of flowering evergreen shrubs and trees native to east and southeast Asia, the Indian Subcontinent, and New Guinea.",
+      "species": "<i>macropodum</i>, derived from the Greek adjective μακρός (<i>makrós</i>, 'long') and noun πούς (<i>poús</i>, 'foot, leg'), meaning 'long-footed, long-legged', in reference to the long stalks (petioles) of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
