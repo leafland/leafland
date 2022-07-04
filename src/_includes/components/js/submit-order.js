@@ -105,7 +105,7 @@ async function populateForm() {
     treeInfoDiv.classList.add("tree-info");
 
     let gradeSize = document.createElement("p");
-    gradeSize.innerHTML = `Grade size: <span class="accent-color">${tree.grade}</span>`;
+    gradeSize.innerHTML = `Grade Size: <span class="accent-color">${tree.grade}</span>`;
 
     let averageHeight = document.createElement("p");
     averageHeight.innerHTML = `Height: <span class="accent-color">${
@@ -115,7 +115,7 @@ async function populateForm() {
     }</span>`;
 
     let standardHeight = document.createElement("p");
-    standardHeight.innerHTML = `Standard height: <span class="accent-color">${
+    standardHeight.innerHTML = `Standard Height: <span class="accent-color">${
       tree.standardHeight.toLowerCase() === "none"
         ? tree.standardHeight
         : tree.standardHeight + "<span class='lowercase'>m</span>"
@@ -237,15 +237,15 @@ async function populateForm() {
   ) {
     if (poaGrade) {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">${minimumCharge}+GST (Minimum freight charge, excluding freight for P.O.A grades)</span>`;
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (Minimum Freight Charge, excluding freight for P.O.A grades)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">$${totalFreight.toFixed(
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(
           2
         )}+GST (excluding freight for P.O.A grades)</span>`;
       }
 
-      orderTotal.innerHTML = `Order total: <span class="accent-color">$${
-        freightTotal.textContent.search("(Minimum freight charge)") !== -1
+      orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
+        freightTotal.textContent.search("(Minimum Freight Charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
             ).toFixed(2)
@@ -253,15 +253,15 @@ async function populateForm() {
       }+GST (excluding freight for P.O.A grades)</span>`;
     } else {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">${minimumCharge}+GST (Minimum freight charge)</span>`;
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (Minimum Freight Charge)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight total: <span class="accent-color">$${totalFreight.toFixed(
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(
           2
         )}+GST</span>`;
       }
 
-      orderTotal.innerHTML = `Order total: <span class="accent-color">$${
-        freightTotal.textContent.search("(Minimum freight charge)") !== -1
+      orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
+        freightTotal.textContent.search("(Minimum Freight Charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
             ).toFixed(2)
@@ -269,16 +269,16 @@ async function populateForm() {
       }+GST</span>`;
     }
 
-    treeTotal.innerHTML = `Tree total: <span class="accent-color">$${total}.00+GST</span>`;
+    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}.00+GST</span>`;
   } else {
-    freightTotal.innerHTML = `Freight total: <span class="accent-color">N/A</span>`;
+    freightTotal.innerHTML = `Freight Total: <span class="accent-color">N/A</span>`;
 
-    treeTotal.innerHTML = `Tree total: <span class="accent-color">$${parseInt(
+    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseInt(
       total,
       10
     ).toFixed(2)}+GST</span>`;
 
-    orderTotal.innerHTML = `Order total: <span class="accent-color">$${parseInt(
+    orderTotal.innerHTML = `Order Total: <span class="accent-color">$${parseInt(
       total,
       10
     ).toFixed(2)}+GST</span>`;
@@ -368,13 +368,13 @@ submitForm.addEventListener("submit", (event) => {
     trees: trees.value,
     freightRegion: region.value,
     freightTotal: freightTotal.innerHTML
-      .replace(/Freight total: <span class="accent-color">/, "")
+      .replace(/Freight Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, ""),
     treeTotal: treeTotal.innerHTML
-      .replace(/Tree total: <span class="accent-color">/, "")
+      .replace(/Tree Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, ""),
     orderTotal: orderTotal.innerHTML
-      .replace(/Order total: <span class="accent-color">/, "")
+      .replace(/Order Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, ""),
   });
   const requestOptions = {

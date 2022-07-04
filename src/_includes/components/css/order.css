@@ -146,9 +146,9 @@
   flex-wrap: wrap;
 }
 
-.order-item-details p {
+/* .order-item-details p {
   text-transform: uppercase;
-}
+} */
 
 .order-item-details p .accent-color {
   text-transform: none;
