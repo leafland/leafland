@@ -285,9 +285,9 @@ details p:not(:last-child) {
   margin-bottom: 2rem;
 }
 
-details b {
+/* details b {
   text-transform: uppercase;
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   button.send-order:hover {

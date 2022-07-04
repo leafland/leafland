@@ -40,9 +40,9 @@ main img {
   margin-bottom: 2rem;
 }
 
-#content-inner b {
+/* #content-inner b {
   text-transform: uppercase;
-}
+} */
 
 #content-grid {
   display: grid;
