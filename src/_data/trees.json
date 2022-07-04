@@ -34117,736 +34117,11 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Oleaceae",
     "genus": "Fraxinus",
-    "species": "excelsior",
+    "species": "angustifolia",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "European Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-excelsior",
-    "mainImage": "fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash.jpg",
-    "description": "Forms a large tree with a wide, rounded head. Ideal shade tree for large areas such as parks and paddocks. Ideal stock shelter. Smooth bark and black buds. Yellow autumn leaves. Tolerates heavy soils and moist conditions.",
-    "uses": "paddocks, shade",
-    "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "10m",
-    "width": "6m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-city.jpg",
-        "alt": "fraxinus excelsior european ash city"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-field.jpg",
-        "alt": "fraxinus excelsior european ash field"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-foliage.jpg",
-        "alt": "fraxinus excelsior european ash foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-leaves.jpg",
-        "alt": "fraxinus excelsior european ash leaves"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-mature-tree.jpg",
-        "alt": "fraxinus excelsior european ash mature tree"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-park.jpg",
-        "alt": "fraxinus excelsior european ash park"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "excelsior",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Aurea",
-    "synonyms": [],
-    "commonName": "European Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-excelsior-aurea",
-    "mainImage": "fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash.jpg",
-    "description": "Large, bright-green to light-yellow, pinnate leaves through summer. These deepen bright-gold through autumn before dropping to reveal smooth golden bark and black buds. Excellent shade tree.",
-    "uses": "paddocks, shade",
-    "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "6m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "yellow, green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "yellow, green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-field.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn field"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-foliage.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-form-park.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn form park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-garden.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn garden"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-leaves.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn leaves"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-park.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-pathway.jpg",
-        "alt": "fraxinus excelsior aurea european ash autumn pathway"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-mature-field.jpg",
-        "alt": "fraxinus excelsior aurea european ash mature field"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-spring-field.jpg",
-        "alt": "fraxinus excelsior aurea european ash spring field"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-spring-park.jpg",
-        "alt": "fraxinus excelsior aurea european ash spring park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-springtime.jpg",
-        "alt": "fraxinus excelsior aurea european ash springtime"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-summer-foliage.jpg",
-        "alt": "fraxinus excelsior aurea european ash summer foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-summer-park.jpg",
-        "alt": "fraxinus excelsior aurea european ash summer park"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "excelsior",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Aurea Pendula",
-    "synonyms": [],
-    "commonName": "European Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-excelsior-aurea-pendula",
-    "mainImage": "fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash.jpg",
-    "description": "Large, pale-green to light-yellow, pinnate leaves through summer. These deepen bright-gold through autumn before dropping to reveal smooth golden bark and black buds. Side branches weep gracefully to the ground.",
-    "uses": "",
-    "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "weeping",
-    "height": "3m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "yellow, green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "yellow, green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-weeping.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-autumn-foliage.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash autumn foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-autumn-leaves.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash autumn leaves"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-buds.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash buds"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-spring-new-growth.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash spring new growth"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-spring-park.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash spring park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-field.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash summer field"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-foliage.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash summer foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-form-park.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash summer form park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-park.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash summer park"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-winter-garden.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash winter garden"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-winter-trimmed.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash winter trimmed"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-young-tree-winter.jpg",
-        "alt": "fraxinus excelsior aurea pendula european ash young tree winter"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "excelsior",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Green Glow",
-    "synonyms": [],
-    "commonName": "European Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-excelsior-green-glow",
-    "mainImage": "fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash.jpg",
-    "description": "Young leaves are bronze, becoming lush-green for the rest of spring and summer. Compact and upright growth habit. Ideal street tree or for lining driveways and avenues. Yellow autumn leaves.",
-    "uses": "street, driveways-and-avenues",
-    "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "6m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-carpark.jpg",
-        "alt": "fraxinus excelsior green glow european ash autumn carpark"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-form-street.jpg",
-        "alt": "fraxinus excelsior green glow european ash autumn form street"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-street.jpg",
-        "alt": "fraxinus excelsior green glow european ash autumn street"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-early-autumn-street.jpg",
-        "alt": "fraxinus excelsior green glow european ash early autumn street"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-foliage.jpeg",
-        "alt": "fraxinus excelsior green glow european ash foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-street-tree.jpg",
-        "alt": "fraxinus excelsior green glow european ash street tree"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-street.jpg",
-        "alt": "fraxinus excelsior green glow european ash street"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "excelsior",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Purple Spire",
-    "synonyms": [],
-    "commonName": "European Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-excelsior-purple-spire",
-    "mainImage": "fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash.jpg",
-    "description": "Bears glossy, green, pinnate leaves through spring and summer. In autumn, the leaves turn purple and glowing-orange. Great for lining avenues and driveways. Excellent street tree. Upright form. Tolerates strong winds.",
-    "uses": "street, narrow-sites, driveways-and-avenues",
-    "tolerates": "coastal, windy",
-    "soilType": "clay-soils, poor-draining-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "8m",
-    "width": "4m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "orange, purple",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-upright.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-colour.jpg",
-        "alt": "fraxinus excelsior purple spire european ash autumn colour"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-in-nursery.jpg",
-        "alt": "fraxinus excelsior purple spire european ash autumn in nursery"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-leaves.jpg",
-        "alt": "fraxinus excelsior purple spire european ash autumn leaves"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-leaf.jpg",
-        "alt": "fraxinus excelsior purple spire european ash leaf"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-single-tree.jpg",
-        "alt": "fraxinus excelsior purple spire european ash single tree"
-      },
-      {
-        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-summer-avenue.jpg",
-        "alt": "fraxinus excelsior purple spire european ash summer avenue"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "griffithii",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Evergreen Ash",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-griffithii",
-    "mainImage": "fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash.jpg",
-    "description": "Fast-growing tree with shiny, green, pinnate leaves. Rounded-head but can be shaped into any size and form. Large panicles of white flowers smother the tree in summer. Prefers hot and well-drained conditions. Can defoliate through winter in cold climates. Excellent street tree.",
-    "uses": "pleaching",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-bushy.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-avenue-street.jpg",
-        "alt": "fraxinus griffithii evergreen ash avenue street"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flower-panicles.jpg",
-        "alt": "fraxinus griffithii evergreen ash flower panicles"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowering-street.jpg",
-        "alt": "fraxinus griffithii evergreen ash flowering street"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowering.jpg",
-        "alt": "fraxinus griffithii evergreen ash flowering"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowers.jpg",
-        "alt": "fraxinus griffithii evergreen ash flowers"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-foliage.jpg",
-        "alt": "fraxinus griffithii evergreen ash foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-front-garden.jpg",
-        "alt": "fraxinus griffithii evergreen ash front garden"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-front-lawn.jpg",
-        "alt": "fraxinus griffithii evergreen ash front lawn"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-pleached.jpg",
-        "alt": "fraxinus griffithii evergreen ash pleached"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-small-garden.jpg",
-        "alt": "fraxinus griffithii evergreen ash small garden"
-      },
-      {
-        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-street-trees.jpg",
-        "alt": "fraxinus griffithii evergreen ash street trees"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "ornus",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Manna Ash",
-    "otherCommonNames": "Flowering Ash",
-    "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "fraxinus-ornus",
-    "mainImage": "fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash.jpg",
-    "description": "A lovely compact-growing tree with a profusion of fluffy scented white flowers in spring. Handsome, deep-green, pinnate leaves which turn yellow to red-purple in autumn. Excellent street tree.",
-    "uses": "street, attracts-bees",
-    "tolerates": "windy",
-    "soilType": "dry-soils",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "8m",
-    "width": "5m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow, purple, red",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-autumn-colours.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash autumn colours"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-autumn-foliage.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash autumn foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-early-autumn-park.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash early autumn park"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-field.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash field"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-field.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering field"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-pathway.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering pathway"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-river.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering river"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-spring-field.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering spring field"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-street.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering street"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowering"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowers.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash flowers"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-park.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash park"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-purple-autumn-colours.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash purple autumn colours"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-purple-autumn-leaves.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash purple autumn leaves"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-summer-foliage.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash summer foliage"
-      },
-      {
-        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-yellow-autumn-leaves.jpg",
-        "alt": "fraxinus ornus manna ash flowering ash yellow autumn leaves"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "",
-    "genus": "Fraxinus",
-    "species": "oxycarpa",
-    "hybrid": "",
-    "subspecies": "",
+    "subspecies": "oxycarpa",
     "variety": "",
     "form": "",
     "cultivar": "Raywood",
@@ -34859,20 +34134,29 @@
         "variety": "",
         "form": "",
         "cultivar": "Raywood"
+      },
+      {
+        "genus": "Fraxinus",
+        "species": "oxycarpa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Raywood"
       }
     ],
     "commonName": "Claret Ash",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>angustifolia</i> (Latin, adjective), meaning 'narrow-leaved', in reference to the narrow width of this species' leaves.",
       "hybrid": "",
-      "subspecies": "",
+      "subspecies": "<i>oxycarpa</i>, unknown origin.",
       "variety": "",
       "form": ""
     },
-    "url": "fraxinus-oxycarpa-raywood",
+    "url": "fraxinus-angustifolia-subsp-oxycarpa-raywood",
     "mainImage": "fraxinus-oxycarpa-raywood-claret-ash/fraxinus-oxycarpa-raywood-claret-ash.jpg",
     "description": "Elegant, pyramidal growth habit when young, broadening to a rounded canopy with age. Popular to use where space is limited but height is required. New growth is bronze-purple turning dark-green over summer. Beautiful autumn colours of orange, purple, and red. Excellent as an avenue, driveway, or street tree.",
     "uses": "street, driveways-and-avenues",
@@ -34995,7 +34279,742 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [],
+    "commonName": "European Ash",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>excelsior</i> (Latin, adjective), meaning 'higher, loftier, more elevated', in reference to the great height this species can attain in the wild.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-excelsior",
+    "mainImage": "fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash.jpg",
+    "description": "Forms a large tree with a wide, rounded head. Ideal shade tree for large areas such as parks and paddocks. Ideal stock shelter. Smooth bark and black buds. Yellow autumn leaves. Tolerates heavy soils and moist conditions.",
+    "uses": "paddocks, shade",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "10m",
+    "width": "6m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-city.jpg",
+        "alt": "fraxinus excelsior european ash city"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-field.jpg",
+        "alt": "fraxinus excelsior european ash field"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-foliage.jpg",
+        "alt": "fraxinus excelsior european ash foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-leaves.jpg",
+        "alt": "fraxinus excelsior european ash leaves"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-mature-tree.jpg",
+        "alt": "fraxinus excelsior european ash mature tree"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-european-ash/fraxinus-excelsior-european-ash-park.jpg",
+        "alt": "fraxinus excelsior european ash park"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Aurea",
+    "synonyms": [],
+    "commonName": "European Ash",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>excelsior</i> (Latin, adjective), meaning 'higher, loftier, more elevated', in reference to the great height this species can attain in the wild.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-excelsior-aurea",
+    "mainImage": "fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash.jpg",
+    "description": "Large, bright-green to light-yellow, pinnate leaves through summer. These deepen bright-gold through autumn before dropping to reveal smooth golden bark and black buds. Excellent shade tree.",
+    "uses": "paddocks, shade",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "6m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "yellow, green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "yellow, green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-field.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn field"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-foliage.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-form-park.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn form park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-garden.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn garden"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-leaves.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn leaves"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-park.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-autumn-pathway.jpg",
+        "alt": "fraxinus excelsior aurea european ash autumn pathway"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-mature-field.jpg",
+        "alt": "fraxinus excelsior aurea european ash mature field"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-spring-field.jpg",
+        "alt": "fraxinus excelsior aurea european ash spring field"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-spring-park.jpg",
+        "alt": "fraxinus excelsior aurea european ash spring park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-springtime.jpg",
+        "alt": "fraxinus excelsior aurea european ash springtime"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-summer-foliage.jpg",
+        "alt": "fraxinus excelsior aurea european ash summer foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-european-ash/fraxinus-excelsior-aurea-european-ash-summer-park.jpg",
+        "alt": "fraxinus excelsior aurea european ash summer park"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Aurea Pendula",
+    "synonyms": [],
+    "commonName": "European Ash",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>excelsior</i> (Latin, adjective), meaning 'higher, loftier, more elevated', in reference to the great height this species can attain in the wild.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-excelsior-aurea-pendula",
+    "mainImage": "fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash.jpg",
+    "description": "Large, pale-green to light-yellow, pinnate leaves through summer. These deepen bright-gold through autumn before dropping to reveal smooth golden bark and black buds. Side branches weep gracefully to the ground.",
+    "uses": "",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "weeping",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "yellow, green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "yellow, green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-weeping.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-autumn-foliage.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash autumn foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-autumn-leaves.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash autumn leaves"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-buds.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash buds"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-spring-new-growth.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash spring new growth"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-spring-park.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash spring park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-field.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash summer field"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-foliage.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash summer foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-form-park.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash summer form park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-summer-park.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash summer park"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-winter-garden.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash winter garden"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-winter-trimmed.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash winter trimmed"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-aurea-pendula-european-ash/fraxinus-excelsior-aurea-pendula-european-ash-young-tree-winter.jpg",
+        "alt": "fraxinus excelsior aurea pendula european ash young tree winter"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Green Glow",
+    "synonyms": [],
+    "commonName": "European Ash",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>excelsior</i> (Latin, adjective), meaning 'higher, loftier, more elevated', in reference to the great height this species can attain in the wild.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-excelsior-green-glow",
+    "mainImage": "fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash.jpg",
+    "description": "Young leaves are bronze, becoming lush-green for the rest of spring and summer. Compact and upright growth habit. Ideal street tree or for lining driveways and avenues. Yellow autumn leaves.",
+    "uses": "street, driveways-and-avenues",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "6m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-carpark.jpg",
+        "alt": "fraxinus excelsior green glow european ash autumn carpark"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-form-street.jpg",
+        "alt": "fraxinus excelsior green glow european ash autumn form street"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-autumn-street.jpg",
+        "alt": "fraxinus excelsior green glow european ash autumn street"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-early-autumn-street.jpg",
+        "alt": "fraxinus excelsior green glow european ash early autumn street"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-foliage.jpeg",
+        "alt": "fraxinus excelsior green glow european ash foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-street-tree.jpg",
+        "alt": "fraxinus excelsior green glow european ash street tree"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-green-glow-european-ash/fraxinus-excelsior-green-glow-european-ash-street.jpg",
+        "alt": "fraxinus excelsior green glow european ash street"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Purple Spire",
+    "synonyms": [],
+    "commonName": "European Ash",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>excelsior</i> (Latin, adjective), meaning 'higher, loftier, more elevated', in reference to the great height this species can attain in the wild.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-excelsior-purple-spire",
+    "mainImage": "fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash.jpg",
+    "description": "Bears glossy, green, pinnate leaves through spring and summer. In autumn, the leaves turn purple and glowing-orange. Great for lining avenues and driveways. Excellent street tree. Upright form. Tolerates strong winds.",
+    "uses": "street, narrow-sites, driveways-and-avenues",
+    "tolerates": "coastal, windy",
+    "soilType": "clay-soils, poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "8m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "orange, purple",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-upright.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-colour.jpg",
+        "alt": "fraxinus excelsior purple spire european ash autumn colour"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-in-nursery.jpg",
+        "alt": "fraxinus excelsior purple spire european ash autumn in nursery"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-autumn-leaves.jpg",
+        "alt": "fraxinus excelsior purple spire european ash autumn leaves"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-leaf.jpg",
+        "alt": "fraxinus excelsior purple spire european ash leaf"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-single-tree.jpg",
+        "alt": "fraxinus excelsior purple spire european ash single tree"
+      },
+      {
+        "src": "images/trees/fraxinus-excelsior-purple-spire-european-ash/fraxinus-excelsior-purple-spire-european-ash-summer-avenue.jpg",
+        "alt": "fraxinus excelsior purple spire european ash summer avenue"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "griffithii",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [
+      {
+        "genus": "Fraxinus",
+        "species": "formosana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
+    "commonName": "Evergreen Ash",
+    "otherCommonNames": "Himalayan Ash",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>griffithii</i> (Latinised), named after the British doctor, botanist, and naturalist William Griffith (1810 - 1845) who collected the specimen this species was described from in the Mishmi Hills of Assam, India.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-griffithii",
+    "mainImage": "fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash.jpg",
+    "description": "Fast-growing tree with shiny, green, pinnate leaves. Rounded-head but can be shaped into any size and form. Large panicles of white flowers smother the tree in summer. Prefers hot and well-drained conditions. Can defoliate through winter in cold climates. Excellent street tree.",
+    "uses": "pleaching",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-bushy.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-avenue-street.jpg",
+        "alt": "fraxinus griffithii evergreen ash avenue street"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flower-panicles.jpg",
+        "alt": "fraxinus griffithii evergreen ash flower panicles"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowering-street.jpg",
+        "alt": "fraxinus griffithii evergreen ash flowering street"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowering.jpg",
+        "alt": "fraxinus griffithii evergreen ash flowering"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-flowers.jpg",
+        "alt": "fraxinus griffithii evergreen ash flowers"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-foliage.jpg",
+        "alt": "fraxinus griffithii evergreen ash foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-front-garden.jpg",
+        "alt": "fraxinus griffithii evergreen ash front garden"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-front-lawn.jpg",
+        "alt": "fraxinus griffithii evergreen ash front lawn"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-pleached.jpg",
+        "alt": "fraxinus griffithii evergreen ash pleached"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-small-garden.jpg",
+        "alt": "fraxinus griffithii evergreen ash small garden"
+      },
+      {
+        "src": "images/trees/fraxinus-griffithii-evergreen-ash/fraxinus-griffithii-evergreen-ash-street-trees.jpg",
+        "alt": "fraxinus griffithii evergreen ash street trees"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
+    "genus": "Fraxinus",
+    "species": "ornus",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [],
+    "commonName": "Manna Ash",
+    "otherCommonNames": "Flowering Ash, South European Flowering Ash",
+    "nameBreakdown": {
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>ornus</i> (Latin, noun), meaning 'mountain ash [specifically <i>Sorbus aucuparia</i>]', in reference to this species flowering in a similar fashion to <i>Sorbus aucuparia</i>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "fraxinus-ornus",
+    "mainImage": "fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash.jpg",
+    "description": "A lovely compact-growing tree with a profusion of fluffy scented white flowers in spring. Handsome, deep-green, pinnate leaves which turn yellow to red-purple in autumn. Excellent street tree.",
+    "uses": "street, attracts-bees",
+    "tolerates": "windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "8m",
+    "width": "5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, purple, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/fraxinus/fraxinus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-autumn-colours.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash autumn colours"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-autumn-foliage.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash autumn foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-early-autumn-park.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash early autumn park"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-field.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash field"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-field.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering field"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-pathway.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering pathway"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-river.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering river"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-spring-field.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering spring field"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering-street.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering street"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowering.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowering"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-flowers.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash flowers"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-park.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash park"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-purple-autumn-colours.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash purple autumn colours"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-purple-autumn-leaves.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash purple autumn leaves"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-summer-foliage.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash summer foliage"
+      },
+      {
+        "src": "images/trees/fraxinus-ornus-manna-ash-flowering-ash/fraxinus-ornus-manna-ash-flowering-ash-yellow-autumn-leaves.jpg",
+        "alt": "fraxinus ornus manna ash flowering ash yellow autumn leaves"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Oleaceae",
     "genus": "Fraxinus",
     "species": "pennsylvanica",
     "hybrid": "",
@@ -35005,11 +35024,11 @@
     "cultivar": "Annesbrook",
     "synonyms": [],
     "commonName": "Green Ash",
-    "otherCommonNames": "",
+    "otherCommonNames": "Red Ash, Water Ash",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>pennsylvanica</i>, derived from the English proper noun <i>Pennsylvania</i> and the Latin suffix <i>ica</i> (belonging to, derived from, of or pertaining to), meaning 'of or relating to Pennsylvania', in reference to this species being found in Pennsylvania, United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35094,7 +35113,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Oleaceae",
     "genus": "Fraxinus",
     "species": "pennsylvanica",
     "hybrid": "",
@@ -35114,11 +35133,11 @@
       }
     ],
     "commonName": "Green Ash",
-    "otherCommonNames": "",
+    "otherCommonNames": "Red Ash, Water Ash",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "olive family, a family of flowering shrubs, trees, and lianas native to the subarctic region, southern Africa, Australia, and South America.",
+      "genus": "<i>fraxinus</i> (Latin, noun), meaning 'ash tree', the classical Latin name for <i>Fraxinus excelsior</i>. Commonly known as ash, a genus of flowering trees that are mostly deciduous (some are evergreen) and native to much of Europe, Asia, and North America.",
+      "species": "<i>pennsylvanica</i>, derived from the English proper noun <i>Pennsylvania</i> and the Latin suffix <i>ica</i> (belonging to, derived from, of or pertaining to), meaning 'of or relating to Pennsylvania', in reference to this species being found in Pennsylvania, United States.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -38196,7 +38215,7 @@
     "nameBreakdown": {
       "family": "",
       "genus": "",
-      "species": "",
+      "species": "<i>angustifolia</i> (Latin, adjective), meaning 'narrow-leaved', in reference to the narrow width of this species' leaves.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",

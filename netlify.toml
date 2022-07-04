@@ -4336,7 +4336,13 @@
     force = true
     from = "/trees/fraxinus-oxycarpa-raywood-claret-ash/"
     status = 301
-    to = "/trees/fraxinus-oxycarpa-raywood/"
+    to = "/trees/fraxinus-angustifolia-subsp-oxycarpa-raywood/"
+
+[[redirects]]
+    force = true
+    from = "/trees/fraxinus-oxycarpa-raywood/"
+    status = 301
+    to = "/trees/fraxinus-angustifolia-subsp-oxycarpa-raywood/"
 
 
 [[redirects]]
