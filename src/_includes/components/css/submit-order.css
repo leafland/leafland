@@ -14,11 +14,12 @@ h3 {
   width: 100%;
 } */
 
-#close-submit-order {
+#close-submit-order,
+#submit-order-back {
   cursor: pointer;
   border-color: var(--primary-text);
   align-self: center;
-  justify-self: end;
+  /* justify-self: end; */
 }
 
 #submit-order-overlay {
@@ -33,7 +34,7 @@ h3 {
   height: 100%;
   width: 100%;
   background: var(--primary-background);
-  transition: all 0.5s var(--default-animation-easing);
+  /* transition: all 0.5s var(--default-animation-easing); */
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;
@@ -339,13 +340,21 @@ h3 {
   gap: 2rem;
 }
 
+#top-buttons-block {
+  justify-content: end;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 /* details b {
   text-transform: uppercase;
 } */
 
 @media (hover: hover) and (pointer: fine) {
   button.send-order:hover,
-  #close-submit-order:hover {
+  #close-submit-order:hover,
+  #submit-order-back:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

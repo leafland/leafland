@@ -10,7 +10,7 @@
   height: 100%;
   width: 100%;
   background: var(--primary-background);
-  transition: all 0.5s var(--default-animation-easing);
+  /* transition: all 0.5s var(--default-animation-easing); */
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;

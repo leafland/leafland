@@ -384,3 +384,8 @@ submitForm.addEventListener("submit", (event) => {
 document.querySelector("#close-submit-order").addEventListener("click", () => {
   document.body.classList.remove("submit-order-open");
 });
+
+document.querySelector("#submit-order-back").addEventListener("click", () => {
+  document.body.classList.remove("submit-order-open");
+  document.body.classList.add("order-open");
+});
