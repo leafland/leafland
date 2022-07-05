@@ -142,7 +142,7 @@ async function updateOrder() {
     totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
     orderSticky.style.setProperty("visibility", "visible");
-    orderRegionSelect.style.setProperty("visibility", "hidden");
+    orderRegionSelect.style.setProperty("visibility", "visible");
 
     let emptyOrder = document.querySelector(".empty-message");
 
