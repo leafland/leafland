@@ -80,7 +80,7 @@ function updateOrderTotal() {
     }
 
     // treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}.00+GST</span>`;
-  } else {
+  } else if (orderRegion.value !== "Pickup") {
     // freightTotal.innerHTML = `Freight Total: <span class="accent-color">N/A</span>`;
 
     // treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseInt(
@@ -92,6 +92,11 @@ function updateOrderTotal() {
       total,
       10
     ).toFixed(2)}+GST (excluding freight)</span>`;
+  } else {
+    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(
+      total,
+      10
+    ).toFixed(2)}+GST</span>`;
   }
 }
 
