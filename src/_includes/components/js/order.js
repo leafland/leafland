@@ -32,6 +32,8 @@ async function getOrderFreightData() {
 
 function updateOrderTotal() {
   let total = "";
+  totalRetailCost = sessionStorage.getItem("totalRetailCost");
+  totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
   if (loggedIn) {
     total = totalWholesaleCost;
@@ -75,28 +77,16 @@ function updateOrderTotal() {
 
         totalCostText.innerHTML = `Total: <span class="accent-color">$${(
           parseInt(total, 10) + orderTotalFreight
-        ).toFixed(2)}+GST</span>`;
+        ).toFixed(2)}+GST (including freight)</span>`;
       }
     }
 
     // treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}.00+GST</span>`;
-  } else if (orderRegion.value !== "Pickup") {
-    // freightTotal.innerHTML = `Freight Total: <span class="accent-color">N/A</span>`;
-
-    // treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseInt(
-    //   total,
-    //   10
-    // ).toFixed(2)}+GST</span>`;
-
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(
-      total,
-      10
-    ).toFixed(2)}+GST (excluding freight)</span>`;
   } else {
     totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(
       total,
       10
-    ).toFixed(2)}+GST</span>`;
+    ).toFixed(2)}+GST (excluding freight)</span>`;
   }
 }
 
@@ -266,6 +256,7 @@ async function updateOrder() {
       }
 
       let itemQuantity = document.createElement("input");
+
       itemQuantity.type = "number";
       itemQuantity.value = tree.quantity;
       itemQuantity.min = "1";
@@ -299,8 +290,10 @@ async function updateOrder() {
             }
           }
         }
+
         totalWholesaleCost = 0;
         totalRetailCost = 0;
+        orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
           totalWholesaleCost +=
@@ -309,46 +302,120 @@ async function updateOrder() {
           totalRetailCost +=
             orderTrees[i].quantity *
             parseInt(orderTrees[i].retailPrice.slice(1), 10);
-        }
-        updateStorage();
-        updateOrderTotal();
-        window.dispatchEvent(orderUpdated);
-      });
 
-      itemQuantity.addEventListener("input", () => {
-        // Loop over each tree in the trees array
-        for (let i = 0; i < orderTrees.length; i++) {
-          if (orderTrees[i].botanicalName === tree.botanicalName) {
-            if (orderTrees[i].grade === itemQuantity.dataset.grade) {
-              if (orderTrees[i].averageHeight === itemQuantity.dataset.height) {
-                if (
-                  orderTrees[i].standardHeight ===
-                  itemQuantity.dataset.standardHeight
-                ) {
-                  orderTrees[i].quantity = itemQuantity.value;
-                  break;
-                }
+          freightPriceValue = "";
+          if (
+            orderRegion.value !== "Northland" &&
+            orderRegion.value !== "Manawatu" &&
+            orderRegion.value !== "Gisborne" &&
+            orderRegion.value.toLowerCase() !== "pickup"
+          ) {
+            for (j = 0; j < freightRegion.length; j++) {
+              if (freightRegion[j].grade.search(orderTrees[i].grade) !== -1) {
+                freightPriceValue = freightRegion[j].price;
+                break;
               }
             }
           }
-        }
-        totalWholesaleCost = 0;
-        totalRetailCost = 0;
 
-        for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
-          totalRetailCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].retailPrice.slice(1), 10);
+          if (
+            orderRegion.value !== "Northland" &&
+            orderRegion.value !== "Manawatu" &&
+            orderRegion.value !== "Gisborne" &&
+            orderRegion.value !== "Pickup"
+          ) {
+            if (freightPriceValue === "P.O.A") {
+              // orderPoaGrade = true;
+              // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
+            } else {
+              // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
+
+              orderTotalFreight +=
+                parseInt(orderTrees[i].quantity, 10) *
+                parseFloat(freightPriceValue.slice(1));
+            }
+          } else {
+            // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
+          }
         }
+
         updateStorage();
         updateOrderTotal();
         window.dispatchEvent(orderUpdated);
       });
 
+      // itemQuantity.addEventListener("input", () => {
+      //   // Loop over each tree in the trees array
+      //   for (let i = 0; i < orderTrees.length; i++) {
+      //     if (orderTrees[i].botanicalName === tree.botanicalName) {
+      //       if (orderTrees[i].grade === itemQuantity.dataset.grade) {
+      //         if (orderTrees[i].averageHeight === itemQuantity.dataset.height) {
+      //           if (
+      //             orderTrees[i].standardHeight ===
+      //             itemQuantity.dataset.standardHeight
+      //           ) {
+      //             orderTrees[i].quantity = itemQuantity.value;
+      //             break;
+      //           }
+      //         }
+      //       }
+      //     }
+      //   }
+      //   totalWholesaleCost = 0;
+      //   totalRetailCost = 0;
+      //   orderTotalFreight = 0;
+
+      //   for (i = 0; i < orderTrees.length; i++) {
+      //     totalWholesaleCost +=
+      //       orderTrees[i].quantity *
+      //       parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
+      //     totalRetailCost +=
+      //       orderTrees[i].quantity *
+      //       parseInt(orderTrees[i].retailPrice.slice(1), 10);
+
+      //     freightPriceValue = "";
+      //     if (
+      //       orderRegion.value !== "Northland" &&
+      //       orderRegion.value !== "Manawatu" &&
+      //       orderRegion.value !== "Gisborne" &&
+      //       orderRegion.value.toLowerCase() !== "pickup"
+      //     ) {
+      //       for (i = 0; i < freightRegion.length; i++) {
+      //         if (freightRegion[i].grade.search(tree.grade) !== -1) {
+      //           freightPriceValue = freightRegion[i].price;
+      //           break;
+      //         }
+      //       }
+      //     }
+
+      //     if (
+      //       orderRegion.value !== "Northland" &&
+      //       orderRegion.value !== "Manawatu" &&
+      //       orderRegion.value !== "Gisborne" &&
+      //       orderRegion.value !== "Pickup"
+      //     ) {
+      //       if (freightPriceValue === "P.O.A") {
+      //         // orderPoaGrade = true;
+      //         // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
+      //       } else {
+      //         // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
+
+      //         orderTotalFreight +=
+      //           parseInt(tree.quantity, 10) *
+      //           parseFloat(freightPriceValue.slice(1));
+      //       }
+      //     } else {
+      //       // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
+      //     }
+      //   }
+
+      //   updateStorage();
+      //   updateOrderTotal();
+      //   window.dispatchEvent(orderUpdated);
+      // });
+
       let removeItem = document.createElement("button");
+
       removeItem.textContent = "Remove";
       removeItem.classList.add("remove-item");
 
@@ -371,6 +438,8 @@ async function updateOrder() {
 
         totalWholesaleCost = 0;
         totalRetailCost = 0;
+        orderTotalFreight = 0;
+
         for (i = 0; i < orderTrees.length; i++) {
           totalWholesaleCost +=
             orderTrees[i].quantity *
@@ -378,6 +447,41 @@ async function updateOrder() {
           totalRetailCost +=
             orderTrees[i].quantity *
             parseInt(orderTrees[i].retailPrice.slice(1), 10);
+
+          freightPriceValue = "";
+          if (
+            orderRegion.value !== "Northland" &&
+            orderRegion.value !== "Manawatu" &&
+            orderRegion.value !== "Gisborne" &&
+            orderRegion.value.toLowerCase() !== "pickup"
+          ) {
+            for (j = 0; j < freightRegion.length; j++) {
+              if (freightRegion[j].grade.search(orderTrees[i].grade) !== -1) {
+                freightPriceValue = freightRegion[j].price;
+                break;
+              }
+            }
+          }
+
+          if (
+            orderRegion.value !== "Northland" &&
+            orderRegion.value !== "Manawatu" &&
+            orderRegion.value !== "Gisborne" &&
+            orderRegion.value !== "Pickup"
+          ) {
+            if (freightPriceValue === "P.O.A") {
+              // orderPoaGrade = true;
+              // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
+            } else {
+              // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
+
+              orderTotalFreight +=
+                parseInt(orderTrees[i].quantity, 10) *
+                parseFloat(freightPriceValue.slice(1));
+            }
+          } else {
+            // freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
+          }
         }
 
         updateStorage();
