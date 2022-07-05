@@ -202,7 +202,7 @@
   padding: 2rem;
   background: var(--secondary-background);
   border-radius: 8px;
-  max-width: max-content;
+  /* max-width: max-content; */
   width: 100%;
   justify-self: center;
 }
