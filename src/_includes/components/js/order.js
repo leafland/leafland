@@ -4,6 +4,7 @@ let closeOrder = document.querySelector("#close-order");
 let submitOrder = document.querySelector("#submit-order");
 
 let orderRegion = document.querySelector("#order-region");
+let orderRegionSelect = document.querySelector(".order-region-select");
 
 let totalCostText = document.querySelector("#order-overlay-total");
 let productList = document.createElement("ul");
@@ -107,7 +108,7 @@ function displayEmptyOrder() {
 
   orderContent.appendChild(empty);
   orderSticky.style.setProperty("visibility", "hidden");
-  orderRegion.style.setProperty("visibility", "hidden");
+  orderRegionSelect.style.setProperty("visibility", "hidden");
   sessionStorage.setItem("totalRetailCost", "0");
   sessionStorage.setItem("totalWholesaleCost", "0");
 
@@ -141,7 +142,7 @@ async function updateOrder() {
     totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
     orderSticky.style.setProperty("visibility", "visible");
-    orderRegion.style.setProperty("visibility", "hidden");
+    orderRegionSelect.style.setProperty("visibility", "hidden");
 
     let emptyOrder = document.querySelector(".empty-message");
 
