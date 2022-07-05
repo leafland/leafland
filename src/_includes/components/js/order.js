@@ -15,6 +15,8 @@ let totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
 let orderTrees;
 
+let orderSticky = document.querySelector("#order-sticky");
+
 let orderFreightData = [];
 let totalFreight = 0;
 let poaGrade = false;
@@ -104,7 +106,8 @@ function displayEmptyOrder() {
   empty.classList.add("paragraph-title");
 
   orderContent.appendChild(empty);
-  totalCostText.style.setProperty("visibility", "hidden");
+  orderSticky.style.setProperty("visibility", "hidden");
+  orderRegion.style.setProperty("visibility", "hidden");
   sessionStorage.setItem("totalRetailCost", "0");
   sessionStorage.setItem("totalWholesaleCost", "0");
 
@@ -137,7 +140,9 @@ async function updateOrder() {
     totalRetailCost = sessionStorage.getItem("totalRetailCost");
     totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
 
-    totalCostText.style.setProperty("visibility", "visible");
+    orderSticky.style.setProperty("visibility", "visible");
+    orderRegion.style.setProperty("visibility", "hidden");
+
     let emptyOrder = document.querySelector(".empty-message");
 
     if (orderContent.contains(emptyOrder)) {
