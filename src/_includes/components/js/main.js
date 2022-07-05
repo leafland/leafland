@@ -2,6 +2,17 @@ let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
+if (sessionStorage.getItem("submittedOrder") === "true") {
+  document.querySelector("#top-bar").style.setProperty("display", "grid");
+  sessionStorage.setItem("submittedOrder", "false");
+
+  setTimeout(() => {
+    document.querySelector("#top-bar").style.setProperty("display", "none");
+  }, "3000");
+} else {
+  document.querySelector("#top-bar").style.setProperty("display", "none");
+}
+
 if (sessionStorage.getItem("trees") === null) {
   sessionStorage.setItem("trees", "[]");
 }

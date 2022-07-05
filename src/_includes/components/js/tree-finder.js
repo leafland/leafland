@@ -205,7 +205,7 @@ class Accordion {
 }
 
 window.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll("details").forEach((element) => {
+  document.querySelectorAll(".checkbox-group").forEach((element) => {
     new Accordion(element);
   });
 });
