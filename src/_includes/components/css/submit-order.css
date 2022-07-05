@@ -85,6 +85,10 @@ h3 {
   grid-column-end: 1;
 }
 
+#submit-grid-content-left-inner label {
+  margin-bottom: 0.5rem;
+}
+
 /* #submit-grid-content-left p {
   margin-bottom: 3rem;
 } */
