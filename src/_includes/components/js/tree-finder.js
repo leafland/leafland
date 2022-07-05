@@ -8,7 +8,7 @@ let treeFinderEnd = 11;
 
 let imageDataSubset = [];
 let inputsArray = document.querySelectorAll(".filter-input");
-let optionsArray = document.querySelectorAll("option");
+let optionsArray = document.querySelectorAll(".input-option");
 let treeFilter = [];
 let heightsArray = [];
 let widthsArray = [];
@@ -38,39 +38,41 @@ if (sessionStorage.getItem("filterSettings")) {
 if (filterSettings.empty === false) {
   clearCheckboxFilter.disabled = false;
   clearSelectFilter.disabled = false;
+
+  for (let i = 0; i < optionsArray.length; i++) {
+    if (
+      filterSettings[`${optionsArray[i].dataset.category}`].includes(
+        optionsArray[i].value
+      )
+    ) {
+      optionsArray[i].selected = true;
+    } else {
+      optionsArray[i].selected = false;
+    }
+  }
+
+  for (let i = 0; i < inputsArray.length; i++) {
+    if (
+      filterSettings[`${inputsArray[i].dataset.category}`].includes(
+        inputsArray[i].value
+      )
+    ) {
+      inputsArray[i].checked = true;
+
+      document.querySelector(
+        `#${inputsArray[i].dataset.category}`
+      ).textContent =
+        parseInt(
+          document.querySelector(`#${inputsArray[i].dataset.category}`)
+            .textContent
+        ) + 1;
+    } else {
+      inputsArray[i].checked = false;
+    }
+  }
 } else {
   clearCheckboxFilter.disabled = true;
   clearSelectFilter.disabled = true;
-}
-
-for (let i = 0; i < optionsArray.length; i++) {
-  if (
-    filterSettings[`${optionsArray[i].dataset.category}`].includes(
-      optionsArray[i].value
-    )
-  ) {
-    optionsArray[i].selected = true;
-  } else {
-    optionsArray[i].selected = false;
-  }
-}
-
-for (let i = 0; i < inputsArray.length; i++) {
-  if (
-    filterSettings[`${inputsArray[i].dataset.category}`].includes(
-      inputsArray[i].value
-    )
-  ) {
-    inputsArray[i].checked = true;
-
-    document.querySelector(`#${inputsArray[i].dataset.category}`).textContent =
-      parseInt(
-        document.querySelector(`#${inputsArray[i].dataset.category}`)
-          .textContent
-      ) + 1;
-  } else {
-    inputsArray[i].checked = false;
-  }
 }
 
 let treeFinderData = [];
