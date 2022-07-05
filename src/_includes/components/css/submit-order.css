@@ -194,7 +194,7 @@ h3 {
   flex-wrap: wrap;
   gap: 0.5rem;
   align-items: center;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 
 .checkbox-field label {
@@ -247,8 +247,7 @@ h3 {
   margin-top: 1rem;
 }
 
-.region-select,
-.checkbox-field {
+.region-select {
   margin-bottom: 3rem;
 }
 
@@ -333,6 +332,13 @@ h3 {
   margin-bottom: 2rem;
 }
 
+#terms-of-trade-block {
+  margin-bottom: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
 /* details b {
   text-transform: uppercase;
 } */
@@ -348,7 +354,8 @@ h3 {
     color: var(--accent-color);
   }
 
-  #submit-order-overlay details > summary:hover {
+  #submit-order-overlay details > summary:hover,
+  .checkbox-field label {
     cursor: pointer;
   }
 }
