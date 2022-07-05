@@ -3,6 +3,9 @@ let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
 if (sessionStorage.getItem("submittedOrder") === "true") {
+  if (history.scrollRestoration) {
+    history.scrollRestoration = "manual";
+  }
   document.querySelector("#top-bar").style.setProperty("display", "grid");
   sessionStorage.setItem("submittedOrder", "false");
 
