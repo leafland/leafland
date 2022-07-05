@@ -205,14 +205,13 @@ main label {
 
 .region-select label,
 .checkbox-field label,
-.checkbox-field label a,
-.freight-message {
+.checkbox-field label a {
   font-size: var(--font-size-3);
 }
 
-.freight-message {
+/* .freight-message {
   font-weight: 600;
-}
+} */
 
 .send-order {
   border-color: var(--primary-text);
