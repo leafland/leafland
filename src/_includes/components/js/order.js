@@ -91,7 +91,7 @@ function updateOrderTotal() {
     totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(
       total,
       10
-    ).toFixed(2)}+GST</span>`;
+    ).toFixed(2)}+GST (excluding freight)</span>`;
   }
 }
 
