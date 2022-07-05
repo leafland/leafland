@@ -6,9 +6,39 @@
 
         <div id="order-content"></div>
 
-        <p id="order-overlay-total"></p>
+        <p class="order-region-select">
+            <label for="region">Choose region/city to calculate freight. If you want to pickup your order, select pickup. Freight for Northland, Manawatū, and Gisborne will be quoted separately.</label>
+            <select type="text" name="order-region" id="order-region" required>
+            <option value="Pickup">PICKUP</option>
+            <option value="Northland">Northland</option>
+            <option value="Auckland">Auckland</option>
+            <option value="Hamilton">Waikato</option>
+            <option value="Tauranga">Tauranga</option>
+            <option value="Whakatane">Whakatāne</option>
+            <option value="Taupo/Rotorua">Taupō/Rotorua</option>
+            <option value="Taranaki">Taranaki</option>
+            <option value="Gisborne">Gisborne</option>
+            <option value="Hawkes Bay">Hawke's Bay</option>
+            <option value="Whanganui">Whanganui</option>
+            <option value="Manawatu">Manawatū</option>
+            <option value="Wairarapa">Wairarapa</option>
+            <option value="Wellington/Lower North Island">Wellington</option>
+            <option value="Blenheim/Nelson">Blenheim/Nelson</option>
+            <option value="Christchurch">Christchurch</option>
+            <option value="Ashburton/Timaru/Oamaru">Ashburton/Timaru/Oamaru</option>
+            <option value="Dunedin/West Coast">Dunedin/West Coast</option>
+            <option value="Balclutha/Gore">Balclutha/Gore</option>
+            <option value="Invercargill/Central Otago">Invercargill/Central Otago</option>
+            </select>
+        </p>
 
-        <a href="/submit-order/" id="submit-order" class="button">Submit order</a>
+        <div id='order-sticky'>
+        
+            <p id="order-overlay-total"></p>
+
+            <a href="/submit-order/" id="submit-order" class="button">Submit order</a>
+
+        </div>
 
     </div>
 
