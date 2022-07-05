@@ -6,7 +6,6 @@ let gridContentRight = document.querySelector("#grid-content-right");
 let region = document.querySelector("#region");
 
 let emptyMessage = document.querySelector("#empty-message");
-let freightData = [];
 let submitOrderTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 let total;
@@ -14,16 +13,7 @@ let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
 
-const orderSent = new Event("orderSent");
-
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
-
-async function getFreightData() {
-  freightData = await fetch("/public/freight.json")
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-}
 
 async function populateForm() {
   let totalFreight = 0;
@@ -35,7 +25,7 @@ async function populateForm() {
     region.value !== "Gisborne" &&
     region.value.toLowerCase() !== "pickup"
   ) {
-    freightData.forEach((datum) => {
+    orderFreightData.forEach((datum) => {
       if (datum[0] === region.value) {
         freightRegion.push({ grade: datum[1], price: datum[2] });
         if (datum[1] === "Minimum") {
@@ -237,7 +227,7 @@ async function populateForm() {
   ) {
     if (poaGrade) {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (Minimum Freight Charge, excluding freight for P.O.A grades)</span>`;
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (minimum freight charge, excluding freight for P.O.A grades)</span>`;
       } else {
         freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(
           2
@@ -245,7 +235,7 @@ async function populateForm() {
       }
 
       orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
-        freightTotal.textContent.search("(Minimum Freight Charge)") !== -1
+        freightTotal.textContent.search("(minimum freight charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
             ).toFixed(2)
@@ -253,7 +243,7 @@ async function populateForm() {
       }+GST (excluding freight for P.O.A grades)</span>`;
     } else {
       if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (Minimum Freight Charge)</span>`;
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (minimum freight charge)</span>`;
       } else {
         freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(
           2
@@ -261,7 +251,7 @@ async function populateForm() {
       }
 
       orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
-        freightTotal.textContent.search("(Minimum Freight Charge)") !== -1
+        freightTotal.textContent.search("(minimum freight charge)") !== -1
           ? (
               parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)
             ).toFixed(2)
@@ -291,7 +281,6 @@ window.addEventListener("loginUpdated", () => {
       submitForm.style.setProperty("display", "none");
       emptyMessage.style.setProperty("display", "block");
     } else {
-      await getFreightData();
       await populateForm();
     }
   })();
@@ -387,15 +376,11 @@ submitForm.addEventListener("submit", (event) => {
       .then((response) => {})
       .catch((error) => {});
 
-    sessionStorage.setItem("trees", "[]");
-    window.dispatchEvent(orderSent);
-
-    document.body.querySelector(
-      "#content"
-    ).innerHTML = `<h1 style="margin-bottom:3rem">Thanks for your order!</h1><p style="margin-bottom:2rem">If we cannot supply the grades or quantities specified, we will confirm alternatives with you. We will also double-check the freight and if there will be any extra costs (like a surcharge for rural addresses) we will let you know before sending the order.</p>
-    
-    <p style="margin-bottom:2rem">We will send you an invoice that will have our bank details on for payment. We do not take payment via any sort of card. Once payment is received, the trees will be sent.</p>
-
-    <p>Please note that truck drivers will only unload trees within 5m of truck access.</p>`;
+    sessionStorage.setItem("submittedOrder", "true");
+    window.location.reload();
   })();
+});
+
+document.querySelector("#close-submit-order").addEventListener("click", () => {
+  document.body.classList.remove("submit-order-open");
 });
