@@ -13,8 +13,6 @@ let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
 
-const orderSent = new Event("orderSent");
-
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
 async function populateForm() {
@@ -378,8 +376,6 @@ submitForm.addEventListener("submit", (event) => {
       .then((response) => {})
       .catch((error) => {});
 
-    sessionStorage.setItem("trees", "[]");
-    window.dispatchEvent(orderSent);
     sessionStorage.setItem("submittedOrder", "true");
     window.location.reload();
   })();

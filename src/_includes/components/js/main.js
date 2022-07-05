@@ -2,10 +2,16 @@ let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 
+const orderSent = new Event("orderSent");
+
 if (sessionStorage.getItem("submittedOrder") === "true") {
   if (history.scrollRestoration) {
     history.scrollRestoration = "manual";
   }
+
+  sessionStorage.setItem("trees", "[]");
+  window.dispatchEvent(orderSent);
+
   document.querySelector("#top-bar").style.setProperty("display", "grid");
   sessionStorage.setItem("submittedOrder", "false");
 

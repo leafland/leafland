@@ -8439,3 +8439,9 @@
     from = "/trees/category/exotic/"
     status = 301
     to = "/trees/"
+
+[[redirects]]
+    force = true
+    from = "/submit-order/"
+    status = 301
+    to = "/trees/"
