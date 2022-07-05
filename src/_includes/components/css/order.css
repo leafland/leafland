@@ -205,6 +205,7 @@
   /* max-width: max-content; */
   width: 100%;
   justify-self: center;
+  justify-content: center;
 }
 
 .order-region-select label {
