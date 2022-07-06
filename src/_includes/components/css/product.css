@@ -52,6 +52,7 @@ main h3 {
   border-radius: 8px;
   overflow-x: hidden;
   padding: 2rem;
+  height: max-content;
 }
 
 #success-message {
@@ -862,8 +863,8 @@ details b {
   gap: 1rem;
 }
 
-.tree-name{
-  font-weight: 600
+.tree-name {
+  font-weight: 600;
 }
 
 .tree-information-heading {
