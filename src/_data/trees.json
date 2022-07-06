@@ -35247,8 +35247,8 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "asparagus family, a family of flowering plants.",
-      "genus": "",
-      "species": "",
+      "genus": "<i>furcraea</i> (Latinised), named after the French chemist Antoine François Fourcroy (1755 - 1809). A genus of flowering succulents native to tropical regions of Mexico, the Caribbean, Central America, and northern South America.",
+      "species": "<i>guatemalēnsis</i> (Latin, adjective), meaning 'Guatemalan, of or relating to Guatemala', in reference to the geographical location where this species was first discovered.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35309,7 +35309,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Nothofagaceae",
     "genus": "Fuscospora",
     "species": "cliffortioides",
     "hybrid": "",
@@ -35331,9 +35331,9 @@
     "commonName": "Tawhairauriki",
     "otherCommonNames": "New Zealand Mountain Beech",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "southern beech family, a family of flowering evergreen and deciduous forest trees native to the Southern Hemisphere in Chile, Argentina, Australia, New Zealand, New Guinea, and New Caledonia.",
+      "genus": "<i>fuscospora</i>, derived from the Latin adjective <i>fusca</i> (black, brown) and noun <i>spora</i> (spore), meaning 'brown-spores', in reference to the colour of the pollen of species in this genus. Commonly known as southern beech, a genus of flowering evergreen and deciduous forest trees native to New Zealand, Australia, and Chile.",
+      "species": "<i>cliffortioides</i>, derived from the genus name <i>Cliffortia</i> and the Latin suffix <i>oides</i> (like, similar to), in reference to this species' similarity to species in the genus <i>Cliffortia</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35383,10 +35383,12 @@
         "alt": "fuscospora cliffortioides tawhairauriki new zealand mountain beech foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.researchgate.net/publication/306980043_Nothofagaceae_In_Breitwieser_I_Brownsey_PJ_Wilton_AD_Flora_of_New_Zealand_-_Seed_Plants_Fascicle_3_Manaaki_Whenua_Press_Lincoln_httpdxdoiorg107931B1X59J"
+    ]
   },
   {
-    "family": "",
+    "family": "Nothofagaceae",
     "genus": "Fuscospora",
     "species": "fusca",
     "hybrid": "",
@@ -35408,9 +35410,9 @@
     "commonName": "Tawhairaunui",
     "otherCommonNames": "New Zealand Red Beech",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "southern beech family, a family of flowering evergreen and deciduous forest trees native to the Southern Hemisphere in Chile, Argentina, Australia, New Zealand, New Guinea, and New Caledonia.",
+      "genus": "<i>fuscospora</i>, derived from the Latin adjective <i>fusca</i> (black, brown) and noun <i>spora</i> (spore), meaning 'brown-spores', in reference to the colour of the pollen of species in this genus. Commonly known as southern beech, a genus of flowering evergreen and deciduous forest trees native to New Zealand, Australia, and Chile.",
+      "species": "<i>fusca</i> (Latin, adjective), meaning 'dark, black, brown', in reference to the dark, nearly black bark on mature trees of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35468,10 +35470,12 @@
         "alt": "fuscospora fusca tawhairaunui new zealand red beech young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.researchgate.net/publication/306980043_Nothofagaceae_In_Breitwieser_I_Brownsey_PJ_Wilton_AD_Flora_of_New_Zealand_-_Seed_Plants_Fascicle_3_Manaaki_Whenua_Press_Lincoln_httpdxdoiorg107931B1X59J"
+    ]
   },
   {
-    "family": "",
+    "family": "Nothofagaceae",
     "genus": "Fuscospora",
     "species": "solandri",
     "hybrid": "",
@@ -35493,9 +35497,9 @@
     "commonName": "Tawhairauriki",
     "otherCommonNames": "New Zealand Black Beech",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "southern beech family, a family of flowering evergreen and deciduous forest trees native to the Southern Hemisphere in Chile, Argentina, Australia, New Zealand, New Guinea, and New Caledonia.",
+      "genus": "<i>fuscospora</i>, derived from the Latin adjective <i>fusca</i> (black, brown) and noun <i>spora</i> (spore), meaning 'brown-spores', in reference to the colour of the pollen of species in this genus. Commonly known as southern beech, a genus of flowering evergreen and deciduous forest trees native to New Zealand, Australia, and Chile.",
+      "species": "<i>solandri</i> (Latinised), named after the Swedish naturalist Daniel Solander (1733 - 1782).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35545,10 +35549,12 @@
         "alt": "fuscospora solandri tawhairauriki new zealand black beech foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.researchgate.net/publication/306980043_Nothofagaceae_In_Breitwieser_I_Brownsey_PJ_Wilton_AD_Flora_of_New_Zealand_-_Seed_Plants_Fascicle_3_Manaaki_Whenua_Press_Lincoln_httpdxdoiorg107931B1X59J"
+    ]
   },
   {
-    "family": "",
+    "family": "Nothofagaceae",
     "genus": "Fuscospora",
     "species": "truncata",
     "hybrid": "",
@@ -35570,9 +35576,9 @@
     "commonName": "Tawhairaunui",
     "otherCommonNames": "New Zealand Hard Beech",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "southern beech family, a family of flowering evergreen and deciduous forest trees native to the Southern Hemisphere in Chile, Argentina, Australia, New Zealand, New Guinea, and New Caledonia.",
+      "genus": "<i>fuscospora</i>, derived from the Latin adjective <i>fusca</i> (black, brown) and noun <i>spora</i> (spore), meaning 'brown-spores', in reference to the colour of the pollen of species in this genus. Commonly known as southern beech, a genus of flowering evergreen and deciduous forest trees native to New Zealand, Australia, and Chile.",
+      "species": "<i>truncāta</i> (Latin, participle), meaning 'maimed, mutilated, lopped', in reference to the blunt apex of the leaves (the top of the leaves don't taper to a point, but end with a flat edge) of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -35622,7 +35628,9 @@
         "alt": "fuscospora truncata tawhairaunui new zealand hard beech foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.researchgate.net/publication/306980043_Nothofagaceae_In_Breitwieser_I_Brownsey_PJ_Wilton_AD_Flora_of_New_Zealand_-_Seed_Plants_Fascicle_3_Manaaki_Whenua_Press_Lincoln_httpdxdoiorg107931B1X59J"
+    ]
   },
   {
     "family": "",
@@ -44099,7 +44107,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Nothofagaceae",
     "genus": "Lophozonia",
     "species": "menziesii",
     "hybrid": "",
@@ -44121,9 +44129,9 @@
     "commonName": "Tawhai",
     "otherCommonNames": "New Zealand Silver Beech",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "southern beech family, a family of flowering evergreen and deciduous forest trees native to the Southern Hemisphere in Chile, Argentina, Australia, New Zealand, New Guinea, and New Caledonia.",
+      "genus": "<i>lophozonia</i>, possibly derived from the Greek noun λόφος (<i>lóphos</i>, 'crest [of a hill], a tuft of hair [upon the head]') and the Latin suffix <i>ia</i> (used to form a feminine abstract noun), potentially meaning 'hairy, hairy crest', in reference to the domatia (a tiny chamber produced by plants that houses arthropods) lined with brown hairs that are present on the underside of the leaves of species in this genus. Could also refer to the trichomes (hair-like appendages) present on the stems of species in this genus. Alternatively, the generic name could be a Latinised form of an unknown surname. Commonly known as southern beech, a genus of flowering evergreen and deciduous forest trees native to New Zealand, Australia, Chile, and Argentina.",
+      "species": "<i>menziesii</i> (Latinised), named after the Scottish surgeon, botanist, and naturalist Archibald Menzies (1754 - 1842).",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -44173,7 +44181,9 @@
         "alt": "lophozonia menziesii tawhai new zealand silver beech foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.researchgate.net/publication/306980043_Nothofagaceae_In_Breitwieser_I_Brownsey_PJ_Wilton_AD_Flora_of_New_Zealand_-_Seed_Plants_Fascicle_3_Manaaki_Whenua_Press_Lincoln_httpdxdoiorg107931B1X59J"
+    ]
   },
   {
     "family": "",
