@@ -850,7 +850,7 @@ details b {
   gap: 1rem;
 }
 
-#taxonomy {
+#taxonomy-section {
   border-radius: 8px;
   padding: 2rem;
   background: var(--secondary-background);
