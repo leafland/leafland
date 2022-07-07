@@ -37363,7 +37363,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Proteaceae",
     "genus": "Grevillea",
     "species": "robusta",
     "hybrid": "",
@@ -37375,9 +37375,9 @@
     "commonName": "Silky Oak",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "<i>rōbusta</i> (Latin, adjective), meaning 'robust, strong', in reference to this species being the largest of the genus <i>Grevillea</i>.",
+      "family": "a family of flowering plants predominantly distributed in the Southern Hemisphere.",
+      "genus": "<i>grevillea</i> (Latinised), named after the British antiquarian, collector, and politician Charles Francis Greville (1749 - 1809). Commonly known as spider flowers, a genus of evergreen flowering plants native to Australia, New Guinea, New Caledonia, and Indonesia.",
+      "species": "<i>rōbusta</i> (Latin, adjective), meaning 'robust, strong', in reference to the great height this species reaches in the wild and this species being the largest of the genus <i>Grevillea</i>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37454,7 +37454,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37464,11 +37464,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37522,10 +37522,13 @@
         "alt": "griselinia littoralis kapuka papaumua broadleaf hedge"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37535,11 +37538,11 @@
     "cultivar": "Ardmore Emerald",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37593,10 +37596,13 @@
         "alt": "griselinia littoralis ardmore emerald kapuka papauma broadleaf leaf"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37606,11 +37612,11 @@
     "cultivar": "Broadway Lime",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37655,10 +37661,13 @@
     "treeShape": "images/icons/tree-shapes/griselinia/griselinia-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37668,11 +37677,11 @@
     "cultivar": "Broadway Mint",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37730,10 +37739,13 @@
         "alt": "griselinia littoralis broadway mint kapuka papauma broadleaf single tree nursery"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37743,11 +37755,11 @@
     "cultivar": "Canterbury",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37801,10 +37813,13 @@
         "alt": "griselinia littoralis canterbury kapuka papauma broadleaf stems"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37814,11 +37829,11 @@
     "cultivar": "Gecko Green",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37868,10 +37883,13 @@
         "alt": "griselinia littoralis gecko green kapuka papauma broadleaf leaf"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37881,11 +37899,11 @@
     "cultivar": "Variegata",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37930,10 +37948,13 @@
     "treeShape": "images/icons/tree-shapes/griselinia/griselinia-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "littoralis",
     "hybrid": "",
@@ -37943,11 +37964,11 @@
     "cultivar": "Whenuapai",
     "synonyms": [],
     "commonName": "Kāpuka",
-    "otherCommonNames": "Pāpāuma, Broadleaf",
+    "otherCommonNames": "Pāpāuma, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>littorālis</i> (Latin, adjective), meaning 'of the seashore, of the coast', in reference to this species naturally growing in coastal areas.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -37997,10 +38018,13 @@
         "alt": "griselinia littoralis whenuapai kapuka papauma broadleaf foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
-    "family": "",
+    "family": "Griseliniaceae",
     "genus": "Griselinia",
     "species": "lucida",
     "hybrid": "",
@@ -38010,11 +38034,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Puka",
-    "otherCommonNames": "Akapuka, Broadleaf",
+    "otherCommonNames": "Akapuka, New Zealand Broadleaf",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "genus": "<i>griselinia</i> (Latinised), named after the Venetian botanist Francesco Griselini (1717 - 1783). A genus of evergreen flowering shrubs and trees native to New Zealand and South America.",
+      "species": "<i>lūcida</i> (Latin, adjective), meaning 'clear, bright, shining', in reference to the glossy bright-green leaves of this species.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -38064,7 +38088,10 @@
         "alt": "griselinia lucida puka akapuka broadleaf foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.jstor.org/stable/432778?seq=1",
+      "https://www.google.co.nz/books/edition/A_Gardener_s_Handbook_of_Plant_Names/7ULDAgAAQBAJ?hl=en&gbpv=1&dq=Franc+Griselini&pg=PT166&printsec=frontcover"
+    ]
   },
   {
     "family": "",
