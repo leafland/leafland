@@ -38094,7 +38094,7 @@
     ]
   },
   {
-    "family": "",
+    "family": "Monimiaceae",
     "genus": "Hedycarya",
     "species": "arborea",
     "hybrid": "",
@@ -38106,9 +38106,9 @@
     "commonName": "Porokaiwhiri",
     "otherCommonNames": "Pigeonwood",
     "nameBreakdown": {
-      "family": "",
-      "genus": "",
-      "species": "",
+      "family": "a family of flowering trees, shrubs, and lianas native to the tropics and subtropics, mostly in the Southern Hemisphere.",
+      "genus": "<i>hedycarya</i>, derived from the Greek adjective ἡδύς (<i>hēdús</i>, 'sweet') and noun κάρυον (<i>káruon</i>, 'nut [specifically a hard-shelled seed]'), meaning 'sweet-nutted, sweet-seeded', in reference to birds flocking to eat the fruit of species in this genus, presumably because they taste good.",
+      "species": "<i>arborea</i> (Latin, adjective), meaning 'tree-like'.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -38162,7 +38162,7 @@
         "alt": "hedycarya arborea porokaiwhiri pigeonwood fruit"
       }
     ],
-    "links": []
+    "links": ["https://biodiversitylibrary.org/page/3590630"]
   },
   {
     "family": "",
