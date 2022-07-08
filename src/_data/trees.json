@@ -12589,7 +12589,7 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Coastal Banksia",
-    "otherCommonNames": "",
+    "otherCommonNames": "Coast Banksia, White Honeysuckle",
     "nameBreakdown": {
       "family": "a family of flowering plants predominantly distributed in the Southern Hemisphere.",
       "genus": "<i>banksia</i> (Latinised), named in honour of the English naturalist and botanist, Joseph Banks (1743 - 1820). A genus of flowering trees and shrubs.",
@@ -12675,7 +12675,18 @@
         "alt": "banksia integrifolia coastal banksia street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Banksia_integrifolia",
+      "https://species.wikimedia.org/wiki/Banksia_integrifolia",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=894948#null",
+      "https://treesandshrubsonline.org/articles/banksia/banksia-integrifolia/",
+      "https://selectree.calpoly.edu/tree-detail/1694",
+      "https://www.rhs.org.uk/plants/99541/i-banksia-integrifolia-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Banksia+integrifolia",
+      "https://www.nzpcn.org.nz/flora/species/banksia-integrifolia/",
+      "https://www.nzflora.info/factsheet/Taxon/Banksia-integrifolia.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/b5a42182-0900-4707-912b-fb2048601081"
+    ]
   },
   {
     "family": "Lauraceae",
@@ -12755,7 +12766,14 @@
       }
     ],
     "links": [
-      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335"
+      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335",
+      "https://en.wikipedia.org/wiki/Beilschmiedia_tarairi",
+      "https://species.wikimedia.org/wiki/Beilschmiedia_tarairi",
+      "https://www.rhs.org.uk/plants/2052/i-beilschmiedia-tarairi-i/details",
+      "https://www.nzpcn.org.nz/flora/species/beilschmiedia-tarairi/",
+      "https://www.nzflora.info/factsheet/Taxon/Beilschmiedia-tarairi.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2659e5dd-fa92-4c87-a4d7-9871b74f0c41",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/e124995b-bb40-445c-87c7-b62bfaca80ed"
     ]
   },
   {
@@ -12824,7 +12842,15 @@
       }
     ],
     "links": [
-      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335"
+      "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/article/download/206512/170185/866335",
+      "https://en.wikipedia.org/wiki/Beilschmiedia_tawa",
+      "https://species.wikimedia.org/wiki/Beilschmiedia_tawa",
+      "https://temperate.theferns.info/viewtropical.php?id=Beilschmiedia+tawa",
+      "https://www.nzpcn.org.nz/flora/species/beilschmiedia-tawa/",
+      "https://www.nzflora.info/factsheet/Taxon/Beilschmiedia-tawa.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/e8cd2202-3b4d-4b8d-a881-2ae10996183a",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9bfff316-6aa5-4f25-ad3e-f9300362fbbf",
+      "https://www.rhs.org.uk/plants/161490/i-beilschmiedia-tawa-i/details"
     ]
   },
   {
@@ -12910,7 +12936,24 @@
         "alt": "berberis thunbergii f atropurpurea helmond pillar japanese barberry group"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Berberis_thunbergii",
+      "https://species.wikimedia.org/wiki/Berberis_thunbergii",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18835#null",
+      "https://treesandshrubsonline.org/articles/berberis/berberis-thunbergii/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277781",
+      "https://plants.ces.ncsu.edu/plants/berberis-thunbergii-var-atropurpurea/",
+      "https://plants.ces.ncsu.edu/plants/berberis-thunbergii/",
+      "https://landscapeplants.oregonstate.edu/plants/berberis-thunbergii",
+      "https://landscapeplants.oregonstate.edu/plants/berberis-thunbergii-var-atropurpurea",
+      "https://www.rhs.org.uk/plants/2183/berberis-thunbergii/details",
+      "https://www.rhs.org.uk/plants/99268/berberis-thunbergii-f-atropurpurea/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Berberis+thunbergii",
+      "https://www.ebben.nl/nl/treeebb/bethunbe-berberis-thunbergii",
+      "https://www.ebben.nl/nl/treeebb/betatrop-berberis-thunbergii-atropurpurea",
+      "https://www.gardenia.net/plant/berberis-thunbergii-atropurpurea-purple-japanese-barberry",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/da304abc-e039-4584-9e85-5723581743cd"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13020,7 +13063,15 @@
         "alt": "betula costata leaf close up"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_costata",
+      "https://species.wikimedia.org/wiki/Betula_costata",
+      "https://treesandshrubsonline.org/articles/betula/betula-ermanii/#9074",
+      "https://www.vdberk.co.uk/trees/betula-costata/",
+      "https://www.rhs.org.uk/plants/222739/betula-costata-ambig/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+costata",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/bab18585-bcb7-4e70-a007-bbbb85026f18"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13033,7 +13084,7 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Erman's Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Gold Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13087,7 +13138,18 @@
         "alt": "betula ermanii ermans birch foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_ermanii",
+      "https://species.wikimedia.org/wiki/Betula_ermanii",
+      "https://treesandshrubsonline.org/articles/betula/betula-ermanii/",
+      "https://www.vdberk.co.uk/trees/betula-ermanii/",
+      "https://selectree.calpoly.edu/tree-detail/1746",
+      "https://www.rhs.org.uk/plants/2242/i-betula-ermanii-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+ermanii",
+      "https://www.ebben.nl/nl/treeebb/beermani-betula-ermanii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/35526a18-c101-4ed7-8d2b-ebf4987b2b61",
+      "https://www.gardenia.net/plant/betula-ermanii-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13100,7 +13162,7 @@
     "cultivar": "Polar Bear",
     "synonyms": [],
     "commonName": "Erman's Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Gold Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13158,7 +13220,18 @@
         "alt": "betula ermanii polar bear ermans birch summer"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_ermanii",
+      "https://species.wikimedia.org/wiki/Betula_ermanii",
+      "https://treesandshrubsonline.org/articles/betula/betula-ermanii/",
+      "https://www.vdberk.co.uk/trees/betula-ermanii/",
+      "https://selectree.calpoly.edu/tree-detail/1746",
+      "https://www.rhs.org.uk/plants/2242/i-betula-ermanii-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+ermanii",
+      "https://www.ebben.nl/nl/treeebb/beermani-betula-ermanii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/35526a18-c101-4ed7-8d2b-ebf4987b2b61",
+      "https://www.gardenia.net/plant/betula-ermanii-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13171,7 +13244,7 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "River Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Black Birch, Water Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13241,7 +13314,22 @@
         "alt": "betula nigra river birch park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_nigra",
+      "https://species.wikimedia.org/wiki/Betula_nigra",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19480#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-nigra/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277830",
+      "https://www.vdberk.co.uk/trees/betula-nigra/",
+      "https://plants.ces.ncsu.edu/plants/betula-nigra/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-nigra",
+      "https://selectree.calpoly.edu/tree-detail/200",
+      "https://www.rhs.org.uk/plants/2258/i-betula-nigra-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+nigra",
+      "https://www.ebben.nl/nl/treeebb/benigra-betula-nigra",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/01338a1d-17bc-45a3-a734-45065cdec061",
+      "https://www.gardenia.net/plant/betula-nigra-river-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13264,7 +13352,7 @@
       }
     ],
     "commonName": "River Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Black Birch, Water Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13318,7 +13406,29 @@
         "alt": "betula nigra heritage river birch bark"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_nigra",
+      "https://species.wikimedia.org/wiki/Betula_nigra",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19480#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-nigra/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277830",
+      "https://www.vdberk.co.uk/trees/betula-nigra/",
+      "https://plants.ces.ncsu.edu/plants/betula-nigra/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-nigra",
+      "https://selectree.calpoly.edu/tree-detail/200",
+      "https://www.rhs.org.uk/plants/2258/i-betula-nigra-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+nigra",
+      "https://www.ebben.nl/nl/treeebb/benigra-betula-nigra",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/01338a1d-17bc-45a3-a734-45065cdec061",
+      "https://www.gardenia.net/plant/betula-nigra-river-birch",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a200",
+      "https://www.vdberk.co.uk/trees/betula-nigra-heritage/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-nigra-heritage",
+      "https://selectree.calpoly.edu/tree-detail/201",
+      "https://www.rhs.org.uk/plants/92252/i-betula-nigra-i-font-face-times-new-roman-heritage-font/details",
+      "https://www.ebben.nl/nl/treeebb/benherit-betula-nigra-heritage",
+      "https://www.gardenia.net/plant/betula-nigra-heritage-river-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13331,7 +13441,7 @@
     "cultivar": "Summer Cascade",
     "synonyms": [],
     "commonName": "River Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Black Birch, Water Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13405,7 +13515,24 @@
         "alt": "betula nigra summer cascade river birch park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_nigra",
+      "https://species.wikimedia.org/wiki/Betula_nigra",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19480#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-nigra/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277830",
+      "https://www.vdberk.co.uk/trees/betula-nigra/",
+      "https://plants.ces.ncsu.edu/plants/betula-nigra/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-nigra",
+      "https://selectree.calpoly.edu/tree-detail/200",
+      "https://www.rhs.org.uk/plants/2258/i-betula-nigra-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+nigra",
+      "https://www.ebben.nl/nl/treeebb/benigra-betula-nigra",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/01338a1d-17bc-45a3-a734-45065cdec061",
+      "https://www.gardenia.net/plant/betula-nigra-river-birch",
+      "https://plants.ces.ncsu.edu/plants/betula-nigra-summer-cascade-pp15105/",
+      "https://www.rhs.org.uk/plants/226887/i-betula-nigra-i-summer-cascade-sup-(pbr)-sup/details"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13418,7 +13545,7 @@
     "cultivar": "Uru Tawhai",
     "synonyms": [],
     "commonName": "River Birch",
-    "otherCommonNames": "",
+    "otherCommonNames": "Black Birch, Water Birch",
     "nameBreakdown": {
       "family": "birch family, a family of deciduous, nut-bearing trees and shrubs.",
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
@@ -13467,7 +13594,22 @@
     "treeShape": "images/icons/tree-shapes/betula/betula-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_nigra",
+      "https://species.wikimedia.org/wiki/Betula_nigra",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19480#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-nigra/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277830",
+      "https://www.vdberk.co.uk/trees/betula-nigra/",
+      "https://plants.ces.ncsu.edu/plants/betula-nigra/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-nigra",
+      "https://selectree.calpoly.edu/tree-detail/200",
+      "https://www.rhs.org.uk/plants/2258/i-betula-nigra-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+nigra",
+      "https://www.ebben.nl/nl/treeebb/benigra-betula-nigra",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/01338a1d-17bc-45a3-a734-45065cdec061",
+      "https://www.gardenia.net/plant/betula-nigra-river-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13577,7 +13719,25 @@
         "alt": "betula pendula silver birch park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_pendula",
+      "https://species.wikimedia.org/wiki/Betula_pendula",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19495#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-pendula/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277818",
+      "https://www.vdberk.co.uk/trees/betula-pendula/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula",
+      "https://selectree.calpoly.edu/tree-detail/204",
+      "https://www.rhs.org.uk/plants/2261/betula-pendula/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+pendula",
+      "https://www.havlis.cz/karta_en.php?kytkaid=881",
+      "https://www.ebben.nl/nl/treeebb/bependul-betula-pendula",
+      "https://www.nzpcn.org.nz/flora/species/betula-pendula/",
+      "https://www.nzflora.info/factsheet/Taxon/Betula-pendula.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/eeffee63-f758-42e7-bd87-36c875bff63a",
+      "https://www.gardenia.net/plant/betula-pendula-silver-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13648,7 +13808,26 @@
         "alt": "betula pendula black prince silver birch leaves"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_pendula",
+      "https://species.wikimedia.org/wiki/Betula_pendula",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19495#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-pendula/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277818",
+      "https://www.vdberk.co.uk/trees/betula-pendula/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula",
+      "https://selectree.calpoly.edu/tree-detail/204",
+      "https://www.rhs.org.uk/plants/2261/betula-pendula/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+pendula",
+      "https://www.havlis.cz/karta_en.php?kytkaid=881",
+      "https://www.ebben.nl/nl/treeebb/bependul-betula-pendula",
+      "https://www.nzpcn.org.nz/flora/species/betula-pendula/",
+      "https://www.nzflora.info/factsheet/Taxon/Betula-pendula.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/eeffee63-f758-42e7-bd87-36c875bff63a",
+      "https://www.gardenia.net/plant/betula-pendula-silver-birch",
+      "https://www.rhs.org.uk/plants/327131/i-betula-pendula-i-black-prince/details"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13727,7 +13906,29 @@
         "alt": "betula pendula dalecarlica silver birch leaves"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_pendula",
+      "https://species.wikimedia.org/wiki/Betula_pendula",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19495#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-pendula/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277818",
+      "https://www.vdberk.co.uk/trees/betula-pendula/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula",
+      "https://selectree.calpoly.edu/tree-detail/204",
+      "https://www.rhs.org.uk/plants/2261/betula-pendula/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+pendula",
+      "https://www.havlis.cz/karta_en.php?kytkaid=881",
+      "https://www.ebben.nl/nl/treeebb/bependul-betula-pendula",
+      "https://www.nzpcn.org.nz/flora/species/betula-pendula/",
+      "https://www.nzflora.info/factsheet/Taxon/Betula-pendula.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/eeffee63-f758-42e7-bd87-36c875bff63a",
+      "https://www.gardenia.net/plant/betula-pendula-silver-birch",
+      "https://en.wikipedia.org/wiki/Orn%C3%A4s_birch",
+      "https://selectree.calpoly.edu/tree-detail/207",
+      "https://www.rhs.org.uk/plants/131897/betula-pendula-subsp-pendula-dalecarlica-ambig/details",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/b63282ea-0f42-4dc6-a86a-da816c5b11a8"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13810,7 +14011,25 @@
         "alt": "betula pendula wades gold silver birch sidewalk"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_pendula",
+      "https://species.wikimedia.org/wiki/Betula_pendula",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19495#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-pendula/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277818",
+      "https://www.vdberk.co.uk/trees/betula-pendula/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula",
+      "https://selectree.calpoly.edu/tree-detail/204",
+      "https://www.rhs.org.uk/plants/2261/betula-pendula/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+pendula",
+      "https://www.havlis.cz/karta_en.php?kytkaid=881",
+      "https://www.ebben.nl/nl/treeebb/bependul-betula-pendula",
+      "https://www.nzpcn.org.nz/flora/species/betula-pendula/",
+      "https://www.nzflora.info/factsheet/Taxon/Betula-pendula.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/eeffee63-f758-42e7-bd87-36c875bff63a",
+      "https://www.gardenia.net/plant/betula-pendula-silver-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -13885,7 +14104,32 @@
         "alt": "betula pendula youngii silver birch park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_pendula",
+      "https://species.wikimedia.org/wiki/Betula_pendula",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19495#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-pendula/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277818",
+      "https://www.vdberk.co.uk/trees/betula-pendula/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula",
+      "https://selectree.calpoly.edu/tree-detail/204",
+      "https://www.rhs.org.uk/plants/2261/betula-pendula/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+pendula",
+      "https://www.havlis.cz/karta_en.php?kytkaid=881",
+      "https://www.ebben.nl/nl/treeebb/bependul-betula-pendula",
+      "https://www.nzpcn.org.nz/flora/species/betula-pendula/",
+      "https://www.nzflora.info/factsheet/Taxon/Betula-pendula.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/eeffee63-f758-42e7-bd87-36c875bff63a",
+      "https://www.gardenia.net/plant/betula-pendula-silver-birch",
+      "https://www.vdberk.co.uk/trees/betula-pendula-youngii/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-pendula-youngii",
+      "https://selectree.calpoly.edu/tree-detail/206",
+      "https://www.rhs.org.uk/plants/92990/i-betula-pendula-i-subsp-i-pendula-i-youngii/details",
+      "https://www.havlis.cz/karta_en.php?kytkaid=212",
+      "https://www.ebben.nl/nl/treeebb/bepyoung-betula-pendula-youngii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/47442aff-9b05-4e74-beca-60e8613896d1"
+    ]
   },
   {
     "family": "Betulaceae",
