@@ -14140,7 +14140,35 @@
     "variety": "japonica",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "pendula",
+        "hybrid": "",
+        "subspecies": "mandshurica",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Betula",
+        "species": "platyphylla",
+        "hybrid": "",
+        "subspecies": "mandshurica",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      },
+      {
+        "genus": "Betula",
+        "species": "mandshurica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "japonica",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Japanese White Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14200,7 +14228,24 @@
         "alt": "betula platyphylla var japonica japanese white birch leaf"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_platyphylla",
+      "https://species.wikimedia.org/wiki/Betula_pendula_subsp._mandshurica",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=183538#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-platyphylla/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242298",
+      "https://www.vdberk.co.uk/trees/betula-platyphylla/",
+      "https://plants.ces.ncsu.edu/plants/betula-pendula-subsp-mandshurica/",
+      "https://plants.ces.ncsu.edu/plants/betula-platyphylla-var-japonica/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-platyphylla",
+      "https://selectree.calpoly.edu/tree-detail/208",
+      "https://www.rhs.org.uk/plants/91779/betula-platyphylla-var-japonica/details",
+      "https://www.rhs.org.uk/plants/387051/betula-pendula-subsp-mandshurica/details",
+      "https://www.ebben.nl/nl/treeebb/beplatyp-betula-platyphylla",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/15aa8383-9bc3-4247-909e-066055bfb619",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/8093b087-1740-4649-9c76-e4507b6123d2",
+      "https://www.gardenia.net/plant/betula-platyphylla-japanese-white-birch"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -14211,7 +14256,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Whitespire",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "platyphylla",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "japonica",
+        "form": "",
+        "cultivar": "Whitespire"
+      }
+    ],
     "commonName": "Grey Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14287,7 +14342,21 @@
         "alt": "betula populifolia whitespire grey birch street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_populifolia",
+      "https://species.wikimedia.org/wiki/Betula_populifolia",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=19497#null",
+      "https://treesandshrubsonline.org/articles/betula/betula-populifolia/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=262223",
+      "https://www.vdberk.co.uk/trees/betula-populifolia-whitespire/",
+      "https://plants.ces.ncsu.edu/plants/betula-populifolia-whitespire/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-populifolia",
+      "https://landscapeplants.oregonstate.edu/plants/betula-populifolia-whitespire-senior",
+      "https://selectree.calpoly.edu/tree-detail/209",
+      "https://www.rhs.org.uk/plants/333503/i-betula-populifolia-i-whitespire/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+populifolia",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/3b7a581c-b8f4-4143-8c7e-24ae8ec21612"
+    ]
   },
   {
     "family": "Betulaceae",
