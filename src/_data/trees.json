@@ -14363,11 +14363,21 @@
     "genus": "Betula",
     "species": "utilis",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "jacquemontii",
+    "subspecies": "jacquemontii",
+    "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "utilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "jacquemontii",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Himalayan Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14375,11 +14385,11 @@
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "<i>ūtilis</i> (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
-      "subspecies": "",
-      "variety": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "subspecies": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "variety": "",
       "form": ""
     },
-    "url": "betula-utilis-var-jacquemontii",
+    "url": "betula-utilis-subsp-jacquemontii",
     "mainImage": "betula-utilis-var-jacquemontii-himalayan-birch/betula-utilis-var-jacquemontii-himalayan-birch.jpg",
     "description": "A lovely birch with dazzling, white, peeling bark from top to toe and maintained into old age. Neat, erect growth habit. Large, tapering, dark-green leaves turn bright-yellow in autumn.",
     "uses": "street",
@@ -14455,18 +14465,48 @@
         "alt": "betula utilis var jacquemontii himalayan birch street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_utilis",
+      "https://species.wikimedia.org/wiki/Betula_utilis",
+      "https://treesandshrubsonline.org/articles/betula/betula-utilis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277860",
+      "https://www.vdberk.co.uk/trees/betula-utilis/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis",
+      "https://selectree.calpoly.edu/tree-detail/1487",
+      "https://www.rhs.org.uk/plants/100356/i-betula-utilis-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+utilis",
+      "https://www.ebben.nl/nl/treeebb/beutilis-betula-utilis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2d1bc0b8-58b8-4367-b7c7-6b037fd1d45d",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242301",
+      "https://www.vdberk.co.uk/trees/betula-utilis-var-jacquemontii/",
+      "https://plants.ces.ncsu.edu/plants/betula-jacquemontii/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis-var-jacquemontii",
+      "https://selectree.calpoly.edu/tree-detail/198",
+      "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
+      "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+    ]
   },
   {
     "family": "Betulaceae",
     "genus": "Betula",
     "species": "utilis",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "jacquemontii",
+    "subspecies": "jacquemontii",
+    "variety": "",
     "form": "",
     "cultivar": "Dazzler",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "utilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "jacquemontii",
+        "form": "",
+        "cultivar": "Dazzler"
+      }
+    ],
     "commonName": "Himalayan Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14474,11 +14514,11 @@
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "<i>ūtilis</i> (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
-      "subspecies": "",
-      "variety": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "subspecies": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "variety": "",
       "form": ""
     },
-    "url": "betula-utilis-var-jacquemontii-dazzler",
+    "url": "betula-utilis-subsp-jacquemontii-dazzler",
     "mainImage": "betula-utilis-var-jacquemontii-dazzler-himalayan-birch/betula-utilis-var-jacquemontii-dazzler-himalayan-birch.jpg",
     "description": "A superior selection of Betula utilis var. jacquemontii with amazing snow-white bark. A lovely birch with dazzling, white, peeling bark from top to toe and maintained into old age. Neat, erect growth habit. Large, tapering, dark-green leaves turn bright-yellow in autumn.",
     "uses": "street",
@@ -14530,18 +14570,48 @@
         "alt": "betula utilis var jacquemontii dazzler himalayan birch summer"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_utilis",
+      "https://species.wikimedia.org/wiki/Betula_utilis",
+      "https://treesandshrubsonline.org/articles/betula/betula-utilis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277860",
+      "https://www.vdberk.co.uk/trees/betula-utilis/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis",
+      "https://selectree.calpoly.edu/tree-detail/1487",
+      "https://www.rhs.org.uk/plants/100356/i-betula-utilis-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+utilis",
+      "https://www.ebben.nl/nl/treeebb/beutilis-betula-utilis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2d1bc0b8-58b8-4367-b7c7-6b037fd1d45d",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242301",
+      "https://www.vdberk.co.uk/trees/betula-utilis-var-jacquemontii/",
+      "https://plants.ces.ncsu.edu/plants/betula-jacquemontii/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis-var-jacquemontii",
+      "https://selectree.calpoly.edu/tree-detail/198",
+      "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
+      "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+    ]
   },
   {
     "family": "Betulaceae",
     "genus": "Betula",
     "species": "utilis",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "jacquemontii",
+    "subspecies": "jacquemontii",
+    "variety": "",
     "form": "",
     "cultivar": "Jermyns",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "utilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "jacquemontii",
+        "form": "",
+        "cultivar": "Jermyns"
+      }
+    ],
     "commonName": "Himalayan Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14549,11 +14619,11 @@
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "<i>ūtilis</i> (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
-      "subspecies": "",
-      "variety": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "subspecies": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "variety": "",
       "form": ""
     },
-    "url": "betula-utilis-var-jacquemontii-jermyns",
+    "url": "betula-utilis-subsp-jacquemontii-jermyns",
     "mainImage": "betula-utilis-var-jacquemontii-jermyns-himalayan-birch/betula-utilis-var-jacquemontii-jermyns-himalayan-birch.jpeg",
     "description": "A vigorous, broadly-conical tree. Attractive white bark which peels in horizontal, papery flakes. Dark-green leaves turn golden-yellow in autumn.",
     "uses": "street",
@@ -14617,18 +14687,48 @@
         "alt": "betula utilis var jacquemontii jermyns himalayan birch winter"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_utilis",
+      "https://species.wikimedia.org/wiki/Betula_utilis",
+      "https://treesandshrubsonline.org/articles/betula/betula-utilis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277860",
+      "https://www.vdberk.co.uk/trees/betula-utilis/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis",
+      "https://selectree.calpoly.edu/tree-detail/1487",
+      "https://www.rhs.org.uk/plants/100356/i-betula-utilis-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+utilis",
+      "https://www.ebben.nl/nl/treeebb/beutilis-betula-utilis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2d1bc0b8-58b8-4367-b7c7-6b037fd1d45d",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242301",
+      "https://www.vdberk.co.uk/trees/betula-utilis-var-jacquemontii/",
+      "https://plants.ces.ncsu.edu/plants/betula-jacquemontii/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis-var-jacquemontii",
+      "https://selectree.calpoly.edu/tree-detail/198",
+      "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
+      "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+    ]
   },
   {
     "family": "Betulaceae",
     "genus": "Betula",
     "species": "utilis",
     "hybrid": "",
-    "subspecies": "",
-    "variety": "jacquemontii",
+    "subspecies": "jacquemontii",
+    "variety": "",
     "form": "",
     "cultivar": "Silver Shadow",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Betula",
+        "species": "utilis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "jacquemontii",
+        "form": "",
+        "cultivar": "Silver Shadow"
+      }
+    ],
     "commonName": "Himalayan Birch",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -14636,11 +14736,11 @@
       "genus": "<i>betula</i> (Latin, noun), meaning 'birch tree'. Commonly known as birch, a genus of deciduous trees and shrubs.",
       "species": "<i>ūtilis</i> (Latin, adjective), meaning 'useful', believed to be in reference to the usefulness of this species' paper-like bark for writing texts in ancient times.",
       "hybrid": "",
-      "subspecies": "",
-      "variety": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "subspecies": "<i>jacquemontii</i> (Latinised), named in honour of the French botanist and geologist, Victor Jacquemont (1801 - 1832).",
+      "variety": "",
       "form": ""
     },
-    "url": "betula-utilis-var-jacquemontii-silver-shadow",
+    "url": "betula-utilis-subsp-jacquemontii-silver-shadow",
     "mainImage": "betula-utilis-var-jacquemontii-silver-shadow-himalayan-birch/betula-utilis-var-jacquemontii-silver-shadow-himalayan-birch.jpg",
     "description": "Has a conical crown and clear-white bark on the trunk and branches. Oval leaves are dark-green and drooping, turning yellow in autumn. Male catkins conspicuous in early spring.",
     "uses": "",
@@ -14684,7 +14784,27 @@
         "alt": "betula utilis var jacquemontii silver shadow himalayan birch bark"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Betula_utilis",
+      "https://species.wikimedia.org/wiki/Betula_utilis",
+      "https://treesandshrubsonline.org/articles/betula/betula-utilis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277860",
+      "https://www.vdberk.co.uk/trees/betula-utilis/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis",
+      "https://selectree.calpoly.edu/tree-detail/1487",
+      "https://www.rhs.org.uk/plants/100356/i-betula-utilis-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Betula+utilis",
+      "https://www.ebben.nl/nl/treeebb/beutilis-betula-utilis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2d1bc0b8-58b8-4367-b7c7-6b037fd1d45d",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=242301",
+      "https://www.vdberk.co.uk/trees/betula-utilis-var-jacquemontii/",
+      "https://plants.ces.ncsu.edu/plants/betula-jacquemontii/",
+      "https://landscapeplants.oregonstate.edu/plants/betula-utilis-var-jacquemontii",
+      "https://selectree.calpoly.edu/tree-detail/198",
+      "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
+      "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+    ]
   },
   {
     "family": "Malvaceae",

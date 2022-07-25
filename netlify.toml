@@ -2460,50 +2460,74 @@
     force = true
     from = "/trees/betula-utilis-var-jacquemontii-himalayan-birch/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii/"
+    to = "/trees/betula-utilis-subsp-jacquemontii/"
 
 [[redirects]]
     force = true
     from = "/trees/betulus-utilis-var-jacquemontii/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii/"
+    to = "/trees/betula-utilis-subsp-jacquemontii/"
+
+[[redirects]]
+    force = true
+    from = "/trees/betula-utilis-var-jacquemontii/"
+    status = 301
+    to = "/trees/betula-utilis-subsp-jacquemontii/"
 
 
 [[redirects]]
     force = true
     from = "/trees/betula-utilis-var-jacquemontii-dazzler-himalayan-birch/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-dazzler/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-dazzler/"
 
 [[redirects]]
     force = true
     from = "/trees/betulus-utilis-var-jacquemontii-dazzler/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-dazzler/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-dazzler/"
+
+[[redirects]]
+    force = true
+    from = "/trees/betula-utilis-var-jacquemontii-dazzler/"
+    status = 301
+    to = "/trees/betula-utilis-subsp-jacquemontii-dazzler/"
 
 [[redirects]]
     force = true
     from = "/trees/betula-utilis-var-jacquemontii-jermyns-himalayan-birch/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-jermyns/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-jermyns/"
 
 [[redirects]]
     force = true
     from = "/trees/betulus-utilis-var-jacquemontii-jermyns/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-jermyns/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-jermyns/"
+
+[[redirects]]
+    force = true
+    from = "/trees/betula-utilis-var-jacquemontii-jermyns/"
+    status = 301
+    to = "/trees/betula-utilis-subsp-jacquemontii-jermyns/"
 
 [[redirects]]
     force = true
     from = "/trees/betula-utilis-var-jacquemontii-silver-shadow-himalayan-birch/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-silver-shadow/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-silver-shadow/"
 
 [[redirects]]
     force = true
     from = "/trees/betulus-utilis-var-jacquemontii-silver-shadow/"
     status = 301
-    to = "/trees/betula-utilis-var-jacquemontii-silver-shadow/"
+    to = "/trees/betula-utilis-subsp-jacquemontii-silver-shadow/"
+
+[[redirects]]
+    force = true
+    from = "/trees/betula-utilis-var-jacquemontii-silver-shadow/"
+    status = 301
+    to = "/trees/betula-utilis-subsp-jacquemontii-silver-shadow/"
 
 [[redirects]]
     force = true
