@@ -376,6 +376,13 @@ submitForm.addEventListener("submit", (event) => {
       .then((response) => {})
       .catch((error) => {});
 
+    await fetch(
+      "https://api.leafland.co.nz/default/send-confirmed-order-email",
+      requestOptions
+    )
+      .then((response) => {})
+      .catch((error) => {});
+
     sessionStorage.setItem("submittedOrder", "true");
     window.location.reload();
   })();
