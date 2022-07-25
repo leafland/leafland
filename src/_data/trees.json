@@ -80694,6 +80694,93 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Lutescens",
+    "synonyms": [],
+    "commonName": "Golden Elm",
+    "otherCommonNames": "Wych Elm, Golden Wych Elm",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "ulmus-glabra-lutescens",
+    "mainImage": "ulmus-glabra-lutescens/ulmus-glabra-lutescens.jpg",
+    "description": "A beautiful tree that starts off vase-shaped before maturing to form a broadly-round crown. Leaves emerge yellow in spring before changing to green-yellow in summer (better yellow colouring can be achieved when planted in full-sun) and then to yellow again in autumn.",
+    "uses": "paddocks, shade",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "6m",
+    "width": "5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, yellow",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "yellow"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/ulmus/ulmus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-driveway.jpg",
+        "alt": "ulmus glabra lutescens driveway"
+      },
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-field.jpg",
+        "alt": "ulmus glabra lutescens field"
+      },
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-foliage.jpg",
+        "alt": "ulmus glabra lutescens foliage"
+      },
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-leaf.jpg",
+        "alt": "ulmus glabra lutescens leaf"
+      },
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-park.jpg",
+        "alt": "ulmus glabra lutescens park"
+      },
+      {
+        "src": "images/trees/ulmus-glabra-lutescens/ulmus-glabra-lutescens-young-tree.jpg",
+        "alt": "ulmus glabra lutescens young tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Ulmus",
+    "species": "glabra",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Pendula",
     "synonyms": [],
     "commonName": "Wych Elm",
