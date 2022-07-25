@@ -14484,7 +14484,9 @@
       "https://selectree.calpoly.edu/tree-detail/198",
       "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
       "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b",
+      "https://www.gardenia.net/plant/betula-utilis-himalayan-birch",
+      "https://www.gardenia.net/plant/betula-utilis-var-jacquemontii-himalayan-birch"
     ]
   },
   {
@@ -14589,7 +14591,9 @@
       "https://selectree.calpoly.edu/tree-detail/198",
       "https://www.rhs.org.uk/plants/386979/i-betula-utilis-i-subsp-i-jacquemontii-i/details",
       "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b"
+      "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b",
+      "https://www.gardenia.net/plant/betula-utilis-himalayan-birch",
+      "https://www.gardenia.net/plant/betula-utilis-var-jacquemontii-himalayan-birch"
     ]
   },
   {
@@ -14708,7 +14712,9 @@
       "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
       "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b",
       "https://www.gardenersworld.com/plants/betula-utilis-var-jacquemontii-jermyns/",
-      "https://www.rhs.org.uk/plants/386983/betula-utilis-subsp-jacquemontii-jermyns/details"
+      "https://www.rhs.org.uk/plants/386983/betula-utilis-subsp-jacquemontii-jermyns/details",
+      "https://www.gardenia.net/plant/betula-utilis-himalayan-birch",
+      "https://www.gardenia.net/plant/betula-utilis-var-jacquemontii-himalayan-birch"
     ]
   },
   {
@@ -14807,7 +14813,9 @@
       "https://www.ebben.nl/nl/treeebb/beujacqu-betula-utilis-var-jacquemontii",
       "https://biotanz.landcareresearch.co.nz/scientific-names/2817590e-b44a-4b58-8228-47bdbc61af2b",
       "https://www.gardenersworld.com/plants/betula-utilis-var-jacquemontii-silver-shadow/",
-      "https://www.rhs.org.uk/plants/386989/betula-utilis-subsp-jacquemontii-silver-shadow/details"
+      "https://www.rhs.org.uk/plants/386989/betula-utilis-subsp-jacquemontii-silver-shadow/details",
+      "https://www.gardenia.net/plant/betula-utilis-himalayan-birch",
+      "https://www.gardenia.net/plant/betula-utilis-var-jacquemontii-himalayan-birch"
     ]
   },
   {
@@ -14895,7 +14903,15 @@
         "alt": "brachychiton acerifolius illawarra flame tree summer"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Brachychiton_acerifolius",
+      "https://species.wikimedia.org/wiki/Brachychiton_acerifolius",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=845738#null",
+      "https://selectree.calpoly.edu/tree-detail/213",
+      "https://www.rhs.org.uk/plants/114325/i-brachychiton-acerifolius-i/details",
+      "https://temperate.theferns.info/viewtropical.php?id=Brachychiton+acerifolius",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/209f3b61-5643-4812-ad0c-e96ab68ce2fe"
+    ]
   },
   {
     "family": "Malvaceae",
@@ -14986,7 +15002,15 @@
         "alt": "brachychiton rupestris queensland bottle tree trunk"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Brachychiton_rupestris",
+      "https://species.wikimedia.org/wiki/Brachychiton_rupestris",
+      "https://selectree.calpoly.edu/tree-detail/1511",
+      "https://tropical.theferns.info/viewtropical.php?id=Brachychiton+rupestris",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/acf933f2-c770-451e-abd4-cfb3d0f6616f",
+      "https://www.rhs.org.uk/plants/157148/i-brachychiton-rupestris-i/details",
+      "https://www.gardenia.net/plant/brachychiton-rupestris"
+    ]
   },
   {
     "family": "Buxaceae",
