@@ -90,7 +90,9 @@
       "https://en.wikipedia.org/wiki/Abies_concolor",
       "https://temperate.theferns.info/viewtropical.php?id=Abies+concolor",
       "https://www.havlis.cz/karta_en.php?kytkaid=1045",
-      "https://www.ebben.nl/nl/treeebb/abconcol-abies-concolor"
+      "https://www.ebben.nl/nl/treeebb/abconcol-abies-concolor",
+      "https://en.wikipedia.org/wiki/Pinaceae",
+      "https://en.wikipedia.org/wiki/Fir"
     ]
   },
   {
@@ -180,7 +182,9 @@
       "https://species.wikimedia.org/wiki/Acacia_baileyana",
       "https://en.wikipedia.org/wiki/Acacia_baileyana",
       "https://www.gardenia.net/plant/acacia-baileyana",
-      "https://www.gardenia.net/plant/acacia-baileyana-purpurea"
+      "https://www.gardenia.net/plant/acacia-baileyana-purpurea",
+      "https://en.wikipedia.org/wiki/Fabaceae",
+      "https://en.wikipedia.org/wiki/Acacia"
     ]
   },
   {
@@ -257,7 +261,9 @@
       "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=820132#null",
       "https://en.wikipedia.org/wiki/Acacia_floribunda",
       "https://species.wikimedia.org/wiki/Acacia_floribunda",
-      "https://www.rhs.org.uk/plants/98/i-acacia-floribunda-i/details"
+      "https://www.rhs.org.uk/plants/98/i-acacia-floribunda-i/details",
+      "https://en.wikipedia.org/wiki/Fabaceae",
+      "https://en.wikipedia.org/wiki/Acacia"
     ]
   },
   {
@@ -335,7 +341,9 @@
       "https://vicflora.rbg.vic.gov.au/flora/taxon/f9d0ac14-065c-462d-a5f5-565343ef3761",
       "https://en.wikipedia.org/wiki/Acacia_howittii",
       "https://species.wikimedia.org/wiki/Acacia_howittii",
-      "https://www.rhs.org.uk/plants/137609/i-acacia-howittii-i/details"
+      "https://www.rhs.org.uk/plants/137609/i-acacia-howittii-i/details",
+      "https://en.wikipedia.org/wiki/Fabaceae",
+      "https://en.wikipedia.org/wiki/Acacia"
     ]
   },
   {
@@ -448,7 +456,9 @@
       "https://www.rhs.org.uk/plants/102/i-acacia-melanoxylon-i/details",
       "https://en.wikipedia.org/wiki/Acacia_melanoxylon",
       "https://species.wikimedia.org/wiki/Acacia_melanoxylon",
-      "https://temperate.theferns.info/viewtropical.php?id=Acacia+melanoxylon"
+      "https://temperate.theferns.info/viewtropical.php?id=Acacia+melanoxylon",
+      "https://en.wikipedia.org/wiki/Fabaceae",
+      "https://en.wikipedia.org/wiki/Acacia"
     ]
   },
   {
@@ -525,6 +535,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://treesandshrubsonline.org/articles/acer/acer-buergerianum/",
       "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=837859#null",
       "https://plants.ces.ncsu.edu/plants/acer-buergerianum/",
@@ -536,7 +548,8 @@
       "https://species.wikimedia.org/wiki/Acer_buergerianum",
       "https://www.havlis.cz/karta_en.php?kytkaid=820",
       "https://www.ebben.nl/nl/treeebb/acbuerge-acer-buergerianum",
-      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b972"
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b972",
+      "https://en.wikipedia.org/wiki/Sapindaceae"
     ]
   },
   {
@@ -605,12 +618,15 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://treesandshrubsonline.org/articles/acer/acer-campbellii/",
       "https://www.rhs.org.uk/plants/306171/acer-campbellii-subsp-campbellii/details",
       "https://temperate.theferns.info/plant/Acer+campbellii",
       "https://species.wikimedia.org/wiki/Acer_campbellii",
       "https://en.wikipedia.org/wiki/Acer_campbellii",
-      "https://species.wikimedia.org/wiki/Acer_campbellii"
+      "https://species.wikimedia.org/wiki/Acer_campbellii",
+      "https://en.wikipedia.org/wiki/Sapindaceae"
     ]
   },
   {
@@ -699,6 +715,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_campestre",
       "https://species.wikimedia.org/wiki/Acer_campestre",
       "https://treesandshrubsonline.org/articles/acer/acer-campestre/",
@@ -792,6 +810,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_capillipes",
       "https://species.wikimedia.org/wiki/Acer_capillipes",
       "https://treesandshrubsonline.org/articles/acer/acer-capillipes/",
@@ -873,6 +893,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_cappadocicum",
       "https://species.wikimedia.org/wiki/Acer_cappadocicum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275425",
@@ -971,6 +993,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_cappadocicum",
       "https://species.wikimedia.org/wiki/Acer_cappadocicum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275425",
@@ -1067,6 +1091,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_caudatifolium",
       "https://species.wikimedia.org/wiki/Acer_caudatifolium",
       "https://treesandshrubsonline.org/articles/acer/acer-kawakamii/",
@@ -1156,6 +1182,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_davidii",
       "https://species.wikimedia.org/wiki/Acer_davidii",
       "https://treesandshrubsonline.org/articles/acer/acer-davidii/",
@@ -1234,7 +1262,10 @@
         "alt": "acer gracefield snakebark maple bark"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae"
+    ]
   },
   {
     "family": "Sapindaceae",
@@ -1326,6 +1357,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_griseum",
       "https://species.wikimedia.org/wiki/Acer_griseum",
       "https://treesandshrubsonline.org/articles/acer/acer-griseum/",
@@ -1427,6 +1460,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_japonicum",
       "https://species.wikimedia.org/wiki/Acer_japonicum",
       "https://treesandshrubsonline.org/articles/acer/acer-japonicum/",
@@ -1512,6 +1547,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_monspessulanum",
       "https://species.wikimedia.org/wiki/Acer_monspessulanum",
       "https://treesandshrubsonline.org/articles/acer/acer-monspessulanum/",
@@ -1611,6 +1648,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_negundo",
       "https://species.wikimedia.org/wiki/Acer_negundo",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275364",
@@ -1713,6 +1752,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_negundo",
       "https://species.wikimedia.org/wiki/Acer_negundo",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275364",
@@ -1808,6 +1849,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_negundo",
       "https://species.wikimedia.org/wiki/Acer_negundo",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275364",
@@ -1910,6 +1953,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_negundo",
       "https://species.wikimedia.org/wiki/Acer_negundo",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275364",
@@ -2036,6 +2081,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2130,6 +2177,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2227,6 +2276,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2310,6 +2361,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2413,6 +2466,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2515,6 +2570,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2612,6 +2669,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2712,6 +2771,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2810,6 +2871,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2898,6 +2961,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -2994,6 +3059,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3092,6 +3159,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3190,6 +3259,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3291,6 +3362,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3396,6 +3469,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3521,6 +3596,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3621,6 +3698,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3728,6 +3807,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -3875,6 +3956,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4000,6 +4083,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4107,6 +4192,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4206,6 +4293,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4305,6 +4394,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4404,6 +4495,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4510,6 +4603,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4617,6 +4712,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4714,6 +4811,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4815,6 +4914,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -4925,6 +5026,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5009,6 +5112,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5119,6 +5224,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5218,6 +5325,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5310,6 +5419,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5410,6 +5521,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5502,6 +5615,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5600,6 +5715,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5702,6 +5819,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5796,6 +5915,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5890,6 +6011,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -5984,6 +6107,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6083,6 +6208,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6173,6 +6300,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6263,6 +6392,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6369,6 +6500,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6466,6 +6599,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_palmatum",
       "https://species.wikimedia.org/wiki/Acer_palmatum",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b974",
@@ -6574,6 +6709,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -6656,6 +6793,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -6750,6 +6889,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -6849,6 +6990,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -6953,6 +7096,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -7103,6 +7248,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -7209,6 +7356,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_platanoides",
       "https://species.wikimedia.org/wiki/Acer_platanoides",
       "https://treesandshrubsonline.org/articles/acer/acer-platanoides/",
@@ -7330,6 +7479,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
       "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
       "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
@@ -7436,6 +7587,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
       "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
       "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
@@ -7552,6 +7705,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
       "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
       "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
@@ -7657,6 +7812,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
       "https://species.wikimedia.org/wiki/Acer_pseudoplatanus",
       "https://treesandshrubsonline.org/articles/acer/acer-pseudoplatanus/",
@@ -7792,6 +7949,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -7924,6 +8083,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8056,6 +8217,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8185,6 +8348,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8308,6 +8473,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8427,6 +8594,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8588,6 +8757,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8722,6 +8893,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8820,6 +8993,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_rubrum",
       "https://species.wikimedia.org/wiki/Acer_rubrum",
       "https://treesandshrubsonline.org/articles/acer/acer-rubrum/",
@@ -8926,6 +9101,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_saccharinum",
       "https://species.wikimedia.org/wiki/Acer_saccharinum",
       "https://treesandshrubsonline.org/articles/acer/acer-saccharinum/",
@@ -9027,6 +9204,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_saccharum",
       "https://species.wikimedia.org/wiki/Acer_saccharum",
       "https://treesandshrubsonline.org/articles/acer/acer-saccharum/",
@@ -9116,6 +9295,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_shirasawanum",
       "https://species.wikimedia.org/wiki/Acer_shirasawanum",
       "https://www.rhs.org.uk/plants/21085/acer-shirasawanum/details",
@@ -9207,6 +9388,8 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Maple",
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Acer_tschonoskii",
       "https://species.wikimedia.org/wiki/Acer_tschonoskii",
       "https://treesandshrubsonline.org/articles/acer/acer-tschonoskii/",
@@ -9299,6 +9482,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_%C3%97_carnea",
       "https://species.wikimedia.org/wiki/Aesculus_%C3%97_carnea",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-x-carnea/",
@@ -9310,7 +9494,8 @@
       "https://landscapeplants.oregonstate.edu/plants/aesculus-carnea",
       "https://selectree.calpoly.edu/tree-detail/133",
       "https://www.ebben.nl/nl/treeebb/aecarnea-aesculus-x-carnea",
-      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+%C3%97+carnea"
+      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+%C3%97+carnea",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9403,6 +9588,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_%C3%97_carnea",
       "https://species.wikimedia.org/wiki/Aesculus_%C3%97_carnea",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-x-carnea/",
@@ -9421,7 +9607,8 @@
       "https://selectree.calpoly.edu/tree-detail/134",
       "https://www.havlis.cz/karta_en.php?kytkaid=536",
       "https://www.ebben.nl/en/treeebb/aecbriot-aesculus-x-carnea-briotii",
-      "https://www.gardenia.net/plant/aesculus-x-carnea-briotii"
+      "https://www.gardenia.net/plant/aesculus-x-carnea-briotii",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9514,6 +9701,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_hippocastanum",
       "https://species.wikimedia.org/wiki/Aesculus_hippocastanum",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-hippocastanum/",
@@ -9526,7 +9714,8 @@
       "https://selectree.calpoly.edu/tree-detail/138",
       "https://www.ebben.nl/en/treeebb/aehippoc-aesculus-hippocastanum",
       "https://www.gardenia.net/plant/aesculus-hippocastanum",
-      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+hippocastanum"
+      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+hippocastanum",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9599,6 +9788,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_hippocastanum",
       "https://species.wikimedia.org/wiki/Aesculus_hippocastanum",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-hippocastanum/",
@@ -9617,7 +9807,8 @@
       "https://www.vdberk.co.uk/trees/aesculus-hippocastanum-baumannii/",
       "https://landscapeplants.oregonstate.edu/plants/aesculus-hippocastanum-baumannii",
       "https://selectree.calpoly.edu/tree-detail/139",
-      "https://www.ebben.nl/en/treeebb/aehbauma-aesculus-hippocastanum-baumannii"
+      "https://www.ebben.nl/en/treeebb/aehbauma-aesculus-hippocastanum-baumannii",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9698,6 +9889,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_indica",
       "https://species.wikimedia.org/wiki/Aesculus_indica",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-indica/",
@@ -9705,7 +9897,8 @@
       "https://www.vdberk.co.uk/trees/aesculus-indica/",
       "https://selectree.calpoly.edu/tree-detail/140",
       "https://www.ebben.nl/en/treeebb/aeindica-aesculus-indica",
-      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+indica"
+      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+indica",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9794,13 +9987,15 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://species.wikimedia.org/wiki/Aesculus_%C3%97_neglecta",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-neglecta/",
       "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182125",
       "https://www.rhs.org.uk/plants/99273/i-aesculus-i-times%3B-i-neglecta-i/details",
       "https://www.rhs.org.uk/plants/90136/i-aesculus-i-times%3B-i-neglecta-i-erythroblastos/details",
       "https://www.ebben.nl/nl/treeebb/aeneryth-aesculus-x-neglecta-erythroblastos",
-      "https://www.gardenia.net/plant/aesculus-neglecta-erythroblastos"
+      "https://www.gardenia.net/plant/aesculus-neglecta-erythroblastos",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9885,13 +10080,15 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Aesculus_turbinata",
       "https://species.wikimedia.org/wiki/Aesculus_turbinata",
       "https://treesandshrubsonline.org/articles/aesculus/aesculus-turbinata/",
       "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506070",
       "https://www.rhs.org.uk/plants/590/i-aesculus-turbinata-i/details",
       "https://www.vdberk.co.uk/trees/aesculus-turbinata/",
-      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+turbinata"
+      "https://temperate.theferns.info/viewtropical.php?id=Aesculus+turbinata",
+      "https://en.wikipedia.org/wiki/Aesculus"
     ]
   },
   {
@@ -9970,6 +10167,7 @@
       }
     ],
     "links": [
+      "https://en.wikipedia.org/wiki/Sapindaceae",
       "https://en.wikipedia.org/wiki/Afrocarpus_mannii",
       "https://species.wikimedia.org/wiki/Afrocarpus_mannii",
       "https://www.rhs.org.uk/plants/185801/i-afrocarpus-mannii-i/details",
@@ -10368,7 +10566,8 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=2571",
       "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
       "https://www.gardenia.net/plant/albizia-julibrissin",
-      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin"
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -10518,7 +10717,8 @@
       "https://www.havlis.cz/karta_en.php?kytkaid=2571",
       "https://www.ebben.nl/en/treeebb/aljulibr-albizia-julibrissin",
       "https://www.gardenia.net/plant/albizia-julibrissin",
-      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin"
+      "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -10686,7 +10886,8 @@
       "https://temperate.theferns.info/viewtropical.php?id=Albizia+julibrissin",
       "https://www.rhs.org.uk/plants/206754/albizia-julibrissin-rosea/details",
       "https://www.rhs.org.uk/plants/77621/i-albizia-julibrissin-i-f-i-rosea-i/details",
-      "https://www.gardenia.net/plant/albizia-julibrissin-rosea-pink-silk-tree"
+      "https://www.gardenia.net/plant/albizia-julibrissin-rosea-pink-silk-tree",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -10775,7 +10976,8 @@
       "https://landscapeplants.oregonstate.edu/plants/albizia-julibrissin-summer-chocolate",
       "https://www.havlis.cz/karta_en.php?kytkaid=765",
       "https://www.ebben.nl/en/treeebb/aljschoc-albizia-julibrissin-summer-chocolate",
-      "https://www.gardenia.net/plant/albizia-julibrissin-summer-chocolate"
+      "https://www.gardenia.net/plant/albizia-julibrissin-summer-chocolate",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -10889,7 +11091,8 @@
       "https://www.nzpcn.org.nz/flora/species/alectryon-excelsus-subsp-excelsus/",
       "https://rauropiwhakaoranga.landcareresearch.co.nz/names/9d91a079-15d1-4490-84fe-201b14738bbe",
       "https://biotanz.landcareresearch.co.nz/scientific-names/f366aed6-a5e4-44b6-b4bc-a71155dc94ec",
-      "https://www.nzflora.info/factsheet/Taxon/Alectryon-excelsus.html"
+      "https://www.nzflora.info/factsheet/Taxon/Alectryon-excelsus.html",
+      "https://en.wikipedia.org/wiki/Sapindaceae"
     ]
   },
   {
@@ -15021,9 +15224,19 @@
     "variety": "",
     "form": "",
     "cultivar": "Graham Blandy",
-    "synonyms": [],
-    "commonName": "Boxwood",
-    "otherCommonNames": "",
+    "synonyms": [
+      {
+        "genus": "Buxus",
+        "species": "sempervirens",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Greenpeace"
+      }
+    ],
+    "commonName": "Common Boxwood",
+    "otherCommonNames": "Common Box, European Box",
     "nameBreakdown": {
       "family": "box family, a family of flowering shrubs and small trees.",
       "genus": "<i>buxus</i> (Latin, noun), meaning 'evergreen box tree', the classical Latin name for species in this genus. Commonly known as box or boxwood, a genus of evergreen shrubs and small trees.",
@@ -15093,7 +15306,24 @@
         "alt": "buxus sempervirens graham blandy boxwood topiary"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Buxus_sempervirens",
+      "https://species.wikimedia.org/wiki/Buxus_sempervirens",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=501097#null",
+      "https://treesandshrubsonline.org/articles/buxus/buxus-sempervirens/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=243283",
+      "https://plants.ces.ncsu.edu/plants/buxus-sempervirens/",
+      "https://landscapeplants.oregonstate.edu/plants/buxus-sempervirens",
+      "https://selectree.calpoly.edu/tree-detail/230",
+      "https://temperate.theferns.info/viewtropical.php?id=Buxus+sempervirens",
+      "https://www.ebben.nl/nl/treeebb/busemper-buxus-sempervirens",
+      "https://www.nzpcn.org.nz/flora/species/buxus-sempervirens/",
+      "https://www.nzflora.info/factsheet/Taxon/Buxus-sempervirens.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/7ef2d43a-c20a-4d48-959e-485217b57ab8",
+      "https://www.rhs.org.uk/plants/2579/buxus-sempervirens/details",
+      "https://www.gardenia.net/plant/buxus-sempervirens-graham-blandy",
+      "https://www.rhs.org.uk/plants/139080/buxus-sempervirens-graham-blandy/details"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15174,7 +15404,21 @@
         "alt": "callistemon citrinus bottlebrush flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_citrina",
+      "https://species.wikimedia.org/wiki/Callistemon_citrinus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=835283#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-citrinus/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282871",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-citrina/",
+      "https://selectree.calpoly.edu/tree-detail/238",
+      "https://temperate.theferns.info/viewtropical.php?id=Callistemon+citrinus",
+      "https://www.nzpcn.org.nz/flora/species/melaleuca-citrina/",
+      "https://www.nzflora.info/factsheet/Taxon/Melaleuca-citrina.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/abb623d6-52c0-4154-aa82-805fbedf7f65",
+      "https://www.rhs.org.uk/plants/2687/callistemon-citrinus/details",
+      "https://www.gardenia.net/plant/callistemon-citrinus"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15255,7 +15499,22 @@
         "alt": "callistemon citrinus red cluster bottlebrush flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_citrina",
+      "https://species.wikimedia.org/wiki/Callistemon_citrinus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=835283#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-citrinus/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282871",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-citrina/",
+      "https://selectree.calpoly.edu/tree-detail/238",
+      "https://temperate.theferns.info/viewtropical.php?id=Callistemon+citrinus",
+      "https://www.nzpcn.org.nz/flora/species/melaleuca-citrina/",
+      "https://www.nzflora.info/factsheet/Taxon/Melaleuca-citrina.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/abb623d6-52c0-4154-aa82-805fbedf7f65",
+      "https://www.rhs.org.uk/plants/2687/callistemon-citrinus/details",
+      "https://www.gardenia.net/plant/callistemon-citrinus",
+      "https://www.rhs.org.uk/plants/254791/callistemon-citrinus-red-cluster/details"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15348,7 +15607,24 @@
         "alt": "callistemon citrinus western glory bottlebrush spring flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_citrina",
+      "https://species.wikimedia.org/wiki/Callistemon_citrinus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=835283#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-citrinus/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282871",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-citrina/",
+      "https://selectree.calpoly.edu/tree-detail/238",
+      "https://temperate.theferns.info/viewtropical.php?id=Callistemon+citrinus",
+      "https://www.nzpcn.org.nz/flora/species/melaleuca-citrina/",
+      "https://www.nzflora.info/factsheet/Taxon/Melaleuca-citrina.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/abb623d6-52c0-4154-aa82-805fbedf7f65",
+      "https://www.rhs.org.uk/plants/2687/callistemon-citrinus/details",
+      "https://www.gardenia.net/plant/callistemon-citrinus",
+      "https://www.gardeningwithangus.com.au/callistemon-citrinus-western-glory-bottlebrush/",
+      "https://www.anbg.gov.au/acra/descriptions/acc235.html",
+      "https://www.rhs.org.uk/plants/200605/callistemon-western-glory/details"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15415,7 +15691,9 @@
         "alt": "callistemon hot pink bottlebrush flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.gardeningwithangus.com.au/callistemon-hot-pink-bottlebrush/"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15569,7 +15847,10 @@
         "alt": "callistemon kings park special bottlebrush young"
       }
     ],
-    "links": []
+    "links": [
+      "https://www.gardeningwithangus.com.au/callistemon-kings-park-special-bottlebrush/",
+      "https://www.anbg.gov.au/acra/descriptions/acc227.html"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15650,7 +15931,16 @@
         "alt": "callistemon salignus bottlebrush street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_salicina",
+      "https://species.wikimedia.org/wiki/Callistemon_salignus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=834978#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-salignus/",
+      "https://selectree.calpoly.edu/tree-detail/1765",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/a6ceeb42-9751-4e2a-9086-1f4274590bd9",
+      "https://www.rhs.org.uk/plants/2694/i-callistemon-salignus-i/details",
+      "https://www.gardenia.net/plant/callistemon-salignus"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15755,7 +16045,17 @@
         "alt": "callistemon viminalis bottlebrush street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_viminalis",
+      "https://species.wikimedia.org/wiki/Callistemon_viminalis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=834934#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-viminalis/",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-viminalis/",
+      "https://selectree.calpoly.edu/tree-detail/241",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/85b10b61-97a8-4d9c-84af-d39fa2c8962e",
+      "https://www.rhs.org.uk/plants/97936/callistemon-viminalis/details",
+      "https://www.gardenia.net/plant/callistemon-viminalis"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15850,7 +16150,18 @@
         "alt": "callistemon viminalis macarthur bottlebrush flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_viminalis",
+      "https://species.wikimedia.org/wiki/Callistemon_viminalis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=834934#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-viminalis/",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-viminalis/",
+      "https://selectree.calpoly.edu/tree-detail/241",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/85b10b61-97a8-4d9c-84af-d39fa2c8962e",
+      "https://www.rhs.org.uk/plants/97936/callistemon-viminalis/details",
+      "https://www.gardenia.net/plant/callistemon-viminalis",
+      "https://www.ozbreed.com.au/plant-ranges/native-shrubs-groundcovers/macarthur-callistemon-is-a-better-flowering-native-shrub-with-fresh-green-toned-foliage-native-shrubs-ground-covers/"
+    ]
   },
   {
     "family": "Myrtaceae",
@@ -15957,7 +16268,18 @@
         "alt": "callistemon viminalis red alert bottlebrush new growth"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Melaleuca_viminalis",
+      "https://species.wikimedia.org/wiki/Callistemon_viminalis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=834934#null",
+      "https://treesandshrubsonline.org/articles/callistemon/callistemon-viminalis/",
+      "https://plants.ces.ncsu.edu/plants/melaleuca-viminalis/",
+      "https://selectree.calpoly.edu/tree-detail/241",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/85b10b61-97a8-4d9c-84af-d39fa2c8962e",
+      "https://www.rhs.org.uk/plants/97936/callistemon-viminalis/details",
+      "https://www.gardenia.net/plant/callistemon-viminalis",
+      "https://www.ozbreed.com.au/plant-ranges/native-shrubs-groundcovers/red-alert-callistemon-is-a-native-hedge-alternative-to-photinia-native-shrubs-ground-covers/"
+    ]
   },
   {
     "family": "Cupressaceae",
@@ -16040,7 +16362,17 @@
         "alt": "callitris rhomboidea oyster bay pine port jackson pine walkway"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Callitris_rhomboidea",
+      "https://species.wikimedia.org/wiki/Callitris_rhomboidea",
+      "https://treesandshrubsonline.org/articles/callitris/callitris-rhomboidea/",
+      "https://www.conifers.org/cu/Callitris_rhomboidea.php",
+      "https://temperate.theferns.info/viewtropical.php?id=Callitris+rhomboidea",
+      "https://www.nzpcn.org.nz/flora/species/callitris-rhomboidea/",
+      "https://www.nzflora.info/factsheet/Taxon/Callitris-rhomboidea.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/f082d0e8-6e40-4997-bb63-c40090c234cd",
+      "https://www.rhs.org.uk/plants/2709/i-callitris-rhomboidea-i/details"
+    ]
   },
   {
     "family": "Theaceae",
@@ -19274,7 +19606,7 @@
         "alt": "cedrus atlantica atlas cedar park"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Pinaceae"]
   },
   {
     "family": "Pinaceae",
@@ -19380,7 +19712,7 @@
         "alt": "cedrus atlantica glauca atlas cedar young tree"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Pinaceae"]
   },
   {
     "family": "Pinaceae",
@@ -19486,7 +19818,7 @@
         "alt": "cedrus atlantica glauca pendula atlas cedar park"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Pinaceae"]
   },
   {
     "family": "Pinaceae",
@@ -19596,7 +19928,7 @@
         "alt": "cedrus deodara himalayan cedar street"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Pinaceae"]
   },
   {
     "family": "Cannabaceae",
@@ -20017,7 +20349,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20102,7 +20435,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20187,7 +20521,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20264,7 +20599,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20345,7 +20681,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20430,7 +20767,8 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Fabaceae"
     ]
   },
   {
@@ -20514,7 +20852,7 @@
         "alt": "cercis chinensis avondale chinese redbud young tree"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -20581,7 +20919,7 @@
         "alt": "cercis chinensis spring snow chinese redbud flowers"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -20668,7 +21006,7 @@
         "alt": "cercis siliquastrum judas tree young tree"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -20749,7 +21087,7 @@
     "treeShape": "images/icons/tree-shapes/cercis/cercis-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Cupressaceae",
@@ -30622,7 +30960,7 @@
         "alt": "dodonaea viscosa akeake hopbush street"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Sapindaceae"]
   },
   {
     "family": "Sapindaceae",
@@ -30705,7 +31043,7 @@
         "alt": "dodonaea viscosa purpurea akeake hopbush hedged"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Sapindaceae"]
   },
   {
     "family": "Poaceae",
@@ -37252,7 +37590,7 @@
         "alt": "gleditsia triacanthos var inermis emerald cascade honey locust park"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -37319,7 +37657,7 @@
         "alt": "gleditsia triacanthos var inermis limelight honey locust foliage"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -37394,7 +37732,7 @@
         "alt": "gleditsia triacanthos var inermis ruby lace honey locust park"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -37465,7 +37803,7 @@
         "alt": "gleditsia triacanthos var inermis skyline honey locust street"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Fabaceae",
@@ -37540,7 +37878,7 @@
         "alt": "gleditsia triacanthos var inermis sunburst honey locust park"
       }
     ],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Fabaceae"]
   },
   {
     "family": "Theaceae",
