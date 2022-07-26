@@ -450,13 +450,13 @@ header {
   width: auto;
 }
 
-#top-bar {
+/* #top-bar {
   padding: 1rem;
   text-align: center;
   background: var(--primary-text);
   color: var(--secondary-background);
   font-weight: 700;
-}
+} */
 
 /* FOOTER */
 footer {
@@ -546,6 +546,7 @@ footer p {
 body.search-open #search-overlay,
 body.login-open #login-overlay,
 body.order-open #order-overlay,
+body.order-sent-open #order-sent-overlay,
 body.submit-order-open #submit-order-overlay,
 body.main-menu-open #main-menu-overlay {
   opacity: 1;
