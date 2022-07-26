@@ -670,7 +670,12 @@ body.loggedIn #retail-price {
 
 #more-information-links {
   display: grid;
-  gap: 1rem;
+  gap: 0.25rem;
+}
+
+#more-information-links a {
+  font-size: var(--font-size-2);
+  font-weight: 500;
 }
 
 #related-trees-section {
