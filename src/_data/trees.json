@@ -19033,7 +19033,7 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "European Hornbeam",
-    "otherCommonNames": "",
+    "otherCommonNames": "Common Hornbeam",
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Betulaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Betulaceae</i></a>.",
       "genus": "<i>carpinus</i> (Latin, noun), meaning 'hornbeam', the original Latin name for <i>Carpinus betulus</i>. Commonly known as hornbeam, a genus of trees. <a href='https://en.wikipedia.org/wiki/Hornbeam' target='_blank' rel='noopener noreferrer'>Learn more about <i>Carpinus</i></a>.",
@@ -19115,7 +19115,22 @@
         "alt": "carpinus betulus european hornbeam trimmed"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Carpinus_betulus",
+      "https://species.wikimedia.org/wiki/Carpinus_betulus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=184204#null",
+      "https://treesandshrubsonline.org/articles/carpinus/carpinus-betulus/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277824",
+      "https://www.vdberk.co.uk/trees/carpinus-betulus/",
+      "https://plants.ces.ncsu.edu/plants/carpinus-betulus/",
+      "https://landscapeplants.oregonstate.edu/plants/carpinus-betulus",
+      "https://selectree.calpoly.edu/tree-detail/252",
+      "https://temperate.theferns.info/viewtropical.php?id=Carpinus+betulus",
+      "https://www.ebben.nl/nl/treeebb/cabetulu-carpinus-betulus",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/219e81a4-cb8a-4ec9-b9b4-68085dfa2f72",
+      "https://www.rhs.org.uk/plants/3136/carpinus-betulus/details",
+      "https://www.gardenia.net/plant/carpinus-betulus"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -19128,7 +19143,7 @@
     "cultivar": "Fastigiata",
     "synonyms": [],
     "commonName": "European Hornbeam",
-    "otherCommonNames": "",
+    "otherCommonNames": "Common Hornbeam",
     "nameBreakdown": {
       "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Betulaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Betulaceae</i></a>.",
       "genus": "<i>carpinus</i> (Latin, noun), meaning 'hornbeam', the original Latin name for <i>Carpinus betulus</i>. Commonly known as hornbeam, a genus of trees. <a href='https://en.wikipedia.org/wiki/Hornbeam' target='_blank' rel='noopener noreferrer'>Learn more about <i>Carpinus</i></a>.",
@@ -19210,7 +19225,29 @@
         "alt": "carpinus betulus fastigiata european hornbeam young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Carpinus_betulus",
+      "https://species.wikimedia.org/wiki/Carpinus_betulus",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=184204#null",
+      "https://treesandshrubsonline.org/articles/carpinus/carpinus-betulus/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277824",
+      "https://www.vdberk.co.uk/trees/carpinus-betulus/",
+      "https://plants.ces.ncsu.edu/plants/carpinus-betulus/",
+      "https://landscapeplants.oregonstate.edu/plants/carpinus-betulus",
+      "https://selectree.calpoly.edu/tree-detail/252",
+      "https://temperate.theferns.info/viewtropical.php?id=Carpinus+betulus",
+      "https://www.ebben.nl/nl/treeebb/cabetulu-carpinus-betulus",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/219e81a4-cb8a-4ec9-b9b4-68085dfa2f72",
+      "https://www.rhs.org.uk/plants/3136/carpinus-betulus/details",
+      "https://www.gardenia.net/plant/carpinus-betulus",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a344",
+      "https://www.vdberk.co.uk/trees/carpinus-betulus-fastigiata/",
+      "https://landscapeplants.oregonstate.edu/plants/carpinus-betulus-fastigiata",
+      "https://selectree.calpoly.edu/tree-detail/253",
+      "https://www.havlis.cz/karta.php?kytkaid=415",
+      "https://www.ebben.nl/nl/treeebb/cabfasti-carpinus-betulus-fastigiata",
+      "https://www.rhs.org.uk/plants/96627/carpinus-betulus-fastigiata/details"
+    ]
   },
   {
     "family": "Betulaceae",
@@ -19277,7 +19314,18 @@
         "alt": "carpinus japonica japanese hornbeam leaf"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Carpinus_japonica",
+      "https://species.wikimedia.org/wiki/Carpinus_japonica",
+      "https://treesandshrubsonline.org/articles/carpinus/carpinus-japonica/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277861",
+      "https://www.vdberk.co.uk/trees/carpinus-japonica/",
+      "https://plants.ces.ncsu.edu/plants/carpinus-japonica/",
+      "https://landscapeplants.oregonstate.edu/plants/carpinus-japonica",
+      "https://www.ebben.nl/nl/treeebb/carjapon-carpinus-japonica",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/7f3edc50-f0e9-4cb1-b858-63100a9af130",
+      "https://www.rhs.org.uk/plants/3141/carpinus-japonica/details"
+    ]
   },
   {
     "family": "Rousseaceae",
@@ -19292,8 +19340,8 @@
     "commonName": "Putaputawētā",
     "otherCommonNames": "Marbleleaf",
     "nameBreakdown": {
-      "family": "a family of trees and shrubs.",
-      "genus": "<i>carpodetus</i>, derived from the Greek noun καρπός (<i>karpós</i>, 'fruit') and adjective σύνδετος (<i>súndetos</i>, 'bound'), meaning 'bound fruit', in reference to the distinct ring on the outside of the fruit of species in this genus that makes it appear as if the fruit is bound. Could also refer to the seeds being bound together in clusters in the fruit. A genus of small flowering trees that occur in New Guinea, New Zealand, Solomon Islands, and Vanuatu.",
+      "family": "a family of trees and shrubs. <a href='https://en.wikipedia.org/wiki/Rousseaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rousseaceae</i></a>.",
+      "genus": "<i>carpodetus</i>, derived from the Greek noun καρπός (<i>karpós</i>, 'fruit') and adjective σύνδετος (<i>súndetos</i>, 'bound'), meaning 'bound fruit', in reference to the distinct ring on the outside of the fruit of species in this genus that makes it appear as if the fruit is bound. Could also refer to the seeds being bound together in clusters in the fruit. A genus of small flowering trees that occur in New Guinea, New Zealand, Solomon Islands, and Vanuatu. <a href='https://en.wikipedia.org/wiki/Carpodetus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Carpodetus</i></a>.",
       "species": "<i>serrātus</i> (Latin, adjective), meaning 'serrated', in reference to the serrated, saw-tooth edges of the leaves of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -19360,7 +19408,16 @@
         "alt": "carpodetus serratus putaputaweta marbleleaf new growth"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Carpodetus_serratus",
+      "https://species.wikimedia.org/wiki/Carpodetus_serratus",
+      "https://treesandshrubsonline.org/articles/carpodetus/carpodetus-serratus/",
+      "https://www.nzpcn.org.nz/flora/species/carpodetus-serratus/",
+      "https://www.nzflora.info/factsheet/Taxon/Carpodetus-serratus.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/5510bab9-4e93-46ce-a02b-f3c822b2960a",
+      "https://rauropiwhakaoranga.landcareresearch.co.nz/names/7ce4b74f-f939-4fc5-ab0a-e3309a869224",
+      "https://www.rhs.org.uk/plants/3147/carpodetus-serratus/details"
+    ]
   },
   {
     "family": "Fagaceae",
@@ -19373,10 +19430,10 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Sweet Chestnut",
-    "otherCommonNames": "",
+    "otherCommonNames": "European Chestnut, Spanish Chestnut",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
-      "genus": "<i>castanea</i> (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
+      "genus": "<i>castanea</i> (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere. <a href='https://en.wikipedia.org/wiki/Chestnut' target='_blank' rel='noopener noreferrer'>Learn more about <i>Castanea</i></a>.",
       "species": "<i>satīva</i> (Latin, adjective), meaning 'sown, planted, cultivated', in reference to this species being widely cultivated by humans since ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -19435,7 +19492,25 @@
         "alt": "castanea sativa sweet chestnut young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Castanea_sativa",
+      "https://species.wikimedia.org/wiki/Castanea_sativa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506541#null",
+      "https://treesandshrubsonline.org/articles/castanea/castanea-sativa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280759",
+      "https://www.vdberk.co.uk/trees/castanea-sativa/",
+      "https://plants.ces.ncsu.edu/plants/castanea-sativa/",
+      "https://landscapeplants.oregonstate.edu/plants/castanea-sativa",
+      "https://selectree.calpoly.edu/tree-detail/273",
+      "https://temperate.theferns.info/viewtropical.php?id=Castanea+sativa",
+      "https://www.havlis.cz/karta.php?kytkaid=856",
+      "https://www.ebben.nl/nl/treeebb/casativa-castanea-sativa",
+      "https://www.nzpcn.org.nz/flora/species/castanea-sativa/",
+      "https://www.nzflora.info/factsheet/Taxon/Castanea-sativa.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/ac0972d8-0f2e-4a70-9945-a74b1e834ae8",
+      "https://www.rhs.org.uk/plants/3191/castanea-sativa/details",
+      "https://www.gardenia.net/plant/castanea-sativa"
+    ]
   },
   {
     "family": "Fagaceae",
@@ -19448,10 +19523,10 @@
     "cultivar": "1005",
     "synonyms": [],
     "commonName": "Sweet Chestnut",
-    "otherCommonNames": "",
+    "otherCommonNames": "European Chestnut, Spanish Chestnut",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
-      "genus": "<i>castanea</i> (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
+      "genus": "<i>castanea</i> (Latin, noun), meaning 'chestnut tree, chestnut'. Commonly known as chestnut, a genus of deciduous trees and shrubs that are native to the temperate regions of the Northern Hemisphere. <a href='https://en.wikipedia.org/wiki/Chestnut' target='_blank' rel='noopener noreferrer'>Learn more about <i>Castanea</i></a>.",
       "species": "<i>satīva</i> (Latin, adjective), meaning 'sown, planted, cultivated', in reference to this species being widely cultivated by humans since ancient times.",
       "hybrid": "",
       "subspecies": "",
@@ -19530,7 +19605,27 @@
         "alt": "castanea sativa 1005 sweet chestnut single tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Castanea_sativa",
+      "https://species.wikimedia.org/wiki/Castanea_sativa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506541#null",
+      "https://treesandshrubsonline.org/articles/castanea/castanea-sativa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280759",
+      "https://www.vdberk.co.uk/trees/castanea-sativa/",
+      "https://plants.ces.ncsu.edu/plants/castanea-sativa/",
+      "https://landscapeplants.oregonstate.edu/plants/castanea-sativa",
+      "https://selectree.calpoly.edu/tree-detail/273",
+      "https://temperate.theferns.info/viewtropical.php?id=Castanea+sativa",
+      "https://www.havlis.cz/karta.php?kytkaid=856",
+      "https://www.ebben.nl/nl/treeebb/casativa-castanea-sativa",
+      "https://www.nzpcn.org.nz/flora/species/castanea-sativa/",
+      "https://www.nzflora.info/factsheet/Taxon/Castanea-sativa.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/ac0972d8-0f2e-4a70-9945-a74b1e834ae8",
+      "https://www.rhs.org.uk/plants/3191/castanea-sativa/details",
+      "https://www.gardenia.net/plant/castanea-sativa",
+      "http://www.chestnut-traders.co.nz/nzchestnuts.htm",
+      "https://www.tandfonline.com/doi/pdf/10.1080/01140671.1995.9513906"
+    ]
   },
   {
     "family": "Bignoniaceae",
@@ -19545,8 +19640,8 @@
     "commonName": "Indian Bean Tree",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "bignonia or trumpetvine family, a family of flowering plants.",
-      "genus": "<i>catalpa</i>, derived from the Muscogee name for <i>Catalpa speciosa</i>, <i>kutuhlpa</i>, which means 'winged head', in reference to the appearance of the flowers of species in this genus. Commonly known as catalpa or catawba, a genus of flowering plants that are native to warm temperate and subtropical regions of North America, the Caribbean, and East Asia.",
+      "family": "bignonia or trumpetvine family, a family of flowering plants. <a href='https://en.wikipedia.org/wiki/Bignoniaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Bignoniaceae</i></a>.",
+      "genus": "<i>catalpa</i>, derived from the Muscogee name for <i>Catalpa speciosa</i>, <i>kutuhlpa</i>, which means 'winged head', in reference to the appearance of the flowers of species in this genus. Commonly known as catalpa or catawba, a genus of flowering plants that are native to warm temperate and subtropical regions of North America, the Caribbean, and East Asia. <a href='https://en.wikipedia.org/wiki/Catalpa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Catalpa</i></a>.",
       "species": "<i>bignonioides</i>, derived from the genus name <i>Bignonia</i> and the Latin suffix <i>oides</i> (like, similar to), in reference to this species' similarity to a species in the genus <i>Bignonia</i>.",
       "hybrid": "",
       "subspecies": "",
@@ -19601,7 +19696,15 @@
         "alt": "catalpa bignonioides indian bean tree flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Catalpa_bignonioides",
+      "https://species.wikimedia.org/wiki/Catalpa_bignonioides",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=34313#null",
+      "https://treesandshrubsonline.org/articles/catalpa/catalpa-bignonioides/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277905",
+      "https://www.vdberk.co.uk/trees/catalpa-bignonioides/",
+      "https://plants.ces.ncsu.edu/plants/catalpa-bignonioides/"
+    ]
   },
   {
     "family": "Meliaceae",
@@ -32321,7 +32424,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32404,7 +32507,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32475,7 +32578,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32550,7 +32653,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32643,7 +32746,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32718,7 +32821,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32797,7 +32900,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32880,7 +32983,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -32959,7 +33062,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -33034,7 +33137,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -33113,7 +33216,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -33180,7 +33283,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
@@ -33251,7 +33354,7 @@
     "commonName": "European Beech",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen.",
+      "family": "a family of flowering trees and shrubs. In temperate regions, species of this family are mostly deciduous, whereas in the tropical regions, many species occur as evergreen. <a href='https://en.wikipedia.org/wiki/Fagaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fagaceae</i></a>.",
       "genus": "<i>fāgus</i> (Latin, noun), meaning 'beech tree', the classical Latin name for <i>Fagus sylvatica</i>. Commonly known as beech, a genus of deciduous trees native to temperate Europe, Asia, and North America.",
       "species": "<i>sylvātica</i> (Latin, adjective), meaning 'of or relating to the woods', in reference to this species predominantly growing in forests and woodland areas.",
       "hybrid": "",
