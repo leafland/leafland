@@ -19703,7 +19703,17 @@
       "https://treesandshrubsonline.org/articles/catalpa/catalpa-bignonioides/",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277905",
       "https://www.vdberk.co.uk/trees/catalpa-bignonioides/",
-      "https://plants.ces.ncsu.edu/plants/catalpa-bignonioides/"
+      "https://plants.ces.ncsu.edu/plants/catalpa-bignonioides/",
+      "https://landscapeplants.oregonstate.edu/plants/catalpa-bignonioides",
+      "https://selectree.calpoly.edu/tree-detail/278",
+      "https://temperate.theferns.info/viewtropical.php?id=Catalpa+bignonioides",
+      "https://www.havlis.cz/karta.php?kytkaid=761",
+      "https://www.ebben.nl/nl/treeebb/cabignon-catalpa-bignonioides",
+      "https://www.nzpcn.org.nz/flora/species/catalpa-bignonioides/",
+      "https://www.nzflora.info/factsheet/Taxon/Catalpa-bignonioides.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/66a44da2-52f9-4105-9b03-150321a5b67b",
+      "https://www.rhs.org.uk/plants/3201/catalpa-bignonioides/details",
+      "https://www.gardenia.net/plant/catalpa-bignonioides"
     ]
   },
   {
@@ -19727,10 +19737,10 @@
       }
     ],
     "commonName": "Chinese Toon",
-    "otherCommonNames": "",
+    "otherCommonNames": "Chinese Mahogany, Chinese Cedar",
     "nameBreakdown": {
-      "family": "mahogany family, a family of flowering trees, shrubs, and herbs.",
-      "genus": "<i>cedrela</i>, derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar-wood'), in reference to the wood of species in this genus having a fragrance similar to that of species in the genus <i>Cedrus</i>. A genus of flowering plants that are native to tropical and subtropical regions from southern Mexico to northern Argentina.",
+      "family": "mahogany family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Meliaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Meliaceae</i></a>.",
+      "genus": "<i>cedrela</i>, derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar-wood'), in reference to the wood of species in this genus having a fragrance similar to that of species in the genus <i>Cedrus</i>. A genus of flowering plants that are native to tropical and subtropical regions from southern Mexico to northern Argentina. <a href='https://en.wikipedia.org/wiki/Cedrela' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cedrela</i></a>.",
       "species": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -19781,7 +19791,27 @@
         "alt": "cedrela sinensis flamingo chinese toon foliage"
       }
     ],
-    "links": ["https://issuu.com/marcoacuna/docs/the_names_of_plants_114"]
+    "links": [
+      "https://issuu.com/marcoacuna/docs/the_names_of_plants_114",
+      "https://en.wikipedia.org/wiki/Toona_sinensis",
+      "https://species.wikimedia.org/wiki/Toona_sinensis",
+      "https://treesandshrubsonline.org/articles/cedrela/cedrela-sinensis/",
+      "https://www.vdberk.co.uk/trees/toona-sinensis/",
+      "https://plants.ces.ncsu.edu/plants/toona-sinensis/",
+      "https://landscapeplants.oregonstate.edu/plants/toona-sinensis",
+      "https://selectree.calpoly.edu/tree-detail/286",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/4425e126-8013-472f-9f2c-886eb8438b10",
+      "https://www.ebben.nl/nl/treeebb/tosinens-toona-sinensis",
+      "https://www.nzpcn.org.nz/flora/species/toona-sinensis/",
+      "https://www.nzflora.info/factsheet/Taxon/Toona-sinensis.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/582b572a-6cd2-4c64-8dfc-1006a4bbf341",
+      "https://www.rhs.org.uk/plants/20376/toona-sinensis/details",
+      "https://www.vdberk.co.uk/trees/toona-sinensis-flamingo/",
+      "https://www.havlis.cz/karta.php?kytkaid=1061",
+      "https://www.ebben.nl/nl/treeebb/tosflami-toona-sinensis-flamingo",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/d2a345f9-a7fa-464f-b789-fe8ea3ff52cf",
+      "https://www.rhs.org.uk/plants/98005/toona-sinensis-flamingo-(v)/details"
+    ]
   },
   {
     "family": "Pinaceae",
@@ -19816,7 +19846,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Pinaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Pinaceae</i></a>.",
-      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region. <a href='https://en.wikipedia.org/wiki/Cedrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cedrus</i></a>.",
       "species": "<i>ātlantica</i> (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -19895,7 +19925,21 @@
         "alt": "cedrus atlantica atlas cedar park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cedrus_atlantica",
+      "https://species.wikimedia.org/wiki/Cedrus_libani_subsp._atlantica",
+      "https://treesandshrubsonline.org/articles/cedrus/cedrus-atlantica/",
+      "https://www.conifers.org/pi/Cedrus_atlantica.php",
+      "https://www.vdberk.co.uk/trees/cedrus-libani-subsp-atlantica/",
+      "https://plants.ces.ncsu.edu/plants/cedrus-atlantica/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-atlantica",
+      "https://selectree.calpoly.edu/tree-detail/287",
+      "https://temperate.theferns.info/viewtropical.php?id=Cedrus+atlantica",
+      "https://www.ebben.nl/nl/treeebb/celatlan-cedrus-atlantica",
+      "https://www.nzflora.info/factsheet/Taxon/Cedrus-atlantica.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/5dbc3353-ec9e-468f-a903-b0d40bce229a",
+      "https://www.rhs.org.uk/plants/3288/cedrus-atlantica/details"
+    ]
   },
   {
     "family": "Pinaceae",
@@ -19930,7 +19974,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Pinaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Pinaceae</i></a>.",
-      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region. <a href='https://en.wikipedia.org/wiki/Cedrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cedrus</i></a>.",
       "species": "<i>ātlantica</i> (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -20001,7 +20045,30 @@
         "alt": "cedrus atlantica glauca atlas cedar young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cedrus_atlantica",
+      "https://species.wikimedia.org/wiki/Cedrus_libani_subsp._atlantica",
+      "https://treesandshrubsonline.org/articles/cedrus/cedrus-atlantica/",
+      "https://www.conifers.org/pi/Cedrus_atlantica.php",
+      "https://www.vdberk.co.uk/trees/cedrus-libani-subsp-atlantica/",
+      "https://plants.ces.ncsu.edu/plants/cedrus-atlantica/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-atlantica",
+      "https://selectree.calpoly.edu/tree-detail/287",
+      "https://temperate.theferns.info/viewtropical.php?id=Cedrus+atlantica",
+      "https://www.ebben.nl/nl/treeebb/celatlan-cedrus-atlantica",
+      "https://www.nzflora.info/factsheet/Taxon/Cedrus-atlantica.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/5dbc3353-ec9e-468f-a903-b0d40bce229a",
+      "https://www.rhs.org.uk/plants/3288/cedrus-atlantica/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=263250",
+      "https://plants.ces.ncsu.edu/plants/cedrus-atlantica-glauca/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-atlantica-glauca",
+      "https://selectree.calpoly.edu/tree-detail/289",
+      "https://www.havlis.cz/karta.php?kytkaid=351",
+      "https://www.nzpcn.org.nz/flora/species/cedrus-atlantica-glauca/",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/8979f731-2c63-4db8-9fd8-3ad120b4c92e",
+      "https://www.rhs.org.uk/plants/133005/cedrus-atlantica-(glauca-group)-glauca/details",
+      "https://www.gardenia.net/plant/cedrus-atlantica-glauca"
+    ]
   },
   {
     "family": "Pinaceae",
@@ -20036,7 +20103,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Pinaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Pinaceae</i></a>.",
-      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region. <a href='https://en.wikipedia.org/wiki/Cedrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cedrus</i></a>.",
       "species": "<i>ātlantica</i> (Latin, adjective), meaning 'of or relating to the Atlas Mountains', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -20107,7 +20174,28 @@
         "alt": "cedrus atlantica glauca pendula atlas cedar park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cedrus_atlantica",
+      "https://species.wikimedia.org/wiki/Cedrus_libani_subsp._atlantica",
+      "https://treesandshrubsonline.org/articles/cedrus/cedrus-atlantica/",
+      "https://www.conifers.org/pi/Cedrus_atlantica.php",
+      "https://www.vdberk.co.uk/trees/cedrus-libani-subsp-atlantica/",
+      "https://plants.ces.ncsu.edu/plants/cedrus-atlantica/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-atlantica",
+      "https://selectree.calpoly.edu/tree-detail/287",
+      "https://temperate.theferns.info/viewtropical.php?id=Cedrus+atlantica",
+      "https://www.ebben.nl/nl/treeebb/celatlan-cedrus-atlantica",
+      "https://www.nzflora.info/factsheet/Taxon/Cedrus-atlantica.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/5dbc3353-ec9e-468f-a903-b0d40bce229a",
+      "https://www.rhs.org.uk/plants/3288/cedrus-atlantica/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=268781",
+      "https://plants.ces.ncsu.edu/plants/cedrus-atlantica-glauca-pendula/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-atlantica-glauca-pendula",
+      "https://selectree.calpoly.edu/tree-detail/290",
+      "https://www.havlis.cz/karta.php?kytkaid=564",
+      "https://www.rhs.org.uk/plants/133008/cedrus-atlantica-(glauca-group)-glauca-pendula/details",
+      "https://www.gardenia.net/plant/cedrus-atlantica-glauca-pendula"
+    ]
   },
   {
     "family": "Pinaceae",
@@ -20142,7 +20230,7 @@
     "otherCommonNames": "Deodar Cedar",
     "nameBreakdown": {
       "family": "pine family, a family of coniferous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Pinaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Pinaceae</i></a>.",
-      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region.",
+      "genus": "<i>cedrus</i> (Latin, noun), meaning 'a juniper tree [specifically <i>Juniperus oxycedrus</i>]', derived from the Greek noun κέδρος (<i>kédros</i>, 'cedar, cedar-oil, anything made of cedar wood'). Commonly known as cedar, a genus of coniferous trees native to the mountains of the western Himalayas and the Mediterranean region. <a href='https://en.wikipedia.org/wiki/Cedrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cedrus</i></a>.",
       "species": "<i>deodara</i>, derived from the Hindi <i>devdāru</i>, which itself is derived from the Sanskrit <i>deva-dāru</i>, meaning 'divine tree, wood of the gods'. As the name suggests, this species is considered sacred and worshipped by Hindus.",
       "hybrid": "",
       "subspecies": "",
@@ -20217,7 +20305,24 @@
         "alt": "cedrus deodara himalayan cedar street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cedrus_deodara",
+      "https://species.wikimedia.org/wiki/Cedrus_deodara",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=183408#null",
+      "https://treesandshrubsonline.org/articles/cedrus/cedrus-deodara/",
+      "https://www.conifers.org/pi/Cedrus_deodara.php",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b442",
+      "https://www.vdberk.co.uk/trees/cedrus-deodara/",
+      "https://plants.ces.ncsu.edu/plants/cedrus-deodara/",
+      "https://landscapeplants.oregonstate.edu/plants/cedrus-deodara",
+      "https://selectree.calpoly.edu/tree-detail/292",
+      "https://temperate.theferns.info/viewtropical.php?id=Cedrus+deodara",
+      "https://www.havlis.cz/karta.php?kytkaid=857",
+      "https://www.ebben.nl/nl/treeebb/cedeodar-cedrus-deodara",
+      "https://www.nzflora.info/factsheet/Taxon/Cedrus-deodara.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1213d48a-cef4-455d-af4f-f564ef234ed5",
+      "https://www.rhs.org.uk/plants/3295/cedrus-deodara/details"
+    ]
   },
   {
     "family": "Cannabaceae",
@@ -20232,8 +20337,8 @@
     "commonName": "European Nettle",
     "otherCommonNames": "Mediterranean Hackberry",
     "nameBreakdown": {
-      "family": "a family of flowering trees and herbaceous plants.",
-      "genus": "<i>celtis</i> (Latin, noun), referring to various species in this genus. Commonly known as hackberry or nettle tree, a genus of deciduous trees native to warm temperate regions of the Northern Hemisphere.",
+      "family": "a family of flowering trees and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Cannabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cannabaceae</i></a>.",
+      "genus": "<i>celtis</i> (Latin, noun), referring to various species in this genus. Commonly known as hackberry or nettle tree, a genus of deciduous trees native to warm temperate regions of the Northern Hemisphere. <a href='https://en.wikipedia.org/wiki/Celtis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Celtis</i></a>.",
       "species": "<i>austrālis</i> (Latin, adjective), meaning 'southern', in reference to this species' native geographical location. Does not necessarily mean from Australia. As this species is native to Southern Europe, the specific epithet is probably in reference to Europe.",
       "hybrid": "",
       "subspecies": "",
@@ -20292,7 +20397,21 @@
         "alt": "celtis australis european nettle park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Celtis_australis",
+      "https://species.wikimedia.org/wiki/Celtis_australis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=565053#null",
+      "https://treesandshrubsonline.org/articles/celtis/celtis-australis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287392",
+      "https://www.vdberk.co.uk/trees/celtis-australis/",
+      "https://selectree.calpoly.edu/tree-detail/295",
+      "https://temperate.theferns.info/viewtropical.php?id=Celtis+australis",
+      "https://www.ebben.nl/nl/treeebb/ceaustra-celtis-australis",
+      "https://www.nzpcn.org.nz/flora/species/celtis-australis/",
+      "https://www.nzflora.info/factsheet/Taxon/Celtis-australis.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/9d3da8bb-0841-40d8-a596-1aee618acb60",
+      "https://www.rhs.org.uk/plants/28947/celtis-australis/details"
+    ]
   },
   {
     "family": "Cercidiphyllaceae",
@@ -20307,8 +20426,8 @@
     "commonName": "Katsura",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of deciduous trees.",
-      "genus": "<i>cercidiphyllum</i>, derived from the genus name <i>Cercis</i> and the Greek noun φύλλον (<i>phúllon</i>, 'leaf'), in reference to the leaves of species in this genus resembling those of species in the genus <i>Cercis</i>. Commonly known as katsura, a genus of deciduous trees native to China and Japan.",
+      "family": "a family of deciduous trees. <a href='https://en.wikipedia.org/wiki/Cercidiphyllum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercidiphyllaceae</i></a>.",
+      "genus": "<i>cercidiphyllum</i>, derived from the genus name <i>Cercis</i> and the Greek noun φύλλον (<i>phúllon</i>, 'leaf'), in reference to the leaves of species in this genus resembling those of species in the genus <i>Cercis</i>. Commonly known as katsura, a genus of deciduous trees native to China and Japan. <a href='https://en.wikipedia.org/wiki/Cercidiphyllum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercidiphyllum</i></a>.",
       "species": "<i>jāpōnicum</i> (Latin, adjective), meaning 'Japanese, of or relating to Japan', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -20387,7 +20506,23 @@
         "alt": "cercidiphyllum japonicum katsura tree summer"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum",
+      "https://species.wikimedia.org/wiki/Cercidiphyllum_japonicum",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=501368#null",
+      "https://treesandshrubsonline.org/articles/cercidiphyllum/cercidiphyllum-japonicum/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=j710",
+      "https://www.vdberk.co.uk/trees/cercidiphyllum-japonicum/",
+      "https://plants.ces.ncsu.edu/plants/cercidiphyllum-japonicum/",
+      "https://landscapeplants.oregonstate.edu/plants/cercidiphyllum-japonicum",
+      "https://selectree.calpoly.edu/tree-detail/307",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercidiphyllum+japonicum",
+      "https://www.havlis.cz/karta.php?kytkaid=2207",
+      "https://www.ebben.nl/nl/treeebb/cejaponi-cercidiphyllum-japonicum",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/b25c83ab-5942-4c0a-b041-cc3f1fb069e3",
+      "https://www.rhs.org.uk/plants/3415/cercidiphyllum-japonicum/details",
+      "https://www.gardenia.net/plant/cercidiphyllum-japonicum-katsura-tree"
+    ]
   },
   {
     "family": "Cercidiphyllaceae",
@@ -20398,12 +20533,22 @@
     "variety": "",
     "form": "",
     "cultivar": "Pendulum",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cercidiphyllum",
+        "species": "japonicum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "Pendulum",
+        "cultivar": ""
+      }
+    ],
     "commonName": "Katsura",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of deciduous trees.",
-      "genus": "<i>cercidiphyllum</i>, derived from the genus name <i>Cercis</i> and the Greek noun φύλλον (<i>phúllon</i>, 'leaf'), in reference to the leaves of species in this genus resembling those of species in the genus <i>Cercis</i>. Commonly known as katsura, a genus of deciduous trees native to China and Japan.",
+      "family": "a family of deciduous trees. <a href='https://en.wikipedia.org/wiki/Cercidiphyllum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercidiphyllaceae</i></a>.",
+      "genus": "<i>cercidiphyllum</i>, derived from the genus name <i>Cercis</i> and the Greek noun φύλλον (<i>phúllon</i>, 'leaf'), in reference to the leaves of species in this genus resembling those of species in the genus <i>Cercis</i>. Commonly known as katsura, a genus of deciduous trees native to China and Japan. <a href='https://en.wikipedia.org/wiki/Cercidiphyllum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercidiphyllum</i></a>.",
       "species": "<i>jāpōnicum</i> (Latin, adjective), meaning 'Japanese, of or relating to Japan', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -20490,7 +20635,30 @@
         "alt": "cercidiphyllum japonicum pendulum katsura tree single tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum",
+      "https://species.wikimedia.org/wiki/Cercidiphyllum_japonicum",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=501368#null",
+      "https://treesandshrubsonline.org/articles/cercidiphyllum/cercidiphyllum-japonicum/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=j710",
+      "https://www.vdberk.co.uk/trees/cercidiphyllum-japonicum/",
+      "https://plants.ces.ncsu.edu/plants/cercidiphyllum-japonicum/",
+      "https://landscapeplants.oregonstate.edu/plants/cercidiphyllum-japonicum",
+      "https://selectree.calpoly.edu/tree-detail/307",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercidiphyllum+japonicum",
+      "https://www.havlis.cz/karta.php?kytkaid=2207",
+      "https://www.ebben.nl/nl/treeebb/cejaponi-cercidiphyllum-japonicum",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/b25c83ab-5942-4c0a-b041-cc3f1fb069e3",
+      "https://www.rhs.org.uk/plants/3415/cercidiphyllum-japonicum/details",
+      "https://www.gardenia.net/plant/cercidiphyllum-japonicum-katsura-tree",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=274589",
+      "https://www.vdberk.co.uk/trees/cercidiphyllum-japonicum-pendulum/",
+      "https://plants.ces.ncsu.edu/plants/cercidiphyllum-japonicum-pendulum/",
+      "https://landscapeplants.oregonstate.edu/plants/cercidiphyllum-japonicum-f-pendulum",
+      "https://selectree.calpoly.edu/tree-detail/308",
+      "https://www.ebben.nl/nl/treeebb/cejpendu-cercidiphyllum-japonicum-pendulum",
+      "https://www.rhs.org.uk/plants/94012/cercidiphyllum-japonicum-f-pendulum/details"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -31441,7 +31609,7 @@
     "commonName": "Kohekohe",
     "otherCommonNames": "New Zealand Mahogany",
     "nameBreakdown": {
-      "family": "mahogany family, a family of flowering trees, shrubs, and herbs.",
+      "family": "mahogany family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Meliaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Meliaceae</i></a>.",
       "genus": "<i>dysoxylum</i>, derived from the Greek prefix δυσ (<i>dus</i>, 'bad') and noun ξύλον (<i>xúlon</i>, 'wood'), meaning 'bad-smelling wood', in reference to the fetid odour of the wood of some species in this genus. A genus of flowering trees and shrubs native to New Guinea, eastern and northern Australia, New Caledonia, Fiji, Southeast Asia, southern China, the Indian subcontinent, the Philippines, Taiwan, the Caroline Islands, New Zealand, and Niue.",
       "species": "<i>spectābile</i> (Latin, adjective), meaning 'notable, admirable, remarkable', possibly in reference to the sweet-smelling flowers that sprout directly from the trunk and branches of this species.",
       "hybrid": "",
