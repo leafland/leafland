@@ -483,20 +483,22 @@ footer p {
   font-size: var(--font-size-3);
 }
 
-#email-signup {
+#subscribe-form {
   width: 100%;
-  display: grid;
-  grid-gap: 3rem 5rem;
+  display: flex;
+  gap: 3rem;
   background: var(--secondary-background);
   padding: 2rem;
   border-radius: 8px;
+  flex-wrap: wrap;
 }
 
 #email-signup .paragraph-title {
   font-weight: 700;
 }
 
-#email-signup input {
+#email-signup input[type="text"],
+#email-signup input[type="email"] {
   width: 150px;
 }
 
@@ -505,7 +507,7 @@ footer p {
   justify-self: center;
 }
 
-#subscribe-form {
+#signup-form-inner {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
@@ -520,7 +522,7 @@ footer p {
   border: 2px solid var(--primary-text);
 }
 
-#subscribe-form button[type="submit"] {
+#subscribe-form input[type="submit"] {
   border: 2px solid var(--primary-text);
   border-radius: 8px;
   align-self: end;
@@ -591,7 +593,7 @@ body.main-menu-open {
     color: var(--secondary-background);
   }
 
-  #subscribe-form button[type="submit"]:hover {
+  #subscribe-form input[type="submit"]:hover {
     color: var(--secondary-background);
     background: var(--primary-text);
   }
@@ -607,7 +609,8 @@ body.main-menu-open {
     padding: 2rem;
   }
 
-  #email-signup input {
+  #email-signup input[type="text"],
+  #email-signup input[type="email"] {
     width: 100%;
   }
 
