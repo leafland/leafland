@@ -20669,12 +20669,22 @@
     "variety": "",
     "form": "",
     "cultivar": "Forest Pansy",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cercis",
+        "species": "canadensis",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Purple Leaf"
+      }
+    ],
     "commonName": "Eastern Redbud",
-    "otherCommonNames": "",
+    "otherCommonNames": "American Redbud, American Judas Tree, Judas Tree",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -20806,7 +20816,29 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=245558",
+      "https://www.vdberk.co.uk/trees/cercis-canadensis-forest-pansy/",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis-forest-pansy/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis-forest-pansy",
+      "https://selectree.calpoly.edu/tree-detail/315",
+      "https://www.havlis.cz/karta.php?kytkaid=92",
+      "https://www.ebben.nl/nl/treeebb/cecfpans-cercis-canadensis-forest-pansy",
+      "https://www.rhs.org.uk/plants/95578/cercis-canadensis-forest-pansy/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-forest-pansy-eastern-redbud"
     ]
   },
   {
@@ -20820,10 +20852,10 @@
     "cultivar": "Hearts Of Gold",
     "synonyms": [],
     "commonName": "Eastern Redbud",
-    "otherCommonNames": "",
+    "otherCommonNames": "American Redbud, American Judas Tree, Judas Tree",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -20891,7 +20923,25 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=268386",
+      "https://www.vdberk.co.uk/trees/cercis-canadensis-hearts-of-gold/",
+      "https://www.rhs.org.uk/plants/245162/cercis-canadensis-hearts-of-gold-pbr/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-hearts-of-gold-eastern-redbud",
+      "https://www.havlis.cz/karta.php?kytkaid=1066"
     ]
   },
   {
@@ -20905,10 +20955,10 @@
     "cultivar": "Merlot",
     "synonyms": [],
     "commonName": "Eastern Redbud",
-    "otherCommonNames": "",
+    "otherCommonNames": "American Redbud, American Judas Tree, Judas Tree",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -20976,7 +21026,24 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://www.vdberk.co.uk/trees/cercis-canadensis-merlot/",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis-merlot/",
+      "https://www.rhs.org.uk/plants/301698/cercis-canadensis-merlot/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-merlot-eastern-redbud"
     ]
   },
   {
@@ -20990,10 +21057,10 @@
     "cultivar": "Ruby Falls",
     "synonyms": [],
     "commonName": "Eastern Redbud",
-    "otherCommonNames": "",
+    "otherCommonNames": "American Redbud, American Judas Tree, Judas Tree",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -21053,7 +21120,25 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis-ruby-falls/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis-ruby-falls",
+      "https://www.rhs.org.uk/plants/301699/cercis-canadensis-ruby-falls-pbr/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-ruby-falls-eastern-redbud",
+      "https://www.havlis.cz/karta.php?kytkaid=2198"
     ]
   },
   {
@@ -21067,10 +21152,10 @@
     "cultivar": "Silver Lining",
     "synonyms": [],
     "commonName": "Eastern Redbud",
-    "otherCommonNames": "",
+    "otherCommonNames": "American Redbud, American Judas Tree, Judas Tree",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -21134,7 +21219,21 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://www.rhs.org.uk/plants/318877/cercis-canadensis-silver-lining-(v)/details"
     ]
   },
   {
@@ -21151,7 +21250,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States.",
       "hybrid": "",
       "subspecies": "",
@@ -21219,7 +21318,28 @@
       }
     ],
     "links": [
-      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html"
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis-eastern-redbud",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis_var._texensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=527243#null",
+      "http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=295726",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis-var-texensis/",
+      "https://selectree.calpoly.edu/tree-detail/318",
+      "https://www.havlis.cz/karta.php?kytkaid=898",
+      "https://www.rhs.org.uk/plants/139105/cercis-canadensis-var-texensis/details",
+      "https://www.rhs.org.uk/plants/309065/cercis-canadensis-var-texensis-texas-white/details"
     ]
   },
   {
@@ -21236,7 +21356,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>chinēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -21303,7 +21423,27 @@
         "alt": "cercis chinensis avondale chinese redbud young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercis_chinensis",
+      "https://species.wikimedia.org/wiki/Cercis_chinensis",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-chinensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280441",
+      "https://www.vdberk.co.uk/trees/cercis-chinensis/",
+      "https://plants.ces.ncsu.edu/plants/cercis-chinensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-chinensis",
+      "https://selectree.calpoly.edu/tree-detail/319",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+chinensis",
+      "https://www.ebben.nl/nl/treeebb/cechinen-cercis-chinensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/6067087a-2e08-4b18-a289-b6803fabac19",
+      "https://www.rhs.org.uk/plants/28982/cercis-chinensis/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=245562",
+      "https://www.vdberk.co.uk/trees/cercis-chinensis-avondale/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-chinensis-avondale",
+      "https://selectree.calpoly.edu/tree-detail/1588",
+      "https://www.havlis.cz/karta.php?kytkaid=1548",
+      "https://www.rhs.org.uk/plants/62222/cercis-chinensis-avondale/details",
+      "https://www.gardenia.net/plant/cercis-chinensis-avondale-chinese-redbud"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -21319,7 +21459,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>chinēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this species' native geographical location.",
       "hybrid": "",
       "subspecies": "",
@@ -21370,7 +21510,20 @@
         "alt": "cercis chinensis spring snow chinese redbud flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercis_chinensis",
+      "https://species.wikimedia.org/wiki/Cercis_chinensis",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-chinensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280441",
+      "https://www.vdberk.co.uk/trees/cercis-chinensis/",
+      "https://plants.ces.ncsu.edu/plants/cercis-chinensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-chinensis",
+      "https://selectree.calpoly.edu/tree-detail/319",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+chinensis",
+      "https://www.ebben.nl/nl/treeebb/cechinen-cercis-chinensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/6067087a-2e08-4b18-a289-b6803fabac19",
+      "https://www.rhs.org.uk/plants/28982/cercis-chinensis/details"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -21386,7 +21539,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>siliquastrum</i>, derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
       "hybrid": "",
       "subspecies": "",
@@ -21457,7 +21610,25 @@
         "alt": "cercis siliquastrum judas tree young tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercis_siliquastrum",
+      "https://species.wikimedia.org/wiki/Cercis_siliquastrum",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=820422#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-siliquastrum/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280444",
+      "https://www.vdberk.co.uk/trees/cercis-siliquastrum/",
+      "https://plants.ces.ncsu.edu/plants/cercis-siliquastrum/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-siliquastrum",
+      "https://selectree.calpoly.edu/tree-detail/324",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+siliquastrum",
+      "https://www.havlis.cz/karta.php?kytkaid=4",
+      "https://www.ebben.nl/nl/treeebb/cersiliq-cercis-siliquastrum",
+      "https://www.nzpcn.org.nz/flora/species/cercis-siliquastrum/",
+      "https://www.nzflora.info/factsheet/Taxon/Cercis-siliquastrum.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/a2182e53-0a23-4583-b107-d95bc1f95600",
+      "https://www.rhs.org.uk/plants/24283/cercis-siliquastrum/details",
+      "https://www.gardenia.net/plant/cercis-siliquastrum-judas-tree"
+    ]
   },
   {
     "family": "Fabaceae",
@@ -21492,7 +21663,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
       "species": "<i>siliquastrum</i>, derived from the Latin noun <i>siliqua</i> (pod [of a bean or pea plant]) and suffix <i>astrum</i> (partial or incomplete resemblance), in reference to the seedpods of this species somewhat resembling a pea pod or bean pod.",
       "hybrid": "",
       "subspecies": "",
@@ -21538,7 +21709,28 @@
     "treeShape": "images/icons/tree-shapes/cercis/cercis-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cercis_siliquastrum",
+      "https://species.wikimedia.org/wiki/Cercis_siliquastrum",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=820422#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-siliquastrum/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280444",
+      "https://www.vdberk.co.uk/trees/cercis-siliquastrum/",
+      "https://plants.ces.ncsu.edu/plants/cercis-siliquastrum/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-siliquastrum",
+      "https://selectree.calpoly.edu/tree-detail/324",
+      "https://temperate.theferns.info/viewtropical.php?id=Cercis+siliquastrum",
+      "https://www.havlis.cz/karta.php?kytkaid=4",
+      "https://www.ebben.nl/nl/treeebb/cersiliq-cercis-siliquastrum",
+      "https://www.nzpcn.org.nz/flora/species/cercis-siliquastrum/",
+      "https://www.nzflora.info/factsheet/Taxon/Cercis-siliquastrum.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/a2182e53-0a23-4583-b107-d95bc1f95600",
+      "https://www.rhs.org.uk/plants/24283/cercis-siliquastrum/details",
+      "https://www.gardenia.net/plant/cercis-siliquastrum-judas-tree",
+      "https://www.vdberk.co.uk/trees/cercis-siliquastrum-alba/",
+      "https://www.ebben.nl/nl/treeebb/cesalba-cercis-siliquastrum-alba",
+      "https://www.rhs.org.uk/plants/58391/cercis-siliquastrum-f-albida/details"
+    ]
   },
   {
     "family": "Cupressaceae",
