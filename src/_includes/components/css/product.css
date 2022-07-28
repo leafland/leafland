@@ -671,6 +671,7 @@ body.loggedIn #retail-price {
 #more-information-links {
   display: grid;
   gap: 0.25rem;
+  height: max-content;
 }
 
 #more-information-links a {

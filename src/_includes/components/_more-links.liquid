@@ -4,18 +4,107 @@
 
     <div id="more-links-inner">
 
+        <h3>Links to Learn More</h3>
+
         {% if tree.links.size > 0 %}
 
             <div id="more-information-links">
         
             {% for link in tree.links %}
 
+                {% if link contains "rhs.org.uk" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Royal Horticultural Society</a><p>
+
+                {% elsif link contains "treesandshrubsonline.org" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Trees and Shrubs Online</a><p>
+
+                {% elsif link contains "wikipedia.org" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Wikipedia</a><p>
+
+                {% elsif link contains "species.wikimedia.org" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Wikispecies</a><p>
+
+                {% elsif link contains "itis.gov" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Integrated Taxonomic Information System</a><p>
+
+                {% elsif link contains "selectree.calpoly.edu" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">California Polytechnic State University</a><p>
+
+                {% elsif link contains "nzpcn.org.nz" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">New Zealand Plant Conservation Network</a><p>
+
+                {% elsif link contains "rauropiwhakaoranga.landcareresearch.co.nz" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Ngā Rauropi Whakaoranga - Landcare Research</a><p>
+
+                {% elsif link contains "biotanz.landcareresearch.co.nz" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Biota of New Zealand - Landcare Research</a><p>
+
+                {% elsif link contains "nzflora.info" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">nzflora - Landcare Research</a><p>
+
+                {% elsif link contains "conifers.org" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">The Gymnosperm Database</a><p>
+
+                {% elsif link contains "missouribotanicalgarden.org" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Missouri Botanical Garden</a><p>
+
+                {% elsif link contains "plants.ces.ncsu.edu" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">North Carolina Extension Gardener Plant Toolbox</a><p>
+
+                {% elsif link contains "landscapeplants.oregonstate.edu" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Landscape Plants - Oregon State University</a><p>
+
+                {% elsif link contains "vdberk.co.uk" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Van den Berk Nurseries</a><p>
+
+                {% elsif link contains "havlis.cz" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Milan Havlis - Specialist Garden Centre</a><p>
+
+                {% elsif link contains "temperate.theferns.info" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Useful Temperate Plants</a><p>
+
+                {% elsif link contains "tropical.theferns.info" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Useful Tropical Plants</a><p>
+
+                {% elsif link contains "ebben.nl" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Ebben Nurseries</a><p>
+
+                {% elsif link contains "gardenia.net" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">Gardenia</a><p>
+
+                {% elsif link contains "camellia.iflora.cn" %}
+
+                <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">International Camellia Register</a><p>
+
+                {% else %}
+
                 <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ link }}</a><p>
+
+                {% endif %}
 
             {% endfor %}
 
             </div>
-
             
         {% endif %}
     
