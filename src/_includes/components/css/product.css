@@ -843,13 +843,13 @@ details b {
   grid-template-columns: 1fr;
 }
 
-#tree-information {
+/* #tree-information {
   border-radius: 8px;
   padding: 2rem;
   display: grid;
   gap: 2rem;
   background: var(--secondary-background);
-}
+} */
 
 #tree-information-inner {
   display: grid;
@@ -967,7 +967,8 @@ details b {
   max-width: max-content;
 }
 
-#more-links-overlay {
+#more-links-overlay,
+#features-overlay {
   opacity: 0;
   visibility: hidden;
   z-index: -1;
@@ -987,7 +988,8 @@ details b {
   overflow-y: auto;
 }
 
-#more-links-inner {
+#more-links-inner,
+#features-inner {
   height: 100%;
   display: grid;
   /* grid-template-rows: 1fr auto auto; */
@@ -999,14 +1001,16 @@ details b {
   grid-template-rows: auto 1fr;
 }
 
-#close-more-links {
+#close-more-links,
+#close-features {
   cursor: pointer;
   border-color: var(--primary-text);
   align-self: center;
   justify-self: end;
 }
 
-#open-more-links {
+#open-more-links,
+#open-features {
   border-color: var(--primary-text);
   max-width: max-content;
 }
@@ -1015,7 +1019,10 @@ details b {
   input#add-product:hover,
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
-  button#open-more-links:hover {
+  button#open-more-links:hover,
+  button#open-features:hover,
+  #close-more-links:hover,
+  #close-features:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
@@ -1053,11 +1060,6 @@ details b {
   } */
   .selection-box:hover {
     cursor: pointer;
-    background: var(--primary-text);
-    color: var(--secondary-background);
-  }
-
-  #close-more-links:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

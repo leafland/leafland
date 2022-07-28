@@ -551,7 +551,8 @@ body.order-open #order-overlay,
 body.order-sent-open #order-sent-overlay,
 body.submit-order-open #submit-order-overlay,
 body.main-menu-open #main-menu-overlay,
-body.more-links-open #more-links-overlay {
+body.more-links-open #more-links-overlay,
+body.features-open #features-overlay {
   opacity: 1;
   z-index: 8;
   visibility: visible;
@@ -563,7 +564,8 @@ body.order-open,
 body.order-sent-open,
 body.submit-order-open,
 body.main-menu-open,
-body.more-links-open {
+body.more-links-open,
+body.features-open {
   position: fixed;
   overflow-y: scroll;
   top: 0;
