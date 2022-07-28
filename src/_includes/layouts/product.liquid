@@ -92,18 +92,18 @@ type: product
         {% endif %}
     </div>
 
-    <div id="heading-buttons">
+    {% comment %} <div id="heading-buttons">
 
         <a href="#order" class="button">Order Tree</a>
-        {% comment %} <a href="#taxonomy" class="button">Taxonomy</a>
+    <a href="#taxonomy" class="button">Taxonomy</a>
 
         {% if tree.relatedTrees.size > 0 %}
 
         <a href="#related-trees" class="button">Related Trees</a>
 
-        {% endif %} {% endcomment %}
+        {% endif %} 
 
-    </div>
+    </div> {% endcomment %}
 
     <div id="grid-content">
 
@@ -1179,7 +1179,7 @@ type: product
 
                 {% comment %} <h3 id="grade-sizes-heading">Add to order</h3> {% endcomment %}
 
-                <h3 id="order">Order Tree</h3>
+                {% comment %} <h3 id="order">Order Tree</h3> {% endcomment %}
 
                 <button id="open-stock-table">View pricing and stock numbers</button>
 
