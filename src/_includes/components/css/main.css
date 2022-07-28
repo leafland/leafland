@@ -563,9 +563,7 @@ body.login-open,
 body.order-open,
 body.order-sent-open,
 body.submit-order-open,
-body.main-menu-open,
-body.more-links-open,
-body.features-open {
+body.main-menu-open {
   position: fixed;
   overflow-y: scroll;
   top: 0;
