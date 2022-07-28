@@ -948,3 +948,10 @@ function addEventListeners() {
     document.body.classList.remove("stock-table-open");
   });
 }
+
+document.querySelector("#open-more-links").addEventListener("click", () => {
+  document.body.classList.add("more-links-open");
+});
+document.querySelector("#close-more-links").addEventListener("click", () => {
+  document.body.classList.remove("more-links-open");
+});

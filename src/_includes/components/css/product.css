@@ -655,7 +655,7 @@ body.loggedIn #retail-price {
   gap: 2rem;
 }
 
-#more-information-section {
+/* #more-information-section {
   border-radius: 8px;
   padding: 2rem;
   background: var(--secondary-background);
@@ -664,7 +664,7 @@ body.loggedIn #retail-price {
   margin-top: 2rem;
 }
 
-/* #more-information-heading {
+#more-information-heading {
   text-transform: uppercase;
 } */
 
@@ -966,10 +966,55 @@ details b {
   max-width: max-content;
 }
 
+#more-links-overlay {
+  opacity: 0;
+  visibility: hidden;
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  background: var(--primary-background);
+  /* transition: all 0.5s var(--default-animation-easing); */
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-gap: 3rem;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+#more-links-inner {
+  height: 100%;
+  display: grid;
+  /* grid-template-rows: 1fr auto auto; */
+  grid-gap: 3rem;
+  margin: auto;
+  /* text-transform: uppercase; */
+  width: 100%;
+  max-width: 80rem;
+  grid-template-rows: auto 1fr;
+}
+
+#close-more-links {
+  cursor: pointer;
+  border-color: var(--primary-text);
+  align-self: center;
+  justify-self: end;
+}
+
+#open-more-links {
+  border-color: var(--primary-text);
+  max-width: max-content;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input#add-product:hover,
   button#image-lightbox-close:hover,
-  button#show-tree-information-table:hover {
+  button#show-tree-information-table:hover,
+  button#open-more-links:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
@@ -1007,6 +1052,11 @@ details b {
   } */
   .selection-box:hover {
     cursor: pointer;
+    background: var(--primary-text);
+    color: var(--secondary-background);
+  }
+
+  #close-more-links:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }

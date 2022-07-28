@@ -98,12 +98,6 @@ type: product
         <a href="#taxonomy" class="button">Taxonomy</a>
         <a href="#features" class="button">Features</a>
 
-        {% if tree.links.size > 0 %}
-
-        <a href="#references" class="button">References</a>
-
-        {% endif %}
-
         {% if tree.relatedTrees.size > 0 %}
 
         <a href="#related-trees" class="button">Related Trees</a>
@@ -1274,6 +1268,9 @@ type: product
 
                     {% endif %}
             </div>
+
+            <button id="open-more-links">Links to Learn More</button>
+
         </div>
 
         <div id="tree-information">
@@ -2111,26 +2108,6 @@ type: product
 
         </div>
     </div>
-
-    {% if tree.links.size > 0 %}
-
-    <div id="more-information-section">
-
-        <h3 id="references">References</h3>
-
-        <div id="more-information-links">
-    
-        {% for link in tree.links %}
-
-            <p><a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ link }}</a><p>
-
-        {% endfor %}
-
-        </div>
-    
-    </div>
-        
-    {% endif %}
 
 
     {% if tree.relatedTrees.size > 0 %}
