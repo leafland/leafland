@@ -22039,8 +22039,8 @@
     "otherCommonNames": "Camphor Laurel",
     "nameBreakdown": {
       "family": "laurel family, a family of flowering trees and shrubs, occuring mainly in warm temperate and tropical regions, especially Southeast Asia and South America. Many are aromatic and evergreen, but some are deciduous. <a href='https://en.wikipedia.org/wiki/Lauraceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Lauraceae</i></a>.",
-      "genus": "<i>cinnamōmum</i> (Latin, noun), meaning 'cinnamon', in reference to the fragrant leaves and bark of species in this genus which is due to the leaves and bark containing aromatic oils. A genus of aromatic trees and shrubs native to tropical and subtropical regions throughout the world.",
-      "species": "<i>camphora</i> (Latin, adjective), meaning 'bearing camphor', in reference to the leaves of this species releasing a fragrance of camphor when crushed.",
+      "genus": "<i>cinnamōmum</i> (Latin, noun), meaning 'cinnamon', in reference to the fragrant leaves and bark of species in this genus which is due to the leaves and bark containing aromatic oils. A genus of aromatic trees and shrubs native to tropical and subtropical regions throughout the world. <a href='https://en.wikipedia.org/wiki/Cinnamomum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cinnamomum</i></a>.",
+      "species": "<i>camphora</i> (Latin, adjective), meaning 'bearing camphor', in reference to the leaves of this species releasing a fragrance of camphor when crushed. <a href='https://en.wikipedia.org/wiki/Cinnamomum_camphora' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cinnamomum camphora</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -22094,7 +22094,20 @@
         "alt": "cinnamomum camphora camphor tree street"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cinnamomum_camphora",
+      "https://species.wikimedia.org/wiki/Cinnamomum_camphora",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=18175#null",
+      "https://treesandshrubsonline.org/articles/cinnamomum/cinnamomum-camphora/",
+      "https://plants.ces.ncsu.edu/plants/cinnamomum-camphora/",
+      "https://landscapeplants.oregonstate.edu/plants/cinnamomum-camphora",
+      "https://selectree.calpoly.edu/tree-detail/357",
+      "https://temperate.theferns.info/viewtropical.php?id=Cinnamomum+camphora",
+      "https://www.nzpcn.org.nz/flora/species/cinnamomum-camphora/",
+      "https://www.nzflora.info/factsheet/Taxon/Cinnamomum-camphora.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/cccf3790-9a11-4c4f-8d4e-9d7f355ecc79",
+      "https://www.rhs.org.uk/plants/3819/cinnamomum-camphora/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22120,9 +22133,9 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>aurantiifolia</i>, derived from the Latin adjective <i>aurantium</i> (orange) and noun <i>folia</i> (leaf), in reference to this hybrid species having leaves resembling those of the bitter orange <i>Citrus</i> x <i>aurantium</i>.",
+      "hybrid": "<i>aurantiifolia</i>, derived from the Latin adjective <i>aurantium</i> (orange) and noun <i>folia</i> (leaf), in reference to this hybrid species having leaves resembling those of the bitter orange <i>Citrus</i> x <i>aurantium</i>. <a href='https://en.wikipedia.org/wiki/Key_lime' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>aurantiifolia</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22175,7 +22188,18 @@
         "alt": "citrus x aurantiifolia sublime key lime fruit"
       }
     ],
-    "links": ["https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=683"]
+    "links": [
+      "https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=683",
+      "https://en.wikipedia.org/wiki/Key_lime",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97_aurantiifolia",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=825203#null",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-aurantiifolia/",
+      "https://selectree.calpoly.edu/tree-detail/360",
+      "https://tropical.theferns.info/viewtropical.php?id=Citrus+aurantiifolia",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/f6eb6c80-84fc-4704-9375-ac706732fe08",
+      "https://www.rhs.org.uk/plants/112190/citrus-aurantiifolia-(f)/details",
+      "https://www.gardenia.net/plant/citrus-aurantiifolia"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22191,9 +22215,9 @@
     "otherCommonNames": "Tahiti Lime",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>lātifolia</i> (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves of this species.",
+      "hybrid": "<i>lātifolia</i> (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves of this species. <a href='https://en.wikipedia.org/wiki/Persian_lime' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>latifolia</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22237,7 +22261,18 @@
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Persian_lime",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97_latifolia",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-latifolia/",
+      "http://tropical.theferns.info/viewtropical.php?id=Citrus+latifolia",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/59b65f64-102b-4e0d-94d7-c6552f2b1624",
+      "https://www.rhs.org.uk/plants/143110/citrus-latifolia-(f-s)/details",
+      "https://www.rhs.org.uk/plants/43282/citrus-latifolia-bearss-(f)/details",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/citrus-aurantiifolia-bearss/",
+      "https://citrusvariety.ucr.edu/citrus/bearss.html",
+      "https://www.gardenia.net/plant/citrus-latifolia-bearss-lime"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22253,9 +22288,9 @@
     "otherCommonNames": "Tahiti Lime",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>lātifolia</i> (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves.",
+      "hybrid": "<i>lātifolia</i> (Latin, adjective), meaning 'broad-leaved', in reference to the width of the leaves of this species. <a href='https://en.wikipedia.org/wiki/Persian_lime' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>latifolia</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22304,7 +22339,15 @@
         "alt": "citrus x latifolia tahitian persian lime tahiti lime fruit"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Persian_lime",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97_latifolia",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-latifolia/",
+      "http://tropical.theferns.info/viewtropical.php?id=Citrus+latifolia",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/59b65f64-102b-4e0d-94d7-c6552f2b1624",
+      "https://www.rhs.org.uk/plants/143110/citrus-latifolia-(f-s)/details",
+      "https://www.rhs.org.uk/plants/48650/citrus-latifolia-tahiti/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22320,9 +22363,9 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'.",
+      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'. <a href='https://en.wikipedia.org/wiki/Lemon' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>limon</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22371,7 +22414,23 @@
         "alt": "citrus x limon eureka lemon fruit"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Lemon",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97limon",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=825214#null",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b548",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-limon/",
+      "https://selectree.calpoly.edu/tree-detail/364",
+      "https://temperate.theferns.info/viewtropical.php?id=Citrus+limon",
+      "https://www.nzpcn.org.nz/flora/species/citrus-limon/",
+      "https://www.nzflora.info/factsheet/Taxon/Citrus-limon.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/bb781a50-1c76-49d8-b62b-3cf21e36cadf",
+      "https://www.rhs.org.uk/plants/91243/citrus-limon-(f)/details",
+      "https://www.gardenia.net/plant/citrus-limon-eureka",
+      "https://citrusvariety.ucr.edu/citrus/taylor.html",
+      "http://plantselector.botanicgardens.sa.gov.au/Plants/Details/17819",
+      "https://www.rhs.org.uk/plants/212944/citrus-limon-eureka/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22387,9 +22446,9 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'.",
+      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'. <a href='https://en.wikipedia.org/wiki/Lemon' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>limon</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22438,7 +22497,21 @@
         "alt": "citrus x limon villa franca lemon fruit"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Lemon",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97limon",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=825214#null",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b548",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-limon/",
+      "https://selectree.calpoly.edu/tree-detail/364",
+      "https://temperate.theferns.info/viewtropical.php?id=Citrus+limon",
+      "https://www.nzpcn.org.nz/flora/species/citrus-limon/",
+      "https://www.nzflora.info/factsheet/Taxon/Citrus-limon.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/bb781a50-1c76-49d8-b62b-3cf21e36cadf",
+      "https://www.rhs.org.uk/plants/91243/citrus-limon-(f)/details",
+      "https://citrusvariety.ucr.edu/citrus/villafranca_280.html",
+      "https://www.rhs.org.uk/plants/66797/citrus-x-limon-villa-franca-(f)/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22454,9 +22527,9 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'.",
+      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon'. <a href='https://en.wikipedia.org/wiki/Lemon' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>limon</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22500,7 +22573,22 @@
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Lemon",
+      "https://species.wikimedia.org/wiki/Citrus_%C3%97limon",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=825214#null",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b548",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-limon/",
+      "https://selectree.calpoly.edu/tree-detail/364",
+      "https://temperate.theferns.info/viewtropical.php?id=Citrus+limon",
+      "https://www.nzpcn.org.nz/flora/species/citrus-limon/",
+      "https://www.nzflora.info/factsheet/Taxon/Citrus-limon.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/bb781a50-1c76-49d8-b62b-3cf21e36cadf",
+      "https://www.rhs.org.uk/plants/91243/citrus-limon-(f)/details",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/citrus-x-limon-yen-ben/",
+      "https://citrusvariety.ucr.edu/citrus/yenben.html",
+      "https://www.rhs.org.uk/plants/110302/citrus-x-limon-yen-ben-(f)/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22516,9 +22604,9 @@
     "otherCommonNames": "Lemonade Fruit, New Zealand Lemonade",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon', and <i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species.",
+      "hybrid": "<i>limon</i> (French, noun), meaning 'a type of lemon', and <i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species. <a href='https://en.wikipedia.org/wiki/Lemonade_fruit' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus limon</i> x <i>reticulata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22562,7 +22650,7 @@
     "treeShape": "images/icons/tree-shapes/citrus/citrus-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": ["https://en.wikipedia.org/wiki/Lemonade_fruit"]
   },
   {
     "family": "Rutaceae",
@@ -22573,14 +22661,24 @@
     "variety": "",
     "form": "",
     "cultivar": "",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Citrus",
+        "species": "",
+        "hybrid": "limon",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Meyer"
+      }
+    ],
     "commonName": "Meyer Lemon",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "meyeri (Latinised), named after the United States Department of Agriculture explorer, Frank Nicholas Meyer (1875 - 1918), who collected a sample of this hybrid species on a trip to China and introduced it to the United States in 1908.",
+      "hybrid": "meyeri (Latinised), named after the United States Department of Agriculture explorer, Frank Nicholas Meyer (1875 - 1918), who collected a sample of this hybrid species on a trip to China and introduced it to the United States in 1908. <a href='https://en.wikipedia.org/wiki/Meyer_lemon' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>meyeri</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22633,7 +22731,16 @@
         "alt": "citrus x meyeri meyer lemon fruit"
       }
     ],
-    "links": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817432/"]
+    "links": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817432/",
+      "https://en.wikipedia.org/wiki/Meyer_lemon",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-limon-meyer/",
+      "https://temperate.theferns.info/viewtropical.php?id=Citrus+x+meyeri",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/8dbe3363-d53a-462d-999e-2c97f353e4df",
+      "https://www.rhs.org.uk/plants/112976/citrus-meyeri/details",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/citrus-x-meyeri/",
+      "https://www.gardenia.net/plant/citrus-limon"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22644,14 +22751,24 @@
     "variety": "",
     "form": "",
     "cultivar": "Golden Special",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Citrus",
+        "species": "",
+        "hybrid": "aurantium",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Golden Special"
+      }
+    ],
     "commonName": "Grapefruit",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "paradīsī (Latin, noun), meaning 'Eden, the paradise home of the first humans', in reference to a hybrid species (which was thought to be <i>Citrus</i> x <i>paradisi</i>) from Barbados that was called forbidden fruit referencing the biblical story of the first humans eating the forbidden fruit in the Garden of Eden.",
+      "hybrid": "paradīsī (Latin, noun), meaning 'Eden, the paradise home of the first humans', in reference to a hybrid species (which was thought to be <i>Citrus</i> x <i>paradisi</i>) from Barbados that was called forbidden fruit referencing the biblical story of the first humans eating the forbidden fruit in the Garden of Eden. <a href='https://en.wikipedia.org/wiki/Grapefruit' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>paradisi</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22704,7 +22821,18 @@
         "alt": "citrus x paradisi golden special grapefruit tree"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Grapefruit",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28887#null",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-paradisi/",
+      "https://selectree.calpoly.edu/tree-detail/365",
+      "https://tropical.theferns.info/viewtropical.php?id=Citrus+x+paradisi",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/28e988e5-b5bc-44ec-b300-b15a7a2e3d8f",
+      "https://www.rhs.org.uk/plants/94361/citrus-paradisi/details",
+      "https://www.gardenia.net/plant/citrus-paradisi",
+      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/citrus-x-paradisi-golden-special/",
+      "https://www.rhs.org.uk/plants/320497/citrus-x-aurantium-(grapefruit-group)-golden-special-(f)/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22715,14 +22843,24 @@
     "variety": "",
     "form": "",
     "cultivar": "Star Ruby",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Citrus",
+        "species": "",
+        "hybrid": "aurantium",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Star Ruby"
+      }
+    ],
     "commonName": "Grapefruit",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
-      "hybrid": "paradīsī (Latin, noun), meaning 'Eden, the paradise home of the first humans', in reference to a hybrid species (which was thought to be <i>Citrus</i> x <i>paradisi</i>) from Barbados that was called forbidden fruit referencing the biblical story of the first humans eating the forbidden fruit in the Garden of Eden.",
+      "hybrid": "paradīsī (Latin, noun), meaning 'Eden, the paradise home of the first humans', in reference to a hybrid species (which was thought to be <i>Citrus</i> x <i>paradisi</i>) from Barbados that was called forbidden fruit referencing the biblical story of the first humans eating the forbidden fruit in the Garden of Eden. <a href='https://en.wikipedia.org/wiki/Grapefruit' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>paradisi</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -22779,7 +22917,17 @@
         "alt": "citrus x paradisi star ruby grapefruit slices"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Grapefruit",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=28887#null",
+      "https://plants.ces.ncsu.edu/plants/citrus-x-paradisi/",
+      "https://selectree.calpoly.edu/tree-detail/365",
+      "https://tropical.theferns.info/viewtropical.php?id=Citrus+x+paradisi",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/28e988e5-b5bc-44ec-b300-b15a7a2e3d8f",
+      "https://www.rhs.org.uk/plants/94361/citrus-paradisi/details",
+      "https://www.gardenia.net/plant/citrus-paradisi",
+      "https://www.rhs.org.uk/plants/320500/citrus-x-aurantium-(grapefruit-group)-star-ruby-(f-s)/details"
+    ]
   },
   {
     "family": "Rutaceae",
@@ -22795,7 +22943,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "<i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -22862,7 +23010,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "<i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -22929,7 +23077,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "<i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -23000,7 +23148,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "<i>rēticulāta</i> (Latin, adjective), meaning 'reticulated, net-like', in reference to the net-like fibrous strands under the peel of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -23067,7 +23215,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
@@ -23134,7 +23282,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
@@ -23201,7 +23349,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
@@ -23268,7 +23416,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
@@ -23330,7 +23478,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
@@ -23405,7 +23553,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "rue or citrus family, a family of flowering trees, shrubs, and herbs. <a href='https://en.wikipedia.org/wiki/Rutaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rutaceae</i></a>.",
-      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia.",
+      "genus": "<i>citrus</i> (Latin, noun), referring to either <i>Citrus medica</i> or a species in the genus <i>Thuja</i>. A genus of flowering trees and shrubs native to South Asia, East Asia, Southeast Asia, Melanesia, and Australia. <a href='https://en.wikipedia.org/wiki/Citrus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i></a>.",
       "species": "",
       "hybrid": "<i>sīnēnsis</i> (Latin, adjective), meaning 'Chinese, of or relating to China', in reference to this hybrid species' native geographical location.",
       "subspecies": "",
