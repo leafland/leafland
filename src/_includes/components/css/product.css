@@ -78,7 +78,7 @@ main h3 {
 
 #grade-select {
   display: grid;
-  gap: 3rem;
+  /* gap: 3rem; */
 }
 
 #grade-select-buttons {
@@ -173,7 +173,7 @@ main h3 {
   display: grid;
   grid-template-columns: 1fr;
   align-items: start;
-  grid-gap: 3rem;
+  grid-gap: 2rem;
   /* margin-top: 3rem; */
 }
 
@@ -1024,8 +1024,15 @@ details b {
   max-width: max-content;
 }
 
+.add-to-order-div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
 @media (hover: hover) and (pointer: fine) {
-  input.add-product:hover,
+  button#grade-select button:hover,
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
   button#open-more-links:hover,
@@ -1035,7 +1042,7 @@ details b {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
-  .add-product:hover:disabled {
+  /* .add-product:hover:disabled {
     background: none;
     color: var(--primary-text);
   }
@@ -1043,7 +1050,7 @@ details b {
   .add-product:hover:enabled {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
+  } */
 
   .tree-content a:hover {
     color: var(--primary-text);
@@ -1054,10 +1061,10 @@ details b {
     cursor: pointer;
   }
 
-  #heading-buttons a:hover {
+  /* #heading-buttons a:hover {
     color: var(--secondary-background);
     background: var(--primary-text);
-  }
+  } */
 
   /* #close-add-to-order:hover {
     background: var(--primary-text);
