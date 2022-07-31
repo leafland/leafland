@@ -117,8 +117,8 @@ async function populateForm() {
     let price = document.createElement("p");
     price.innerHTML = `Price per tree: <span class="accent-color">${
       loggedIn
-        ? tree.wholesalePrice + "+GST (Wholesale)"
-        : tree.retailPrice + "+GST (Retail)"
+        ? tree.wholesalePrice + ".00+GST (Wholesale)"
+        : tree.retailPrice + ".00+GST (Retail)"
     }</span>`;
 
     let freightPrice = document.createElement("p");
@@ -173,8 +173,8 @@ async function populateForm() {
             : tree.standardHeight + "m"
         }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
           loggedIn
-            ? tree.wholesalePrice + "+GST (Wholesale)"
-            : tree.retailPrice + "+GST (Retail)"
+            ? tree.wholesalePrice + ".00+GST (Wholesale)"
+            : tree.retailPrice + ".00+GST (Retail)"
         }</b></td> <td><b>P.O.A</b><td> </tr>`;
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
@@ -191,8 +191,8 @@ async function populateForm() {
             : tree.standardHeight + "m"
         }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
           loggedIn
-            ? tree.wholesalePrice + "+GST (Wholesale)"
-            : tree.retailPrice + "+GST (Retail)"
+            ? tree.wholesalePrice + ".00+GST (Wholesale)"
+            : tree.retailPrice + ".00+GST (Retail)"
         }</b></td> <td><b>${freightPriceValue}+GST</b></td> </tr>`;
 
         totalFreight +=
@@ -213,8 +213,8 @@ async function populateForm() {
           : tree.standardHeight + "m"
       }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
         loggedIn
-          ? tree.wholesalePrice + "+GST (Wholesale)"
-          : tree.retailPrice + "+GST (Retail)"
+          ? tree.wholesalePrice + ".00+GST (Wholesale)"
+          : tree.retailPrice + ".00+GST (Retail)"
       }</b></td> <td><b>N/A</b></td> </tr>`;
     }
   });

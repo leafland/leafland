@@ -93,11 +93,11 @@ main h3 {
   gap: 1rem;
 }
 
-.grade-select-grid-div p {
-  /* text-transform: uppercase; */
+/* .grade-select-grid-div p {
+  text-transform: uppercase;
   font-size: var(--font-size-3);
   font-weight: 900;
-}
+} */
 
 .selection-grid {
   display: flex;
@@ -108,25 +108,34 @@ main h3 {
 .selection-box {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
-  padding: 0.5rem;
+  padding: 1rem;
+  font-weight: 700;
+  display: grid;
+  grid-gap: 0.5rem;
+}
+
+.selection-box p {
+  font-size: var(--font-size-2);
   font-weight: 700;
 }
 
-.selection-box-disabled {
+/* .selection-box-disabled {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
   font-weight: 700;
   opacity: 0.5;
-}
+} */
 
-.grade-selection-value-active,
-.height-selection-value-active,
-.standard-selection-value-active {
+/* .selection-box-active {
   background: var(--primary-text);
   color: var(--secondary-background);
   pointer-events: none;
 }
+
+.selection-box-active .accent-color {
+  color: var(--secondary-background);
+} */
 
 #add-product-div {
   display: grid;
@@ -135,7 +144,7 @@ main h3 {
 }
 
 #grade-select input {
-  width: 150px;
+  width: max-content;
 }
 
 /* #grade-select input {
@@ -625,11 +634,11 @@ body.add-to-order-open #add-to-order-overlay {
   font-weight: 900;
 }
 
-#wholesale-price {
+.wholesale-price {
   display: none;
 }
 
-#retail-price {
+.retail-price {
   display: block;
 }
 
@@ -638,10 +647,10 @@ body.add-to-order-open #add-to-order-overlay {
   text-transform: uppercase;
 } */
 
-body.loggedIn #wholesale-price {
+body.loggedIn .wholesale-price {
   display: block;
 }
-body.loggedIn #retail-price {
+body.loggedIn .retail-price {
   display: none;
 }
 
@@ -775,7 +784,7 @@ body.loggedIn #retail-price {
   padding: 0.3rem 0.6rem;
 } */
 
-#add-product {
+.add-product {
   border-color: var(--primary-text);
 }
 
@@ -1016,7 +1025,7 @@ details b {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  input#add-product:hover,
+  input.add-product:hover,
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
   button#open-more-links:hover,
@@ -1026,12 +1035,12 @@ details b {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
-  #add-product:hover:disabled {
+  .add-product:hover:disabled {
     background: none;
     color: var(--primary-text);
   }
 
-  #add-product:hover:enabled {
+  .add-product:hover:enabled {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
@@ -1058,11 +1067,15 @@ details b {
     background: var(--primary-text);
     color: var(--secondary-background);
   } */
-  .selection-box:hover {
+  /* .selection-box:hover {
     cursor: pointer;
     background: var(--primary-text);
     color: var(--secondary-background);
   }
+
+  .selection-box:hover .accent-color {
+    color: var(--secondary-background);
+  } */
 }
 
 @media (min-width: 300px) {

@@ -10,7 +10,7 @@ let treeBotanicalName = document.querySelector(".tree-botanical-name");
 let treeCommonName = document.querySelector(".tree-common-name");
 let images = document.querySelector(".images");
 let mainImage = document.querySelector("#main-image-inner");
-let addToOrderButton = document.querySelector("#add-product");
+// let addToOrderButton = document.querySelector("#add-product");
 let treeAttributes = document.querySelector("#tree-attributes");
 let imageLightbox = document.querySelector("#image-lightbox");
 let imageLightboxInner = document.querySelector("#image-lightbox-div");
@@ -322,113 +322,302 @@ async function createTreeImages() {
 
 async function createStockValues() {
   if (grades.length !== 0) {
-    grades.forEach((grade) => {
-      let gradeSizeValue = document.createElement("span");
-      gradeSizeValue.classList.add("selection-box");
-      gradeSizeValue.textContent = grade.grade;
-      gradeSizeValue.dataset.value = grade.grade;
+    for (let i = 0; i < grades.length; i++) {
+      for (let j = 0; j < grades[i].heights.length; j++) {
+        for (let k = 0; k < grades[i].heights[j].standardHeights.length; k++) {
+          let gradeDiv = document.createElement("div");
+          gradeDiv.classList.add("selection-box");
 
-      document
-        .querySelector("#grade-size-selection")
-        .appendChild(gradeSizeValue);
+          // if (i === 0 && j === 0 && k === 0) {
+          //   gradeDiv.classList.add("selection-box-active");
+          // }
 
-      gradeSizeValue.addEventListener("click", () => {
-        heightValues = 0;
-        standardHeightValues = 0;
-        document.querySelector("#average-height-selection").innerHTML = "";
+          let gradeSizeValue = document.createElement("p");
+          // gradeSizeValue.classList.add("selection-box");
+          gradeSizeValue.innerHTML = `Grade: <span class='accent-color'>${grades[i].grade}</span>`;
+          gradeSizeValue.dataset.value = grades[i].grade;
+          gradeSizeValue.classList.add("order-product-grade");
 
-        document.querySelector(
-          "#standard-height-selection"
-        ).innerHTML = `<span class="selection-box-disabled">None</span>`;
+          let heightValue = document.createElement("p");
+          heightValue.classList.add("order-product-height");
 
-        document
-          .querySelectorAll(".grade-selection-value-active")
-          .forEach((child) => {
-            child.classList.remove("grade-selection-value-active");
-          });
-        gradeSizeValue.classList.add("grade-selection-value-active");
+          let standardHeightValue = document.createElement("p");
+          standardHeightValue.classList.add("order-product-standard-height");
 
-        treeQuantity.value = 1;
+          let quantityValue = document.createElement("p");
+          quantityValue.classList.add("order-product-quantity");
 
-        addToOrderButton.disabled = true;
-        treeQuantity.disabled = true;
+          let wholesalePriceValue = document.createElement("p");
+          wholesalePriceValue.classList.add("wholesale-price");
+          wholesalePriceValue.classList.add("order-product-wholesale-price");
 
-        for (let i = 0; i < grades.length; i++) {
-          if (grades[i].grade === gradeSizeValue.dataset.value) {
-            for (let j = 0; j < grades[i].heights.length; j++) {
-              let heightValue = document.createElement("span");
-              if (grades[i].heights[j].averageHeight !== "") {
-                heightValue.dataset.value = grades[i].heights[j].averageHeight;
-                heightValue.textContent = `${
-                  grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
-                    ? grades[i].heights[j].averageHeight
-                    : grades[i].heights[j].averageHeight + "m"
-                }`;
-              } else {
-                heightValue.value = "N/A";
-                heightValue.textContent = "N/A";
-              }
+          let retailPriceValue = document.createElement("p");
+          retailPriceValue.classList.add("retail-price");
+          retailPriceValue.classList.add("order-product-retail-price");
 
-              heightValue.classList.add("selection-box");
+          if (grades[i].heights[j].averageHeight !== "") {
+            heightValue.dataset.value = grades[i].heights[j].averageHeight;
+            heightValue.innerHTML = `Height: <span class='accent-color'>${
+              grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
+                ? grades[i].heights[j].averageHeight
+                : grades[i].heights[j].averageHeight + "m"
+            }</span>`;
+          } else {
+            heightValue.dataset.value = "N/A";
+            heightValue.innerHTML =
+              "Height: <span class='accent-color'>N/A</span>";
+          }
 
-              document
-                .querySelector("#average-height-selection")
-                .appendChild(heightValue);
+          // heightValue.classList.add("selection-box");
 
-              heightValues += 1;
+          if (
+            grades[i].heights[j].standardHeights[k].standardHeight.trim() !==
+              "" &&
+            grades[i].heights[j].standardHeights[k].standardHeight
+              .toLowerCase()
+              .trim() !== "bushy" &&
+            grades[i].heights[j].standardHeights[k].standardHeight
+              .toLowerCase()
+              .trim() !== "l/w" &&
+            grades[i].heights[j].standardHeights[k].standardHeight
+              .toLowerCase()
+              .trim() !== "lw" &&
+            grades[i].heights[j].standardHeights[k].standardHeight
+              .toLowerCase()
+              .trim() !== "ct"
+          ) {
+            standardHeightValue.dataset.value =
+              grades[i].heights[j].standardHeights[k].standardHeight;
 
-              heightValue.addEventListener("click", () => {
-                standardHeightValues = 0;
-                quantityField.textContent = "0";
-                wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
-                retailPriceField.textContent = "$0.00+GST (Retail)";
-
-                document.querySelector("#standard-height-selection").innerHTML =
-                  "";
-                document
-                  .querySelectorAll(".height-selection-value-active")
-                  .forEach((child) => {
-                    child.classList.remove("height-selection-value-active");
-                  });
-                heightValue.classList.add("height-selection-value-active");
-
-                createHeights(
-                  gradeSizeValue.dataset.value,
-                  heightValue.dataset.value
-                );
-              });
+            if (
+              grades[i].heights[j].standardHeights[k].standardHeight.match(
+                /\d+/g
+              ) !== null
+            ) {
+              standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}m</span>`;
+            } else {
+              standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}</span>`;
             }
 
-            quantityField.textContent = "0";
-            wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
-            retailPriceField.textContent = "$0.00+GST (Retail)";
+            // standardHeightValue.classList.add("selection-box");
 
-            break;
+            // document
+            //   .querySelector("#standard-height-selection")
+            //   .appendChild(standardHeightValue);
+
+            //standardHeightValues += 1;
+
+            // standardHeightValue.addEventListener("click", () => {
+            //   standardHeightValues = 0;
+            //   document
+            //     .querySelectorAll(".standard-selection-value-active")
+            //     .forEach((child) => {
+            //       child.classList.remove("standard-selection-value-active");
+            //     });
+            //   standardHeightValue.classList.add(
+            //     "standard-selection-value-active"
+            //   );
+
+            //   let parameters =
+            //     standardHeightValue.dataset.value.split("?")[1];
+            //   let standardQuantity = parameters.split("&")[0];
+            //   let wholesalePrice = parameters.split("&")[1];
+            //   let retailPrice = parameters.split("&")[2];
+
+            //   quantityField.textContent = `${
+            //     standardQuantity.split("q=")[1]
+            //   }`;
+            //   wholesalePriceField.textContent = `${
+            //     wholesalePrice.split("wp=")[1]
+            //   }.00+GST (Wholesale)`;
+            //   retailPriceField.textContent = `${
+            //     retailPrice.split("rp=")[1]
+            //   }.00+GST (Retail)`;
+
+            //   if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+            //     addToOrderButton.disabled = true;
+            //     treeQuantity.disabled = true;
+            //     treeQuantity.value = 1;
+            //   } else {
+            //     addToOrderButton.disabled = false;
+            //     treeQuantity.disabled = false;
+            //     treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+            //     treeQuantity.onchange = function () {
+            //       if (this.value < 1) {
+            //         this.value = 1;
+            //       } else if (
+            //         this.value > parseInt(standardQuantity.split("q=")[1])
+            //       ) {
+            //         this.value = parseInt(standardQuantity.split("q=")[1]);
+            //       }
+            //     };
+            //   }
+            // });
+          } else if (
+            grades[i].heights[j].standardHeights[k].standardHeight
+              .toLowerCase()
+              .trim() !== "column"
+          ) {
+            standardHeightValue.innerHTML =
+              "Standard Height: <span class='accent-color'>None</span>";
+
+            // noStandardHeightQuantity +
+            //   grades[i].heights[j].standardHeights[k].quantity;
+
+            standardHeightValue.dataset.value = `None`;
+
+            // standardHeightValue.classList.add("selection-box");
+
+            // document
+            //   .querySelector("#standard-height-selection")
+            //   .appendChild(standardHeightValue);
+
+            //standardHeightValues += 1;
+
+            // standardHeightValue.addEventListener("click", () => {
+            //   standardHeightValues = 0;
+            //   document
+            //     .querySelectorAll(".standard-selection-value-active")
+            //     .forEach((child) => {
+            //       child.classList.remove("standard-selection-value-active");
+            //     });
+            //   standardHeightValue.classList.add(
+            //     "standard-selection-value-active"
+            //   );
+
+            //   let parameters =
+            //     standardHeightValue.dataset.value.split("?")[1];
+            //   let standardQuantity = parameters.split("&")[0];
+            //   let wholesalePrice = parameters.split("&")[1];
+            //   let retailPrice = parameters.split("&")[2];
+
+            //   quantityField.textContent = `${
+            //     standardQuantity.split("q=")[1]
+            //   }`;
+            //   wholesalePriceField.textContent = `${
+            //     wholesalePrice.split("wp=")[1]
+            //   }.00+GST (Wholesale)`;
+            //   retailPriceField.textContent = `${
+            //     retailPrice.split("rp=")[1]
+            //   }.00+GST (Retail)`;
+
+            //   if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+            //     addToOrderButton.disabled = true;
+            //     treeQuantity.disabled = true;
+            //     treeQuantity.value = 1;
+            //   } else {
+            //     addToOrderButton.disabled = false;
+            //     treeQuantity.disabled = false;
+            //     treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+            //     treeQuantity.onchange = function () {
+            //       if (this.value < 1) {
+            //         this.value = 1;
+            //       } else if (
+            //         this.value > parseInt(standardQuantity.split("q=")[1])
+            //       ) {
+            //         this.value = parseInt(standardQuantity.split("q=")[1]);
+            //       }
+            //     };
+            //   }
+            // });
           }
-        }
 
-        if (heightValues === 1) {
-          document.querySelector("#standard-height-selection").innerHTML = "";
-          let heightChildren = document.querySelector(
-            "#average-height-selection"
-          ).children;
-          heightChildren[0].classList.add("height-selection-value-active");
-          createHeights(
-            gradeSizeValue.dataset.value,
-            heightChildren[0].dataset.value
+          quantityValue.innerHTML = `Quantity: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].quantity}</span>`;
+          quantityValue.dataset.value =
+            grades[i].heights[j].standardHeights[k].quantity;
+
+          wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST</span>`;
+          wholesalePriceValue.dataset.value =
+            grades[i].heights[j].standardHeights[k].wholesalePrice;
+
+          retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST</span>`;
+          retailPriceValue.dataset.value =
+            grades[i].heights[j].standardHeights[k].retailPrice;
+
+          gradeDiv.appendChild(gradeSizeValue);
+          gradeDiv.appendChild(heightValue);
+          gradeDiv.appendChild(standardHeightValue);
+          gradeDiv.appendChild(quantityValue);
+          gradeDiv.appendChild(retailPriceValue);
+          gradeDiv.appendChild(wholesalePriceValue);
+
+          let addToOrderDiv = document.createElement("div");
+
+          let gradeInput = document.createElement("input");
+          gradeInput.type = "number";
+          gradeInput.name = "quantity";
+          gradeInput.id = "quantity";
+          gradeInput.value = 1;
+          gradeInput.min = 1;
+          gradeInput.max = parseInt(
+            grades[i].heights[j].standardHeights[k].quantity
           );
+          gradeInput.inputmode = "numeric";
+
+          gradeInput.onchange = function () {
+            if (this.value < 1) {
+              this.value = 1;
+            } else if (
+              this.value >
+              parseInt(grades[i].heights[j].standardHeights[k].quantity)
+            ) {
+              this.value = parseInt(
+                grades[i].heights[j].standardHeights[k].quantity
+              );
+            }
+          };
+
+          let gradeButton = document.createElement("button");
+          gradeButton.class = "add-product";
+          gradeButton.textContent = "Add to order";
+
+          addToOrderDiv.appendChild(gradeInput);
+          addToOrderDiv.appendChild(gradeButton);
+
+          gradeDiv.appendChild(addToOrderDiv);
+
+          // gradeDiv.addEventListener("click", () => {
+          //   document
+          //     .querySelector(".selection-box-active")
+          //     .classList.remove("selection-box-active");
+
+          //   gradeDiv.classList.add("selection-box-active");
+
+          //   treeQuantity.max = parseInt(
+          //     document
+          //       .querySelector(".selection-box-active")
+          //       .querySelector(".order-product-quantity").dataset.value
+          //   );
+
+          //   treeQuantity.onchange = function () {
+          //     if (this.value < 1) {
+          //       this.value = 1;
+          //     } else if (
+          //       this.value >
+          //       document
+          //         .querySelector(".selection-box-active")
+          //         .querySelector(".order-product-quantity").dataset.value
+          //     ) {
+          //       this.value = parseInt(
+          //         document
+          //           .querySelector(".selection-box-active")
+          //           .querySelector(".order-product-quantity").dataset.value
+          //       );
+          //     }
+          //   };
+          // });
+
+          // if (i === 0 && j === 0 && k === 0) {
+          //   treeQuantity.max = parseInt(
+          //     grades[i].heights[j].standardHeights[k].quantity
+          //   );
+
+          // }
+
+          document.querySelector("#grade-size-selection").appendChild(gradeDiv);
         }
-      });
-
-      // if (parseInt(grade.comingOn) !== 0 && !Number.isNaN(grade.comingOn)) {
-      //   comingOnField.style.setProperty("display", "none");
-      //   comingOn.innerHTML += `<span class="info-pill">${grade.grade} - ${grade.comingOn} total</span>`;
-      // }
-    });
-
-    quantityField.textContent = "0";
-    wholesalePriceField.textContent = "$0.00+GST (Wholesale)";
-    retailPriceField.textContent = "$0.00+GST (Retail)";
+      }
+    }
   } else {
     gradeSizesDiv.innerHTML = ``;
     let message = document.createElement("p");
@@ -454,21 +643,25 @@ function addTreeToSessionStorage() {
       commonName: treeCommonName.textContent,
       url: window.location.pathname,
       mainImage: productImage,
-      grade: document.querySelector(".grade-selection-value-active").dataset
-        .value,
-      averageHeight: document.querySelector(".height-selection-value-active")
-        .dataset.value,
+      grade: document
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-grade").dataset.value,
+      averageHeight: document
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-height").dataset.value,
       quantity: parseInt(treeQuantity.value, 10),
-      maxQuantity: parseInt(treeQuantity.max),
+      maxQuantity: document
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-quantity").dataset.value,
       standardHeight: document
-        .querySelector(".standard-selection-value-active")
-        .dataset.value.split("?q=")[0],
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-standard-height").dataset.value,
       retailPrice: document
-        .querySelector("#retail-price")
-        .textContent.split(".00+GST")[0],
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-retail-price").dataset.value,
       wholesalePrice: document
-        .querySelector("#wholesale-price")
-        .textContent.split(".00+GST")[0],
+        .querySelector(".selection-box-active")
+        .querySelector(".order-product-wholesale-price").dataset.value,
     });
   } else {
     for (let i = 0; i < productTrees.length + 1; i++) {
@@ -478,22 +671,25 @@ function addTreeToSessionStorage() {
           commonName: treeCommonName.textContent,
           url: window.location.pathname,
           mainImage: productImage,
-          grade: document.querySelector(".grade-selection-value-active").dataset
-            .value,
-          averageHeight: document.querySelector(
-            ".height-selection-value-active"
-          ).dataset.value,
+          grade: document
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-grade").dataset.value,
+          averageHeight: document
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-height").dataset.value,
           quantity: parseInt(treeQuantity.value, 10),
-          maxQuantity: parseInt(treeQuantity.max),
+          maxQuantity: document
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-quantity").dataset.value,
           standardHeight: document
-            .querySelector(".standard-selection-value-active")
-            .dataset.value.split("?q=")[0],
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-standard-height").dataset.value,
           retailPrice: document
-            .querySelector("#retail-price")
-            .textContent.split(".00+GST")[0],
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-retail-price").dataset.value,
           wholesalePrice: document
-            .querySelector("#wholesale-price")
-            .textContent.split(".00+GST")[0],
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-wholesale-price").dataset.value,
         });
         break;
       } else {
@@ -501,19 +697,21 @@ function addTreeToSessionStorage() {
         if (productTrees[i].botanicalName === treeBotanicalName.innerHTML) {
           if (
             productTrees[i].grade ===
-            document.querySelector(".grade-selection-value-active").dataset
-              .value
+            document
+              .querySelector(".selection-box-active")
+              .querySelector(".order-product-grade").dataset.value
           ) {
             if (
               productTrees[i].averageHeight ===
-              document.querySelector(".height-selection-value-active").dataset
-                .value
+              document
+                .querySelector(".selection-box-active")
+                .querySelector(".order-product-height").dataset.value
             ) {
               if (
                 productTrees[i].standardHeight ===
                 document
-                  .querySelector(".standard-selection-value-active")
-                  .dataset.value.split("?q=")[0]
+                  .querySelector(".selection-box-active")
+                  .querySelector(".order-product-standard-height").dataset.value
               ) {
                 productTrees[i].quantity += parseInt(treeQuantity.value, 10);
                 if (productTrees[i].quantity >= productTrees[i].maxQuantity) {
@@ -543,222 +741,222 @@ function addTreeToSessionStorage() {
   );
 }
 
-function createHeights(grade, height) {
-  treeQuantity.value = 1;
+// function createHeights(grade, height) {
+//   treeQuantity.value = 1;
 
-  addToOrderButton.disabled = true;
-  treeQuantity.disabled = true;
+//   addToOrderButton.disabled = true;
+//   treeQuantity.disabled = true;
 
-  for (let i = 0; i < grades.length; i++) {
-    if (grades[i].grade === grade) {
-      let noStandardHeightQuantity = 0;
-      for (let j = 0; j < grades[i].heights.length; j++) {
-        if (grades[i].heights[j].averageHeight === height) {
-          for (
-            let k = 0;
-            k < grades[i].heights[j].standardHeights.length;
-            k++
-          ) {
-            let standardHeightValue = document.createElement("span");
-            if (
-              grades[i].heights[j].standardHeights[k].standardHeight.trim() !==
-                "" &&
-              grades[i].heights[j].standardHeights[k].standardHeight
-                .toLowerCase()
-                .trim() !== "bushy" &&
-              grades[i].heights[j].standardHeights[k].standardHeight
-                .toLowerCase()
-                .trim() !== "l/w" &&
-              grades[i].heights[j].standardHeights[k].standardHeight
-                .toLowerCase()
-                .trim() !== "lw" &&
-              grades[i].heights[j].standardHeights[k].standardHeight
-                .toLowerCase()
-                .trim() !== "ct"
-            ) {
-              standardHeightValue.dataset.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+//   for (let i = 0; i < grades.length; i++) {
+//     if (grades[i].grade === grade) {
+//       let noStandardHeightQuantity = 0;
+//       for (let j = 0; j < grades[i].heights.length; j++) {
+//         if (grades[i].heights[j].averageHeight === height) {
+//           for (
+//             let k = 0;
+//             k < grades[i].heights[j].standardHeights.length;
+//             k++
+//           ) {
+//             let standardHeightValue = document.createElement("span");
+//             if (
+//               grades[i].heights[j].standardHeights[k].standardHeight.trim() !==
+//                 "" &&
+//               grades[i].heights[j].standardHeights[k].standardHeight
+//                 .toLowerCase()
+//                 .trim() !== "bushy" &&
+//               grades[i].heights[j].standardHeights[k].standardHeight
+//                 .toLowerCase()
+//                 .trim() !== "l/w" &&
+//               grades[i].heights[j].standardHeights[k].standardHeight
+//                 .toLowerCase()
+//                 .trim() !== "lw" &&
+//               grades[i].heights[j].standardHeights[k].standardHeight
+//                 .toLowerCase()
+//                 .trim() !== "ct"
+//             ) {
+//               standardHeightValue.dataset.value = `${grades[i].heights[j].standardHeights[k].standardHeight}?q=${grades[i].heights[j].standardHeights[k].quantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
-              if (
-                grades[i].heights[j].standardHeights[k].standardHeight.match(
-                  /\d+/g
-                ) !== null
-              ) {
-                standardHeightValue.textContent =
-                  grades[i].heights[j].standardHeights[k].standardHeight + "m";
-              } else {
-                standardHeightValue.textContent =
-                  grades[i].heights[j].standardHeights[k].standardHeight;
-              }
+//               if (
+//                 grades[i].heights[j].standardHeights[k].standardHeight.match(
+//                   /\d+/g
+//                 ) !== null
+//               ) {
+//                 standardHeightValue.textContent =
+//                   grades[i].heights[j].standardHeights[k].standardHeight + "m";
+//               } else {
+//                 standardHeightValue.textContent =
+//                   grades[i].heights[j].standardHeights[k].standardHeight;
+//               }
 
-              standardHeightValue.classList.add("selection-box");
+//               standardHeightValue.classList.add("selection-box");
 
-              document
-                .querySelector("#standard-height-selection")
-                .appendChild(standardHeightValue);
+//               document
+//                 .querySelector("#standard-height-selection")
+//                 .appendChild(standardHeightValue);
 
-              standardHeightValues += 1;
+//               standardHeightValues += 1;
 
-              standardHeightValue.addEventListener("click", () => {
-                standardHeightValues = 0;
-                document
-                  .querySelectorAll(".standard-selection-value-active")
-                  .forEach((child) => {
-                    child.classList.remove("standard-selection-value-active");
-                  });
-                standardHeightValue.classList.add(
-                  "standard-selection-value-active"
-                );
+//               // standardHeightValue.addEventListener("click", () => {
+//               //   standardHeightValues = 0;
+//               //   document
+//               //     .querySelectorAll(".standard-selection-value-active")
+//               //     .forEach((child) => {
+//               //       child.classList.remove("standard-selection-value-active");
+//               //     });
+//               //   standardHeightValue.classList.add(
+//               //     "standard-selection-value-active"
+//               //   );
 
-                let parameters =
-                  standardHeightValue.dataset.value.split("?")[1];
-                let standardQuantity = parameters.split("&")[0];
-                let wholesalePrice = parameters.split("&")[1];
-                let retailPrice = parameters.split("&")[2];
+//               //   let parameters =
+//               //     standardHeightValue.dataset.value.split("?")[1];
+//               //   let standardQuantity = parameters.split("&")[0];
+//               //   let wholesalePrice = parameters.split("&")[1];
+//               //   let retailPrice = parameters.split("&")[2];
 
-                quantityField.textContent = `${
-                  standardQuantity.split("q=")[1]
-                }`;
-                wholesalePriceField.textContent = `${
-                  wholesalePrice.split("wp=")[1]
-                }.00+GST (Wholesale)`;
-                retailPriceField.textContent = `${
-                  retailPrice.split("rp=")[1]
-                }.00+GST (Retail)`;
+//               //   quantityField.textContent = `${
+//               //     standardQuantity.split("q=")[1]
+//               //   }`;
+//               //   wholesalePriceField.textContent = `${
+//               //     wholesalePrice.split("wp=")[1]
+//               //   }.00+GST (Wholesale)`;
+//               //   retailPriceField.textContent = `${
+//               //     retailPrice.split("rp=")[1]
+//               //   }.00+GST (Retail)`;
 
-                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (
-                      this.value > parseInt(standardQuantity.split("q=")[1])
-                    ) {
-                      this.value = parseInt(standardQuantity.split("q=")[1]);
-                    }
-                  };
-                }
-              });
-            } else if (
-              grades[i].heights[j].standardHeights[k].standardHeight
-                .toLowerCase()
-                .trim() !== "column"
-            ) {
-              standardHeightValue = document.createElement("span");
+//               //   if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+//               //     addToOrderButton.disabled = true;
+//               //     treeQuantity.disabled = true;
+//               //     treeQuantity.value = 1;
+//               //   } else {
+//               //     addToOrderButton.disabled = false;
+//               //     treeQuantity.disabled = false;
+//               //     treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+//               //     treeQuantity.onchange = function () {
+//               //       if (this.value < 1) {
+//               //         this.value = 1;
+//               //       } else if (
+//               //         this.value > parseInt(standardQuantity.split("q=")[1])
+//               //       ) {
+//               //         this.value = parseInt(standardQuantity.split("q=")[1]);
+//               //       }
+//               //     };
+//               //   }
+//               // });
+//             } else if (
+//               grades[i].heights[j].standardHeights[k].standardHeight
+//                 .toLowerCase()
+//                 .trim() !== "column"
+//             ) {
+//               standardHeightValue = document.createElement("span");
 
-              standardHeightValue.textContent = "None";
+//               standardHeightValue.textContent = "None";
 
-              noStandardHeightQuantity +=
-                grades[i].heights[j].standardHeights[k].quantity;
+//               noStandardHeightQuantity +=
+//                 grades[i].heights[j].standardHeights[k].quantity;
 
-              standardHeightValue.dataset.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
+//               standardHeightValue.dataset.value = `None?q=${noStandardHeightQuantity}&wp=${grades[i].heights[j].standardHeights[k].wholesalePrice}&rp=${grades[i].heights[j].standardHeights[k].retailPrice}`;
 
-              standardHeightValue.classList.add("selection-box");
+//               standardHeightValue.classList.add("selection-box");
 
-              document
-                .querySelector("#standard-height-selection")
-                .appendChild(standardHeightValue);
+//               document
+//                 .querySelector("#standard-height-selection")
+//                 .appendChild(standardHeightValue);
 
-              standardHeightValues += 1;
+//               standardHeightValues += 1;
 
-              standardHeightValue.addEventListener("click", () => {
-                standardHeightValues = 0;
-                document
-                  .querySelectorAll(".standard-selection-value-active")
-                  .forEach((child) => {
-                    child.classList.remove("standard-selection-value-active");
-                  });
-                standardHeightValue.classList.add(
-                  "standard-selection-value-active"
-                );
+//               // standardHeightValue.addEventListener("click", () => {
+//               //   standardHeightValues = 0;
+//               //   document
+//               //     .querySelectorAll(".standard-selection-value-active")
+//               //     .forEach((child) => {
+//               //       child.classList.remove("standard-selection-value-active");
+//               //     });
+//               //   standardHeightValue.classList.add(
+//               //     "standard-selection-value-active"
+//               //   );
 
-                let parameters =
-                  standardHeightValue.dataset.value.split("?")[1];
-                let standardQuantity = parameters.split("&")[0];
-                let wholesalePrice = parameters.split("&")[1];
-                let retailPrice = parameters.split("&")[2];
+//               //   let parameters =
+//               //     standardHeightValue.dataset.value.split("?")[1];
+//               //   let standardQuantity = parameters.split("&")[0];
+//               //   let wholesalePrice = parameters.split("&")[1];
+//               //   let retailPrice = parameters.split("&")[2];
 
-                quantityField.textContent = `${
-                  standardQuantity.split("q=")[1]
-                }`;
-                wholesalePriceField.textContent = `${
-                  wholesalePrice.split("wp=")[1]
-                }.00+GST (Wholesale)`;
-                retailPriceField.textContent = `${
-                  retailPrice.split("rp=")[1]
-                }.00+GST (Retail)`;
+//               //   quantityField.textContent = `${
+//               //     standardQuantity.split("q=")[1]
+//               //   }`;
+//               //   wholesalePriceField.textContent = `${
+//               //     wholesalePrice.split("wp=")[1]
+//               //   }.00+GST (Wholesale)`;
+//               //   retailPriceField.textContent = `${
+//               //     retailPrice.split("rp=")[1]
+//               //   }.00+GST (Retail)`;
 
-                if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-                  addToOrderButton.disabled = true;
-                  treeQuantity.disabled = true;
-                  treeQuantity.value = 1;
-                } else {
-                  addToOrderButton.disabled = false;
-                  treeQuantity.disabled = false;
-                  treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-                  treeQuantity.onchange = function () {
-                    if (this.value < 1) {
-                      this.value = 1;
-                    } else if (
-                      this.value > parseInt(standardQuantity.split("q=")[1])
-                    ) {
-                      this.value = parseInt(standardQuantity.split("q=")[1]);
-                    }
-                  };
-                }
-              });
-            }
-          }
+//               //   if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+//               //     addToOrderButton.disabled = true;
+//               //     treeQuantity.disabled = true;
+//               //     treeQuantity.value = 1;
+//               //   } else {
+//               //     addToOrderButton.disabled = false;
+//               //     treeQuantity.disabled = false;
+//               //     treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+//               //     treeQuantity.onchange = function () {
+//               //       if (this.value < 1) {
+//               //         this.value = 1;
+//               //       } else if (
+//               //         this.value > parseInt(standardQuantity.split("q=")[1])
+//               //       ) {
+//               //         this.value = parseInt(standardQuantity.split("q=")[1]);
+//               //       }
+//               //     };
+//               //   }
+//               // });
+//             }
+//           }
 
-          break;
-        }
-      }
-      break;
-    }
-  }
+//           break;
+//         }
+//       }
+//       break;
+//     }
+//   }
 
-  if (standardHeightValues === 1) {
-    let standardChildren = document.querySelector(
-      "#standard-height-selection"
-    ).children;
-    standardChildren[0].classList.add("standard-selection-value-active");
+//   // if (standardHeightValues === 1) {
+//   //   let standardChildren = document.querySelector(
+//   //     "#standard-height-selection"
+//   //   ).children;
+//   //   standardChildren[0].classList.add("standard-selection-value-active");
 
-    let parameters = standardChildren[0].dataset.value.split("?")[1];
-    let standardQuantity = parameters.split("&")[0];
-    let wholesalePrice = parameters.split("&")[1];
-    let retailPrice = parameters.split("&")[2];
+//   //   let parameters = standardChildren[0].dataset.value.split("?")[1];
+//   //   let standardQuantity = parameters.split("&")[0];
+//   //   let wholesalePrice = parameters.split("&")[1];
+//   //   let retailPrice = parameters.split("&")[2];
 
-    quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
-    wholesalePriceField.textContent = `${
-      wholesalePrice.split("wp=")[1]
-    }.00+GST (Wholesale)`;
-    retailPriceField.textContent = `${
-      retailPrice.split("rp=")[1]
-    }.00+GST (Retail)`;
+//   //   quantityField.textContent = `${standardQuantity.split("q=")[1]}`;
+//   //   wholesalePriceField.textContent = `${
+//   //     wholesalePrice.split("wp=")[1]
+//   //   }.00+GST (Wholesale)`;
+//   //   retailPriceField.textContent = `${
+//   //     retailPrice.split("rp=")[1]
+//   //   }.00+GST (Retail)`;
 
-    if (parseInt(standardQuantity.split("q=")[1]) === 0) {
-      addToOrderButton.disabled = true;
-      treeQuantity.disabled = true;
-      treeQuantity.value = 1;
-    } else {
-      addToOrderButton.disabled = false;
-      treeQuantity.disabled = false;
-      treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
-      treeQuantity.onchange = function () {
-        if (this.value < 1) {
-          this.value = 1;
-        } else if (this.value > parseInt(standardQuantity.split("q=")[1])) {
-          this.value = parseInt(standardQuantity.split("q=")[1]);
-        }
-      };
-    }
-  }
-}
+//   //   if (parseInt(standardQuantity.split("q=")[1]) === 0) {
+//   //     addToOrderButton.disabled = true;
+//   //     treeQuantity.disabled = true;
+//   //     treeQuantity.value = 1;
+//   //   } else {
+//   //     addToOrderButton.disabled = false;
+//   //     treeQuantity.disabled = false;
+//   //     treeQuantity.max = parseInt(standardQuantity.split("q=")[1]);
+//   //     treeQuantity.onchange = function () {
+//   //       if (this.value < 1) {
+//   //         this.value = 1;
+//   //       } else if (this.value > parseInt(standardQuantity.split("q=")[1])) {
+//   //         this.value = parseInt(standardQuantity.split("q=")[1]);
+//   //       }
+//   //     };
+//   //   }
+//   // }
+// }
 
 async function createStockTable() {
   let heading = [];
@@ -914,30 +1112,34 @@ function addEventListeners() {
     }
   });
 
-  addToOrderButton.addEventListener("click", () => {
-    addTreeToSessionStorage();
-    window.dispatchEvent(productAdded);
+  document.querySelectorAll(".add-product").forEach((child) => {
+    child.addEventListener("click", () => {
+      addTreeToSessionStorage();
+      window.dispatchEvent(productAdded);
 
-    if (maximumQuantityReached) {
-      document.querySelector(
-        "#success-message-text"
-      ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
-      maximumQuantityReached = false;
-    } else {
-      document.querySelector("#success-message-text").innerHTML = `${
-        quantity.value
-      }<span class="lowercase">x</span> ${
-        document.querySelector(".grade-selection-value-active").dataset.value
-      } ${treeBotanicalName.innerHTML} added to order.`;
-    }
+      if (maximumQuantityReached) {
+        document.querySelector(
+          "#success-message-text"
+        ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
+        maximumQuantityReached = false;
+      } else {
+        document.querySelector("#success-message-text").innerHTML = `${
+          quantity.value
+        }<span class="lowercase">x</span> ${
+          document
+            .querySelector(".selection-box-active")
+            .querySelector(".order-product-grade").dataset.value
+        } ${treeBotanicalName.innerHTML} added to order.`;
+      }
 
-    successMessage.style.setProperty("opacity", "1");
-    successMessage.style.setProperty("visibility", "visible");
+      successMessage.style.setProperty("opacity", "1");
+      successMessage.style.setProperty("visibility", "visible");
 
-    setTimeout(() => {
-      successMessage.style.setProperty("opacity", "0");
-      successMessage.style.setProperty("visibility", "hidden");
-    }, 4000);
+      setTimeout(() => {
+        successMessage.style.setProperty("opacity", "0");
+        successMessage.style.setProperty("visibility", "hidden");
+      }, 4000);
+    });
   });
 
   document.querySelector("#open-stock-table").addEventListener("click", () => {

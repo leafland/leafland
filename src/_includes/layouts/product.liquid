@@ -1185,7 +1185,20 @@ type: product
 
                 <div id="grade-sizes">
 
+                    <div id="success-message">
+                        <p id="success-message-text">Added to order</p>
+                    </div>
+
                     <div id="grade-select">
+
+                        <div id="add-product-div">
+
+                            {% comment %} <div>
+                                <input name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
+                            </div>
+
+                            <button id="add-product">Add to order</button> {% endcomment %}
+                        </div>
 
                         <div id="grade-select-buttons">
 
@@ -1197,17 +1210,17 @@ type: product
                                 
                                 </select> {% endcomment %}
 
-                                <p>Select a grade size</p>
+                                {% comment %} <p>Select a grade size</p> {% endcomment %}
                                 <div id="grade-size-selection" class="selection-grid"></div>
                             </div>
 
-                            <div class="grade-select-grid-div">
-                                {% comment %} <label for="height">Average height</label>
+                            {% comment %}<div class="grade-select-grid-div">
+                                <label for="height">Average height</label>
                                 <select disabled name="height" id="height-select">
                                 
                                     <option selected disabled hidden>Select height</option>
                                 
-                                </select> {% endcomment %}
+                                </select>
 
                                 <p>Select a height</p>
                                 <div id="average-height-selection" class="selection-grid">
@@ -1218,12 +1231,12 @@ type: product
                             </div>
 
                             <div class="grade-select-grid-div">
-                                {% comment %} <label for="standard-height">Standard Height</label>
+                               <label for="standard-height">Standard Height</label>
                                 <select disabled name="standard-height" id="standard-height-select">
                                 
                                     <option selected disabled hidden>Select height</option>
                                 
-                                </select> {% endcomment %}
+                                </select>
 
                                 <p>Select a standard height</p>
                                 <div id="standard-height-selection" class="selection-grid">
@@ -1231,11 +1244,11 @@ type: product
                                     <span class="selection-box-disabled">None</span>
 
                                 </div>
-                            </div>
+                            </div>{% endcomment %}
 
                         </div>
 
-                        <div id="stock-values">
+                        {% comment %} <div id="stock-values">
 
                             <p>
 
@@ -1250,22 +1263,8 @@ type: product
                             </p>
                     
                     
-                        </div>
+                        </div> {% endcomment %}
 
-                        <div id="add-product-div">
-
-                            <div>
-                                {% comment %} <label for="quantity">Order Quantity</label> {% endcomment %}
-                                <input disabled name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
-                            </div>
-
-                            <button disabled id="add-product">Add to order</button>
-                        </div>
-
-                    </div>
-
-                    <div id="success-message">
-                        <p id="success-message-text">Added to order</p>
                     </div>
 
                 </div>
