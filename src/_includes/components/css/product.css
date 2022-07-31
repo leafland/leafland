@@ -1032,7 +1032,7 @@ details b {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  button#grade-select button:hover,
+  div#grade-select button:hover,
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
   button#open-more-links:hover,
