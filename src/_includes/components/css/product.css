@@ -18,6 +18,19 @@ main h3 {
   justify-self: center;
 }
 
+#top-bar {
+  padding: 1rem;
+  text-align: center;
+  background: var(--primary-text);
+  color: var(--secondary-background);
+  font-weight: 700;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
 .tree-botanical-name {
   font-size: var(--font-size-7);
   font-weight: 900;
@@ -55,78 +68,49 @@ main h3 {
   height: max-content;
 }
 
-#success-message {
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.5s var(--default-animation-easing);
-  /* position: fixed; */
-  /* top: 0;
-  left: 0;
-  z-index: -1; */
-  display: grid;
-  /* width: 100%; */
-}
-
-#success-message p {
-  /* background: var(--secondary-background); */
-  font-weight: 700;
-  /* padding: 1rem;
-  border-bottom: 2px solid var(--primary-text);
-  text-align: center;*/
-  font-size: var(--font-size-2);
-}
-
 #grade-select {
   display: grid;
-  gap: 3rem;
-}
-
-#grade-select-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 3rem;
-}
-
-.grade-select-grid-div {
-  display: grid;
-  grid-template-rows: auto 1fr;
-  gap: 1rem;
-}
-
-.grade-select-grid-div p {
-  /* text-transform: uppercase; */
-  font-size: var(--font-size-3);
-  font-weight: 900;
+  /* gap: 3rem; */
 }
 
 .selection-grid {
-  display: flex;
+  display: grid;
   gap: 1rem;
-  flex-wrap: wrap;
+  grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
 }
 
 .selection-box {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
-  padding: 0.5rem;
+  padding: 1rem;
+  font-weight: 700;
+  display: grid;
+  grid-gap: 0.5rem;
+  height: max-content;
+}
+
+.selection-box p {
+  font-size: var(--font-size-2);
   font-weight: 700;
 }
 
-.selection-box-disabled {
+/* .selection-box-disabled {
   border-radius: 8px;
   border: 2px solid var(--primary-text);
   padding: 0.5rem;
   font-weight: 700;
   opacity: 0.5;
-}
+} */
 
-.grade-selection-value-active,
-.height-selection-value-active,
-.standard-selection-value-active {
+/* .selection-box-active {
   background: var(--primary-text);
   color: var(--secondary-background);
   pointer-events: none;
 }
+
+.selection-box-active .accent-color {
+  color: var(--secondary-background);
+} */
 
 #add-product-div {
   display: grid;
@@ -135,7 +119,7 @@ main h3 {
 }
 
 #grade-select input {
-  width: 150px;
+  width: 100px;
 }
 
 /* #grade-select input {
@@ -164,7 +148,7 @@ main h3 {
   display: grid;
   grid-template-columns: 1fr;
   align-items: start;
-  grid-gap: 3rem;
+  grid-gap: 2rem;
   /* margin-top: 3rem; */
 }
 
@@ -625,11 +609,11 @@ body.add-to-order-open #add-to-order-overlay {
   font-weight: 900;
 }
 
-#wholesale-price {
+.wholesale-price {
   display: none;
 }
 
-#retail-price {
+.retail-price {
   display: block;
 }
 
@@ -638,10 +622,10 @@ body.add-to-order-open #add-to-order-overlay {
   text-transform: uppercase;
 } */
 
-body.loggedIn #wholesale-price {
+body.loggedIn .wholesale-price {
   display: block;
 }
-body.loggedIn #retail-price {
+body.loggedIn .retail-price {
   display: none;
 }
 
@@ -775,7 +759,7 @@ body.loggedIn #retail-price {
   padding: 0.3rem 0.6rem;
 } */
 
-#add-product {
+.add-product {
   border-color: var(--primary-text);
 }
 
@@ -967,8 +951,7 @@ details b {
   max-width: max-content;
 }
 
-#more-links-overlay,
-#features-overlay {
+#more-links-overlay {
   opacity: 0;
   visibility: hidden;
   z-index: -1;
@@ -988,8 +971,7 @@ details b {
   overflow-y: auto;
 }
 
-#more-links-inner,
-#features-inner {
+#more-links-inner {
   height: 100%;
   display: grid;
   /* grid-template-rows: 1fr auto auto; */
@@ -1001,40 +983,44 @@ details b {
   grid-template-rows: auto 1fr;
 }
 
-#close-more-links,
-#close-features {
+#close-more-links {
   cursor: pointer;
   border-color: var(--primary-text);
   align-self: center;
   justify-self: end;
 }
 
-#open-more-links,
-#open-features {
+#open-more-links {
   border-color: var(--primary-text);
   max-width: max-content;
 }
 
+.add-to-order-div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  align-content: center;
+}
+
 @media (hover: hover) and (pointer: fine) {
-  input#add-product:hover,
+  div#grade-select button:hover,
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
   button#open-more-links:hover,
-  button#open-features:hover,
-  #close-more-links:hover,
-  #close-features:hover {
+  #close-more-links:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
-  #add-product:hover:disabled {
+  /* .add-product:hover:disabled {
     background: none;
     color: var(--primary-text);
   }
 
-  #add-product:hover:enabled {
+  .add-product:hover:enabled {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
+  } */
 
   .tree-content a:hover {
     color: var(--primary-text);
@@ -1045,10 +1031,10 @@ details b {
     cursor: pointer;
   }
 
-  #heading-buttons a:hover {
+  /* #heading-buttons a:hover {
     color: var(--secondary-background);
     background: var(--primary-text);
-  }
+  } */
 
   /* #close-add-to-order:hover {
     background: var(--primary-text);
@@ -1058,11 +1044,15 @@ details b {
     background: var(--primary-text);
     color: var(--secondary-background);
   } */
-  .selection-box:hover {
+  /* .selection-box:hover {
     cursor: pointer;
     background: var(--primary-text);
     color: var(--secondary-background);
   }
+
+  .selection-box:hover .accent-color {
+    color: var(--secondary-background);
+  } */
 }
 
 @media (min-width: 300px) {
