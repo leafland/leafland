@@ -21,7 +21,7 @@
       "form": ""
     },
     "url": "abies-concolor",
-    "mainImage": "abies-concolor-white-fir/abies-concolor-white-fir.jpeg",
+    "mainImage": "abies-concolor/abies-concolor.jpeg",
     "description": "Forms a tall, pyramidal tree with blue-grey needles. A slow grower that thrives in areas with long winters and cool summers. When established, will tolerate dry soils and some drought, but grows best in moist, well-drained soils. Does not grow well in heavy clay soils or constantly wet soils. Ideal in containers or as a bonsai subject. Great as a Christmas tree.",
     "uses": "",
     "tolerates": "light-frosts, heavy-frosts, windy, drought",
@@ -60,20 +60,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/abies-concolor-white-fir/abies-concolor-white-fir-by-houses.jpg",
-        "alt": "abies concolor white fir by houses"
+        "src": "images/trees/abies-concolor/abies-concolor-by-houses.jpg",
+        "alt": "abies concolor by houses"
       },
       {
-        "src": "images/trees/abies-concolor-white-fir/abies-concolor-white-fir-mature.jpg",
-        "alt": "abies concolor white fir mature"
+        "src": "images/trees/abies-concolor/abies-concolor-mature.jpg",
+        "alt": "abies concolor mature"
       },
       {
-        "src": "images/trees/abies-concolor-white-fir/abies-concolor-white-fir-needles-cones.jpg",
-        "alt": "abies concolor white fir needles cones"
+        "src": "images/trees/abies-concolor/abies-concolor-needles-cones.jpg",
+        "alt": "abies concolor needles cones"
       },
       {
-        "src": "images/trees/abies-concolor-white-fir/abies-concolor-white-fir-needles.jpg",
-        "alt": "abies concolor white fir needles"
+        "src": "images/trees/abies-concolor/abies-concolor-needles.jpg",
+        "alt": "abies concolor needles"
       }
     ],
     "links": [
