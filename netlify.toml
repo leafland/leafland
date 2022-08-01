@@ -3205,7 +3205,13 @@
     force = true
     from = "/trees/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma/"
     status = 301
-    to = "/trees/coprosma-grandifolia/"
+    to = "/trees/coprosma-autumnalis/"
+
+[[redirects]]
+    force = true
+    from = "/trees/coprosma-grandifolia/"
+    status = 301
+    to = "/trees/coprosma-autumnalis/"
 
 
 [[redirects]]

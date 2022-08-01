@@ -23727,6 +23727,87 @@
   {
     "family": "Rubiaceae",
     "genus": "Coprosma",
+    "species": "autumnalis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [
+      {
+        "genus": "Coprosma",
+        "species": "grandifolia",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": ""
+      }
+    ],
+    "commonName": "Kanono",
+    "otherCommonNames": "Raurēkau, Large-leaved Coprosma",
+    "nameBreakdown": {
+      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs. <a href='https://en.wikipedia.org/wiki/Rubiaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rubiaceae</i></a>.",
+      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus. A genus of flowering plants native to New Zealand, the Hawaiian Islands, Borneo, Java, New Guinea, islands of the Pacific Ocean to Australia, and the Juan Fernández Islands. <a href='https://en.wikipedia.org/wiki/Coprosma' target='_blank' rel='noopener noreferrer'>Learn more about <i>Coprosma</i></a>.",
+      "species": "<i>autumnālis</i> (Latin, adjective), meaning 'autumnal, of or relating to autumn', in reference to this species' autumn flowering. <a href='https://en.wikipedia.org/wiki/Coprosma_autumnalis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Coprosma autumnalis</i></a>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "coprosma-autumnalis",
+    "mainImage": "coprosma-autumnalis/coprosma-autumnalis.jpeg",
+    "description": "Has attractive, yellow-green leaves that are mottled with dark-green and purple. New growth is quite purple. Birds adore the orange berries produced between mid-spring and mid-summer. Best in a sheltered site with cool soils and regular moisture. A great option for bush restoration. Small, white flowers in autumn.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "white",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "yellow, green, purple",
+      "autumn": "yellow, green, purple",
+      "winter": "yellow, green, purple",
+      "spring": "purple"
+    },
+    "fruit": {
+      "summer": "orange",
+      "autumn": "",
+      "winter": "",
+      "spring": "orange"
+    },
+    "treeShape": "images/icons/tree-shapes/coprosma/coprosma-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/coprosma-autumnalis/coprosma-autumnalis-new-growth.jpeg",
+        "alt": "coprosma autumnalis new growth"
+      },
+      {
+        "src": "images/trees/coprosma-autumnalis/coprosma-autumnalis-orange-berries.jpg",
+        "alt": "coprosma autumnalis orange berries"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Rubiaceae",
+    "genus": "Coprosma",
     "species": "brockii",
     "hybrid": "",
     "subspecies": "",
@@ -23791,77 +23872,6 @@
       {
         "src": "images/trees/coprosma-brockii-taupata/coprosma-brockii-taupata-leaves.jpg",
         "alt": "coprosma brockii taupata leaves"
-      }
-    ],
-    "links": []
-  },
-  {
-    "family": "Rubiaceae",
-    "genus": "Coprosma",
-    "species": "grandifolia",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "",
-    "synonyms": [],
-    "commonName": "Kanono",
-    "otherCommonNames": "Raurēkau, Large-leaved Coprosma",
-    "nameBreakdown": {
-      "family": "coffee, madder, or bedstraw family, a family of flowering trees, shrubs, lianas, and herbs. <a href='https://en.wikipedia.org/wiki/Rubiaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rubiaceae</i></a>.",
-      "genus": "<i>coprosma</i>, derived from the Greek nouns κόπρος (<i>kópros</i>, 'dung') and ὀσμή (<i>osmḗ</i>, 'odour, stench, stink, smell'), in reference to the putrid smell (methanethiol) given out by the crushed leaves of several species in this genus. A genus of flowering plants native to New Zealand, the Hawaiian Islands, Borneo, Java, New Guinea, islands of the Pacific Ocean to Australia, and the Juan Fernández Islands. <a href='https://en.wikipedia.org/wiki/Coprosma' target='_blank' rel='noopener noreferrer'>Learn more about <i>Coprosma</i></a>.",
-      "species": "<i>grandifolia</i> (Latin, adjective), derived from the Latin adjective <i>grandis</i> (large) and noun <i>folium</i> (leaf), meaning 'large-leaved', in reference to the large leaves of this species.",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "coprosma-grandifolia",
-    "mainImage": "coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma.jpeg",
-    "description": "Has attractive, yellow-green leaves that are mottled with dark-green and purple. New growth is quite purple. Birds adore the orange berries produced between mid-spring and mid-summer. Best in a sheltered site with cool soils and regular moisture. A great option for bush restoration. Small, white flowers in autumn.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "native",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "white",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "yellow, green, purple",
-      "autumn": "yellow, green, purple",
-      "winter": "yellow, green, purple",
-      "spring": "purple"
-    },
-    "fruit": {
-      "summer": "orange",
-      "autumn": "",
-      "winter": "",
-      "spring": "orange"
-    },
-    "treeShape": "images/icons/tree-shapes/coprosma/coprosma-general.svg",
-    "relatedTrees": "",
-    "images": [
-      {
-        "src": "images/trees/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma-new-growth.jpeg",
-        "alt": "coprosma grandifolia kanono raurekau large leaved coprosma new growth"
-      },
-      {
-        "src": "images/trees/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma/coprosma-grandifolia-kanono-raurekau-large-leaved-coprosma-orange-berries.jpg",
-        "alt": "coprosma grandifolia kanono raurekau large leaved coprosma orange berries"
       }
     ],
     "links": []
