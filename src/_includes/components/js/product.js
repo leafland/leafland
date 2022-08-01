@@ -1,5 +1,4 @@
 let colorSection = document.querySelector("#color-section");
-let successMessage = document.querySelector("#success-message");
 let gradeSizeSelect = document.querySelector("#grade-size-select");
 let heightSelect = document.querySelector("#height-select");
 let standardHeightSelect = document.querySelector("#standard-height-select");
@@ -480,21 +479,23 @@ async function createStockValues() {
 
             if (maximumQuantityReached) {
               document.querySelector(
-                "#success-message-text"
+                "#top-bar-inner"
               ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
               maximumQuantityReached = false;
             } else {
               document.querySelector(
-                "#success-message-text"
+                "#top-bar-inner"
               ).innerHTML = `${gradeInput.value}<span class="lowercase">x</span> ${gradeButton.dataset.grade} ${treeBotanicalName.innerHTML} added to order.`;
             }
 
-            successMessage.style.setProperty("opacity", "1");
-            successMessage.style.setProperty("visibility", "visible");
+            document
+              .querySelector("#top-bar")
+              .style.setProperty("display", "block");
 
             setTimeout(() => {
-              successMessage.style.setProperty("opacity", "0");
-              successMessage.style.setProperty("visibility", "hidden");
+              document
+                .querySelector("#top-bar")
+                .style.setProperty("display", "none");
             }, 4000);
           });
 

@@ -18,6 +18,19 @@ main h3 {
   justify-self: center;
 }
 
+#top-bar {
+  padding: 1rem;
+  text-align: center;
+  background: var(--primary-text);
+  color: var(--secondary-background);
+  font-weight: 700;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
 .tree-botanical-name {
   font-size: var(--font-size-7);
   font-weight: 900;
@@ -53,27 +66,6 @@ main h3 {
   overflow-x: hidden;
   padding: 2rem;
   height: max-content;
-}
-
-#success-message {
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.5s var(--default-animation-easing);
-  /* position: fixed; */
-  /* top: 0;
-  left: 0;
-  z-index: -1; */
-  display: grid;
-  /* width: 100%; */
-}
-
-#success-message p {
-  /* background: var(--secondary-background); */
-  font-weight: 700;
-  /* padding: 1rem;
-  border-bottom: 2px solid var(--primary-text);
-  text-align: center;*/
-  font-size: var(--font-size-2);
 }
 
 #grade-select {
