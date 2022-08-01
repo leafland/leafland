@@ -334,7 +334,7 @@ async function createStockValues() {
 
           let gradeSizeValue = document.createElement("p");
           // gradeSizeValue.classList.add("selection-box");
-          gradeSizeValue.innerHTML = `Grade: <span class='accent-color'>${grades[i].grade}</span>`;
+          gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
           // gradeSizeValue.dataset.value = grades[i].grade;
           gradeSizeValue.classList.add("order-product-grade");
 
@@ -403,15 +403,15 @@ async function createStockValues() {
             standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>None</span>`;
           }
 
-          quantityValue.innerHTML = `Quantity: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].quantity}</span>`;
+          quantityValue.innerHTML = `Quantity Ready: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].quantity}</span>`;
           // quantityValue.dataset.value =
           //   grades[i].heights[j].standardHeights[k].quantity;
 
-          wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST</span>`;
+          wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span>`;
           // wholesalePriceValue.dataset.value =
           //   grades[i].heights[j].standardHeights[k].wholesalePrice;
 
-          retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST</span>`;
+          retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
           // retailPriceValue.dataset.value =
           //   grades[i].heights[j].standardHeights[k].retailPrice;
 
@@ -1017,9 +1017,9 @@ document.querySelector("#close-more-links").addEventListener("click", () => {
   document.body.classList.remove("more-links-open");
 });
 
-document.querySelector("#open-features").addEventListener("click", () => {
-  document.body.classList.add("features-open");
-});
-document.querySelector("#close-features").addEventListener("click", () => {
-  document.body.classList.remove("features-open");
-});
+// document.querySelector("#open-features").addEventListener("click", () => {
+//   document.body.classList.add("features-open");
+// });
+// document.querySelector("#close-features").addEventListener("click", () => {
+//   document.body.classList.remove("features-open");
+// });

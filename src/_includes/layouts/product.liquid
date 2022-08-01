@@ -304,7 +304,7 @@ type: product
 
                     </div>
 
-                    <button id="open-features">View Features Table</button>
+                    {% comment %} <button id="open-features">View Features Table</button> {% endcomment %}
 
                 </div>
 
@@ -1181,7 +1181,7 @@ type: product
 
                 {% comment %} <h3 id="order">Order Tree</h3> {% endcomment %}
 
-                <button id="open-stock-table">View pricing and stock numbers</button>
+                <button id="open-stock-table">View pricing and stock table</button>
 
                 <div id="grade-sizes">
 
@@ -1191,28 +1191,27 @@ type: product
 
                     <div id="grade-select">
 
-                        <div id="add-product-div">
+                        {% comment %} <div id="add-product-div">
 
-                            {% comment %} <div>
+                            <div>
                                 <input name="quantity" type="number" id="quantity" value="1" min="1" max="9999" inputmode="numeric">
                             </div>
 
-                            <button id="add-product">Add to order</button> {% endcomment %}
-                        </div>
+                            <button id="add-product">Add to order</button> 
+                        </div> {% endcomment %}
 
-                        <div id="grade-select-buttons">
 
-                            <div class="grade-select-grid-div">
-                                {% comment %} <label for="grade-size">Grade Size</label>
-                                <select name="grade-size" id="grade-size-select">
 
-                                    <option selected disabled hidden>Select grade</option>
-                                
-                                </select> {% endcomment %}
+                            {% comment %} <label for="grade-size">Grade Size</label>
+                            <select name="grade-size" id="grade-size-select">
 
-                                {% comment %} <p>Select a grade size</p> {% endcomment %}
-                                <div id="grade-size-selection" class="selection-grid"></div>
-                            </div>
+                                <option selected disabled hidden>Select grade</option>
+                            
+                            </select> {% endcomment %}
+
+                            {% comment %} <p>Select a grade size</p> {% endcomment %}
+                        <div id="grade-size-selection" class="selection-grid"></div>
+
 
                             {% comment %}<div class="grade-select-grid-div">
                                 <label for="height">Average height</label>
@@ -1246,7 +1245,7 @@ type: product
                                 </div>
                             </div>{% endcomment %}
 
-                        </div>
+
 
                         {% comment %} <div id="stock-values">
 

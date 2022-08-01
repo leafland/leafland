@@ -81,28 +81,10 @@ main h3 {
   /* gap: 3rem; */
 }
 
-#grade-select-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 3rem;
-}
-
-.grade-select-grid-div {
-  display: grid;
-  grid-template-rows: auto 1fr;
-  gap: 1rem;
-}
-
-/* .grade-select-grid-div p {
-  text-transform: uppercase;
-  font-size: var(--font-size-3);
-  font-weight: 900;
-} */
-
 .selection-grid {
-  display: flex;
+  display: grid;
   gap: 1rem;
-  flex-wrap: wrap;
+  grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
 }
 
 .selection-box {
@@ -112,6 +94,7 @@ main h3 {
   font-weight: 700;
   display: grid;
   grid-gap: 0.5rem;
+  height: max-content;
 }
 
 .selection-box p {
@@ -144,7 +127,7 @@ main h3 {
 }
 
 #grade-select input {
-  width: max-content;
+  width: 100px;
 }
 
 /* #grade-select input {
@@ -976,8 +959,7 @@ details b {
   max-width: max-content;
 }
 
-#more-links-overlay,
-#features-overlay {
+#more-links-overlay {
   opacity: 0;
   visibility: hidden;
   z-index: -1;
@@ -997,8 +979,7 @@ details b {
   overflow-y: auto;
 }
 
-#more-links-inner,
-#features-inner {
+#more-links-inner {
   height: 100%;
   display: grid;
   /* grid-template-rows: 1fr auto auto; */
@@ -1010,16 +991,14 @@ details b {
   grid-template-rows: auto 1fr;
 }
 
-#close-more-links,
-#close-features {
+#close-more-links {
   cursor: pointer;
   border-color: var(--primary-text);
   align-self: center;
   justify-self: end;
 }
 
-#open-more-links,
-#open-features {
+#open-more-links {
   border-color: var(--primary-text);
   max-width: max-content;
 }
@@ -1029,6 +1008,7 @@ details b {
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-top: 1rem;
+  align-content: center;
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -1036,9 +1016,7 @@ details b {
   button#image-lightbox-close:hover,
   button#show-tree-information-table:hover,
   button#open-more-links:hover,
-  button#open-features:hover,
-  #close-more-links:hover,
-  #close-features:hover {
+  #close-more-links:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
   }
