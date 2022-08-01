@@ -5494,6 +5494,12 @@
     status = 301
     to = "/trees/magnolia-j-c-williams/"
 
+[[redirects]]
+    force = true
+    from = "/trees/magnolia-j.-c.-williams/"
+    status = 301
+    to = "/trees/magnolia-j-c-williams/"
+
 
 [[redirects]]
     force = true
