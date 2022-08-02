@@ -54730,7 +54730,7 @@
       "form": ""
     },
     "url": "malus-floribunda",
-    "mainImage": "malus-floribunda-japanese/malus-floribunda-japanese.jpg",
+    "mainImage": "malus-floribunda/malus-floribunda.jpg",
     "description": "Strong-growing tree which can be trained to form a horizontal canopy of arching branches. In early-spring, a mass of crimson-red buds open to white flowers with a hint of pink. Small, red crabapples develop over autumn but are soon devoured by birds.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54769,20 +54769,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-buds.jpeg",
-        "alt": "malus floribunda japanese buds"
+        "src": "images/trees/malus-floribunda/malus-floribunda-buds.jpeg",
+        "alt": "malus floribunda buds"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-flowers.jpeg",
-        "alt": "malus floribunda japanese flowers"
+        "src": "images/trees/malus-floribunda/malus-floribunda-flowers.jpeg",
+        "alt": "malus floribunda flowers"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-foliage.jpeg",
-        "alt": "malus floribunda japanese foliage"
+        "src": "images/trees/malus-floribunda/malus-floribunda-foliage.jpeg",
+        "alt": "malus floribunda foliage"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-fruit.jpg",
-        "alt": "malus floribunda japanese fruit"
+        "src": "images/trees/malus-floribunda/malus-floribunda-fruit.jpg",
+        "alt": "malus floribunda fruit"
       }
     ],
     "links": []
@@ -54899,7 +54899,7 @@
       "form": ""
     },
     "url": "malus-ioensis-plena",
-    "mainImage": "malus-ioensis-plena-prairie/malus-ioensis-plena-prairie.jpg",
+    "mainImage": "malus-ioensis-plena/malus-ioensis-plena.jpg",
     "description": "Vase-shaped tree. In late-spring, a profusion of large, pink-white, semi-double flowers appear from pink buds. Lovely yellow, orange, and red autumn leaves. Hardly produces any fruit. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "",
@@ -54938,24 +54938,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flower-bud.jpg",
-        "alt": "malus ioensis plena prairie flower bud"
+        "src": "images/trees/malus-ioensis-plena/malus-ioensis-plena-flower-bud.jpg",
+        "alt": "malus ioensis plena flower bud"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flower.jpg",
-        "alt": "malus ioensis plena prairie flower"
+        "src": "images/trees/malus-ioensis-plena/malus-ioensis-plena-flower.jpg",
+        "alt": "malus ioensis plena flower"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flowering.jpg",
-        "alt": "malus ioensis plena prairie flowering"
+        "src": "images/trees/malus-ioensis-plena/malus-ioensis-plena-flowering.jpg",
+        "alt": "malus ioensis plena flowering"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flowers.jpg",
-        "alt": "malus ioensis plena prairie flowers"
+        "src": "images/trees/malus-ioensis-plena/malus-ioensis-plena-flowers.jpg",
+        "alt": "malus ioensis plena flowers"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-garden.jpg",
-        "alt": "malus ioensis plena prairie garden"
+        "src": "images/trees/malus-ioensis-plena/malus-ioensis-plena-garden.jpg",
+        "alt": "malus ioensis plena garden"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -55836,7 +55836,7 @@
       "form": ""
     },
     "url": "malus-tschonoskii",
-    "mainImage": "malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar.jpg",
+    "mainImage": "malus-tschonoskii/malus-tschonoskii.jpg",
     "description": "Beautiful, pyramidal grower with silver-white, felted spring leaves. Bright-green leaves through summer, felted white underneath. A glorious show in autumn with orange, red, and purple leaves. White flowers in spring. Hardly produces fruit. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees",
     "tolerates": "",
@@ -55875,24 +55875,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-autumn.jpg",
-        "alt": "malus tschonoskii chonosuki pillar autumn"
+        "src": "images/trees/malus-tschonoskii/malus-tschonoskii-autumn.jpg",
+        "alt": "malus tschonoskii autumn"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-flowers.jpg",
-        "alt": "malus tschonoskii chonosuki pillar flowers"
+        "src": "images/trees/malus-tschonoskii/malus-tschonoskii-flowers.jpg",
+        "alt": "malus tschonoskii flowers"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-foliage.jpg",
-        "alt": "malus tschonoskii chonosuki pillar foliage"
+        "src": "images/trees/malus-tschonoskii/malus-tschonoskii-foliage.jpg",
+        "alt": "malus tschonoskii foliage"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-fruit.jpg",
-        "alt": "malus tschonoskii chonosuki pillar fruit"
+        "src": "images/trees/malus-tschonoskii/malus-tschonoskii-fruit.jpg",
+        "alt": "malus tschonoskii fruit"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-park.jpg",
-        "alt": "malus tschonoskii chonosuki pillar park"
+        "src": "images/trees/malus-tschonoskii/malus-tschonoskii-park.jpg",
+        "alt": "malus tschonoskii park"
       }
     ],
     "links": []
