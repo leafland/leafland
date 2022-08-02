@@ -38158,7 +38158,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper -gold-foliage.jpg",
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-gold-foliage.jpg",
         "alt": "ginkgo biloba little weeper gold foliage"
       },
       {
@@ -59330,7 +59330,7 @@
       "form": ""
     },
     "url": "morus-alba-pendula",
-    "mainImage": "morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry.jpg",
+    "mainImage": "morus-alba-pendula/morus-alba-pendula.jpg",
     "description": "Spectacular tree with large, glossy-green leaves. Through summer, bears sweet, oval, white fruit ripening to deep-pink, dark-red, or purple-black. Yellow autumn leaves. Self-fertile.",
     "uses": "",
     "tolerates": "",
@@ -59369,32 +59369,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-city-park.jpg",
-        "alt": "morus alba pendula white mulberry city park"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-city-park.jpg",
+        "alt": "morus alba pendula city park"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-foliage.jpg",
-        "alt": "morus alba pendula white mulberry foliage"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-foliage.jpg",
+        "alt": "morus alba pendula foliage"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-garden.jpg",
-        "alt": "morus alba pendula white mulberry garden"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-garden.jpg",
+        "alt": "morus alba pendula garden"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-park.jpg",
-        "alt": "morus alba pendula white mulberry park"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-park.jpg",
+        "alt": "morus alba pendula park"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-ripe-fruit.jpg",
-        "alt": "morus alba pendula white mulberry ripe fruit"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-ripe-fruit.jpg",
+        "alt": "morus alba pendula ripe fruit"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-white-fruit.jpg",
-        "alt": "morus alba pendula white mulberry white fruit"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-white-fruit.jpg",
+        "alt": "morus alba pendula white fruit"
       },
       {
-        "src": "images/trees/morus-alba-pendula-white-mulberry/morus-alba-pendula-white-mulberry-winter.jpg",
-        "alt": "morus alba pendula white mulberry winter"
+        "src": "images/trees/morus-alba-pendula/morus-alba-pendula-winter.jpg",
+        "alt": "morus alba pendula winter"
       }
     ],
     "links": []
@@ -59421,7 +59421,7 @@
       "form": ""
     },
     "url": "morus-nigra",
-    "mainImage": "morus-nigra-black-mulberry/morus-nigra-black-mulberry.jpg",
+    "mainImage": "morus-nigra/morus-nigra.jpg",
     "description": "A spreading tree. Thick, dark-green foliage. Yellow autumn leaves. Ripe fruit in summer are red to purple-black and will fall easily from the tree. Self-fertile.",
     "uses": "",
     "tolerates": "windy",
@@ -59460,16 +59460,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/morus-nigra-black-mulberry/morus-nigra-black-mulberry-fruit.jpg",
-        "alt": "morus nigra black mulberry fruit"
+        "src": "images/trees/morus-nigra/morus-nigra-fruit.jpg",
+        "alt": "morus nigra fruit"
       },
       {
-        "src": "images/trees/morus-nigra-black-mulberry/morus-nigra-black-mulberry-hedge.jpg",
-        "alt": "morus nigra black mulberry hedge"
+        "src": "images/trees/morus-nigra/morus-nigra-hedge.jpg",
+        "alt": "morus nigra hedge"
       },
       {
-        "src": "images/trees/morus-nigra-black-mulberry/morus-nigra-black-mulberry-park.jpg",
-        "alt": "morus nigra black mulberry park"
+        "src": "images/trees/morus-nigra/morus-nigra-park.jpg",
+        "alt": "morus nigra park"
       }
     ],
     "links": []
@@ -59496,7 +59496,7 @@
       "form": ""
     },
     "url": "muehlenbeckia-astonii",
-    "mainImage": "muehlenbeckia-astonii-tororaro-pohuehue/muehlenbeckia-astonii-tororaro-pohuehue.jpg",
+    "mainImage": "muehlenbeckia-astonii/muehlenbeckia-astonii.jpg",
     "description": "A dense, upright grower with a tangle of interlacing red-brown branches and divaricating stems. Small, heart-shaped, green leaves. Very tough and hardy. Excellent as a filler, for island beds, and for covering old tree stumps.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -59535,8 +59535,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/muehlenbeckia-astonii-tororaro-pohuehue/muehlenbeckia-astonii-tororaro-pohuehue-foliage.jpg",
-        "alt": "muehlenbeckia astonii tororaro pohuehue foliage"
+        "src": "images/trees/muehlenbeckia-astonii/muehlenbeckia-astonii-foliage.jpg",
+        "alt": "muehlenbeckia astonii foliage"
       }
     ],
     "links": []
@@ -59563,7 +59563,7 @@
       "form": ""
     },
     "url": "myoporum-laetum",
-    "mainImage": "myoporum-laetum-ngaio-mousehole-tree/myoporum-laetum-ngaio-mousehole-tree.jpg",
+    "mainImage": "myoporum-laetum/myoporum-laetum.jpg",
     "description": "A rapid grower with bright-green, fleshy leaves. Drought and coastal hardy, effectively controlling sound, wind, sun, and blowing sand. Can grow as a screen or canopy shade tree. The leaves are toxic to livestock.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy, drought",
@@ -59602,8 +59602,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/myoporum-laetum-ngaio-mousehole-tree/myoporum-laetum-ngaio-mousehole-tree-foliage.jpg",
-        "alt": "myoporum laetum ngaio mousehole tree foliage"
+        "src": "images/trees/myoporum-laetum/myoporum-laetum-foliage.jpg",
+        "alt": "myoporum laetum foliage"
       }
     ],
     "links": []
@@ -59630,7 +59630,7 @@
       "form": ""
     },
     "url": "myrsine-australis",
-    "mainImage": "myrsine-australis-mapou-matipou/myrsine-australis-mapou-matipou.jpg",
+    "mainImage": "myrsine-australis/myrsine-australis.jpg",
     "description": "A compact grower with yellow-green to dark-green leaves mottled with red. New stems are red. Wind tolerant. Grows in sun or semi-shade. Makes a superb, dense hedge. Can be easily trimmed into any shape or form. Small, purple-black fruit in autumn. Small, white flowers from mid-summer to early-autumn.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "windy, light-frosts",
@@ -59669,12 +59669,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/myrsine-australis-mapou-matipou/myrsine-australis-mapou-matipou-foliage.jpg",
-        "alt": "myrsine australis mapou matipou foliage"
+        "src": "images/trees/myrsine-australis/myrsine-australis-foliage.jpg",
+        "alt": "myrsine australis foliage"
       },
       {
-        "src": "images/trees/myrsine-australis-mapou-matipou/myrsine-australis-mapou-matipou-new-growth.jpeg",
-        "alt": "myrsine australis mapou matipou new growth"
+        "src": "images/trees/myrsine-australis/myrsine-australis-new-growth.jpeg",
+        "alt": "myrsine australis new growth"
       }
     ],
     "links": []
@@ -59701,7 +59701,7 @@
       "form": ""
     },
     "url": "myrsine-salicina",
-    "mainImage": "myrsine-salicina-toro/myrsine-salicina-toro.jpg",
+    "mainImage": "myrsine-salicina/myrsine-salicina.jpg",
     "description": "Slender, erect-growing tree with leathery, glossy, long, narrow leaves. New leaves often have a pink-red tinge. Grows in sun or shade. Tolerates both moist and dry positions. Cream-pink flowers in spring. Red-orange berries in autumn are relished by birds. Superb container plant.",
     "uses": "",
     "tolerates": "",
@@ -59740,8 +59740,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/myrsine-salicina-toro/myrsine-salicina-toro-foliage.jpg",
-        "alt": "myrsine salicina toro foliage"
+        "src": "images/trees/myrsine-salicina/myrsine-salicina-foliage.jpg",
+        "alt": "myrsine salicina foliage"
       }
     ],
     "links": []
@@ -59768,7 +59768,7 @@
       "form": ""
     },
     "url": "nandina-domestica-fire-power",
-    "mainImage": "nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo.jpg",
+    "mainImage": "nandina-domestica-fire-power/nandina-domestica-fire-power.jpg",
     "description": "A bushy, compact grower with year-round foliage interest. Green-yellow leaves in spring and summer, with great red-orange tones throughout winter. Effective as a small hedge or in planters. Hardy.",
     "uses": "hedging-and-screening, small-garden",
     "tolerates": "",
@@ -59807,8 +59807,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo/nandina-domestica-fire-power-nandina-heavenly-bamboo-sacred-bamboo-foliage.jpg",
-        "alt": "nandina domestica fire power nandina heavenly bamboo sacred bamboo foliage"
+        "src": "images/trees/nandina-domestica-fire-power/nandina-domestica-fire-power-foliage.jpg",
+        "alt": "nandina domestica fire power foliage"
       }
     ],
     "links": []
@@ -59835,7 +59835,7 @@
       "form": ""
     },
     "url": "nerium-oleander-madonna",
-    "mainImage": "nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander.jpg",
+    "mainImage": "nerium-oleander-madonna/nerium-oleander-madonna.jpg",
     "description": "Produces clusters of beautiful, semi-double, white flowers in summer. Hardy to drought and will tolerate light-frosts. Great for hedging. All parts of this plant are toxic to animals and humans, although due to the bitter taste, poisoning is rare.",
     "uses": "hedging-and-screening",
     "tolerates": "drought, light-frosts, windy",
@@ -59874,20 +59874,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-flowering.jpg",
-        "alt": "nerium oleander madonna oleander flowering"
+        "src": "images/trees/nerium-oleander-madonna/nerium-oleander-madonna-flowering.jpg",
+        "alt": "nerium oleander madonna flowering"
       },
       {
-        "src": "images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-flowers.jpg",
-        "alt": "nerium oleander madonna oleander flowers"
+        "src": "images/trees/nerium-oleander-madonna/nerium-oleander-madonna-flowers.jpg",
+        "alt": "nerium oleander madonna flowers"
       },
       {
-        "src": "images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-hedge.jpg",
-        "alt": "nerium oleander madonna oleander hedge"
+        "src": "images/trees/nerium-oleander-madonna/nerium-oleander-madonna-hedge.jpg",
+        "alt": "nerium oleander madonna hedge"
       },
       {
-        "src": "images/trees/nerium-oleander-madonna-oleander/nerium-oleander-madonna-oleander-new-flowers.jpg",
-        "alt": "nerium oleander madonna oleander new flowers"
+        "src": "images/trees/nerium-oleander-madonna/nerium-oleander-madonna-new-flowers.jpg",
+        "alt": "nerium oleander madonna new flowers"
       }
     ],
     "links": []
@@ -59914,7 +59914,7 @@
       "form": ""
     },
     "url": "nestegis-cunninghamii",
-    "mainImage": "nestegis-cunninghamii-maire-black-maire/nestegis-cunninghamii-maire-black-maire.jpg",
+    "mainImage": "nestegis-cunninghamii/nestegis-cunninghamii.jpg",
     "description": "Develops a thick, straight trunk with coarse, corky bark. Long, leathery, dark-green leaves on a dense-headed tree. Produces bunches of bright-red berries in mid-spring. Considered the best firewood among our native timbers.",
     "uses": "attracts-birds",
     "tolerates": "coastal, windy",
@@ -59976,7 +59976,7 @@
       "form": ""
     },
     "url": "nestegis-montana",
-    "mainImage": "nestegis-montana-rororo-maire-rororo/nestegis-montana-rororo-maire-rororo.jpg",
+    "mainImage": "nestegis-montana/nestegis-montana.jpg",
     "description": "Attractive tree with smooth, narrow, dark-green leaves similar to that of a willow. Upright growth habit with a rounded crown. Produces red berries in mid-summer that are adored by birds. Prefers more sheltered growing conditions.",
     "uses": "attracts-birds",
     "tolerates": "",
@@ -60015,12 +60015,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nestegis-montana-rororo-maire-rororo/nestegis-montana-rororo-maire-rororo-foliage.jpeg",
-        "alt": "nestegis montana rororo maire rororo foliage"
+        "src": "images/trees/nestegis-montana/nestegis-montana-foliage.jpeg",
+        "alt": "nestegis montana foliage"
       },
       {
-        "src": "images/trees/nestegis-montana-rororo-maire-rororo/nestegis-montana-rororo-maire-rororo-new-foliage.jpeg",
-        "alt": "nestegis montana rororo maire rororo new foliage"
+        "src": "images/trees/nestegis-montana/nestegis-montana-new-foliage.jpeg",
+        "alt": "nestegis montana new foliage"
       }
     ],
     "links": []
@@ -60047,7 +60047,7 @@
       "form": ""
     },
     "url": "nyssa-sinensis",
-    "mainImage": "nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo.jpg",
+    "mainImage": "nyssa-sinensis/nyssa-sinensis.jpg",
     "description": "Has wider-spreading branches than Nyssa sylvatica. Smooth, large leaves which turn vibrant shades of orange, yellow, and red in autumn, even in mild climates. Tolerant of wet and poor-draining soils.",
     "uses": "street",
     "tolerates": "",
@@ -60086,24 +60086,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo-autumn-foliage.jpg",
-        "alt": "nyssa sinensis chinese tupelo autumn foliage"
+        "src": "images/trees/nyssa-sinensis/nyssa-sinensis-autumn-foliage.jpg",
+        "alt": "nyssa sinensis autumn foliage"
       },
       {
-        "src": "images/trees/nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo-autumn-leaves.jpg",
-        "alt": "nyssa sinensis chinese tupelo autumn leaves"
+        "src": "images/trees/nyssa-sinensis/nyssa-sinensis-autumn-leaves.jpg",
+        "alt": "nyssa sinensis autumn leaves"
       },
       {
-        "src": "images/trees/nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo-autumn.jpg",
-        "alt": "nyssa sinensis chinese tupelo autumn"
+        "src": "images/trees/nyssa-sinensis/nyssa-sinensis-autumn.jpg",
+        "alt": "nyssa sinensis autumn"
       },
       {
-        "src": "images/trees/nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo-foliage.jpg",
-        "alt": "nyssa sinensis chinese tupelo foliage"
+        "src": "images/trees/nyssa-sinensis/nyssa-sinensis-foliage.jpg",
+        "alt": "nyssa sinensis foliage"
       },
       {
-        "src": "images/trees/nyssa-sinensis-chinese-tupelo/nyssa-sinensis-chinese-tupelo-summer.jpg",
-        "alt": "nyssa sinensis chinese tupelo summer"
+        "src": "images/trees/nyssa-sinensis/nyssa-sinensis-summer.jpg",
+        "alt": "nyssa sinensis summer"
       }
     ],
     "links": []
@@ -60130,7 +60130,7 @@
       "form": ""
     },
     "url": "nyssa-sylvatica",
-    "mainImage": "nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum.jpg",
+    "mainImage": "nyssa-sylvatica/nyssa-sylvatica.jpg",
     "description": "Pyramidal grower with broad, sweeping, semi-weeping branches. Dark-green, glossy leaves turn vibrant scarlet, orange, and yellow in autumn, even in mild climates. Tolerant of wet and poor-draining soils.",
     "uses": "street, paddocks, shade",
     "tolerates": "",
@@ -60169,72 +60169,72 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-branching.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn branching"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-branching.jpg",
+        "alt": "nyssa sylvatica autumn branching"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-colour-canopy.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn colour canopy"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-colour-canopy.jpg",
+        "alt": "nyssa sylvatica autumn colour canopy"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-colours.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn colours"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-colours.jpg",
+        "alt": "nyssa sylvatica autumn colours"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-field.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn field"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-field.jpg",
+        "alt": "nyssa sylvatica autumn field"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-form.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn form"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-form.jpg",
+        "alt": "nyssa sylvatica autumn form"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-lake.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn lake"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-lake.jpg",
+        "alt": "nyssa sylvatica autumn lake"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-leaf.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn leaf"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-leaf.jpg",
+        "alt": "nyssa sylvatica autumn leaf"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-leaves.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn leaves"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-leaves.jpg",
+        "alt": "nyssa sylvatica autumn leaves"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-park.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn park"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-park.jpg",
+        "alt": "nyssa sylvatica autumn park"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-pond.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn pond"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-pond.jpg",
+        "alt": "nyssa sylvatica autumn pond"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-road.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn road"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-road.jpg",
+        "alt": "nyssa sylvatica autumn road"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-time.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn time"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-time.jpg",
+        "alt": "nyssa sylvatica autumn time"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumn-young.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumn young"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumn-young.jpg",
+        "alt": "nyssa sylvatica autumn young"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-autumntime.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum autumntime"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-autumntime.jpg",
+        "alt": "nyssa sylvatica autumntime"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-summer-foliage.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum summer foliage"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-summer-foliage.jpg",
+        "alt": "nyssa sylvatica summer foliage"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-summer-form.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum summer form"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-summer-form.jpg",
+        "alt": "nyssa sylvatica summer form"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-black-tupelo-black-gum/nyssa-sylvatica-black-tupelo-black-gum-young.jpg",
-        "alt": "nyssa sylvatica black tupelo black gum young"
+        "src": "images/trees/nyssa-sylvatica/nyssa-sylvatica-young.jpg",
+        "alt": "nyssa sylvatica young"
       }
     ],
     "links": []
@@ -60261,7 +60261,7 @@
       "form": ""
     },
     "url": "nyssa-sylvatica-autumn-cascade",
-    "mainImage": "nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum.jpg",
+    "mainImage": "nyssa-sylvatica-autumn-cascade/nyssa-sylvatica-autumn-cascade.jpg",
     "description": "Pyramidal grower with wide-spreading branches that cascade to the ground. Spectacular autumn leaves of vivid-scarlet, orange, and yellow. Tolerant of wet and poor-draining soils.",
     "uses": "",
     "tolerates": "",
@@ -60300,20 +60300,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum-autumn-foliage.jpg",
-        "alt": "nyssa sylvatica autumn cascade black tupelo black gum autumn foliage"
+        "src": "images/trees/nyssa-sylvatica-autumn-cascade/nyssa-sylvatica-autumn-cascade-autumn-foliage.jpg",
+        "alt": "nyssa sylvatica autumn cascade autumn foliage"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum-garden.jpg",
-        "alt": "nyssa sylvatica autumn cascade black tupelo black gum garden"
+        "src": "images/trees/nyssa-sylvatica-autumn-cascade/nyssa-sylvatica-autumn-cascade-garden.jpg",
+        "alt": "nyssa sylvatica autumn cascade garden"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum-summer.jpg",
-        "alt": "nyssa sylvatica autumn cascade black tupelo black gum summer"
+        "src": "images/trees/nyssa-sylvatica-autumn-cascade/nyssa-sylvatica-autumn-cascade-summer.jpg",
+        "alt": "nyssa sylvatica autumn cascade summer"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum/nyssa-sylvatica-autumn-cascade-black-tupelo-black-gum-young-tree.jpg",
-        "alt": "nyssa sylvatica autumn cascade black tupelo black gum young tree"
+        "src": "images/trees/nyssa-sylvatica-autumn-cascade/nyssa-sylvatica-autumn-cascade-young-tree.jpg",
+        "alt": "nyssa sylvatica autumn cascade young tree"
       }
     ],
     "links": []
@@ -60340,7 +60340,7 @@
       "form": ""
     },
     "url": "nyssa-sylvatica-sheffield-park",
-    "mainImage": "nyssa-sylvatica-sheffield-park-black-tupelo-black-gum/nyssa-sylvatica-sheffield-park-black-tupelo-black-gum.jpg",
+    "mainImage": "nyssa-sylvatica-sheffield-park/nyssa-sylvatica-sheffield-park.jpg",
     "description": "An upright grower with dark-green, glossy leaves. The autumn colours change two weeks earlier than other varieties. Stunning autumn colours of orange, yellow, and red. Tolerant of wet and poor-draining soils.",
     "uses": "",
     "tolerates": "",
@@ -60379,8 +60379,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nyssa-sylvatica-sheffield-park-black-tupelo-black-gum/nyssa-sylvatica-sheffield-park-black-tupelo-black-gum-autumn-foliage.jpg",
-        "alt": "nyssa sylvatica sheffield park black tupelo black gum autumn foliage"
+        "src": "images/trees/nyssa-sylvatica-sheffield-park/nyssa-sylvatica-sheffield-park-autumn-foliage.jpg",
+        "alt": "nyssa sylvatica sheffield park autumn foliage"
       }
     ],
     "links": []
@@ -60417,7 +60417,7 @@
       "form": ""
     },
     "url": "nyssa-sylvatica-var-biflora",
-    "mainImage": "nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo.jpg",
+    "mainImage": "nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora.jpg",
     "description": "Naturally grows in wet, heavy, clay soils. Pyramidal growth habit with long, narrow leaves. Beautiful autumn tones of red, yellow, and orange.",
     "uses": "",
     "tolerates": "",
@@ -60456,28 +60456,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-autumn-foliage.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo autumn foliage"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-autumn-foliage.jpg",
+        "alt": "nyssa sylvatica var biflora autumn foliage"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-field.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo field"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-field.jpg",
+        "alt": "nyssa sylvatica var biflora field"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-foliage.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo foliage"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-foliage.jpg",
+        "alt": "nyssa sylvatica var biflora foliage"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-swamp.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo swamp"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-swamp.jpg",
+        "alt": "nyssa sylvatica var biflora swamp"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-water.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo water"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-water.jpg",
+        "alt": "nyssa sylvatica var biflora water"
       },
       {
-        "src": "images/trees/nyssa-sylvatica-var-biflora-swamp-tupelo/nyssa-sylvatica-var-biflora-swamp-tupelo-young.jpg",
-        "alt": "nyssa sylvatica var biflora swamp tupelo young"
+        "src": "images/trees/nyssa-sylvatica-var-biflora/nyssa-sylvatica-var-biflora-young.jpg",
+        "alt": "nyssa sylvatica var biflora young"
       }
     ],
     "links": []
@@ -60504,7 +60504,7 @@
       "form": ""
     },
     "url": "olea-europaea-ascolano",
-    "mainImage": "olea-europaea-ascolano-olive/olea-europaea-ascolano-olive.jpg",
+    "mainImage": "olea-europaea-ascolano/olea-europaea-ascolano.jpg",
     "description": "Dual-purpose selection from Italy with large fruit that have small pits. Excellent for table fruit as olives are quite large. Excellent for hedges, screens, lining avenues, and driveways. Frost tolerant. Partially self-fertile, but best crops when planted with <a href='/trees/olea-europaea-frantoio/'><i>Olea europaea</i> 'Frantoio'</a> or <a href='/trees/olea-europaea-leccino/'><i>Olea europaea</i> 'Leccino'</a>. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -60543,20 +60543,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-foliage.jpeg",
-        "alt": "olea europaea ascolano olive foliage"
+        "src": "images/trees/olea-europaea-ascolano/olea-europaea-ascolano-foliage.jpeg",
+        "alt": "olea europaea ascolano foliage"
       },
       {
-        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-fruit.jpeg",
-        "alt": "olea europaea ascolano olive fruit"
+        "src": "images/trees/olea-europaea-ascolano/olea-europaea-ascolano-fruit.jpeg",
+        "alt": "olea europaea ascolano fruit"
       },
       {
-        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-grove.jpg",
-        "alt": "olea europaea ascolano olive grove"
+        "src": "images/trees/olea-europaea-ascolano/olea-europaea-ascolano-grove.jpg",
+        "alt": "olea europaea ascolano grove"
       },
       {
-        "src": "images/trees/olea-europaea-ascolano-olive/olea-europaea-ascolano-olive-in-nursery.jpeg",
-        "alt": "olea europaea ascolano olive in nursery"
+        "src": "images/trees/olea-europaea-ascolano/olea-europaea-ascolano-in-nursery.jpeg",
+        "alt": "olea europaea ascolano in nursery"
       }
     ],
     "links": []
@@ -60583,7 +60583,7 @@
       "form": ""
     },
     "url": "olea-europaea-barnea",
-    "mainImage": "olea-europaea-barnea-olive/olea-europaea-barnea-olive.jpg",
+    "mainImage": "olea-europaea-barnea/olea-europaea-barnea.jpg",
     "description": "Vigorous, upright, fairly-narrow grower developed in Israel. High-yielding oil. Good for pickling and as table fruit. Partially self-fertile, but best crops when planted with <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/olives/picholine-/' target='_blank' rel='noopener noreferrer'><i>Olea europaea</i> 'Picholine'</a>. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -60645,7 +60645,7 @@
       "form": ""
     },
     "url": "olea-europaea-el-greco",
-    "mainImage": "olea-europaea-el-greco-olive/olea-europaea-el-greco-olive.jpg",
+    "mainImage": "olea-europaea-el-greco/olea-europaea-el-greco.jpg",
     "description": "Selection from Greece. A dense, bushy tree. Ideal for hedging, screening, and shaping. Excellent as a street tree. Great for containers. Self-fertile, but does not usually fruit well in New Zealand. White flowers in summer and has grey-green leaves.",
     "uses": "street, hedging-and-screening, pleaching",
     "tolerates": "coastal, windy",
@@ -60684,20 +60684,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-foliage.jpeg",
-        "alt": "olea europaea el greco olive foliage"
+        "src": "images/trees/olea-europaea-el-greco/olea-europaea-el-greco-foliage.jpeg",
+        "alt": "olea europaea el greco foliage"
       },
       {
-        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-fruit.jpeg",
-        "alt": "olea europaea el greco olive fruit"
+        "src": "images/trees/olea-europaea-el-greco/olea-europaea-el-greco-fruit.jpeg",
+        "alt": "olea europaea el greco fruit"
       },
       {
-        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-in-nursery.jpeg",
-        "alt": "olea europaea el greco olive in nursery"
+        "src": "images/trees/olea-europaea-el-greco/olea-europaea-el-greco-in-nursery.jpeg",
+        "alt": "olea europaea el greco in nursery"
       },
       {
-        "src": "images/trees/olea-europaea-el-greco-olive/olea-europaea-el-greco-olive-row.jpeg",
-        "alt": "olea europaea el greco olive row"
+        "src": "images/trees/olea-europaea-el-greco/olea-europaea-el-greco-row.jpeg",
+        "alt": "olea europaea el greco row"
       }
     ],
     "links": []
@@ -60724,7 +60724,7 @@
       "form": ""
     },
     "url": "olea-europaea-frantoio",
-    "mainImage": "olea-europaea-frantoio-olive/olea-europaea-frantoio-olive.jpg",
+    "mainImage": "olea-europaea-frantoio/olea-europaea-frantoio.jpg",
     "description": "Main Tuscan oil variety from Italy. Exceptionally high quality and quantity-yielding oil. Pickles well when green. Suitable for lining avenues and driveways. Frost tolerant. Self-fertile. Great variety for pollinating other olives. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening, pleaching",
     "tolerates": "coastal, windy",
@@ -60763,8 +60763,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-frantoio-olive/olea-europaea-frantoio-olive-fruit.jpeg",
-        "alt": "olea europaea frantoio olive fruit"
+        "src": "images/trees/olea-europaea-frantoio/olea-europaea-frantoio-fruit.jpeg",
+        "alt": "olea europaea frantoio fruit"
       }
     ],
     "links": []
@@ -60791,7 +60791,7 @@
       "form": ""
     },
     "url": "olea-europaea-j5",
-    "mainImage": "olea-europaea-j5-olive/olea-europaea-j5-olive.jpg",
+    "mainImage": "olea-europaea-j5/olea-europaea-j5.jpg",
     "description": "New Zealand selection. Frost tolerant. Heavy yield of olives on a large tree. Excellent for hedges, screens, lining avenues, and driveways. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -60830,16 +60830,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-foliage.jpg",
-        "alt": "olea europaea j5 olive foliage"
+        "src": "images/trees/olea-europaea-j5/olea-europaea-j5-foliage.jpg",
+        "alt": "olea europaea j5 foliage"
       },
       {
-        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-fruit.jpg",
-        "alt": "olea europaea j5 olive fruit"
+        "src": "images/trees/olea-europaea-j5/olea-europaea-j5-fruit.jpg",
+        "alt": "olea europaea j5 fruit"
       },
       {
-        "src": "images/trees/olea-europaea-j5-olive/olea-europaea-j5-olive-mature-tree.jpg",
-        "alt": "olea europaea j5 olive mature tree"
+        "src": "images/trees/olea-europaea-j5/olea-europaea-j5-mature-tree.jpg",
+        "alt": "olea europaea j5 mature tree"
       }
     ],
     "links": []
@@ -60866,7 +60866,7 @@
       "form": ""
     },
     "url": "olea-europaea-koroneiki",
-    "mainImage": "olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive.jpg",
+    "mainImage": "olea-europaea-koroneiki/olea-europaea-koroneiki.jpg",
     "description": "Selection from Greece. Bears large crops of high-yielding oil from small olives. Excellent for hedging and screening. Well suited to coastal areas. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -60905,16 +60905,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-foliage.jpeg",
-        "alt": "olea europaea koroneiki olive foliage"
+        "src": "images/trees/olea-europaea-koroneiki/olea-europaea-koroneiki-foliage.jpeg",
+        "alt": "olea europaea koroneiki foliage"
       },
       {
-        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-fruit.jpg",
-        "alt": "olea europaea koroneiki olive fruit"
+        "src": "images/trees/olea-europaea-koroneiki/olea-europaea-koroneiki-fruit.jpg",
+        "alt": "olea europaea koroneiki fruit"
       },
       {
-        "src": "images/trees/olea-europaea-koroneiki-olive/olea-europaea-koroneiki-olive-mature-tree.jpg",
-        "alt": "olea europaea koroneiki olive mature tree"
+        "src": "images/trees/olea-europaea-koroneiki/olea-europaea-koroneiki-mature-tree.jpg",
+        "alt": "olea europaea koroneiki mature tree"
       }
     ],
     "links": []
@@ -60941,7 +60941,7 @@
       "form": ""
     },
     "url": "olea-europaea-leccino",
-    "mainImage": "olea-europaea-leccino-olive/olea-europaea-leccino-olive.jpg",
+    "mainImage": "olea-europaea-leccino/olea-europaea-leccino.jpg",
     "description": "Superb Tuscan selection from Italy for oil. Especially tolerant of cold and frosts once established. Excellent for lining driveways and avenues. Partially self-fertile, but best crops when planted with <a href='/trees/olea-europaea-frantoio/'><i>Olea europaea</i> 'Frantoio'</a>. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -60980,12 +60980,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-leccino-olive/olea-europaea-leccino-olive-fruit.jpg",
-        "alt": "olea europaea leccino olive fruit"
+        "src": "images/trees/olea-europaea-leccino/olea-europaea-leccino-fruit.jpg",
+        "alt": "olea europaea leccino fruit"
       },
       {
-        "src": "images/trees/olea-europaea-leccino-olive/olea-europaea-leccino-olive-grove.jpg",
-        "alt": "olea europaea leccino olive grove"
+        "src": "images/trees/olea-europaea-leccino/olea-europaea-leccino-grove.jpg",
+        "alt": "olea europaea leccino grove"
       }
     ],
     "links": []
@@ -61012,7 +61012,7 @@
       "form": ""
     },
     "url": "olea-europaea-manzanillo",
-    "mainImage": "olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive.jpg",
+    "mainImage": "olea-europaea-manzanillo/olea-europaea-manzanillo.jpg",
     "description": "Famous Spanish dual-purpose variety. Excellent texture and great eating. One of the best pickling olives. Great for pleaching as the branches spread outwards. Not for cold areas. Partially self-fertile, but best crops when planted with <a href='/trees/olea-europaea-frantoio/'><i>Olea europaea</i> 'Frantoio'</a>. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "street, hedging-and-screening, pleaching",
     "tolerates": "coastal, windy",
@@ -61051,12 +61051,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive-fruit.jpg",
-        "alt": "olea europaea manzanillo olive fruit"
+        "src": "images/trees/olea-europaea-manzanillo/olea-europaea-manzanillo-fruit.jpg",
+        "alt": "olea europaea manzanillo fruit"
       },
       {
-        "src": "images/trees/olea-europaea-manzanillo-olive/olea-europaea-manzanillo-olive-mature-tree.jpg",
-        "alt": "olea europaea manzanillo olive mature tree"
+        "src": "images/trees/olea-europaea-manzanillo/olea-europaea-manzanillo-mature-tree.jpg",
+        "alt": "olea europaea manzanillo mature tree"
       }
     ],
     "links": []
@@ -61083,7 +61083,7 @@
       "form": ""
     },
     "url": "olea-europaea-mission",
-    "mainImage": "olea-europaea-mission-olive/olea-europaea-mission-olive.jpg",
+    "mainImage": "olea-europaea-mission/olea-europaea-mission.jpg",
     "description": "Selection from California in the USA. A vigorous, upright grower. Olives are great for oil and table eating. Frost tolerant. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -61145,7 +61145,7 @@
       "form": ""
     },
     "url": "olea-europaea-picual",
-    "mainImage": "olea-europaea-picual-olive/olea-europaea-picual-olive.jpg",
+    "mainImage": "olea-europaea-picual/olea-europaea-picual.jpg",
     "description": "Spain's top oil variety with high quality and quantity oil production. Excellent for screening, hedging, lining avenues, and driveways. Frost tolerant and tolerant of poorly-drained soils. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -61184,20 +61184,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-foliage.jpeg",
-        "alt": "olea europaea picual olive foliage"
+        "src": "images/trees/olea-europaea-picual/olea-europaea-picual-foliage.jpeg",
+        "alt": "olea europaea picual foliage"
       },
       {
-        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-fruit.jpeg",
-        "alt": "olea europaea picual olive fruit"
+        "src": "images/trees/olea-europaea-picual/olea-europaea-picual-fruit.jpeg",
+        "alt": "olea europaea picual fruit"
       },
       {
-        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-grove.jpg",
-        "alt": "olea europaea picual olive grove"
+        "src": "images/trees/olea-europaea-picual/olea-europaea-picual-grove.jpg",
+        "alt": "olea europaea picual grove"
       },
       {
-        "src": "images/trees/olea-europaea-picual-olive/olea-europaea-picual-olive-olives.jpg",
-        "alt": "olea europaea picual olive olives"
+        "src": "images/trees/olea-europaea-picual/olea-europaea-picual-olives.jpg",
+        "alt": "olea europaea picual olives"
       }
     ],
     "links": []
@@ -61224,7 +61224,7 @@
       "form": ""
     },
     "url": "olea-europaea-verdale",
-    "mainImage": "olea-europaea-verdale-olive/olea-europaea-verdale-olive.jpg",
+    "mainImage": "olea-europaea-verdale/olea-europaea-verdale.jpg",
     "description": "A dual purpose French olive. Good for pickling at the green fruit stage. A compact grower well suited for hedging and screens. Has slightly-weeping branches. Self-fertile. Fruit ripen in autumn and change from a green through red to a purple-black. White flowers in summer, and has grey-green leaves.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -61263,12 +61263,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olea-europaea-verdale-olive/olea-europaea-verdale-olive-city.jpg",
-        "alt": "olea europaea verdale olive city"
+        "src": "images/trees/olea-europaea-verdale/olea-europaea-verdale-city.jpg",
+        "alt": "olea europaea verdale city"
       },
       {
-        "src": "images/trees/olea-europaea-verdale-olive/olea-europaea-verdale-olive-fruit.jpg",
-        "alt": "olea europaea verdale olive fruit"
+        "src": "images/trees/olea-europaea-verdale/olea-europaea-verdale-fruit.jpg",
+        "alt": "olea europaea verdale fruit"
       }
     ],
     "links": []
@@ -61295,7 +61295,7 @@
       "form": ""
     },
     "url": "olearia-albida",
-    "mainImage": "olearia-albida-tanguru/olearia-albida-tanguru.jpg",
+    "mainImage": "olearia-albida/olearia-albida.jpg",
     "description": "Vigorous with an erect, bushy growth habit. Thick, dark-green leaves are white underneath. White flowers in panicles through summer. Tolerant of dry, sandy conditions and coastal exposure.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -61334,8 +61334,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olearia-albida-tanguru/olearia-albida-tanguru-foliage.jpg",
-        "alt": "olearia albida tanguru foliage"
+        "src": "images/trees/olearia-albida/olearia-albida-foliage.jpg",
+        "alt": "olearia albida foliage"
       }
     ],
     "links": []
@@ -61362,7 +61362,7 @@
       "form": ""
     },
     "url": "olearia-paniculata",
-    "mainImage": "olearia-paniculata-akiraho/olearia-paniculata-akiraho.jpg",
+    "mainImage": "olearia-paniculata/olearia-paniculata.jpg",
     "description": "An excellent coastal-hardy tree. Vigorous with an erect habit suitable for screening or hedging. Lemon-green, tough leaves are white underneath and have wavy margins. Needs good drainage. Small, white flowers from early-autumn to early-winter.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -61401,20 +61401,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olearia-paniculata-akiraho/olearia-paniculata-akiraho-bush.jpg",
-        "alt": "olearia paniculata akiraho bush"
+        "src": "images/trees/olearia-paniculata/olearia-paniculata-bush.jpg",
+        "alt": "olearia paniculata bush"
       },
       {
-        "src": "images/trees/olearia-paniculata-akiraho/olearia-paniculata-akiraho-bushy.jpg",
-        "alt": "olearia paniculata akiraho bushy"
+        "src": "images/trees/olearia-paniculata/olearia-paniculata-bushy.jpg",
+        "alt": "olearia paniculata bushy"
       },
       {
-        "src": "images/trees/olearia-paniculata-akiraho/olearia-paniculata-akiraho-foliage.jpg",
-        "alt": "olearia paniculata akiraho foliage"
+        "src": "images/trees/olearia-paniculata/olearia-paniculata-foliage.jpg",
+        "alt": "olearia paniculata foliage"
       },
       {
-        "src": "images/trees/olearia-paniculata-akiraho/olearia-paniculata-akiraho-leaves.jpg",
-        "alt": "olearia paniculata akiraho leaves"
+        "src": "images/trees/olearia-paniculata/olearia-paniculata-leaves.jpg",
+        "alt": "olearia paniculata leaves"
       }
     ],
     "links": []
@@ -61441,7 +61441,7 @@
       "form": ""
     },
     "url": "olearia-paniculata-kaikoura",
-    "mainImage": "olearia-paniculata-kaikoura-akiraho/olearia-paniculata-kaikoura-akiraho.jpg",
+    "mainImage": "olearia-paniculata-kaikoura/olearia-paniculata-kaikoura.jpg",
     "description": "Dark-green leaves with wavy margins. Excellent for screening or as a hedge. Tolerates hard coastal conditions and cold winters. Must have excellent drainage. Selected from Kaikoura in the South Island. Makes a good coastal street tree. Small, white flowers from early-autumn to early-winter.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -61480,16 +61480,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olearia-paniculata-kaikoura-akiraho/olearia-paniculata-kaikoura-akiraho-foliage.jpg",
-        "alt": "olearia paniculata kaikoura akiraho foliage"
+        "src": "images/trees/olearia-paniculata-kaikoura/olearia-paniculata-kaikoura-foliage.jpg",
+        "alt": "olearia paniculata kaikoura foliage"
       },
       {
-        "src": "images/trees/olearia-paniculata-kaikoura-akiraho/olearia-paniculata-kaikoura-akiraho-garden.jpg",
-        "alt": "olearia paniculata kaikoura akiraho garden"
+        "src": "images/trees/olearia-paniculata-kaikoura/olearia-paniculata-kaikoura-garden.jpg",
+        "alt": "olearia paniculata kaikoura garden"
       },
       {
-        "src": "images/trees/olearia-paniculata-kaikoura-akiraho/olearia-paniculata-kaikoura-akiraho-street.jpg",
-        "alt": "olearia paniculata kaikoura akiraho street"
+        "src": "images/trees/olearia-paniculata-kaikoura/olearia-paniculata-kaikoura-street.jpg",
+        "alt": "olearia paniculata kaikoura street"
       }
     ],
     "links": []
@@ -61526,7 +61526,7 @@
       "form": ""
     },
     "url": "olearia-traversiorum",
-    "mainImage": "olearia-traversiorum-hakapiri-akeake/olearia-traversiorum-hakapiri-akeake.jpg",
+    "mainImage": "olearia-traversiorum/olearia-traversiorum.jpg",
     "description": "Tough and fast-growing. Tolerates light frosts, coastal conditions, wind, and part-shade. An excellent choice for hedging on dry and exposed sites. Does not like wet sites. Bears small clusters of white, daisy-like flowers in late-spring.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy, light-frosts",
@@ -61565,8 +61565,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/olearia-traversiorum-hakapiri-akeake/olearia-traversiorum-hakapiri-akeake-foliage.jpeg",
-        "alt": "olearia traversiorum hakapiri akeake foliage"
+        "src": "images/trees/olearia-traversiorum/olearia-traversiorum-foliage.jpeg",
+        "alt": "olearia traversiorum foliage"
       }
     ],
     "links": []
@@ -61593,7 +61593,7 @@
       "form": ""
     },
     "url": "parrotia-persica",
-    "mainImage": "parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood.jpg",
+    "mainImage": "parrotia-persica/parrotia-persica.jpg",
     "description": "Has a broad, horizontal branch structure. Tough leaves which turn vibrant shades of orange, yellow, red, and purple in autumn. In late-winter to early-spring, produces stunning red flowers. Withstands considerable drought and wind exposure. Will clip into a hedge or train for pleaching.",
     "uses": "hedging-and-screening, pleaching, attracts-bees",
     "tolerates": "windy",
@@ -61632,104 +61632,104 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-beauty.jpg",
-        "alt": "parrotia persica persian ironwood autumn beauty"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-beauty.jpg",
+        "alt": "parrotia persica autumn beauty"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-canopy.jpg",
-        "alt": "parrotia persica persian ironwood autumn canopy"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-canopy.jpg",
+        "alt": "parrotia persica autumn canopy"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-courtyard.jpg",
-        "alt": "parrotia persica persian ironwood autumn courtyard"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-courtyard.jpg",
+        "alt": "parrotia persica autumn courtyard"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-display.jpg",
-        "alt": "parrotia persica persian ironwood autumn display"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-display.jpg",
+        "alt": "parrotia persica autumn display"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-form.jpg",
-        "alt": "parrotia persica persian ironwood autumn form"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-form.jpg",
+        "alt": "parrotia persica autumn form"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-leaves.jpg",
-        "alt": "parrotia persica persian ironwood autumn leaves"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-leaves.jpg",
+        "alt": "parrotia persica autumn leaves"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-park.jpg",
-        "alt": "parrotia persica persian ironwood autumn park"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-park.jpg",
+        "alt": "parrotia persica autumn park"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-river.jpg",
-        "alt": "parrotia persica persian ironwood autumn river"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-river.jpg",
+        "alt": "parrotia persica autumn river"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-autumn-show.jpg",
-        "alt": "parrotia persica persian ironwood autumn show"
+        "src": "images/trees/parrotia-persica/parrotia-persica-autumn-show.jpg",
+        "alt": "parrotia persica autumn show"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-beautiful-flowers.jpg",
-        "alt": "parrotia persica persian ironwood beautiful flowers"
+        "src": "images/trees/parrotia-persica/parrotia-persica-beautiful-flowers.jpg",
+        "alt": "parrotia persica beautiful flowers"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-dark-autumn-colour.jpg",
-        "alt": "parrotia persica persian ironwood dark autumn colour"
+        "src": "images/trees/parrotia-persica/parrotia-persica-dark-autumn-colour.jpg",
+        "alt": "parrotia persica dark autumn colour"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-flower-clusters.jpg",
-        "alt": "parrotia persica persian ironwood flower clusters"
+        "src": "images/trees/parrotia-persica/parrotia-persica-flower-clusters.jpg",
+        "alt": "parrotia persica flower clusters"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-flowering.jpg",
-        "alt": "parrotia persica persian ironwood flowering"
+        "src": "images/trees/parrotia-persica/parrotia-persica-flowering.jpg",
+        "alt": "parrotia persica flowering"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-flowers.jpg",
-        "alt": "parrotia persica persian ironwood flowers"
+        "src": "images/trees/parrotia-persica/parrotia-persica-flowers.jpg",
+        "alt": "parrotia persica flowers"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-garden.jpg",
-        "alt": "parrotia persica persian ironwood garden"
+        "src": "images/trees/parrotia-persica/parrotia-persica-garden.jpg",
+        "alt": "parrotia persica garden"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-new-growth.jpeg",
-        "alt": "parrotia persica persian ironwood new growth"
+        "src": "images/trees/parrotia-persica/parrotia-persica-new-growth.jpeg",
+        "alt": "parrotia persica new growth"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-park.jpg",
-        "alt": "parrotia persica persian ironwood park"
+        "src": "images/trees/parrotia-persica/parrotia-persica-park.jpg",
+        "alt": "parrotia persica park"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-pleached.jpg",
-        "alt": "parrotia persica persian ironwood pleached"
+        "src": "images/trees/parrotia-persica/parrotia-persica-pleached.jpg",
+        "alt": "parrotia persica pleached"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-spectacular-autumn-leaves.jpg",
-        "alt": "parrotia persica persian ironwood spectacular autumn leaves"
+        "src": "images/trees/parrotia-persica/parrotia-persica-spectacular-autumn-leaves.jpg",
+        "alt": "parrotia persica spectacular autumn leaves"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-street.jpg",
-        "alt": "parrotia persica persian ironwood street"
+        "src": "images/trees/parrotia-persica/parrotia-persica-street.jpg",
+        "alt": "parrotia persica street"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-summer-foliage.jpg",
-        "alt": "parrotia persica persian ironwood summer foliage"
+        "src": "images/trees/parrotia-persica/parrotia-persica-summer-foliage.jpg",
+        "alt": "parrotia persica summer foliage"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-summer-form.jpg",
-        "alt": "parrotia persica persian ironwood summer form"
+        "src": "images/trees/parrotia-persica/parrotia-persica-summer-form.jpg",
+        "alt": "parrotia persica summer form"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-summer-park.jpg",
-        "alt": "parrotia persica persian ironwood summer park"
+        "src": "images/trees/parrotia-persica/parrotia-persica-summer-park.jpg",
+        "alt": "parrotia persica summer park"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-summer-road.jpg",
-        "alt": "parrotia persica persian ironwood summer road"
+        "src": "images/trees/parrotia-persica/parrotia-persica-summer-road.jpg",
+        "alt": "parrotia persica summer road"
       },
       {
-        "src": "images/trees/parrotia-persica-persian-ironwood/parrotia-persica-persian-ironwood-summer.jpg",
-        "alt": "parrotia persica persian ironwood summer"
+        "src": "images/trees/parrotia-persica/parrotia-persica-summer.jpg",
+        "alt": "parrotia persica summer"
       }
     ],
     "links": []
@@ -61756,7 +61756,7 @@
       "form": ""
     },
     "url": "parrotia-persica-pendula",
-    "mainImage": "parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood.jpg",
+    "mainImage": "parrotia-persica-pendula/parrotia-persica-pendula.jpg",
     "description": "Weeping form of Parrotia persica that develops into a mound. Beautiful autumn colours of orange, yellow, red, and purple. Awesome feature tree. Needs space. Withstands considerable drought and wind exposure. In late-winter to early-spring, produces stunning red flowers.",
     "uses": "attracts-bees",
     "tolerates": "windy",
@@ -61795,36 +61795,36 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-autumn-leaf.jpg",
-        "alt": "parrotia persica pendula persian ironwood autumn leaf"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-autumn-leaf.jpg",
+        "alt": "parrotia persica pendula autumn leaf"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-autumn-leaves.jpg",
-        "alt": "parrotia persica pendula persian ironwood autumn leaves"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-autumn-leaves.jpg",
+        "alt": "parrotia persica pendula autumn leaves"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-autumn-tree.jpg",
-        "alt": "parrotia persica pendula persian ironwood autumn tree"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-autumn-tree.jpg",
+        "alt": "parrotia persica pendula autumn tree"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-foliage.jpeg",
-        "alt": "parrotia persica pendula persian ironwood foliage"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-foliage.jpeg",
+        "alt": "parrotia persica pendula foliage"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-leaves.jpg",
-        "alt": "parrotia persica pendula persian ironwood leaves"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-leaves.jpg",
+        "alt": "parrotia persica pendula leaves"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-summer.jpg",
-        "alt": "parrotia persica pendula persian ironwood summer"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-summer.jpg",
+        "alt": "parrotia persica pendula summer"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-underside.jpg",
-        "alt": "parrotia persica pendula persian ironwood underside"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-underside.jpg",
+        "alt": "parrotia persica pendula underside"
       },
       {
-        "src": "images/trees/parrotia-persica-pendula-persian-ironwood/parrotia-persica-pendula-persian-ironwood-young-tree.jpg",
-        "alt": "parrotia persica pendula persian ironwood young tree"
+        "src": "images/trees/parrotia-persica-pendula/parrotia-persica-pendula-young-tree.jpg",
+        "alt": "parrotia persica pendula young tree"
       }
     ],
     "links": []
@@ -61851,7 +61851,7 @@
       "form": ""
     },
     "url": "paulownia-tomentosa",
-    "mainImage": "paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree.jpg",
+    "mainImage": "paulownia-tomentosa/paulownia-tomentosa.jpg",
     "description": "Broad-spreading tree with a stout trunk and horizontal branches. Huge, tropical-looking leaves. Large, showy, fragrant, violet-blue flowers with white inners adorn the bare branches in spring. Withstands moderate frosts and inland salty gales, but not right on the coast.",
     "uses": "paddocks, shade",
     "tolerates": "",
@@ -61890,32 +61890,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-flower-cluster.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree flower cluster"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-flower-cluster.jpg",
+        "alt": "paulownia tomentosa flower cluster"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-flowering.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree flowering"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-flowering.jpg",
+        "alt": "paulownia tomentosa flowering"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-flowers.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree flowers"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-flowers.jpg",
+        "alt": "paulownia tomentosa flowers"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-mature-tree.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree mature tree"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-mature-tree.jpg",
+        "alt": "paulownia tomentosa mature tree"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-park.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree park"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-park.jpg",
+        "alt": "paulownia tomentosa park"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-sidewalk.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree sidewalk"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-sidewalk.jpg",
+        "alt": "paulownia tomentosa sidewalk"
       },
       {
-        "src": "images/trees/paulownia-tomentosa-princess-tree-empress-tree/paulownia-tomentosa-princess-tree-empress-tree-young-tree.jpg",
-        "alt": "paulownia tomentosa princess tree empress tree young tree"
+        "src": "images/trees/paulownia-tomentosa/paulownia-tomentosa-young-tree.jpg",
+        "alt": "paulownia tomentosa young tree"
       }
     ],
     "links": []
@@ -61942,7 +61942,7 @@
       "form": ""
     },
     "url": "persea-americana-bacon",
-    "mainImage": "persea-americana-bacon-avocado/persea-americana-bacon-avocado.jpg",
+    "mainImage": "persea-americana-bacon/persea-americana-bacon.jpg",
     "description": "Medium-sized fruit with smooth, thin, green skin. Yellow-green flesh of a light flavour, smooth and silky. The skin remains green, but darkens slightly when ripe. Harvest from late-autumn to early-spring. Self-fertile, but better crops when planted with <a href='/trees/persea-americana-hass/'><i>Persea americana</i> 'Hass'</a>. Tree forms a thick canopy with a spreading habit.",
     "uses": "",
     "tolerates": "",
@@ -61981,20 +61981,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-foliage.jpg",
-        "alt": "persea americana bacon avocado foliage"
+        "src": "images/trees/persea-americana-bacon/persea-americana-bacon-foliage.jpg",
+        "alt": "persea americana bacon foliage"
       },
       {
-        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-large-tree.jpg",
-        "alt": "persea americana bacon avocado large tree"
+        "src": "images/trees/persea-americana-bacon/persea-americana-bacon-large-tree.jpg",
+        "alt": "persea americana bacon large tree"
       },
       {
-        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-small-tree.jpg",
-        "alt": "persea americana bacon avocado small tree"
+        "src": "images/trees/persea-americana-bacon/persea-americana-bacon-small-tree.jpg",
+        "alt": "persea americana bacon small tree"
       },
       {
-        "src": "images/trees/persea-americana-bacon-avocado/persea-americana-bacon-avocado-table.jpg",
-        "alt": "persea americana bacon avocado table"
+        "src": "images/trees/persea-americana-bacon/persea-americana-bacon-table.jpg",
+        "alt": "persea americana bacon table"
       }
     ],
     "links": []
@@ -62021,7 +62021,7 @@
       "form": ""
     },
     "url": "persea-americana-hass",
-    "mainImage": "persea-americana-hass-avocado/persea-americana-hass-avocado.jpg",
+    "mainImage": "persea-americana-hass/persea-americana-hass.jpg",
     "description": "The most commonly-grown avocado variety in the world. Fruit has a very nutty, rich taste. Flesh has a smooth texture and thick skin-casing. Skin turns purple-black when ripe after being picked. Harvest from late-spring to early-autumn. Self-fertile, but better crops when planted with <a href='/trees/persea-americana-bacon/'><i>Persea americana</i> 'Bacon'</a>. Tree forms a thick canopy with a spreading habit.",
     "uses": "",
     "tolerates": "",
@@ -62060,28 +62060,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-foliage.jpg",
-        "alt": "persea americana hass avocado foliage"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-foliage.jpg",
+        "alt": "persea americana hass foliage"
       },
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-new-growth.jpg",
-        "alt": "persea americana hass avocado new growth"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-new-growth.jpg",
+        "alt": "persea americana hass new growth"
       },
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-orchard.jpg",
-        "alt": "persea americana hass avocado orchard"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-orchard.jpg",
+        "alt": "persea americana hass orchard"
       },
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-park.jpg",
-        "alt": "persea americana hass avocado park"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-park.jpg",
+        "alt": "persea americana hass park"
       },
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-table.jpg",
-        "alt": "persea americana hass avocado table"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-table.jpg",
+        "alt": "persea americana hass table"
       },
       {
-        "src": "images/trees/persea-americana-hass-avocado/persea-americana-hass-avocado-young-foliage.jpg",
-        "alt": "persea americana hass avocado young foliage"
+        "src": "images/trees/persea-americana-hass/persea-americana-hass-young-foliage.jpg",
+        "alt": "persea americana hass young foliage"
       }
     ],
     "links": []
@@ -62118,7 +62118,7 @@
       "form": ""
     },
     "url": "phebalium-squameum",
-    "mainImage": "phebalium-squameum-satinwood/phebalium-squameum-satinwood.jpeg",
+    "mainImage": "phebalium-squameum/phebalium-squameum.jpeg",
     "description": "A hardy evergreen. Plant in full-sun or part-shade. Small, white, scented flowers in spring. Great for hedging or as a specimen in a small garden. Tolerant of wind, coastal sites, and dry periods once established. Frost tender when young, and best in sites without hard frosts.",
     "uses": "hedging-and-screening, small-garden",
     "tolerates": "coastal, windy, drought",
@@ -62157,12 +62157,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/phebalium-squameum-satinwood/phebalium-squameum-satinwood-foliage.jpeg",
-        "alt": "phebalium squameum satinwood foliage"
+        "src": "images/trees/phebalium-squameum/phebalium-squameum-foliage.jpeg",
+        "alt": "phebalium squameum foliage"
       },
       {
-        "src": "images/trees/phebalium-squameum-satinwood/phebalium-squameum-satinwood-hedge.jpg",
-        "alt": "phebalium squameum satinwood hedge"
+        "src": "images/trees/phebalium-squameum/phebalium-squameum-hedge.jpg",
+        "alt": "phebalium squameum hedge"
       }
     ],
     "links": []
@@ -62199,7 +62199,7 @@
       "form": ""
     },
     "url": "phebalium-squameum-illumination",
-    "mainImage": "phebalium-squameum-illumination-satinwood/phebalium-squameum-illumination-satinwood.jpeg",
+    "mainImage": "phebalium-squameum-illumination/phebalium-squameum-illumination.jpeg",
     "description": "Attractive green leaves with yellow margins. Small, white, scented flowers in spring. Great for hedging or as a specimen in a small garden. Tolerant of wind, coastal sites, and dry periods once established. Frost tender when young, and best in sites without hard frosts.",
     "uses": "hedging-and-screening, small-garden",
     "tolerates": "coastal, windy, drought",
@@ -62261,7 +62261,7 @@
       "form": ""
     },
     "url": "photinia-x-fraseri-dark-knight",
-    "mainImage": "photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry/photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry.jpeg",
+    "mainImage": "photinia-x-fraseri-dark-knight/photinia-x-fraseri-dark-knight.jpeg",
     "description": "Great for hedging and screening. Has a vigorous, upright growth habit, and an excellent branching structure. Fiery-red new growth, slowly aging to a dark maroon, then finishing on a dark, glossy-green. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -62300,8 +62300,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry/photinia-x-fraseri-dark-knight-red-tip-photinia-christmas-berry-new-growth.jpeg",
-        "alt": "photinia x fraseri dark knight red tip photinia christmas berry new growth"
+        "src": "images/trees/photinia-x-fraseri-dark-knight/photinia-x-fraseri-dark-knight-new-growth.jpeg",
+        "alt": "photinia x fraseri dark knight new growth"
       }
     ],
     "links": []
@@ -62328,7 +62328,7 @@
       "form": ""
     },
     "url": "photinia-x-fraseri-red-robin",
-    "mainImage": "photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry.jpg",
+    "mainImage": "photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin.jpg",
     "description": "Large, glossy-green leaves are topped with shining red new growth. Clip regularly to promote this new growth. A tough and versatile large bush which clips easily as a hedge or screen and into any shape or form. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening, pleaching",
     "tolerates": "windy",
@@ -62367,36 +62367,36 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry -flowers.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry flowers"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-flowers.jpeg",
+        "alt": "photinia x fraseri red robin flowers"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-bush.jpg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry bush"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-bush.jpg",
+        "alt": "photinia x fraseri red robin bush"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-foliage.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry foliage"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-foliage.jpeg",
+        "alt": "photinia x fraseri red robin foliage"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-fresh-growth.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry fresh growth"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-fresh-growth.jpeg",
+        "alt": "photinia x fraseri red robin fresh growth"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-garden.jpg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry garden"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-garden.jpg",
+        "alt": "photinia x fraseri red robin garden"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-hedging.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry hedging"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-hedging.jpeg",
+        "alt": "photinia x fraseri red robin hedging"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-new-growth.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry new growth"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-new-growth.jpeg",
+        "alt": "photinia x fraseri red robin new growth"
       },
       {
-        "src": "images/trees/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry/photinia-x-fraseri-red-robin-red-tip-photinia-christmas-berry-summer-hedge.jpeg",
-        "alt": "photinia x fraseri red robin red tip photinia christmas berry summer hedge"
+        "src": "images/trees/photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin-summer-hedge.jpeg",
+        "alt": "photinia x fraseri red robin summer hedge"
       }
     ],
     "links": []
@@ -62423,7 +62423,7 @@
       "form": ""
     },
     "url": "photinia-x-fraseri-superhedge",
-    "mainImage": "photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry.jpg",
+    "mainImage": "photinia-x-fraseri-superhedge/photinia-x-fraseri-superhedge.jpg",
     "description": "Vigorous, quick growing habit. New growth of rich burgundy-red foliage. Clips well to form a beautiful hedge or screen. If left unpruned the previous year, produces small, white flowers in spring.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -62462,8 +62462,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry/photinia-x-fraseri-superhedge-red-tip-photinia-christmas-berry-new-growth.jpg",
-        "alt": "photinia x fraseri superhedge red tip photinia christmas berry new growth"
+        "src": "images/trees/photinia-x-fraseri-superhedge/photinia-x-fraseri-superhedge-new-growth.jpg",
+        "alt": "photinia x fraseri superhedge new growth"
       }
     ],
     "links": []
@@ -62490,7 +62490,7 @@
       "form": ""
     },
     "url": "phyllocladus-trichomanoides",
-    "mainImage": "phyllocladus-trichomanoides-tanekaha-celery-pine/phyllocladus-trichomanoides-tanekaha-celery-pine.jpg",
+    "mainImage": "phyllocladus-trichomanoides/phyllocladus-trichomanoides.jpg",
     "description": "Handsome, upright-growing tree with a symmetrical form. Ideal for the suburban garden to give height but not width. Plant in semi-shade in soil which doesn't dry out.",
     "uses": "",
     "tolerates": "",
@@ -62529,8 +62529,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/phyllocladus-trichomanoides-tanekaha-celery-pine/phyllocladus-trichomanoides-tanekaha-celery-pine-foliage.jpg",
-        "alt": "phyllocladus trichomanoides tanekaha celery pine foliage"
+        "src": "images/trees/phyllocladus-trichomanoides/phyllocladus-trichomanoides-foliage.jpg",
+        "alt": "phyllocladus trichomanoides foliage"
       }
     ],
     "links": []
@@ -62557,7 +62557,7 @@
       "form": ""
     },
     "url": "picea-abies",
-    "mainImage": "picea-abies-norway-spruce/picea-abies-norway-spruce.jpg",
+    "mainImage": "picea-abies/picea-abies.jpg",
     "description": "A pyramidal conifer with stiff branches when young. These become more graceful with age. Great for inland shelter-belts. Used extensively as a Christmas tree in Europe.",
     "uses": "hedging-and-screening",
     "tolerates": "windy, light-frosts, heavy-frosts",
@@ -62596,28 +62596,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-cones.jpg",
-        "alt": "picea abies norway spruce cones"
+        "src": "images/trees/picea-abies/picea-abies-cones.jpg",
+        "alt": "picea abies cones"
       },
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-foliage.jpg",
-        "alt": "picea abies norway spruce foliage"
+        "src": "images/trees/picea-abies/picea-abies-foliage.jpg",
+        "alt": "picea abies foliage"
       },
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-forest.jpg",
-        "alt": "picea abies norway spruce forest"
+        "src": "images/trees/picea-abies/picea-abies-forest.jpg",
+        "alt": "picea abies forest"
       },
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-garden.jpg",
-        "alt": "picea abies norway spruce garden"
+        "src": "images/trees/picea-abies/picea-abies-garden.jpg",
+        "alt": "picea abies garden"
       },
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-park.jpg",
-        "alt": "picea abies norway spruce park"
+        "src": "images/trees/picea-abies/picea-abies-park.jpg",
+        "alt": "picea abies park"
       },
       {
-        "src": "images/trees/picea-abies-norway-spruce/picea-abies-norway-spruce-snow.jpg",
-        "alt": "picea abies norway spruce snow"
+        "src": "images/trees/picea-abies/picea-abies-snow.jpg",
+        "alt": "picea abies snow"
       }
     ],
     "links": []
@@ -62644,7 +62644,7 @@
       "form": ""
     },
     "url": "picea-engelmannii-subsp-mexicana",
-    "mainImage": "picea-engelmannii-subsp-mexicana-mexican-spruce/picea-engelmannii-subsp-mexicana-mexican-spruce.jpg",
+    "mainImage": "picea-engelmannii-subsp-mexicana/picea-engelmannii-subsp-mexicana.jpg",
     "description": "A fast-grower with a conical form. Blue-grey needles. Small, pendant, light-brown cones.",
     "uses": "",
     "tolerates": "",
@@ -62683,20 +62683,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-engelmannii-subsp-mexicana-mexican-spruce/picea-engelmannii-subsp-mexicana-mexican-spruce-cone.jpg",
-        "alt": "picea engelmannii subsp mexicana mexican spruce cone"
+        "src": "images/trees/picea-engelmannii-subsp-mexicana/picea-engelmannii-subsp-mexicana-cone.jpg",
+        "alt": "picea engelmannii subsp mexicana cone"
       },
       {
-        "src": "images/trees/picea-engelmannii-subsp-mexicana-mexican-spruce/picea-engelmannii-subsp-mexicana-mexican-spruce-foliage.jpg",
-        "alt": "picea engelmannii subsp mexicana mexican spruce foliage"
+        "src": "images/trees/picea-engelmannii-subsp-mexicana/picea-engelmannii-subsp-mexicana-foliage.jpg",
+        "alt": "picea engelmannii subsp mexicana foliage"
       },
       {
-        "src": "images/trees/picea-engelmannii-subsp-mexicana-mexican-spruce/picea-engelmannii-subsp-mexicana-mexican-spruce-forest.jpg",
-        "alt": "picea engelmannii subsp mexicana mexican spruce forest"
+        "src": "images/trees/picea-engelmannii-subsp-mexicana/picea-engelmannii-subsp-mexicana-forest.jpg",
+        "alt": "picea engelmannii subsp mexicana forest"
       },
       {
-        "src": "images/trees/picea-engelmannii-subsp-mexicana-mexican-spruce/picea-engelmannii-subsp-mexicana-mexican-spruce-needles.jpg",
-        "alt": "picea engelmannii subsp mexicana mexican spruce needles"
+        "src": "images/trees/picea-engelmannii-subsp-mexicana/picea-engelmannii-subsp-mexicana-needles.jpg",
+        "alt": "picea engelmannii subsp mexicana needles"
       }
     ],
     "links": []
@@ -62723,7 +62723,7 @@
       "form": ""
     },
     "url": "picea-pungens",
-    "mainImage": "picea-pungens-colorado-spruce-blue-spruce/picea-pungens-colorado-spruce-blue-spruce.jpg",
+    "mainImage": "picea-pungens/picea-pungens.jpg",
     "description": "Tall, compact conifer that prefers cooler climates. Foliage is green to blue-green needles that cover all the way to the ground. More drought-tolerant once established but does not like hot conditions. Needs moist soil when young.",
     "uses": "",
     "tolerates": "",
@@ -62762,20 +62762,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-pungens-colorado-spruce-blue-spruce/picea-pungens-colorado-spruce-blue-spruce-foliage-and-cone.jpg",
-        "alt": "picea pungens colorado spruce blue spruce foliage and cone"
+        "src": "images/trees/picea-pungens/picea-pungens-foliage-and-cone.jpg",
+        "alt": "picea pungens foliage and cone"
       },
       {
-        "src": "images/trees/picea-pungens-colorado-spruce-blue-spruce/picea-pungens-colorado-spruce-blue-spruce-foliage.jpg",
-        "alt": "picea pungens colorado spruce blue spruce foliage"
+        "src": "images/trees/picea-pungens/picea-pungens-foliage.jpg",
+        "alt": "picea pungens foliage"
       },
       {
-        "src": "images/trees/picea-pungens-colorado-spruce-blue-spruce/picea-pungens-colorado-spruce-blue-spruce-town.jpg",
-        "alt": "picea pungens colorado spruce blue spruce town"
+        "src": "images/trees/picea-pungens/picea-pungens-town.jpg",
+        "alt": "picea pungens town"
       },
       {
-        "src": "images/trees/picea-pungens-colorado-spruce-blue-spruce/picea-pungens-colorado-spruce-blue-spruce-wild.jpg",
-        "alt": "picea pungens colorado spruce blue spruce wild"
+        "src": "images/trees/picea-pungens/picea-pungens-wild.jpg",
+        "alt": "picea pungens wild"
       }
     ],
     "links": []
@@ -62802,7 +62802,7 @@
       "form": ""
     },
     "url": "picea-pungens-baby-blue",
-    "mainImage": "picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce.jpg",
+    "mainImage": "picea-pungens-baby-blue/picea-pungens-baby-blue.jpg",
     "description": "A more dense and smaller-growing spruce with blue-grey foliage. Performs better in colder climates. Makes a superb Christmas tree.",
     "uses": "",
     "tolerates": "",
@@ -62841,20 +62841,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce-foliage.jpeg",
-        "alt": "picea pungens baby blue colorado spruce blue spruce foliage"
+        "src": "images/trees/picea-pungens-baby-blue/picea-pungens-baby-blue-foliage.jpeg",
+        "alt": "picea pungens baby blue foliage"
       },
       {
-        "src": "images/trees/picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce-garden.jpg",
-        "alt": "picea pungens baby blue colorado spruce blue spruce garden"
+        "src": "images/trees/picea-pungens-baby-blue/picea-pungens-baby-blue-garden.jpg",
+        "alt": "picea pungens baby blue garden"
       },
       {
-        "src": "images/trees/picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce-mature-tree.jpg",
-        "alt": "picea pungens baby blue colorado spruce blue spruce mature tree"
+        "src": "images/trees/picea-pungens-baby-blue/picea-pungens-baby-blue-mature-tree.jpg",
+        "alt": "picea pungens baby blue mature tree"
       },
       {
-        "src": "images/trees/picea-pungens-baby-blue-colorado-spruce-blue-spruce/picea-pungens-baby-blue-colorado-spruce-blue-spruce-needles.jpg",
-        "alt": "picea pungens baby blue colorado spruce blue spruce needles"
+        "src": "images/trees/picea-pungens-baby-blue/picea-pungens-baby-blue-needles.jpg",
+        "alt": "picea pungens baby blue needles"
       }
     ],
     "links": []
@@ -62881,7 +62881,7 @@
       "form": ""
     },
     "url": "picea-pungens-glauca",
-    "mainImage": "picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce.jpg",
+    "mainImage": "picea-pungens-glauca/picea-pungens-glauca.jpg",
     "description": "A narrow, pyramidal grower, densely-covered with rich, blue-grey, needle-like leaves. New growth is bright-blue. Slow growing, enduring conifer.",
     "uses": "",
     "tolerates": "windy",
@@ -62920,32 +62920,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-foliage.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce foliage"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-foliage.jpg",
+        "alt": "picea pungens glauca foliage"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-mature-tree-garden.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce mature tree garden"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-mature-tree-garden.jpg",
+        "alt": "picea pungens glauca mature tree garden"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-mature-tree.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce mature tree"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-mature-tree.jpg",
+        "alt": "picea pungens glauca mature tree"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-outside-building.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce outside building"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-outside-building.jpg",
+        "alt": "picea pungens glauca outside building"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-street.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce street"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-street.jpg",
+        "alt": "picea pungens glauca street"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-young-tree-park.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce young tree park"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-young-tree-park.jpg",
+        "alt": "picea pungens glauca young tree park"
       },
       {
-        "src": "images/trees/picea-pungens-glauca-colorado-spruce-blue-spruce/picea-pungens-glauca-colorado-spruce-blue-spruce-young-tree.jpg",
-        "alt": "picea pungens glauca colorado spruce blue spruce young tree"
+        "src": "images/trees/picea-pungens-glauca/picea-pungens-glauca-young-tree.jpg",
+        "alt": "picea pungens glauca young tree"
       }
     ],
     "links": []
@@ -62972,7 +62972,7 @@
       "form": ""
     },
     "url": "picea-sitchensis",
-    "mainImage": "picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce.jpg",
+    "mainImage": "picea-sitchensis/picea-sitchensis.jpg",
     "description": "Narrowly-conical growth with blue-green needles and yellow-brown cones.",
     "uses": "",
     "tolerates": "",
@@ -63011,24 +63011,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce-beach.jpg",
-        "alt": "picea sitchensis sitka spruce beach"
+        "src": "images/trees/picea-sitchensis/picea-sitchensis-beach.jpg",
+        "alt": "picea sitchensis beach"
       },
       {
-        "src": "images/trees/picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce-fjord.jpg",
-        "alt": "picea sitchensis sitka spruce fjord"
+        "src": "images/trees/picea-sitchensis/picea-sitchensis-fjord.jpg",
+        "alt": "picea sitchensis fjord"
       },
       {
-        "src": "images/trees/picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce-foliage.jpg",
-        "alt": "picea sitchensis sitka spruce foliage"
+        "src": "images/trees/picea-sitchensis/picea-sitchensis-foliage.jpg",
+        "alt": "picea sitchensis foliage"
       },
       {
-        "src": "images/trees/picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce-new-growth.jpg",
-        "alt": "picea sitchensis sitka spruce new growth"
+        "src": "images/trees/picea-sitchensis/picea-sitchensis-new-growth.jpg",
+        "alt": "picea sitchensis new growth"
       },
       {
-        "src": "images/trees/picea-sitchensis-sitka-spruce/picea-sitchensis-sitka-spruce-winter.jpg",
-        "alt": "picea sitchensis sitka spruce winter"
+        "src": "images/trees/picea-sitchensis/picea-sitchensis-winter.jpg",
+        "alt": "picea sitchensis winter"
       }
     ],
     "links": []
@@ -63055,7 +63055,7 @@
       "form": ""
     },
     "url": "picea-smithiana",
-    "mainImage": "picea-smithiana-morinda-spruce-west-himalayan-spruce/picea-smithiana-morinda-spruce-west-himalayan-spruce.jpg",
+    "mainImage": "picea-smithiana/picea-smithiana.jpg",
     "description": "A vigorous spruce with green needles. Narrow-growing with slightly-weeping branches. Healthy grower with branches to the ground.",
     "uses": "",
     "tolerates": "",
@@ -63094,20 +63094,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/picea-smithiana-morinda-spruce-west-himalayan-spruce/picea-smithiana-morinda-spruce-west-himalayan-spruce-foliage.jpg",
-        "alt": "picea smithiana morinda spruce west himalayan spruce foliage"
+        "src": "images/trees/picea-smithiana/picea-smithiana-foliage.jpg",
+        "alt": "picea smithiana foliage"
       },
       {
-        "src": "images/trees/picea-smithiana-morinda-spruce-west-himalayan-spruce/picea-smithiana-morinda-spruce-west-himalayan-spruce-forest.jpg",
-        "alt": "picea smithiana morinda spruce west himalayan spruce forest"
+        "src": "images/trees/picea-smithiana/picea-smithiana-forest.jpg",
+        "alt": "picea smithiana forest"
       },
       {
-        "src": "images/trees/picea-smithiana-morinda-spruce-west-himalayan-spruce/picea-smithiana-morinda-spruce-west-himalayan-spruce-mature-tree.jpg",
-        "alt": "picea smithiana morinda spruce west himalayan spruce mature tree"
+        "src": "images/trees/picea-smithiana/picea-smithiana-mature-tree.jpg",
+        "alt": "picea smithiana mature tree"
       },
       {
-        "src": "images/trees/picea-smithiana-morinda-spruce-west-himalayan-spruce/picea-smithiana-morinda-spruce-west-himalayan-spruce-needles.jpg",
-        "alt": "picea smithiana morinda spruce west himalayan spruce needles"
+        "src": "images/trees/picea-smithiana/picea-smithiana-needles.jpg",
+        "alt": "picea smithiana needles"
       }
     ],
     "links": []
@@ -63134,7 +63134,7 @@
       "form": ""
     },
     "url": "pinus-pinea",
-    "mainImage": "pinus-pinea-stone-pine/pinus-pinea-stone-pine.jpg",
+    "mainImage": "pinus-pinea/pinus-pinea.jpg",
     "description": "This tree has been used and cultivated for its edible pine nuts since prehistoric times. They are widespread in horticultural cultivation as ornamental trees and planted in gardens and parks around the world. Forms a flat, umbrella-shaped crown. Self-fertile. Nuts ripen about mid-autumn.",
     "uses": "",
     "tolerates": "",
@@ -63173,40 +63173,40 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-bark.jpg",
-        "alt": "pinus pinea stone pine bark"
+        "src": "images/trees/pinus-pinea/pinus-pinea-bark.jpg",
+        "alt": "pinus pinea bark"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-cone.jpg",
-        "alt": "pinus pinea stone pine cone"
+        "src": "images/trees/pinus-pinea/pinus-pinea-cone.jpg",
+        "alt": "pinus pinea cone"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-foliage.jpg",
-        "alt": "pinus pinea stone pine foliage"
+        "src": "images/trees/pinus-pinea/pinus-pinea-foliage.jpg",
+        "alt": "pinus pinea foliage"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-lawn.jpg",
-        "alt": "pinus pinea stone pine lawn"
+        "src": "images/trees/pinus-pinea/pinus-pinea-lawn.jpg",
+        "alt": "pinus pinea lawn"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-mature.jpg",
-        "alt": "pinus pinea stone pine mature"
+        "src": "images/trees/pinus-pinea/pinus-pinea-mature.jpg",
+        "alt": "pinus pinea mature"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-park.jpg",
-        "alt": "pinus pinea stone pine park"
+        "src": "images/trees/pinus-pinea/pinus-pinea-park.jpg",
+        "alt": "pinus pinea park"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-pine-cone.jpg",
-        "alt": "pinus pinea stone pine pine cone"
+        "src": "images/trees/pinus-pinea/pinus-pinea-pine-cone.jpg",
+        "alt": "pinus pinea pine cone"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-pine-nuts.jpg",
-        "alt": "pinus pinea stone pine pine nuts"
+        "src": "images/trees/pinus-pinea/pinus-pinea-pine-nuts.jpg",
+        "alt": "pinus pinea pine nuts"
       },
       {
-        "src": "images/trees/pinus-pinea-stone-pine/pinus-pinea-stone-pine-street.jpg",
-        "alt": "pinus pinea stone pine street"
+        "src": "images/trees/pinus-pinea/pinus-pinea-street.jpg",
+        "alt": "pinus pinea street"
       }
     ],
     "links": []
@@ -63272,44 +63272,44 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-autumn -leaf.jpg",
-        "alt": "pistacia chinensis chinese pistachio autumn leaf"
+        "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-autumn-leaf.jpg",
+        "alt": "pistacia chinensis autumn leaf"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-autumn-foliage.jpg",
-        "alt": "pistacia chinensis chinese pistachio autumn foliage"
+        "alt": "pistacia chinensis autumn foliage"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-autumn-leaves.jpg",
-        "alt": "pistacia chinensis chinese pistachio autumn leaves"
+        "alt": "pistacia chinensis autumn leaves"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-autumn.jpg",
-        "alt": "pistacia chinensis chinese pistachio autumn"
+        "alt": "pistacia chinensis autumn"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-driveway.jpg",
-        "alt": "pistacia chinensis chinese pistachio driveway"
+        "alt": "pistacia chinensis driveway"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-early-autumn.jpg",
-        "alt": "pistacia chinensis chinese pistachio early autumn"
+        "alt": "pistacia chinensis early autumn"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-foliage.jpg",
-        "alt": "pistacia chinensis chinese pistachio foliage"
+        "alt": "pistacia chinensis foliage"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-street.jpg",
-        "alt": "pistacia chinensis chinese pistachio street"
+        "alt": "pistacia chinensis street"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-summer-form.jpg",
-        "alt": "pistacia chinensis chinese pistachio summer form"
+        "alt": "pistacia chinensis summer form"
       },
       {
         "src": "images/trees/pistacia-chinensis-chinese-pistachio/pistacia-chinensis-chinese-pistachio-young-tree.jpg",
-        "alt": "pistacia chinensis chinese pistachio young tree"
+        "alt": "pistacia chinensis young tree"
       }
     ],
     "links": []
@@ -63336,7 +63336,7 @@
       "form": ""
     },
     "url": "pittosporum-crassifolium",
-    "mainImage": "pittosporum-crassifolium-karo/pittosporum-crassifolium-karo.jpeg",
+    "mainImage": "pittosporum-crassifolium/pittosporum-crassifolium.jpeg",
     "description": "Forms an erect-growing tree. Grey-green leaves with white undersides. Purple flowers fragrance the air through spring to early-summer. Very tough coastal-hardy specimen tree, screen, or hedge.",
     "uses": "street, hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63375,16 +63375,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-crassifolium-karo/pittosporum-crassifolium-karo-bushy.jpg",
-        "alt": "pittosporum crassifolium karo bushy"
+        "src": "images/trees/pittosporum-crassifolium/pittosporum-crassifolium-bushy.jpg",
+        "alt": "pittosporum crassifolium bushy"
       },
       {
-        "src": "images/trees/pittosporum-crassifolium-karo/pittosporum-crassifolium-karo-flower.jpeg",
-        "alt": "pittosporum crassifolium karo flower"
+        "src": "images/trees/pittosporum-crassifolium/pittosporum-crassifolium-flower.jpeg",
+        "alt": "pittosporum crassifolium flower"
       },
       {
-        "src": "images/trees/pittosporum-crassifolium-karo/pittosporum-crassifolium-karo-foliage.jpg",
-        "alt": "pittosporum crassifolium karo foliage"
+        "src": "images/trees/pittosporum-crassifolium/pittosporum-crassifolium-foliage.jpg",
+        "alt": "pittosporum crassifolium foliage"
       }
     ],
     "links": []
@@ -63411,7 +63411,7 @@
       "form": ""
     },
     "url": "pittosporum-eugenioides",
-    "mainImage": "pittosporum-eugenioides-tarata-lemonwood/pittosporum-eugenioides-tarata-lemonwood.jpeg",
+    "mainImage": "pittosporum-eugenioides/pittosporum-eugenioides.jpeg",
     "description": "Forms a rounded tree with large, pale-green leaves. They emit a lemon fragrance when crushed. Pale-yellow flowers scent the air through late-spring into summer. A quick-growing, hardy screen or shelter tree providing foliage right to the ground.",
     "uses": "street, hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63450,20 +63450,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-eugenioides-tarata-lemonwood/pittosporum-eugenioides-tarata-lemonwood-foliage.jpeg",
-        "alt": "pittosporum eugenioides tarata lemonwood foliage"
+        "src": "images/trees/pittosporum-eugenioides/pittosporum-eugenioides-foliage.jpeg",
+        "alt": "pittosporum eugenioides foliage"
       },
       {
-        "src": "images/trees/pittosporum-eugenioides-tarata-lemonwood/pittosporum-eugenioides-tarata-lemonwood-mature-tree.jpg",
-        "alt": "pittosporum eugenioides tarata lemonwood mature tree"
+        "src": "images/trees/pittosporum-eugenioides/pittosporum-eugenioides-mature-tree.jpg",
+        "alt": "pittosporum eugenioides mature tree"
       },
       {
-        "src": "images/trees/pittosporum-eugenioides-tarata-lemonwood/pittosporum-eugenioides-tarata-lemonwood-new-growth.jpg",
-        "alt": "pittosporum eugenioides tarata lemonwood new growth"
+        "src": "images/trees/pittosporum-eugenioides/pittosporum-eugenioides-new-growth.jpg",
+        "alt": "pittosporum eugenioides new growth"
       },
       {
-        "src": "images/trees/pittosporum-eugenioides-tarata-lemonwood/pittosporum-eugenioides-tarata-lemonwood-young-tree.jpg",
-        "alt": "pittosporum eugenioides tarata lemonwood young tree"
+        "src": "images/trees/pittosporum-eugenioides/pittosporum-eugenioides-young-tree.jpg",
+        "alt": "pittosporum eugenioides young tree"
       }
     ],
     "links": []
@@ -63490,7 +63490,7 @@
       "form": ""
     },
     "url": "pittosporum-eugenioides-variegatum",
-    "mainImage": "pittosporum-eugenioides-variegatum-tarata-lemonwood/pittosporum-eugenioides-variegatum-tarata-lemonwood.jpg",
+    "mainImage": "pittosporum-eugenioides-variegatum/pittosporum-eugenioides-variegatum.jpg",
     "description": "Forms a large, rounded bush with large, pale-green leaves, irregularly-margined with cream-white. They emit a lemon fragrance when crushed. Pale-yellow flowers scent the air through late-spring into summer. Easily grown, making a nice, compact specimen tree with foliage right to the ground.",
     "uses": "street, hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63529,8 +63529,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-eugenioides-variegatum-tarata-lemonwood/pittosporum-eugenioides-variegatum-tarata-lemonwood-foliage.jpg",
-        "alt": "pittosporum eugenioides variegatum tarata lemonwood foliage"
+        "src": "images/trees/pittosporum-eugenioides-variegatum/pittosporum-eugenioides-variegatum-foliage.jpg",
+        "alt": "pittosporum eugenioides variegatum foliage"
       }
     ],
     "links": []
@@ -63557,7 +63557,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium",
-    "mainImage": "pittosporum-tenuifolium-kohuhu-black-matipo/pittosporum-tenuifolium-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium/pittosporum-tenuifolium.jpg",
     "description": "Erect, pyramidal form with black branches and stems. Small, glossy-green leaves with wavy margins. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "street, hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63596,16 +63596,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-kohuhu-black-matipo/pittosporum-tenuifolium-kohuhu-black-matipo-bushy.jpg",
-        "alt": "pittosporum tenuifolium kohuhu black matipo bushy"
+        "src": "images/trees/pittosporum-tenuifolium/pittosporum-tenuifolium-bushy.jpg",
+        "alt": "pittosporum tenuifolium bushy"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-kohuhu-black-matipo/pittosporum-tenuifolium-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium/pittosporum-tenuifolium-foliage.jpg",
+        "alt": "pittosporum tenuifolium foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-kohuhu-black-matipo/pittosporum-tenuifolium-kohuhu-black-matipo-hedge.jpg",
-        "alt": "pittosporum tenuifolium kohuhu black matipo hedge"
+        "src": "images/trees/pittosporum-tenuifolium/pittosporum-tenuifolium-hedge.jpg",
+        "alt": "pittosporum tenuifolium hedge"
       }
     ],
     "links": []
@@ -63632,7 +63632,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-elizabeth",
-    "mainImage": "pittosporum-tenuifolium-elizabeth-kohuhu-black-matipo/pittosporum-tenuifolium-elizabeth-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-elizabeth/pittosporum-tenuifolium-elizabeth.jpeg",
     "description": "Compact grower with narrow, oval, wavy-edged, grey-green leaves that are edged with cream and flushed pink throughout the year. This pink colouring is more prominent in the colder months. Scented, dark-purple, star-shaped flowers are borne in spring.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63671,8 +63671,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-elizabeth-kohuhu-black-matipo/pittosporum-tenuifolium-elizabeth-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium elizabeth kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-elizabeth/pittosporum-tenuifolium-elizabeth-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium elizabeth in nursery"
       }
     ],
     "links": []
@@ -63699,7 +63699,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-emerald-green",
-    "mainImage": "pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo/pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-emerald-green/pittosporum-tenuifolium-emerald-green.jpeg",
     "description": "Has glossy, emerald-green foliage on black stems. Fast-growing, hardy tree for hedging and screening. Responds well to trimming. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63738,12 +63738,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo/pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium emerald green kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-emerald-green/pittosporum-tenuifolium-emerald-green-foliage.jpeg",
+        "alt": "pittosporum tenuifolium emerald green foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo/pittosporum-tenuifolium-emerald-green-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium emerald green kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-emerald-green/pittosporum-tenuifolium-emerald-green-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium emerald green in nursery"
       }
     ],
     "links": []
@@ -63770,7 +63770,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-golf-ball",
-    "mainImage": "pittosporum-tenuifolium-golf-ball-kohuhu-black-matipo/pittosporum-tenuifolium-golf-ball-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-golf-ball/pittosporum-tenuifolium-golf-ball.jpeg",
     "description": "Dwarf grower that is ideal for topiary, low-hedging, and borders. Compact form with lime-green leaves. Hardy, tolerating most conditions except extreme wet and dry. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63809,8 +63809,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-golf-ball-kohuhu-black-matipo/pittosporum-tenuifolium-golf-ball-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium golf ball kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-golf-ball/pittosporum-tenuifolium-golf-ball-foliage.jpeg",
+        "alt": "pittosporum tenuifolium golf ball foliage"
       }
     ],
     "links": []
@@ -63847,7 +63847,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-hedgehog",
-    "mainImage": "pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-hedgehog/pittosporum-tenuifolium-hedgehog.jpeg",
     "description": "Dwarf grower that is ideal for topiary, low-hedging, and borders. Compact form with lime-green leaves. Hardy, tolerating most conditions except extreme wet and dry. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63886,12 +63886,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium hedgehog kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-hedgehog/pittosporum-tenuifolium-hedgehog-foliage.jpeg",
+        "alt": "pittosporum tenuifolium hedgehog foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo/pittosporum-tenuifolium-hedgehog-kohuhu-black-matipo-trimmed.jpg",
-        "alt": "pittosporum tenuifolium hedgehog kohuhu black matipo trimmed"
+        "src": "images/trees/pittosporum-tenuifolium-hedgehog/pittosporum-tenuifolium-hedgehog-trimmed.jpg",
+        "alt": "pittosporum tenuifolium hedgehog trimmed"
       }
     ],
     "links": []
@@ -63918,7 +63918,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-irish-luck",
-    "mainImage": "pittosporum-tenuifolium-irish-luck-kohuhu-black-matipo/pittosporum-tenuifolium-irish-luck-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-irish-luck/pittosporum-tenuifolium-irish-luck.jpg",
     "description": "Bears deep-green foliage with fine, silver hairs on the leaf margins. An ideal hedging or topiary plant. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, topiary, attracts-bees",
     "tolerates": "coastal, windy",
@@ -63957,8 +63957,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-irish-luck-kohuhu-black-matipo/pittosporum-tenuifolium-irish-luck-kohuhu-black-matipo-in-nursery.jpg",
-        "alt": "pittosporum tenuifolium irish luck kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-irish-luck/pittosporum-tenuifolium-irish-luck-in-nursery.jpg",
+        "alt": "pittosporum tenuifolium irish luck in nursery"
       }
     ],
     "links": []
@@ -63985,7 +63985,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-limelight",
-    "mainImage": "pittosporum-tenuifolium-limelight-kohuhu-black-matipo/pittosporum-tenuifolium-limelight-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-limelight/pittosporum-tenuifolium-limelight.jpg",
     "description": "Bushy, erect grower with a pyramidal form and red stems. Small, glossy-green leaves have lime-yellow centers. Colour brightens up dark areas. Bright-purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64024,8 +64024,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-limelight-kohuhu-black-matipo/pittosporum-tenuifolium-limelight-kohuhu-black-matipo-in-nursery.jpg",
-        "alt": "pittosporum tenuifolium limelight kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-limelight/pittosporum-tenuifolium-limelight-in-nursery.jpg",
+        "alt": "pittosporum tenuifolium limelight in nursery"
       }
     ],
     "links": []
@@ -64052,7 +64052,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-little-anita",
-    "mainImage": "pittosporum-tenuifolium-little-anita-kohuhu-black-matipo/pittosporum-tenuifolium-little-anita-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-little-anita/pittosporum-tenuifolium-little-anita.jpeg",
     "description": "Grows wider than it does tall. Forms a very compact cushion of leaves. Ideal for garden edging and for container planting. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "small-garden, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64091,12 +64091,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-little-anita-kohuhu-black-matipo/pittosporum-tenuifolium-little-anita-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium little anita kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-little-anita/pittosporum-tenuifolium-little-anita-foliage.jpeg",
+        "alt": "pittosporum tenuifolium little anita foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-little-anita-kohuhu-black-matipo/pittosporum-tenuifolium-little-anita-kohuhu-black-matipo-trimmed.jpg",
-        "alt": "pittosporum tenuifolium little anita kohuhu black matipo trimmed"
+        "src": "images/trees/pittosporum-tenuifolium-little-anita/pittosporum-tenuifolium-little-anita-trimmed.jpg",
+        "alt": "pittosporum tenuifolium little anita trimmed"
       }
     ],
     "links": []
@@ -64123,7 +64123,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-little-gem",
-    "mainImage": "pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-little-gem/pittosporum-tenuifolium-little-gem.jpeg",
     "description": "Dwarf grower that is ideal for topiary, low-hedging, and borders. Compact form with lime-green leaves. Hardy, tolerating most conditions except extreme wet and dry. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64162,8 +64162,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo/pittosporum-tenuifolium-little-gem-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium little gem kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-little-gem/pittosporum-tenuifolium-little-gem-foliage.jpeg",
+        "alt": "pittosporum tenuifolium little gem foliage"
       }
     ],
     "links": []
@@ -64190,7 +64190,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-little-kiwi",
-    "mainImage": "pittosporum-tenuifolium-little-kiwi-kohuhu-black-matipo/pittosporum-tenuifolium-little-kiwi-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-little-kiwi/pittosporum-tenuifolium-little-kiwi.jpeg",
     "description": "Ideal for small hedges, topiaries, and borders. Easy to grow with naturally dense foliage. Tolerates frost, wind, and coastal conditions. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "small-garden, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64229,8 +64229,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-little-kiwi-kohuhu-black-matipo/pittosporum-tenuifolium-little-kiwi-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium little kiwi kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-little-kiwi/pittosporum-tenuifolium-little-kiwi-foliage.jpg",
+        "alt": "pittosporum tenuifolium little kiwi foliage"
       }
     ],
     "links": []
@@ -64257,7 +64257,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-millfield-mint",
-    "mainImage": "pittosporum-tenuifolium-millfield-mint-kohuhu-black-matipo/pittosporum-tenuifolium-millfield-mint-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-millfield-mint/pittosporum-tenuifolium-millfield-mint.jpeg",
     "description": "Bred in Taranaki. Attractive pale-green leaves with silver overtones. Quick and easily grown. Clip to any shape or size. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64296,8 +64296,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-millfield-mint-kohuhu-black-matipo/pittosporum-tenuifolium-millfield-mint-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium millfield mint kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-millfield-mint/pittosporum-tenuifolium-millfield-mint-foliage.jpeg",
+        "alt": "pittosporum tenuifolium millfield mint foliage"
       }
     ],
     "links": []
@@ -64324,7 +64324,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-miracle",
-    "mainImage": "pittosporum-tenuifolium-miracle-kohuhu-black-matipo/pittosporum-tenuifolium-miracle-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-miracle/pittosporum-tenuifolium-miracle.jpg",
     "description": "A hardy grower with grey-green oval leaves that have cream-white margins. Easy, rapid grower. Excellent as a specimen or for shelter. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64363,8 +64363,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-miracle-kohuhu-black-matipo/pittosporum-tenuifolium-miracle-kohuhu-black-matipo-in-nursery.jpg",
-        "alt": "pittosporum tenuifolium miracle kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-miracle/pittosporum-tenuifolium-miracle-in-nursery.jpg",
+        "alt": "pittosporum tenuifolium miracle in nursery"
       }
     ],
     "links": []
@@ -64391,7 +64391,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-mountain-green",
-    "mainImage": "pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-mountain-green/pittosporum-tenuifolium-mountain-green.jpeg",
     "description": "Bushy, erect grower with a rounded form. Small, glossy, fresh-green leaves are tightly-packed along the erect stems. Purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen or hedge.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64430,12 +64430,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium mountain green kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-mountain-green/pittosporum-tenuifolium-mountain-green-foliage.jpg",
+        "alt": "pittosporum tenuifolium mountain green foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-green-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium mountain green kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-mountain-green/pittosporum-tenuifolium-mountain-green-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium mountain green in nursery"
       }
     ],
     "links": []
@@ -64462,7 +64462,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-mountain-jade",
-    "mainImage": "pittosporum-tenuifolium-mountain-jade-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-jade-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-mountain-jade/pittosporum-tenuifolium-mountain-jade.jpeg",
     "description": "Bushy, erect grower with a pyramidal form. Small, glossy, fresh-green leaves with a lime edge are tightly packed along the erect, black stems. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64501,8 +64501,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-mountain-jade-kohuhu-black-matipo/pittosporum-tenuifolium-mountain-jade-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium mountain jade kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-mountain-jade/pittosporum-tenuifolium-mountain-jade-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium mountain jade in nursery"
       }
     ],
     "links": []
@@ -64529,7 +64529,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-oliver-twist",
-    "mainImage": "pittosporum-tenuifolium-oliver-twist-kohuhu-black-matipo/pittosporum-tenuifolium-oliver-twist-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-oliver-twist/pittosporum-tenuifolium-oliver-twist.jpeg",
     "description": "A compact selection with silver-green leaves. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64568,8 +64568,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-oliver-twist-kohuhu-black-matipo/pittosporum-tenuifolium-oliver-twist-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium oliver twist kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-oliver-twist/pittosporum-tenuifolium-oliver-twist-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium oliver twist in nursery"
       }
     ],
     "links": []
@@ -64596,7 +64596,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-silver-pillar",
-    "mainImage": "pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-silver-pillar/pittosporum-tenuifolium-silver-pillar.jpeg",
     "description": "Small, silver-green leaves with a cream edge. Leaves are slightly-flushed with pink during winter. An upright, narrow grower which rarely requires trimming. Ideal for narrow spaces and containers. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees, narrow-sites",
     "tolerates": "coastal, windy",
@@ -64635,16 +64635,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium silver pillar kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-silver-pillar/pittosporum-tenuifolium-silver-pillar-foliage.jpeg",
+        "alt": "pittosporum tenuifolium silver pillar foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium silver pillar kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-silver-pillar/pittosporum-tenuifolium-silver-pillar-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium silver pillar in nursery"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo/pittosporum-tenuifolium-silver-pillar-kohuhu-black-matipo-in-pots.jpg",
-        "alt": "pittosporum tenuifolium silver pillar kohuhu black matipo in pots"
+        "src": "images/trees/pittosporum-tenuifolium-silver-pillar/pittosporum-tenuifolium-silver-pillar-in-pots.jpg",
+        "alt": "pittosporum tenuifolium silver pillar in pots"
       }
     ],
     "links": []
@@ -64671,7 +64671,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-silver-sheen",
-    "mainImage": "pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo/pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-silver-sheen/pittosporum-tenuifolium-silver-sheen.jpg",
     "description": "Erect, pyramidal form with black branches and stems. Small, glossy, pale, silver-green, shimmering leaves. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64710,12 +64710,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo/pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo-bushy-tree.jpg",
-        "alt": "pittosporum tenuifolium silver sheen kohuhu black matipo bushy tree"
+        "src": "images/trees/pittosporum-tenuifolium-silver-sheen/pittosporum-tenuifolium-silver-sheen-bushy-tree.jpg",
+        "alt": "pittosporum tenuifolium silver sheen bushy tree"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo/pittosporum-tenuifolium-silver-sheen-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium silver sheen kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-silver-sheen/pittosporum-tenuifolium-silver-sheen-foliage.jpg",
+        "alt": "pittosporum tenuifolium silver sheen foliage"
       }
     ],
     "links": []
@@ -64742,7 +64742,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-small-ball",
-    "mainImage": "pittosporum-tenuifolium-small-ball-kohuhu-black-matipo/pittosporum-tenuifolium-small-ball-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-small-ball/pittosporum-tenuifolium-small-ball.jpeg",
     "description": "Lovely, compact grower with a tiny, silver-green leaf. Suitable for low hedging and edging or as a good filler where a hardy plant is needed. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "attracts-bees",
     "tolerates": "coastal, windy",
@@ -64804,7 +64804,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-stephens-island",
-    "mainImage": "pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-stephens-island/pittosporum-tenuifolium-stephens-island.jpg",
     "description": "Selection from Stephens Island in the deep south, so tolerant of colder conditions and coastal areas. Forms a dense, rounded tree with olive-green, leathery leaves. Can be clipped into any size or form. Excellent as a screen. Purple spring flowers scent the air with their sweet fragrance.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64843,12 +64843,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo-foliage.jpeg",
-        "alt": "pittosporum tenuifolium stephens island kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-stephens-island/pittosporum-tenuifolium-stephens-island-foliage.jpeg",
+        "alt": "pittosporum tenuifolium stephens island foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo/pittosporum-tenuifolium-stephens-island-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium stephens island kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-stephens-island/pittosporum-tenuifolium-stephens-island-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium stephens island in nursery"
       }
     ],
     "links": []
@@ -64875,7 +64875,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-tandara-gold",
-    "mainImage": "pittosporum-tenuifolium-tandara-gold-kohuhu-black-matipo/pittosporum-tenuifolium-tandara-gold-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-tandara-gold/pittosporum-tenuifolium-tandara-gold.jpg",
     "description": "Erect, pyramidal form with black branches and stems. Small leaves are prominently splashed gold. Great for lighting up dark areas. Purple spring flowers scent the air with their sweet fragrance. Can be clipped into any size or form.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64914,8 +64914,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-tandara-gold-kohuhu-black-matipo/pittosporum-tenuifolium-tandara-gold-kohuhu-black-matipo-bushy-tree.jpg",
-        "alt": "pittosporum tenuifolium tandara gold kohuhu black matipo bushy tree"
+        "src": "images/trees/pittosporum-tenuifolium-tandara-gold/pittosporum-tenuifolium-tandara-gold-bushy-tree.jpg",
+        "alt": "pittosporum tenuifolium tandara gold bushy tree"
       }
     ],
     "links": []
@@ -64942,7 +64942,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-variegatum",
-    "mainImage": "pittosporum-tenuifolium-variegatum-kohuhu-black-matipo/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-variegatum/pittosporum-tenuifolium-variegatum.jpg",
     "description": "Slender, erect, narrow, pyramidal form with grey branches and stems. Long, green leaves have broad, cream-white margins. Great for lighting up dark areas. Purple spring flowers scent the air with their sweet fragrance. Can be clipped into any size or form. Excellent as a screen.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -64981,12 +64981,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo-in-nursery.jpg",
-        "alt": "pittosporum tenuifolium variegatum kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-variegatum/pittosporum-tenuifolium-variegatum-in-nursery.jpg",
+        "alt": "pittosporum tenuifolium variegatum in nursery"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo/pittosporum-tenuifolium-variegatum-kohuhu-black-matipo-young-tree.jpg",
-        "alt": "pittosporum tenuifolium variegatum kohuhu black matipo young tree"
+        "src": "images/trees/pittosporum-tenuifolium-variegatum/pittosporum-tenuifolium-variegatum-young-tree.jpg",
+        "alt": "pittosporum tenuifolium variegatum young tree"
       }
     ],
     "links": []
@@ -65013,7 +65013,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-wai-iti",
-    "mainImage": "pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo.jpeg",
+    "mainImage": "pittosporum-tenuifolium-wai-iti/pittosporum-tenuifolium-wai-iti.jpeg",
     "description": "Erect, bushy tree. The shimmering oval leaves are clear jade-green contrasting with wine-red stems. Great as a feature tree or a hedge. Purple flowers in spring. Hardy to most soil conditions, avoid wet ground.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -65052,12 +65052,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium wai iti kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-wai-iti/pittosporum-tenuifolium-wai-iti-foliage.jpg",
+        "alt": "pittosporum tenuifolium wai iti foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo/pittosporum-tenuifolium-wai-iti-kohuhu-black-matipo-in-nursery.jpeg",
-        "alt": "pittosporum tenuifolium wai iti kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-wai-iti/pittosporum-tenuifolium-wai-iti-in-nursery.jpeg",
+        "alt": "pittosporum tenuifolium wai iti in nursery"
       }
     ],
     "links": []
@@ -65084,7 +65084,7 @@
       "form": ""
     },
     "url": "pittosporum-tenuifolium-wrinkle-blue",
-    "mainImage": "pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo.jpg",
+    "mainImage": "pittosporum-tenuifolium-wrinkle-blue/pittosporum-tenuifolium-wrinkle-blue.jpg",
     "description": "Slender, erect, narrow, pyramidal form with attractively-rippled, blue-green, glossy leaves. Purple spring flowers scent the air with their sweet fragrance. Quick and easy to grow in sun or shade. Can be clipped into any size or form. Excellent as a screen.",
     "uses": "street, attracts-bees",
     "tolerates": "coastal, windy",
@@ -65123,16 +65123,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo-foliage.jpg",
-        "alt": "pittosporum tenuifolium wrinkle blue kohuhu black matipo foliage"
+        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue/pittosporum-tenuifolium-wrinkle-blue-foliage.jpg",
+        "alt": "pittosporum tenuifolium wrinkle blue foliage"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo-hedge.jpg",
-        "alt": "pittosporum tenuifolium wrinkle blue kohuhu black matipo hedge"
+        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue/pittosporum-tenuifolium-wrinkle-blue-hedge.jpg",
+        "alt": "pittosporum tenuifolium wrinkle blue hedge"
       },
       {
-        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo/pittosporum-tenuifolium-wrinkle-blue-kohuhu-black-matipo-in-nursery.jpg",
-        "alt": "pittosporum tenuifolium wrinkle blue kohuhu black matipo in nursery"
+        "src": "images/trees/pittosporum-tenuifolium-wrinkle-blue/pittosporum-tenuifolium-wrinkle-blue-in-nursery.jpg",
+        "alt": "pittosporum tenuifolium wrinkle blue in nursery"
       }
     ],
     "links": []
@@ -65159,7 +65159,7 @@
       "form": ""
     },
     "url": "plagianthus-regius",
-    "mainImage": "plagianthus-regius-manatu-ribbonwood/plagianthus-regius-manatu-ribbonwood.jpeg",
+    "mainImage": "plagianthus-regius/plagianthus-regius.jpeg",
     "description": "Forms a graceful tree with a slender and upright growth habit. Fresh-green new spring leaves and lime-green blossoms from mid-spring to mid-summer. Tolerates exposed conditions.",
     "uses": "attracts-bees",
     "tolerates": "windy",
@@ -65198,8 +65198,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/plagianthus-regius-manatu-ribbonwood/plagianthus-regius-manatu-ribbonwood-foliage.jpeg",
-        "alt": "plagianthus regius manatu ribbonwood foliage"
+        "src": "images/trees/plagianthus-regius/plagianthus-regius-foliage.jpeg",
+        "alt": "plagianthus regius foliage"
       }
     ],
     "links": []
