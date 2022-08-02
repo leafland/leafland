@@ -4962,6 +4962,12 @@
     status = 301
     to = "/trees/laurus-nobilis-f-angustifolia/"
 
+[[redirects]]
+    force = true
+    from = "/trees/laurus-nobilis-f.-angustifolia/"
+    status = 301
+    to = "/trees/laurus-nobilis-f-angustifolia/"
+
 
 [[redirects]]
     force = true
