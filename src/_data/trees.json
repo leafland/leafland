@@ -37536,7 +37536,7 @@
       "form": ""
     },
     "url": "garrya-elliptica",
-    "mainImage": "garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel.jpg",
+    "mainImage": "garrya-elliptica/garrya-elliptica.jpg",
     "description": "Tolerates dry and coastal conditions. Has small, green, leathery leaves and produces tassels of grey-green to silver-grey flowers from late-winter to early-spring. Can be grown as a hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -37575,20 +37575,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel-bush.jpg",
-        "alt": "garrya elliptica silk tassel bush coast silktassel wavyleaf silktassel bush"
+        "src": "images/trees/garrya-elliptica/garrya-elliptica-bush.jpg",
+        "alt": "garrya elliptica bush"
       },
       {
-        "src": "images/trees/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel-flowers.jpg",
-        "alt": "garrya elliptica silk tassel bush coast silktassel wavyleaf silktassel flowers"
+        "src": "images/trees/garrya-elliptica/garrya-elliptica-flowers.jpg",
+        "alt": "garrya elliptica flowers"
       },
       {
-        "src": "images/trees/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel-foliage.jpg",
-        "alt": "garrya elliptica silk tassel bush coast silktassel wavyleaf silktassel foliage"
+        "src": "images/trees/garrya-elliptica/garrya-elliptica-foliage.jpg",
+        "alt": "garrya elliptica foliage"
       },
       {
-        "src": "images/trees/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel/garrya-elliptica-silk-tassel-bush-coast-silktassel-wavyleaf-silktassel-street.jpg",
-        "alt": "garrya elliptica silk tassel bush coast silktassel wavyleaf silktassel street"
+        "src": "images/trees/garrya-elliptica/garrya-elliptica-street.jpg",
+        "alt": "garrya elliptica street"
       }
     ],
     "links": []
@@ -37615,7 +37615,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba",
-    "mainImage": "ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba/ginkgo-biloba.jpg",
     "description": "Hardy tree of great beauty. Distinctive leaves are shaped like sections of maidenhair fern. In autumn, the leaves turn bright-gold over many weeks before falling to create a carpet of gold. Allow space for this tree to develop.",
     "uses": "street",
     "tolerates": "",
@@ -37654,80 +37654,80 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-branches.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn branches"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-branches.jpg",
+        "alt": "ginkgo biloba autumn branches"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-foliage.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn foliage"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-foliage.jpg",
+        "alt": "ginkgo biloba autumn foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-leaf.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn leaf"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-leaf.jpg",
+        "alt": "ginkgo biloba autumn leaf"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-leaves.jpg",
+        "alt": "ginkgo biloba autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-night.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn night"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-night.jpg",
+        "alt": "ginkgo biloba autumn night"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-autumn-park.jpg",
-        "alt": "ginkgo biloba maidenhair tree autumn park"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-autumn-park.jpg",
+        "alt": "ginkgo biloba autumn park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-avenue.jpg",
-        "alt": "ginkgo biloba maidenhair tree avenue"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-avenue.jpg",
+        "alt": "ginkgo biloba avenue"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-city-square.jpg",
-        "alt": "ginkgo biloba maidenhair tree city square"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-city-square.jpg",
+        "alt": "ginkgo biloba city square"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-city.jpg",
-        "alt": "ginkgo biloba maidenhair tree city"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-city.jpg",
+        "alt": "ginkgo biloba city"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-field.jpg",
-        "alt": "ginkgo biloba maidenhair tree field"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-field.jpg",
+        "alt": "ginkgo biloba field"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-foliage.jpg",
-        "alt": "ginkgo biloba maidenhair tree foliage"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-foliage.jpg",
+        "alt": "ginkgo biloba foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-outside-building.jpg",
-        "alt": "ginkgo biloba maidenhair tree outside building"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-outside-building.jpg",
+        "alt": "ginkgo biloba outside building"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-park.jpg",
-        "alt": "ginkgo biloba maidenhair tree park"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-park.jpg",
+        "alt": "ginkgo biloba park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-playground.jpg",
-        "alt": "ginkgo biloba maidenhair tree playground"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-playground.jpg",
+        "alt": "ginkgo biloba playground"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-stunning-autumn-form.jpg",
-        "alt": "ginkgo biloba maidenhair tree stunning autumn form"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-stunning-autumn-form.jpg",
+        "alt": "ginkgo biloba stunning autumn form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-summer-leaf.jpg",
-        "alt": "ginkgo biloba maidenhair tree summer leaf"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-summer-leaf.jpg",
+        "alt": "ginkgo biloba summer leaf"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-summer-leaves.jpg",
-        "alt": "ginkgo biloba maidenhair tree summer leaves"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-summer-leaves.jpg",
+        "alt": "ginkgo biloba summer leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-summer-park.jpg",
-        "alt": "ginkgo biloba maidenhair tree summer park"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-summer-park.jpg",
+        "alt": "ginkgo biloba summer park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-maidenhair-tree/ginkgo-biloba-maidenhair-tree-walkway.jpg",
-        "alt": "ginkgo biloba maidenhair tree walkway"
+        "src": "images/trees/ginkgo-biloba/ginkgo-biloba-walkway.jpg",
+        "alt": "ginkgo biloba walkway"
       }
     ],
     "links": []
@@ -37754,7 +37754,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-autumn-gold",
-    "mainImage": "ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold.jpg",
     "description": "Selected male clone with a classically neat and broadly-conical form. A spectacular sight in autumn when the leaves turn bright-gold over many weeks before falling to create a carpet of gold. This male clone is non-fruiting. Tolerant of pollution.",
     "uses": "street",
     "tolerates": "",
@@ -37793,52 +37793,52 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-autumn-city.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree autumn city"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-autumn-city.jpg",
+        "alt": "ginkgo biloba autumn gold autumn city"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-autumn-leaves.jpg",
+        "alt": "ginkgo biloba autumn gold autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-autumn.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree autumn"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-autumn.jpg",
+        "alt": "ginkgo biloba autumn gold autumn"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-city-park.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree city park"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-city-park.jpg",
+        "alt": "ginkgo biloba autumn gold city park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-field.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree field"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-field.jpg",
+        "alt": "ginkgo biloba autumn gold field"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-foliage.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree foliage"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-foliage.jpg",
+        "alt": "ginkgo biloba autumn gold foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-leaves.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree leaves"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-leaves.jpg",
+        "alt": "ginkgo biloba autumn gold leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-park.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree park"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-park.jpg",
+        "alt": "ginkgo biloba autumn gold park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-street.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree street"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-street.jpg",
+        "alt": "ginkgo biloba autumn gold street"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-summer-foliage.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree summer foliage"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-summer-foliage.jpg",
+        "alt": "ginkgo biloba autumn gold summer foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-summer-form.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree summer form"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-summer-form.jpg",
+        "alt": "ginkgo biloba autumn gold summer form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-autumn-gold-maidenhair-tree/ginkgo-biloba-autumn-gold-maidenhair-tree-young-tree.jpg",
-        "alt": "ginkgo biloba autumn gold maidenhair tree young tree"
+        "src": "images/trees/ginkgo-biloba-autumn-gold/ginkgo-biloba-autumn-gold-young-tree.jpg",
+        "alt": "ginkgo biloba autumn gold young tree"
       }
     ],
     "links": []
@@ -37865,7 +37865,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-fastigiata",
-    "mainImage": "ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata.jpg",
     "description": "Compact, neat, narrow, erect-grower. Great for confined spaces where height is required. A spectacular sight in autumn when the leaves turn bright-gold over many weeks before falling to create a carpet of gold. Non-fruiting. Tolerant of pollution. Excellent street tree.",
     "uses": "narrow-sites",
     "tolerates": "",
@@ -37904,80 +37904,80 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn-avenue.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn avenue"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn-avenue.jpg",
+        "alt": "ginkgo biloba fastigiata autumn avenue"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn-form.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn form"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn-form.jpg",
+        "alt": "ginkgo biloba fastigiata autumn form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn-leaf.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn leaf"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn-leaf.jpg",
+        "alt": "ginkgo biloba fastigiata autumn leaf"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn-leaves.jpg",
+        "alt": "ginkgo biloba fastigiata autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn-street.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn street"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn-street.jpg",
+        "alt": "ginkgo biloba fastigiata autumn street"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-autumn.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree autumn"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-autumn.jpg",
+        "alt": "ginkgo biloba fastigiata autumn"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-beautiful-avenue.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree beautiful avenue"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-beautiful-avenue.jpg",
+        "alt": "ginkgo biloba fastigiata beautiful avenue"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-beautiful-leaves.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree beautiful leaves"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-beautiful-leaves.jpg",
+        "alt": "ginkgo biloba fastigiata beautiful leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-crowd.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree crowd"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-crowd.jpg",
+        "alt": "ginkgo biloba fastigiata crowd"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-evening-sun.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree evening sun"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-evening-sun.jpg",
+        "alt": "ginkgo biloba fastigiata evening sun"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-foliage.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree foliage"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-foliage.jpg",
+        "alt": "ginkgo biloba fastigiata foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-garden.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree garden"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-garden.jpg",
+        "alt": "ginkgo biloba fastigiata garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-highway.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree highway"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-highway.jpg",
+        "alt": "ginkgo biloba fastigiata highway"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-row-street.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree row street"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-row-street.jpg",
+        "alt": "ginkgo biloba fastigiata row street"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-row.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree row"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-row.jpg",
+        "alt": "ginkgo biloba fastigiata row"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-shrine.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree shrine"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-shrine.jpg",
+        "alt": "ginkgo biloba fastigiata shrine"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-summer-form.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree summer form"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-summer-form.jpg",
+        "alt": "ginkgo biloba fastigiata summer form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-tops.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree tops"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-tops.jpg",
+        "alt": "ginkgo biloba fastigiata tops"
       },
       {
-        "src": "images/trees/ginkgo-biloba-fastigiata-maidenhair-tree/ginkgo-biloba-fastigiata-maidenhair-tree-young-tree.jpg",
-        "alt": "ginkgo biloba fastigiata maidenhair tree young tree"
+        "src": "images/trees/ginkgo-biloba-fastigiata/ginkgo-biloba-fastigiata-young-tree.jpg",
+        "alt": "ginkgo biloba fastigiata young tree"
       }
     ],
     "links": []
@@ -38004,7 +38004,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-jade-butterflies",
-    "mainImage": "ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies.jpg",
     "description": "Pyramidal tree with jade-green foliage that turns soft cream-yellow in autumn. Stocky habit suited for smaller gardens.",
     "uses": "",
     "tolerates": "",
@@ -38043,56 +38043,56 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-colour.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn colour"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-colour.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn colour"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-foliage.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn foliage"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-foliage.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-form.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn form"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-form.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-garden.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn garden"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-garden.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-growth.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn growth"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-growth.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn growth"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn-leaves.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-autumn.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree autumn"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-autumn.jpg",
+        "alt": "ginkgo biloba jade butterflies autumn"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-garden.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree garden"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-garden.jpg",
+        "alt": "ginkgo biloba jade butterflies garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-stunning-tree.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree stunning tree"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-stunning-tree.jpg",
+        "alt": "ginkgo biloba jade butterflies stunning tree"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-summer-beauty.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree summer beauty"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-summer-beauty.jpg",
+        "alt": "ginkgo biloba jade butterflies summer beauty"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-summer-foliage.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree summer foliage"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-summer-foliage.jpg",
+        "alt": "ginkgo biloba jade butterflies summer foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-summer-form.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree summer form"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-summer-form.jpg",
+        "alt": "ginkgo biloba jade butterflies summer form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-jade-butterflies-maidenhair-tree/ginkgo-biloba-jade-butterflies-maidenhair-tree-summer.jpg",
-        "alt": "ginkgo biloba jade butterflies maidenhair tree summer"
+        "src": "images/trees/ginkgo-biloba-jade-butterflies/ginkgo-biloba-jade-butterflies-summer.jpg",
+        "alt": "ginkgo biloba jade butterflies summer"
       }
     ],
     "links": []
@@ -38119,7 +38119,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-little-weeper",
-    "mainImage": "ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper.jpg",
     "description": "A rare tree. The branches grow upwards before arching and allowing the outer branches to cascade to the ground. Soft-green leaves in spring turn golden-yellow in autumn.",
     "uses": "",
     "tolerates": "",
@@ -38158,40 +38158,40 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree -gold-foliage.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree gold foliage"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper -gold-foliage.jpg",
+        "alt": "ginkgo biloba little weeper gold foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-autumn-branches.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree autumn branches"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-autumn-branches.jpg",
+        "alt": "ginkgo biloba little weeper autumn branches"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-autumn-foliage.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree autumn foliage"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-autumn-foliage.jpg",
+        "alt": "ginkgo biloba little weeper autumn foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-autumn-leaves.jpg",
+        "alt": "ginkgo biloba little weeper autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-autumn-park.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree autumn park"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-autumn-park.jpg",
+        "alt": "ginkgo biloba little weeper autumn park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-garden.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree garden"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-garden.jpg",
+        "alt": "ginkgo biloba little weeper garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-gold-leaves.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree gold leaves"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-gold-leaves.jpg",
+        "alt": "ginkgo biloba little weeper gold leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-lawn.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree lawn"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-lawn.jpg",
+        "alt": "ginkgo biloba little weeper lawn"
       },
       {
-        "src": "images/trees/ginkgo-biloba-little-weeper-maidenhair-tree/ginkgo-biloba-little-weeper-maidenhair-tree-park.jpg",
-        "alt": "ginkgo biloba little weeper maidenhair tree park"
+        "src": "images/trees/ginkgo-biloba-little-weeper/ginkgo-biloba-little-weeper-park.jpg",
+        "alt": "ginkgo biloba little weeper park"
       }
     ],
     "links": []
@@ -38218,7 +38218,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-ming-princess",
-    "mainImage": "ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess.jpg",
     "description": "Miniature form with very fine foliage. Protect from harsh winds. Leaves turn butter-yellow in autumn. Ideal for a small garden.",
     "uses": "",
     "tolerates": "",
@@ -38257,52 +38257,52 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-autumn-colour-pot.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree autumn colour pot"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-autumn-colour-pot.jpg",
+        "alt": "ginkgo biloba ming princess autumn colour pot"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-autumn-garden.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree autumn garden"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-autumn-garden.jpg",
+        "alt": "ginkgo biloba ming princess autumn garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-autumn-leaves.jpg",
+        "alt": "ginkgo biloba ming princess autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-autumn-pot.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree autumn pot"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-autumn-pot.jpg",
+        "alt": "ginkgo biloba ming princess autumn pot"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-beautiful-autumn-leaves.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree beautiful autumn leaves"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-beautiful-autumn-leaves.jpg",
+        "alt": "ginkgo biloba ming princess beautiful autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-foliage.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree foliage"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-foliage.jpg",
+        "alt": "ginkgo biloba ming princess foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-misty-autumn-morning.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree misty autumn morning"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-misty-autumn-morning.jpg",
+        "alt": "ginkgo biloba ming princess misty autumn morning"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-rich-autumn-colour.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree rich autumn colour"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-rich-autumn-colour.jpg",
+        "alt": "ginkgo biloba ming princess rich autumn colour"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-summer-foliage.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree summer foliage"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-summer-foliage.jpg",
+        "alt": "ginkgo biloba ming princess summer foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-summer-form.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree summer form"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-summer-form.jpg",
+        "alt": "ginkgo biloba ming princess summer form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-summer.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree summer"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-summer.jpg",
+        "alt": "ginkgo biloba ming princess summer"
       },
       {
-        "src": "images/trees/ginkgo-biloba-ming-princess-maidenhair-tree/ginkgo-biloba-ming-princess-maidenhair-tree-young.jpg",
-        "alt": "ginkgo biloba ming princess maidenhair tree young"
+        "src": "images/trees/ginkgo-biloba-ming-princess/ginkgo-biloba-ming-princess-young.jpg",
+        "alt": "ginkgo biloba ming princess young"
       }
     ],
     "links": []
@@ -38329,7 +38329,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-pendula",
-    "mainImage": "ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-pendula/ginkgo-biloba-pendula.jpg",
     "description": "An extremely graceful and specimen tree with beautiful broad fans of fern-like foliage. The foliage turns golden-yellow in autumn and holds well on the tree until it falls cleanly to the ground.",
     "uses": "street",
     "tolerates": "",
@@ -38368,64 +38368,64 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-autumn-foliage.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree autumn foliage"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-autumn-foliage.jpg",
+        "alt": "ginkgo biloba pendula autumn foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-autumn-garden.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree autumn garden"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-autumn-garden.jpg",
+        "alt": "ginkgo biloba pendula autumn garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-autumn-leaves.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree autumn leaves"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-autumn-leaves.jpg",
+        "alt": "ginkgo biloba pendula autumn leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-autumn-park.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree autumn park"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-autumn-park.jpg",
+        "alt": "ginkgo biloba pendula autumn park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-autumn-shot.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree autumn shot"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-autumn-shot.jpg",
+        "alt": "ginkgo biloba pendula autumn shot"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-garden.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree garden"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-garden.jpg",
+        "alt": "ginkgo biloba pendula garden"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-hanging-branches.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree hanging branches"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-hanging-branches.jpg",
+        "alt": "ginkgo biloba pendula hanging branches"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-hanging-leaves.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree hanging leaves"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-hanging-leaves.jpg",
+        "alt": "ginkgo biloba pendula hanging leaves"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-leaves-covering-ground.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree leaves covering ground"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-leaves-covering-ground.jpg",
+        "alt": "ginkgo biloba pendula leaves covering ground"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-mature.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree mature"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-mature.jpg",
+        "alt": "ginkgo biloba pendula mature"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-park.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree park"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-park.jpg",
+        "alt": "ginkgo biloba pendula park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-stunning-autumn-colour.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree stunning autumn colour"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-stunning-autumn-colour.jpg",
+        "alt": "ginkgo biloba pendula stunning autumn colour"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-summer-foliage.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree summer foliage"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-summer-foliage.jpg",
+        "alt": "ginkgo biloba pendula summer foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-summer.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree summer"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-summer.jpg",
+        "alt": "ginkgo biloba pendula summer"
       },
       {
-        "src": "images/trees/ginkgo-biloba-pendula-maidenhair-tree/ginkgo-biloba-pendula-maidenhair-tree-winter.jpg",
-        "alt": "ginkgo biloba pendula maidenhair tree winter"
+        "src": "images/trees/ginkgo-biloba-pendula/ginkgo-biloba-pendula-winter.jpg",
+        "alt": "ginkgo biloba pendula winter"
       }
     ],
     "links": []
@@ -38452,7 +38452,7 @@
       "form": ""
     },
     "url": "ginkgo-biloba-saratoga",
-    "mainImage": "ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree.jpg",
+    "mainImage": "ginkgo-biloba-saratoga/ginkgo-biloba-saratoga.jpg",
     "description": "Selected male clone with an upright growth habit. Distinctive long leaves hang from the branches to give a effect. A spectacular sight in autumn with its yellow leaves. Non-fruiting. Tolerant of pollution.",
     "uses": "street",
     "tolerates": "",
@@ -38491,40 +38491,40 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-autumn-foliage.jpeg",
-        "alt": "ginkgo biloba saratoga maidenhair tree autumn foliage"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-autumn-foliage.jpeg",
+        "alt": "ginkgo biloba saratoga autumn foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-autumn-leaf.jpeg",
-        "alt": "ginkgo biloba saratoga maidenhair tree autumn leaf"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-autumn-leaf.jpeg",
+        "alt": "ginkgo biloba saratoga autumn leaf"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-autumn.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree autumn"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-autumn.jpg",
+        "alt": "ginkgo biloba saratoga autumn"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-city.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree city"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-city.jpg",
+        "alt": "ginkgo biloba saratoga city"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-in-nursery.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree in nursery"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-in-nursery.jpg",
+        "alt": "ginkgo biloba saratoga in nursery"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-park.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree park"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-park.jpg",
+        "alt": "ginkgo biloba saratoga park"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-summer-foliage.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree summer foliage"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-summer-foliage.jpg",
+        "alt": "ginkgo biloba saratoga summer foliage"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-summer-form.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree summer form"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-summer-form.jpg",
+        "alt": "ginkgo biloba saratoga summer form"
       },
       {
-        "src": "images/trees/ginkgo-biloba-saratoga-maidenhair-tree/ginkgo-biloba-saratoga-maidenhair-tree-young-tree.jpg",
-        "alt": "ginkgo biloba saratoga maidenhair tree young tree"
+        "src": "images/trees/ginkgo-biloba-saratoga/ginkgo-biloba-saratoga-young-tree.jpg",
+        "alt": "ginkgo biloba saratoga young tree"
       }
     ],
     "links": []
@@ -38543,7 +38543,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as honey locust, a genus of trees native to North America and Asia.",
+      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as, a genus of trees native to North America and Asia.",
       "species": "<i>triacanthos</i>, derived from the Greek prefix τρɩ (<i>tri</i>, 'three') and noun ἄκανθα (<i>ákantha</i>, 'thorn, spine'), meaning 'three-thorned, three-spined', in reference to the three-branched thorns that are produced on the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -38551,7 +38551,7 @@
       "form": ""
     },
     "url": "gleditsia-triacanthos-var-inermis-emerald-cascade",
-    "mainImage": "gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust.jpg",
+    "mainImage": "gleditsia-triacanthos-var-inermis-emerald-cascade/gleditsia-triacanthos-var-inermis-emerald-cascade.jpg",
     "description": "Deep-green pinnate leaves clothe the strong branches which cascade to the ground. Golden-yellow autumn leaves. Excellent for filling in awkward corners, cascading next to water, or as a container plant. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -38590,16 +38590,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust-autumn-foliage.jpg",
-        "alt": "gleditsia triacanthos var inermis emerald cascade honey locust autumn foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade/gleditsia-triacanthos-var-inermis-emerald-cascade-autumn-foliage.jpg",
+        "alt": "gleditsia triacanthos var inermis emerald cascade autumn foliage"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust-foliage.jpeg",
-        "alt": "gleditsia triacanthos var inermis emerald cascade honey locust foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade/gleditsia-triacanthos-var-inermis-emerald-cascade-foliage.jpeg",
+        "alt": "gleditsia triacanthos var inermis emerald cascade foliage"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust/gleditsia-triacanthos-var-inermis-emerald-cascade-honey-locust-park.jpg",
-        "alt": "gleditsia triacanthos var inermis emerald cascade honey locust park"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-emerald-cascade/gleditsia-triacanthos-var-inermis-emerald-cascade-park.jpg",
+        "alt": "gleditsia triacanthos var inermis emerald cascade park"
       }
     ],
     "links": []
@@ -38618,7 +38618,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as honey locust, a genus of trees native to North America and Asia.",
+      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as, a genus of trees native to North America and Asia.",
       "species": "<i>triacanthos</i>, derived from the Greek prefix τρɩ (<i>tri</i>, 'three') and noun ἄκανθα (<i>ákantha</i>, 'thorn, spine'), meaning 'three-thorned, three-spined', in reference to the three-branched thorns that are produced on the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -38626,7 +38626,7 @@
       "form": ""
     },
     "url": "gleditsia-triacanthos-var-inermis-limelight",
-    "mainImage": "gleditsia-triacanthos-var-inermis-limelight-honey-locust/gleditsia-triacanthos-var-inermis-limelight-honey-locust.jpg",
+    "mainImage": "gleditsia-triacanthos-var-inermis-limelight/gleditsia-triacanthos-var-inermis-limelight.jpg",
     "description": "Has softer lime-green to pale-yellow foliage than <a href='/trees/gleditsia-triacanthos-var-inermis-sunburst/'><i>Gleditsia triacanthos</i> var. <i>inermis</i> 'Sunburst'</a>. Golden autumn leaves. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -38665,8 +38665,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-limelight-honey-locust/gleditsia-triacanthos-var-inermis-limelight-honey-locust-foliage.jpg",
-        "alt": "gleditsia triacanthos var inermis limelight honey locust foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-limelight/gleditsia-triacanthos-var-inermis-limelight-foliage.jpg",
+        "alt": "gleditsia triacanthos var inermis limelight foliage"
       }
     ],
     "links": []
@@ -38685,7 +38685,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as honey locust, a genus of trees native to North America and Asia.",
+      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as, a genus of trees native to North America and Asia.",
       "species": "<i>triacanthos</i>, derived from the Greek prefix τρɩ (<i>tri</i>, 'three') and noun ἄκανθα (<i>ákantha</i>, 'thorn, spine'), meaning 'three-thorned, three-spined', in reference to the three-branched thorns that are produced on the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -38693,7 +38693,7 @@
       "form": ""
     },
     "url": "gleditsia-triacanthos-var-inermis-ruby-lace",
-    "mainImage": "gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust.jpg",
+    "mainImage": "gleditsia-triacanthos-var-inermis-ruby-lace/gleditsia-triacanthos-var-inermis-ruby-lace.jpg",
     "description": "Forms a graceful, round-headed shade tree. Ideal for the smaller garden. Purple-red, ferny, pinnate leaves turn bronze-red through summer. The leaves turn intense claret-red before falling. Excellent in hot, dry climates. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -38732,16 +38732,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust-foliage.jpg",
-        "alt": "gleditsia triacanthos var inermis ruby lace honey locust foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace/gleditsia-triacanthos-var-inermis-ruby-lace-foliage.jpg",
+        "alt": "gleditsia triacanthos var inermis ruby lace foliage"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust-garden.jpg",
-        "alt": "gleditsia triacanthos var inermis ruby lace honey locust garden"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace/gleditsia-triacanthos-var-inermis-ruby-lace-garden.jpg",
+        "alt": "gleditsia triacanthos var inermis ruby lace garden"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust/gleditsia-triacanthos-var-inermis-ruby-lace-honey-locust-park.jpg",
-        "alt": "gleditsia triacanthos var inermis ruby lace honey locust park"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-ruby-lace/gleditsia-triacanthos-var-inermis-ruby-lace-park.jpg",
+        "alt": "gleditsia triacanthos var inermis ruby lace park"
       }
     ],
     "links": []
@@ -38760,7 +38760,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as honey locust, a genus of trees native to North America and Asia.",
+      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as, a genus of trees native to North America and Asia.",
       "species": "<i>triacanthos</i>, derived from the Greek prefix τρɩ (<i>tri</i>, 'three') and noun ἄκανθα (<i>ákantha</i>, 'thorn, spine'), meaning 'three-thorned, three-spined', in reference to the three-branched thorns that are produced on the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -38768,7 +38768,7 @@
       "form": ""
     },
     "url": "gleditsia-triacanthos-var-inermis-skyline",
-    "mainImage": "gleditsia-triacanthos-var-inermis-skyline-honey-locust/gleditsia-triacanthos-var-inermis-skyline-honey-locust.jpg",
+    "mainImage": "gleditsia-triacanthos-var-inermis-skyline/gleditsia-triacanthos-var-inermis-skyline.jpg",
     "description": "Upright form with a straight trunk and a compact-branching structure. Excellent shade or specimen tree where space is limited. Golden autumn leaves in autumn over a long period. Withstands heat, cold, and drought. Good street tree. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
     "uses": "street, paddocks, shade, attracts-bees",
     "tolerates": "",
@@ -38807,12 +38807,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-skyline-honey-locust/gleditsia-triacanthos-var-inermis-skyline-honey-locust-foliage.jpg",
-        "alt": "gleditsia triacanthos var inermis skyline honey locust foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-skyline/gleditsia-triacanthos-var-inermis-skyline-foliage.jpg",
+        "alt": "gleditsia triacanthos var inermis skyline foliage"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-skyline-honey-locust/gleditsia-triacanthos-var-inermis-skyline-honey-locust-street.jpg",
-        "alt": "gleditsia triacanthos var inermis skyline honey locust street"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-skyline/gleditsia-triacanthos-var-inermis-skyline-street.jpg",
+        "alt": "gleditsia triacanthos var inermis skyline street"
       }
     ],
     "links": []
@@ -38831,7 +38831,7 @@
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
-      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as honey locust, a genus of trees native to North America and Asia.",
+      "genus": "<i>gleditsia</i> (Latinised), named after the German physician and botanist Johann Gottlieb Gleditsch (1714 - 1786). Commonly known as, a genus of trees native to North America and Asia.",
       "species": "<i>triacanthos</i>, derived from the Greek prefix τρɩ (<i>tri</i>, 'three') and noun ἄκανθα (<i>ákantha</i>, 'thorn, spine'), meaning 'three-thorned, three-spined', in reference to the three-branched thorns that are produced on the trunk and branches of this species.",
       "hybrid": "",
       "subspecies": "",
@@ -38839,7 +38839,7 @@
       "form": ""
     },
     "url": "gleditsia-triacanthos-var-inermis-sunburst",
-    "mainImage": "gleditsia-triacanthos-var-inermis-sunburst-honey-locust/gleditsia-triacanthos-var-inermis-sunburst-honey-locust.jpg",
+    "mainImage": "gleditsia-triacanthos-var-inermis-sunburst/gleditsia-triacanthos-var-inermis-sunburst.jpg",
     "description": "Forms a neatly rounded tree with a picturesque branching structure. Superb shade tree, giving dappled light and allowing lawn to grow beneath. Bright-yellow new leaves contrast with the fresh, lime-green older leaves. Vibrant golden autumn leaves. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
     "uses": "street, paddocks, shade, attracts-bees",
     "tolerates": "",
@@ -38878,16 +38878,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst-honey-locust/gleditsia-triacanthos-var-inermis-sunburst-honey-locust-foliage.jpg",
-        "alt": "gleditsia triacanthos var inermis sunburst honey locust foliage"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst/gleditsia-triacanthos-var-inermis-sunburst-foliage.jpg",
+        "alt": "gleditsia triacanthos var inermis sunburst foliage"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst-honey-locust/gleditsia-triacanthos-var-inermis-sunburst-honey-locust-garden.jpg",
-        "alt": "gleditsia triacanthos var inermis sunburst honey locust garden"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst/gleditsia-triacanthos-var-inermis-sunburst-garden.jpg",
+        "alt": "gleditsia triacanthos var inermis sunburst garden"
       },
       {
-        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst-honey-locust/gleditsia-triacanthos-var-inermis-sunburst-honey-locust-park.jpg",
-        "alt": "gleditsia triacanthos var inermis sunburst honey locust park"
+        "src": "images/trees/gleditsia-triacanthos-var-inermis-sunburst/gleditsia-triacanthos-var-inermis-sunburst-park.jpg",
+        "alt": "gleditsia triacanthos var inermis sunburst park"
       }
     ],
     "links": []
@@ -38924,7 +38924,7 @@
       "form": ""
     },
     "url": "gordonia-axillaris",
-    "mainImage": "gordonia-axillaris-fried-egg-tree/gordonia-axillaris-fried-egg-tree.jpg",
+    "mainImage": "gordonia-axillaris/gordonia-axillaris.jpg",
     "description": "Hardy and versatile tree. Thick, glossy, dark-green leaves. Bears a profusion of single white flowers with a prominent boss of stamens from autumn to spring. Hardy to cold and wind.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -38963,12 +38963,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gordonia-axillaris-fried-egg-tree/gordonia-axillaris-fried-egg-tree-flower.jpg",
-        "alt": "gordonia axillaris fried egg tree flower"
+        "src": "images/trees/gordonia-axillaris/gordonia-axillaris-flower.jpg",
+        "alt": "gordonia axillaris flower"
       },
       {
-        "src": "images/trees/gordonia-axillaris-fried-egg-tree/gordonia-axillaris-fried-egg-tree-young-tree.jpg",
-        "alt": "gordonia axillaris fried egg tree young tree"
+        "src": "images/trees/gordonia-axillaris/gordonia-axillaris-young-tree.jpg",
+        "alt": "gordonia axillaris young tree"
       }
     ],
     "links": []
@@ -38995,7 +38995,7 @@
       "form": ""
     },
     "url": "gordonia-yunnanensis",
-    "mainImage": "gordonia-yunnanensis-fried-egg-tree/gordonia-yunnanensis-fried-egg-tree.jpg",
+    "mainImage": "gordonia-yunnanensis/gordonia-yunnanensis.jpg",
     "description": "Hardy and versatile tree. Red-green new leaves turn dark-green. Bears a profusion of single white flowers with a prominent boss of stamens from autumn to spring. Excellent for hedging. Will tolerate shade. Hardy to cold and wind.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "windy",
@@ -39057,7 +39057,7 @@
       "form": ""
     },
     "url": "gordonia-yunnanensis-moonlight-magic",
-    "mainImage": "gordonia-yunnanensis-moonlight-magic-fried-egg-tree/gordonia-yunnanensis-moonlight-magic-fried-egg-tree.jpg",
+    "mainImage": "gordonia-yunnanensis-moonlight-magic/gordonia-yunnanensis-moonlight-magic.jpg",
     "description": "This rounded tree is breathtaking in full flower. Huge white flowers with sunshine yellow stamens open from fat buds from late-autumn to spring. A great source of food for bees during the colder months. Plant in sun or semi-shade.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
@@ -39096,8 +39096,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gordonia-yunnanensis-moonlight-magic-fried-egg-tree/gordonia-yunnanensis-moonlight-magic-fried-egg-tree-foliage.jpg",
-        "alt": "gordonia yunnanensis moonlight magic fried egg tree foliage"
+        "src": "images/trees/gordonia-yunnanensis-moonlight-magic/gordonia-yunnanensis-moonlight-magic-foliage.jpg",
+        "alt": "gordonia yunnanensis moonlight magic foliage"
       }
     ],
     "links": []
@@ -39124,7 +39124,7 @@
       "form": ""
     },
     "url": "gordonia-yunnanensis-red-tips",
-    "mainImage": "gordonia-yunnanensis-red-tips-fried-egg-tree/gordonia-yunnanensis-red-tips-fried-egg-tree.jpg",
+    "mainImage": "gordonia-yunnanensis-red-tips/gordonia-yunnanensis-red-tips.jpg",
     "description": "Smaller leaf form, with red new growth becoming glossy dark-green. Large, single, white flowers with a boss of golden stamens are borne from mid-winter into spring. Excellent source of food for bees. Great for hedging.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "",
@@ -39163,12 +39163,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/gordonia-yunnanensis-red-tips-fried-egg-tree/gordonia-yunnanensis-red-tips-fried-egg-tree-flower.jpg",
-        "alt": "gordonia yunnanensis red tips fried egg tree flower"
+        "src": "images/trees/gordonia-yunnanensis-red-tips/gordonia-yunnanensis-red-tips-flower.jpg",
+        "alt": "gordonia yunnanensis red tips flower"
       },
       {
-        "src": "images/trees/gordonia-yunnanensis-red-tips-fried-egg-tree/gordonia-yunnanensis-red-tips-fried-egg-tree-foliage.jpg",
-        "alt": "gordonia yunnanensis red tips fried egg tree foliage"
+        "src": "images/trees/gordonia-yunnanensis-red-tips/gordonia-yunnanensis-red-tips-foliage.jpg",
+        "alt": "gordonia yunnanensis red tips foliage"
       }
     ],
     "links": []
@@ -39195,7 +39195,7 @@
       "form": ""
     },
     "url": "grevillea-robusta",
-    "mainImage": "grevillea-robusta-silky-oak/grevillea-robusta-silky-oak.jpg",
+    "mainImage": "grevillea-robusta/grevillea-robusta.jpg",
     "description": "An upright, pyramidal tree when young with large, fern-like, pale-green leaves. As it ages, horizontal limbs develop, creating a broader top. Mature trees bear amazing large yellow-orange flowers in clusters in spring. Nectar-seeking birds are drawn to the flowers. Tolerates coastal winds and dry conditions.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39234,32 +39234,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-field.jpg",
-        "alt": "grevillea robusta silky oak field"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-field.jpg",
+        "alt": "grevillea robusta field"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-flowers.jpg",
-        "alt": "grevillea robusta silky oak flowers"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-flowers.jpg",
+        "alt": "grevillea robusta flowers"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-foliage.jpeg",
-        "alt": "grevillea robusta silky oak foliage"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-foliage.jpeg",
+        "alt": "grevillea robusta foliage"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-garden.jpg",
-        "alt": "grevillea robusta silky oak garden"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-garden.jpg",
+        "alt": "grevillea robusta garden"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-new-foliage.jpeg",
-        "alt": "grevillea robusta silky oak new foliage"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-new-foliage.jpeg",
+        "alt": "grevillea robusta new foliage"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-park.jpg",
-        "alt": "grevillea robusta silky oak park"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-park.jpg",
+        "alt": "grevillea robusta park"
       },
       {
-        "src": "images/trees/grevillea-robusta-silky-oak/grevillea-robusta-silky-oak-street.jpg",
-        "alt": "grevillea robusta silky oak street"
+        "src": "images/trees/grevillea-robusta/grevillea-robusta-street.jpg",
+        "alt": "grevillea robusta street"
       }
     ],
     "links": []
@@ -39286,7 +39286,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis",
-    "mainImage": "griselinia-littoralis-kapuka-papaumua-broadleaf/griselinia-littoralis-kapuka-papaumua-broadleaf.jpg",
+    "mainImage": "griselinia-littoralis/griselinia-littoralis.jpg",
     "description": "Rich-green, oval, leathery, glossy leaves on golden stems. A dense grower which can be clipped into many forms. Ideal for hedging, and screening. Tough and able to cope with all extremes except wet feet. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39325,12 +39325,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-kapuka-papaumua-broadleaf/griselinia-littoralis-kapuka-papaumua-broadleaf-foliage.jpg",
-        "alt": "griselinia littoralis kapuka papaumua broadleaf foliage"
+        "src": "images/trees/griselinia-littoralis/griselinia-littoralis-foliage.jpg",
+        "alt": "griselinia littoralis foliage"
       },
       {
-        "src": "images/trees/griselinia-littoralis-kapuka-papaumua-broadleaf/griselinia-littoralis-kapuka-papaumua-broadleaf-hedge.jpeg",
-        "alt": "griselinia littoralis kapuka papaumua broadleaf hedge"
+        "src": "images/trees/griselinia-littoralis/griselinia-littoralis-hedge.jpeg",
+        "alt": "griselinia littoralis hedge"
       }
     ],
     "links": [
@@ -39360,7 +39360,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-ardmore-emerald",
-    "mainImage": "griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf/griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf.jpeg",
+    "mainImage": "griselinia-littoralis-ardmore-emerald/griselinia-littoralis-ardmore-emerald.jpeg",
     "description": "Dark-green glossy leaves. A dense grower which can be clipped into many forms. Ideal for hedging and screening. Tough and able to cope with all extremes except wet feet. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39399,12 +39399,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf/griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf-foliage.jpg",
-        "alt": "griselinia littoralis ardmore emerald kapuka papauma broadleaf foliage"
+        "src": "images/trees/griselinia-littoralis-ardmore-emerald/griselinia-littoralis-ardmore-emerald-foliage.jpg",
+        "alt": "griselinia littoralis ardmore emerald foliage"
       },
       {
-        "src": "images/trees/griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf/griselinia-littoralis-ardmore-emerald-kapuka-papauma-broadleaf-leaf.jpeg",
-        "alt": "griselinia littoralis ardmore emerald kapuka papauma broadleaf leaf"
+        "src": "images/trees/griselinia-littoralis-ardmore-emerald/griselinia-littoralis-ardmore-emerald-leaf.jpeg",
+        "alt": "griselinia littoralis ardmore emerald leaf"
       }
     ],
     "links": [
@@ -39434,7 +39434,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-broadway-lime",
-    "mainImage": "griselinia-littoralis-broadway-lime-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-lime-kapuka-papauma-broadleaf.jpg",
+    "mainImage": "griselinia-littoralis-broadway-lime/griselinia-littoralis-broadway-lime.jpg",
     "description": "Has small, lime-green leaves with an upright growth habit. Fantastic hedge plant that can be clipped into many forms. Ideal for low hedging. Tough and able to cope with all extremes except wet feet. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39499,7 +39499,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-broadway-mint",
-    "mainImage": "griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf.jpeg",
+    "mainImage": "griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint.jpeg",
     "description": "Rich-green, oval, leathery, glossy leaves with wavy edges. Golden stems. A dense grower which can be clipped into many forms. Tough and able to cope with all extremes except wet feet. Tolerates heavy frosts. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39538,16 +39538,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf-foliage.jpeg",
-        "alt": "griselinia littoralis broadway mint kapuka papauma broadleaf foliage"
+        "src": "images/trees/griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint-foliage.jpeg",
+        "alt": "griselinia littoralis broadway mint foliage"
       },
       {
-        "src": "images/trees/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf-in-nursery.jpeg",
-        "alt": "griselinia littoralis broadway mint kapuka papauma broadleaf in nursery"
+        "src": "images/trees/griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint-in-nursery.jpeg",
+        "alt": "griselinia littoralis broadway mint in nursery"
       },
       {
-        "src": "images/trees/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf/griselinia-littoralis-broadway-mint-kapuka-papauma-broadleaf-single-tree-nursery.jpeg",
-        "alt": "griselinia littoralis broadway mint kapuka papauma broadleaf single tree nursery"
+        "src": "images/trees/griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint-single-tree-nursery.jpeg",
+        "alt": "griselinia littoralis broadway mint single tree nursery"
       }
     ],
     "links": [
@@ -39577,7 +39577,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-canterbury",
-    "mainImage": "griselinia-littoralis-canterbury-kapuka-papauma-broadleaf/griselinia-littoralis-canterbury-kapuka-papauma-broadleaf.jpeg",
+    "mainImage": "griselinia-littoralis-canterbury/griselinia-littoralis-canterbury.jpeg",
     "description": "Small, dark-green, glossy leaves. Distinctive red stems. A dense grower which can be clipped into many forms. Ideal for hedging and screening. Tough and able to cope with all extremes except wet feet. Tolerates heavy frosts. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39616,12 +39616,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-canterbury-kapuka-papauma-broadleaf/griselinia-littoralis-canterbury-kapuka-papauma-broadleaf-foliage.jpeg",
-        "alt": "griselinia littoralis canterbury kapuka papauma broadleaf foliage"
+        "src": "images/trees/griselinia-littoralis-canterbury/griselinia-littoralis-canterbury-foliage.jpeg",
+        "alt": "griselinia littoralis canterbury foliage"
       },
       {
-        "src": "images/trees/griselinia-littoralis-canterbury-kapuka-papauma-broadleaf/griselinia-littoralis-canterbury-kapuka-papauma-broadleaf-stems.jpg",
-        "alt": "griselinia littoralis canterbury kapuka papauma broadleaf stems"
+        "src": "images/trees/griselinia-littoralis-canterbury/griselinia-littoralis-canterbury-stems.jpg",
+        "alt": "griselinia littoralis canterbury stems"
       }
     ],
     "links": [
@@ -39651,7 +39651,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-gecko-green",
-    "mainImage": "griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf/griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf.jpeg",
+    "mainImage": "griselinia-littoralis-gecko-green/griselinia-littoralis-gecko-green.jpeg",
     "description": "A compact grower with dense, glossy, emerald-green foliage. Excellent for low-hedging due to its tidy and compact growth habit. Wind and coastal tolerant. Needs a well drained site in full sun to semi-shade. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39690,8 +39690,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf/griselinia-littoralis-gecko-green-kapuka-papauma-broadleaf-leaf.jpeg",
-        "alt": "griselinia littoralis gecko green kapuka papauma broadleaf leaf"
+        "src": "images/trees/griselinia-littoralis-gecko-green/griselinia-littoralis-gecko-green-leaf.jpeg",
+        "alt": "griselinia littoralis gecko green leaf"
       }
     ],
     "links": [
@@ -39721,7 +39721,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-variegata",
-    "mainImage": "griselinia-littoralis-variegata-kapuka-papauma-broadleaf/griselinia-littoralis-variegata-kapuka-papauma-broadleaf.jpg",
+    "mainImage": "griselinia-littoralis-variegata/griselinia-littoralis-variegata.jpg",
     "description": "Rich-green wavy leaves are blotched and irregularly margined pale-gold. A dense grower which can be clipped into many forms. Ideal for hedging and screening. Will tolerate all but poorly drained soils. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39786,7 +39786,7 @@
       "form": ""
     },
     "url": "griselinia-littoralis-whenuapai",
-    "mainImage": "griselinia-littoralis-whenuapai-kapuka-papauma-broadleaf/griselinia-littoralis-whenuapai-kapuka-papauma-broadleaf.jpeg",
+    "mainImage": "griselinia-littoralis-whenuapai/griselinia-littoralis-whenuapai.jpeg",
     "description": "Has large, glossy, dark-green leaves that form a tight narrow column, making it an ideal choice for architectural plantings. The foliage has a distinctive pointed leaf tip, which makes for a tidy appearance. Ideally suited for hedging, topiary work, and coastal plantings. Happy in fertile, well drained soils in full sun to part shade. Hardy. Small, green-yellow flowers in late-spring to mid-summer.",
     "uses": "hedging-and-screening, topiary, attracts-bees",
     "tolerates": "coastal, windy",
@@ -39825,8 +39825,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-littoralis-whenuapai-kapuka-papauma-broadleaf/griselinia-littoralis-whenuapai-kapuka-papauma-broadleaf-foliage.jpeg",
-        "alt": "griselinia littoralis whenuapai kapuka papauma broadleaf foliage"
+        "src": "images/trees/griselinia-littoralis-whenuapai/griselinia-littoralis-whenuapai-foliage.jpeg",
+        "alt": "griselinia littoralis whenuapai foliage"
       }
     ],
     "links": [
@@ -39856,7 +39856,7 @@
       "form": ""
     },
     "url": "griselinia-lucida",
-    "mainImage": "griselinia-lucida-puka-akapuka-broadleaf/griselinia-lucida-puka-akapuka-broadleaf.jpg",
+    "mainImage": "griselinia-lucida/griselinia-lucida.jpg",
     "description": "A bushy tree with stout erect stems clothed in large, fresh-green, highly-polished leaves. Grows in sun or shade, imparting a luxuriant tropical feel to the garden. Excellent for containers. Coastal hardy. Tolerates light frosts.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal, windy",
@@ -39895,8 +39895,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/griselinia-lucida-puka-akapuka-broadleaf/griselinia-lucida-puka-akapuka-broadleaf-foliage.jpeg",
-        "alt": "griselinia lucida puka akapuka broadleaf foliage"
+        "src": "images/trees/griselinia-lucida/griselinia-lucida-foliage.jpeg",
+        "alt": "griselinia lucida foliage"
       }
     ],
     "links": [
