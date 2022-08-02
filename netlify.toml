@@ -5889,7 +5889,13 @@
     force = true
     from = "/trees/malus-domestica-initial-sir-prize-apple/"
     status = 301
-    to = "/trees/malus-domestica-initial/sir-prize/"
+    to = "/trees/malus-domestica-initial-sir-prize/"
+
+[[redirects]]
+    force = true
+    from = "/trees/malus-domestica-initial/sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-initial-sir-prize/"
 
 
 [[redirects]]
@@ -5903,7 +5909,13 @@
     force = true
     from = "/trees/malus-domestica-liberty-sir-prize-apple/"
     status = 301
-    to = "/trees/malus-domestica-liberty/sir-prize/"
+    to = "/trees/malus-domestica-liberty-sir-prize/"
+
+[[redirects]]
+    force = true
+    from = "/trees/malus-domestica-liberty/sir-prize/"
+    status = 301
+    to = "/trees/malus-domestica-liberty-sir-prize/"
 
 
 [[redirects]]
@@ -5931,21 +5943,39 @@
     force = true
     from = "/trees/malus-domestica-royal-gala-braeburn-apple/"
     status = 301
-    to = "/trees/malus-domestica-royal-gala/braeburn/"
+    to = "/trees/malus-domestica-royal-gala-braeburn/"
+
+[[redirects]]
+    force = true
+    from = "/trees/malus-domestica-royal-gala/braeburn/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-braeburn/"
 
 
 [[redirects]]
     force = true
     from = "/trees/malus-domestica-royal-gala-granny-smith-apple/"
     status = 301
-    to = "/trees/malus-domestica-royal-gala/granny-smith/"
+    to = "/trees/malus-domestica-royal-gala-granny-smith/"
+
+[[redirects]]
+    force = true
+    from = "/trees/malus-domestica-royal-gala/granny-smith/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-granny-smith/"
 
 
 [[redirects]]
     force = true
     from = "/trees/malus-domestica-royal-gala-golden-delicious-apple/"
     status = 301
-    to = "/trees/malus-domestica-royal-gala/golden-delicious/"
+    to = "/trees/malus-domestica-royal-gala-golden-delicious/"
+
+[[redirects]]
+    force = true
+    from = "/trees/malus-domestica-royal-gala/golden-delicious/"
+    status = 301
+    to = "/trees/malus-domestica-royal-gala-golden-delicious/"
 
 
 [[redirects]]

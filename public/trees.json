@@ -52912,7 +52912,7 @@
       "form": ""
     },
     "url": "malus-arrow-gold",
-    "mainImage": "malus-arrow-gold-crabapple/malus-arrow-gold-crabapple.jpg",
+    "mainImage": "malus-arrow-gold/malus-arrow-gold.jpg",
     "description": "Bunches of large, white-pink blossoms in mid-spring. An autumn profusion of large, clear-yellow crabapples are borne on branches. Can be made into jelly. Excellent variety to pleach or espalier. Yellow and orange autumn leaves.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -52951,16 +52951,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-arrow-gold-crabapple/malus-arrow-gold-crabapple-fruit.jpg",
-        "alt": "malus arrow gold crabapple fruit"
+        "src": "images/trees/malus-arrow-gold/malus-arrow-gold-fruit.jpg",
+        "alt": "malus arrow gold fruit"
       },
       {
-        "src": "images/trees/malus-arrow-gold-crabapple/malus-arrow-gold-crabapple-fruiting.jpg",
-        "alt": "malus arrow gold crabapple fruiting"
+        "src": "images/trees/malus-arrow-gold/malus-arrow-gold-fruiting.jpg",
+        "alt": "malus arrow gold fruiting"
       },
       {
-        "src": "images/trees/malus-arrow-gold-crabapple/malus-arrow-gold-crabapple-young-tree.jpg",
-        "alt": "malus arrow gold crabapple young tree"
+        "src": "images/trees/malus-arrow-gold/malus-arrow-gold-young-tree.jpg",
+        "alt": "malus arrow gold young tree"
       }
     ],
     "links": []
@@ -52987,7 +52987,7 @@
       "form": ""
     },
     "url": "malus-baccata-jackii",
-    "mainImage": "malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple.jpg",
+    "mainImage": "malus-baccata-jackii/malus-baccata-jackii.jpg",
     "description": "Broad-headed, upright grower with dark-green leaves. Shell-pink buds open to large, white flowers in spring. Small, maroon-red crabapples in autumn. Great all-round tree, tolerating urban pollution. Ideal for avenues and as a street tree. Yellow and orange autumn leaves.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -53026,24 +53026,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple-flowering.jpg",
-        "alt": "malus baccata jackii siberian crabapple flowering"
+        "src": "images/trees/malus-baccata-jackii/malus-baccata-jackii-flowering.jpg",
+        "alt": "malus baccata jackii flowering"
       },
       {
-        "src": "images/trees/malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple-flowers.jpeg",
-        "alt": "malus baccata jackii siberian crabapple flowers"
+        "src": "images/trees/malus-baccata-jackii/malus-baccata-jackii-flowers.jpeg",
+        "alt": "malus baccata jackii flowers"
       },
       {
-        "src": "images/trees/malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple-foliage.jpeg",
-        "alt": "malus baccata jackii siberian crabapple foliage"
+        "src": "images/trees/malus-baccata-jackii/malus-baccata-jackii-foliage.jpeg",
+        "alt": "malus baccata jackii foliage"
       },
       {
-        "src": "images/trees/malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple-fruit.jpg",
-        "alt": "malus baccata jackii siberian crabapple fruit"
+        "src": "images/trees/malus-baccata-jackii/malus-baccata-jackii-fruit.jpg",
+        "alt": "malus baccata jackii fruit"
       },
       {
-        "src": "images/trees/malus-baccata-jackii-siberian-crabapple/malus-baccata-jackii-siberian-crabapple-paddock.jpg",
-        "alt": "malus baccata jackii siberian crabapple paddock"
+        "src": "images/trees/malus-baccata-jackii/malus-baccata-jackii-paddock.jpg",
+        "alt": "malus baccata jackii paddock"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -53070,7 +53070,7 @@
       "form": ""
     },
     "url": "malus-ballerina-maypole",
-    "mainImage": "malus-ballerina-maypole-crabapple/malus-ballerina-maypole-crabapple.jpg",
+    "mainImage": "malus-ballerina-maypole/malus-ballerina-maypole.jpg",
     "description": "Columnar growth habit. Large, carmine-red blossoms nestle among the new copper-red leaves in spring. Large, dark-red crabapples stud the branches in autumn.",
     "uses": "narrow-sites, attracts-bees, attracts-birds",
     "tolerates": "",
@@ -53109,8 +53109,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-ballerina-maypole-crabapple/malus-ballerina-maypole-crabapple-flowers.jpg",
-        "alt": "malus ballerina maypole crabapple flowers"
+        "src": "images/trees/malus-ballerina-maypole/malus-ballerina-maypole-flowers.jpg",
+        "alt": "malus ballerina maypole flowers"
       }
     ],
     "links": []
@@ -53137,7 +53137,7 @@
       "form": ""
     },
     "url": "malus-barbara-ann",
-    "mainImage": "malus-barbara-ann-crabapple/malus-barbara-ann-crabapple.jpg",
+    "mainImage": "malus-barbara-ann/malus-barbara-ann.jpg",
     "description": "Fragrant, double, pink blossoms in spring contrast with the new red leaves. An upright, open grower very suited to training such as espaliering. Small, dark red-purple crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -53176,8 +53176,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-barbara-ann-crabapple/malus-barbara-ann-crabapple-flowers.jpg",
-        "alt": "malus barbara ann crabapple flowers"
+        "src": "images/trees/malus-barbara-ann/malus-barbara-ann-flowers.jpg",
+        "alt": "malus barbara ann flowers"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -53204,7 +53204,7 @@
       "form": ""
     },
     "url": "malus-coronet-peak",
-    "mainImage": "malus-coronet-peak-crabapple/malus-coronet-peak-crabapple.jpg",
+    "mainImage": "malus-coronet-peak/malus-coronet-peak.jpg",
     "description": "A neat-growing shade tree with horizontal spreading branches. Pink buds open out to pure-white blossoms in spring. Produces a mass of gold-yellow crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -53243,8 +53243,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-coronet-peak-crabapple/malus-coronet-peak-crabapple-fruit.jpg",
-        "alt": "malus coronet peak crabapple fruit"
+        "src": "images/trees/malus-coronet-peak/malus-coronet-peak-fruit.jpg",
+        "alt": "malus coronet peak fruit"
       }
     ],
     "links": []
@@ -53271,7 +53271,7 @@
       "form": ""
     },
     "url": "malus-domestica-braeburn",
-    "mainImage": "malus-domestica-braeburn-apple/malus-domestica-braeburn-apple.jpg",
+    "mainImage": "malus-domestica-braeburn/malus-domestica-braeburn.jpg",
     "description": "One of the world's top commercial apples. Delicious, crisp, juicy flesh and superb sweet-tart flavour. Excellent keeper. Harvest from late-summer to mid-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but best planted with another variety with a similar bloom period like <a href='/trees/malus-domestica-fuji/'><i>Malus domestica</i> 'Fuji'</a> and <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53310,12 +53310,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-cut.jpg",
-        "alt": "malus domestica braeburn apple cut"
+        "src": "images/trees/malus-domestica-braeburn/malus-domestica-braeburn-cut.jpg",
+        "alt": "malus domestica braeburn cut"
       },
       {
-        "src": "images/trees/malus-domestica-braeburn-apple/malus-domestica-braeburn-apple-group.jpg",
-        "alt": "malus domestica braeburn apple group"
+        "src": "images/trees/malus-domestica-braeburn/malus-domestica-braeburn-group.jpg",
+        "alt": "malus domestica braeburn group"
       }
     ],
     "links": []
@@ -53342,7 +53342,7 @@
       "form": ""
     },
     "url": "malus-domestica-fuji",
-    "mainImage": "malus-domestica-fuji-apple/malus-domestica-fuji-apple.jpg",
+    "mainImage": "malus-domestica-fuji/malus-domestica-fuji.jpg",
     "description": "A large, sweet, crisp, red-skinned apple similar to <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a>. Fruit ripens in late-autumn. Excellent eating and storage. Vigorous grower. Pink buds open to white flowers in spring. Requires <a href='/trees/malus-domestica-braeburn/'><i>Malus domestica</i> 'Braeburn'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a> for pollination and fruit production.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53381,8 +53381,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-fuji-apple/malus-domestica-fuji-apple-group.jpg",
-        "alt": "malus domestica fuji apple group"
+        "src": "images/trees/malus-domestica-fuji/malus-domestica-fuji-group.jpg",
+        "alt": "malus domestica fuji group"
       }
     ],
     "links": []
@@ -53409,7 +53409,7 @@
       "form": ""
     },
     "url": "malus-domestica-gala",
-    "mainImage": "malus-domestica-gala-apple/malus-domestica-gala-apple.jpg",
+    "mainImage": "malus-domestica-gala/malus-domestica-gala.jpg",
     "description": "Apples have yellow skin flushed with red, and the juicy, creamy flesh has a rich flavour. Fruit ripens from late-summer to early-autumn. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like <a href='/trees/malus-domestica-fuji/'><i>Malus domestica</i> 'Fuji'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a> with a similar bloom period for best fruit production.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53448,8 +53448,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-gala-apple/malus-domestica-gala-apple-group.jpg",
-        "alt": "malus domestica gala apple group"
+        "src": "images/trees/malus-domestica-gala/malus-domestica-gala-group.jpg",
+        "alt": "malus domestica gala group"
       }
     ],
     "links": []
@@ -53476,7 +53476,7 @@
       "form": ""
     },
     "url": "malus-domestica-galaxy",
-    "mainImage": "malus-domestica-galaxy-apple/malus-domestica-galaxy-apple.jpg",
+    "mainImage": "malus-domestica-galaxy/malus-domestica-galaxy.jpg",
     "description": "A more red clone of <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>. Bright, orange-red flesh with red stripes over gold, inconspicuous, fine russet dots. Medium-sized fruit that is ribbed and crowned. Pink buds open to white flowers in spring. Partially self-fertile, but requires a variety like <a href='/trees/malus-domestica-fuji/'><i>Malus domestica</i> 'Fuji'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a> with a similar bloom period for best fruit production. Fruit ripens from late-summer to early-autumn.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53515,12 +53515,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-apples.jpg",
-        "alt": "malus domestica galaxy apple apples"
+        "src": "images/trees/malus-domestica-galaxy/malus-domestica-galaxy-apples.jpg",
+        "alt": "malus domestica galaxy apples"
       },
       {
-        "src": "images/trees/malus-domestica-galaxy-apple/malus-domestica-galaxy-apple-flower.jpg",
-        "alt": "malus domestica galaxy apple flower"
+        "src": "images/trees/malus-domestica-galaxy/malus-domestica-galaxy-flower.jpg",
+        "alt": "malus domestica galaxy flower"
       }
     ],
     "links": []
@@ -53547,7 +53547,7 @@
       "form": ""
     },
     "url": "malus-domestica-golden-delicious",
-    "mainImage": "malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple.jpg",
+    "mainImage": "malus-domestica-golden-delicious/malus-domestica-golden-delicious.jpg",
     "description": "A dessert cultivar and a good pollinator for other apple trees. Fruit is green-yellow, becoming yellow with age. Fruit is honeyed and very sweet when well-ripened. Apples ripen in late-autumn. Pink buds open to white flowers in spring. Self-fertile, but plant with <a href='/trees/malus-domestica-fuji/'><i>Malus domestica</i> 'Fuji'</a>, <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a> for better crops.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53586,8 +53586,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-golden-delicious-apple/malus-domestica-golden-delicious-apple-apples.jpg",
-        "alt": "malus domestica golden delicious apple apples"
+        "src": "images/trees/malus-domestica-golden-delicious/malus-domestica-golden-delicious-apples.jpg",
+        "alt": "malus domestica golden delicious apples"
       }
     ],
     "links": []
@@ -53614,7 +53614,7 @@
       "form": ""
     },
     "url": "malus-domestica-granny-smith",
-    "mainImage": "malus-domestica-granny-smith-apple/malus-domestica-granny-smith-apple.jpg",
+    "mainImage": "malus-domestica-granny-smith/malus-domestica-granny-smith.jpg",
     "description": "A good, crisp, green-skinned eating apple, also an excellent cooker. Bears large fruit which ripen in mid-autumn. Excellent keeper. Pink buds open to white flowers in spring. Self-fertile, but better crops when planted with <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a> or <a href='https://www.gardenia.net/plant/malus-domestica-red-delicious' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Red Delicious'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53653,8 +53653,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-granny-smith-apple/malus-domestica-granny-smith-apple-apple-group.jpg",
-        "alt": "malus domestica granny smith apple apple group"
+        "src": "images/trees/malus-domestica-granny-smith/malus-domestica-granny-smith-group.jpg",
+        "alt": "malus domestica granny smith group"
       }
     ],
     "links": []
@@ -53681,7 +53681,7 @@
       "form": ""
     },
     "url": "malus-domestica-initial",
-    "mainImage": "malus-domestica-initial-apple/malus-domestica-initial-apple.jpg",
+    "mainImage": "malus-domestica-initial/malus-domestica-initial.jpg",
     "description": "Large red apple with resistance to black spot disease. Excellent flavour, with low acid, high sugar, and a high aroma as well. Fruit ripens late-summer to early-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>, <a href='/trees/malus-domestica-montys-surprise/'><i>Malus domestica</i> 'Monty's Surprise'</a>, and <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53720,8 +53720,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-initial-apple/malus-domestica-initial-apple-flowers.jpg",
-        "alt": "malus domestica initial apple flowers"
+        "src": "images/trees/malus-domestica-initial/malus-domestica-initial-flowers.jpg",
+        "alt": "malus domestica initial flowers"
       }
     ],
     "links": []
@@ -53747,8 +53747,8 @@
       "variety": "",
       "form": ""
     },
-    "url": "malus-domestica-initial/sir-prize",
-    "mainImage": "malus-domestica-initial-sir-prize-apple/malus-domestica-initial-sir-prize-apple.jpg",
+    "url": "malus-domestica-initial-sir-prize",
+    "mainImage": "malus-domestica-initial-sir-prize/malus-domestica-initial-sir-prize.jpg",
     "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-initial/'><i>Malus domestica</i> 'Initial'</a> for description. First image is of <a href='/trees/malus-domestica-initial/'><i>Malus domestica</i> 'Initial'</a>, second is of <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/apples/sir-prize-/' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Sir Prize'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53787,8 +53787,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-initial-sir-prize-apple/malus-domestica-initial-sir-prize-apple-apples.jpg",
-        "alt": "malus domestica initial sir prize apple apples"
+        "src": "images/trees/malus-domestica-initial-sir-prize/malus-domestica-initial-sir-prize-apples.jpg",
+        "alt": "malus domestica initial sir prize apples"
       }
     ],
     "links": []
@@ -53815,7 +53815,7 @@
       "form": ""
     },
     "url": "malus-domestica-liberty",
-    "mainImage": "malus-domestica-liberty-apple/malus-domestica-liberty-apple.jpg",
+    "mainImage": "malus-domestica-liberty/malus-domestica-liberty.jpg",
     "description": "Excellent selection for the organic grower as is resistant to black spot. Requires little, if any, spraying. Red-blushed fruit with crisp, juicy, sweet-tart flavour. Heavy-bearer. Excellent keeper. Fruit ripens from mid to late-autumn. Pink buds open to white flowers in spring. Self-fertile, but best crops when planted with early-flowering varieties such as <a href='/trees/malus-domestica-braeburn/'><i>Malus domestica</i> 'Braeburn'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53854,12 +53854,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-liberty-apple/malus-domestica-liberty-apple-apples.jpg",
-        "alt": "malus domestica liberty apple apples"
+        "src": "images/trees/malus-domestica-liberty/malus-domestica-liberty-apples.jpg",
+        "alt": "malus domestica liberty apples"
       },
       {
-        "src": "images/trees/malus-domestica-liberty-apple/malus-domestica-liberty-apple-on-tree.jpg",
-        "alt": "malus domestica liberty apple on tree"
+        "src": "images/trees/malus-domestica-liberty/malus-domestica-liberty-on-tree.jpg",
+        "alt": "malus domestica liberty on tree"
       }
     ],
     "links": []
@@ -53885,8 +53885,8 @@
       "variety": "",
       "form": ""
     },
-    "url": "malus-domestica-liberty/sir-prize",
-    "mainImage": "malus-domestica-liberty-sir-prize-apple/malus-domestica-liberty-sir-prize-apple.jpg",
+    "url": "malus-domestica-liberty-sir-prize",
+    "mainImage": "malus-domestica-liberty-sir-prize/malus-domestica-liberty-sir-prize.jpg",
     "description": "Double apple. Sir Prize is a large, yellow, Golden Delicious-type apple with blush. Fruit is very juicy with crisp, tender flesh and is an excellent keeper. Fruit ripens mid to late-autumn. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-liberty/'><i>Malus domestica</i> 'Liberty'</a> for description. First image is of <a href='/trees/malus-domestica-liberty/'><i>Malus domestica</i> 'Liberty'</a>, second is of <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/apples/sir-prize-/' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Sir Prize'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53925,8 +53925,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-liberty-sir-prize-apple/malus-domestica-liberty-sir-prize-apple-apples.jpg",
-        "alt": "malus domestica liberty sir prize apple apples"
+        "src": "images/trees/malus-domestica-liberty-sir-prize/malus-domestica-liberty-sir-prize-apples.jpg",
+        "alt": "malus domestica liberty sir prize apples"
       }
     ],
     "links": []
@@ -53953,7 +53953,7 @@
       "form": ""
     },
     "url": "malus-domestica-montys-surprise",
-    "mainImage": "malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple.jpg",
+    "mainImage": "malus-domestica-montys-surprise/malus-domestica-montys-surprise.jpg",
     "description": "A good, crisp, eating apple. Light-green skin striped with red. Bears large fruit which ripen in mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>, <a href='/trees/malus-domestica-initial/'><i>Malus domestica</i> 'Initial'</a>, and <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -53992,12 +53992,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple-bowl.jpg",
-        "alt": "malus domestica montys surprise apple bowl"
+        "src": "images/trees/malus-domestica-montys-surprise/malus-domestica-montys-surprise-bowl.jpg",
+        "alt": "malus domestica montys surprise bowl"
       },
       {
-        "src": "images/trees/malus-domestica-montys-surprise-apple/malus-domestica-montys-surprise-apple-flower.jpg",
-        "alt": "malus domestica montys surprise apple flower"
+        "src": "images/trees/malus-domestica-montys-surprise/malus-domestica-montys-surprise-flower.jpg",
+        "alt": "malus domestica montys surprise flower"
       }
     ],
     "links": []
@@ -54024,7 +54024,7 @@
       "form": ""
     },
     "url": "malus-domestica-pacific-rose",
-    "mainImage": "malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple.jpg",
+    "mainImage": "malus-domestica-pacific-rose/malus-domestica-pacific-rose.jpg",
     "description": "Has clear, rose-pink skin. Firm, crispy, and juicy flesh with a rich and sweet taste. Fruit ripens mid-autumn. Pink buds open to white flowers in spring. Requires pollination from varieties such as <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>, <a href='/trees/malus-domestica-montys-surprise/'><i>Malus domestica</i> 'Monty's Surprise'</a>, <a href='/trees/malus-domestica-initial/'><i>Malus domestica</i> 'Initial'</a>, and <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54063,16 +54063,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-apple-group.jpg",
-        "alt": "malus domestica pacific rose apple apple group"
+        "src": "images/trees/malus-domestica-pacific-rose/malus-domestica-pacific-rose-group.jpg",
+        "alt": "malus domestica pacific rose group"
       },
       {
-        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-apples.jpg",
-        "alt": "malus domestica pacific rose apple apples"
+        "src": "images/trees/malus-domestica-pacific-rose/malus-domestica-pacific-rose-apples.jpg",
+        "alt": "malus domestica pacific rose apples"
       },
       {
-        "src": "images/trees/malus-domestica-pacific-rose-apple/malus-domestica-pacific-rose-apple-flower.jpg",
-        "alt": "malus domestica pacific rose apple flower"
+        "src": "images/trees/malus-domestica-pacific-rose/malus-domestica-pacific-rose-flower.jpg",
+        "alt": "malus domestica pacific rose flower"
       }
     ],
     "links": []
@@ -54099,7 +54099,7 @@
       "form": ""
     },
     "url": "malus-domestica-royal-gala",
-    "mainImage": "malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple.jpg",
+    "mainImage": "malus-domestica-royal-gala/malus-domestica-royal-gala.jpg",
     "description": "Medium-sized, red-streaked apples have fine-textured flesh which is crisp, sweet, and juicy. Fruit matures in mid-summer. Pink buds open to white flowers in spring. Requires pollination from varieties such as <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>, <a href='/trees/malus-domestica-montys-surprise/'><i>Malus domestica</i> 'Monty's Surprise'</a>, and <a href='/trees/malus-domestica-initial/'><i>Malus domestica</i> 'Initial'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54138,16 +54138,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-apple-group.jpg",
-        "alt": "malus domestica royal gala apple apple group"
+        "src": "images/trees/malus-domestica-royal-gala/malus-domestica-royal-gala-group.jpg",
+        "alt": "malus domestica royal gala group"
       },
       {
-        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-apples.jpg",
-        "alt": "malus domestica royal gala apple apples"
+        "src": "images/trees/malus-domestica-royal-gala/malus-domestica-royal-gala-apples.jpg",
+        "alt": "malus domestica royal gala apples"
       },
       {
-        "src": "images/trees/malus-domestica-royal-gala-apple/malus-domestica-royal-gala-apple-flower.jpg",
-        "alt": "malus domestica royal gala apple flower"
+        "src": "images/trees/malus-domestica-royal-gala/malus-domestica-royal-gala-flower.jpg",
+        "alt": "malus domestica royal gala flower"
       }
     ],
     "links": []
@@ -54173,8 +54173,8 @@
       "variety": "",
       "form": ""
     },
-    "url": "malus-domestica-royal-gala/braeburn",
-    "mainImage": "malus-domestica-royal-gala-braeburn-apple/malus-domestica-royal-gala-braeburn-apple.jpg",
+    "url": "malus-domestica-royal-gala-braeburn",
+    "mainImage": "malus-domestica-royal-gala-braeburn/malus-domestica-royal-gala-braeburn.jpg",
     "description": "Double apple. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a> and <a href='/trees/malus-domestica-braeburn/'><i>Malus domestica</i> 'Braeburn'</a> for descriptions. First image is of <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>, second is of <a href='/trees/malus-domestica-braeburn/'><i>Malus domestica</i> 'Braeburn'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54213,8 +54213,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-royal-gala-braeburn-apple/malus-domestica-royal-gala-braeburn-apple-apples.jpg",
-        "alt": "malus domestica royal gala braeburn apple apples"
+        "src": "images/trees/malus-domestica-royal-gala-braeburn/malus-domestica-royal-gala-braeburn-apples.jpg",
+        "alt": "malus domestica royal gala braeburn apples"
       }
     ],
     "links": []
@@ -54240,8 +54240,8 @@
       "variety": "",
       "form": ""
     },
-    "url": "malus-domestica-royal-gala/granny-smith",
-    "mainImage": "malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple.jpg",
+    "url": "malus-domestica-royal-gala-granny-smith",
+    "mainImage": "malus-domestica-royal-gala-granny-smith/malus-domestica-royal-gala-granny-smith.jpg",
     "description": "Double apple. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a> and <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a> for descriptions. First image is of <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>, second is of <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54280,12 +54280,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple-apples.jpg",
-        "alt": "malus domestica royal gala granny smith apple apples"
+        "src": "images/trees/malus-domestica-royal-gala-granny-smith/malus-domestica-royal-gala-granny-smith-apples.jpg",
+        "alt": "malus domestica royal gala granny smith apples"
       },
       {
-        "src": "images/trees/malus-domestica-royal-gala-granny-smith-apple/malus-domestica-royal-gala-granny-smith-apple-flower.jpg",
-        "alt": "malus domestica royal gala granny smith apple flower"
+        "src": "images/trees/malus-domestica-royal-gala-granny-smith/malus-domestica-royal-gala-granny-smith-flower.jpg",
+        "alt": "malus domestica royal gala granny smith flower"
       }
     ],
     "links": []
@@ -54311,8 +54311,8 @@
       "variety": "",
       "form": ""
     },
-    "url": "malus-domestica-royal-gala/golden-delicious",
-    "mainImage": "malus-domestica-royal-gala-golden-delicious-apple/malus-domestica-royal-gala-golden-delicious-apple.jpg",
+    "url": "malus-domestica-royal-gala-golden-delicious",
+    "mainImage": "malus-domestica-royal-gala-golden-delicious/malus-domestica-royal-gala-golden-delicious.jpg",
     "description": "Double apple. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a> and <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a> for descriptions. First image is of <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>, second is of <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54351,8 +54351,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-royal-gala-golden-delicious-apple/malus-domestica-royal-gala-golden-delicious-apple-apples.jpg",
-        "alt": "malus domestica royal gala golden delicious apple apples"
+        "src": "images/trees/malus-domestica-royal-gala-golden-delicious/malus-domestica-royal-gala-golden-delicious-apples.jpg",
+        "alt": "malus domestica royal gala golden delicious apples"
       }
     ],
     "links": []
@@ -54379,7 +54379,7 @@
       "form": ""
     },
     "url": "malus-domestica-wandin-glory",
-    "mainImage": "malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple.jpeg",
+    "mainImage": "malus-domestica-wandin-glory/malus-domestica-wandin-glory.jpeg",
     "description": "A weeping apple that has fruit ripening mid-summer. Fruit has red-green skin and delicious sweet flesh. Pink buds open to white flowers in spring. Partially self-fertile, but best crops when planted with <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a>, <a href='/trees/malus-domestica-gala/'><i>Malus domestica</i> 'Gala'</a>, or <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -54418,12 +54418,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple-foliage.jpeg",
-        "alt": "malus domestica wandin glory apple foliage"
+        "src": "images/trees/malus-domestica-wandin-glory/malus-domestica-wandin-glory-foliage.jpeg",
+        "alt": "malus domestica wandin glory foliage"
       },
       {
-        "src": "images/trees/malus-domestica-wandin-glory-apple/malus-domestica-wandin-glory-apple-fruit.jpeg",
-        "alt": "malus domestica wandin glory apple fruit"
+        "src": "images/trees/malus-domestica-wandin-glory/malus-domestica-wandin-glory-fruit.jpeg",
+        "alt": "malus domestica wandin glory fruit"
       }
     ],
     "links": []
@@ -54505,7 +54505,7 @@
       "form": ""
     },
     "url": "malus-echtermeyer",
-    "mainImage": "malus-echtermeyer-crabapple/malus-echtermeyer-crabapple.jpg",
+    "mainImage": "malus-echtermeyer/malus-echtermeyer.jpg",
     "description": "Forms a graceful, wide-spreading canopy. Red-tinted new leaves change to purple, then a purple-green over summer. Rose-crimson flowers in spring. Small, red-purple crabapples follow in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54544,24 +54544,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-echtermeyer-crabapple/malus-echtermeyer-crabapple-flowering.jpg",
-        "alt": "malus echtermeyer crabapple flowering"
+        "src": "images/trees/malus-echtermeyer/malus-echtermeyer-flowering.jpg",
+        "alt": "malus echtermeyer flowering"
       },
       {
-        "src": "images/trees/malus-echtermeyer-crabapple/malus-echtermeyer-crabapple-flowers.jpeg",
-        "alt": "malus echtermeyer crabapple flowers"
+        "src": "images/trees/malus-echtermeyer/malus-echtermeyer-flowers.jpeg",
+        "alt": "malus echtermeyer flowers"
       },
       {
-        "src": "images/trees/malus-echtermeyer-crabapple/malus-echtermeyer-crabapple-fruit.jpg",
-        "alt": "malus echtermeyer crabapple fruit"
+        "src": "images/trees/malus-echtermeyer/malus-echtermeyer-fruit.jpg",
+        "alt": "malus echtermeyer fruit"
       },
       {
-        "src": "images/trees/malus-echtermeyer-crabapple/malus-echtermeyer-crabapple-new-growth.jpeg",
-        "alt": "malus echtermeyer crabapple new growth"
+        "src": "images/trees/malus-echtermeyer/malus-echtermeyer-new-growth.jpeg",
+        "alt": "malus echtermeyer new growth"
       },
       {
-        "src": "images/trees/malus-echtermeyer-crabapple/malus-echtermeyer-crabapple-young-tree.jpg",
-        "alt": "malus echtermeyer crabapple young tree"
+        "src": "images/trees/malus-echtermeyer/malus-echtermeyer-young-tree.jpg",
+        "alt": "malus echtermeyer young tree"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -54588,7 +54588,7 @@
       "form": ""
     },
     "url": "malus-ellerslie",
-    "mainImage": "malus-ellerslie-crabapple/malus-ellerslie-crabapple.jpg",
+    "mainImage": "malus-ellerslie/malus-ellerslie.jpg",
     "description": "Excellent tree. Red new leaves turn purple-green through summer and then red again in autumn. Dark-red buds open to soft-crimson flowers in spring, followed by small, red crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54627,8 +54627,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-ellerslie-crabapple/malus-ellerslie-crabapple-flowers.jpg",
-        "alt": "malus ellerslie crabapple flowers"
+        "src": "images/trees/malus-ellerslie/malus-ellerslie-flowers.jpg",
+        "alt": "malus ellerslie flowers"
       }
     ],
     "links": []
@@ -54655,7 +54655,7 @@
       "form": ""
     },
     "url": "malus-flamingo",
-    "mainImage": "malus-flamingo-crabapple/malus-flamingo-crabapple.jpeg",
+    "mainImage": "malus-flamingo/malus-flamingo.jpeg",
     "description": "A hardy tree of columnar habit. Double, red buds open to deep-pink flowers in spring. New foliage is a deep burgundy-red to plum-purple, changing to purple-green in summer. Deep-red to purple crabapples in autumn.",
     "uses": "narrow-sites, attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54694,16 +54694,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-flamingo-crabapple/malus-flamingo-crabapple-foliage.jpeg",
-        "alt": "malus flamingo crabapple foliage"
+        "src": "images/trees/malus-flamingo/malus-flamingo-foliage.jpeg",
+        "alt": "malus flamingo foliage"
       },
       {
-        "src": "images/trees/malus-flamingo-crabapple/malus-flamingo-crabapple-fruit.jpeg",
-        "alt": "malus flamingo crabapple fruit"
+        "src": "images/trees/malus-flamingo/malus-flamingo-fruit.jpeg",
+        "alt": "malus flamingo fruit"
       },
       {
-        "src": "images/trees/malus-flamingo-crabapple/malus-flamingo-crabapple-new-foliage.jpeg",
-        "alt": "malus flamingo crabapple new foliage"
+        "src": "images/trees/malus-flamingo/malus-flamingo-new-foliage.jpeg",
+        "alt": "malus flamingo new foliage"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -54730,7 +54730,7 @@
       "form": ""
     },
     "url": "malus-floribunda",
-    "mainImage": "malus-floribunda-japanese-crabapple/malus-floribunda-japanese-crabapple.jpg",
+    "mainImage": "malus-floribunda-japanese/malus-floribunda-japanese.jpg",
     "description": "Strong-growing tree which can be trained to form a horizontal canopy of arching branches. In early-spring, a mass of crimson-red buds open to white flowers with a hint of pink. Small, red crabapples develop over autumn but are soon devoured by birds.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54769,20 +54769,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-floribunda-japanese-crabapple/malus-floribunda-japanese-crabapple-buds.jpeg",
-        "alt": "malus floribunda japanese crabapple buds"
+        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-buds.jpeg",
+        "alt": "malus floribunda japanese buds"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese-crabapple/malus-floribunda-japanese-crabapple-flowers.jpeg",
-        "alt": "malus floribunda japanese crabapple flowers"
+        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-flowers.jpeg",
+        "alt": "malus floribunda japanese flowers"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese-crabapple/malus-floribunda-japanese-crabapple-foliage.jpeg",
-        "alt": "malus floribunda japanese crabapple foliage"
+        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-foliage.jpeg",
+        "alt": "malus floribunda japanese foliage"
       },
       {
-        "src": "images/trees/malus-floribunda-japanese-crabapple/malus-floribunda-japanese-crabapple-fruit.jpg",
-        "alt": "malus floribunda japanese crabapple fruit"
+        "src": "images/trees/malus-floribunda-japanese/malus-floribunda-japanese-fruit.jpg",
+        "alt": "malus floribunda japanese fruit"
       }
     ],
     "links": []
@@ -54809,7 +54809,7 @@
       "form": ""
     },
     "url": "malus-gorgeous",
-    "mainImage": "malus-gorgeous-crabapple/malus-gorgeous-crabapple.jpg",
+    "mainImage": "malus-gorgeous/malus-gorgeous.jpg",
     "description": "Round-headed tree. Branches are festooned with white blossoms in spring. Spectacular crops of bright crimson-red fruit in autumn hang like cherries on long thin stalks. Crabapples make superb jelly.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -54848,12 +54848,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-gorgeous-crabapple/malus-gorgeous-crabapple-flower.jpg",
-        "alt": "malus gorgeous crabapple flower"
+        "src": "images/trees/malus-gorgeous/malus-gorgeous-flower.jpg",
+        "alt": "malus gorgeous flower"
       },
       {
-        "src": "images/trees/malus-gorgeous-crabapple/malus-gorgeous-crabapple-fruit.jpg",
-        "alt": "malus gorgeous crabapple fruit"
+        "src": "images/trees/malus-gorgeous/malus-gorgeous-fruit.jpg",
+        "alt": "malus gorgeous fruit"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -54899,7 +54899,7 @@
       "form": ""
     },
     "url": "malus-ioensis-plena",
-    "mainImage": "malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple.jpg",
+    "mainImage": "malus-ioensis-plena-prairie/malus-ioensis-plena-prairie.jpg",
     "description": "Vase-shaped tree. In late-spring, a profusion of large, pink-white, semi-double flowers appear from pink buds. Lovely yellow, orange, and red autumn leaves. Hardly produces any fruit. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "",
@@ -54938,24 +54938,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple-flower-bud.jpg",
-        "alt": "malus ioensis plena prairie crabapple flower bud"
+        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flower-bud.jpg",
+        "alt": "malus ioensis plena prairie flower bud"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple-flower.jpg",
-        "alt": "malus ioensis plena prairie crabapple flower"
+        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flower.jpg",
+        "alt": "malus ioensis plena prairie flower"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple-flowering.jpg",
-        "alt": "malus ioensis plena prairie crabapple flowering"
+        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flowering.jpg",
+        "alt": "malus ioensis plena prairie flowering"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple-flowers.jpg",
-        "alt": "malus ioensis plena prairie crabapple flowers"
+        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-flowers.jpg",
+        "alt": "malus ioensis plena prairie flowers"
       },
       {
-        "src": "images/trees/malus-ioensis-plena-prairie-crabapple/malus-ioensis-plena-prairie-crabapple-garden.jpg",
-        "alt": "malus ioensis plena prairie crabapple garden"
+        "src": "images/trees/malus-ioensis-plena-prairie/malus-ioensis-plena-prairie-garden.jpg",
+        "alt": "malus ioensis plena prairie garden"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -54982,7 +54982,7 @@
       "form": ""
     },
     "url": "malus-jack-humm",
-    "mainImage": "malus-jack-humm-crabapple/malus-jack-humm-crabapple.jpg",
+    "mainImage": "malus-jack-humm/malus-jack-humm.jpg",
     "description": "Rounded tree with masses of white blossoms from red buds in mid-spring. One of the best varieties for large production of brilliantly coloured crabapples which are bright-crimson, flushed yellow and orange. Fruits in autumn. Great for jelly making. Self-fertile.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55021,8 +55021,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-jack-humm-crabapple/malus-jack-humm-crabapple-flowers.jpg",
-        "alt": "malus jack humm crabapple flowers"
+        "src": "images/trees/malus-jack-humm/malus-jack-humm-flowers.jpg",
+        "alt": "malus jack humm flowers"
       }
     ],
     "links": []
@@ -55059,7 +55059,7 @@
       "form": ""
     },
     "url": "malus-jelly-king",
-    "mainImage": "malus-jelly-king-crabapple/malus-jelly-king-crabapple.jpeg",
+    "mainImage": "malus-jelly-king/malus-jelly-king.jpeg",
     "description": "Upright, compact tree. In mid-spring, becomes covered with large, fragrant, pure-white blossoms over a long period. Huge crops of medium-sized, pink-red crabapples follow in autumn. Excellent street tree. Resistant to disease. Self-fertile.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55098,8 +55098,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-jelly-king-crabapple/malus-jelly-king-crabapple-flowers.jpg",
-        "alt": "malus jelly king crabapple flowers"
+        "src": "images/trees/malus-jelly-king/malus-jelly-king-flowers.jpg",
+        "alt": "malus jelly king flowers"
       }
     ],
     "links": []
@@ -55126,7 +55126,7 @@
       "form": ""
     },
     "url": "malus-kaitoke",
-    "mainImage": "malus-kaitoke-crabapple/malus-kaitoke-crabapple.jpeg",
+    "mainImage": "malus-kaitoke/malus-kaitoke.jpeg",
     "description": "Attractive purple-red new leaves in spring. By summer the leaves turn purple-green. Masses of crimson flower buds open to carmine-red blossoms in spring. A tree well suited to the smaller garden. Purple-red crabapples in summer. Semi-weeping branches.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55165,12 +55165,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-kaitoke-crabapple/malus-kaitoke-crabapple-flowering.jpg",
-        "alt": "malus kaitoke crabapple flowering"
+        "src": "images/trees/malus-kaitoke/malus-kaitoke-flowering.jpg",
+        "alt": "malus kaitoke flowering"
       },
       {
-        "src": "images/trees/malus-kaitoke-crabapple/malus-kaitoke-crabapple-fruit.jpg",
-        "alt": "malus kaitoke crabapple fruit"
+        "src": "images/trees/malus-kaitoke/malus-kaitoke-fruit.jpg",
+        "alt": "malus kaitoke fruit"
       }
     ],
     "links": []
@@ -55197,7 +55197,7 @@
       "form": ""
     },
     "url": "malus-lambada",
-    "mainImage": "malus-lambada-crabapple/malus-lambada-crabapple.jpeg",
+    "mainImage": "malus-lambada/malus-lambada.jpeg",
     "description": "A flat-topped tree with wide-spreading, horizontal branches. Rose-red buds open pink-white in spring and sit among the emerging purple-green new leaves. Purple crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55236,8 +55236,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-lambada-crabapple/malus-lambada-crabapple-flowers.jpeg",
-        "alt": "malus lambada crabapple flowers"
+        "src": "images/trees/malus-lambada/malus-lambada-flowers.jpeg",
+        "alt": "malus lambada flowers"
       }
     ],
     "links": []
@@ -55264,7 +55264,7 @@
       "form": ""
     },
     "url": "malus-mt-aurum",
-    "mainImage": "malus-mt-aurum-crabapple/malus-mt-aurum-crabapple.jpg",
+    "mainImage": "malus-mt-aurum/malus-mt-aurum.jpg",
     "description": "Upright, pyramidal habit. Pink buds opening to white flowers in spring. Large, gold-yellow fruit in heavy clusters in autumn. Yellow autumn leaves. Good for making jelly. Self-fertile.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55326,7 +55326,7 @@
       "form": ""
     },
     "url": "malus-mt-earnslaw",
-    "mainImage": "malus-mt-earnslaw-crabapple/malus-mt-earnslaw-crabapple.jpg",
+    "mainImage": "malus-mt-earnslaw/malus-mt-earnslaw.jpg",
     "description": "Upright, pyramidal growth habit. New Zealand selection. Pure-white spring blossoms. Heavy clusters of oval-shaped fruit in autumn are soft-red, flushed with yellow. Neat-growing tree. Good for making jelly. Self-fertile.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55398,7 +55398,7 @@
       "form": ""
     },
     "url": "malus-profusion",
-    "mainImage": "malus-profusion-crabapple/malus-profusion-crabapple.jpg",
+    "mainImage": "malus-profusion/malus-profusion.jpg",
     "description": "Round-headed tree. In mid-spring, is smothered with clusters of slightly-fragrant, vivid, wine-red flowers. Purple spring leaves turn purple-green through summer. Small, blood-red fruit follow in autumn. Yellow and orange autumn leaves.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55437,12 +55437,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-profusion-crabapple/malus-profusion-crabapple-flowering.jpg",
-        "alt": "malus profusion crabapple flowering"
+        "src": "images/trees/malus-profusion/malus-profusion-flowering.jpg",
+        "alt": "malus profusion flowering"
       },
       {
-        "src": "images/trees/malus-profusion-crabapple/malus-profusion-crabapple-flowers.jpg",
-        "alt": "malus profusion crabapple flowers"
+        "src": "images/trees/malus-profusion/malus-profusion-flowers.jpg",
+        "alt": "malus profusion flowers"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -55469,7 +55469,7 @@
       "form": ""
     },
     "url": "malus-red-jade",
-    "mainImage": "malus-red-jade-crabapple/malus-red-jade-crabapple.jpg",
+    "mainImage": "malus-red-jade/malus-red-jade.jpg",
     "description": "Weeping tree with wide-spreading branches that will cascade to the ground. Clusters of pink buds open white, blushed pink in spring. Small, scarlet crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55508,12 +55508,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-red-jade-crabapple/malus-red-jade-crabapple-flowers.jpeg",
-        "alt": "malus red jade crabapple flowers"
+        "src": "images/trees/malus-red-jade/malus-red-jade-flowers.jpeg",
+        "alt": "malus red jade flowers"
       },
       {
-        "src": "images/trees/malus-red-jade-crabapple/malus-red-jade-crabapple-fruit.jpg",
-        "alt": "malus red jade crabapple fruit"
+        "src": "images/trees/malus-red-jade/malus-red-jade-fruit.jpg",
+        "alt": "malus red jade fruit"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -55540,7 +55540,7 @@
       "form": ""
     },
     "url": "malus-red-top",
-    "mainImage": "malus-red-top-crabapple/malus-red-top-crabapple.jpeg",
+    "mainImage": "malus-red-top/malus-red-top.jpeg",
     "description": "Compact, upright grower. A profusion of semi-double, dark-pink blossoms emerge in spring with the bright-red new leaves which turn green through summer. Small, red crabapples follow in autumn. Excellent street tree.",
     "uses": "street",
     "tolerates": "attracts-bees, attracts-birds",
@@ -55579,12 +55579,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-red-top-crabapple/malus-red-top-crabapple-flower.jpg",
-        "alt": "malus red top crabapple flower"
+        "src": "images/trees/malus-red-top/malus-red-top-flower.jpg",
+        "alt": "malus red top flower"
       },
       {
-        "src": "images/trees/malus-red-top-crabapple/malus-red-top-crabapple-new-growth.jpg",
-        "alt": "malus red top crabapple new growth"
+        "src": "images/trees/malus-red-top/malus-red-top-new-growth.jpg",
+        "alt": "malus red top new growth"
       }
     ],
     "links": []
@@ -55611,7 +55611,7 @@
       "form": ""
     },
     "url": "malus-sieboldii-snowbright",
-    "mainImage": "malus-sieboldii-snowbright-crabapple/malus-sieboldii-snowbright-crabapple.jpg",
+    "mainImage": "malus-sieboldii-snowbright/malus-sieboldii-snowbright.jpg",
     "description": "Round-headed tree with arching branches. Pale salmon-pink buds open to pure-white blossoms which smother the branches in mid-spring. Marble-sized, crimson-red crabapples appear over summer and autumn. Showy yellow-orange autumn leaves.",
     "uses": "attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55650,12 +55650,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-sieboldii-snowbright-crabapple/malus-sieboldii-snowbright-crabapple-flowers.jpeg",
-        "alt": "malus sieboldii snowbright crabapple flowers"
+        "src": "images/trees/malus-sieboldii-snowbright/malus-sieboldii-snowbright-flowers.jpeg",
+        "alt": "malus sieboldii snowbright flowers"
       },
       {
-        "src": "images/trees/malus-sieboldii-snowbright-crabapple/malus-sieboldii-snowbright-crabapple-fruit.jpg",
-        "alt": "malus sieboldii snowbright crabapple fruit"
+        "src": "images/trees/malus-sieboldii-snowbright/malus-sieboldii-snowbright-fruit.jpg",
+        "alt": "malus sieboldii snowbright fruit"
       }
     ],
     "links": []
@@ -55682,7 +55682,7 @@
       "form": ""
     },
     "url": "malus-strathmore",
-    "mainImage": "malus-strathmore-crabapple/malus-strathmore-crabapple.jpg",
+    "mainImage": "malus-strathmore/malus-strathmore.jpg",
     "description": "Narrow-growing, upright, columnar tree, great for areas where space is restricted but height is required. Red buds open to large, dark-pink flowers in spring with the emerging bronze-red leaves. Red to purple, cherry-like fruit in autumn. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55721,12 +55721,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-strathmore-crabapple/malus-strathmore-crabapple-flowers.jpg",
-        "alt": "malus strathmore crabapple flowers"
+        "src": "images/trees/malus-strathmore/malus-strathmore-flowers.jpg",
+        "alt": "malus strathmore flowers"
       },
       {
-        "src": "images/trees/malus-strathmore-crabapple/malus-strathmore-crabapple-fruit.jpg",
-        "alt": "malus strathmore crabapple fruit"
+        "src": "images/trees/malus-strathmore/malus-strathmore-fruit.jpg",
+        "alt": "malus strathmore fruit"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -55753,7 +55753,7 @@
       "form": ""
     },
     "url": "malus-trilobata",
-    "mainImage": "malus-trilobata-crabapple/malus-trilobata-crabapple.jpg",
+    "mainImage": "malus-trilobata/malus-trilobata.jpg",
     "description": "Erect, pyramidal grower with stout stems clothed in beautiful, deeply-lobed, maple-shaped leaves. Glossy green leaves through summer, turning brilliant red and orange in autumn. Large, single, white spring blossoms. Hardly produces fruit. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees",
     "tolerates": "",
@@ -55792,24 +55792,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-trilobata-crabapple/malus-trilobata-crabapple-autumn-foliage.jpg",
-        "alt": "malus trilobata crabapple autumn foliage"
+        "src": "images/trees/malus-trilobata/malus-trilobata-autumn-foliage.jpg",
+        "alt": "malus trilobata autumn foliage"
       },
       {
-        "src": "images/trees/malus-trilobata-crabapple/malus-trilobata-crabapple-autumn-street.jpg",
-        "alt": "malus trilobata crabapple autumn street"
+        "src": "images/trees/malus-trilobata/malus-trilobata-autumn-street.jpg",
+        "alt": "malus trilobata autumn street"
       },
       {
-        "src": "images/trees/malus-trilobata-crabapple/malus-trilobata-crabapple-flowers.jpg",
-        "alt": "malus trilobata crabapple flowers"
+        "src": "images/trees/malus-trilobata/malus-trilobata-flowers.jpg",
+        "alt": "malus trilobata flowers"
       },
       {
-        "src": "images/trees/malus-trilobata-crabapple/malus-trilobata-crabapple-foliage.jpg",
-        "alt": "malus trilobata crabapple foliage"
+        "src": "images/trees/malus-trilobata/malus-trilobata-foliage.jpg",
+        "alt": "malus trilobata foliage"
       },
       {
-        "src": "images/trees/malus-trilobata-crabapple/malus-trilobata-crabapple-street.jpg",
-        "alt": "malus trilobata crabapple street"
+        "src": "images/trees/malus-trilobata/malus-trilobata-street.jpg",
+        "alt": "malus trilobata street"
       }
     ],
     "links": []
@@ -55836,7 +55836,7 @@
       "form": ""
     },
     "url": "malus-tschonoskii",
-    "mainImage": "malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple.jpg",
+    "mainImage": "malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar.jpg",
     "description": "Beautiful, pyramidal grower with silver-white, felted spring leaves. Bright-green leaves through summer, felted white underneath. A glorious show in autumn with orange, red, and purple leaves. White flowers in spring. Hardly produces fruit. Excellent street tree.",
     "uses": "street, narrow-sites, attracts-bees",
     "tolerates": "",
@@ -55875,24 +55875,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple-autumn.jpg",
-        "alt": "malus tschonoskii chonosuki crabapple pillar crabapple autumn"
+        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-autumn.jpg",
+        "alt": "malus tschonoskii chonosuki pillar autumn"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple-flowers.jpg",
-        "alt": "malus tschonoskii chonosuki crabapple pillar crabapple flowers"
+        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-flowers.jpg",
+        "alt": "malus tschonoskii chonosuki pillar flowers"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple-foliage.jpg",
-        "alt": "malus tschonoskii chonosuki crabapple pillar crabapple foliage"
+        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-foliage.jpg",
+        "alt": "malus tschonoskii chonosuki pillar foliage"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple-fruit.jpg",
-        "alt": "malus tschonoskii chonosuki crabapple pillar crabapple fruit"
+        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-fruit.jpg",
+        "alt": "malus tschonoskii chonosuki pillar fruit"
       },
       {
-        "src": "images/trees/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple/malus-tschonoskii-chonosuki-crabapple-pillar-crabapple-park.jpg",
-        "alt": "malus tschonoskii chonosuki crabapple pillar crabapple park"
+        "src": "images/trees/malus-tschonoskii-chonosuki-pillar/malus-tschonoskii-chonosuki-pillar-park.jpg",
+        "alt": "malus tschonoskii chonosuki pillar park"
       }
     ],
     "links": []
@@ -55929,7 +55929,7 @@
       "form": ""
     },
     "url": "malus-van-eseltine",
-    "mainImage": "malus-van-eseltine-crabapple/malus-van-eseltine-crabapple.jpg",
+    "mainImage": "malus-van-eseltine/malus-van-eseltine.jpg",
     "description": "Columnar tree with erect branches. Large, pink-white, semi-double flowers open from scarlet buds in spring. Yellow fruit flushed red in autumn. Ideal for smaller gardens. A good street tree. Yellow autumn leaves.",
     "uses": "street, narrow-sites, attracts-bees, attracts-birds",
     "tolerates": "",
@@ -55968,16 +55968,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-van-eseltine-crabapple/malus-van-eseltine-crabapple-flower-buds.jpg",
-        "alt": "malus van eseltine crabapple flower buds"
+        "src": "images/trees/malus-van-eseltine/malus-van-eseltine-flower-buds.jpg",
+        "alt": "malus van eseltine flower buds"
       },
       {
-        "src": "images/trees/malus-van-eseltine-crabapple/malus-van-eseltine-crabapple-flowering.jpg",
-        "alt": "malus van eseltine crabapple flowering"
+        "src": "images/trees/malus-van-eseltine/malus-van-eseltine-flowering.jpg",
+        "alt": "malus van eseltine flowering"
       },
       {
-        "src": "images/trees/malus-van-eseltine-crabapple/malus-van-eseltine-crabapple-flowers.jpeg",
-        "alt": "malus van eseltine crabapple flowers"
+        "src": "images/trees/malus-van-eseltine/malus-van-eseltine-flowers.jpeg",
+        "alt": "malus van eseltine flowers"
       }
     ],
     "links": ["http://malusregister.org/EnWebContentFile/afb8c10f.pdf"]
@@ -56004,7 +56004,7 @@
       "form": ""
     },
     "url": "malus-wrights-scarlet",
-    "mainImage": "malus-wrights-scarlet-crabapple/malus-wrights-scarlet-crabapple.jpeg",
+    "mainImage": "malus-wrights-scarlet/malus-wrights-scarlet.jpeg",
     "description": "A spectacular fruiting crabapple with large, crimson-red fruit in autumn. White blossoms in spring. Forms a spreading canopy of branches. Yellow autumn leaves. Great for making jelly. Self-fertile.",
     "uses": "street, attracts-bees, attracts-birds",
     "tolerates": "",
@@ -56043,8 +56043,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/malus-wrights-scarlet-crabapple/malus-wrights-scarlet-crabapple-fruit.jpeg",
-        "alt": "malus wrights scarlet crabapple fruit"
+        "src": "images/trees/malus-wrights-scarlet/malus-wrights-scarlet-fruit.jpeg",
+        "alt": "malus wrights scarlet fruit"
       }
     ],
     "links": []
