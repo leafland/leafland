@@ -73593,7 +73593,7 @@
       "form": ""
     },
     "url": "pseudopanax-arboreus",
-    "mainImage": "pseudopanax-arboreus-puahou-five-finger/pseudopanax-arboreus-puahou-five-finger.jpg",
+    "mainImage": "pseudopanax-arboreus/pseudopanax-arboreus.jpg",
     "description": "Forms a rounded tree with an open-habit and spreading framework of slender stems. Large, glossy, handsome leaves. Decorative bunches of purple-black berries in autumn which birds relish. A versatile plant which is very hardy. Can be pruned to any size. Small, white flowers flushed with red-pink from mid-winter to early-spring.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "",
@@ -73632,16 +73632,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-arboreus-puahou-five-finger/pseudopanax-arboreus-puahou-five-finger-foliage.jpeg",
-        "alt": "pseudopanax arboreus puahou five finger foliage"
+        "src": "images/trees/pseudopanax-arboreus/pseudopanax-arboreus-foliage.jpeg",
+        "alt": "pseudopanax arboreus foliage"
       },
       {
-        "src": "images/trees/pseudopanax-arboreus-puahou-five-finger/pseudopanax-arboreus-puahou-five-finger-in-nursery.jpeg",
-        "alt": "pseudopanax arboreus puahou five finger in nursery"
+        "src": "images/trees/pseudopanax-arboreus/pseudopanax-arboreus-in-nursery.jpeg",
+        "alt": "pseudopanax arboreus in nursery"
       },
       {
-        "src": "images/trees/pseudopanax-arboreus-puahou-five-finger/pseudopanax-arboreus-puahou-five-finger-mature-tree.jpg",
-        "alt": "pseudopanax arboreus puahou five finger mature tree"
+        "src": "images/trees/pseudopanax-arboreus/pseudopanax-arboreus-mature-tree.jpg",
+        "alt": "pseudopanax arboreus mature tree"
       }
     ],
     "links": []
@@ -73668,7 +73668,7 @@
       "form": ""
     },
     "url": "pseudopanax-crassifolius",
-    "mainImage": "pseudopanax-crassifolius-horoeka-lancewood/pseudopanax-crassifolius-horoeka-lancewood.jpg",
+    "mainImage": "pseudopanax-crassifolius/pseudopanax-crassifolius.jpg",
     "description": "Narrow-growing tree with a tall, erect trunk. Juvenile leaves are long and narrow and hang from the main trunk. After many years the foliage changes to a small head of leaves. Foliage varies in colour from dark-green to orange-brown, usually with an orange-yellow midrib. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Small, green-yellow flowers from mid-summer to early-autumn. Similar to <a href='/trees/pseudopanax-ferox/'><i>Pseudopanax ferox</i></a>, but has less prominently-toothed leaves.",
     "uses": "narrow-sites, attracts-birds, attracts-bees",
     "tolerates": "",
@@ -73707,12 +73707,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-crassifolius-horoeka-lancewood/pseudopanax-crassifolius-horoeka-lancewood-foliage.jpg",
-        "alt": "pseudopanax crassifolius horoeka lancewood foliage"
+        "src": "images/trees/pseudopanax-crassifolius/pseudopanax-crassifolius-foliage.jpg",
+        "alt": "pseudopanax crassifolius foliage"
       },
       {
-        "src": "images/trees/pseudopanax-crassifolius-horoeka-lancewood/pseudopanax-crassifolius-horoeka-lancewood-mature.jpg",
-        "alt": "pseudopanax crassifolius horoeka lancewood mature"
+        "src": "images/trees/pseudopanax-crassifolius/pseudopanax-crassifolius-mature.jpg",
+        "alt": "pseudopanax crassifolius mature"
       }
     ],
     "links": []
@@ -73739,7 +73739,7 @@
       "form": ""
     },
     "url": "pseudopanax-crassifolius-fiddlesticks",
-    "mainImage": "pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood/pseudopanax-crassifolius-fiddlesticks-horoeka-lancewood.jpg",
+    "mainImage": "pseudopanax-crassifolius-fiddlesticks/pseudopanax-crassifolius-fiddlesticks.jpg",
     "description": "Long, narrow leaves adorn the upright, slender stems. Leaves are brilliantly-coloured. Foliage has dark-green tops with orange-yellow to red-yellow midribs and red-pink undersides. Hardy. Slow, sturdy grower. Small, green-yellow flowers from mid-summer to early-autumn.",
     "uses": "narrow-sites, attracts-birds, attracts-bees",
     "tolerates": "",
@@ -73801,7 +73801,7 @@
       "form": ""
     },
     "url": "pseudopanax-ferox",
-    "mainImage": "pseudopanax-ferox-horoeka-toothed-lancewood/pseudopanax-ferox-horoeka-toothed-lancewood.jpeg",
+    "mainImage": "pseudopanax-ferox/pseudopanax-ferox.jpeg",
     "description": "A narrow-growing tree with a tall, erect trunk. Juvenile leaves are short and narrow, distinctly-toothed, and hang from the main trunk. After many years the foliage changes to a small head of leaves. Foliage varies in colour from dark-green to orange-brown, usually with an orange-yellow midrib. Provides a focal point for restricted sites where a hardy, dramatic tree is required. Similar to <a href='/trees/pseudopanax-crassifolius/'><i>Pseudopanax crassifolius</i></a>, but has more prominently-toothed leaves.",
     "uses": "narrow-sites, attracts-birds",
     "tolerates": "",
@@ -73840,12 +73840,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-ferox-horoeka-toothed-lancewood/pseudopanax-ferox-horoeka-toothed-lancewood-foliage.jpeg",
-        "alt": "pseudopanax ferox horoeka toothed lancewood foliage"
+        "src": "images/trees/pseudopanax-ferox/pseudopanax-ferox-foliage.jpeg",
+        "alt": "pseudopanax ferox foliage"
       },
       {
-        "src": "images/trees/pseudopanax-ferox-horoeka-toothed-lancewood/pseudopanax-ferox-horoeka-toothed-lancewood-mature.jpg",
-        "alt": "pseudopanax ferox horoeka toothed lancewood mature"
+        "src": "images/trees/pseudopanax-ferox/pseudopanax-ferox-mature.jpg",
+        "alt": "pseudopanax ferox mature"
       }
     ],
     "links": []
@@ -73872,7 +73872,7 @@
       "form": ""
     },
     "url": "pseudopanax-laetus",
-    "mainImage": "pseudopanax-laetus-five-finger/pseudopanax-laetus-five-finger.jpeg",
+    "mainImage": "pseudopanax-laetus/pseudopanax-laetus.jpeg",
     "description": "A tropical-looking, multi-stemmed grower. Clothed in large, leathery, glossy, deep-green leaves on purple-red new stems. Decorative bunches of black berries in spring which birds relish. A versatile plant which is very hardy. Can be pruned to any size. Small white flowers in late-winter to late-spring. Purple fruits in late-spring to late-summer that birds love.",
     "uses": "attracts-birds",
     "tolerates": "",
@@ -73911,12 +73911,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-laetus-five-finger/pseudopanax-laetus-five-finger-foliage.jpg",
-        "alt": "pseudopanax laetus five finger foliage"
+        "src": "images/trees/pseudopanax-laetus/pseudopanax-laetus-foliage.jpg",
+        "alt": "pseudopanax laetus foliage"
       },
       {
-        "src": "images/trees/pseudopanax-laetus-five-finger/pseudopanax-laetus-five-finger-mature-tree.jpg",
-        "alt": "pseudopanax laetus five finger mature tree"
+        "src": "images/trees/pseudopanax-laetus/pseudopanax-laetus-mature-tree.jpg",
+        "alt": "pseudopanax laetus mature tree"
       }
     ],
     "links": []
@@ -73943,7 +73943,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii",
-    "mainImage": "pseudopanax-lessonii-houpara-coastal-five-finger/pseudopanax-lessonii-houpara-coastal-five-finger.jpg",
+    "mainImage": "pseudopanax-lessonii/pseudopanax-lessonii.jpg",
     "description": "A dense, bushy grower with tough, leathery, green leaves. Prefers a dry position and is coastal hardy. Excellent as a filler or a dense screen. Can be pruned to any size.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "coastal",
@@ -73982,16 +73982,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-houpara-coastal-five-finger/pseudopanax-lessonii-houpara-coastal-five-finger-foliage.jpg",
-        "alt": "pseudopanax lessonii houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii/pseudopanax-lessonii-foliage.jpg",
+        "alt": "pseudopanax lessonii foliage"
       },
       {
-        "src": "images/trees/pseudopanax-lessonii-houpara-coastal-five-finger/pseudopanax-lessonii-houpara-coastal-five-finger-in-nursery.jpg",
-        "alt": "pseudopanax lessonii houpara coastal five finger in nursery"
+        "src": "images/trees/pseudopanax-lessonii/pseudopanax-lessonii-in-nursery.jpg",
+        "alt": "pseudopanax lessonii in nursery"
       },
       {
-        "src": "images/trees/pseudopanax-lessonii-houpara-coastal-five-finger/pseudopanax-lessonii-houpara-coastal-five-finger-mature-tree.jpg",
-        "alt": "pseudopanax lessonii houpara coastal five finger mature tree"
+        "src": "images/trees/pseudopanax-lessonii/pseudopanax-lessonii-mature-tree.jpg",
+        "alt": "pseudopanax lessonii mature tree"
       }
     ],
     "links": []
@@ -74018,7 +74018,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-adiantifolius",
-    "mainImage": "pseudopanax-lessonii-adiantifolius-houpara-coastal-five-finger/pseudopanax-lessonii-adiantifolius-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-adiantifolius/pseudopanax-lessonii-adiantifolius.jpeg",
     "description": "Has erect stems and glossy, bright-green, palmate leaves. A dense, bushy grower with tough, leathery, green leaves. Prefers a dry position and is coastal hardy. Excellent as a filler or as a dense screen. Can be pruned to any size.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "coastal",
@@ -74057,8 +74057,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-adiantifolius-houpara-coastal-five-finger/pseudopanax-lessonii-adiantifolius-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii adiantifolius houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-adiantifolius/pseudopanax-lessonii-adiantifolius-foliage.jpeg",
+        "alt": "pseudopanax lessonii adiantifolius foliage"
       }
     ],
     "links": []
@@ -74085,7 +74085,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-cyril-watson",
-    "mainImage": "pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger.jpg",
+    "mainImage": "pseudopanax-lessonii-cyril-watson/pseudopanax-lessonii-cyril-watson.jpg",
     "description": "Distinct, low-growing tree with a compact, bushy habit. Very thick and leathery, broad, green leaves. Prefers a dry position and is coastal hardy. Excellent as a filler or in a container. Slow-growing, never outgrows its position.",
     "uses": "hedging-and-screening, attracts-birds, small-garden",
     "tolerates": "coastal",
@@ -74124,12 +74124,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii cyril watson houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-cyril-watson/pseudopanax-lessonii-cyril-watson-foliage.jpeg",
+        "alt": "pseudopanax lessonii cyril watson foliage"
       },
       {
-        "src": "images/trees/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger/pseudopanax-lessonii-cyril-watson-houpara-coastal-five-finger-in-nursery.jpeg",
-        "alt": "pseudopanax lessonii cyril watson houpara coastal five finger in nursery"
+        "src": "images/trees/pseudopanax-lessonii-cyril-watson/pseudopanax-lessonii-cyril-watson-in-nursery.jpeg",
+        "alt": "pseudopanax lessonii cyril watson in nursery"
       }
     ],
     "links": []
@@ -74156,7 +74156,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-dark-star",
-    "mainImage": "pseudopanax-lessonii-dark-star-houpara-coastal-five-finger/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-dark-star/pseudopanax-lessonii-dark-star.jpeg",
     "description": "Handsome, narrow grower with erect stems. New growth emerges purple, fading to dark-green with purple margins. A great choice for small spaces. Excellent hardy filler which will grow anywhere including the coast.",
     "uses": "hedging-and-screening, attracts-birds, narrow-sites",
     "tolerates": "coastal",
@@ -74195,12 +74195,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger-foliage.jpg",
-        "alt": "pseudopanax lessonii dark star houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-dark-star/pseudopanax-lessonii-dark-star-foliage.jpg",
+        "alt": "pseudopanax lessonii dark star foliage"
       },
       {
-        "src": "images/trees/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger/pseudopanax-lessonii-dark-star-houpara-coastal-five-finger-new-growth.jpg",
-        "alt": "pseudopanax lessonii dark star houpara coastal five finger new growth"
+        "src": "images/trees/pseudopanax-lessonii-dark-star/pseudopanax-lessonii-dark-star-new-growth.jpg",
+        "alt": "pseudopanax lessonii dark star new growth"
       }
     ],
     "links": []
@@ -74227,7 +74227,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-dreamtime",
-    "mainImage": "pseudopanax-lessonii-dreamtime-houpara-coastal-five-finger/pseudopanax-lessonii-dreamtime-houpara-coastal-five-finger.jpg",
+    "mainImage": "pseudopanax-lessonii-dreamtime/pseudopanax-lessonii-dreamtime.jpg",
     "description": "Erect grower with long-fingered and heavily-serrated leaves. Leaves are purple-green but develop a deeper purple colour in winter. Hardy.",
     "uses": "hedging-and-screening, attracts-birds",
     "tolerates": "coastal",
@@ -74289,7 +74289,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-gold-finger",
-    "mainImage": "pseudopanax-lessonii-gold-finger-houpara-coastal-five-finger/pseudopanax-lessonii-gold-finger-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-gold-finger/pseudopanax-lessonii-gold-finger.jpeg",
     "description": "Bright gold-yellow new growth appears on thin, three-fingered leaves and fades away to a lush bright-green. Great as a backdrop in the garden or in pots for a short time. Benefits from the sun by keeping the intensity of the gold-yellow growth.",
     "uses": "hedging-and-screening, attracts-birds, narrow-sites, small-garden",
     "tolerates": "coastal",
@@ -74328,8 +74328,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-gold-finger-houpara-coastal-five-finger/pseudopanax-lessonii-gold-finger-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii gold finger houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-gold-finger/pseudopanax-lessonii-gold-finger-foliage.jpeg",
+        "alt": "pseudopanax lessonii gold finger foliage"
       }
     ],
     "links": []
@@ -74356,7 +74356,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-moas-toes",
-    "mainImage": "pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger/pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-moas-toes/pseudopanax-lessonii-moas-toes.jpeg",
     "description": "Leathery leaves are strongly-lobed to resemble moa's toes. Deep-green leaves with a purple-red margin. Upright, bushy grower. Coastal and drought hardy. Protect from heavy frosts.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
@@ -74395,8 +74395,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger/pseudopanax-lessonii-moas-toes-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii moas toes houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-moas-toes/pseudopanax-lessonii-moas-toes-foliage.jpeg",
+        "alt": "pseudopanax lessonii moas toes foliage"
       }
     ],
     "links": []
@@ -74423,7 +74423,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-purpurea",
-    "mainImage": "pseudopanax-lessonii-purpurea-houpara-coastal-five-finger/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-purpurea/pseudopanax-lessonii-purpurea.jpeg",
     "description": "A dense, bushy, compact grower. Leaves emerge purple before maturing to dark-green. Prefers a dry position and is coastal hardy. Excellent as a filler or a dense screen. Can be pruned to any size.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
@@ -74462,12 +74462,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii purpurea houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-purpurea/pseudopanax-lessonii-purpurea-foliage.jpeg",
+        "alt": "pseudopanax lessonii purpurea foliage"
       },
       {
-        "src": "images/trees/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger/pseudopanax-lessonii-purpurea-houpara-coastal-five-finger-new-growth.jpeg",
-        "alt": "pseudopanax lessonii purpurea houpara coastal five finger new growth"
+        "src": "images/trees/pseudopanax-lessonii-purpurea/pseudopanax-lessonii-purpurea-new-growth.jpeg",
+        "alt": "pseudopanax lessonii purpurea new growth"
       }
     ],
     "links": []
@@ -74494,7 +74494,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-sabre",
-    "mainImage": "pseudopanax-lessonii-sabre-houpara-coastal-five-finger/pseudopanax-lessonii-sabre-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-sabre/pseudopanax-lessonii-sabre.jpeg",
     "description": "A cross between Pseudopanax crassifolius and Pseudopanax lessonii. An erect, narrow grower with long, lance-shaped leaves. Dark-green leathery leaves have a yellow midrib and slightly saw-toothed edges. Prefers a dry position and is coastal hardy. Excellent as a focal point or in narrow spaces.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
@@ -74533,8 +74533,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-sabre-houpara-coastal-five-finger/pseudopanax-lessonii-sabre-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii sabre houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-sabre/pseudopanax-lessonii-sabre-foliage.jpeg",
+        "alt": "pseudopanax lessonii sabre foliage"
       }
     ],
     "links": []
@@ -74561,7 +74561,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-telstar",
-    "mainImage": "pseudopanax-lessonii-telstar-houpara-coastal-five-finger/pseudopanax-lessonii-telstar-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-telstar/pseudopanax-lessonii-telstar.jpeg",
     "description": "A dense, bushy grower with tough, leathery, green, palmate leaves which are finely-cut. Prefers a dry position and is coastal hardy. Excellent as a filler or a dense screen. Can be pruned to any size.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
@@ -74600,8 +74600,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-telstar-houpara-coastal-five-finger/pseudopanax-lessonii-telstar-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii telstar houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-telstar/pseudopanax-lessonii-telstar-foliage.jpeg",
+        "alt": "pseudopanax lessonii telstar foliage"
       }
     ],
     "links": []
@@ -74628,7 +74628,7 @@
       "form": ""
     },
     "url": "pseudopanax-lessonii-trident",
-    "mainImage": "pseudopanax-lessonii-trident-houpara-coastal-five-finger/pseudopanax-lessonii-trident-houpara-coastal-five-finger.jpeg",
+    "mainImage": "pseudopanax-lessonii-trident/pseudopanax-lessonii-trident.jpeg",
     "description": "An erect grower with a small trunk from which arise many upward-growing branches. Densely-clothed with three-lobed, tough, leathery, green leaves. Prefers a dry position and is coastal hardy. Excellent as a filler, to line driveways, or as a street tree. Can be pruned to any size.",
     "uses": "street, attracts-birds",
     "tolerates": "coastal",
@@ -74667,8 +74667,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudopanax-lessonii-trident-houpara-coastal-five-finger/pseudopanax-lessonii-trident-houpara-coastal-five-finger-foliage.jpeg",
-        "alt": "pseudopanax lessonii trident houpara coastal five finger foliage"
+        "src": "images/trees/pseudopanax-lessonii-trident/pseudopanax-lessonii-trident-foliage.jpeg",
+        "alt": "pseudopanax lessonii trident foliage"
       }
     ],
     "links": []
@@ -74695,7 +74695,7 @@
       "form": ""
     },
     "url": "pseudowintera-colorata",
-    "mainImage": "pseudowintera-colorata-horopito-pepper-tree/pseudowintera-colorata-horopito-pepper-tree.jpg",
+    "mainImage": "pseudowintera-colorata/pseudowintera-colorata.jpg",
     "description": "Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -74734,8 +74734,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudowintera-colorata-horopito-pepper-tree/pseudowintera-colorata-horopito-pepper-tree-foliage.jpeg",
-        "alt": "pseudowintera colorata horopito pepper tree foliage"
+        "src": "images/trees/pseudowintera-colorata/pseudowintera-colorata-foliage.jpeg",
+        "alt": "pseudowintera colorata foliage"
       }
     ],
     "links": []
@@ -74762,7 +74762,7 @@
       "form": ""
     },
     "url": "pseudowintera-colorata-red-hot",
-    "mainImage": "pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree.jpeg",
+    "mainImage": "pseudowintera-colorata-red-hot/pseudowintera-colorata-red-hot.jpeg",
     "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -74801,12 +74801,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree-foliage.jpeg",
-        "alt": "pseudowintera colorata red hot horopito pepper tree foliage"
+        "src": "images/trees/pseudowintera-colorata-red-hot/pseudowintera-colorata-red-hot-foliage.jpeg",
+        "alt": "pseudowintera colorata red hot foliage"
       },
       {
-        "src": "images/trees/pseudowintera-colorata-red-hot-horopito-pepper-tree/pseudowintera-colorata-red-hot-horopito-pepper-tree-in-nursery.jpeg",
-        "alt": "pseudowintera colorata red hot horopito pepper tree in nursery"
+        "src": "images/trees/pseudowintera-colorata-red-hot/pseudowintera-colorata-red-hot-in-nursery.jpeg",
+        "alt": "pseudowintera colorata red hot in nursery"
       }
     ],
     "links": []
@@ -74833,7 +74833,7 @@
       "form": ""
     },
     "url": "pseudowintera-colorata-red-leopard",
-    "mainImage": "pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree.jpeg",
+    "mainImage": "pseudowintera-colorata-red-leopard/pseudowintera-colorata-red-leopard.jpeg",
     "description": "A selection of Pseudowintera colorata with deeper and more consistent colouring. Attractive grower with aromatic foliage that is rich-red when young, maturing to a yellow-green speckled and margined with red. Makes a stunning hedge.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -74872,12 +74872,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree-foliage.jpeg",
-        "alt": "pseudowintera colorata red leopard horopito pepper tree foliage"
+        "src": "images/trees/pseudowintera-colorata-red-leopard/pseudowintera-colorata-red-leopard-foliage.jpeg",
+        "alt": "pseudowintera colorata red leopard foliage"
       },
       {
-        "src": "images/trees/pseudowintera-colorata-red-leopard-horopito-pepper-tree/pseudowintera-colorata-red-leopard-horopito-pepper-tree-in-nursery.jpeg",
-        "alt": "pseudowintera colorata red leopard horopito pepper tree in nursery"
+        "src": "images/trees/pseudowintera-colorata-red-leopard/pseudowintera-colorata-red-leopard-in-nursery.jpeg",
+        "alt": "pseudowintera colorata red leopard in nursery"
       }
     ],
     "links": []
@@ -74985,7 +74985,7 @@
       "form": ""
     },
     "url": "pyrus-betulifolia-autumn-leaves",
-    "mainImage": "pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear.jpg",
+    "mainImage": "pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves.jpg",
     "description": "Has graceful, branches. Dark-green foliage through spring and summer before changing to beautiful red and orange tones in autumn. White flowers in spring. Tolerates frosts, moderate winds, and periods of drought.",
     "uses": "attracts-bees",
     "tolerates": "windy",
@@ -75024,28 +75024,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-autumn-foliage.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear autumn foliage"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-autumn-foliage.jpg",
+        "alt": "pyrus betulifolia autumn leaves autumn foliage"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-autumn-in-nursery.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear autumn in nursery"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-autumn-in-nursery.jpg",
+        "alt": "pyrus betulifolia autumn leaves autumn in nursery"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-flower-cluster.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear flower cluster"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-flower-cluster.jpg",
+        "alt": "pyrus betulifolia autumn leaves flower cluster"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-flowers.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear flowers"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-flowers.jpg",
+        "alt": "pyrus betulifolia autumn leaves flowers"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-foliage-flowers.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear foliage flowers"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-foliage-flowers.jpg",
+        "alt": "pyrus betulifolia autumn leaves foliage flowers"
       },
       {
-        "src": "images/trees/pyrus-betulifolia-autumn-leaves-birchleaf-pear/pyrus-betulifolia-autumn-leaves-birchleaf-pear-foliage.jpg",
-        "alt": "pyrus betulifolia autumn leaves birchleaf pear foliage"
+        "src": "images/trees/pyrus-betulifolia-autumn-leaves/pyrus-betulifolia-autumn-leaves-foliage.jpg",
+        "alt": "pyrus betulifolia autumn leaves foliage"
       }
     ],
     "links": []
@@ -75072,7 +75072,7 @@
       "form": ""
     },
     "url": "pyrus-calleryana-aristocrat",
-    "mainImage": "pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear.jpg",
+    "mainImage": "pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat.jpg",
     "description": "Pyramidal-growing tree with an open form and spreading branches that can be trained to grow horizontal. Profusion of white flowers in early-spring. Glossy-green leaves turn red and yellow in autumn. Tolerant of poor drainage and pollution. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "windy",
@@ -75111,40 +75111,40 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-autumn-form.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear autumn form"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-autumn-form.jpg",
+        "alt": "pyrus calleryana aristocrat autumn form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-autumn-leaves.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear autumn leaves"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-autumn-leaves.jpg",
+        "alt": "pyrus calleryana aristocrat autumn leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flower.jpeg",
-        "alt": "pyrus calleryana aristocrat ornamental pear flower"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-flower.jpeg",
+        "alt": "pyrus calleryana aristocrat flower"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flowering-street.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear flowering street"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-flowering-street.jpg",
+        "alt": "pyrus calleryana aristocrat flowering street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-flowering.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear flowering"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-flowering.jpg",
+        "alt": "pyrus calleryana aristocrat flowering"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-foliage.jpeg",
-        "alt": "pyrus calleryana aristocrat ornamental pear foliage"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-foliage.jpeg",
+        "alt": "pyrus calleryana aristocrat foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-garden.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear garden"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-garden.jpg",
+        "alt": "pyrus calleryana aristocrat garden"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-row-street.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear row street"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-row-street.jpg",
+        "alt": "pyrus calleryana aristocrat row street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-aristocrat-ornamental-pear/pyrus-calleryana-aristocrat-ornamental-pear-street.jpg",
-        "alt": "pyrus calleryana aristocrat ornamental pear street"
+        "src": "images/trees/pyrus-calleryana-aristocrat/pyrus-calleryana-aristocrat-street.jpg",
+        "alt": "pyrus calleryana aristocrat street"
       }
     ],
     "links": []
@@ -75171,7 +75171,7 @@
       "form": ""
     },
     "url": "pyrus-calleryana-bradford",
-    "mainImage": "pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear.jpg",
+    "mainImage": "pyrus-calleryana-bradford/pyrus-calleryana-bradford.jpg",
     "description": "Pyramidal-growing tree with densely-packed branches. A profusion of white, early-spring blossoms is a stunning feature. Glossy green leaves turn red, orange, and maroon in autumn. Excellent street tree.",
     "uses": "street, attracts-bees",
     "tolerates": "",
@@ -75210,40 +75210,40 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-colour-foliage.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear autumn colour foliage"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-autumn-colour-foliage.jpg",
+        "alt": "pyrus calleryana bradford autumn colour foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-colour-form.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear autumn colour form"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-autumn-colour-form.jpg",
+        "alt": "pyrus calleryana bradford autumn colour form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-autumn-street.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear autumn street"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-autumn-street.jpg",
+        "alt": "pyrus calleryana bradford autumn street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-flowering-avenue.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear flowering avenue"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-flowering-avenue.jpg",
+        "alt": "pyrus calleryana bradford flowering avenue"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-flowers.jpeg",
-        "alt": "pyrus calleryana bradford ornamental pear flowers"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-flowers.jpeg",
+        "alt": "pyrus calleryana bradford flowers"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-foliage.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear foliage"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-foliage.jpg",
+        "alt": "pyrus calleryana bradford foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-spring-flowering-street-tree.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear spring flowering street tree"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-spring-flowering-street-tree.jpg",
+        "alt": "pyrus calleryana bradford spring flowering street tree"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-spring-flowering.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear spring flowering"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-spring-flowering.jpg",
+        "alt": "pyrus calleryana bradford spring flowering"
       },
       {
-        "src": "images/trees/pyrus-calleryana-bradford-ornamental-pear/pyrus-calleryana-bradford-ornamental-pear-summer-form.jpg",
-        "alt": "pyrus calleryana bradford ornamental pear summer form"
+        "src": "images/trees/pyrus-calleryana-bradford/pyrus-calleryana-bradford-summer-form.jpg",
+        "alt": "pyrus calleryana bradford summer form"
       }
     ],
     "links": []
@@ -75270,7 +75270,7 @@
       "form": ""
     },
     "url": "pyrus-calleryana-candelabra",
-    "mainImage": "pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear.jpg",
+    "mainImage": "pyrus-calleryana-candelabra/pyrus-calleryana-candelabra.jpg",
     "description": "A dense, columnar growth habit makes it ideal for avenues, streets, and narrow spaces. Lustrous dark-green leaves turn vibrant shades of red and orange through autumn. Very wind tolerant. Grows in both dry and poor soils, plus heavy intermittently wet soils. White flowers in spring.",
     "uses": "street, narrow-sites, driveways-and-avenues, attracts-bees",
     "tolerates": "windy",
@@ -75309,48 +75309,48 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-colour.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear autumn colour"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-autumn-colour.jpg",
+        "alt": "pyrus calleryana candelabra autumn colour"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-leaves.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear autumn leaves"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-autumn-leaves.jpg",
+        "alt": "pyrus calleryana candelabra autumn leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-autumn-street.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear autumn street"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-autumn-street.jpg",
+        "alt": "pyrus calleryana candelabra autumn street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-flowers.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear flowers"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-flowers.jpg",
+        "alt": "pyrus calleryana candelabra flowers"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-foliage.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear foliage"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-foliage.jpg",
+        "alt": "pyrus calleryana candelabra foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-garden.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear garden"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-garden.jpg",
+        "alt": "pyrus calleryana candelabra garden"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-single-tree.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear single tree"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-single-tree.jpg",
+        "alt": "pyrus calleryana candelabra single tree"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-spring-avenue.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear spring avenue"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-spring-avenue.jpg",
+        "alt": "pyrus calleryana candelabra spring avenue"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-street.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear street"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-street.jpg",
+        "alt": "pyrus calleryana candelabra street"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-summer-form.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear summer form"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-summer-form.jpg",
+        "alt": "pyrus calleryana candelabra summer form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-candelabra-ornamental-pear/pyrus-calleryana-candelabra-ornamental-pear-summer-row.jpg",
-        "alt": "pyrus calleryana candelabra ornamental pear summer row"
+        "src": "images/trees/pyrus-calleryana-candelabra/pyrus-calleryana-candelabra-summer-row.jpg",
+        "alt": "pyrus calleryana candelabra summer row"
       }
     ],
     "links": []
@@ -75377,7 +75377,7 @@
       "form": ""
     },
     "url": "pyrus-calleryana-kea",
-    "mainImage": "pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear.jpg",
+    "mainImage": "pyrus-calleryana-kea/pyrus-calleryana-kea.jpg",
     "description": "A multi-branched tree with a dense, bushy growth habit. Glossy, green leaves turn red and orange in autumn. Tolerates both dry and heavier wet soils. White spring flowers.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75416,28 +75416,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-autumn-form-leaves.jpg",
-        "alt": "pyrus calleryana kea ornamental pear autumn form leaves"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-autumn-form-leaves.jpg",
+        "alt": "pyrus calleryana kea autumn form leaves"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-autumn-form.jpg",
-        "alt": "pyrus calleryana kea ornamental pear autumn form"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-autumn-form.jpg",
+        "alt": "pyrus calleryana kea autumn form"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-carpark.jpg",
-        "alt": "pyrus calleryana kea ornamental pear carpark"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-carpark.jpg",
+        "alt": "pyrus calleryana kea carpark"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-foliage.jpeg",
-        "alt": "pyrus calleryana kea ornamental pear foliage"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-foliage.jpeg",
+        "alt": "pyrus calleryana kea foliage"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-spring-flowering-park.jpg",
-        "alt": "pyrus calleryana kea ornamental pear spring flowering park"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-spring-flowering-park.jpg",
+        "alt": "pyrus calleryana kea spring flowering park"
       },
       {
-        "src": "images/trees/pyrus-calleryana-kea-ornamental-pear/pyrus-calleryana-kea-ornamental-pear-spring-flowers.jpeg",
-        "alt": "pyrus calleryana kea ornamental pear spring flowers"
+        "src": "images/trees/pyrus-calleryana-kea/pyrus-calleryana-kea-spring-flowers.jpeg",
+        "alt": "pyrus calleryana kea spring flowers"
       }
     ],
     "links": []
@@ -75464,7 +75464,7 @@
       "form": ""
     },
     "url": "pyrus-communis-conference",
-    "mainImage": "pyrus-communis-conference-pear/pyrus-communis-conference-pear.jpg",
+    "mainImage": "pyrus-communis-conference/pyrus-communis-conference.jpg",
     "description": "Long-necked, green pears with some russeting. Excellent juicy flavour. Moderately-vigorous and slightly-spreading. Excellent choice for the home gardener. Partially self-fertile, but better crops when planted with <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/packhams-triumph/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Packham's Triumph'</a>. Fruit ripens in mid-autumn. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75503,8 +75503,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-conference-pear/pyrus-communis-conference-pear-fruit.jpg",
-        "alt": "pyrus communis conference pear fruit"
+        "src": "images/trees/pyrus-communis-conference/pyrus-communis-conference-fruit.jpg",
+        "alt": "pyrus communis conference fruit"
       }
     ],
     "links": []
@@ -75531,7 +75531,7 @@
       "form": ""
     },
     "url": "pyrus-communis-doyenne-du-comice",
-    "mainImage": "pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear.jpg",
+    "mainImage": "pyrus-communis-doyenne-du-comice/pyrus-communis-doyenne-du-comice.jpg",
     "description": "Large, classic, gourmet pear. Has green skin flushed red. Rich, juicy flesh that tastes like sweetened cinnamon. Fruit ripens mid to late-autumn. Upright and vigorous habit. High chilling hours needed to set fruit. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/beurre-bosc-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Beurre Bosc'</a>, <a href='/trees/pyrus-communis-williams-bon-chretien/'><i>Pyrus communis</i> 'Williams' Bon Chrétien'</a>, <a href='/trees/pyrus-communis-winter-cole/'><i>Pyrus communis</i> 'Winter Cole'</a>, and <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/winter-nelis-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Winter Nelis'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75570,12 +75570,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear-flowers.jpg",
-        "alt": "pyrus communis doyenne du comice pear flowers"
+        "src": "images/trees/pyrus-communis-doyenne-du-comice/pyrus-communis-doyenne-du-comice-flowers.jpg",
+        "alt": "pyrus communis doyenne du comice flowers"
       },
       {
-        "src": "images/trees/pyrus-communis-doyenne-du-comice-pear/pyrus-communis-doyenne-du-comice-pear-fruit.jpg",
-        "alt": "pyrus communis doyenne du comice pear fruit"
+        "src": "images/trees/pyrus-communis-doyenne-du-comice/pyrus-communis-doyenne-du-comice-fruit.jpg",
+        "alt": "pyrus communis doyenne du comice fruit"
       }
     ],
     "links": []
@@ -75602,7 +75602,7 @@
       "form": ""
     },
     "url": "pyrus-communis-doyenne-du-comice-conference",
-    "mainImage": "pyrus-communis-doyenne-du-comice-conference-pear/pyrus-communis-doyenne-du-comice-conference-pear.jpg",
+    "mainImage": "pyrus-communis-doyenne-du-comice-conference/pyrus-communis-doyenne-du-comice-conference.jpg",
     "description": "Double pear. See <a href='/trees/pyrus-communis-doyenne-du-comice/'><i>Pyrus communis</i> 'Doyenné du Comice'</a> and <a href='/trees/pyrus-communis-conference'><i>Pyrus communis</i> 'Conference'</a> for descriptions. Image is of <a href='/trees/pyrus-communis-doyenne-du-comice/'><i>Pyrus communis</i> 'Doyenné du Comice'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75664,7 +75664,7 @@
       "form": ""
     },
     "url": "pyrus-communis-red-bartlett",
-    "mainImage": "pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear.jpg",
+    "mainImage": "pyrus-communis-red-bartlett/pyrus-communis-red-bartlett.jpg",
     "description": "Bright-red skin when fully ripe. Very aromatic pear with melty flesh and good flavour. Fruit ripens mid to late-summer. All-purpose pear for eating fresh, preserving, baking, and poaching. Pollinators in the North Island are <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/packhams-triumph/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Packham's Triumph'</a> and <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/winter-nelis-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Winter Nelis'</a>. In the South Island, <a href='/trees/pyrus-communis-doyenne-du-comice/'><i>Pyrus communis</i> 'Doyenné du Comice'</a> and <a href='/trees/pyrus-communis-conference'><i>Pyrus communis</i> 'Conference'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75703,20 +75703,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-flower-buds.jpg",
-        "alt": "pyrus communis red bartlett pear flower buds"
+        "src": "images/trees/pyrus-communis-red-bartlett/pyrus-communis-red-bartlett-flower-buds.jpg",
+        "alt": "pyrus communis red bartlett flower buds"
       },
       {
-        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-flower.jpg",
-        "alt": "pyrus communis red bartlett pear flower"
+        "src": "images/trees/pyrus-communis-red-bartlett/pyrus-communis-red-bartlett-flower.jpg",
+        "alt": "pyrus communis red bartlett flower"
       },
       {
-        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-fruit.jpg",
-        "alt": "pyrus communis red bartlett pear fruit"
+        "src": "images/trees/pyrus-communis-red-bartlett/pyrus-communis-red-bartlett-fruit.jpg",
+        "alt": "pyrus communis red bartlett fruit"
       },
       {
-        "src": "images/trees/pyrus-communis-red-bartlett-pear/pyrus-communis-red-bartlett-pear-on-tree.jpg",
-        "alt": "pyrus communis red bartlett pear on tree"
+        "src": "images/trees/pyrus-communis-red-bartlett/pyrus-communis-red-bartlett-on-tree.jpg",
+        "alt": "pyrus communis red bartlett on tree"
       }
     ],
     "links": []
@@ -75743,7 +75743,7 @@
       "form": ""
     },
     "url": "pyrus-communis-seckel",
-    "mainImage": "pyrus-communis-seckel-pear/pyrus-communis-seckel-pear.jpg",
+    "mainImage": "pyrus-communis-seckel/pyrus-communis-seckel.jpg",
     "description": "Small to medium-sized gourmet fruit are golden with a red blush. Yellow flesh is finely grained, juicy, and melting with spicy overtones. Excellent quality eating fruit. Fireblight resistant. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/packhams-triumph/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Packham's Triumph'</a> and <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/winter-nelis-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Winter Nelis'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75782,12 +75782,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-seckel-pear/pyrus-communis-seckel-pear-flower.jpg",
-        "alt": "pyrus communis seckel pear flower"
+        "src": "images/trees/pyrus-communis-seckel/pyrus-communis-seckel-flower.jpg",
+        "alt": "pyrus communis seckel flower"
       },
       {
-        "src": "images/trees/pyrus-communis-seckel-pear/pyrus-communis-seckel-pear-fruit.jpg",
-        "alt": "pyrus communis seckel pear fruit"
+        "src": "images/trees/pyrus-communis-seckel/pyrus-communis-seckel-fruit.jpg",
+        "alt": "pyrus communis seckel fruit"
       }
     ],
     "links": []
@@ -75814,7 +75814,7 @@
       "form": ""
     },
     "url": "pyrus-communis-taylors-gold",
-    "mainImage": "pyrus-communis-taylors-gold-pear/pyrus-communis-taylors-gold-pear.jpg",
+    "mainImage": "pyrus-communis-taylors-gold/pyrus-communis-taylors-gold.jpg",
     "description": "Pears have russeted, cinnamon-coloured skin, and a juicy, aromatic flavour. Ivory to cream-coloured flesh. Fruits from mid to late-autumn. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/packhams-triumph/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Packham's Triumph'</a>, <a href='/trees/pyrus-communis-williams-bon-chretien/'><i>Pyrus communis</i> 'Williams' Bon Chrétien'</a>, and <a href='/trees/pyrus-communis-winter-cole/'><i>Pyrus communis</i> 'Winter Cole'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75853,8 +75853,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-taylors-gold-pear/pyrus-communis-taylors-gold-pear-fruit.jpg",
-        "alt": "pyrus communis taylors gold pear fruit"
+        "src": "images/trees/pyrus-communis-taylors-gold/pyrus-communis-taylors-gold-fruit.jpg",
+        "alt": "pyrus communis taylors gold fruit"
       }
     ],
     "links": []
@@ -75881,7 +75881,7 @@
       "form": ""
     },
     "url": "pyrus-communis-williams-bon-chretien",
-    "mainImage": "pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear.jpg",
+    "mainImage": "pyrus-communis-williams-bon-chretien/pyrus-communis-williams-bon-chretien.jpg",
     "description": "Large, green-yellow fruit, great for eating or bottling. Good pollinator. Fruits from late-summer to early-autumn. Fruit keeps well. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/beurre-bosc-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Beurre Bosc'</a>, <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/winter-nelis-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Winter Nelis'</a>, <a href='/trees/pyrus-communis-doyenne-du-comice/'><i>Pyrus communis</i> 'Doyenné du Comice'</a>, and <a href='/trees/pyrus-communis-conference'><i>Pyrus communis</i> 'Conference'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -75920,12 +75920,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear-flower.jpg",
-        "alt": "pyrus communis williams bon chretien pear flower"
+        "src": "images/trees/pyrus-communis-williams-bon-chretien/pyrus-communis-williams-bon-chretien-flower.jpg",
+        "alt": "pyrus communis williams bon chretien flower"
       },
       {
-        "src": "images/trees/pyrus-communis-williams-bon-chretien-pear/pyrus-communis-williams-bon-chretien-pear-fruit.jpg",
-        "alt": "pyrus communis williams bon chretien pear fruit"
+        "src": "images/trees/pyrus-communis-williams-bon-chretien/pyrus-communis-williams-bon-chretien-fruit.jpg",
+        "alt": "pyrus communis williams bon chretien fruit"
       }
     ],
     "links": []
@@ -75952,7 +75952,7 @@
       "form": ""
     },
     "url": "pyrus-communis-williams-bon-chretien-conference",
-    "mainImage": "pyrus-communis-williams-bon-chretien-conference-pear/pyrus-communis-williams-bon-chretien-conference-pear.jpg",
+    "mainImage": "pyrus-communis-williams-bon-chretien-conference/pyrus-communis-williams-bon-chretien-conference.jpg",
     "description": "Double pear. See <a href='/trees/pyrus-communis-williams-bon-chretien/'><i>Pyrus communis</i> 'Williams' Bon Chrétien'</a> and <a href='/trees/pyrus-communis-conference'><i>Pyrus communis</i> 'Conference'</a> for descriptions. Image is of <a href='/trees/pyrus-communis-williams-bon-chretien/'><i>Pyrus communis</i> 'Williams' Bon Chrétien'</a>.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -76014,7 +76014,7 @@
       "form": ""
     },
     "url": "pyrus-communis-winter-cole",
-    "mainImage": "pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear.jpg",
+    "mainImage": "pyrus-communis-winter-cole/pyrus-communis-winter-cole.jpg",
     "description": "Small dessert pear with russeted, green skin. Fruit ripens in late-autumn. A prolific and reliable fruiter, with a spreading growth habit. A good keeper with fruit lasting well into winter. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/beurre-bosc-/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Beurre Bosc'</a>, <a href='https://www.waimeanurseries.co.nz/our-products/fruit-trees/pears/packhams-triumph/' target='_blank' rel='noopener noreferrer'><i>Pyrus communis</i> 'Packham's Triumph'</a>, and <a href='/trees/pyrus-communis-williams-bon-chretien/'><i>Pyrus communis</i> 'Williams' Bon Chrétien'</a>. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -76053,12 +76053,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear-flowers.jpg",
-        "alt": "pyrus communis winter cole pear flowers"
+        "src": "images/trees/pyrus-communis-winter-cole/pyrus-communis-winter-cole-flowers.jpg",
+        "alt": "pyrus communis winter cole flowers"
       },
       {
-        "src": "images/trees/pyrus-communis-winter-cole-pear/pyrus-communis-winter-cole-pear-fruit.jpg",
-        "alt": "pyrus communis winter cole pear fruit"
+        "src": "images/trees/pyrus-communis-winter-cole/pyrus-communis-winter-cole-fruit.jpg",
+        "alt": "pyrus communis winter cole fruit"
       }
     ],
     "links": []
@@ -76085,7 +76085,7 @@
       "form": ""
     },
     "url": "pyrus-pyrifolia-reddy-robin",
-    "mainImage": "pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear.jpg",
+    "mainImage": "pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin.jpg",
     "description": "Looks and tastes like an apple, with the skin and texture of a pear. Green skin with a red blush. Very sweet and juicy. Healthy, delicious fruit to snack on. Fruit ready to harvest from late-summer to early-autumn. Partially self-fertile, but better crops when planted with another nashi pear variety. White blossoms in spring. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -76124,24 +76124,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear-cut-fruit.jpg",
-        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear cut fruit"
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin-cut-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin cut fruit"
       },
       {
-        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear-flowers.jpg",
-        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear flowers"
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin-flowers.jpg",
+        "alt": "pyrus pyrifolia reddy robin flowers"
       },
       {
-        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear-fruit-slice.jpg",
-        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear fruit slice"
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin-fruit-slice.jpg",
+        "alt": "pyrus pyrifolia reddy robin fruit slice"
       },
       {
-        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear-fruit.jpg",
-        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear fruit"
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin fruit"
       },
       {
-        "src": "images/trees/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear/pyrus-pyrifolia-reddy-robin-nashi-pear-asian-pear-whole-fruit.jpg",
-        "alt": "pyrus pyrifolia reddy robin nashi pear asian pear whole fruit"
+        "src": "images/trees/pyrus-pyrifolia-reddy-robin/pyrus-pyrifolia-reddy-robin-whole-fruit.jpg",
+        "alt": "pyrus pyrifolia reddy robin whole fruit"
       }
     ],
     "links": []
@@ -76168,7 +76168,7 @@
       "form": ""
     },
     "url": "pyrus-salicifolia-pendula",
-    "mainImage": "pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear.jpg",
+    "mainImage": "pyrus-salicifolia-pendula/pyrus-salicifolia-pendula.jpg",
     "description": "Willow-like leaves are silver-white in spring, becoming grey-green in summer. Forms tiers of branches and can be easily clipped. Small, white blossoms in spring. Withstands strong winds and drought conditions.",
     "uses": "attracts-bees",
     "tolerates": "windy",
@@ -76207,32 +76207,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-back-garden.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear back garden"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-back-garden.jpg",
+        "alt": "pyrus salicifolia pendula back garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-flowering.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear flowering"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-flowering.jpg",
+        "alt": "pyrus salicifolia pendula flowering"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-flowers.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear flowers"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-flowers.jpg",
+        "alt": "pyrus salicifolia pendula flowers"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-foliage.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear foliage"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-foliage.jpg",
+        "alt": "pyrus salicifolia pendula foliage"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-front-garden.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear front garden"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-front-garden.jpg",
+        "alt": "pyrus salicifolia pendula front garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-garden.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear garden"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-garden.jpg",
+        "alt": "pyrus salicifolia pendula garden"
       },
       {
-        "src": "images/trees/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear/pyrus-salicifolia-pendula-weeping-pear-willow-leaved-pear-park.jpg",
-        "alt": "pyrus salicifolia pendula weeping pear willow leaved pear park"
+        "src": "images/trees/pyrus-salicifolia-pendula/pyrus-salicifolia-pendula-park.jpg",
+        "alt": "pyrus salicifolia pendula park"
       }
     ],
     "links": []
@@ -76259,7 +76259,7 @@
       "form": ""
     },
     "url": "quercus-afares",
-    "mainImage": "quercus-afares-algerian-oak/quercus-afares-algerian-oak.jpg",
+    "mainImage": "quercus-afares/quercus-afares.jpg",
     "description": "Tough, vigorous, broadly-spreading oak from northern-Africa. Develops corky bark and bears plentiful crops of acorns. Tolerates dry, coastal sites. Semi-evergreen in warm climates.",
     "uses": "paddocks, shade",
     "tolerates": "coastal",
@@ -76321,7 +76321,7 @@
       "form": ""
     },
     "url": "quercus-bicolor",
-    "mainImage": "quercus-bicolor-swamp-white-oak/quercus-bicolor-swamp-white-oak.jpg",
+    "mainImage": "quercus-bicolor/quercus-bicolor.jpg",
     "description": "An easily-grown, rounded tree. Glossy leaves are felted with grey beneath. Orange-red autumn leaves. The best autumn colour is produced in warm, sunny autumns. Produces acorns. Tolerant of moist soils. Grows well on the edge of water.",
     "uses": "",
     "tolerates": "",
@@ -76360,16 +76360,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-bicolor-swamp-white-oak/quercus-bicolor-swamp-white-oak-autumn-foliage.jpg",
-        "alt": "quercus bicolor swamp white oak autumn foliage"
+        "src": "images/trees/quercus-bicolor/quercus-bicolor-autumn-foliage.jpg",
+        "alt": "quercus bicolor autumn foliage"
       },
       {
-        "src": "images/trees/quercus-bicolor-swamp-white-oak/quercus-bicolor-swamp-white-oak-folia.jpg",
-        "alt": "quercus bicolor swamp white oak folia"
+        "src": "images/trees/quercus-bicolor/quercus-bicolor-folia.jpg",
+        "alt": "quercus bicolor folia"
       },
       {
-        "src": "images/trees/quercus-bicolor-swamp-white-oak/quercus-bicolor-swamp-white-oak-park.jpg",
-        "alt": "quercus bicolor swamp white oak park"
+        "src": "images/trees/quercus-bicolor/quercus-bicolor-park.jpg",
+        "alt": "quercus bicolor park"
       }
     ],
     "links": []
@@ -76396,7 +76396,7 @@
       "form": ""
     },
     "url": "quercus-canariensis",
-    "mainImage": "quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak.jpg",
+    "mainImage": "quercus-canariensis/quercus-canariensis.jpg",
     "description": "A handsome, large, fast-growing tree. Grey, deeply-fissured bark. Glossy-green leaves turn yellow and brown through autumn. Can be semi-evergreen in warm climates. Large crops of acorns. Grows equally well on light and heavy soils. Tolerant of dry, coastal sites.",
     "uses": "paddocks, shade",
     "tolerates": "windy",
@@ -76435,36 +76435,36 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-foliage.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak foliage"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-foliage.jpg",
+        "alt": "quercus canariensis foliage"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-garden.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak garden"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-garden.jpg",
+        "alt": "quercus canariensis garden"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-large-tree-park.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak large tree park"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-large-tree-park.jpg",
+        "alt": "quercus canariensis large tree park"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-mature-tree-park.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak mature tree park"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-mature-tree-park.jpg",
+        "alt": "quercus canariensis mature tree park"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-mature-tree.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak mature tree"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-mature-tree.jpg",
+        "alt": "quercus canariensis mature tree"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-new-growth.jpeg",
-        "alt": "quercus canariensis mirbecks oak algerian oak new growth"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-new-growth.jpeg",
+        "alt": "quercus canariensis new growth"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-park.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak park"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-park.jpg",
+        "alt": "quercus canariensis park"
       },
       {
-        "src": "images/trees/quercus-canariensis-mirbecks-oak-algerian-oak/quercus-canariensis-mirbecks-oak-algerian-oak-street.jpg",
-        "alt": "quercus canariensis mirbecks oak algerian oak street"
+        "src": "images/trees/quercus-canariensis/quercus-canariensis-street.jpg",
+        "alt": "quercus canariensis street"
       }
     ],
     "links": []
@@ -76491,7 +76491,7 @@
       "form": ""
     },
     "url": "quercus-canariensis-x-robur",
-    "mainImage": "quercus-canariensis-x-robur-hybrid-english-oak/quercus-canariensis-x-robur-hybrid-english-oak.jpg",
+    "mainImage": "quercus-canariensis-x-robur/quercus-canariensis-x-robur.jpg",
     "description": "One of the hardiest oaks, tolerating strong winds and drought conditions once established. Thick, glossy, green leaves through summer, turning yellow in autumn. Produces copious quantities of acorns. Upright and broadly-spreading form.",
     "uses": "street",
     "tolerates": "windy",
@@ -76530,16 +76530,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-canariensis-x-robur-hybrid-english-oak/quercus-canariensis-x-robur-hybrid-english-oak-foliage.jpeg",
-        "alt": "quercus canariensis x robur hybrid english oak foliage"
+        "src": "images/trees/quercus-canariensis-x-robur/quercus-canariensis-x-robur-foliage.jpeg",
+        "alt": "quercus canariensis x robur foliage"
       },
       {
-        "src": "images/trees/quercus-canariensis-x-robur-hybrid-english-oak/quercus-canariensis-x-robur-hybrid-english-oak-leaves.jpeg",
-        "alt": "quercus canariensis x robur hybrid english oak leaves"
+        "src": "images/trees/quercus-canariensis-x-robur/quercus-canariensis-x-robur-leaves.jpeg",
+        "alt": "quercus canariensis x robur leaves"
       },
       {
-        "src": "images/trees/quercus-canariensis-x-robur-hybrid-english-oak/quercus-canariensis-x-robur-hybrid-english-oak-mature-tree.jpg",
-        "alt": "quercus canariensis x robur hybrid english oak mature tree"
+        "src": "images/trees/quercus-canariensis-x-robur/quercus-canariensis-x-robur-mature-tree.jpg",
+        "alt": "quercus canariensis x robur mature tree"
       }
     ],
     "links": []
@@ -76566,7 +76566,7 @@
       "form": ""
     },
     "url": "quercus-cerris",
-    "mainImage": "quercus-cerris-turkey-oak/quercus-cerris-turkey-oak.jpg",
+    "mainImage": "quercus-cerris/quercus-cerris.jpg",
     "description": "Fast-growing oak that is coastal-hardy. Makes a wide-spreading tree of noble proportions. Rich-green, oblong, lobed leaves turn yellow in autumn. Excellent for both shelter and as a specimen tree. Produces large crops of acorns.",
     "uses": "paddocks, shade",
     "tolerates": "coastal, windy",
@@ -76605,28 +76605,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-autumn-foliage.jpg",
-        "alt": "quercus cerris turkey oak autumn foliage"
+        "src": "images/trees/quercus-cerris/quercus-cerris-autumn-foliage.jpg",
+        "alt": "quercus cerris autumn foliage"
       },
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-farm.jpg",
-        "alt": "quercus cerris turkey oak farm"
+        "src": "images/trees/quercus-cerris/quercus-cerris-farm.jpg",
+        "alt": "quercus cerris farm"
       },
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-foliage.jpeg",
-        "alt": "quercus cerris turkey oak foliage"
+        "src": "images/trees/quercus-cerris/quercus-cerris-foliage.jpeg",
+        "alt": "quercus cerris foliage"
       },
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-large-tree.jpg",
-        "alt": "quercus cerris turkey oak large tree"
+        "src": "images/trees/quercus-cerris/quercus-cerris-large-tree.jpg",
+        "alt": "quercus cerris large tree"
       },
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-mature-tree.jpg",
-        "alt": "quercus cerris turkey oak mature tree"
+        "src": "images/trees/quercus-cerris/quercus-cerris-mature-tree.jpg",
+        "alt": "quercus cerris mature tree"
       },
       {
-        "src": "images/trees/quercus-cerris-turkey-oak/quercus-cerris-turkey-oak-winter.jpg",
-        "alt": "quercus cerris turkey oak winter"
+        "src": "images/trees/quercus-cerris/quercus-cerris-winter.jpg",
+        "alt": "quercus cerris winter"
       }
     ],
     "links": []
@@ -76653,7 +76653,7 @@
       "form": ""
     },
     "url": "quercus-coccinea",
-    "mainImage": "quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak.jpg",
+    "mainImage": "quercus-coccinea/quercus-coccinea.jpg",
     "description": "North American species, considered the most brilliantly-coloured oak with its fiery-scarlet autumn leaves which persist well into winter. Forms a stately specimen with an open-branching structure which allows lawn to grow underneath. More narrow-growing than most oaks.",
     "uses": "street, paddocks, shade",
     "tolerates": "",
@@ -76692,32 +76692,32 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-autumn-foliage.jpg",
-        "alt": "quercus coccinea scarlet oak autumn foliage"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-autumn-foliage.jpg",
+        "alt": "quercus coccinea autumn foliage"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-autumn-leaves.jpg",
-        "alt": "quercus coccinea scarlet oak autumn leaves"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-autumn-leaves.jpg",
+        "alt": "quercus coccinea autumn leaves"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-autumn.jpg",
-        "alt": "quercus coccinea scarlet oak autumn"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-autumn.jpg",
+        "alt": "quercus coccinea autumn"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-avenue.jpg",
-        "alt": "quercus coccinea scarlet oak avenue"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-avenue.jpg",
+        "alt": "quercus coccinea avenue"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-driveway.jpg",
-        "alt": "quercus coccinea scarlet oak driveway"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-driveway.jpg",
+        "alt": "quercus coccinea driveway"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-foliage.jpg",
-        "alt": "quercus coccinea scarlet oak foliage"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-foliage.jpg",
+        "alt": "quercus coccinea foliage"
       },
       {
-        "src": "images/trees/quercus-coccinea-scarlet-oak/quercus-coccinea-scarlet-oak-mature-tree.jpg",
-        "alt": "quercus coccinea scarlet oak mature tree"
+        "src": "images/trees/quercus-coccinea/quercus-coccinea-mature-tree.jpg",
+        "alt": "quercus coccinea mature tree"
       }
     ],
     "links": []
@@ -76744,7 +76744,7 @@
       "form": ""
     },
     "url": "quercus-ellipsoidalis",
-    "mainImage": "quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak.jpg",
+    "mainImage": "quercus-ellipsoidalis/quercus-ellipsoidalis.jpg",
     "description": "Glossy, green, deeply-cut leaves turn scarlet and purple in winter. Tolerant of strong, prevailing winds.",
     "uses": "street",
     "tolerates": "",
@@ -76783,20 +76783,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak-autumn-foliage.jpg",
-        "alt": "quercus ellipsoidalis northern pin oak autumn foliage"
+        "src": "images/trees/quercus-ellipsoidalis/quercus-ellipsoidalis-autumn-foliage.jpg",
+        "alt": "quercus ellipsoidalis autumn foliage"
       },
       {
-        "src": "images/trees/quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak-autumn-leaves.jpg",
-        "alt": "quercus ellipsoidalis northern pin oak autumn leaves"
+        "src": "images/trees/quercus-ellipsoidalis/quercus-ellipsoidalis-autumn-leaves.jpg",
+        "alt": "quercus ellipsoidalis autumn leaves"
       },
       {
-        "src": "images/trees/quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak-foliage.jpg",
-        "alt": "quercus ellipsoidalis northern pin oak foliage"
+        "src": "images/trees/quercus-ellipsoidalis/quercus-ellipsoidalis-foliage.jpg",
+        "alt": "quercus ellipsoidalis foliage"
       },
       {
-        "src": "images/trees/quercus-ellipsoidalis-northern-pin-oak/quercus-ellipsoidalis-northern-pin-oak-summer.jpg",
-        "alt": "quercus ellipsoidalis northern pin oak summer"
+        "src": "images/trees/quercus-ellipsoidalis/quercus-ellipsoidalis-summer.jpg",
+        "alt": "quercus ellipsoidalis summer"
       }
     ],
     "links": []
@@ -76823,7 +76823,7 @@
       "form": ""
     },
     "url": "quercus-ilex",
-    "mainImage": "quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak.jpg",
+    "mainImage": "quercus-ilex/quercus-ilex.jpg",
     "description": "Forms a large tree with a dense, wide-spreading crown. Small, leathery leaves are dark-green with grey undersides. Coastal and drought-hardy. With its dense form and smaller leaves, can be clipped into a tough hedge or screen. Excellent for training into topiary forms.",
     "uses": "street, hedging-and-screening, topiary, pleaching",
     "tolerates": "coastal, windy",
@@ -76862,44 +76862,44 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-foliage.jpeg",
-        "alt": "quercus ilex evergreen oak holm oak foliage"
+        "src": "images/trees/quercus-ilex/quercus-ilex-foliage.jpeg",
+        "alt": "quercus ilex foliage"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-mature-tree.jpg",
-        "alt": "quercus ilex evergreen oak holm oak mature tree"
+        "src": "images/trees/quercus-ilex/quercus-ilex-mature-tree.jpg",
+        "alt": "quercus ilex mature tree"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-pleached-garden.jpg",
-        "alt": "quercus ilex evergreen oak holm oak pleached garden"
+        "src": "images/trees/quercus-ilex/quercus-ilex-pleached-garden.jpg",
+        "alt": "quercus ilex pleached garden"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-pleached-trees.jpg",
-        "alt": "quercus ilex evergreen oak holm oak pleached trees"
+        "src": "images/trees/quercus-ilex/quercus-ilex-pleached-trees.jpg",
+        "alt": "quercus ilex pleached trees"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-pleached.jpg",
-        "alt": "quercus ilex evergreen oak holm oak pleached"
+        "src": "images/trees/quercus-ilex/quercus-ilex-pleached.jpg",
+        "alt": "quercus ilex pleached"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-topiaried.jpg",
-        "alt": "quercus ilex evergreen oak holm oak topiaried"
+        "src": "images/trees/quercus-ilex/quercus-ilex-topiaried.jpg",
+        "alt": "quercus ilex topiaried"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-topiary.jpg",
-        "alt": "quercus ilex evergreen oak holm oak topiary"
+        "src": "images/trees/quercus-ilex/quercus-ilex-topiary.jpg",
+        "alt": "quercus ilex topiary"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-trimmed.jpg",
-        "alt": "quercus ilex evergreen oak holm oak trimmed"
+        "src": "images/trees/quercus-ilex/quercus-ilex-trimmed.jpg",
+        "alt": "quercus ilex trimmed"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-wild-bushy-tree.jpg",
-        "alt": "quercus ilex evergreen oak holm oak wild bushy tree"
+        "src": "images/trees/quercus-ilex/quercus-ilex-wild-bushy-tree.jpg",
+        "alt": "quercus ilex wild bushy tree"
       },
       {
-        "src": "images/trees/quercus-ilex-oak-holm-oak/quercus-ilex-oak-holm-oak-wild.jpg",
-        "alt": "quercus ilex evergreen oak holm oak wild"
+        "src": "images/trees/quercus-ilex/quercus-ilex-wild.jpg",
+        "alt": "quercus ilex wild"
       }
     ],
     "links": []
@@ -76926,7 +76926,7 @@
       "form": ""
     },
     "url": "quercus-laurina",
-    "mainImage": "quercus-laurina-mexican-species-oak/quercus-laurina-mexican-species-oak.jpg",
+    "mainImage": "quercus-laurina/quercus-laurina.jpg",
     "description": "A vigorous-growing, columnar tree with lanceolate, glossy-green leaves. New spring growth is bronze-red. Supple, slender stems lend themselves to training horizontally for espaliering and pleaching. Can be easily clipped into standards and other forms.",
     "uses": "street, pleaching",
     "tolerates": "",
@@ -76965,8 +76965,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-laurina-mexican-species-oak/quercus-laurina-mexican-species-oak-foliage.jpg",
-        "alt": "quercus laurina mexican species oak foliage"
+        "src": "images/trees/quercus-laurina/quercus-laurina-foliage.jpg",
+        "alt": "quercus laurina foliage"
       }
     ],
     "links": []
@@ -76993,7 +76993,7 @@
       "form": ""
     },
     "url": "quercus-mexicana",
-    "mainImage": "quercus-mexicana-mexican-species-oak/quercus-mexicana-mexican-species-oak.jpg",
+    "mainImage": "quercus-mexicana/quercus-mexicana.jpg",
     "description": "An open, spreading, round-headed tree. Has thick, leathery, dark-green leaves with no teeth or lobes. Distinctive bark is covered with bumps and ridges. Coastal and drought tolerant.",
     "uses": "street",
     "tolerates": "coastal",
@@ -77032,12 +77032,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-mexicana-mexican-species-oak/quercus-mexicana-mexican-species-oak-bark.jpg",
-        "alt": "quercus mexicana mexican species oak bark"
+        "src": "images/trees/quercus-mexicana/quercus-mexicana-bark.jpg",
+        "alt": "quercus mexicana bark"
       },
       {
-        "src": "images/trees/quercus-mexicana-mexican-species-oak/quercus-mexicana-mexican-species-oak-foliage.jpeg",
-        "alt": "quercus mexicana mexican species oak foliage"
+        "src": "images/trees/quercus-mexicana/quercus-mexicana-foliage.jpeg",
+        "alt": "quercus mexicana foliage"
       }
     ],
     "links": []
@@ -77064,7 +77064,7 @@
       "form": ""
     },
     "url": "quercus-palustris",
-    "mainImage": "quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak.jpg",
+    "mainImage": "quercus-palustris/quercus-palustris.jpg",
     "description": "Has a neat, pyramidal habit with spreading branches. Glossy, green, deeply-cut leaves turn scarlet and orange in autumn. Tolerant of wet soils and strong winds.",
     "uses": "street, paddocks, shade, driveways-and-avenues",
     "tolerates": "windy",
@@ -77103,92 +77103,92 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-driveway.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn driveway"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-driveway.jpg",
+        "alt": "quercus palustris autumn driveway"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-field.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn field"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-field.jpg",
+        "alt": "quercus palustris autumn field"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-foliage.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn foliage"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-foliage.jpg",
+        "alt": "quercus palustris autumn foliage"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-leaves.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn leaves"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-leaves.jpg",
+        "alt": "quercus palustris autumn leaves"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-paddock.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn paddock"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-paddock.jpg",
+        "alt": "quercus palustris autumn paddock"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-park.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn park"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-park.jpg",
+        "alt": "quercus palustris autumn park"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-pathway.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn pathway"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-pathway.jpg",
+        "alt": "quercus palustris autumn pathway"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-row.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn row"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-row.jpg",
+        "alt": "quercus palustris autumn row"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-autumn-young.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak autumn young"
+        "src": "images/trees/quercus-palustris/quercus-palustris-autumn-young.jpg",
+        "alt": "quercus palustris autumn young"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-avenue.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak avenue"
+        "src": "images/trees/quercus-palustris/quercus-palustris-avenue.jpg",
+        "alt": "quercus palustris avenue"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-beautiful-avenue.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak beautiful avenue"
+        "src": "images/trees/quercus-palustris/quercus-palustris-beautiful-avenue.jpg",
+        "alt": "quercus palustris beautiful avenue"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-foliage-autumn.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak foliage autumn"
+        "src": "images/trees/quercus-palustris/quercus-palustris-foliage-autumn.jpg",
+        "alt": "quercus palustris foliage autumn"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-garden.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak garden"
+        "src": "images/trees/quercus-palustris/quercus-palustris-garden.jpg",
+        "alt": "quercus palustris garden"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-gorgeous-autumn-leaves.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak gorgeous autumn leaves"
+        "src": "images/trees/quercus-palustris/quercus-palustris-gorgeous-autumn-leaves.jpg",
+        "alt": "quercus palustris gorgeous autumn leaves"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-impressive-summer-form.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak impressive summer form"
+        "src": "images/trees/quercus-palustris/quercus-palustris-impressive-summer-form.jpg",
+        "alt": "quercus palustris impressive summer form"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-late-autumn-street.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak late autumn street"
+        "src": "images/trees/quercus-palustris/quercus-palustris-late-autumn-street.jpg",
+        "alt": "quercus palustris late autumn street"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-mature-autumn.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak mature autumn"
+        "src": "images/trees/quercus-palustris/quercus-palustris-mature-autumn.jpg",
+        "alt": "quercus palustris mature autumn"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-summer-field.jpeg",
-        "alt": "quercus palustris pin oak swamp spanish oak summer field"
+        "src": "images/trees/quercus-palustris/quercus-palustris-summer-field.jpeg",
+        "alt": "quercus palustris summer field"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-summer-foliage.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak summer foliage"
+        "src": "images/trees/quercus-palustris/quercus-palustris-summer-foliage.jpg",
+        "alt": "quercus palustris summer foliage"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-summer-form.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak summer form"
+        "src": "images/trees/quercus-palustris/quercus-palustris-summer-form.jpg",
+        "alt": "quercus palustris summer form"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-summer-street.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak summer street"
+        "src": "images/trees/quercus-palustris/quercus-palustris-summer-street.jpg",
+        "alt": "quercus palustris summer street"
       },
       {
-        "src": "images/trees/quercus-palustris-pin-oak-swamp-spanish-oak/quercus-palustris-pin-oak-swamp-spanish-oak-sunlight-through-autumn-leaves.jpg",
-        "alt": "quercus palustris pin oak swamp spanish oak sunlight through autumn leaves"
+        "src": "images/trees/quercus-palustris/quercus-palustris-sunlight-through-autumn-leaves.jpg",
+        "alt": "quercus palustris sunlight through autumn leaves"
       }
     ],
     "links": []
@@ -77215,7 +77215,7 @@
       "form": ""
     },
     "url": "quercus-petraea-x-robur",
-    "mainImage": "quercus-petraea-x-robur-hybrid-english-oak/quercus-petraea-x-robur-hybrid-english-oak.jpg",
+    "mainImage": "quercus-petraea-x-robur/quercus-petraea-x-robur.jpg",
     "description": "This handsome, full-canopy shade tree differs from Quercus robur with its long-stalked, broadly-oval, large leaves. Clusters of oval acorns are a feature. Coastal and drought hardy.",
     "uses": "street, paddocks, shade",
     "tolerates": "coastal",
@@ -77254,20 +77254,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-petraea-x-robur-hybrid-english-oak/quercus-petraea-x-robur-hybrid-english-oak-foliage.jpeg",
-        "alt": "quercus petraea x robur hybrid english oak foliage"
+        "src": "images/trees/quercus-petraea-x-robur/quercus-petraea-x-robur-foliage.jpeg",
+        "alt": "quercus petraea x robur foliage"
       },
       {
-        "src": "images/trees/quercus-petraea-x-robur-hybrid-english-oak/quercus-petraea-x-robur-hybrid-english-oak-park.jpg",
-        "alt": "quercus petraea x robur hybrid english oak park"
+        "src": "images/trees/quercus-petraea-x-robur/quercus-petraea-x-robur-park.jpg",
+        "alt": "quercus petraea x robur park"
       },
       {
-        "src": "images/trees/quercus-petraea-x-robur-hybrid-english-oak/quercus-petraea-x-robur-hybrid-english-oak-road.jpg",
-        "alt": "quercus petraea x robur hybrid english oak road"
+        "src": "images/trees/quercus-petraea-x-robur/quercus-petraea-x-robur-road.jpg",
+        "alt": "quercus petraea x robur road"
       },
       {
-        "src": "images/trees/quercus-petraea-x-robur-hybrid-english-oak/quercus-petraea-x-robur-hybrid-english-oak-street.jpg",
-        "alt": "quercus petraea x robur hybrid english oak street"
+        "src": "images/trees/quercus-petraea-x-robur/quercus-petraea-x-robur-street.jpg",
+        "alt": "quercus petraea x robur street"
       }
     ],
     "links": []
@@ -77294,7 +77294,7 @@
       "form": ""
     },
     "url": "quercus-robur",
-    "mainImage": "quercus-robur-english-oak/quercus-robur-english-oak.jpg",
+    "mainImage": "quercus-robur/quercus-robur.jpg",
     "description": "The classic oak, famed for its broad shape, deep-fissured bark, and characteristic acorns. Lime-green leaves in spring mature dark-green. The leaves turn yellow in autumn and persist into winter. Ideal for parks, paddocks, lining avenues, and as a magnificent specimen tree.",
     "uses": "street, paddocks, shade",
     "tolerates": "windy",
@@ -77333,48 +77333,48 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-acorns.jpeg",
-        "alt": "quercus robur english oak acorns"
+        "src": "images/trees/quercus-robur/quercus-robur-acorns.jpeg",
+        "alt": "quercus robur acorns"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-autumn-foliage.jpg",
-        "alt": "quercus robur english oak autumn foliage"
+        "src": "images/trees/quercus-robur/quercus-robur-autumn-foliage.jpg",
+        "alt": "quercus robur autumn foliage"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-carpark.jpg",
-        "alt": "quercus robur english oak carpark"
+        "src": "images/trees/quercus-robur/quercus-robur-carpark.jpg",
+        "alt": "quercus robur carpark"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-courtyard.jpg",
-        "alt": "quercus robur english oak courtyard"
+        "src": "images/trees/quercus-robur/quercus-robur-courtyard.jpg",
+        "alt": "quercus robur courtyard"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-field.jpg",
-        "alt": "quercus robur english oak field"
+        "src": "images/trees/quercus-robur/quercus-robur-field.jpg",
+        "alt": "quercus robur field"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-garden.jpg",
-        "alt": "quercus robur english oak garden"
+        "src": "images/trees/quercus-robur/quercus-robur-garden.jpg",
+        "alt": "quercus robur garden"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-park.jpg",
-        "alt": "quercus robur english oak park"
+        "src": "images/trees/quercus-robur/quercus-robur-park.jpg",
+        "alt": "quercus robur park"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-summer-foliage.jpeg",
-        "alt": "quercus robur english oak summer foliage"
+        "src": "images/trees/quercus-robur/quercus-robur-summer-foliage.jpeg",
+        "alt": "quercus robur summer foliage"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-summer-park.jpg",
-        "alt": "quercus robur english oak summer park"
+        "src": "images/trees/quercus-robur/quercus-robur-summer-park.jpg",
+        "alt": "quercus robur summer park"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-winter.jpg",
-        "alt": "quercus robur english oak winter"
+        "src": "images/trees/quercus-robur/quercus-robur-winter.jpg",
+        "alt": "quercus robur winter"
       },
       {
-        "src": "images/trees/quercus-robur-english-oak/quercus-robur-english-oak-young-tree.jpg",
-        "alt": "quercus robur english oak young tree"
+        "src": "images/trees/quercus-robur/quercus-robur-young-tree.jpg",
+        "alt": "quercus robur young tree"
       }
     ],
     "links": []
@@ -77401,7 +77401,7 @@
       "form": ""
     },
     "url": "quercus-robur-fastigiata",
-    "mainImage": "quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak.jpg",
+    "mainImage": "quercus-robur-fastigiata/quercus-robur-fastigiata.jpg",
     "description": "Neat, tight, columnar habit. Great for narrow spaces where height is required. Dark-green leaves turn yellow in autumn, then brown in winter. Plant as a screen, to line avenues and driveways, or as a focal point. Excellent street tree.",
     "uses": "street, narrow-sites",
     "tolerates": "windy",
@@ -77440,28 +77440,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-autumn-form.jpg",
-        "alt": "quercus robur fastigiata english oak autumn form"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-autumn-form.jpg",
+        "alt": "quercus robur fastigiata autumn form"
       },
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-autumn-leaves.jpg",
-        "alt": "quercus robur fastigiata english oak autumn leaves"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-autumn-leaves.jpg",
+        "alt": "quercus robur fastigiata autumn leaves"
       },
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-autumn.jpg",
-        "alt": "quercus robur fastigiata english oak autumn"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-autumn.jpg",
+        "alt": "quercus robur fastigiata autumn"
       },
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-foliage.jpg",
-        "alt": "quercus robur fastigiata english oak foliage"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-foliage.jpg",
+        "alt": "quercus robur fastigiata foliage"
       },
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-mature-tree.jpg",
-        "alt": "quercus robur fastigiata english oak mature tree"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-mature-tree.jpg",
+        "alt": "quercus robur fastigiata mature tree"
       },
       {
-        "src": "images/trees/quercus-robur-fastigiata-english-oak/quercus-robur-fastigiata-english-oak-park.jpg",
-        "alt": "quercus robur fastigiata english oak park"
+        "src": "images/trees/quercus-robur-fastigiata/quercus-robur-fastigiata-park.jpg",
+        "alt": "quercus robur fastigiata park"
       }
     ],
     "links": []
@@ -77488,7 +77488,7 @@
       "form": ""
     },
     "url": "quercus-rubra",
-    "mainImage": "quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak.jpg",
+    "mainImage": "quercus-rubra/quercus-rubra.jpg",
     "description": "Large, broad-headed tree. Red new leaves mature to deep-green. Red and yellow autumn leaves. Becomes a high-branched, wide-spreading tree with a deep rooting-system, allowing lawn and other plants to be grown underneath. Produces acorns. Not for alkaline soils.",
     "uses": "street, paddocks, shade",
     "tolerates": "",
@@ -77527,28 +77527,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-autumn-foliage.jpg",
-        "alt": "quercus rubra northern red oak autumn foliage"
+        "src": "images/trees/quercus-rubra/quercus-rubra-autumn-foliage.jpg",
+        "alt": "quercus rubra autumn foliage"
       },
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-foliage.jpeg",
-        "alt": "quercus rubra northern red oak foliage"
+        "src": "images/trees/quercus-rubra/quercus-rubra-foliage.jpeg",
+        "alt": "quercus rubra foliage"
       },
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-garden.jpg",
-        "alt": "quercus rubra northern red oak garden"
+        "src": "images/trees/quercus-rubra/quercus-rubra-garden.jpg",
+        "alt": "quercus rubra garden"
       },
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-large-tree.jpg",
-        "alt": "quercus rubra northern red oak large tree"
+        "src": "images/trees/quercus-rubra/quercus-rubra-large-tree.jpg",
+        "alt": "quercus rubra large tree"
       },
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-lawn.jpg",
-        "alt": "quercus rubra northern red oak lawn"
+        "src": "images/trees/quercus-rubra/quercus-rubra-lawn.jpg",
+        "alt": "quercus rubra lawn"
       },
       {
-        "src": "images/trees/quercus-rubra-northern-red-oak/quercus-rubra-northern-red-oak-mature-tree.jpg",
-        "alt": "quercus rubra northern red oak mature tree"
+        "src": "images/trees/quercus-rubra/quercus-rubra-mature-tree.jpg",
+        "alt": "quercus rubra mature tree"
       }
     ],
     "links": []
@@ -77575,7 +77575,7 @@
       "form": ""
     },
     "url": "quercus-suber",
-    "mainImage": "quercus-suber-cork-oak/quercus-suber-cork-oak.jpg",
+    "mainImage": "quercus-suber/quercus-suber.jpg",
     "description": "Thick, fissured, corky bark is a feature. Small, oval, toothed leaves are dark-green with grey undersides. Coastal and drought hardy. Can be clipped into a tough hedge or screen. Ideal for training into topiary forms. Excellent street tree.",
     "uses": "street, hedging-and-screening, topiary",
     "tolerates": "coastal, windy",
@@ -77614,28 +77614,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-acorns.jpg",
-        "alt": "quercus suber cork oak acorns"
+        "src": "images/trees/quercus-suber/quercus-suber-acorns.jpg",
+        "alt": "quercus suber acorns"
       },
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-bark.jpg",
-        "alt": "quercus suber cork oak bark"
+        "src": "images/trees/quercus-suber/quercus-suber-bark.jpg",
+        "alt": "quercus suber bark"
       },
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-foliage.jpeg",
-        "alt": "quercus suber cork oak foliage"
+        "src": "images/trees/quercus-suber/quercus-suber-foliage.jpeg",
+        "alt": "quercus suber foliage"
       },
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-grove.jpg",
-        "alt": "quercus suber cork oak grove"
+        "src": "images/trees/quercus-suber/quercus-suber-grove.jpg",
+        "alt": "quercus suber grove"
       },
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-trunk-bark.jpg",
-        "alt": "quercus suber cork oak trunk bark"
+        "src": "images/trees/quercus-suber/quercus-suber-trunk-bark.jpg",
+        "alt": "quercus suber trunk bark"
       },
       {
-        "src": "images/trees/quercus-suber-cork-oak/quercus-suber-cork-oak-young-tree-bark.jpeg",
-        "alt": "quercus suber cork oak young tree bark"
+        "src": "images/trees/quercus-suber/quercus-suber-young-tree-bark.jpeg",
+        "alt": "quercus suber young tree bark"
       }
     ],
     "links": []
