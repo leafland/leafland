@@ -7170,7 +7170,13 @@
     force = true
     from = "/trees/prunus-armeniaca-sundrop-trevatt-apricot/"
     status = 301
-    to = "/trees/prunus-armeniaca-sundrop/trevatt/"
+    to = "/trees/prunus-armeniaca-sundrop-trevatt/"
+
+[[redirects]]
+    force = true
+    from = "/trees/prunus-armeniaca-sundrop/trevatt/"
+    status = 301
+    to = "/trees/prunus-armeniaca-sundrop-trevatt/"
 
 
 [[redirects]]
@@ -7546,7 +7552,13 @@
     force = true
     from = "/trees/prunus-salicina-black-doris-billington-plum/"
     status = 301
-    to = "/trees/prunus-salicina-black-doris/billington/"
+    to = "/trees/prunus-salicina-black-doris-billington/"
+
+[[redirects]]
+    force = true
+    from = "/trees/prunus-salicina-black-doris/billington/"
+    status = 301
+    to = "/trees/prunus-salicina-black-doris-billington/"
 
 
 [[redirects]]
@@ -7847,7 +7859,13 @@
     force = true
     from = "/trees/pyrus-communis-doyenne-du-comice-conference-pear/"
     status = 301
-    to = "/trees/pyrus-communis-doyenne-du-comice/conference/"
+    to = "/trees/pyrus-communis-doyenne-du-comice-conference/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pyrus-communis-doyenne-du-comice/conference/"
+    status = 301
+    to = "/trees/pyrus-communis-doyenne-du-comice-conference/"
 
 
 [[redirects]]
@@ -7882,7 +7900,13 @@
     force = true
     from = "/trees/pyrus-communis-williams-bon-chretien-conference-pear/"
     status = 301
-    to = "/trees/pyrus-communis-williams-bon-chretien/conference/"
+    to = "/trees/pyrus-communis-williams-bon-chretien-conference/"
+
+[[redirects]]
+    force = true
+    from = "/trees/pyrus-communis-williams-bon-chretien/conference/"
+    status = 301
+    to = "/trees/pyrus-communis-williams-bon-chretien-conference/"
 
 
 [[redirects]]
