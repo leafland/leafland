@@ -28337,7 +28337,7 @@
       "form": ""
     },
     "url": "corylus-avellana-barcelona",
-    "mainImage": "corylus-avellana-barcelona-hazelnut-common-hazel/corylus-avellana-barcelona-hazelnut-common-hazel.jpg",
+    "mainImage": "corylus-avellana-barcelona/corylus-avellana-barcelona.jpg",
     "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.rhsplants.co.uk/plants/_/hazelnut-butler/classid.2000036823/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Butler'</a>, <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/merveille-de-bowillier/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Merveille de Bowillier'</a>, and <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/tonda-di-giffoni/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Tonda di Giffoni'</a>.",
     "uses": "",
     "tolerates": "",
@@ -28376,8 +28376,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/corylus-avellana-barcelona-hazelnut-common-hazel/corylus-avellana-barcelona-hazelnut-common-hazel-nuts.jpg",
-        "alt": "corylus avellana barcelona hazelnut common hazel nuts"
+        "src": "images/trees/corylus-avellana-barcelona/corylus-avellana-barcelona-nuts.jpg",
+        "alt": "corylus avellana barcelona nuts"
       }
     ],
     "links": []
@@ -28404,7 +28404,7 @@
       "form": ""
     },
     "url": "corylus-avellana-whiteheart",
-    "mainImage": "corylus-avellana-whiteheart-hazelnut-common-hazel/corylus-avellana-whiteheart-hazelnut-common-hazel.jpg",
+    "mainImage": "corylus-avellana-whiteheart/corylus-avellana-whiteheart.jpg",
     "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/alexandra/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Alexandra'</a>, <i>Corylus avellana</i> 'Auckland No. 2', and <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/merveille-de-bowillier/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Merveille de Bowillier'</a>.",
     "uses": "",
     "tolerates": "",
@@ -28443,8 +28443,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/corylus-avellana-whiteheart-hazelnut-common-hazel/corylus-avellana-whiteheart-hazelnut-common-hazel-nuts.jpg",
-        "alt": "corylus avellana whiteheart hazelnut common hazel nuts"
+        "src": "images/trees/corylus-avellana-whiteheart/corylus-avellana-whiteheart-nuts.jpg",
+        "alt": "corylus avellana whiteheart nuts"
       }
     ],
     "links": []
@@ -28471,7 +28471,7 @@
       "form": ""
     },
     "url": "corylus-colurna",
-    "mainImage": "corylus-colurna-turkish-hazel/corylus-colurna-turkish-hazel.jpg",
+    "mainImage": "corylus-colurna/corylus-colurna.jpg",
     "description": "Erect, conical-grower with a very symmetrical branching habit. Produces edible brown nuts in autumn, although they are encased in a thick, hard, green shell that makes them difficult to extract. Fruiting is irregular, occurring every two to three years. Tolerates hot, dry climates. Excellent street tree. Has corky bark. Yellow-green catkins from early-spring to early-summer are a source of pollen for bees. Yellow autumn leaves. Has a deep rooting system, and does not transplant well.",
     "uses": "street, attracts-bees",
     "tolerates": "",
@@ -28510,16 +28510,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/corylus-colurna-turkish-hazel/corylus-colurna-turkish-hazel-foliage-bark.jpg",
-        "alt": "corylus colurna turkish hazel foliage bark"
+        "src": "images/trees/corylus-colurna/corylus-colurna-foliage-bark.jpg",
+        "alt": "corylus colurna foliage bark"
       },
       {
-        "src": "images/trees/corylus-colurna-turkish-hazel/corylus-colurna-turkish-hazel-street.jpeg",
-        "alt": "corylus colurna turkish hazel street"
+        "src": "images/trees/corylus-colurna/corylus-colurna-street.jpeg",
+        "alt": "corylus colurna street"
       },
       {
-        "src": "images/trees/corylus-colurna-turkish-hazel/corylus-colurna-turkish-hazel-yard.jpg",
-        "alt": "corylus colurna turkish hazel yard"
+        "src": "images/trees/corylus-colurna/corylus-colurna-yard.jpg",
+        "alt": "corylus colurna yard"
       }
     ],
     "links": []
@@ -28556,7 +28556,7 @@
       "form": ""
     },
     "url": "corymbia-ficifolia",
-    "mainImage": "corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum.jpg",
+    "mainImage": "corymbia-ficifolia/corymbia-ficifolia.jpg",
     "description": "Sturdy, single-trunked tree with a round-headed, compact crown. Large, thick, green leaves. Flowers in mid-summer with variations of glowing red, orange, and pink. Flowers attract nectar-seeking birds. Tolerant of high rainfall, droughts, and coastal winds.",
     "uses": "street, paddocks, shade, attracts-birds, attracts-bees",
     "tolerates": "heavy-rainfall, coastal, drought, windy",
@@ -28595,28 +28595,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-coast.jpg",
-        "alt": "corymbia ficifolia red flowering gum coast"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-coast.jpg",
+        "alt": "corymbia ficifolia coast"
       },
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-flowering.jpg",
-        "alt": "corymbia ficifolia red flowering gum flowering"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-flowering.jpg",
+        "alt": "corymbia ficifolia flowering"
       },
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-flowers.jpg",
-        "alt": "corymbia ficifolia red flowering gum flowers"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-flowers.jpg",
+        "alt": "corymbia ficifolia flowers"
       },
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-foliage.jpeg",
-        "alt": "corymbia ficifolia red flowering gum foliage"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-foliage.jpeg",
+        "alt": "corymbia ficifolia foliage"
       },
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-lawn.jpg",
-        "alt": "corymbia ficifolia red flowering gum lawn"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-lawn.jpg",
+        "alt": "corymbia ficifolia lawn"
       },
       {
-        "src": "images/trees/corymbia-ficifolia-red-flowering-gum/corymbia-ficifolia-red-flowering-gum-new-growth.jpeg",
-        "alt": "corymbia ficifolia red flowering gum new growth"
+        "src": "images/trees/corymbia-ficifolia/corymbia-ficifolia-new-growth.jpeg",
+        "alt": "corymbia ficifolia new growth"
       }
     ],
     "links": []
@@ -28643,7 +28643,7 @@
       "form": ""
     },
     "url": "corynocarpus-laevigatus",
-    "mainImage": "corynocarpus-laevigatus-karaka/corynocarpus-laevigatus-karaka.jpg",
+    "mainImage": "corynocarpus-laevigatus/corynocarpus-laevigatus.jpg",
     "description": "Handsome, upright-growing tree with large, glossy, leathery, deep-green leaves. Grows naturally alongside waterways. Tolerates moderate coastal winds, frosts once established, and dry conditions. Large, orange fruit in late summer are relished by wood pigeons.",
     "uses": "attracts-birds",
     "tolerates": "coastal",
@@ -28682,12 +28682,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/corynocarpus-laevigatus-karaka/corynocarpus-laevigatus-karaka-foliage.jpg",
-        "alt": "corynocarpus laevigatus karaka foliage"
+        "src": "images/trees/corynocarpus-laevigatus/corynocarpus-laevigatus-foliage.jpg",
+        "alt": "corynocarpus laevigatus foliage"
       },
       {
-        "src": "images/trees/corynocarpus-laevigatus-karaka/corynocarpus-laevigatus-karaka-fruit.jpeg",
-        "alt": "corynocarpus laevigatus karaka fruit"
+        "src": "images/trees/corynocarpus-laevigatus/corynocarpus-laevigatus-fruit.jpeg",
+        "alt": "corynocarpus laevigatus fruit"
       }
     ],
     "links": []
@@ -28742,7 +28742,7 @@
       "form": ""
     },
     "url": "cotinus-coggygria-golden-spirit",
-    "mainImage": "cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree.jpg",
+    "mainImage": "cotinus-coggygria-golden-spirit/cotinus-coggygria-golden-spirit.jpg",
     "description": "Lime and golden foliage throughout spring and summer, which lightens up dark areas and adds contrast. Beautiful autumn foliage of orange and red. This cultivar may not flower as well as other Cotinus cultivars. According to the U.S. patent, the inventor did not observe flowering over a four year period of testing. If flowering does occur, it will be pink flower plumes on old wood in mid-summer. Best grown in part-shade. Keep moist.",
     "uses": "",
     "tolerates": "",
@@ -28781,16 +28781,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree-foliage.jpg",
-        "alt": "cotinus coggygria golden spirit smoke tree foliage"
+        "src": "images/trees/cotinus-coggygria-golden-spirit/cotinus-coggygria-golden-spirit-foliage.jpg",
+        "alt": "cotinus coggygria golden spirit foliage"
       },
       {
-        "src": "images/trees/cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree-leaves.jpg",
-        "alt": "cotinus coggygria golden spirit smoke tree leaves"
+        "src": "images/trees/cotinus-coggygria-golden-spirit/cotinus-coggygria-golden-spirit-leaves.jpg",
+        "alt": "cotinus coggygria golden spirit leaves"
       },
       {
-        "src": "images/trees/cotinus-coggygria-golden-spirit-smoke-tree/cotinus-coggygria-golden-spirit-smoke-tree-young-tree.jpg",
-        "alt": "cotinus coggygria golden spirit smoke tree young tree"
+        "src": "images/trees/cotinus-coggygria-golden-spirit/cotinus-coggygria-golden-spirit-young-tree.jpg",
+        "alt": "cotinus coggygria golden spirit young tree"
       }
     ],
     "links": []
@@ -28827,7 +28827,7 @@
       "form": ""
     },
     "url": "cotinus-coggygria-red-spirit",
-    "mainImage": "cotinus-coggygria-red-spirit-smoke-tree/cotinus-coggygria-red-spirit-smoke-tree.jpg",
+    "mainImage": "cotinus-coggygria-red-spirit/cotinus-coggygria-red-spirit.jpg",
     "description": "New leaves are red, maturing to green tinged with blue. Fluffy heads of pink-red flowers cover the bush in early-summer. Stunning autumn leaves of orange, red, and purple. Can trim into any shape or form.",
     "uses": "",
     "tolerates": "",
@@ -28866,16 +28866,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cotinus-coggygria-red-spirit-smoke-tree/cotinus-coggygria-red-spirit-smoke-tree-autumn-leaves.jpg",
-        "alt": "cotinus coggygria red spirit smoke tree autumn leaves"
+        "src": "images/trees/cotinus-coggygria-red-spirit/cotinus-coggygria-red-spirit-autumn-leaves.jpg",
+        "alt": "cotinus coggygria red spirit autumn leaves"
       },
       {
-        "src": "images/trees/cotinus-coggygria-red-spirit-smoke-tree/cotinus-coggygria-red-spirit-smoke-tree-autumn.jpg",
-        "alt": "cotinus coggygria red spirit smoke tree autumn"
+        "src": "images/trees/cotinus-coggygria-red-spirit/cotinus-coggygria-red-spirit-autumn.jpg",
+        "alt": "cotinus coggygria red spirit autumn"
       },
       {
-        "src": "images/trees/cotinus-coggygria-red-spirit-smoke-tree/cotinus-coggygria-red-spirit-smoke-tree-flowers.jpg",
-        "alt": "cotinus coggygria red spirit smoke tree flowers"
+        "src": "images/trees/cotinus-coggygria-red-spirit/cotinus-coggygria-red-spirit-flowers.jpg",
+        "alt": "cotinus coggygria red spirit flowers"
       }
     ],
     "links": []
@@ -28912,7 +28912,7 @@
       "form": ""
     },
     "url": "cotinus-coggygria-royal-purple",
-    "mainImage": "cotinus-coggygria-royal-purple-smoke-tree/cotinus-coggygria-royal-purple-smoke-tree.jpg",
+    "mainImage": "cotinus-coggygria-royal-purple/cotinus-coggygria-royal-purple.jpg",
     "description": "Large, bushy grower with attractive, rounded leaves. New spring leaves are a rich maroon-red, maturing to a deep wine-purple over summer, then turning more red in autumn. Large, pink, feathery flower plumes appear in spring giving the tree a smoke-like appearance.",
     "uses": "",
     "tolerates": "",
@@ -28951,16 +28951,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cotinus-coggygria-royal-purple-smoke-tree/cotinus-coggygria-royal-purple-smoke-tree-flowering.jpg",
-        "alt": "cotinus coggygria royal purple smoke tree flowering"
+        "src": "images/trees/cotinus-coggygria-royal-purple/cotinus-coggygria-royal-purple-flowering.jpg",
+        "alt": "cotinus coggygria royal purple flowering"
       },
       {
-        "src": "images/trees/cotinus-coggygria-royal-purple-smoke-tree/cotinus-coggygria-royal-purple-smoke-tree-leaves.jpg",
-        "alt": "cotinus coggygria royal purple smoke tree leaves"
+        "src": "images/trees/cotinus-coggygria-royal-purple/cotinus-coggygria-royal-purple-leaves.jpg",
+        "alt": "cotinus coggygria royal purple leaves"
       },
       {
-        "src": "images/trees/cotinus-coggygria-royal-purple-smoke-tree/cotinus-coggygria-royal-purple-smoke-tree-young-tree.jpg",
-        "alt": "cotinus coggygria royal purple smoke tree young tree"
+        "src": "images/trees/cotinus-coggygria-royal-purple/cotinus-coggygria-royal-purple-young-tree.jpg",
+        "alt": "cotinus coggygria royal purple young tree"
       }
     ],
     "links": []
@@ -28987,7 +28987,7 @@
       "form": ""
     },
     "url": "cotinus-grace",
-    "mainImage": "cotinus-grace-smoke-tree/cotinus-grace-smoke-tree.jpg",
+    "mainImage": "cotinus-grace/cotinus-grace.jpg",
     "description": "Purple leaves in spring and summer that turn a vibrant orange and red in autumn. Large, conical, purple-pink flower clusters are borne in summer. A strong, upright-grower with a rounded head. Excellent street tree. <i>Cotinus</i> 'Grace' is a hybrid between <a href='https://www.gardenia.net/plant/cotinus-coggygria-velvet-cloak-smokebush' target='_blank' rel='noopener noreferrer'><i>Cotinus coggygria</i> 'Velvet Cloak'</a> and a male <a href='/trees/cotinus-obovatus'><i>Cotinus obovatus</i></a>.",
     "uses": "",
     "tolerates": "",
@@ -29026,28 +29026,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-autumn-color.jpg",
-        "alt": "cotinus grace smoke tree autumn color"
+        "src": "images/trees/cotinus-grace/cotinus-grace-autumn-color.jpg",
+        "alt": "cotinus grace autumn color"
       },
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-carpark.jpg",
-        "alt": "cotinus grace smoke tree carpark"
+        "src": "images/trees/cotinus-grace/cotinus-grace-carpark.jpg",
+        "alt": "cotinus grace carpark"
       },
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers-leaves.jpg",
-        "alt": "cotinus grace smoke tree flowers leaves"
+        "src": "images/trees/cotinus-grace/cotinus-grace-flowers-leaves.jpg",
+        "alt": "cotinus grace flowers leaves"
       },
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-flowers.jpg",
-        "alt": "cotinus grace smoke tree flowers"
+        "src": "images/trees/cotinus-grace/cotinus-grace-flowers.jpg",
+        "alt": "cotinus grace flowers"
       },
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-garden.jpg",
-        "alt": "cotinus grace smoke tree garden"
+        "src": "images/trees/cotinus-grace/cotinus-grace-garden.jpg",
+        "alt": "cotinus grace garden"
       },
       {
-        "src": "images/trees/cotinus-grace-smoke-tree/cotinus-grace-smoke-tree-large-garden.jpg",
-        "alt": "cotinus grace smoke tree large garden"
+        "src": "images/trees/cotinus-grace/cotinus-grace-large-garden.jpg",
+        "alt": "cotinus grace large garden"
       }
     ],
     "links": []
@@ -29084,7 +29084,7 @@
       "form": ""
     },
     "url": "cotinus-obovatus",
-    "mainImage": "cotinus-obovatus-smoke-tree/cotinus-obovatus-smoke-tree.jpg",
+    "mainImage": "cotinus-obovatus/cotinus-obovatus.jpg",
     "description": "Vigorous grower with purple-pink new leaves that fade to blue-green. Amazing autumn colours of red, orange, and purple leaves. Plume-like, pink flower-heads are borne over summer. Does well in poor soil and is grown primarily for its brilliant autumn colour. Drought-tolerant when established and will tolerate urban pollution.",
     "uses": "",
     "tolerates": "drought",
@@ -29123,8 +29123,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cotinus-obovatus-smoke-tree/cotinus-obovatus-smoke-tree-foliage.jpg",
-        "alt": "cotinus obovatus smoke tree foliage"
+        "src": "images/trees/cotinus-obovatus/cotinus-obovatus-foliage.jpg",
+        "alt": "cotinus obovatus foliage"
       }
     ],
     "links": []
@@ -29161,7 +29161,7 @@
       "form": ""
     },
     "url": "crataegus-x-media-pauls-scarlet",
-    "mainImage": "crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn.jpg",
+    "mainImage": "crataegus-laevigata-pauls-scarlet/crataegus-laevigata-pauls-scarlet.jpg",
     "description": "This cultivar was discovered as a branch sport on a Crataegus laevigata 'Rosea Flore Pleno' in the mid-19th century. Upright tree with a compact, rounded head. Impressive heads of double crimson-red flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions. <a href='https://en.wikipedia.org/wiki/Crataegus_%C3%97_media' target='_blank' rel='noopener noreferrer'><i>Crataegus</i> x <i>media</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Crataegus_monogyna' target='_blank' rel='noopener noreferrer'><i>Crataegus monogyna</i></a> and <a href='https://en.wikipedia.org/wiki/Crataegus_laevigata' target='_blank' rel='noopener noreferrer'><i>Crataegus laevigata</i></a>.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
@@ -29200,16 +29200,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn-flowers.jpg",
-        "alt": "crataegus laevigata pauls scarlet hawthorn flowers"
+        "src": "images/trees/crataegus-laevigata-pauls-scarlet/crataegus-laevigata-pauls-scarlet-flowers.jpg",
+        "alt": "crataegus laevigata pauls scarlet flowers"
       },
       {
-        "src": "images/trees/crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn-park.jpg",
-        "alt": "crataegus laevigata pauls scarlet hawthorn park"
+        "src": "images/trees/crataegus-laevigata-pauls-scarlet/crataegus-laevigata-pauls-scarlet-park.jpg",
+        "alt": "crataegus laevigata pauls scarlet park"
       },
       {
-        "src": "images/trees/crataegus-laevigata-pauls-scarlet-hawthorn/crataegus-laevigata-pauls-scarlet-hawthorn-young-tree.jpg",
-        "alt": "crataegus laevigata pauls scarlet hawthorn young tree"
+        "src": "images/trees/crataegus-laevigata-pauls-scarlet/crataegus-laevigata-pauls-scarlet-young-tree.jpg",
+        "alt": "crataegus laevigata pauls scarlet young tree"
       }
     ],
     "links": []
@@ -29282,7 +29282,7 @@
       "form": ""
     },
     "url": "crataegus-x-media-rosea-flore-pleno",
-    "mainImage": "crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn.jpg",
+    "mainImage": "crataegus-laevigata-rosea-flore-pleno/crataegus-laevigata-rosea-flore-pleno.jpg",
     "description": "Upright tree with a compact, rounded head. Impressive heads of double salmon-pink flowers smother the tree in late-spring. Produces red fruits in autumn that birds love. Excellent street tree. Doesn't develop any appreciable autumn colour. Branches have thorns. A very tough tree that will grow in almost all conditions. <a href='https://en.wikipedia.org/wiki/Crataegus_%C3%97_media' target='_blank' rel='noopener noreferrer'><i>Crataegus</i> x <i>media</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Crataegus_monogyna' target='_blank' rel='noopener noreferrer'><i>Crataegus monogyna</i></a> and <a href='https://en.wikipedia.org/wiki/Crataegus_laevigata' target='_blank' rel='noopener noreferrer'><i>Crataegus laevigata</i></a>.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy, coastal, drought, heavy-rainfall, light-frosts, heavy-frosts",
@@ -29321,20 +29321,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn-flowering.jpeg",
-        "alt": "crataegus laevigata rosea flore pleno hawthorn flowering"
+        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno/crataegus-laevigata-rosea-flore-pleno-flowering.jpeg",
+        "alt": "crataegus laevigata rosea flore pleno flowering"
       },
       {
-        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn-flowers.jpeg",
-        "alt": "crataegus laevigata rosea flore pleno hawthorn flowers"
+        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno/crataegus-laevigata-rosea-flore-pleno-flowers.jpeg",
+        "alt": "crataegus laevigata rosea flore pleno flowers"
       },
       {
-        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn-foliage.jpeg",
-        "alt": "crataegus laevigata rosea flore pleno hawthorn foliage"
+        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno/crataegus-laevigata-rosea-flore-pleno-foliage.jpeg",
+        "alt": "crataegus laevigata rosea flore pleno foliage"
       },
       {
-        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno-hawthorn/crataegus-laevigata-rosea-flore-pleno-hawthorn-young-tree.jpg",
-        "alt": "crataegus laevigata rosea flore pleno hawthorn young tree"
+        "src": "images/trees/crataegus-laevigata-rosea-flore-pleno/crataegus-laevigata-rosea-flore-pleno-young-tree.jpg",
+        "alt": "crataegus laevigata rosea flore pleno young tree"
       }
     ],
     "links": []
@@ -29371,7 +29371,7 @@
       "form": ""
     },
     "url": "cryptomeria-japonica",
-    "mainImage": "cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar.jpg",
+    "mainImage": "cryptomeria-japonica/cryptomeria-japonica.jpg",
     "description": "Quickly grows into a tall, stately tree. Foliage grows from the ground to become an excellent shelter tree. Lovely, enduring specimen tree with a pyramidal form. Tolerant of strong winds.",
     "uses": "hedging-and-screening",
     "tolerates": "windy, light-frosts, heavy-frosts",
@@ -29410,24 +29410,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar-foliage.jpg",
-        "alt": "cryptomeria japonica japanese cedar foliage"
+        "src": "images/trees/cryptomeria-japonica/cryptomeria-japonica-foliage.jpg",
+        "alt": "cryptomeria japonica foliage"
       },
       {
-        "src": "images/trees/cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar-forest.jpg",
-        "alt": "cryptomeria japonica japanese cedar forest"
+        "src": "images/trees/cryptomeria-japonica/cryptomeria-japonica-forest.jpg",
+        "alt": "cryptomeria japonica forest"
       },
       {
-        "src": "images/trees/cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar-garden.jpg",
-        "alt": "cryptomeria japonica japanese cedar garden"
+        "src": "images/trees/cryptomeria-japonica/cryptomeria-japonica-garden.jpg",
+        "alt": "cryptomeria japonica garden"
       },
       {
-        "src": "images/trees/cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar-hedge.jpg",
-        "alt": "cryptomeria japonica japanese cedar hedge"
+        "src": "images/trees/cryptomeria-japonica/cryptomeria-japonica-hedge.jpg",
+        "alt": "cryptomeria japonica hedge"
       },
       {
-        "src": "images/trees/cryptomeria-japonica-japanese-cedar/cryptomeria-japonica-japanese-cedar-park.jpg",
-        "alt": "cryptomeria japonica japanese cedar park"
+        "src": "images/trees/cryptomeria-japonica/cryptomeria-japonica-park.jpg",
+        "alt": "cryptomeria japonica park"
       }
     ],
     "links": []
@@ -29464,7 +29464,7 @@
       "form": ""
     },
     "url": "cryptomeria-japonica-egmont",
-    "mainImage": "cryptomeria-japonica-egmont-japanese-cedar/cryptomeria-japonica-egmont-japanese-cedar.jpg",
+    "mainImage": "cryptomeria-japonica-egmont/cryptomeria-japonica-egmont.jpg",
     "description": "Selected form of Cryptomeria japonica to ensure consistent hedging. Makes a good screen or hedge, and can be pruned. Very wind and cold hardy.",
     "uses": "hedging-and-screening",
     "tolerates": "windy, light-frosts, heavy-frosts",
@@ -29503,12 +29503,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cryptomeria-japonica-egmont-japanese-cedar/cryptomeria-japonica-egmont-japanese-cedar-foliage.jpeg",
-        "alt": "cryptomeria japonica egmont japanese cedar foliage"
+        "src": "images/trees/cryptomeria-japonica-egmont/cryptomeria-japonica-egmont-foliage.jpeg",
+        "alt": "cryptomeria japonica egmont foliage"
       },
       {
-        "src": "images/trees/cryptomeria-japonica-egmont-japanese-cedar/cryptomeria-japonica-egmont-japanese-cedar-shelter.jpg",
-        "alt": "cryptomeria japonica egmont japanese cedar shelter"
+        "src": "images/trees/cryptomeria-japonica-egmont/cryptomeria-japonica-egmont-shelter.jpg",
+        "alt": "cryptomeria japonica egmont shelter"
       }
     ],
     "links": []
@@ -29535,7 +29535,7 @@
       "form": ""
     },
     "url": "cunonia-capensis",
-    "mainImage": "cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree.jpg",
+    "mainImage": "cunonia-capensis/cunonia-capensis.jpg",
     "description": "New foliage emerges bronze-red and matures to a beautiful glossy, dark-green. Large, fragrant, white panicles of flowers resembling candles are borne through summer. Ideal for the smaller garden. Does not like windy conditions or hot and dry weather. Prefers a more temperate climate that mimics the sheltered forest environment where it occurs naturally. Does not have an invasive root system and can be grown in large pots.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -29574,20 +29574,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree-flowers.jpg",
-        "alt": "cunonia capensis butterknife tree flowers"
+        "src": "images/trees/cunonia-capensis/cunonia-capensis-flowers.jpg",
+        "alt": "cunonia capensis flowers"
       },
       {
-        "src": "images/trees/cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree-foliage.jpg",
-        "alt": "cunonia capensis butterknife tree foliage"
+        "src": "images/trees/cunonia-capensis/cunonia-capensis-foliage.jpg",
+        "alt": "cunonia capensis foliage"
       },
       {
-        "src": "images/trees/cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree-mature-tree.jpg",
-        "alt": "cunonia capensis butterknife tree mature tree"
+        "src": "images/trees/cunonia-capensis/cunonia-capensis-mature-tree.jpg",
+        "alt": "cunonia capensis mature tree"
       },
       {
-        "src": "images/trees/cunonia-capensis-butterknife-tree/cunonia-capensis-butterknife-tree-park.jpg",
-        "alt": "cunonia capensis butterknife tree park"
+        "src": "images/trees/cunonia-capensis/cunonia-capensis-park.jpg",
+        "alt": "cunonia capensis park"
       }
     ],
     "links": []
@@ -29614,7 +29614,7 @@
       "form": ""
     },
     "url": "cupressus-arizonica-var-glabra-blue-ice",
-    "mainImage": "cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress.jpg",
+    "mainImage": "cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice.jpg",
     "description": "Compact, pyramidal-growing conifer with smooth, frosted, blue leaves. Very amenable to pruning into any shape or form. Quick-growing and hardy to strong winds and drought. Makes an excellent dense shelter. Highly resistant to cypress canker.",
     "uses": "",
     "tolerates": "",
@@ -29653,20 +29653,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress-foliage.jpeg",
-        "alt": "cupressus arizonica var glabra blue ice smooth arizona cypress foliage"
+        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice-foliage.jpeg",
+        "alt": "cupressus arizonica var glabra blue ice foliage"
       },
       {
-        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress-mature-tree.jpg",
-        "alt": "cupressus arizonica var glabra blue ice smooth arizona cypress mature tree"
+        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice-mature-tree.jpg",
+        "alt": "cupressus arizonica var glabra blue ice mature tree"
       },
       {
-        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress-topiary.jpg",
-        "alt": "cupressus arizonica var glabra blue ice smooth arizona cypress topiary"
+        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice-topiary.jpg",
+        "alt": "cupressus arizonica var glabra blue ice topiary"
       },
       {
-        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress/cupressus-arizonica-var-glabra-blue-ice-smooth-arizona-cypress-trimmed.jpg",
-        "alt": "cupressus arizonica var glabra blue ice smooth arizona cypress trimmed"
+        "src": "images/trees/cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice-trimmed.jpg",
+        "alt": "cupressus arizonica var glabra blue ice trimmed"
       }
     ],
     "links": []
@@ -29703,7 +29703,7 @@
       "form": ""
     },
     "url": "cupressus-cashmeriana",
-    "mainImage": "cupressus-cashmeriana-kashmir-cypress/cupressus-cashmeriana-kashmir-cypress.jpg",
+    "mainImage": "cupressus-cashmeriana/cupressus-cashmeriana.jpg",
     "description": "Foliage grows in pendulous sprays of blue-green with slender, flattened shoots. Young trees up to about five years old have juvenile foliage with soft, needle-like leaves. Prefers a warm sheltered site with regular moisture. Hardy.",
     "uses": "",
     "tolerates": "",
@@ -29742,16 +29742,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-cashmeriana-kashmir-cypress/cupressus-cashmeriana-kashmir-cypress-foliage.jpeg",
-        "alt": "cupressus cashmeriana kashmir cypress foliage"
+        "src": "images/trees/cupressus-cashmeriana/cupressus-cashmeriana-foliage.jpeg",
+        "alt": "cupressus cashmeriana foliage"
       },
       {
-        "src": "images/trees/cupressus-cashmeriana-kashmir-cypress/cupressus-cashmeriana-kashmir-cypress-garden.jpg",
-        "alt": "cupressus cashmeriana kashmir cypress garden"
+        "src": "images/trees/cupressus-cashmeriana/cupressus-cashmeriana-garden.jpg",
+        "alt": "cupressus cashmeriana garden"
       },
       {
-        "src": "images/trees/cupressus-cashmeriana-kashmir-cypress/cupressus-cashmeriana-kashmir-cypress-park.jpg",
-        "alt": "cupressus cashmeriana kashmir cypress park"
+        "src": "images/trees/cupressus-cashmeriana/cupressus-cashmeriana-park.jpg",
+        "alt": "cupressus cashmeriana park"
       }
     ],
     "links": []
@@ -29788,7 +29788,7 @@
       "form": ""
     },
     "url": "cupressus-gigantea",
-    "mainImage": "cupressus-gigantea-tibetan-cypress-tsangpo-cypress/cupressus-gigantea-tibetan-cypress-tsangpo-cypress.jpg",
+    "mainImage": "cupressus-gigantea/cupressus-gigantea.jpg",
     "description": "Narrow, columnar growth habit with attractive blue-grey foliage. Prefers well-drained soils. Hardy and drought-tolerant.",
     "uses": "",
     "tolerates": "drought",
@@ -29827,20 +29827,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-gigantea-tibetan-cypress-tsangpo-cypress/cupressus-gigantea-tibetan-cypress-tsangpo-cypress-foliage.jpeg",
-        "alt": "cupressus gigantea tibetan cypress tsangpo cypress foliage"
+        "src": "images/trees/cupressus-gigantea/cupressus-gigantea-foliage.jpeg",
+        "alt": "cupressus gigantea foliage"
       },
       {
-        "src": "images/trees/cupressus-gigantea-tibetan-cypress-tsangpo-cypress/cupressus-gigantea-tibetan-cypress-tsangpo-cypress-forest.jpg",
-        "alt": "cupressus gigantea tibetan cypress tsangpo cypress forest"
+        "src": "images/trees/cupressus-gigantea/cupressus-gigantea-forest.jpg",
+        "alt": "cupressus gigantea forest"
       },
       {
-        "src": "images/trees/cupressus-gigantea-tibetan-cypress-tsangpo-cypress/cupressus-gigantea-tibetan-cypress-tsangpo-cypress-mature.jpg",
-        "alt": "cupressus gigantea tibetan cypress tsangpo cypress mature"
+        "src": "images/trees/cupressus-gigantea/cupressus-gigantea-mature.jpg",
+        "alt": "cupressus gigantea mature"
       },
       {
-        "src": "images/trees/cupressus-gigantea-tibetan-cypress-tsangpo-cypress/cupressus-gigantea-tibetan-cypress-tsangpo-cypress-young-foliage.jpeg",
-        "alt": "cupressus gigantea tibetan cypress tsangpo cypress young foliage"
+        "src": "images/trees/cupressus-gigantea/cupressus-gigantea-young-foliage.jpeg",
+        "alt": "cupressus gigantea young foliage"
       }
     ],
     "links": []
@@ -29904,7 +29904,7 @@
       "form": ""
     },
     "url": "cupressus-x-leylandii-ferndown",
-    "mainImage": "cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress.jpg",
+    "mainImage": "cupressus-x-leylandii-ferndown/cupressus-x-leylandii-ferndown.jpg",
     "description": "Has light-green foliage. Grows with a narrow form and pendulous branches. Great for shelter belts. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
@@ -29943,24 +29943,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress-foliage.jpg",
-        "alt": "cupressus x leylandii ferndown leyland cypress foliage"
+        "src": "images/trees/cupressus-x-leylandii-ferndown/cupressus-x-leylandii-ferndown-foliage.jpg",
+        "alt": "cupressus x leylandii ferndown foliage"
       },
       {
-        "src": "images/trees/cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress-front-garden.jpg",
-        "alt": "cupressus x leylandii ferndown leyland cypress front garden"
+        "src": "images/trees/cupressus-x-leylandii-ferndown/cupressus-x-leylandii-ferndown-front-garden.jpg",
+        "alt": "cupressus x leylandii ferndown front garden"
       },
       {
-        "src": "images/trees/cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress-hedge.jpg",
-        "alt": "cupressus x leylandii ferndown leyland cypress hedge"
+        "src": "images/trees/cupressus-x-leylandii-ferndown/cupressus-x-leylandii-ferndown-hedge.jpg",
+        "alt": "cupressus x leylandii ferndown hedge"
       },
       {
-        "src": "images/trees/cupressus-x-leylandii-ferndown-leyland-cypress/cupressus-x-leylandii-ferndown-leyland-cypress-shelter.jpg",
-        "alt": "cupressus x leylandii ferndown leyland cypress shelter"
+        "src": "images/trees/cupressus-x-leylandii-ferndown/cupressus-x-leylandii-ferndown-shelter.jpg",
+        "alt": "cupressus x leylandii ferndown shelter"
       }
     ],
     "links": [
-      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://davesgarden.com/guides/articles/the-origin-of",
       "https://www.leylandii.com/history/",
       "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
       "https://conifersociety.org/conifers/cupressus-leylandii/"
@@ -30025,7 +30025,7 @@
       "form": ""
     },
     "url": "cupressus-x-leylandii-leighton-green",
-    "mainImage": "cupressus-x-leylandii-leighton-green-leyland-cypress/cupressus-x-leylandii-leighton-green-leyland-cypress.jpg",
+    "mainImage": "cupressus-x-leylandii-leighton-green/cupressus-x-leylandii-leighton-green.jpg",
     "description": "Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow, dense screen. Always has fresh-green leaves which are soft to touch. Tolerant of moderate coastal exposure. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
@@ -30064,20 +30064,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-x-leylandii-leighton-green-leyland-cypress/cupressus-x-leylandii-leighton-green-leyland-cypress-foliage.jpeg",
-        "alt": "cupressus x leylandii leighton green leyland cypress foliage"
+        "src": "images/trees/cupressus-x-leylandii-leighton-green/cupressus-x-leylandii-leighton-green-foliage.jpeg",
+        "alt": "cupressus x leylandii leighton green foliage"
       },
       {
-        "src": "images/trees/cupressus-x-leylandii-leighton-green-leyland-cypress/cupressus-x-leylandii-leighton-green-leyland-cypress-hedge.jpg",
-        "alt": "cupressus x leylandii leighton green leyland cypress hedge"
+        "src": "images/trees/cupressus-x-leylandii-leighton-green/cupressus-x-leylandii-leighton-green-hedge.jpg",
+        "alt": "cupressus x leylandii leighton green hedge"
       },
       {
-        "src": "images/trees/cupressus-x-leylandii-leighton-green-leyland-cypress/cupressus-x-leylandii-leighton-green-leyland-cypress-road.jpg",
-        "alt": "cupressus x leylandii leighton green leyland cypress road"
+        "src": "images/trees/cupressus-x-leylandii-leighton-green/cupressus-x-leylandii-leighton-green-road.jpg",
+        "alt": "cupressus x leylandii leighton green road"
       }
     ],
     "links": [
-      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://davesgarden.com/guides/articles/the-origin-of",
       "https://www.leylandii.com/history/",
       "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
       "https://conifersociety.org/conifers/cupressus-leylandii/"
@@ -30142,7 +30142,7 @@
       "form": ""
     },
     "url": "cupressus-x-leylandii-naylors-blue",
-    "mainImage": "cupressus-x-leylandii-naylors-blue-leyland-cypress/cupressus-x-leylandii-naylors-blue-leyland-cypress.jpg",
+    "mainImage": "cupressus-x-leylandii-naylors-blue/cupressus-x-leylandii-naylors-blue.jpg",
     "description": "Has attractive blue-green foliage. Great for hedging and screening. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
@@ -30181,12 +30181,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-x-leylandii-naylors-blue-leyland-cypress/cupressus-x-leylandii-naylors-blue-leyland-cypress-tree.jpg",
-        "alt": "cupressus x leylandii naylors blue leyland cypress tree"
+        "src": "images/trees/cupressus-x-leylandii-naylors-blue/cupressus-x-leylandii-naylors-blue-tree.jpg",
+        "alt": "cupressus x leylandii naylors blue tree"
       }
     ],
     "links": [
-      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://davesgarden.com/guides/articles/the-origin-of",
       "https://www.leylandii.com/history/",
       "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
       "https://conifersociety.org/conifers/cupressus-leylandii/"
@@ -30251,7 +30251,7 @@
       "form": ""
     },
     "url": "cupressus-x-leylandii-stapehill",
-    "mainImage": "cupressus-x-leylandii-stapehill-leyland-cypress/cupressus-x-leylandii-stapehill-leyland-cypress.jpg",
+    "mainImage": "cupressus-x-leylandii-stapehill/cupressus-x-leylandii-stapehill.jpg",
     "description": "Has light-green foliage. Grows with a narrow form and is lightly-branched. Great for shelter belts and hedges. <a href='https://en.wikipedia.org/wiki/Leyland_cypress' target='_blank' rel='noopener noreferrer'><i>Cupressus</i> x <i>leylandii</i></a> is a hybrid between <a href='https://en.wikipedia.org/wiki/Cupressus_macrocarpa' target='_blank' rel='noopener noreferrer'><i>Hesperocyparis macrocarpa</i></a> and <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "coastal",
@@ -30290,12 +30290,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-x-leylandii-stapehill-leyland-cypress/cupressus-x-leylandii-stapehill-leyland-cypress-foliage.jpg",
-        "alt": "cupressus x leylandii stapehill leyland cypress foliage"
+        "src": "images/trees/cupressus-x-leylandii-stapehill/cupressus-x-leylandii-stapehill-foliage.jpg",
+        "alt": "cupressus x leylandii stapehill foliage"
       }
     ],
     "links": [
-      "https://davesgarden.com/guides/articles/the-origin-of-leyland-cypress",
+      "https://davesgarden.com/guides/articles/the-origin-of",
       "https://www.leylandii.com/history/",
       "https://treesandshrubsonline.org/articles/x-cupressocyparis/x-cupressocyparis-leylandii/",
       "https://conifersociety.org/conifers/cupressus-leylandii/"
@@ -30323,7 +30323,7 @@
       "form": ""
     },
     "url": "cupressus-x-ovensii",
-    "mainImage": "cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress.jpg",
+    "mainImage": "cupressus-x-ovensii/cupressus-x-ovensii.jpg",
     "description": "Grows well in warmer areas. Very fast-growing tree with naturally wide-spreading branches. Can be easily pruned into a narrow dense screen. Always has fresh-green leaves which are soft to the touch. Tolerant of strong winds, but not coastal winds. Has better canker resistance than <i>Cupressus</i> x <i>leylandii</i> cultivars. <i>Cupressus</i> x <i>ovensii</i> is a hybrid between <a href='https://en.wikipedia.org/wiki/Callitropsis_nootkatensis' target='_blank' rel='noopener noreferrer'><i>Callitropsis nootkatensis</i></a> and <a href='https://en.wikipedia.org/wiki/Cupressus_lusitanica' target='_blank' rel='noopener noreferrer'><i>Cupressus lusitanica</i></a>.",
     "uses": "hedging-and-screening",
     "tolerates": "windy",
@@ -30362,16 +30362,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress-foliage.jpg",
-        "alt": "cupressus x ovensii ovens cypress foliage"
+        "src": "images/trees/cupressus-x-ovensii/cupressus-x-ovensii-foliage.jpg",
+        "alt": "cupressus x ovensii foliage"
       },
       {
-        "src": "images/trees/cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress-in-nursery.jpg",
-        "alt": "cupressus x ovensii ovens cypress in nursery"
+        "src": "images/trees/cupressus-x-ovensii/cupressus-x-ovensii-in-nursery.jpg",
+        "alt": "cupressus x ovensii in nursery"
       },
       {
-        "src": "images/trees/cupressus-x-ovensii-ovens-cypress/cupressus-x-ovensii-ovens-cypress-row.jpg",
-        "alt": "cupressus x ovensii ovens cypress row"
+        "src": "images/trees/cupressus-x-ovensii/cupressus-x-ovensii-row.jpg",
+        "alt": "cupressus x ovensii row"
       }
     ],
     "links": [
@@ -30400,7 +30400,7 @@
       "form": ""
     },
     "url": "cupressus-sempervirens",
-    "mainImage": "cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress.jpeg",
+    "mainImage": "cupressus-sempervirens/cupressus-sempervirens.jpeg",
     "description": "A beautiful upright, columnar tree with green to blue-green foliage. Prefers hot, dry climates and well-drained soils. Drought tolerant once established.",
     "uses": "narrow-sites",
     "tolerates": "drought",
@@ -30439,36 +30439,36 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-dense.jpeg",
-        "alt": "cupressus sempervirens italian cypress dense"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-dense.jpeg",
+        "alt": "cupressus sempervirens dense"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-driveway.jpeg",
-        "alt": "cupressus sempervirens italian cypress driveway"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-driveway.jpeg",
+        "alt": "cupressus sempervirens driveway"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-field.jpeg",
-        "alt": "cupressus sempervirens italian cypress field"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-field.jpeg",
+        "alt": "cupressus sempervirens field"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-landscape.jpeg",
-        "alt": "cupressus sempervirens italian cypress driveway"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-landscape.jpeg",
+        "alt": "cupressus sempervirens driveway"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-road.jpeg",
-        "alt": "cupressus sempervirens italian cypress road"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-road.jpeg",
+        "alt": "cupressus sempervirens road"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-row.jpeg",
-        "alt": "cupressus sempervirens italian cypress row"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-row.jpeg",
+        "alt": "cupressus sempervirens row"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-winding-path.jpeg",
-        "alt": "cupressus sempervirens italian cypress winding path"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-winding-path.jpeg",
+        "alt": "cupressus sempervirens winding path"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-italian-cypress/cupressus-sempervirens-italian-cypress-winding-road.jpeg",
-        "alt": "cupressus sempervirens italian cypress winding row"
+        "src": "images/trees/cupressus-sempervirens/cupressus-sempervirens-winding-road.jpeg",
+        "alt": "cupressus sempervirens winding row"
       }
     ],
     "links": []
@@ -30495,7 +30495,7 @@
       "form": ""
     },
     "url": "cupressus-sempervirens-gracilis",
-    "mainImage": "cupressus-sempervirens-gracilis-italian-cypress/cupressus-sempervirens-gracilis-italian-cypress.jpg",
+    "mainImage": "cupressus-sempervirens-gracilis/cupressus-sempervirens-gracilis.jpg",
     "description": "Superior, New Zealand-raised form of Italian cypress. The foliage is more refined and threadlike with a fresh-green colour. Grows to a tapering point. Grow in well-drained soil in sun or semi-shade.",
     "uses": "narrow-sites",
     "tolerates": "",
@@ -30534,8 +30534,8 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-sempervirens-gracilis-italian-cypress/cupressus-sempervirens-gracilis-italian-cypress-foliage.jpg",
-        "alt": "cupressus sempervirens gracilis italian cypress foliage"
+        "src": "images/trees/cupressus-sempervirens-gracilis/cupressus-sempervirens-gracilis-foliage.jpg",
+        "alt": "cupressus sempervirens gracilis foliage"
       }
     ],
     "links": []
@@ -30562,7 +30562,7 @@
       "form": ""
     },
     "url": "cupressus-sempervirens-stricta",
-    "mainImage": "cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress.jpg",
+    "mainImage": "cupressus-sempervirens-stricta/cupressus-sempervirens-stricta.jpg",
     "description": "Ancient classical upright tree from the Mediterranean, forming a narrow column of blue-green. Occasional pruning will keep the tree in better shape. Coastal, drought, and wind tolerant.",
     "uses": "narrow-sites, driveways-and-avenues",
     "tolerates": "coastal, windy, drought",
@@ -30601,28 +30601,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-avenue.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress avenue"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-avenue.jpg",
+        "alt": "cupressus sempervirens stricta avenue"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-foliage.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress foliage"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-foliage.jpg",
+        "alt": "cupressus sempervirens stricta foliage"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-form.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress form"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-form.jpg",
+        "alt": "cupressus sempervirens stricta form"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-garden.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress garden"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-garden.jpg",
+        "alt": "cupressus sempervirens stricta garden"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-lawn.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress lawn"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-lawn.jpg",
+        "alt": "cupressus sempervirens stricta lawn"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-stricta-italian-cypress/cupressus-sempervirens-stricta-italian-cypress-street.jpg",
-        "alt": "cupressus sempervirens stricta italian cypress street"
+        "src": "images/trees/cupressus-sempervirens-stricta/cupressus-sempervirens-stricta-street.jpg",
+        "alt": "cupressus sempervirens stricta street"
       }
     ],
     "links": []
@@ -30649,7 +30649,7 @@
       "form": ""
     },
     "url": "cupressus-sempervirens-swanes-gold",
-    "mainImage": "cupressus-sempervirens-swanes-gold-italian-cypress/cupressus-sempervirens-swanes-gold-italian-cypress.jpg",
+    "mainImage": "cupressus-sempervirens-swanes-gold/cupressus-sempervirens-swanes-gold.jpg",
     "description": "Slender, erect, conical grower with golden leaves. Always retains its form without the need for pruning or tying.",
     "uses": "narrow-sites",
     "tolerates": "",
@@ -30688,16 +30688,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-sempervirens-swanes-gold-italian-cypress/cupressus-sempervirens-swanes-gold-italian-cypress-foliage.jpg",
-        "alt": "cupressus sempervirens swanes gold italian cypress foliage"
+        "src": "images/trees/cupressus-sempervirens-swanes-gold/cupressus-sempervirens-swanes-gold-foliage.jpg",
+        "alt": "cupressus sempervirens swanes gold foliage"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-swanes-gold-italian-cypress/cupressus-sempervirens-swanes-gold-italian-cypress-row.jpeg",
-        "alt": "cupressus sempervirens swanes gold italian cypress row"
+        "src": "images/trees/cupressus-sempervirens-swanes-gold/cupressus-sempervirens-swanes-gold-row.jpeg",
+        "alt": "cupressus sempervirens swanes gold row"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-swanes-gold-italian-cypress/cupressus-sempervirens-swanes-gold-italian-cypress-tree-top.jpg",
-        "alt": "cupressus sempervirens swanes gold italian cypress tree top"
+        "src": "images/trees/cupressus-sempervirens-swanes-gold/cupressus-sempervirens-swanes-gold-tree-top.jpg",
+        "alt": "cupressus sempervirens swanes gold tree top"
       }
     ],
     "links": []
@@ -30724,7 +30724,7 @@
       "form": ""
     },
     "url": "cupressus-sempervirens-totem",
-    "mainImage": "cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress.jpg",
+    "mainImage": "cupressus-sempervirens-totem/cupressus-sempervirens-totem.jpg",
     "description": "Slender, erect form with deep-green leaves.",
     "uses": "narrow-sites",
     "tolerates": "",
@@ -30763,28 +30763,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-avenue.jpg",
-        "alt": "cupressus sempervirens totem italian cypress avenue"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-avenue.jpg",
+        "alt": "cupressus sempervirens totem avenue"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-desert.jpg",
-        "alt": "cupressus sempervirens totem italian cypress desert"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-desert.jpg",
+        "alt": "cupressus sempervirens totem desert"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-foliage.jpg",
-        "alt": "cupressus sempervirens totem italian cypress foliage"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-foliage.jpg",
+        "alt": "cupressus sempervirens totem foliage"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-front-garden.jpg",
-        "alt": "cupressus sempervirens totem italian cypress front garden"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-front-garden.jpg",
+        "alt": "cupressus sempervirens totem front garden"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-garden.jpg",
-        "alt": "cupressus sempervirens totem italian cypress garden"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-garden.jpg",
+        "alt": "cupressus sempervirens totem garden"
       },
       {
-        "src": "images/trees/cupressus-sempervirens-totem-italian-cypress/cupressus-sempervirens-totem-italian-cypress-house.jpg",
-        "alt": "cupressus sempervirens totem italian cypress house"
+        "src": "images/trees/cupressus-sempervirens-totem/cupressus-sempervirens-totem-house.jpg",
+        "alt": "cupressus sempervirens totem house"
       }
     ],
     "links": []
@@ -30821,7 +30821,7 @@
       "form": ""
     },
     "url": "cyathea-cunninghamii",
-    "mainImage": "cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern/cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern.jpg",
+    "mainImage": "cyathea-cunninghamii/cyathea-cunninghamii.jpg",
     "description": "A slender-trunked grower similar to <a href='/trees/cyathea-smithii/'><i>Cyathea smithii</i></a>, but when mature has a clean trunk as opposed to the skirt of dead frond stalks on the trunk of <a href='/trees/cyathea-smithii/'><i>Cyathea smithii</i></a>. Naturally grows in damp forest in stream gullies and riverbanks. Has a lower tolerance for drought than other tree fern species.",
     "uses": "",
     "tolerates": "",
@@ -30860,12 +30860,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern/cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern-foliage.jpg",
-        "alt": "cyathea cunninghamii punui gully tree fern slender tree fern foliage"
+        "src": "images/trees/cyathea-cunninghamii/cyathea-cunninghamii-foliage.jpg",
+        "alt": "cyathea cunninghamii foliage"
       },
       {
-        "src": "images/trees/cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern/cyathea-cunninghamii-punui-gully-tree-fern-slender-tree-fern-leaves.jpeg",
-        "alt": "cyathea cunninghamii punui gully tree fern slender tree fern leaves"
+        "src": "images/trees/cyathea-cunninghamii/cyathea-cunninghamii-leaves.jpeg",
+        "alt": "cyathea cunninghamii leaves"
       }
     ],
     "links": []
@@ -30902,7 +30902,7 @@
       "form": ""
     },
     "url": "cyathea-dealbata",
-    "mainImage": "cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern.jpeg",
+    "mainImage": "cyathea-dealbata/cyathea-dealbata.jpeg",
     "description": "Easily distinguished by the silver-white undersides of mature fronds. Tolerates drier conditions once established, but should be protected from strong winds and frosts.",
     "uses": "",
     "tolerates": "",
@@ -30941,24 +30941,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern-foliage.jpg",
-        "alt": "cyathea dealbata ponga silver fern foliage"
+        "src": "images/trees/cyathea-dealbata/cyathea-dealbata-foliage.jpg",
+        "alt": "cyathea dealbata foliage"
       },
       {
-        "src": "images/trees/cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern-leaf-underside.jpeg",
-        "alt": "cyathea dealbata ponga silver fern leaf underside"
+        "src": "images/trees/cyathea-dealbata/cyathea-dealbata-leaf-underside.jpeg",
+        "alt": "cyathea dealbata leaf underside"
       },
       {
-        "src": "images/trees/cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern-trunk.jpg",
-        "alt": "cyathea dealbata ponga silver fern trunk"
+        "src": "images/trees/cyathea-dealbata/cyathea-dealbata-trunk.jpg",
+        "alt": "cyathea dealbata trunk"
       },
       {
-        "src": "images/trees/cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern-unfurling-frond.jpg",
-        "alt": "cyathea dealbata ponga silver fern unfurling frond"
+        "src": "images/trees/cyathea-dealbata/cyathea-dealbata-unfurling-frond.jpg",
+        "alt": "cyathea dealbata unfurling frond"
       },
       {
-        "src": "images/trees/cyathea-dealbata-ponga-silver-fern/cyathea-dealbata-ponga-silver-fern-young-tree.jpg",
-        "alt": "cyathea dealbata ponga silver fern young tree"
+        "src": "images/trees/cyathea-dealbata/cyathea-dealbata-young-tree.jpg",
+        "alt": "cyathea dealbata young tree"
       }
     ],
     "links": []
@@ -30995,7 +30995,7 @@
       "form": ""
     },
     "url": "cyathea-medullaris",
-    "mainImage": "cyathea-medullaris-mamaku-black-tree-fern/cyathea-medullaris-mamaku-black-tree-fern.jpg",
+    "mainImage": "cyathea-medullaris/cyathea-medullaris.jpg",
     "description": "The tallest-growing of New Zealand's tree ferns. Has a distinctive, tall, black trunk. Prefers moisture-rich soil and shelter from wind. Can grow to 20m tall with up to 5m long fronds in ideal conditions.",
     "uses": "",
     "tolerates": "",
@@ -31034,12 +31034,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cyathea-medullaris-mamaku-black-tree-fern/cyathea-medullaris-mamaku-black-tree-fern-foliage.jpeg",
-        "alt": "cyathea medullaris mamaku black tree fern foliage"
+        "src": "images/trees/cyathea-medullaris/cyathea-medullaris-foliage.jpeg",
+        "alt": "cyathea medullaris foliage"
       },
       {
-        "src": "images/trees/cyathea-medullaris-mamaku-black-tree-fern/cyathea-medullaris-mamaku-black-tree-fern-trunk.jpeg",
-        "alt": "cyathea medullaris mamaku black tree fern trunk"
+        "src": "images/trees/cyathea-medullaris/cyathea-medullaris-trunk.jpeg",
+        "alt": "cyathea medullaris trunk"
       }
     ],
     "links": []
@@ -31076,7 +31076,7 @@
       "form": ""
     },
     "url": "cyathea-smithii",
-    "mainImage": "cyathea-smithii-katote-soft-tree-fern/cyathea-smithii-katote-soft-tree-fern.jpg",
+    "mainImage": "cyathea-smithii/cyathea-smithii.jpg",
     "description": "The tree fern that is most tolerant of cold with fronds that are thin and soft in texture. Has a skirt of dead frond stalks on its trunk.",
     "uses": "",
     "tolerates": "",
@@ -31115,12 +31115,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cyathea-smithii-katote-soft-tree-fern/cyathea-smithii-katote-soft-tree-fern-foliage.jpg",
-        "alt": "cyathea smithii katote soft tree fern foliage"
+        "src": "images/trees/cyathea-smithii/cyathea-smithii-foliage.jpg",
+        "alt": "cyathea smithii foliage"
       },
       {
-        "src": "images/trees/cyathea-smithii-katote-soft-tree-fern/cyathea-smithii-katote-soft-tree-fern-young-tree.jpg",
-        "alt": "cyathea smithii katote soft tree fern young tree"
+        "src": "images/trees/cyathea-smithii/cyathea-smithii-young-tree.jpg",
+        "alt": "cyathea smithii young tree"
       }
     ],
     "links": []
@@ -31147,7 +31147,7 @@
       "form": ""
     },
     "url": "cycas-revoluta",
-    "mainImage": "cycas-revoluta-japanese-sago-palm/cycas-revoluta-japanese-sago-palm.jpg",
+    "mainImage": "cycas-revoluta/cycas-revoluta.jpg",
     "description": "Frost tender and slow-growing. Leaves are a deep, semi-gloss green and grow out into a feather-like rosette. Leaves have small protective barbs that must be avoided.",
     "uses": "",
     "tolerates": "",
@@ -31186,16 +31186,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cycas-revoluta-japanese-sago-palm/cycas-revoluta-japanese-sago-palm-foliage.jpg",
-        "alt": "cycas revoluta japanese sago palm foliage"
+        "src": "images/trees/cycas-revoluta/cycas-revoluta-foliage.jpg",
+        "alt": "cycas revoluta foliage"
       },
       {
-        "src": "images/trees/cycas-revoluta-japanese-sago-palm/cycas-revoluta-japanese-sago-palm-garden.jpg",
-        "alt": "cycas revoluta japanese sago palm garden"
+        "src": "images/trees/cycas-revoluta/cycas-revoluta-garden.jpg",
+        "alt": "cycas revoluta garden"
       },
       {
-        "src": "images/trees/cycas-revoluta-japanese-sago-palm/cycas-revoluta-japanese-sago-palm-leaves.jpg",
-        "alt": "cycas revoluta japanese sago palm leaves"
+        "src": "images/trees/cycas-revoluta/cycas-revoluta-leaves.jpg",
+        "alt": "cycas revoluta leaves"
       }
     ],
     "links": ["https://www.cycadpalm.com/meofcyna.html"]
@@ -31222,7 +31222,7 @@
       "form": ""
     },
     "url": "cydonia-oblonga-pineapple",
-    "mainImage": "cydonia-oblonga-pineapple-quince/cydonia-oblonga-pineapple-quince.jpg",
+    "mainImage": "cydonia-oblonga-pineapple/cydonia-oblonga-pineapple.jpg",
     "description": "An attractive fruiting tree with large, pale-green fruit. The skin is a soft yellow when ripe. The white flesh has a slight pineapple taste. Tastes best when cooked or mixed with other fruit. Hardy and tolerant, but happiest in the sun. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -31261,16 +31261,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cydonia-oblonga-pineapple-quince/cydonia-oblonga-pineapple-quince-flower-bud.jpg",
-        "alt": "cydonia oblonga pineapple quince flower bud"
+        "src": "images/trees/cydonia-oblonga-pineapple/cydonia-oblonga-pineapple-flower-bud.jpg",
+        "alt": "cydonia oblonga pineapple flower bud"
       },
       {
-        "src": "images/trees/cydonia-oblonga-pineapple-quince/cydonia-oblonga-pineapple-quince-flower.jpg",
-        "alt": "cydonia oblonga pineapple quince flower"
+        "src": "images/trees/cydonia-oblonga-pineapple/cydonia-oblonga-pineapple-flower.jpg",
+        "alt": "cydonia oblonga pineapple flower"
       },
       {
-        "src": "images/trees/cydonia-oblonga-pineapple-quince/cydonia-oblonga-pineapple-quince-market.jpg",
-        "alt": "cydonia oblonga pineapple quince market"
+        "src": "images/trees/cydonia-oblonga-pineapple/cydonia-oblonga-pineapple-market.jpg",
+        "alt": "cydonia oblonga pineapple market"
       }
     ],
     "links": []
@@ -31297,7 +31297,7 @@
       "form": ""
     },
     "url": "cydonia-oblonga-smyrna",
-    "mainImage": "cydonia-oblonga-smyrna-quince/cydonia-oblonga-smyrna-quince.jpg",
+    "mainImage": "cydonia-oblonga-smyrna/cydonia-oblonga-smyrna.jpg",
     "description": "Popular selection from Turkey. Fruit is large, furrowed, oblong to pear-shaped, golden-yellow, and very aromatic. Flesh is mild, tender, and light-yellow. The fruit keeps very well. Moderately vigorous tree with unusually large leaves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -31336,20 +31336,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cydonia-oblonga-smyrna-quince/cydonia-oblonga-smyrna-quince-basket.jpg",
-        "alt": "cydonia oblonga smyrna quince basket"
+        "src": "images/trees/cydonia-oblonga-smyrna/cydonia-oblonga-smyrna-basket.jpg",
+        "alt": "cydonia oblonga smyrna basket"
       },
       {
-        "src": "images/trees/cydonia-oblonga-smyrna-quince/cydonia-oblonga-smyrna-quince-flower.jpg",
-        "alt": "cydonia oblonga smyrna quince flower"
+        "src": "images/trees/cydonia-oblonga-smyrna/cydonia-oblonga-smyrna-flower.jpg",
+        "alt": "cydonia oblonga smyrna flower"
       },
       {
-        "src": "images/trees/cydonia-oblonga-smyrna-quince/cydonia-oblonga-smyrna-quince-foliage.jpg",
-        "alt": "cydonia oblonga smyrna quince foliage"
+        "src": "images/trees/cydonia-oblonga-smyrna/cydonia-oblonga-smyrna-foliage.jpg",
+        "alt": "cydonia oblonga smyrna foliage"
       },
       {
-        "src": "images/trees/cydonia-oblonga-smyrna-quince/cydonia-oblonga-smyrna-quince-fruit.jpg",
-        "alt": "cydonia oblonga smyrna quince fruit"
+        "src": "images/trees/cydonia-oblonga-smyrna/cydonia-oblonga-smyrna-fruit.jpg",
+        "alt": "cydonia oblonga smyrna fruit"
       }
     ],
     "links": []
@@ -31376,7 +31376,7 @@
       "form": ""
     },
     "url": "cydonia-oblonga-taihape",
-    "mainImage": "cydonia-oblonga-taihape-quince/cydonia-oblonga-taihape-quince.jpg",
+    "mainImage": "cydonia-oblonga-taihape/cydonia-oblonga-taihape.jpg",
     "description": "This disease-resistant quince was developed from an old tree growing at the Brown Sugar Cafe in Taihape. The aromatic, yellow-skinned fruit have lemon-coloured flesh. Tolerant, and easy to grow in a sunny spot. Use for making cider, jams, and preserves. Fruits from mid-autumn through to early-winter. Pink buds open to white flowers in mid to late-spring. Self-fertile.",
     "uses": "attracts-bees",
     "tolerates": "",
@@ -31415,16 +31415,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/cydonia-oblonga-taihape-quince/cydonia-oblonga-taihape-quince-bowl.jpg",
-        "alt": "cydonia oblonga taihape quince bowl"
+        "src": "images/trees/cydonia-oblonga-taihape/cydonia-oblonga-taihape-bowl.jpg",
+        "alt": "cydonia oblonga taihape bowl"
       },
       {
-        "src": "images/trees/cydonia-oblonga-taihape-quince/cydonia-oblonga-taihape-quince-flower.jpeg",
-        "alt": "cydonia oblonga taihape quince flower"
+        "src": "images/trees/cydonia-oblonga-taihape/cydonia-oblonga-taihape-flower.jpeg",
+        "alt": "cydonia oblonga taihape flower"
       },
       {
-        "src": "images/trees/cydonia-oblonga-taihape-quince/cydonia-oblonga-taihape-quince-fruit.jpg",
-        "alt": "cydonia oblonga taihape quince fruit"
+        "src": "images/trees/cydonia-oblonga-taihape/cydonia-oblonga-taihape-fruit.jpg",
+        "alt": "cydonia oblonga taihape fruit"
       }
     ],
     "links": []
@@ -31451,7 +31451,7 @@
       "form": ""
     },
     "url": "dacrycarpus-dacrydioides",
-    "mainImage": "dacrycarpus-dacrydioides-kahikatea-white-pine/dacrycarpus-dacrydioides-kahikatea-white-pine.jpg",
+    "mainImage": "dacrycarpus-dacrydioides/dacrycarpus-dacrydioides.jpg",
     "description": "Handsome, narrow-growing tree with soft-green leaves on semi-weeping branches. Juvenile foliage is a brown colour before turning green. Prefers moist situations next to streams, lakes, and ponds. Yellow-green catkins in mid-spring to mid-summer are a source of pollen for bees. Produces orange-red fruit that grow under a purple-black seed from mid-summer to mid-autumn. Great source of food for birds.",
     "uses": "street, attracts-birds, attracts-bees",
     "tolerates": "windy",
@@ -31490,16 +31490,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dacrycarpus-dacrydioides-kahikatea-white-pine/dacrycarpus-dacrydioides-kahikatea-white-pine-foliage.jpg",
-        "alt": "dacrycarpus dacrydioides kahikatea white pine foliage"
+        "src": "images/trees/dacrycarpus-dacrydioides/dacrycarpus-dacrydioides-foliage.jpg",
+        "alt": "dacrycarpus dacrydioides foliage"
       },
       {
-        "src": "images/trees/dacrycarpus-dacrydioides-kahikatea-white-pine/dacrycarpus-dacrydioides-kahikatea-white-pine-group-planting.jpg",
-        "alt": "dacrycarpus dacrydioides kahikatea white pine group planting"
+        "src": "images/trees/dacrycarpus-dacrydioides/dacrycarpus-dacrydioides-group-planting.jpg",
+        "alt": "dacrycarpus dacrydioides group planting"
       },
       {
-        "src": "images/trees/dacrycarpus-dacrydioides-kahikatea-white-pine/dacrycarpus-dacrydioides-kahikatea-white-pine-large-tree.jpg",
-        "alt": "dacrycarpus dacrydioides kahikatea white pine large tree"
+        "src": "images/trees/dacrycarpus-dacrydioides/dacrycarpus-dacrydioides-large-tree.jpg",
+        "alt": "dacrycarpus dacrydioides large tree"
       }
     ],
     "links": []
@@ -31526,7 +31526,7 @@
       "form": ""
     },
     "url": "dacrydium-cupressinum",
-    "mainImage": "dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine.jpg",
+    "mainImage": "dacrydium-cupressinum/dacrydium-cupressinum.jpg",
     "description": "A slow-growing tree easily accommodated in the home garden for at least fifty years. Juvenile trees have a pyramidal crown and pendulous branches, but acquire a round-topped crown with strong lateral branches bearing pendulous branchlets and foliage when mature. Foliage on juvenile trees may turn bronze during winter before returning to green in spring. Green catkins in mid-spring to mid-summer are a source of pollen for bees. Produces orange-red fruit that grow under a purple-black seed from mid-summer to mid-autumn. Seed is only set every few years.",
     "uses": "attracts-birds",
     "tolerates": "",
@@ -31565,20 +31565,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine-field.jpg",
-        "alt": "dacrydium cupressinum rimu red pine field"
+        "src": "images/trees/dacrydium-cupressinum/dacrydium-cupressinum-field.jpg",
+        "alt": "dacrydium cupressinum field"
       },
       {
-        "src": "images/trees/dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine-foliage.jpg",
-        "alt": "dacrydium cupressinum rimu red pine foliage"
+        "src": "images/trees/dacrydium-cupressinum/dacrydium-cupressinum-foliage.jpg",
+        "alt": "dacrydium cupressinum foliage"
       },
       {
-        "src": "images/trees/dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine-mature-tree.jpg",
-        "alt": "dacrydium cupressinum rimu red pine mature tree"
+        "src": "images/trees/dacrydium-cupressinum/dacrydium-cupressinum-mature-tree.jpg",
+        "alt": "dacrydium cupressinum mature tree"
       },
       {
-        "src": "images/trees/dacrydium-cupressinum-rimu-red-pine/dacrydium-cupressinum-rimu-red-pine-young-tree.jpg",
-        "alt": "dacrydium cupressinum rimu red pine young tree"
+        "src": "images/trees/dacrydium-cupressinum/dacrydium-cupressinum-young-tree.jpg",
+        "alt": "dacrydium cupressinum young tree"
       }
     ],
     "links": []
@@ -31605,7 +31605,7 @@
       "form": ""
     },
     "url": "daphniphyllum-macropodum",
-    "mainImage": "daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum.jpg",
+    "mainImage": "daphniphyllum-macropodum/daphniphyllum-macropodum.jpg",
     "description": "Has dark-green, glossy, rhododendron-like leaves that tend to droop in winter, revealing the bright-red leaf stalks on new growth. New spring growth is pale-green, often flushed with pink. Purple-pink male and pale-green female flowers are borne on separate plants in late-spring. Pollinated female plants produce blue-black berries in autumn.",
     "uses": "",
     "tolerates": "",
@@ -31644,23 +31644,23 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum-foliage.jpeg",
+        "src": "images/trees/daphniphyllum-macropodum/daphniphyllum-macropodum-foliage.jpeg",
         "alt": "daphniphyllum macropodum foliage"
       },
       {
-        "src": "images/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum-garden.jpg",
+        "src": "images/trees/daphniphyllum-macropodum/daphniphyllum-macropodum-garden.jpg",
         "alt": "daphniphyllum macropodum garden"
       },
       {
-        "src": "images/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum-indoors.jpg",
+        "src": "images/trees/daphniphyllum-macropodum/daphniphyllum-macropodum-indoors.jpg",
         "alt": "daphniphyllum macropodum indoors"
       },
       {
-        "src": "images/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum-new-foliage.jpeg",
+        "src": "images/trees/daphniphyllum-macropodum/daphniphyllum-macropodum-new-foliage.jpeg",
         "alt": "daphniphyllum macropodum new foliage"
       },
       {
-        "src": "images/trees/daphniphyllum-macropodum-large-stalked-daphniphyllum/daphniphyllum-macropodum-large-stalked-daphniphyllum-young-tree.jpg",
+        "src": "images/trees/daphniphyllum-macropodum/daphniphyllum-macropodum-young-tree.jpg",
         "alt": "daphniphyllum macropodum young tree"
       }
     ],
@@ -31688,7 +31688,7 @@
       "form": ""
     },
     "url": "davidia-involucrata",
-    "mainImage": "davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree.jpg",
+    "mainImage": "davidia-involucrata/davidia-involucrata.jpg",
     "description": "Forms a stately specimen tree with robust branches and a rounded crown. Extraordinary flowers resemble white handkerchiefs which hang and flutter beneath the beautiful ribbed leaves in late-spring. Shelter from strong winds. Sometimes produces orange and red autumn colour.",
     "uses": "",
     "tolerates": "",
@@ -31727,16 +31727,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree-flowers.jpg",
-        "alt": "davidia involucrata dove tree handkerchief tree ghost tree flowers"
+        "src": "images/trees/davidia-involucrata/davidia-involucrata-flowers.jpg",
+        "alt": "davidia involucrata flowers"
       },
       {
-        "src": "images/trees/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree-garden.jpg",
-        "alt": "davidia involucrata dove tree handkerchief tree ghost tree garden"
+        "src": "images/trees/davidia-involucrata/davidia-involucrata-garden.jpg",
+        "alt": "davidia involucrata garden"
       },
       {
-        "src": "images/trees/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree/davidia-involucrata-dove-tree-handkerchief-tree-ghost-tree-park.jpg",
-        "alt": "davidia involucrata dove tree handkerchief tree ghost tree park"
+        "src": "images/trees/davidia-involucrata/davidia-involucrata-park.jpg",
+        "alt": "davidia involucrata park"
       }
     ],
     "links": []
@@ -31763,7 +31763,7 @@
       "form": ""
     },
     "url": "dicksonia-fibrosa",
-    "mainImage": "dicksonia-fibrosa-kuripaka-golden-tree-fern/dicksonia-fibrosa-kuripaka-golden-tree-fern.jpg",
+    "mainImage": "dicksonia-fibrosa/dicksonia-fibrosa.jpg",
     "description": "Has a fibrous, rust-brown trunk which is often surrounded by a neat skirt of dead fronds. The living fronds form a dense crown. Prefers full-sun to part-shade. Keep moist while establishing and during dry spells.",
     "uses": "",
     "tolerates": "",
@@ -31802,20 +31802,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dicksonia-fibrosa-kuripaka-golden-tree-fern/dicksonia-fibrosa-kuripaka-golden-tree-fern-foliage.jpeg",
-        "alt": "dicksonia fibrosa kuripaka golden tree fern foliage"
+        "src": "images/trees/dicksonia-fibrosa/dicksonia-fibrosa-foliage.jpeg",
+        "alt": "dicksonia fibrosa foliage"
       },
       {
-        "src": "images/trees/dicksonia-fibrosa-kuripaka-golden-tree-fern/dicksonia-fibrosa-kuripaka-golden-tree-fern-forest.jpg",
-        "alt": "dicksonia fibrosa kuripaka golden tree fern forest"
+        "src": "images/trees/dicksonia-fibrosa/dicksonia-fibrosa-forest.jpg",
+        "alt": "dicksonia fibrosa forest"
       },
       {
-        "src": "images/trees/dicksonia-fibrosa-kuripaka-golden-tree-fern/dicksonia-fibrosa-kuripaka-golden-tree-fern-group.jpg",
-        "alt": "dicksonia fibrosa kuripaka golden tree fern group"
+        "src": "images/trees/dicksonia-fibrosa/dicksonia-fibrosa-group.jpg",
+        "alt": "dicksonia fibrosa group"
       },
       {
-        "src": "images/trees/dicksonia-fibrosa-kuripaka-golden-tree-fern/dicksonia-fibrosa-kuripaka-golden-tree-fern-new-frond.jpg",
-        "alt": "dicksonia fibrosa kuripaka golden tree fern new frond"
+        "src": "images/trees/dicksonia-fibrosa/dicksonia-fibrosa-new-frond.jpg",
+        "alt": "dicksonia fibrosa new frond"
       }
     ],
     "links": []
@@ -31842,7 +31842,7 @@
       "form": ""
     },
     "url": "dicksonia-squarrosa",
-    "mainImage": "dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern.jpg",
+    "mainImage": "dicksonia-squarrosa/dicksonia-squarrosa.jpg",
     "description": "One of the toughest tree ferns, tolerating some full-sun (not strong afternoon sun during the warmer months), drier soils, and light winds. Smaller leaf fronds than the Cyathea species of tree fern, so good for smaller gardens.",
     "uses": "",
     "tolerates": "",
@@ -31881,20 +31881,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern-foliage.jpg",
-        "alt": "dicksonia squarrosa wheki rough tree fern foliage"
+        "src": "images/trees/dicksonia-squarrosa/dicksonia-squarrosa-foliage.jpg",
+        "alt": "dicksonia squarrosa foliage"
       },
       {
-        "src": "images/trees/dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern-forest.jpeg",
-        "alt": "dicksonia squarrosa wheki rough tree fern forest"
+        "src": "images/trees/dicksonia-squarrosa/dicksonia-squarrosa-forest.jpeg",
+        "alt": "dicksonia squarrosa forest"
       },
       {
-        "src": "images/trees/dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern-frond.jpeg",
-        "alt": "dicksonia squarrosa wheki rough tree fern frond"
+        "src": "images/trees/dicksonia-squarrosa/dicksonia-squarrosa-frond.jpeg",
+        "alt": "dicksonia squarrosa frond"
       },
       {
-        "src": "images/trees/dicksonia-squarrosa-wheki-rough-tree-fern/dicksonia-squarrosa-wheki-rough-tree-fern-trunk.jpeg",
-        "alt": "dicksonia squarrosa wheki rough tree fern trunk"
+        "src": "images/trees/dicksonia-squarrosa/dicksonia-squarrosa-trunk.jpeg",
+        "alt": "dicksonia squarrosa trunk"
       }
     ],
     "links": []
@@ -31921,7 +31921,7 @@
       "form": ""
     },
     "url": "dodonaea-viscosa",
-    "mainImage": "dodonaea-viscosa-akeake-hopbush/dodonaea-viscosa-akeake-hopbush.jpg",
+    "mainImage": "dodonaea-viscosa/dodonaea-viscosa.jpg",
     "description": "Quick-growing, upright tree, bushy to the ground. Long, narrow, pale-green leaves. Yellow-green to red-green flowers from late-winter to mid-summer. Very tough, tolerating sub-zero temperatures, salt-laden winds, drought, and polluted atmospheres. Excellent for screening and erosion control.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy, drought",
@@ -31960,16 +31960,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dodonaea-viscosa-akeake-hopbush/dodonaea-viscosa-akeake-hopbush-bush.jpg",
-        "alt": "dodonaea viscosa akeake hopbush bush"
+        "src": "images/trees/dodonaea-viscosa/dodonaea-viscosa-bush.jpg",
+        "alt": "dodonaea viscosa bush"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-akeake-hopbush/dodonaea-viscosa-akeake-hopbush-foliage.jpg",
-        "alt": "dodonaea viscosa akeake hopbush foliage"
+        "src": "images/trees/dodonaea-viscosa/dodonaea-viscosa-foliage.jpg",
+        "alt": "dodonaea viscosa foliage"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-akeake-hopbush/dodonaea-viscosa-akeake-hopbush-street.jpeg",
-        "alt": "dodonaea viscosa akeake hopbush street"
+        "src": "images/trees/dodonaea-viscosa/dodonaea-viscosa-street.jpeg",
+        "alt": "dodonaea viscosa street"
       }
     ],
     "links": []
@@ -31996,7 +31996,7 @@
       "form": ""
     },
     "url": "dodonaea-viscosa-purpurea",
-    "mainImage": "dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush.jpg",
+    "mainImage": "dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea.jpg",
     "description": "Quick-growing, upright tree, bushy to the ground. Long, narrow, purple-bronze leaves. Very tough, tolerating sub-zero temperatures, salt-laden winds, drought, and polluted atmospheres. Yellow-green to red-green flowers from late-winter to mid-summer.",
     "uses": "hedging-and-screening, attracts-bees",
     "tolerates": "coastal, windy, drought",
@@ -32035,24 +32035,24 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush-bush.jpg",
-        "alt": "dodonaea viscosa purpurea akeake hopbush bush"
+        "src": "images/trees/dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea-bush.jpg",
+        "alt": "dodonaea viscosa purpurea bush"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush-foliage.jpg",
-        "alt": "dodonaea viscosa purpurea akeake hopbush foliage"
+        "src": "images/trees/dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea-foliage.jpg",
+        "alt": "dodonaea viscosa purpurea foliage"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush-garden.jpg",
-        "alt": "dodonaea viscosa purpurea akeake hopbush garden"
+        "src": "images/trees/dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea-garden.jpg",
+        "alt": "dodonaea viscosa purpurea garden"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush-hedge.jpg",
-        "alt": "dodonaea viscosa purpurea akeake hopbush hedge"
+        "src": "images/trees/dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea-hedge.jpg",
+        "alt": "dodonaea viscosa purpurea hedge"
       },
       {
-        "src": "images/trees/dodonaea-viscosa-purpurea-akeake-hopbush/dodonaea-viscosa-purpurea-akeake-hopbush-hedged.jpg",
-        "alt": "dodonaea viscosa purpurea akeake hopbush hedged"
+        "src": "images/trees/dodonaea-viscosa-purpurea/dodonaea-viscosa-purpurea-hedged.jpg",
+        "alt": "dodonaea viscosa purpurea hedged"
       }
     ],
     "links": []
@@ -32098,7 +32098,7 @@
       "form": ""
     },
     "url": "drepanostachyum-falcatum",
-    "mainImage": "drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo/drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo.jpg",
+    "mainImage": "drepanostachyum-falcatum/drepanostachyum-falcatum.jpg",
     "description": "A dense, clump-forming bamboo. Has light-green foliage with long, arching canes. Prefers moist, well-drained soil. Shelter from strong winds.",
     "uses": "hedging-and-screening",
     "tolerates": "",
@@ -32137,12 +32137,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo/drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo-clump.jpg",
-        "alt": "drepanostachyum falcatum fairy bamboo himalayan bamboo clump"
+        "src": "images/trees/drepanostachyum-falcatum/drepanostachyum-falcatum-clump.jpg",
+        "alt": "drepanostachyum falcatum clump"
       },
       {
-        "src": "images/trees/drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo/drepanostachyum-falcatum-fairy-bamboo-himalayan-bamboo-leaves.jpg",
-        "alt": "drepanostachyum falcatum fairy bamboo himalayan bamboo leaves"
+        "src": "images/trees/drepanostachyum-falcatum/drepanostachyum-falcatum-leaves.jpg",
+        "alt": "drepanostachyum falcatum leaves"
       }
     ],
     "links": []
@@ -32179,7 +32179,7 @@
       "form": ""
     },
     "url": "dysoxylum-spectabile",
-    "mainImage": "dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany.jpg",
+    "mainImage": "dysoxylum-spectabile/dysoxylum-spectabile.jpg",
     "description": "A handsome upright tree, suited to coastal windy conditions but requiring good soil and shelter from frosts. Scented white flowers in panicles from early-autumn to mid-winter. Large glossy, green leaves.",
     "uses": "attracts-birds, attracts-bees",
     "tolerates": "coastal",
@@ -32218,16 +32218,16 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany-foliage.jpeg",
-        "alt": "dysoxylum spectabile kohekohe new zealand mahogany foliage"
+        "src": "images/trees/dysoxylum-spectabile/dysoxylum-spectabile-foliage.jpeg",
+        "alt": "dysoxylum spectabile foliage"
       },
       {
-        "src": "images/trees/dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany-forest.jpg",
-        "alt": "dysoxylum spectabile kohekohe new zealand mahogany forest"
+        "src": "images/trees/dysoxylum-spectabile/dysoxylum-spectabile-forest.jpg",
+        "alt": "dysoxylum spectabile forest"
       },
       {
-        "src": "images/trees/dysoxylum-spectabile-kohekohe-new-zealand-mahogany/dysoxylum-spectabile-kohekohe-new-zealand-mahogany-new-growth.jpeg",
-        "alt": "dysoxylum spectabile kohekohe new zealand mahogany new growth"
+        "src": "images/trees/dysoxylum-spectabile/dysoxylum-spectabile-new-growth.jpeg",
+        "alt": "dysoxylum spectabile new growth"
       }
     ],
     "links": []
@@ -32264,7 +32264,7 @@
       "form": ""
     },
     "url": "elaeagnus-x-submacrophylla",
-    "mainImage": "elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry.jpg",
+    "mainImage": "elaeagnus-x-submacrophylla/elaeagnus-x-submacrophylla.jpg",
     "description": "Leaves are initially green, spotted with silver-grey, but mature to dark-green with silver-grey undersides. A tough, fast, bushy grower. Ideal for screening and hedging. Tolerates drought and salt-laden winds. Makes a very tough hedge. Grow in sun or shade. Produces very fragrant, sweet-scented, white flowers in autumn that are followed by orange berries in winter. <i>Elaeagnus</i> x <i>submacrophylla</i> is a hybrid between <a href='https://www.rhs.org.uk/plants/21344/elaeagnus-macrophylla/details' target='_blank' rel='noopener noreferrer'><i>Elaeagnus macrophylla</i></a> and <a href='https://landscapeplants.oregonstate.edu/plants/elaeagnus-pungens' target='_blank' rel='noopener noreferrer'><i>Elaeagnus pungens</i></a>.",
     "uses": "hedging-and-screening, attracts-bees, attracts-birds",
     "tolerates": "coastal, windy, drought",
@@ -32303,20 +32303,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry-bush.jpg",
-        "alt": "elaeagnus x submacrophylla silverberry bush"
+        "src": "images/trees/elaeagnus-x-submacrophylla/elaeagnus-x-submacrophylla-bush.jpg",
+        "alt": "elaeagnus x submacrophylla bush"
       },
       {
-        "src": "images/trees/elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry-foliage.jpeg",
-        "alt": "elaeagnus x submacrophylla silverberry foliage"
+        "src": "images/trees/elaeagnus-x-submacrophylla/elaeagnus-x-submacrophylla-foliage.jpeg",
+        "alt": "elaeagnus x submacrophylla foliage"
       },
       {
-        "src": "images/trees/elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry-new-growth.jpeg",
-        "alt": "elaeagnus x submacrophylla silverberry new growth"
+        "src": "images/trees/elaeagnus-x-submacrophylla/elaeagnus-x-submacrophylla-new-growth.jpeg",
+        "alt": "elaeagnus x submacrophylla new growth"
       },
       {
-        "src": "images/trees/elaeagnus-x-submacrophylla-silverberry/elaeagnus-x-submacrophylla-silverberry-topiary.jpg",
-        "alt": "elaeagnus x submacrophylla silverberry topiary"
+        "src": "images/trees/elaeagnus-x-submacrophylla/elaeagnus-x-submacrophylla-topiary.jpg",
+        "alt": "elaeagnus x submacrophylla topiary"
       }
     ],
     "links": []
@@ -32343,7 +32343,7 @@
       "form": ""
     },
     "url": "eriobotrya-japonica",
-    "mainImage": "eriobotrya-japonica-loquat/eriobotrya-japonica-loquat.jpg",
+    "mainImage": "eriobotrya-japonica/eriobotrya-japonica.jpg",
     "description": "Clusters of small, white flowers in winter. Yellow-orange fruit ripens from early-spring to early-summer. Flavour is sweet-tart, similar to a plum or cherry. Prefers moist, well-drained soil in full-sun, but will tolerate partial shade. Drought-tolerant once established. Self-fertile.",
     "uses": "",
     "tolerates": "drought",
@@ -32382,20 +32382,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eriobotrya-japonica-loquat/eriobotrya-japonica-loquat-flowers.jpg",
-        "alt": "eriobotrya japonica loquat flowers"
+        "src": "images/trees/eriobotrya-japonica/eriobotrya-japonica-flowers.jpg",
+        "alt": "eriobotrya japonica flowers"
       },
       {
-        "src": "images/trees/eriobotrya-japonica-loquat/eriobotrya-japonica-loquat-foliage.jpg",
-        "alt": "eriobotrya japonica loquat foliage"
+        "src": "images/trees/eriobotrya-japonica/eriobotrya-japonica-foliage.jpg",
+        "alt": "eriobotrya japonica foliage"
       },
       {
-        "src": "images/trees/eriobotrya-japonica-loquat/eriobotrya-japonica-loquat-fruiting.jpg",
-        "alt": "eriobotrya japonica loquat fruiting"
+        "src": "images/trees/eriobotrya-japonica/eriobotrya-japonica-fruiting.jpg",
+        "alt": "eriobotrya japonica fruiting"
       },
       {
-        "src": "images/trees/eriobotrya-japonica-loquat/eriobotrya-japonica-loquat-garden.jpg",
-        "alt": "eriobotrya japonica loquat garden"
+        "src": "images/trees/eriobotrya-japonica/eriobotrya-japonica-garden.jpg",
+        "alt": "eriobotrya japonica garden"
       }
     ],
     "links": []
@@ -32422,7 +32422,7 @@
       "form": ""
     },
     "url": "eriobotrya-japonica-golden-orb",
-    "mainImage": "eriobotrya-japonica-golden-orb-loquat/eriobotrya-japonica-golden-orb-loquat.jpg",
+    "mainImage": "eriobotrya-japonica-golden-orb/eriobotrya-japonica-golden-orb.jpg",
     "description": "Coastal-hardy tree with yellow-orange skinned, yellow-fleshed, easy to peel, sweet fruit reminiscent of apricots in early summer. Excellent for large containers. Well suited to gardens of all sizes. Self-fertile.",
     "uses": "",
     "tolerates": "coastal",
@@ -32484,7 +32484,7 @@
       "form": ""
     },
     "url": "eucalyptus-cinerea",
-    "mainImage": "eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum.jpg",
+    "mainImage": "eucalyptus-cinerea/eucalyptus-cinerea.jpg",
     "description": "Attractive ornamental and shelter tree. Rounded silvery blue-green leaves on juvenile trees. Mature trees have long leaves. Tolerates dry soils and coastal exposure.",
     "uses": "",
     "tolerates": "coastal, windy",
@@ -32523,28 +32523,28 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-foliage.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum foliage"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-foliage.jpg",
+        "alt": "eucalyptus cinerea foliage"
       },
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-mature-tree.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum mature tree"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-mature-tree.jpg",
+        "alt": "eucalyptus cinerea mature tree"
       },
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-new-foliage.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum new foliage"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-new-foliage.jpg",
+        "alt": "eucalyptus cinerea new foliage"
       },
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-park.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum park"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-park.jpg",
+        "alt": "eucalyptus cinerea park"
       },
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-row.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum row"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-row.jpg",
+        "alt": "eucalyptus cinerea row"
       },
       {
-        "src": "images/trees/eucalyptus-cinerea-argyle-apple-silver-dollar-gum/eucalyptus-cinerea-argyle-apple-silver-dollar-gum-street.jpg",
-        "alt": "eucalyptus cinerea argyle apple silver dollar gum street"
+        "src": "images/trees/eucalyptus-cinerea/eucalyptus-cinerea-street.jpg",
+        "alt": "eucalyptus cinerea street"
       }
     ],
     "links": []
@@ -32571,7 +32571,7 @@
       "form": ""
     },
     "url": "eucalyptus-crenulata",
-    "mainImage": "eucalyptus-crenulata-buxton-gum-silver-gum/eucalyptus-crenulata-buxton-gum-silver-gum.jpg",
+    "mainImage": "eucalyptus-crenulata/eucalyptus-crenulata.jpg",
     "description": "Has attractive, silver, egg-shaped to heart-shaped leaves with serrated edges that are used widely in cut-flower arrangements. Clusters of cream-white flowers in spring. Grows well in both wet and dry conditions.",
     "uses": "",
     "tolerates": "windy",
@@ -32610,12 +32610,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eucalyptus-crenulata-buxton-gum-silver-gum/eucalyptus-crenulata-buxton-gum-silver-gum-foliage.jpg",
-        "alt": "eucalyptus crenulata buxton gum silver gum foliage"
+        "src": "images/trees/eucalyptus-crenulata/eucalyptus-crenulata-foliage.jpg",
+        "alt": "eucalyptus crenulata foliage"
       },
       {
-        "src": "images/trees/eucalyptus-crenulata-buxton-gum-silver-gum/eucalyptus-crenulata-buxton-gum-silver-gum-mature-tree.jpg",
-        "alt": "eucalyptus crenulata buxton gum silver gum mature tree"
+        "src": "images/trees/eucalyptus-crenulata/eucalyptus-crenulata-mature-tree.jpg",
+        "alt": "eucalyptus crenulata mature tree"
       }
     ],
     "links": []
@@ -32642,7 +32642,7 @@
       "form": ""
     },
     "url": "eucalyptus-johnstonii",
-    "mainImage": "eucalyptus-johnstonii-tasmanian-yellow-gum/eucalyptus-johnstonii-tasmanian-yellow-gum.jpg",
+    "mainImage": "eucalyptus-johnstonii/eucalyptus-johnstonii.jpg",
     "description": "Thick, dark-green leaves. Has distinctive yellow-green bark. Will grow in wet areas and can tolerate drought. Fast-growing.",
     "uses": "",
     "tolerates": "windy, drought",
@@ -32704,7 +32704,7 @@
       "form": ""
     },
     "url": "eucalyptus-leucoxylon-rosea",
-    "mainImage": "eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum/eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum.jpg",
+    "mainImage": "eucalyptus-leucoxylon-rosea/eucalyptus-leucoxylon-rosea.jpg",
     "description": "One of the hardiest gums, tolerating extreme drought and cold conditions. Adult leaves are long and grey-green. A profusion of deep-pink to red flowers hang from the branches from autumn into winter and are a valuable nectar supply for tuis, bellbirds, and wax-eyes. Tall, erect grower.",
     "uses": "street, paddocks, shade, attracts-birds, attracts-bees",
     "tolerates": "windy, drought",
@@ -32743,12 +32743,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum/eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum-flowers.jpg",
-        "alt": "eucalyptus leucoxylon rosea red flowering yellow gum flowers"
+        "src": "images/trees/eucalyptus-leucoxylon-rosea/eucalyptus-leucoxylon-rosea-flowers.jpg",
+        "alt": "eucalyptus leucoxylon rosea flowers"
       },
       {
-        "src": "images/trees/eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum/eucalyptus-leucoxylon-rosea-red-flowering-yellow-gum-mature-tree.jpg",
-        "alt": "eucalyptus leucoxylon rosea red flowering yellow gum mature tree"
+        "src": "images/trees/eucalyptus-leucoxylon-rosea/eucalyptus-leucoxylon-rosea-mature-tree.jpg",
+        "alt": "eucalyptus leucoxylon rosea mature tree"
       }
     ],
     "links": []
@@ -32775,7 +32775,7 @@
       "form": ""
     },
     "url": "eucalyptus-nicholii",
-    "mainImage": "eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint.jpg",
+    "mainImage": "eucalyptus-nicholii/eucalyptus-nicholii.jpg",
     "description": "Graceful tree. Narrow, light-green to blue-green leaves exude a peppermint fragrance when crushed. Ideal for shade and screening. Tolerant of frosts and drought.",
     "uses": "",
     "tolerates": "windy, drought",
@@ -32814,20 +32814,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint-foliage.jpeg",
-        "alt": "eucalyptus nicholii narrow leaved black peppermint foliage"
+        "src": "images/trees/eucalyptus-nicholii/eucalyptus-nicholii-foliage.jpeg",
+        "alt": "eucalyptus nicholii foliage"
       },
       {
-        "src": "images/trees/eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint-paddock.jpg",
-        "alt": "eucalyptus nicholii narrow leaved black peppermint paddock"
+        "src": "images/trees/eucalyptus-nicholii/eucalyptus-nicholii-paddock.jpg",
+        "alt": "eucalyptus nicholii paddock"
       },
       {
-        "src": "images/trees/eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint-park.jpg",
-        "alt": "eucalyptus nicholii narrow leaved black peppermint park"
+        "src": "images/trees/eucalyptus-nicholii/eucalyptus-nicholii-park.jpg",
+        "alt": "eucalyptus nicholii park"
       },
       {
-        "src": "images/trees/eucalyptus-nicholii-narrow-leaved-black-peppermint/eucalyptus-nicholii-narrow-leaved-black-peppermint-roadside.jpg",
-        "alt": "eucalyptus nicholii narrow leaved black peppermint roadside"
+        "src": "images/trees/eucalyptus-nicholii/eucalyptus-nicholii-roadside.jpg",
+        "alt": "eucalyptus nicholii roadside"
       }
     ],
     "links": []
@@ -32854,7 +32854,7 @@
       "form": ""
     },
     "url": "eucalyptus-sideroxylon",
-    "mainImage": "eucalyptus-sideroxylon-red-ironbark-gum/eucalyptus-sideroxylon-red-ironbark-gum.jpg",
+    "mainImage": "eucalyptus-sideroxylon/eucalyptus-sideroxylon.jpg",
     "description": "Fast-growing with distinct red-brown to black bark. Yields high-quality wood that is used to produce immensely strong and durable timber. Tolerates drought and will grow in wet areas.",
     "uses": "",
     "tolerates": "windy, drought",
@@ -32893,20 +32893,20 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/eucalyptus-sideroxylon-red-ironbark-gum/eucalyptus-sideroxylon-red-ironbark-gum-bark.jpg",
-        "alt": "eucalyptus sideroxylon red ironbark gum bark"
+        "src": "images/trees/eucalyptus-sideroxylon/eucalyptus-sideroxylon-bark.jpg",
+        "alt": "eucalyptus sideroxylon bark"
       },
       {
-        "src": "images/trees/eucalyptus-sideroxylon-red-ironbark-gum/eucalyptus-sideroxylon-red-ironbark-gum-mature-trees.jpg",
-        "alt": "eucalyptus sideroxylon red ironbark gum mature trees"
+        "src": "images/trees/eucalyptus-sideroxylon/eucalyptus-sideroxylon-mature-trees.jpg",
+        "alt": "eucalyptus sideroxylon mature trees"
       },
       {
-        "src": "images/trees/eucalyptus-sideroxylon-red-ironbark-gum/eucalyptus-sideroxylon-red-ironbark-gum-street.jpg",
-        "alt": "eucalyptus sideroxylon red ironbark gum street"
+        "src": "images/trees/eucalyptus-sideroxylon/eucalyptus-sideroxylon-street.jpg",
+        "alt": "eucalyptus sideroxylon street"
       },
       {
-        "src": "images/trees/eucalyptus-sideroxylon-red-ironbark-gum/eucalyptus-sideroxylon-red-ironbark-gum-trunk.jpg",
-        "alt": "eucalyptus sideroxylon red ironbark gum trunk"
+        "src": "images/trees/eucalyptus-sideroxylon/eucalyptus-sideroxylon-trunk.jpg",
+        "alt": "eucalyptus sideroxylon trunk"
       }
     ],
     "links": []
