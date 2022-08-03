@@ -1,7 +1,4 @@
 let colorSection = document.querySelector("#color-section");
-let gradeSizeSelect = document.querySelector("#grade-size-select");
-let heightSelect = document.querySelector("#height-select");
-let standardHeightSelect = document.querySelector("#standard-height-select");
 let gradeSizesDiv = document.querySelector("#grade-sizes");
 
 let treeBotanicalName = document.querySelector(".tree-botanical-name");
@@ -23,9 +20,6 @@ let productImage = "";
 let maximumQuantityReached = false;
 
 let stockTableDiv = document.querySelector("#stock-table-div");
-
-let heightValues = 0;
-let standardHeightValues = 0;
 
 let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 
