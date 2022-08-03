@@ -32,8 +32,6 @@ let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 const productAdded = new Event("productAdded");
 
 let grades = [];
-let stockData = [];
-let newData = [];
 
 window.addEventListener("loginUpdated", () => {
   (async function init() {
@@ -43,61 +41,7 @@ window.addEventListener("loginUpdated", () => {
 
     await getProductStockData();
 
-    let inStock = 0;
-
-    gradeLoop: for (let i = 0; i < grades.length; i++) {
-      heightLoop: for (let j = 0; j < grades[i].heights.length; j++) {
-        standardLoop: for (
-          let k = 0;
-          k < grades[i].heights[j].standardHeights.length;
-          k++
-        ) {
-          if (
-            parseInt(grades[i].heights[j].standardHeights[k].quantity, 10) !== 0
-          ) {
-            inStock++;
-            // if (grades[i].heights[j].standardHeights.length > 1) {
-            //   if (k === grades[i].heights[j].standardHeights.length - 1) {
-            //     inStock++;
-            //   }
-            // }
-          } else {
-            grades[i].heights[j].standardHeights.splice(k, 1);
-            k--;
-          }
-        }
-
-        if (grades[i].heights[j].standardHeights.length < 1) {
-          grades[i].heights.splice(j, 1);
-          j--;
-        }
-      }
-
-      if (grades[i].heights.length < 1) {
-        grades.splice(i, 1);
-        i--;
-      }
-    }
-
-    if (inStock === 0) {
-      gradeSizesDiv.innerHTML = ``;
-      let message = document.createElement("p");
-      message.textContent = "Currently out of stock.";
-      message.classList.add("bold-up");
-      gradeSizesDiv.appendChild(message);
-      gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
-      gradeSizesDiv.style.setProperty("margin-top", "0");
-
-      // stockValuesDiv.style.setProperty("display", "none");
-    } else {
-      await createStockValues();
-    }
-
-    stockData = await fetch(
-      "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
-    )
-      .then((response) => response.json())
-      .catch((error) => {});
+    await createStockValues();
 
     document.querySelector(
       "#tree-name-content"
@@ -313,162 +257,179 @@ async function createTreeImages() {
 }
 
 async function createStockValues() {
+  let inStock = 0;
+
   if (grades.length !== 0) {
     for (let i = 0; i < grades.length; i++) {
       for (let j = 0; j < grades[i].heights.length; j++) {
         for (let k = 0; k < grades[i].heights[j].standardHeights.length; k++) {
-          let gradeDiv = document.createElement("div");
-          gradeDiv.classList.add("selection-box");
+          if (parseInt(grades[i].heights[j].standardHeights[k].quantity) > 0) {
+            inStock += 1;
 
-          let gradeSizeValue = document.createElement("p");
-          gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
-          gradeSizeValue.classList.add("order-product-grade");
+            let gradeDiv = document.createElement("div");
+            gradeDiv.classList.add("selection-box");
 
-          let heightValue = document.createElement("p");
-          heightValue.classList.add("order-product-height");
+            let gradeSizeValue = document.createElement("p");
+            gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
+            gradeSizeValue.classList.add("order-product-grade");
 
-          let standardHeightValue = document.createElement("p");
-          standardHeightValue.classList.add("order-product-standard-height");
+            let heightValue = document.createElement("p");
+            heightValue.classList.add("order-product-height");
 
-          let quantityValue = document.createElement("p");
-          quantityValue.classList.add("order-product-quantity");
+            let standardHeightValue = document.createElement("p");
+            standardHeightValue.classList.add("order-product-standard-height");
 
-          let wholesalePriceValue = document.createElement("p");
-          wholesalePriceValue.classList.add("wholesale-price");
-          wholesalePriceValue.classList.add("order-product-wholesale-price");
+            let quantityValue = document.createElement("p");
+            quantityValue.classList.add("order-product-quantity");
 
-          let retailPriceValue = document.createElement("p");
-          retailPriceValue.classList.add("retail-price");
-          retailPriceValue.classList.add("order-product-retail-price");
+            let wholesalePriceValue = document.createElement("p");
+            wholesalePriceValue.classList.add("wholesale-price");
+            wholesalePriceValue.classList.add("order-product-wholesale-price");
 
-          if (grades[i].heights[j].averageHeight !== "") {
-            heightValue.innerHTML = `Height: <span class='accent-color'>${
-              grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
-                ? grades[i].heights[j].averageHeight
-                : grades[i].heights[j].averageHeight + "m"
-            }</span>`;
-          } else {
-            heightValue.dataset.value = "N/A";
-            heightValue.innerHTML =
-              "Height: <span class='accent-color'>N/A</span>";
-          }
+            let retailPriceValue = document.createElement("p");
+            retailPriceValue.classList.add("retail-price");
+            retailPriceValue.classList.add("order-product-retail-price");
 
-          if (
-            grades[i].heights[j].standardHeights[k].standardHeight.match(
-              /\d+/g
-            ) !== null
-          ) {
-            standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}m</span>`;
-          } else if (
-            grades[i].heights[j].standardHeights[k].standardHeight !== ""
-          ) {
-            standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}</span>`;
-          } else {
-            standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>None</span>`;
-          }
-
-          quantityValue.innerHTML = `Quantity Ready: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].quantity}</span>`;
-
-          wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span>`;
-
-          retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
-
-          gradeDiv.appendChild(gradeSizeValue);
-          gradeDiv.appendChild(heightValue);
-          gradeDiv.appendChild(standardHeightValue);
-          gradeDiv.appendChild(quantityValue);
-          gradeDiv.appendChild(retailPriceValue);
-          gradeDiv.appendChild(wholesalePriceValue);
-
-          let addToOrderDiv = document.createElement("div");
-          addToOrderDiv.classList.add("add-to-order-div");
-
-          let gradeInput = document.createElement("input");
-          gradeInput.type = "number";
-          gradeInput.name = "quantity";
-          gradeInput.class = "quantity";
-          gradeInput.value = 1;
-          gradeInput.min = 1;
-          gradeInput.max = parseInt(
-            grades[i].heights[j].standardHeights[k].quantity
-          );
-          gradeInput.inputmode = "numeric";
-
-          gradeInput.onchange = function () {
-            if (this.value < 1) {
-              this.value = 1;
-            } else if (
-              this.value >
-              parseInt(grades[i].heights[j].standardHeights[k].quantity)
-            ) {
-              this.value = parseInt(
-                grades[i].heights[j].standardHeights[k].quantity
-              );
-            }
-          };
-
-          let gradeButton = document.createElement("button");
-          gradeButton.class = "add-product";
-          gradeButton.textContent = "Add to order";
-
-          gradeButton.dataset.grade = grades[i].grade;
-          gradeButton.dataset.height = grades[i].heights[j].averageHeight;
-          gradeButton.dataset.standardHeight =
-            grades[i].heights[j].standardHeights[k].standardHeight === ""
-              ? "None"
-              : grades[i].heights[j].standardHeights[k].standardHeight;
-          gradeButton.dataset.quantity =
-            grades[i].heights[j].standardHeights[k].quantity;
-          gradeButton.dataset.wholesalePrice =
-            grades[i].heights[j].standardHeights[k].wholesalePrice;
-          gradeButton.dataset.retailPrice =
-            grades[i].heights[j].standardHeights[k].retailPrice;
-
-          gradeButton.addEventListener("click", () => {
-            addTreeToSessionStorage(
-              gradeButton.dataset.grade,
-              gradeButton.dataset.height,
-              gradeInput.value,
-              gradeInput.max,
-              gradeButton.dataset.standardHeight,
-              gradeButton.dataset.retailPrice,
-              gradeButton.dataset.wholesalePrice
-            );
-            window.dispatchEvent(productAdded);
-
-            if (maximumQuantityReached) {
-              document.querySelector(
-                "#top-bar-inner"
-              ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
-              maximumQuantityReached = false;
+            if (grades[i].heights[j].averageHeight !== "") {
+              heightValue.innerHTML = `Height: <span class='accent-color'>${
+                grades[i].heights[j].averageHeight.toLowerCase() === "n/a"
+                  ? grades[i].heights[j].averageHeight
+                  : grades[i].heights[j].averageHeight + "m"
+              }</span>`;
             } else {
-              document.querySelector(
-                "#top-bar-inner"
-              ).innerHTML = `${gradeInput.value}<span class="lowercase">x</span> ${gradeButton.dataset.grade} ${treeBotanicalName.innerHTML} added to order.`;
+              heightValue.dataset.value = "N/A";
+              heightValue.innerHTML =
+                "Height: <span class='accent-color'>N/A</span>";
             }
 
-            document
-              .querySelector("#top-bar")
-              .style.setProperty("display", "block");
+            if (
+              grades[i].heights[j].standardHeights[k].standardHeight.match(
+                /\d+/g
+              ) !== null
+            ) {
+              standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}m</span>`;
+            } else if (
+              grades[i].heights[j].standardHeights[k].standardHeight !== ""
+            ) {
+              standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].standardHeight}</span>`;
+            } else {
+              standardHeightValue.innerHTML = `Standard Height: <span class='accent-color'>None</span>`;
+            }
 
-            setTimeout(() => {
+            quantityValue.innerHTML = `Quantity Ready: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].quantity}</span>`;
+
+            wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].wholesalePrice}.00+GST (Wholesale)</span>`;
+
+            retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${grades[i].heights[j].standardHeights[k].retailPrice}.00+GST (Retail)</span>`;
+
+            gradeDiv.appendChild(gradeSizeValue);
+            gradeDiv.appendChild(heightValue);
+            gradeDiv.appendChild(standardHeightValue);
+            gradeDiv.appendChild(quantityValue);
+            gradeDiv.appendChild(retailPriceValue);
+            gradeDiv.appendChild(wholesalePriceValue);
+
+            let addToOrderDiv = document.createElement("div");
+            addToOrderDiv.classList.add("add-to-order-div");
+
+            let gradeInput = document.createElement("input");
+            gradeInput.type = "number";
+            gradeInput.name = "quantity";
+            gradeInput.class = "quantity";
+            gradeInput.value = 1;
+            gradeInput.min = 1;
+            gradeInput.max = parseInt(
+              grades[i].heights[j].standardHeights[k].quantity
+            );
+            gradeInput.inputmode = "numeric";
+
+            gradeInput.onchange = function () {
+              if (this.value < 1) {
+                this.value = 1;
+              } else if (
+                this.value >
+                parseInt(grades[i].heights[j].standardHeights[k].quantity)
+              ) {
+                this.value = parseInt(
+                  grades[i].heights[j].standardHeights[k].quantity
+                );
+              }
+            };
+
+            let gradeButton = document.createElement("button");
+            gradeButton.class = "add-product";
+            gradeButton.textContent = "Add to order";
+
+            gradeButton.dataset.grade = grades[i].grade;
+            gradeButton.dataset.height = grades[i].heights[j].averageHeight;
+            gradeButton.dataset.standardHeight =
+              grades[i].heights[j].standardHeights[k].standardHeight === ""
+                ? "None"
+                : grades[i].heights[j].standardHeights[k].standardHeight;
+            gradeButton.dataset.quantity =
+              grades[i].heights[j].standardHeights[k].quantity;
+            gradeButton.dataset.wholesalePrice =
+              grades[i].heights[j].standardHeights[k].wholesalePrice;
+            gradeButton.dataset.retailPrice =
+              grades[i].heights[j].standardHeights[k].retailPrice;
+
+            gradeButton.addEventListener("click", () => {
+              addTreeToSessionStorage(
+                gradeButton.dataset.grade,
+                gradeButton.dataset.height,
+                gradeInput.value,
+                gradeInput.max,
+                gradeButton.dataset.standardHeight,
+                gradeButton.dataset.retailPrice,
+                gradeButton.dataset.wholesalePrice
+              );
+              window.dispatchEvent(productAdded);
+
+              if (maximumQuantityReached) {
+                document.querySelector(
+                  "#top-bar-inner"
+                ).innerHTML = `You tried adding more trees than we have in stock. Order quantity has been set to the maximum quantity.`;
+                maximumQuantityReached = false;
+              } else {
+                document.querySelector(
+                  "#top-bar-inner"
+                ).innerHTML = `${gradeInput.value}<span class="lowercase">x</span> ${gradeButton.dataset.grade} ${treeBotanicalName.innerHTML} added to order.`;
+              }
+
               document
                 .querySelector("#top-bar")
-                .style.setProperty("display", "none");
-            }, 4000);
-          });
+                .style.setProperty("display", "block");
 
-          addToOrderDiv.appendChild(gradeInput);
-          addToOrderDiv.appendChild(gradeButton);
+              setTimeout(() => {
+                document
+                  .querySelector("#top-bar")
+                  .style.setProperty("display", "none");
+              }, 4000);
+            });
 
-          gradeDiv.appendChild(addToOrderDiv);
+            addToOrderDiv.appendChild(gradeInput);
+            addToOrderDiv.appendChild(gradeButton);
 
-          document.querySelector("#grade-size-selection").appendChild(gradeDiv);
-          // }
+            gradeDiv.appendChild(addToOrderDiv);
+
+            document
+              .querySelector("#grade-size-selection")
+              .appendChild(gradeDiv);
+          }
         }
       }
     }
   } else {
+    gradeSizesDiv.innerHTML = ``;
+    let message = document.createElement("p");
+    message.textContent = "Currently out of stock.";
+    message.classList.add("bold-up");
+    gradeSizesDiv.appendChild(message);
+    gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
+    gradeSizesDiv.style.setProperty("margin-top", "0");
+  }
+
+  if (inStock === 0) {
     gradeSizesDiv.innerHTML = ``;
     let message = document.createElement("p");
     message.textContent = "Currently out of stock.";
@@ -580,88 +541,10 @@ async function createStockTable() {
     ];
   }
 
-  newData = stockData.filter((item) => {
-    let testItem = item[0]
-      .trim()
-      .replace(/ã/g, "a")
-      .replace(/é/g, "e")
-      .replace(/ā/g, "a")
-      .replace(/ē/g, "e")
-      .replace(/ī/g, "i")
-      .replace(/ō/g, "o")
-      .replace(/ū/g, "u")
-      .replace(/'/g, "")
-      .replace(/"/g, "")
-      .replace(/\./g, "")
-      .replace(/ var /g, " ")
-      .replace(/ x /g, " ")
-      .replace(/\(/g, "")
-      .replace(/\)/g, "")
-      .replace(/\\/g, " ")
-      .replace(/\//g, " ")
-      .replace(/ /g, "-")
-      .toLowerCase();
-    return (
-      testItem ===
-      treeBotanicalName.textContent
-        .replace("Prunus dulcis", "Almond")
-        .replace("Malus domestica", "Apple")
-        .replace("Prunus armeniaca", "Apricot")
-        .replace("Persea americana", "Avocado")
-        .replace("Prunus avium", "Cherry")
-        .replace("Citrus x paradisi", "Citrus grapefruit")
-        .replace("Citrus x limon", "Citrus lemon")
-        .replace("Citrus x meyeri", "Citrus lemon Meyer")
-        .replace("Citrus limon x reticulata", "Citrus Lemonade")
-        .replace("Citrus x latifolia", "Citrus lime")
-        .replace("Citrus reticulata", "Citrus mandarin")
-        .replace("Citrus x sinensis", "Citrus orange")
-        .replace("Feijoa sellowiana", "Feijoa")
-        .replace("Ficus carica", "Fig")
-        .replace("Alectryon excelsus subsp. excelsus", "Alectryon excelsus")
-        .replace("Psidium cattleyanum var. cattleyanum", "Guava Red Cherry")
-        .replace("Corylus avellana", "Hazelnut")
-        .replace("Juglans regia '", "Walnut '")
-        .replace("Eriobotrya japonica 'Golden Orb'", "Loquat Golden Orb")
-        .replace("Eriobotrya japonica", "Loquat japonica")
-        .replace("Macadamia integrifolia x tetraphylla", "Macadamia")
-        .replace("Prunus persica var. nectarina", "Nectarine")
-        .replace("Olea europaea", "Olive")
-        .replace("Prunus persica 'Healy's'", "Peacherine Healy's")
-        .replace("Prunus persica", "Peach")
-        .replace("Pyrus pyrifolia", "Pear")
-        .replace("Pyrus communis", "Pear")
-        .replace("Prunus salicina", "Plum")
-        .replace("Prunus domestica", "Plum")
-        .replace("Cydonia oblonga", "Quince")
-        .replace("Metrosideros x sub-tomentosa", "Metrosideros")
-        .replace("Metrosideros excelsa x umbellata", "Metrosideros")
-        .trim()
-        .replace(/ã/g, "a")
-        .replace(/é/g, "e")
-        .replace(/ā/g, "a")
-        .replace(/ē/g, "e")
-        .replace(/ī/g, "i")
-        .replace(/ō/g, "o")
-        .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/\./g, "")
-        .replace(/ var /g, " ")
-        .replace(/ x /g, " ")
-        .replace(/\(/g, "")
-        .replace(/\)/g, "")
-        .replace(/\\/g, " ")
-        .replace(/\//g, " ")
-        .replace(/ /g, "-")
-        .toLowerCase()
-    );
-  });
-
   let table = document.createElement("table");
 
-  if (newData.length > 0) {
-    for (let i = 0; i < newData.length; i++) {
+  if (grades.length > 0) {
+    for (let i = 0; i < grades.length; i++) {
       if (i === 0) {
         let row = document.createElement("tr");
         heading.forEach((item) => {
@@ -672,29 +555,53 @@ async function createStockTable() {
         table.append(row);
       }
 
-      let row = document.createElement("tr");
+      for (let j = 0; j < grades[i].heights.length; j++) {
+        for (let k = 0; k < grades[i].heights[j].standardHeights.length; k++) {
+          let row = document.createElement("tr");
 
-      for (let j = 0; j < 10; j++) {
-        if (document.body.classList.contains("loggedIn")) {
-          if (j !== 0 && j !== 1 && j !== 4) {
-            let cell = document.createElement("td");
+          let gradeCell = document.createElement("td");
+          gradeCell.textContent = grades[i].grade;
 
-            cell.textContent = newData[i][j];
+          let retailCell = document.createElement("td");
+          retailCell.textContent =
+            grades[i].heights[j].standardHeights[k].retailPrice;
 
-            row.append(cell);
+          let wholesaleCell = document.createElement("td");
+          wholesaleCell.textContent =
+            grades[i].heights[j].standardHeights[k].wholesalePrice;
+
+          let heightCell = document.createElement("td");
+          if (grades[i].heights[j].averageHeight === "N/A") {
+            heightCell.textContent = "";
+          } else {
+            heightCell.textContent = grades[i].heights[j].averageHeight;
           }
-        } else {
-          if (j !== 0 && j !== 1 && j !== 4 && j !== 5) {
-            let cell = document.createElement("td");
 
-            cell.textContent = newData[i][j];
+          let standardHeightCell = document.createElement("td");
+          standardHeightCell.textContent =
+            grades[i].heights[j].standardHeights[k].standardHeight;
 
-            row.append(cell);
+          let readyCell = document.createElement("td");
+          readyCell.textContent =
+            grades[i].heights[j].standardHeights[k].quantity;
+
+          let productionCell = document.createElement("td");
+          productionCell.textContent =
+            grades[i].heights[j].standardHeights[k].inProduction;
+
+          row.append(gradeCell);
+          row.append(retailCell);
+          if (document.body.classList.contains("loggedIn")) {
+            row.append(wholesaleCell);
           }
+          row.append(heightCell);
+          row.append(standardHeightCell);
+          row.append(readyCell);
+          row.append(productionCell);
+
+          table.append(row);
         }
       }
-
-      table.append(row);
     }
 
     stockTableDiv.append(table);
