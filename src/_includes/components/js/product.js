@@ -256,6 +256,9 @@ async function createStockValues() {
   if (grades.length !== 0) {
     for (let i = 0; i < grades.length; i++) {
       for (let j = 0; j < grades[i].heights.length; j++) {
+        let previousDate = "";
+        let productionDates = [];
+
         for (let k = 0; k < grades[i].heights[j].standardHeights.length; k++) {
           if (parseInt(grades[i].heights[j].standardHeights[k].quantity) > 0) {
             inStock += 1;
@@ -410,6 +413,120 @@ async function createStockValues() {
               .querySelector("#grade-size-selection")
               .appendChild(gradeDiv);
           }
+
+          for (
+            let l = 0;
+            l < grades[i].heights[j].standardHeights[k].productionDates.length;
+            l++
+          ) {
+            if (
+              Object.keys(
+                grades[i].heights[j].standardHeights[k].productionDates[l]
+              ).length !== 0
+            ) {
+              if (
+                grades[i].heights[j].standardHeights[k].productionDates[l]
+                  .dateReady !== ""
+              ) {
+                let currentDate = new Date();
+
+                let compareDate = new Date(
+                  grades[i].heights[j].standardHeights[k].productionDates[
+                    l
+                  ].dateReady
+                );
+
+                if (
+                  grades[i].heights[j].standardHeights[k].productionDates[l]
+                    .quantity !== "" &&
+                  parseInt(
+                    grades[i].heights[j].standardHeights[k].productionDates[l]
+                      .quantity
+                  ) !== 0 &&
+                  compareDate > currentDate
+                ) {
+                  inStock += 1;
+
+                  if (l === 0) {
+                    productionDates.push({
+                      grade: grades[i].grade,
+                      quantity: parseInt(
+                        grades[i].heights[j].standardHeights[k].productionDates[
+                          l
+                        ].quantity
+                      ),
+                      dateReady: compareDate,
+                    });
+                    previousDate = compareDate;
+                  } else {
+                    let found = false;
+                    for (let m = 0; m < productionDates.length; m++) {
+                      if (
+                        compareDate.getTime() ===
+                        productionDates[m].dateReady.getTime()
+                      ) {
+                        found = true;
+                        productionDates[m].quantity += parseInt(
+                          grades[i].heights[j].standardHeights[k]
+                            .productionDates[l].quantity
+                        );
+                      }
+                    }
+
+                    if (!found) {
+                      productionDates.push({
+                        grade: grades[i].grade,
+                        quantity: parseInt(
+                          grades[i].heights[j].standardHeights[k]
+                            .productionDates[l].quantity
+                        ),
+                        dateReady: compareDate,
+                      });
+                    }
+
+                    previousDate = compareDate;
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        productionDates.sort((a, b) => {
+          if (a.grade === b.grade) {
+            if (a.dateReady.getTime() > b.dateReady.getTime()) {
+              return 1;
+            } else if (a.dateReady.getTime() < b.dateReady.getTime()) {
+              return -1;
+            }
+          } else {
+            return 0;
+          }
+        });
+
+        for (let n = 0; n < productionDates.length; n++) {
+          let gradeDiv = document.createElement("div");
+          gradeDiv.classList.add("selection-box");
+
+          let gradeSizeValue = document.createElement("p");
+          gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
+
+          let quantityValue = document.createElement("p");
+          quantityValue.innerHTML = `Quantity In Production: <span class='accent-color'>${productionDates[n].quantity}</span>`;
+
+          let dateReady = document.createElement("p");
+          dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
+            n
+          ].dateReady.toLocaleDateString("en-gb", {
+            year: "numeric",
+            month: "long",
+          })}</span>`;
+
+          gradeDiv.appendChild(gradeSizeValue);
+          gradeDiv.appendChild(quantityValue);
+          gradeDiv.appendChild(dateReady);
+
+          document.querySelector("#in-production-grades").appendChild(gradeDiv);
         }
       }
     }
