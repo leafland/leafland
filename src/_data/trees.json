@@ -16509,6 +16509,77 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Fairy Wand",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia. <a href='https://en.wikipedia.org/wiki/Theaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Theaceae</i></a>.",
+      "genus": "<i>camellia</i> (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia. <a href='https://en.wikipedia.org/wiki/Camellia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i></a>.",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "camellia-fairy-wand",
+    "mainImage": "camellia-fairy-wand/camellia-fairy-wand.jpg",
+    "description": "Small, semi-double, red-pink flowers. Upright grower. Flowers from early-winter through spring. <i>Camellia</i> 'Fairy Wand' is a hybrid between <a href='https://camellia.iflora.cn/Cutivars/Detail?latin=Tiny%20Princess' target='_blank' rel='noopener noreferrer'><i>Camellia</i> 'Tiny Princess'</a> and the hybrid formed between <a href='https://treesandshrubsonline.org/articles/camellia/camellia-saluenensis/' target='_blank' rel='noopener noreferrer'><i>Camellia saluenensis</i></a> and <a href='https://camellia.iflora.cn/Cutivars/Detail?latin=Kon-wabisuke' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i> 'Kon-wabisuke' (syn. <i>Camellia japonica</i> 'Fuyajo')</a>.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "2m",
+    "width": "1.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red, pink",
+      "spring": "red, pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/camellia-fairy-wand/camellia-fairy-wand-flowering.jpg",
+        "alt": "camellia fairy wand flowering"
+      }
+    ],
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Fairy%20Wand",
+      "https://www.rhs.org.uk/plants/128665/camellia-fairy-wand/details",
+      "https://thediary.caerhays.co.uk/april/12th-april/"
+    ]
+  },
+  {
+    "family": "Theaceae",
+    "genus": "Camellia",
+    "species": "",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "High Fragrance",
     "synonyms": [],
     "commonName": "Camellia",
