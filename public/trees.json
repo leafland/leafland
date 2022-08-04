@@ -19129,6 +19129,93 @@
     ]
   },
   {
+    "family": "Theaceae",
+    "genus": "Camellia",
+    "species": "",
+    "hybrid": "williamsii",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Water Lily",
+    "synonyms": [
+      {
+        "genus": "Camellia",
+        "species": "",
+        "hybrid": "williamsii",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Waterlily"
+      }
+    ],
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia. <a href='https://en.wikipedia.org/wiki/Theaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Theaceae</i></a>.",
+      "genus": "<i>camellia</i> (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia. <a href='https://en.wikipedia.org/wiki/Camellia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i></a>.",
+      "species": "",
+      "hybrid": "<i>williamsii</i> (Latinised), named after John Charles Williams (1861 - 1939) who originally bred this hybrid species in 1923 at Caerhays Castle in Cornwall. <a href='https://en.wikipedia.org/wiki/Camellia_%C3%97_williamsii' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i> x <i>williamsii</i></a>.",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "camellia-x-williamsii-water-lily",
+    "mainImage": "camellia-x-williamsii-water-lily/camellia-x-williamsii-water-lily.jpg",
+    "description": "Vigorous and upright grower with double, rose-pink flowers. Flowers from early-autumn to mid-spring. <a href='https://treesandshrubsonline.org/articles/camellia/camellia-x-williamsii/' target='_blank' rel='noopener noreferrer'><i>Camellia</i> x <i>williamsii</i></a> is a hybrid formed between <a href='https://www.gardenia.net/plant-variety/camellias-japonica' target='_blank' rel='noopener noreferrer'><i>Camellia japonica</i></a> and <a href='https://treesandshrubsonline.org/articles/camellia/camellia-saluenensis/' target='_blank' rel='noopener noreferrer'><i>Camellia saluenensis</i></a>.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "red, pink",
+      "winter": "red, pink",
+      "spring": "red, pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/camellia-x-williamsii-water-lily/camellia-x-williamsii-water-lily-flower.jpg",
+        "alt": "camellia x williamsii water lily flower"
+      }
+    ],
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Water%20Lily",
+      "https://en.wikipedia.org/wiki/Camellia_%C3%97_williamsii",
+      "https://species.wikimedia.org/wiki/Camellia_%C3%97_williamsii",
+      "https://treesandshrubsonline.org/articles/camellia/camellia-x-williamsii/",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/07d249d4-a58f-425c-822e-8b4eb64821dd",
+      "https://www.rhs.org.uk/plants/95115/camellia-williamsii/details",
+      "https://www.gardenia.net/plant-variety/camellias-x-williamsii",
+      "https://www.gardenia.net/plant/camellia-water-lily",
+      "https://www.rhs.org.uk/plants/94193/camellia-x-williamsii-water-lily/details"
+    ]
+  },
+  {
     "family": "Betulaceae",
     "genus": "Carpinus",
     "species": "betulus",
