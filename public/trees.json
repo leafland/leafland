@@ -25074,11 +25074,11 @@
     "cultivar": "",
     "synonyms": [],
     "commonName": "Evergreen Dogwood",
-    "otherCommonNames": "Himalayan Flowering Dogwood, Himalayan Strawberry Tree",
+    "otherCommonNames": "Himalayan Flowering Dogwood, Himalayan Evergreen Dogwood, Himalayan Strawberry Tree, Bentham's Cornel, Strawberry Dogwood",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>capitata</i>, derived from the Latin noun <i>caput</i>, meaning 'head, top, point', in reference to the head-like fruit of this species and the head-like mounds on the flowers.",
+      "species": "<i>capitata</i>, derived from the Latin noun <i>caput</i>, meaning 'head, top, point', in reference to the head-like fruit of this species and the head-like mounds on the flowers. <a href='https://en.wikipedia.org/wiki/Cornus_capitata' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus capitata</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25132,7 +25132,21 @@
         "alt": "cornus capitata flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_capitata",
+      "https://species.wikimedia.org/wiki/Cornus_capitata",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=896098#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-capitata/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279360",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-capitata",
+      "https://selectree.calpoly.edu/tree-detail/393",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+capitata",
+      "https://www.nzpcn.org.nz/flora/species/cornus-capitata/",
+      "https://www.nzflora.info/factsheet/Taxon/Cornus-capitata.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/7f9e5abd-7146-41d6-aff2-9e635aabbbf3",
+      "https://www.rhs.org.uk/plants/4385/cornus-capitata/details",
+      "https://www.gardenia.net/plant/cornus-capitata"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25144,12 +25158,12 @@
     "form": "",
     "cultivar": "",
     "synonyms": [],
-    "commonName": "Wedding Cake Tree",
-    "otherCommonNames": "Giant Dogwood",
+    "commonName": "Giant Dogwood",
+    "otherCommonNames": "Wedding Cake Tree",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>.",
+      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>. <a href='https://en.wikipedia.org/wiki/Cornus_controversa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus controversa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25211,7 +25225,20 @@
         "alt": "cornus controversa park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_controversa",
+      "https://species.wikimedia.org/wiki/Cornus_controversa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=896097#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-controversa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b993",
+      "https://www.vdberk.co.uk/trees/cornus-controversa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-controversa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-controversa",
+      "https://selectree.calpoly.edu/tree-detail/394",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+controversa",
+      "https://www.ebben.nl/nl/treeebb/cocontro-cornus-controversa",
+      "https://www.rhs.org.uk/plants/4387/cornus-controversa/details"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25223,12 +25250,12 @@
     "form": "",
     "cultivar": "Golden Wedding",
     "synonyms": [],
-    "commonName": "Wedding Cake Tree",
-    "otherCommonNames": "Giant Dogwood",
+    "commonName": "Giant Dogwood",
+    "otherCommonNames": "Wedding Cake Tree",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>.",
+      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>. <a href='https://en.wikipedia.org/wiki/Cornus_controversa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus controversa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25282,7 +25309,20 @@
         "alt": "cornus controversa golden wedding in nursery"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_controversa",
+      "https://species.wikimedia.org/wiki/Cornus_controversa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=896097#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-controversa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b993",
+      "https://www.vdberk.co.uk/trees/cornus-controversa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-controversa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-controversa",
+      "https://selectree.calpoly.edu/tree-detail/394",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+controversa",
+      "https://www.ebben.nl/nl/treeebb/cocontro-cornus-controversa",
+      "https://www.rhs.org.uk/plants/4387/cornus-controversa/details"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25294,12 +25334,12 @@
     "form": "",
     "cultivar": "Variegata",
     "synonyms": [],
-    "commonName": "Wedding Cake Tree",
-    "otherCommonNames": "Giant Dogwood",
+    "commonName": "Giant Dogwood",
+    "otherCommonNames": "Wedding Cake Tree",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>.",
+      "species": "<i>contrōversa</i> (Latin, adjective), meaning 'controversial, disputed', in reference to the confusion that occurred when botanists tried to formally name this species. You can read further about the naming controversy in this <a href='https://www.markmcnee.com/cornus-controversa/' target='_blank' rel='noopener noreferrer'>article by Mark McNee</a>. <a href='https://en.wikipedia.org/wiki/Cornus_controversa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus controversa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25357,7 +25397,24 @@
         "alt": "cornus controversa variegata park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_controversa",
+      "https://species.wikimedia.org/wiki/Cornus_controversa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=896097#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-controversa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b993",
+      "https://www.vdberk.co.uk/trees/cornus-controversa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-controversa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-controversa",
+      "https://selectree.calpoly.edu/tree-detail/394",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+controversa",
+      "https://www.ebben.nl/nl/treeebb/cocontro-cornus-controversa",
+      "https://www.rhs.org.uk/plants/4387/cornus-controversa/details",
+      "https://www.gardenia.net/plant/cornus-controversa-variegata",
+      "https://www.rhs.org.uk/plants/113383/cornus-controversa-variegata-(v)/details",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=273803",
+      "https://www.ebben.nl/nl/treeebb/cocvarie-cornus-controversa-variegata"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25480,7 +25537,13 @@
         "alt": "cornus eddies white wonder young"
       }
     ],
-    "links": ["https://www.jfschmidt.com/articles/eddies_white/"]
+    "links": [
+      "https://www.jfschmidt.com/articles/eddies_white/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-eddies-white-wonder",
+      "https://www.rhs.org.uk/plants/94390/cornus-eddie-s-white-wonder/details",
+      "https://selectree.calpoly.edu/tree-detail/391",
+      "https://www.ebben.nl/nl/treeebb/coewwond-cornus-eddies-white-wonder"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25497,7 +25560,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25547,7 +25610,22 @@
         "alt": "cornus florida flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25564,7 +25642,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25614,7 +25692,23 @@
         "alt": "cornus florida andrea hart flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.rhs.org.uk/plants/191984/cornus-florida-andrea-hart/details"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25625,13 +25719,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Cherokee Chief",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "florida",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "rubra",
+        "cultivar": "Cherokee Chief"
+      }
+    ],
     "commonName": "Flowering Dogwood",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25685,7 +25789,27 @@
         "alt": "cornus florida cherokee chief flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.gardenia.net/plant/cornus-florida-cherokee-chief",
+      "https://www.vdberk.com/trees/cornus-florida-cherokee-chief/",
+      "https://www.rhs.org.uk/plants/95509/cornus-florida-cherokee-chief/details",
+      "https://www.citscihub.nz/Phil_Bendle_Collection:Cornus_florida_Cherokee_Chief",
+      "https://www.ebben.nl/en/treeebb/cofcchie-cornus-florida-cherokee-chief/"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25696,13 +25820,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Cherokee Daybreak",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "florida",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Daybreak"
+      }
+    ],
     "commonName": "Flowering Dogwood",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25772,7 +25906,26 @@
         "alt": "cornus florida cherokee daybreak new foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=274303&isprofile=0&",
+      "https://www.rhs.org.uk/plants/170776/cornus-florida-cherokee-daybreak/details",
+      "https://www.vdberk.co.uk/trees/cornus-florida-cherokee-daybreak-daybreak/",
+      "https://woodyplants.nres.uiuc.edu/plant/corflcd10"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25789,7 +25942,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25851,7 +26004,26 @@
         "alt": "cornus florida cherokee princess park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.rhs.org.uk/plants/95510/cornus-florida-cherokee-princess/details",
+      "https://www.kcarboretum.org/index.php/featured-collections/2-uncategorised/250-cornus-florida-cherokee-princess",
+      "http://plantmaster.com/plants/eplant.php?plantnum=2984",
+      "https://selectree.calpoly.edu/tree-detail/398"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25862,13 +26034,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Cherokee Sunset",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "florida",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Sunset"
+      }
+    ],
     "commonName": "Flowering Dogwood",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -25926,7 +26108,25 @@
         "alt": "cornus florida cherokee sunset new foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.gardenia.net/plant/cornus-florida-cherokee-sunset",
+      "https://www.rhs.org.uk/plants/179792/cornus-florida-cherokee-sunset/details",
+      "https://www.vdberk.co.uk/trees/cornus-florida-cherokee-sunset-sunset/"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -25943,7 +26143,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26005,7 +26205,25 @@
         "alt": "cornus florida cloud nine flowers"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=243971",
+      "https://www.vdberk.co.uk/trees/cornus-florida-cloud-nine/",
+      "https://www.rhs.org.uk/plants/71100/cornus-florida-cloud-nine/details"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26022,7 +26240,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26030,7 +26248,7 @@
     },
     "url": "cornus-florida-first-lady",
     "mainImage": "cornus-florida-first-lady/cornus-florida-first-lady.jpg",
-    "description": "Yellow-variegated foliage, large yet delicate white blooms in spring, and an excellent wide-spreading form. Extremely fussy, requires rich, well-drained acidic soil and adequate precipitation, best with some shelter. Purple and red autumn leaves.",
+    "description": "Yellow-variegated foliage, large yet delicate white blooms in spring, and an excellent wide-spreading form. Requires rich, well-drained acidic soil and adequate precipitation, best with some shelter. Purple and red autumn leaves.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -26072,7 +26290,25 @@
         "alt": "cornus florida first lady foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://edis.ifas.ufl.edu/publication/ST187",
+      "https://www.rhs.org.uk/plants/98577/cornus-florida-first-lady-(v)/details",
+      "https://selectree.calpoly.edu/tree-detail/400"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26089,7 +26325,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26139,7 +26375,22 @@
         "alt": "cornus florida old gold flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26156,7 +26407,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26214,7 +26465,25 @@
         "alt": "cornus florida pendula park"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.rhs.org.uk/plants/95701/cornus-florida-pendula/details",
+      "https://woodyplants.nres.uiuc.edu/plant/corflpe",
+      "https://selectree.calpoly.edu/tree-detail/401"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26231,7 +26500,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26281,7 +26550,25 @@
         "alt": "cornus florida purple glory new foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=243974",
+      "https://www.rhs.org.uk/plants/75219/cornus-florida-purple-glory/details",
+      "https://woodyplants.nres.uiuc.edu/plant/corflpg40"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26298,7 +26585,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26356,7 +26643,26 @@
         "alt": "cornus florida rainbow foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.rhs.org.uk/plants/223058/cornus-florida-rainbow-(v)/details",
+      "https://www.vdberk.co.uk/trees/cornus-florida-rainbow/",
+      "https://www.ebben.nl/en/treeebb/cofrainb-cornus-florida-rainbow/",
+      "https://selectree.calpoly.edu/tree-detail/403"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26367,13 +26673,23 @@
     "variety": "",
     "form": "",
     "cultivar": "Spring Song",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "florida",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "rubra",
+        "cultivar": "Spring Song"
+      }
+    ],
     "commonName": "Flowering Dogwood",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26423,7 +26739,23 @@
         "alt": "cornus florida spring song flower"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://www.rhs.org.uk/plants/53147/cornus-florida-f-rubra-spring-song/details"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26440,7 +26772,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26494,7 +26826,22 @@
         "alt": "cornus florida stokes pink new foliage"
       }
     ],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida"
+    ]
   },
   {
     "family": "Cornaceae",
@@ -26511,7 +26858,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species.",
+      "species": "<i>flōrida</i> (Latin, adjective), meaning 'blooming, flowery, florid', in reference to the beautiful and many flowers produced by this species. <a href='https://en.wikipedia.org/wiki/Cornus_florida' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus florida</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -26556,7 +26903,25 @@
     "treeShape": "images/icons/tree-shapes/cornus/cornus-general.svg",
     "relatedTrees": "",
     "images": [],
-    "links": []
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_florida",
+      "https://species.wikimedia.org/wiki/Cornus_florida",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=27806#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-florida/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338",
+      "https://www.vdberk.co.uk/trees/cornus-florida/",
+      "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-florida",
+      "https://selectree.calpoly.edu/tree-detail/396",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+florida",
+      "https://www.ebben.nl/nl/treeebb/coflorid-cornus-florida",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/12518852-babe-4a8e-abcc-a52aba0add76",
+      "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+      "https://www.gardenia.net/plant/cornus-florida",
+      "https://hort.ifas.ufl.edu/treesandpowerlines/cornus_florida_weavers_white.shtml",
+      "https://www.clemson.edu/cafls/demo/plant_profiles/cornus-florida-white-flowering-dogwood.html",
+      "https://www.rhs.org.uk/plants/195005/cornus-florida-weaver-s-white/details"
+    ]
   },
   {
     "family": "Cornaceae",
