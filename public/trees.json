@@ -16240,11 +16240,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-ariels-song/camellia-ariels-song-camellia-buds.jpeg",
+        "src": "images/trees/camellia-ariels-song/camellia-ariels-song-buds.jpeg",
         "alt": "camellia ariels song buds"
       },
       {
-        "src": "images/trees/camellia-ariels-song/camellia-ariels-song-camellia-foliage.jpeg",
+        "src": "images/trees/camellia-ariels-song/camellia-ariels-song-foliage.jpeg",
         "alt": "camellia ariels song foliage"
       }
     ],
@@ -16314,23 +16314,23 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-black-lace/camellia-black-lace-camellia-flower.jpeg",
+        "src": "images/trees/camellia-black-lace/camellia-black-lace-flower.jpeg",
         "alt": "camellia black lace flower"
       },
       {
-        "src": "images/trees/camellia-black-lace/camellia-black-lace-camellia-garden.jpg",
+        "src": "images/trees/camellia-black-lace/camellia-black-lace-garden.jpg",
         "alt": "camellia black lace garden"
       },
       {
-        "src": "images/trees/camellia-black-lace/camellia-black-lace-camellia-in-pot.jpg",
+        "src": "images/trees/camellia-black-lace/camellia-black-lace-in-pot.jpg",
         "alt": "camellia black lace in pot"
       },
       {
-        "src": "images/trees/camellia-black-lace/camellia-black-lace-camellia-leaf.jpg",
+        "src": "images/trees/camellia-black-lace/camellia-black-lace-leaf.jpg",
         "alt": "camellia black lace leaf"
       },
       {
-        "src": "images/trees/camellia-black-lace/camellia-black-lace-camellia-pathway.jpg",
+        "src": "images/trees/camellia-black-lace/camellia-black-lace-pathway.jpg",
         "alt": "camellia black lace pathway"
       }
     ],
@@ -16400,19 +16400,19 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-camellia-buds.jpeg",
+        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-buds.jpeg",
         "alt": "camellia cinnamon cindy buds"
       },
       {
-        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-camellia-flower.jpeg",
+        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-flower.jpeg",
         "alt": "camellia cinnamon cindy flower"
       },
       {
-        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-camellia-front-garden.jpg",
+        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-front-garden.jpg",
         "alt": "camellia cinnamon cindy front garden"
       },
       {
-        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-camellia-garden.jpg",
+        "src": "images/trees/camellia-cinnamon-cindy/camellia-cinnamon-cindy-garden.jpg",
         "alt": "camellia cinnamon cindy garden"
       }
     ],
@@ -16483,15 +16483,15 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-camellia-flowering-and-buds.jpg",
+        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-flowering-and-buds.jpg",
         "alt": "camellia fairy blush flowering and buds"
       },
       {
-        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-camellia-flowers-buds.jpg",
+        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-flowers-buds.jpg",
         "alt": "camellia fairy blush flowers buds"
       },
       {
-        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-camellia-mature-flower.jpg",
+        "src": "images/trees/camellia-fairy-blush/camellia-fairy-blush-mature-flower.jpg",
         "alt": "camellia fairy blush mature flower"
       }
     ],
@@ -16562,25 +16562,133 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-camellia-buds.jpeg",
+        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-buds.jpeg",
         "alt": "camellia high fragrance buds"
       },
       {
-        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-camellia-flowering.jpg",
+        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-flowering.jpg",
         "alt": "camellia high fragrance flowering"
       },
       {
-        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-camellia-in-pot.jpg",
+        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-in-pot.jpg",
         "alt": "camellia high fragrance in pot"
       },
       {
-        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-camellia-new-flower.jpeg",
+        "src": "images/trees/camellia-high-fragrance/camellia-high-fragrance-new-flower.jpeg",
         "alt": "camellia high fragrance new flower"
       }
     ],
     "links": [
       "https://camellia.iflora.cn/Cutivars/Detail?latin=High%20Fragrance",
       "https://www.rhs.org.uk/plants/228671/camellia-high-fragrance/details"
+    ]
+  },
+  {
+    "family": "Theaceae",
+    "genus": "Camellia",
+    "species": "japonica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Ave Maria",
+    "synonyms": [],
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia. <a href='https://en.wikipedia.org/wiki/Theaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Theaceae</i></a>.",
+      "genus": "<i>camellia</i> (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia. <a href='https://en.wikipedia.org/wiki/Camellia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i></a>.",
+      "species": "<i>jāpōnica</i> (Latin, adjective), meaning 'Japanese, of or relating to Japan', in reference to this species being first described by Engelbert Kaempfer (1651 - 1716) while he was in Japan. Carl Linnaeus (1707 - 1778) gave the specific epithet <i>japonica</i> to this species in 1753. In the wild, this species is not only found in Japan, but also in China, Taiwan, and Korea. <a href='https://en.wikipedia.org/wiki/Camellia_japonica' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia japonica</i></a>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "camellia-japonica-ave-maria",
+    "mainImage": "camellia-japonica-ave-maria/camellia-japonica-ave-maria.jpg",
+    "description": "Compact, upright shrub with pendant branches. Small to medium, double to peony flowers in a delicate shade of light-pink. Flowers from early-autumn to late-winter.",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink",
+      "winter": "pink",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-flower.jpg",
+        "alt": "camellia japonica ave maria flower"
+      },
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-flower-close.jpg",
+        "alt": "camellia japonica ave maria flower close"
+      },
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-flower-foliage.jpg",
+        "alt": "camellia japonica ave maria flower foliage"
+      },
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-mature-flower.jpg",
+        "alt": "camellia japonica ave maria mature flower"
+      },
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-open-flower.jpg",
+        "alt": "camellia japonica ave maria open flower"
+      },
+      {
+        "src": "images/trees/camellia-japonica-ave-maria/camellia-japonica-ave-maria-opening-flower.jpg",
+        "alt": "camellia japonica ave maria opening flower"
+      }
+    ],
+    "links": [
+      "https://camellia.iflora.cn/Cutivars/Detail?latin=Ave%20Maria",
+      "https://en.wikipedia.org/wiki/Camellia_japonica",
+      "https://www.gardenia.net/plant-variety/camellias-japonica",
+      "https://species.wikimedia.org/wiki/Camellia_japonica",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506117#null",
+      "https://treesandshrubsonline.org/articles/camellia/camellia-japonica/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287331",
+      "https://www.vdberk.co.uk/trees/camellia-japonica/",
+      "https://plants.ces.ncsu.edu/plants/camellia-japonica/",
+      "https://landscapeplants.oregonstate.edu/plants/camellia-japonica",
+      "https://selectree.calpoly.edu/tree-detail/1574",
+      "http://temperate.theferns.info/viewtropical.php?id=Camellia+japonica",
+      "https://www.ebben.nl/nl/treeebb/camjapon-camellia-japonica",
+      "https://www.nzpcn.org.nz/flora/species/camellia-japonica/",
+      "https://www.nzflora.info/factsheet/Taxon/Camellia-japonica.html",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/61715b72-4929-4d4d-80df-da0d7857dc0c",
+      "https://www.rhs.org.uk/plants/2845/camellia-japonica/details",
+      "https://www.rhs.org.uk/plants/57463/camellia-japonica-ave-maria/details",
+      "https://www.gardenia.net/plant/camellia-japonica-ave-maria",
+      "http://www.atlanticcoastcamelliasociety.org/Camelliae%20Floris%20Bibliotheca/CFB-search%20-%20Bloom%20Rankings.php?name=Ave%20Maria"
     ]
   },
   {
@@ -16737,7 +16845,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-kramers-beauty/camellia-japonica-kramers-beauty-camellia-tree.jpg",
+        "src": "images/trees/camellia-japonica-kramers-beauty/camellia-japonica-kramers-beauty-tree.jpg",
         "alt": "camellia japonica kramers beauty tree"
       }
     ],
@@ -16823,11 +16931,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-kramers-supreme/camellia-japonica-kramers-supreme-camellia-flower.jpg",
+        "src": "images/trees/camellia-japonica-kramers-supreme/camellia-japonica-kramers-supreme-flower.jpg",
         "alt": "camellia japonica kramers supreme flower"
       },
       {
-        "src": "images/trees/camellia-japonica-kramers-supreme/camellia-japonica-kramers-supreme-camellia-single-flower.jpg",
+        "src": "images/trees/camellia-japonica-kramers-supreme/camellia-japonica-kramers-supreme-single-flower.jpg",
         "alt": "camellia japonica kramers supreme single flower"
       }
     ],
@@ -16926,7 +17034,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-mark-alan/camellia-japonica-mark-alan-camellia-new-flower.jpeg",
+        "src": "images/trees/camellia-japonica-mark-alan/camellia-japonica-mark-alan-new-flower.jpeg",
         "alt": "camellia japonica mark alan new flower"
       }
     ],
@@ -17013,7 +17121,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-roger-hall/camellia-japonica-roger-hall-camellia-bush.jpg",
+        "src": "images/trees/camellia-japonica-roger-hall/camellia-japonica-roger-hall-bush.jpg",
         "alt": "camellia japonica roger hall bush"
       }
     ],
@@ -17099,7 +17207,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-takanini/camellia-japonica-takanini-camellia-bush.jpg",
+        "src": "images/trees/camellia-japonica-takanini/camellia-japonica-takanini-bush.jpg",
         "alt": "camellia japonica takanini bush"
       }
     ],
@@ -17187,11 +17295,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-japonica-tom-knudsen/camellia-japonica-tom-knudsen-camellia-bush.jpg",
+        "src": "images/trees/camellia-japonica-tom-knudsen/camellia-japonica-tom-knudsen-bush.jpg",
         "alt": "camellia japonica tom knudsen bush"
       },
       {
-        "src": "images/trees/camellia-japonica-tom-knudsen/camellia-japonica-tom-knudsen-camellia-flower.jpg",
+        "src": "images/trees/camellia-japonica-tom-knudsen/camellia-japonica-tom-knudsen-flower.jpg",
         "alt": "camellia japonica tom knudsen flower"
       }
     ],
@@ -17278,11 +17386,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-nicky-crisp/camellia-nicky-crisp-camellia-bud.jpeg",
+        "src": "images/trees/camellia-nicky-crisp/camellia-nicky-crisp-bud.jpeg",
         "alt": "camellia nicky crisp bud"
       },
       {
-        "src": "images/trees/camellia-nicky-crisp/camellia-nicky-crisp-camellia-bushes.jpg",
+        "src": "images/trees/camellia-nicky-crisp/camellia-nicky-crisp-bushes.jpg",
         "alt": "camellia nicky crisp bushes"
       }
     ],
@@ -17353,15 +17461,15 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-camellia-bush.jpg",
+        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-bush.jpg",
         "alt": "camellia ruby wedding bush"
       },
       {
-        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-camellia-flowering.jpg",
+        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-flowering.jpg",
         "alt": "camellia ruby wedding flowering"
       },
       {
-        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-camellia-single-flower.jpg",
+        "src": "images/trees/camellia-ruby-wedding/camellia-ruby-wedding-single-flower.jpg",
         "alt": "camellia ruby wedding single flower"
       }
     ],
@@ -17431,11 +17539,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-crimson-king/camellia-sasanqua-crimson-king-camellia-flower.jpg",
+        "src": "images/trees/camellia-sasanqua-crimson-king/camellia-sasanqua-crimson-king-flower.jpg",
         "alt": "camellia sasanqua crimson king flower"
       },
       {
-        "src": "images/trees/camellia-sasanqua-crimson-king/camellia-sasanqua-crimson-king-camellia-new-flower.jpg",
+        "src": "images/trees/camellia-sasanqua-crimson-king/camellia-sasanqua-crimson-king-new-flower.jpg",
         "alt": "camellia sasanqua crimson king new flower"
       }
     ],
@@ -17520,11 +17628,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-early-pearly/camellia-sasanqua-early-pearly-camellia-garden-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-early-pearly/camellia-sasanqua-early-pearly-garden-hedge.jpg",
         "alt": "camellia sasanqua early pearly garden hedge"
       },
       {
-        "src": "images/trees/camellia-sasanqua-early-pearly/camellia-sasanqua-early-pearly-camellia-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-early-pearly/camellia-sasanqua-early-pearly-hedge.jpg",
         "alt": "camellia sasanqua early pearly hedge"
       }
     ],
@@ -17646,7 +17754,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-mine-no-yuki/camellia-sasanqua-mine-no-yuki-camellia-bush.jpg",
+        "src": "images/trees/camellia-sasanqua-mine-no-yuki/camellia-sasanqua-mine-no-yuki-bush.jpg",
         "alt": "camellia sasanqua mine no yuki bush"
       }
     ],
@@ -17838,15 +17946,15 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-camellia-flower-bud.jpg",
+        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-flower-bud.jpg",
         "alt": "camellia sasanqua paradise blush flower bud"
       },
       {
-        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-camellia-hedge-corner.jpg",
+        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-hedge-corner.jpg",
         "alt": "camellia sasanqua paradise blush hedge corner"
       },
       {
-        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-camellia-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-paradise-blush/camellia-sasanqua-paradise-blush-hedge.jpg",
         "alt": "camellia sasanqua paradise blush hedge"
       }
     ],
@@ -18209,27 +18317,27 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-fence-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-fence-hedge.jpg",
         "alt": "camellia sasanqua setsugekka fence hedge"
       },
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-flowers-bee.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-flowers-bee.jpg",
         "alt": "camellia sasanqua setsugekka flowers bee"
       },
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-foliage.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-foliage.jpg",
         "alt": "camellia sasanqua setsugekka foliage"
       },
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-low-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-low-hedge.jpg",
         "alt": "camellia sasanqua setsugekka low hedge"
       },
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-new-growth.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-new-growth.jpg",
         "alt": "camellia sasanqua setsugekka new growth"
       },
       {
-        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-camellia-tall-hedge.jpg",
+        "src": "images/trees/camellia-sasanqua-setsugekka/camellia-sasanqua-setsugekka-tall-hedge.jpg",
         "alt": "camellia sasanqua setsugekka tall hedge"
       }
     ],
@@ -18314,27 +18422,27 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-bud.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-bud.jpg",
         "alt": "camellia sasanqua silver dollar bud"
       },
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-bush-nursery.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-bush-nursery.jpg",
         "alt": "camellia sasanqua silver dollar bush nursery"
       },
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-flower.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-flower.jpg",
         "alt": "camellia sasanqua silver dollar flower"
       },
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-foliage.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-foliage.jpg",
         "alt": "camellia sasanqua silver dollar foliage"
       },
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-new-bud.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-new-bud.jpg",
         "alt": "camellia sasanqua silver dollar new bud"
       },
       {
-        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-camellia-new-flower-bud.jpg",
+        "src": "images/trees/camellia-sasanqua-silver-dollar/camellia-sasanqua-silver-dollar-new-flower-bud.jpg",
         "alt": "camellia sasanqua silver dollar new flower bud"
       }
     ],
@@ -18494,23 +18602,23 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-camellia-buds.jpg",
+        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-buds.jpg",
         "alt": "camellia transnokoensis buds"
       },
       {
-        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-camellia-bush.jpg",
+        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-bush.jpg",
         "alt": "camellia transnokoensis bush"
       },
       {
-        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-camellia-flowers.jpg",
+        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-flowers.jpg",
         "alt": "camellia transnokoensis flowers"
       },
       {
-        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-camellia-foliage.jpg",
+        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-foliage.jpg",
         "alt": "camellia transnokoensis foliage"
       },
       {
-        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-camellia-garden.jpg",
+        "src": "images/trees/camellia-transnokoensis/camellia-transnokoensis-garden.jpg",
         "alt": "camellia transnokoensis garden"
       }
     ],
@@ -18755,15 +18863,15 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-camellia-bush.jpg",
+        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-bush.jpg",
         "alt": "camellia x vernalis yuletide bush"
       },
       {
-        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-camellia-garden.jpg",
+        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-garden.jpg",
         "alt": "camellia x vernalis yuletide garden"
       },
       {
-        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-camellia-in-pot.jpg",
+        "src": "images/trees/camellia-x-vernalis-yuletide/camellia-x-vernalis-yuletide-in-pot.jpg",
         "alt": "camellia x vernalis yuletide in pot"
       }
     ],
@@ -18838,11 +18946,11 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-x-williamsii-jurys-yellow/camellia-x-williamsii-jurys-yellow-camellia-foliage.jpeg",
+        "src": "images/trees/camellia-x-williamsii-jurys-yellow/camellia-x-williamsii-jurys-yellow-foliage.jpeg",
         "alt": "camellia x williamsii jurys yellow foliage"
       },
       {
-        "src": "images/trees/camellia-x-williamsii-jurys-yellow/camellia-x-williamsii-jurys-yellow-camellia-tree.jpg",
+        "src": "images/trees/camellia-x-williamsii-jurys-yellow/camellia-x-williamsii-jurys-yellow-tree.jpg",
         "alt": "camellia x williamsii jurys yellow tree"
       }
     ],
@@ -18918,7 +19026,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-x-williamsii-les-jury/camellia-x-williamsii-les-jury-camellia-park.jpg",
+        "src": "images/trees/camellia-x-williamsii-les-jury/camellia-x-williamsii-les-jury-park.jpg",
         "alt": "camellia x williamsii les jury park"
       }
     ],
@@ -19005,7 +19113,7 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/camellia-x-williamsii-super-star/camellia-x-williamsii-super-star-camellia-foliage.jpeg",
+        "src": "images/trees/camellia-x-williamsii-super-star/camellia-x-williamsii-super-star-foliage.jpeg",
         "alt": "camellia x williamsii super star foliage"
       }
     ],
@@ -27028,7 +27136,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27080,7 +27188,21 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood"
     ]
   },
   {
@@ -27098,7 +27220,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27150,7 +27272,23 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood",
+      "https://www.rhs.org.uk/plants/124265/cornus-kousa-beni-fuji/details",
+      "https://dawesarb.arboretumexplorer.org/taxon-21278.aspx"
     ]
   },
   {
@@ -27168,7 +27306,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27224,7 +27362,22 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood",
+      "https://www.rhs.org.uk/plants/108903/i-cornus-kousa-i-bonfire-(v)/details"
     ]
   },
   {
@@ -27236,13 +27389,23 @@
     "variety": "",
     "form": "",
     "cultivar": "China Girl",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "kousa",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "chinensis",
+        "form": "",
+        "cultivar": "China Girl"
+      }
+    ],
     "commonName": "Japanese Dogwood",
     "otherCommonNames": "Chinese Dogwood, Korean Dogwood",
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27310,7 +27473,25 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood",
+      "https://www.gardenia.net/plant/cornus-kousa-var-chinensis-china-girl",
+      "https://www.vdberk.com/trees/cornus-kousa-china-girl/",
+      "https://www.ebben.nl/en/treeebb/cokcgirl-cornus-kousa-china-girl/",
+      "https://www.rhs.org.uk/plants/53094/cornus-kousa-var-chinensis-china-girl/details"
     ]
   },
   {
@@ -27328,7 +27509,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27380,7 +27561,23 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood",
+      "https://www.rhs.org.uk/plants/150344/cornus-kousa-doubloon/details",
+      "https://thediary.caerhays.co.uk/june/12th-june/"
     ]
   },
   {
@@ -27398,7 +27595,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27454,7 +27651,22 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood",
+      "https://www.rhs.org.uk/plants/133748/cornus-kousa-elizabeth-lustgarten/details"
     ]
   },
   {
@@ -27472,7 +27684,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27532,7 +27744,21 @@
     ],
     "links": [
       "https://professorhedgehogsjournal.uk/2016/06/18/plant-of-the-month-june/",
-      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1"
+      "https://worldkigodatabase.blogspot.com/2005/04/dogwood-cornus-family.html?m=1",
+      "https://en.wikipedia.org/wiki/Cornus_kousa",
+      "https://species.wikimedia.org/wiki/Cornus_kousa",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507498#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-kousa/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279362",
+      "https://www.vdberk.co.uk/trees/cornus-kousa/",
+      "https://plants.ces.ncsu.edu/plants/cornus-kousa/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-kousa",
+      "https://selectree.calpoly.edu/tree-detail/409",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa",
+      "https://www.ebben.nl/nl/treeebb/cokousa-cornus-kousa",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/38c7daed-b07b-41b8-9552-3f43fe1b1a43",
+      "https://www.rhs.org.uk/plants/4391/cornus-kousa/details",
+      "https://www.gardenia.net/plant/cornus-kousa-kousa-dogwood"
     ]
   },
   {
@@ -27550,7 +27776,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27624,7 +27850,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27694,7 +27920,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27768,7 +27994,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -27850,7 +28076,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan.",
+      "species": "<i>kousa</i>, unknown meaning, first named by F. Buerger and then confirmed by the British diplomat Henry Fletcher Hance (1827 - 1886). The specific epithet is not the Japanese name for this species as many sources claim. The correct Japanese name for this species is <i>yamaboushi</i>, meaning 'mountain priest', in reference to the mound in the centre of the flower resembling the shaven head of a priest and the four white bracts that resemble the scarf worn by monk-soldiers on the ancient temple Enryaku-ji located on Mount Hiei, Japan. <a href='https://en.wikipedia.org/wiki/Cornus_kousa' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus kousa</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
