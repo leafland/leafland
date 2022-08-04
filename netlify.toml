@@ -27,6 +27,18 @@
 
 [[redirects]]
     force = true
+    from = "https://leafland.kiwi/*"
+    status = 301
+    to = "https://leafland.co.nz/:splat"
+
+[[redirects]]
+    force = true
+    from = "https://leafland.co/*"
+    status = 301
+    to = "https://leafland.co.nz/:splat"
+
+[[redirects]]
+    force = true
     from = "https://leafland.netlify.app/*"
     status = 301
     to = "https://leafland.co.nz/:splat"
