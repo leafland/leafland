@@ -206,7 +206,7 @@ function filterData() {
     if (stockSearchInput.value.length === 0) {
       for (let j = 0; j < stockData.length; j++) {
         for (let i = 0; i < compareArray.length; i++) {
-          if (stockData[j][11].toLowerCase().search(compareArray[i]) !== -1) {
+          if (stockData[j][12].toLowerCase().search(compareArray[i]) !== -1) {
             if (i === compareArray.length - 1) {
               if (hideFound) {
                 if (
@@ -269,7 +269,7 @@ function filterData() {
       filteredData = stockData.filter((data) => {
         for (let i = 0; i < compareArray.length; i++) {
           if (
-            data[11].toLowerCase().search(compareArray[i]) !== -1 &&
+            data[12].toLowerCase().search(compareArray[i]) !== -1 &&
             data[0] != undefined &&
             (data[0]
               .toLowerCase()
