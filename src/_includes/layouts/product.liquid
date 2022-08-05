@@ -878,6 +878,12 @@ type: product
 
                     {% endif %}
 
+
+                    {% if speciesNativeRange.size > 0 %}
+                    <p><span class="tree-information-heading">Species Native Range:</span> {{speciesNativeRange}}</p>
+                    {% endif %}
+
+
                     {% if tree.hybrid.size > 0 %}
 
                         {% if tree.hybrid contains ' x ' %}
@@ -928,6 +934,12 @@ type: product
 
                     {% endif %}
 
+
+                    {% if hybridOrigin.size > 0 %}
+                    <p><span class="tree-information-heading">Hybrid Origin:</span> {{hybridOrigin}}</p>
+                    {% endif %}
+
+
                     {% if tree.subspecies.size > 0 %}
 
                         {% if tree.nameBreakdown.subspecies.size > 0 %}
@@ -949,6 +961,12 @@ type: product
                         {% endif %}
 
                     {% endif %}
+
+
+                    {% if subspeciesNativeRange.size > 0 %}
+                    <p><span class="tree-information-heading">Subspecies Native Range:</span> {{subspeciesNativeRange}}</p>
+                    {% endif %}
+
 
                     {% if tree.variety.size > 0 %}
 
@@ -972,6 +990,12 @@ type: product
 
                     {% endif %}
 
+
+                    {% if varietyNativeRange.size > 0 %}
+                    <p><span class="tree-information-heading">Variety Native Range:</span> {{varietyNativeRange}}</p>
+                    {% endif %}
+
+
                     {% if tree.form.size > 0 %}
 
                         {% if tree.nameBreakdown.form.size > 0 %}
@@ -993,6 +1017,12 @@ type: product
                         {% endif %}
 
                     {% endif %}
+
+
+                    {% if formNativeRange.size > 0 %}
+                    <p><span class="tree-information-heading">Form Native Range:</span> {{formNativeRange}}</p>
+                    {% endif %}
+
 
                     {% if tree.cultivar.size > 0 %}
 
@@ -1035,6 +1065,12 @@ type: product
                     </div>
 
                     {% endif %}
+
+
+                    {% if cultivarOrigin.size > 0 %}
+                    <p><span class="tree-information-heading">Cultivar Origin:</span> {{cultivarOrigin}}</p>
+                    {% endif %}
+                
 
                     {% if tree.synonyms.size > 0 %}
 
