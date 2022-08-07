@@ -1,7 +1,6 @@
-/* main {
-  padding: 0;
-  margin-top: 0;
-} */
+main {
+  padding: 0 1rem 1rem 1rem;
+}
 
 main .button {
   font-size: var(--font-size-4);
@@ -34,13 +33,12 @@ main h3 {
 
 #hero {
   display: grid;
-  /* height: 750px; */
-  max-width: 80rem;
+  height: 750px;
   justify-self: center;
-  width: 100%;
-  background: var(--secondary-background);
-  border-radius: 8px;
-  padding: 2rem;
+  width: 100vw;
+  /* padding: 2rem; */
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 
 #hero > * {
@@ -49,9 +47,9 @@ main h3 {
 
 #surface-content {
   z-index: 2;
-  /* padding: 2rem; */
+  padding: 2rem;
   display: grid;
-  /* place-content: center; */
+  place-content: center;
   gap: 3rem;
 }
 
@@ -68,21 +66,13 @@ main h3 {
 }
 
 #hero-images {
-  display: none;
+  /* display: none; */
   filter: brightness(0.8);
 }
 
 #hero-images > * {
   grid-area: 1 / -1;
 }
-
-/* #image-2 {
-  opacity: 0;
-}
-
-#image-3 {
-  opacity: 0;
-} */
 
 .hero-image {
   transition: opacity 2s ease;
@@ -100,25 +90,25 @@ main h3 {
 }
 
 #hero-text h1 {
-  /* color: var(--secondary-background); */
+  color: var(--secondary-background);
   /* text-transform: uppercase; */
   font-weight: 900;
 }
 
 #hero-text .subtitle {
   /* text-transform: uppercase; */
-  /* background: var(--secondary-background); */
+  background: var(--secondary-background);
   display: inline-block;
   color: var(--brand-color);
-  /* border-radius: 8px; */
-  /* padding: 4px 8px; */
+  border-radius: 8px;
+  padding: 4px 8px;
   font-weight: 700;
-  /* margin-bottom: 0.5rem; */
+  margin-bottom: 0.5rem;
 }
 
 #hero .button {
-  /* color: var(--secondary-background);
-  border-color: var(--secondary-background); */
+  color: var(--secondary-background);
+  border-color: var(--secondary-background);
   text-align: left;
 }
 
@@ -211,6 +201,10 @@ main h3 {
   .split-section {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  main {
+    padding: 0 2rem 2rem 2rem;
+  }
 }
 
 /* @media (min-width: 1000px) {
@@ -240,8 +234,7 @@ main h3 {
     justify-self: center;
   }
 
-  .banner-section,
-  #hero {
+  .banner-section {
     padding: 3rem;
   }
 
