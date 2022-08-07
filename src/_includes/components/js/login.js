@@ -9,7 +9,7 @@ async function logIn(event) {
   document.querySelector("#log-in").value = "Logging in...";
 
   login = await fetch(
-    `https://api.leafland.co.nz/default/supabase-login?email=${event.target[0].value.toLowerCase()}`
+    `https://api.leafland.co.nz/default/website-login?email=${event.target[0].value.toLowerCase()}`
   )
     .then((response) => response.text())
     .catch((error) => {});
