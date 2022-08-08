@@ -183,6 +183,11 @@ main h3 {
   padding: 2rem;
 }
 
+.reproduction {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
 #grid-content-bottom {
   display: grid;
   gap: 2rem;
@@ -921,6 +926,10 @@ body.loggedIn .retail-price {
 
   #grid-content-middle {
     grid-template-columns: 1fr 300px;
+  }
+
+  .reproduction {
+    grid-column-end: 3;
   }
   /* #tree-info {
     grid-column-end: 3;

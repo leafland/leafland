@@ -316,6 +316,26 @@ type: product
 
     <div id="grid-content-middle">
 
+        {% if tree.reproduction.size > 0 %}
+
+            {% if tree.reproduction == 'monoecious' %}
+
+            <p class="reproduction"><span class="tree-information-heading">Reproduction:</span> Monoecious, male and female flowers on the same tree.</p>
+
+            {% elsif tree.reproduction == 'dioecious' %}
+
+            <p class="reproduction"><span class="tree-information-heading">Reproduction:</span> Dioecious, male and female flowers on separate trees.</p>
+
+            {% elsif tree.reproduction == 'hermaphroditic' %}
+
+            <p class="reproduction"><span class="tree-information-heading">Reproduction:</span> Hermaphroditic, single flowers with both fully functional male and female parts on the same tree (also known as cosexual and perfect flowers).</p>
+
+            {% else %}
+
+            {% endif %}
+
+        {% endif %}
+
         <div id="features-table">
 
             <table>

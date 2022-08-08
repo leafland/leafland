@@ -36,6 +36,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -136,6 +137,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "hermaphroditic",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -232,6 +234,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "hermaphroditic",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -315,6 +318,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "hermaphroditic",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -399,6 +403,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "hermaphroditic",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -518,6 +523,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -612,6 +618,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -692,6 +699,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "10m",
     "width": "7m",
     "stem": {
@@ -799,6 +807,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -894,6 +903,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -996,6 +1006,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -1110,6 +1121,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -1193,6 +1205,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -1294,6 +1307,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -1367,6 +1381,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -1478,6 +1493,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -1585,6 +1601,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -1674,6 +1691,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "dioecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -1786,6 +1804,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "dioecious",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -1891,6 +1910,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "dioecious",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -2007,6 +2027,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "dioecious",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -2099,6 +2120,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -2231,6 +2253,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -2338,6 +2361,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -2435,6 +2459,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -2524,6 +2549,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -2640,6 +2666,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -2743,6 +2770,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -2845,6 +2873,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -2953,6 +2982,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -3055,6 +3085,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -3149,6 +3180,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -3253,6 +3285,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -3365,6 +3398,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -3468,6 +3502,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -3567,6 +3602,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -3710,6 +3746,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -3820,6 +3857,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -3925,6 +3963,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -4082,6 +4121,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -4201,6 +4241,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -4318,6 +4359,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -4427,6 +4469,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -4528,6 +4571,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -4645,6 +4689,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -4749,6 +4794,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -4862,6 +4908,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -4965,6 +5012,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -5080,6 +5128,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -5192,6 +5241,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -5290,6 +5340,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -5378,6 +5429,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -5499,6 +5551,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -5601,6 +5654,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -5699,6 +5753,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -5809,6 +5864,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -5905,6 +5961,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6017,6 +6074,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -6113,6 +6171,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6213,6 +6272,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6313,6 +6373,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6426,6 +6487,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6518,6 +6580,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -6618,6 +6681,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -6722,6 +6786,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6825,6 +6890,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "monoecious",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -6927,6 +6993,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -7039,6 +7106,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -7127,6 +7195,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -7232,6 +7301,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -7338,6 +7408,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -7494,6 +7565,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -7610,6 +7682,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -7741,6 +7814,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -7857,6 +7931,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -7979,6 +8054,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "6m",
     "stem": {
@@ -8086,6 +8162,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -8183,6 +8260,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -8333,6 +8411,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -8479,6 +8558,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -8606,6 +8686,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -8739,6 +8820,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -8868,6 +8950,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -9019,6 +9102,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -9175,6 +9259,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -9303,6 +9388,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -9403,6 +9489,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -9510,6 +9597,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -9617,6 +9705,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -9706,6 +9795,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -9800,6 +9890,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -9906,6 +9997,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -10023,6 +10115,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -10134,6 +10227,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -10231,6 +10325,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -10325,6 +10420,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -10426,6 +10522,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -10533,6 +10630,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -10612,6 +10710,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -10723,6 +10822,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -10823,6 +10923,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -10914,6 +11015,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -11030,6 +11132,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -11205,6 +11308,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -11360,6 +11464,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -11455,6 +11560,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -11575,6 +11681,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -11708,6 +11815,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -11822,6 +11930,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -11913,6 +12022,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -12004,6 +12114,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -12101,6 +12212,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -12182,6 +12294,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -12281,6 +12394,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -12391,6 +12505,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -12517,6 +12632,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -12635,6 +12751,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -12748,6 +12865,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -12843,6 +12961,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -12968,6 +13087,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -13081,6 +13201,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -13170,6 +13291,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -13257,6 +13379,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -13363,6 +13486,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -13479,6 +13603,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -13573,6 +13698,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -13666,6 +13792,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "0.5m",
     "stem": {
@@ -13783,6 +13910,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -13888,6 +14016,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -13972,6 +14101,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -14060,6 +14190,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -14174,6 +14305,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -14269,6 +14401,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -14379,6 +14512,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -14481,6 +14615,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -14596,6 +14731,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -14692,6 +14828,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -14799,6 +14936,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -14906,6 +15044,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -15040,6 +15179,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -15144,6 +15284,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -15261,6 +15402,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -15398,6 +15540,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -15511,6 +15654,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -15638,6 +15782,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -15735,6 +15880,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -15836,6 +15982,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -15951,6 +16098,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -16067,6 +16215,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -16168,6 +16317,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -16270,6 +16420,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -16376,6 +16527,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -16449,6 +16601,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -16526,6 +16679,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -16628,6 +16782,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -16724,6 +16879,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -16863,6 +17019,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -16975,6 +17132,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -17071,6 +17229,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -17180,6 +17339,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -17260,6 +17420,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17352,6 +17513,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17441,6 +17603,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -17526,6 +17689,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1.5m",
     "stem": {
@@ -17603,6 +17767,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17691,6 +17856,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17815,6 +17981,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17904,6 +18071,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -17996,6 +18164,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18105,6 +18274,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18198,6 +18368,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18290,6 +18461,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18384,6 +18556,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18481,6 +18654,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -18562,6 +18736,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -18646,6 +18821,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18741,6 +18917,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -18873,6 +19050,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -18993,6 +19171,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -19077,6 +19256,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -19186,6 +19366,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -19272,6 +19453,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -19359,6 +19541,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -19472,6 +19655,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -19583,6 +19767,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -19693,6 +19878,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -19775,6 +19961,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -19872,6 +20059,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -19980,6 +20168,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -20054,6 +20243,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -20143,6 +20333,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -20229,6 +20420,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -20322,6 +20514,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -20414,6 +20607,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -20497,6 +20691,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -20613,6 +20808,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -20736,6 +20932,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -20820,6 +21017,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -20918,6 +21116,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "7m",
     "stem": {
@@ -21017,6 +21216,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -21138,6 +21338,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -21243,6 +21444,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -21355,6 +21557,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -21489,6 +21692,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -21624,6 +21828,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer, weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -21757,6 +21962,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -21871,6 +22077,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -21966,6 +22173,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -22093,6 +22301,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -22235,6 +22444,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -22412,6 +22622,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -22521,6 +22732,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -22629,6 +22841,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -22730,6 +22943,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -22831,6 +23045,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -22943,6 +23158,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -23052,6 +23268,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -23138,6 +23355,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -23268,6 +23486,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -23357,6 +23576,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -23457,6 +23677,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -23566,6 +23787,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -23668,6 +23890,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "7m",
     "stem": {
@@ -23768,6 +23991,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -23856,6 +24080,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -23935,6 +24160,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -24016,6 +24242,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -24105,6 +24332,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -24192,6 +24420,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -24275,6 +24504,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -24353,6 +24583,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -24449,6 +24680,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -24547,6 +24779,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -24638,6 +24871,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -24724,6 +24958,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -24807,6 +25042,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -24895,6 +25131,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -24978,6 +25215,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -25062,6 +25300,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -25147,6 +25386,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -25231,6 +25471,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -25312,6 +25553,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -25407,6 +25649,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -25503,6 +25746,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -25589,6 +25833,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -25666,6 +25911,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "2m",
     "stem": {
@@ -25744,6 +25990,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -25827,6 +26074,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -25906,6 +26154,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "2m",
     "stem": {
@@ -25986,6 +26235,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -26068,6 +26318,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -26168,6 +26419,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -26253,6 +26505,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -26352,6 +26605,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -26440,6 +26694,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -26529,6 +26784,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -26629,6 +26885,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -26729,6 +26986,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -26833,6 +27091,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -26930,6 +27189,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -27021,6 +27281,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -27119,6 +27380,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -27209,6 +27471,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -27307,6 +27570,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -27442,6 +27706,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -27530,6 +27795,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -27629,6 +27895,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -27736,6 +28003,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -27848,6 +28116,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -27962,6 +28231,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -28061,6 +28331,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -28164,6 +28435,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -28255,6 +28527,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -28343,6 +28616,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -28442,6 +28716,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -28533,6 +28808,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -28643,6 +28919,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -28732,6 +29009,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -28824,6 +29102,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -28910,6 +29189,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29006,6 +29286,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29096,6 +29377,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -29188,6 +29470,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29293,6 +29576,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29403,6 +29687,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29495,6 +29780,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -29590,6 +29876,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -29688,6 +29975,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -29768,6 +30056,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -29844,6 +30133,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -29924,6 +30214,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -30012,6 +30303,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -30096,6 +30388,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -30183,6 +30476,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -30274,6 +30568,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -30361,6 +30656,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -30453,6 +30749,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -30545,6 +30842,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -30637,6 +30935,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -30733,6 +31032,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -30825,6 +31125,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -30929,6 +31230,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -31021,6 +31323,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -31094,6 +31397,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -31167,6 +31471,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -31240,6 +31545,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -31331,6 +31637,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -31424,6 +31731,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -31529,6 +31837,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -31620,6 +31929,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -31711,6 +32021,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -31792,6 +32103,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -31895,6 +32207,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -31978,6 +32291,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -32105,6 +32419,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -32200,6 +32515,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -32299,6 +32615,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -32376,6 +32693,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -32461,6 +32779,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -32556,6 +32875,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -32647,6 +32967,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -32769,6 +33090,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -32896,6 +33218,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -33019,6 +33342,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -33134,6 +33458,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -33212,6 +33537,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -33295,6 +33621,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "2m",
     "stem": {
@@ -33396,6 +33723,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -33469,6 +33797,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "4m",
     "width": "1m",
     "stem": {
@@ -33562,6 +33891,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -33643,6 +33973,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -33746,6 +34077,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -33833,6 +34165,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -33932,6 +34265,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -34019,6 +34353,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -34096,6 +34431,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -34177,6 +34513,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -34258,6 +34595,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -34343,6 +34681,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -34424,6 +34763,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -34505,6 +34845,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -34590,6 +34931,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -34679,6 +35021,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -34760,6 +35103,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -34845,6 +35189,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -34930,6 +35275,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -35011,6 +35357,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -35119,6 +35466,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -35206,6 +35554,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -35297,6 +35646,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -35382,6 +35732,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -35467,6 +35818,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -35535,6 +35887,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -35628,6 +35981,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -35705,6 +36059,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -35773,6 +36128,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -35850,6 +36206,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -35935,6 +36292,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -36020,6 +36378,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -36097,6 +36456,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -36178,6 +36538,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -36267,6 +36628,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -36356,6 +36718,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -36433,6 +36796,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -36514,6 +36878,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -36613,6 +36978,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "4m",
     "stem": {
@@ -36694,6 +37060,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -36779,6 +37146,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -36868,6 +37236,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -36953,6 +37322,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -37034,6 +37404,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -37119,6 +37490,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -37192,6 +37564,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -37269,6 +37642,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -37361,6 +37735,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -37461,6 +37836,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -37553,6 +37929,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -37649,6 +38026,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -37741,6 +38119,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -37833,6 +38212,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -37925,6 +38305,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -38025,6 +38406,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -38125,6 +38507,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -38221,6 +38604,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -38317,6 +38701,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -38413,6 +38798,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -38509,6 +38895,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -38586,6 +38973,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -38667,6 +39055,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -38744,6 +39133,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -38821,6 +39211,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -38894,6 +39285,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -38967,6 +39359,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -39045,6 +39438,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -39118,6 +39512,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -39191,6 +39586,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -39283,6 +39679,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -39432,6 +39829,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -39525,6 +39923,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -39646,6 +40045,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -39763,6 +40163,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -39860,6 +40261,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -39963,6 +40365,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -40076,6 +40479,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -40209,6 +40613,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -40324,6 +40729,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -40441,6 +40847,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -40532,6 +40939,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -40617,6 +41025,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -40710,6 +41119,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -40795,6 +41205,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -40870,6 +41281,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -40947,6 +41359,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -41032,6 +41445,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -41177,6 +41591,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -41294,6 +41709,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer, upright",
+    "reproduction": "",
     "height": "7m",
     "width": "3m",
     "stem": {
@@ -41439,6 +41855,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -41560,6 +41977,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer, weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -41665,6 +42083,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -41782,6 +42201,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer, weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -41911,6 +42331,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "7m",
     "width": "4m",
     "stem": {
@@ -42016,6 +42437,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -42097,6 +42519,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -42170,6 +42593,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -42251,6 +42675,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -42328,6 +42753,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -42419,6 +42845,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -42496,6 +42923,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -42564,6 +42992,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -42637,6 +43066,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -42714,6 +43144,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -42811,6 +43242,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -42891,6 +43323,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -42971,6 +43404,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43042,6 +43476,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43126,6 +43561,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43206,6 +43642,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -43282,6 +43719,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43353,6 +43791,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43429,6 +43868,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43505,6 +43945,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -43582,6 +44023,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -43659,6 +44101,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -43752,6 +44195,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -43833,6 +44277,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43910,6 +44355,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -43978,6 +44424,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -44055,6 +44502,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -44132,6 +44580,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -44200,6 +44649,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -44293,6 +44743,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -44382,6 +44833,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -44459,6 +44911,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -44544,6 +44997,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -44633,6 +45087,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -44710,6 +45165,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -44795,6 +45251,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -44868,6 +45325,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -44997,6 +45455,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -45082,6 +45541,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -45150,6 +45610,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -45223,6 +45684,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -45291,6 +45753,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -45359,6 +45822,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -45452,6 +45916,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -45545,6 +46010,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "4m",
     "stem": {
@@ -45626,6 +46092,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -45731,6 +46198,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -45816,6 +46284,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -45901,6 +46370,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -46000,6 +46470,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -46089,6 +46560,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46182,6 +46654,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46279,6 +46752,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46386,6 +46860,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46495,6 +46970,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46592,6 +47068,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46660,6 +47137,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46765,6 +47243,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46870,6 +47349,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -46947,6 +47427,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "0.5m",
     "stem": {
@@ -47020,6 +47501,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -47088,6 +47570,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -47173,6 +47656,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -47258,6 +47742,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -47331,6 +47816,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -47416,6 +47902,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -47493,6 +47980,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -47580,6 +48068,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -47657,6 +48146,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -47746,6 +48236,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -47831,6 +48322,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -47904,6 +48396,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -47981,6 +48474,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48049,6 +48543,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -48122,6 +48617,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48190,6 +48686,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48267,6 +48764,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48344,6 +48842,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48425,6 +48924,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -48510,6 +49010,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -48643,6 +49144,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -48711,6 +49213,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -48779,6 +49282,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -48852,6 +49356,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -48941,6 +49446,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -49026,6 +49532,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -49099,6 +49606,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -49180,6 +49688,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -49248,6 +49757,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -49349,6 +49859,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -49438,6 +49949,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -49543,6 +50055,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -49639,6 +50152,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -49744,6 +50258,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -49837,6 +50352,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "3m",
     "stem": {
@@ -49914,6 +50430,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -50017,6 +50534,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -50092,6 +50610,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -50193,6 +50712,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -50268,6 +50788,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -50343,6 +50864,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -50430,6 +50952,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -50503,6 +51026,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -50588,6 +51112,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -50656,6 +51181,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -50784,6 +51310,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -50860,6 +51387,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -50947,6 +51475,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -51052,6 +51581,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -51152,6 +51682,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -51236,6 +51767,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -51330,6 +51862,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -51435,6 +51968,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -51539,6 +52073,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -51631,6 +52166,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -51704,6 +52240,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "7m",
     "stem": {
@@ -51785,6 +52322,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -51868,6 +52406,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -51940,6 +52479,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -52013,6 +52553,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -52089,6 +52630,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -52189,6 +52731,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -52286,6 +52829,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -52371,6 +52915,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -52458,6 +53003,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -52567,6 +53113,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -52655,6 +53202,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -52751,6 +53299,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -52835,6 +53384,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -52919,6 +53469,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -53012,6 +53563,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -53097,6 +53649,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -53170,6 +53723,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -53255,6 +53809,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -53360,6 +53915,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -53445,6 +54001,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -53530,6 +54087,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -53619,6 +54177,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -53725,6 +54284,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -53808,6 +54368,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -53885,6 +54446,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -53961,6 +54523,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -54051,6 +54614,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -54127,6 +54691,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -54208,6 +54773,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -54289,6 +54855,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -54386,6 +54953,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -54471,6 +55039,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -54556,6 +55125,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -54627,6 +55197,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -54703,6 +55274,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -54783,6 +55355,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -54864,6 +55437,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -54935,6 +55509,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -55008,6 +55583,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -55098,6 +55674,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -55169,6 +55746,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -55237,6 +55815,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -55317,6 +55896,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55410,6 +55990,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55491,6 +56072,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55580,6 +56162,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -55660,6 +56243,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55749,6 +56333,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55850,6 +56435,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -55927,6 +56513,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -55998,6 +56585,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -56082,6 +56670,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56163,6 +56752,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56244,6 +56834,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56325,6 +56916,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56402,6 +56994,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56470,6 +57063,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56551,6 +57145,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -56628,6 +57223,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -56701,6 +57297,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -56793,6 +57390,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -56877,6 +57475,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -56953,6 +57552,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -57024,6 +57624,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -57095,6 +57696,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -57175,6 +57777,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -57248,6 +57851,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -57332,6 +57936,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -57403,6 +58008,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -57487,6 +58093,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -57568,6 +58175,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -57657,6 +58265,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "0.5m",
     "stem": {
@@ -57730,6 +58339,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -57803,6 +58413,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -57876,6 +58487,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -57953,6 +58565,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58026,6 +58639,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58099,6 +58713,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58176,6 +58791,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58249,6 +58865,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58322,6 +58939,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58395,6 +59013,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58468,6 +59087,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58545,6 +59165,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58618,6 +59239,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58695,6 +59317,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58776,6 +59399,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58857,6 +59481,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -58930,6 +59555,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -59007,6 +59633,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -59080,6 +59707,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible, weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59212,6 +59840,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59301,6 +59930,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59374,6 +60004,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "0.5m",
     "stem": {
@@ -59455,6 +60086,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59540,6 +60172,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59636,6 +60269,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -59725,6 +60359,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -59808,6 +60443,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59881,6 +60517,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -59958,6 +60595,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -60031,6 +60669,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -60099,6 +60738,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -60177,6 +60817,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -60254,6 +60895,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -60331,6 +60973,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -60408,6 +61051,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -60485,6 +61129,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -60562,6 +61207,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -60651,6 +61297,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "7m",
     "width": "4m",
     "stem": {
@@ -60754,6 +61401,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -60835,6 +61483,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -60908,6 +61557,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -60993,6 +61643,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -61066,6 +61717,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -61134,6 +61786,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -61207,6 +61860,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -61284,6 +61938,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -61403,6 +62058,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -61488,6 +62144,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -61561,6 +62218,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "8m",
     "stem": {
@@ -61668,6 +62326,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "8m",
     "stem": {
@@ -61751,6 +62410,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -61838,6 +62498,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -61929,6 +62590,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -62016,6 +62678,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -62113,6 +62776,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -62204,6 +62868,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -62291,6 +62956,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -62370,6 +63036,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -62457,6 +63124,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -62555,6 +63223,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -62642,6 +63311,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -62737,6 +63407,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -62818,6 +63489,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -62899,6 +63571,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -62984,6 +63657,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -63061,6 +63735,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -63142,6 +63817,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -63235,6 +63911,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -63312,6 +63989,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -63417,6 +64095,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63502,6 +64181,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63579,6 +64259,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63664,6 +64345,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63732,6 +64414,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63809,6 +64492,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -63886,6 +64570,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -63967,6 +64652,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64040,6 +64726,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64108,6 +64795,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64185,6 +64873,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64266,6 +64955,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -64334,6 +65024,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64415,6 +65106,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible, weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -64512,6 +65204,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "7m",
     "width": "6m",
     "stem": {
@@ -64593,6 +65286,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -64666,6 +65360,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -64739,6 +65434,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -64816,6 +65512,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -64889,6 +65586,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -64962,6 +65660,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "toxic-to-animals",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -65047,6 +65746,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -65115,6 +65815,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -65192,6 +65893,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -65281,6 +65983,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -65418,6 +66121,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -65503,6 +66207,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -65586,6 +66291,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "4m",
     "stem": {
@@ -65679,6 +66385,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -65764,6 +66471,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -65832,6 +66540,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -65917,6 +66626,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -65990,6 +66700,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66071,6 +66782,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66152,6 +66864,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66229,6 +66942,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66306,6 +67020,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66374,6 +67089,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66459,6 +67175,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66536,6 +67253,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66609,6 +67327,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -66694,6 +67413,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -66785,6 +67505,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -66858,6 +67579,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -67027,6 +67749,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -67128,6 +67851,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -67225,6 +67949,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -67310,6 +68035,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -67413,6 +68139,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -67500,6 +68227,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -67568,6 +68296,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -67641,6 +68370,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -67742,6 +68472,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -67815,6 +68546,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -67888,6 +68620,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -67981,6 +68714,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -68066,6 +68800,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -68151,6 +68886,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -68236,6 +68972,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -68333,6 +69070,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -68422,6 +69160,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -68507,6 +69246,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer, edible",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -68612,6 +69352,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -68721,6 +69462,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -68802,6 +69544,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -68887,6 +69630,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -68960,6 +69704,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69041,6 +69786,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69114,6 +69860,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69191,6 +69938,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "0.5m",
     "stem": {
@@ -69274,6 +70022,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "0.5m",
     "stem": {
@@ -69351,6 +70100,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69424,6 +70174,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69497,6 +70248,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "1m",
     "stem": {
@@ -69574,6 +70326,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "0.5m",
     "stem": {
@@ -69647,6 +70400,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "0.5m",
     "width": "0.5m",
     "stem": {
@@ -69720,6 +70474,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69793,6 +70548,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69866,6 +70622,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -69943,6 +70700,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70016,6 +70774,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70089,6 +70848,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -70170,6 +70930,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70247,6 +71008,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "1m",
     "width": "1m",
     "stem": {
@@ -70315,6 +71077,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70392,6 +71155,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70465,6 +71229,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70542,6 +71307,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -70619,6 +71385,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -70700,6 +71467,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -70773,6 +71541,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -70860,6 +71629,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -70971,6 +71741,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -71049,6 +71820,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71117,6 +71889,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71230,6 +72003,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71303,6 +72077,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71376,6 +72151,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71453,6 +72229,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71530,6 +72307,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -71621,6 +72399,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -71718,6 +72497,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -71830,6 +72610,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -71911,6 +72692,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -72000,6 +72782,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -72081,6 +72864,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -72158,6 +72942,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -72251,6 +73036,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -72332,6 +73118,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -72413,6 +73200,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -72486,6 +73274,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "10m",
     "width": "3m",
     "stem": {
@@ -72575,6 +73364,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "10m",
     "width": "3m",
     "stem": {
@@ -72670,6 +73460,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -72747,6 +73538,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -72832,6 +73624,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -72969,6 +73762,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73042,6 +73836,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73115,6 +73910,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73188,6 +73984,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73261,6 +74058,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -73334,6 +74132,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73407,6 +74206,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73480,6 +74280,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73553,6 +74354,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73630,6 +74432,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73698,6 +74501,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -73831,6 +74635,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -73956,6 +74761,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -74024,6 +74830,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -74145,6 +74952,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -74266,6 +75074,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -74367,6 +75176,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -74512,6 +75322,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -74580,6 +75391,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -74671,6 +75483,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -74751,6 +75564,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -74846,6 +75660,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -74945,6 +75760,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "2m",
     "stem": {
@@ -75018,6 +75834,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "",
     "width": "",
     "stem": {
@@ -75119,6 +75936,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -75220,6 +76038,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75329,6 +76148,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75446,6 +76266,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75523,6 +76344,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75600,6 +76422,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75677,6 +76500,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75750,6 +76574,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75818,6 +76643,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75886,6 +76712,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -75959,6 +76786,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76040,6 +76868,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76108,6 +76937,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76189,6 +77019,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76266,6 +77097,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76357,6 +77189,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76436,6 +77269,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76521,6 +77355,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76591,6 +77426,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76661,6 +77497,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76750,6 +77587,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76820,6 +77658,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76890,6 +77729,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -76967,6 +77807,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -77054,6 +77895,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -77124,6 +77966,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -77192,6 +78035,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -77262,6 +78106,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "ornamental-bark",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -77411,6 +78256,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "6m",
     "width": "2m",
     "stem": {
@@ -77542,6 +78388,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -77651,6 +78498,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "7m",
     "width": "5m",
     "stem": {
@@ -77808,6 +78656,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -77933,6 +78782,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -78025,6 +78875,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -78180,6 +79031,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -78325,6 +79177,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -78466,6 +79319,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -78611,6 +79465,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -78740,6 +79595,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -78853,6 +79709,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -78921,6 +79778,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -79054,6 +79912,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -79151,6 +80010,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -79276,6 +80136,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -79373,6 +80234,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -79506,6 +80368,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "8m",
     "width": "7m",
     "stem": {
@@ -79615,6 +80478,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -79716,6 +80580,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -79797,6 +80662,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -79874,6 +80740,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -79942,6 +80809,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -80019,6 +80887,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80096,6 +80965,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80177,6 +81047,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80250,6 +81121,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -80327,6 +81199,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -80404,6 +81277,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80472,6 +81346,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80545,6 +81420,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80618,6 +81494,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80695,6 +81572,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -80768,6 +81646,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80841,6 +81720,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -80914,6 +81794,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -80987,6 +81868,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -81064,6 +81946,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -81151,6 +82034,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -81228,6 +82112,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -81321,6 +82206,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -81426,6 +82312,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -81531,6 +82418,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -81644,6 +82532,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -81737,6 +82626,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -81810,6 +82700,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "",
     "width": "",
     "stem": {
@@ -81887,6 +82778,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -81955,6 +82847,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82040,6 +82933,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82117,6 +83011,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82190,6 +83085,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82267,6 +83163,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82335,6 +83232,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82412,6 +83310,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "edible",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -82501,6 +83400,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -82598,6 +83498,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -82666,6 +83567,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "8m",
     "stem": {
@@ -82747,6 +83649,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -82848,6 +83751,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -82929,6 +83833,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83022,6 +83927,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83119,6 +84025,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83204,6 +84111,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83313,6 +84221,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83386,6 +84295,7 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83463,6 +84373,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -83620,6 +84531,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83705,6 +84617,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -83818,6 +84731,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -83911,6 +84825,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -84004,6 +84919,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "6m",
     "stem": {
@@ -84097,6 +85013,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -84174,6 +85091,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -84263,6 +85181,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -84340,6 +85259,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -84417,6 +85337,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -84498,6 +85419,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -84583,6 +85505,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -84656,6 +85579,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -84741,6 +85665,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -84809,6 +85734,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -84902,6 +85828,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -85015,6 +85942,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -85100,6 +86028,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "6m",
     "stem": {
@@ -85181,6 +86110,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "8m",
     "width": "8m",
     "stem": {
@@ -85270,6 +86200,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -85355,6 +86286,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "2m",
     "width": "1m",
     "stem": {
@@ -85436,6 +86368,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -85525,6 +86458,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "6m",
     "width": "3m",
     "stem": {
@@ -85598,6 +86532,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -85687,6 +86622,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -85768,6 +86704,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -85853,6 +86790,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -85930,6 +86868,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -86003,6 +86942,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -86080,6 +87020,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "6m",
     "stem": {
@@ -86169,6 +87110,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -86246,6 +87188,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -86319,6 +87262,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -86404,6 +87348,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -86505,6 +87450,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "4m",
     "stem": {
@@ -86594,6 +87540,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -86675,6 +87622,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -86756,6 +87704,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -86849,6 +87798,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "4m",
     "stem": {
@@ -86917,6 +87867,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -87006,6 +87957,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -87095,6 +88047,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -87180,6 +88133,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -87281,6 +88235,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -87366,6 +88321,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -87447,6 +88403,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "4m",
     "stem": {
@@ -87520,6 +88477,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "upright",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -87588,6 +88546,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "5m",
     "width": "2m",
     "stem": {
@@ -87685,6 +88644,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "3m",
     "width": "1m",
     "stem": {
@@ -87790,6 +88750,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -87875,6 +88836,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -87943,6 +88905,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -88032,6 +88995,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -88121,6 +89085,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -88202,6 +89167,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -88283,6 +89249,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -88351,6 +89318,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "5m",
     "stem": {
@@ -88419,6 +89387,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -88508,6 +89477,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "6m",
     "stem": {
@@ -88585,6 +89555,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -88678,6 +89649,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "3m",
     "width": "3m",
     "stem": {
@@ -88746,6 +89718,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -88839,6 +89812,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -88932,6 +89906,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "weeping",
+    "reproduction": "",
     "height": "5m",
     "width": "5m",
     "stem": {
@@ -89009,6 +89984,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -89086,6 +90062,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "5m",
     "width": "3m",
     "stem": {
@@ -89171,6 +90148,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "10m",
     "width": "4m",
     "stem": {
@@ -89264,6 +90242,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -89413,6 +90392,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "6m",
     "width": "5m",
     "stem": {
@@ -89524,6 +90504,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "3m",
     "width": "2m",
     "stem": {
@@ -89605,6 +90586,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "2m",
     "width": "2m",
     "stem": {
@@ -89682,6 +90664,7 @@
     "winterFoliage": "evergreen",
     "origin": "native",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "4m",
     "stem": {
@@ -89767,6 +90750,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "2m",
     "stem": {
@@ -89883,6 +90867,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
@@ -89980,6 +90965,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "8m",
     "width": "5m",
     "stem": {
@@ -90133,6 +91119,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
+    "reproduction": "",
     "height": "4m",
     "width": "3m",
     "stem": {
