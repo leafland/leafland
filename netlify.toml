@@ -252,7 +252,13 @@
     force = true
     from = "/trees/acer-palmatum-roseo-marginatum-japanese-maple/"
     status = 301
-    to = "/trees/acer-palmatum-roseomarginatum/"
+    to = "/trees/acer-palmatum-roseo-marginatum/",
+
+[[redirects]]
+    force = true
+    from = "/trees/acer-palmatum-roseomarginatum/"
+    status = 301
+    to = "/trees/acer-palmatum-roseo-marginatum/"
 
 [[redirects]]
     force = true

@@ -2243,7 +2243,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "This cultivar by rights belongs to Louis van Houtte's nursery which he established in 1839 at Gentbrugge near Ghent, Belgium. This cultivar was described in Flore des Serres, Vol. 12, 1857, t. 1273. Since 1857, new seedlings and clones have been selected and distributed under this cultivar name.",
+    "cultivarOrigin": "This cultivar by rights belongs to Louis van Houtte's nursery which he established in 1839 at Gentbrugge near Ghent, Belgium. Described in <i>Flore des Serres</i>, Vol. 12, 1857, t. 1273. Since 1857, new seedlings and clones have been selected and distributed under this cultivar name.",
     "mainImage": "acer-palmatum-atropurpureum/acer-palmatum-atropurpureum.jpg",
     "description": "Rich-crimson spring leaves turn bronze-purple in summer and then go scarlet in autumn. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
@@ -3747,7 +3747,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Introduced by Dick Wolff of Red Maple Nursery in Pennsylvania, United States in 1976.",
     "mainImage": "acer-palmatum-red-emperor/acer-palmatum-red-emperor.jpg",
     "description": "Finely-serrated leaves are bright-red in spring before maturing to purple in summer. Brilliant red autumn foliage. Upright, spreading grower. Ideal for the smaller garden. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
@@ -3829,7 +3829,7 @@
     "subspecies": "",
     "variety": "",
     "form": "",
-    "cultivar": "Roseomarginatum",
+    "cultivar": "Roseo-marginatum",
     "synonyms": [
       {
         "genus": "Acer",
@@ -3839,6 +3839,24 @@
         "variety": "",
         "form": "",
         "cultivar": "Kagiri-nishiki"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Roseomarginatum"
+      },
+      {
+        "genus": "Acer",
+        "species": "palmatum",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Roseo Marginatum"
       }
     ],
     "commonName": "Japanese Maple",
@@ -3852,13 +3870,13 @@
       "variety": "",
       "form": ""
     },
-    "url": "acer-palmatum-roseomarginatum",
+    "url": "acer-palmatum-roseo-marginatum",
     "speciesNativeRange": "Japan, Korea, China, eastern Mongolia, and southeast Russia.",
     "hybridOrigin": "",
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "An old cultivar known in Europe since the 1880s. Described in <i>Flore des Serres</i>, Vol. 15, 1864, t. 1566.",
     "mainImage": "acer-palmatum-roseomarginatum/acer-palmatum-roseomarginatum.jpg",
     "description": "Has small, deeply-cut, lobed leaves that are green and white, margined with pink. Autumn leaves are bright carmine and red colours. Dense, upright, vase-shaped tree, great for small spaces. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
@@ -3899,12 +3917,12 @@
     "relatedTrees": "",
     "images": [
       {
-        "src": "images/trees/acer-palmatum-roseomarginatum/acer-palmatum-roseomarginatum-foliage.jpg",
-        "alt": "acer palmatum roseomarginatum foliage"
+        "src": "images/trees/acer-palmatum-roseo-marginatum/acer-palmatum-roseo-marginatum-foliage.jpg",
+        "alt": "acer palmatum roseo marginatum foliage"
       },
       {
-        "src": "images/trees/acer-palmatum-roseomarginatum/acer-palmatum-roseomarginatum-new-foliage.jpg",
-        "alt": "acer palmatum roseomarginatum new foliage"
+        "src": "images/trees/acer-palmatum-roseo-marginatum/acer-palmatum-roseo-marginatum-new-foliage.jpg",
+        "alt": "acer palmatum roseo marginatum new foliage"
       }
     ],
     "links": [
