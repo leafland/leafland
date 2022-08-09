@@ -7135,7 +7135,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Developed in New Zealand.",
     "mainImage": "acer-platanoides-autumn-red/acer-platanoides-autumn-red.jpg",
     "description": "A compact grower. Spring leaves are a striking bronze-red, turning green through summer, and then glowing orange-red in autumn. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
     "uses": "shade",
@@ -7224,7 +7224,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Raised in 1855 at the nursery of Simon-Louis at Plantières near Metz, France and became available commercially from 1878 - 1879.",
     "mainImage": "acer-platanoides-columnare/acer-platanoides-columnare.jpg",
     "description": "Narrow-growing tree with a strong, even-branching structure. Large, five-lobed, deep-green leaves turn yellow to orange in autumn. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
     "uses": "",
@@ -7312,9 +7312,46 @@
     "variety": "",
     "form": "",
     "cultivar": "Drummondii",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Variegatum"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Harlequin"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Silver Variegated"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Argentea Variegata"
+      }
+    ],
     "commonName": "Norway Maple",
-    "otherCommonNames": "",
+    "otherCommonNames": "Harlequin Maple",
     "nameBreakdown": {
       "family": "soapberry family, a family of flowering trees, lianas, and herbaceous plants that occur in many temperate and tropical regions. <a href='https://en.wikipedia.org/wiki/Sapindaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Sapindaceae</i></a>.",
       "genus": "<i>ācer</i> (Latin, adjective), meaning 'sharp', in reference to the pointed leaves. Commonly known as maple, a genus of various trees and shrubs. <a href='https://en.wikipedia.org/wiki/Maple' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer</i></a>.",
@@ -7330,7 +7367,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Introduced before 1903 by Messrs Drummond of Stirling, Scotland and described by Fritz Graf von Schwerin (1856 - 1934) in 1910. The cultivar name is a Latinisation of the surname Drummond.",
     "mainImage": "acer-platanoides-drummondii/acer-platanoides-drummondii.jpg",
     "description": "Has exquisite cream-green spring and summer leaves that turn yellow to orange in autumn. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
     "uses": "shade",
@@ -7419,7 +7456,26 @@
     "variety": "",
     "form": "",
     "cultivar": "Globosum",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Compactum"
+      },
+      {
+        "genus": "Acer",
+        "species": "platanoides",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Globe"
+      }
+    ],
     "commonName": "Norway Maple",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -7437,7 +7493,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "First listed in the 1873 catalogue of Louis van Houtte's nursery which he established in 1839 at Gentbrugge near Ghent, Belgium. Recorded in North America by 1896.",
     "mainImage": "acer-platanoides-globosum/acer-platanoides-globosum.jpg",
     "description": "Has green leaves that turn yellow to orange in autumn. A dense grower that forms a globe shape. Excellent courtyard or plaza tree. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
     "uses": "topiary, pleaching",
