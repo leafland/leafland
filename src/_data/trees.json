@@ -2449,7 +2449,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "Discovered by Harold Johnston from Tallassee, Alabama. He found the cultivar among a population of seedlings from various Japanese maples which he had collected and planted. A patent was filed for the cultivar in the United States on November 19, 1996.",
+    "cultivarOrigin": "Discovered by Harold Johnston from Tallassee, Alabama. He found this cultivar among a population of seedlings from various Japanese maples which he had collected and planted. A patent was filed for this cultivar in the United States on November 19, 1996.",
     "mainImage": "acer-palmatum-beni-shi-en/acer-palmatum-beni-shi-en.jpg",
     "description": "Large, deeply-dissected leaves are purple with a thin cream outline. No two leaves are the same. A wonderful tree to lighten up dull areas. Orange-red autumn leaves. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai.",
     "uses": "small-garden",
@@ -7767,7 +7767,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Introduced by Princeton Nursery in New Jersey, United States. A patent for this cultivar was filed in 1987.",
     "mainImage": "acer-platanoides-princeton-gold/acer-platanoides-princeton-gold.jpg",
     "description": "The fluorescent-yellow leaves in spring make this a standout tree. Through summer, the leaves remain a more muted yellow-green. Protect from strong winds and harsh sunlight. Yellow autumn leaves. Shallow root system can lift sidewalks and driveways. Tolerant of air pollution. Can be easily transplanted. Grows best in moist, well-drained soils, but will tolerate dry sites that experience occasional drought and wet sites that experience occasional flooding.",
     "uses": "shade",
@@ -7841,7 +7841,8 @@
       "http://temperate.theferns.info/viewtropical.php?id=Acer+platanoides",
       "https://www.rhs.org.uk/plants/117421/i-acer-platanoides-i-font-face-times-new-roman-princeton-gold-font-prigo-sup-(pbr)-sup/details",
       "https://landscapeplants.oregonstate.edu/plants/acer-platanoides-princeton-gold",
-      "https://www.havlis.cz/karta_en.php?kytkaid=5042"
+      "https://www.havlis.cz/karta_en.php?kytkaid=5042",
+      "https://patents.google.com/patent/USPP6727P/en"
     ]
   },
   {
@@ -7899,7 +7900,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Selected by John Wills at Trelinnoe Park in the Esk Valley near Napier, New Zealand. This cultivar was released into the New Zealand nursery trade in the 1990s.",
     "mainImage": "acer-pseudoplatanus-esk-sunset/acer-pseudoplatanus-esk-sunset.jpg",
     "description": "Large, pink spring leaves are mottled with white, turning deep-green splashed with pink and white through summer. Striking burgundy undersides on the leaves. A slow grower. Bright yellow and orange autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
     "uses": "shade",
@@ -8016,7 +8017,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Originated in Belgium and was named for King Leopold I by Vervaene in 1864. This cultivar was introducted to Britian almost immediately and then entered the North American nursery trade in or before 1891.",
     "mainImage": "acer-pseudoplatanus-leopoldii/acer-pseudoplatanus-leopoldii.jpg",
     "description": "Large, yellow-pink spring leaves. They become green and speckled with cream in summer. A broad-growing tree. Yellow autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
     "uses": "shade",
@@ -8120,6 +8121,15 @@
         "variety": "",
         "form": "",
         "cultivar": "Purpureum Spaethii"
+      },
+      {
+        "genus": "Acer",
+        "species": "pseudoplatanus",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Spaethii"
       }
     ],
     "commonName": "Sycamore Maple",
@@ -8139,7 +8149,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Described by Groinland in 1862 and introduced by Späth's nurseries, Germany in 1883. This cultivar reached North American cultivation around 1897, and has been available commercially there since around 1930.",
     "mainImage": "acer-pseudoplatanus-purpureum/acer-pseudoplatanus-purpureum.jpg",
     "description": "Makes a great shade tree and good as a lawn specimen. Large-lobed, bronze-green leaves are purple underneath. Yellow autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
     "uses": "shade",
@@ -8247,7 +8257,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "According to van Gelderen <i>et al.</i> (1994) this cultivar was named in 1879 in Willkomm, Germany and introduced to cultivation by the Hamburg-based Ohlendorff in 1893, though reportedly it was in the trade in the United States by 1891.",
     "mainImage": "acer-pseudoplatanus-worley/acer-pseudoplatanus-worley.jpg",
     "description": "The three to five-lobed leaves open golden-yellow, and then mature to yellow-green to green. Great lawn or park tree. Yellow autumn leaves. Seeds are toxic to horses. Tolerates cold, coastal exposure, and some drought. Prefers growing in cool summer climates in moist, well-drained soil.",
     "uses": "shade",
