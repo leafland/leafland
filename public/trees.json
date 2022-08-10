@@ -27034,6 +27034,124 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Elegantissima",
+    "synonyms": [
+      {
+        "genus": "Cornus",
+        "species": "sericea",
+        "hybrid": "",
+        "subspecies": "sericea",
+        "variety": "",
+        "form": "",
+        "cultivar": "Elegantissima"
+      }
+    ],
+    "commonName": "Siberian Dogwood",
+    "otherCommonNames": "Tatarian Dogwood",
+    "nameBreakdown": {
+      "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
+      "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
+      "species": "<i>alba</i> (Latin, adjective), meaning 'white', in reference to the colour of the fruit of this species. <a href='https://en.wikipedia.org/wiki/Cornus_alba' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus alba</i></a>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "cornus-alba-elegantissima",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "cornus-alba-elegantissima/cornus-alba-elegantissima.jpg",
+    "description": "Forms a thicket of erect, red stems. Bare stems in winter are a glowing-scarlet. Will tolerate very wet growing conditions. Green leaves with white margins and cream bunches of spring flowers, blue-white fruits follow. Cut back old stems to the ground every few years to promote new growth. Orange and red autumn leaves.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "poor-draining-soils",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "ornamental-bark",
+    "reproduction": "",
+    "height": "2m",
+    "width": "2m",
+    "stem": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green, white",
+      "autumn": "orange, red",
+      "winter": "",
+      "spring": "green, white"
+    },
+    "fruit": {
+      "summer": "blue, white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/cornus/cornus-shrub.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-autumn.jpg",
+        "alt": "cornus alba elegantissima autumn"
+      },
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-flowers.jpg",
+        "alt": "cornus alba elegantissima flowers"
+      },
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-foliage.jpg",
+        "alt": "cornus alba elegantissima foliage"
+      },
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-leaves.jpg",
+        "alt": "cornus alba elegantissima autumn"
+      },
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-stems.jpg",
+        "alt": "cornus alba elegantissima autumn"
+      },
+      {
+        "src": "images/trees/cornus-alba-elegantissima/cornus-alba-elegantissima-young.jpg",
+        "alt": "cornus alba elegantissima autumn"
+      }
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Cornus_alba",
+      "https://species.wikimedia.org/wiki/Cornus_alba",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=511438#null",
+      "https://treesandshrubsonline.org/articles/cornus/cornus-alba/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279370",
+      "https://plants.ces.ncsu.edu/plants/cornus-alba/",
+      "https://landscapeplants.oregonstate.edu/plants/cornus-alba",
+      "http://temperate.theferns.info/viewtropical.php?id=Cornus+alba",
+      "https://www.ebben.nl/nl/treeebb/coalba-cornus-alba",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/11ce4dfd-2977-47e8-8a91-773bf06829fe",
+      "https://www.rhs.org.uk/plants/4379/cornus-alba-l/details",
+      "https://www.gardenia.net/plant/cornus-alba-tartarian-dogwood",
+      "https://www.rhs.org.uk/plants/89376/cornus-alba-elegantissima-(v)/details"
+    ]
+  },
+  {
+    "family": "Cornaceae",
+    "genus": "Cornus",
+    "species": "alba",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Sibirica",
     "synonyms": [
       {
