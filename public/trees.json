@@ -76238,7 +76238,7 @@
     "formNativeRange": "",
     "cultivarOrigin": "",
     "mainImage": "prunus-mume/prunus-mume.jpg",
-    "description": "Produces flowers in mid-winter to early-spring that range in colour from white to pink to red. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers. Yellow autumn leaves.",
+    "description": "Produces flowers in mid-winter to early-spring that range in colour from white to pink to red. Needs a sheltered site with full sun. Avoid planting in areas with late-frosts as the frosts will damage the flowers. Yellow and orange autumn leaves.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -76315,6 +76315,84 @@
       {
         "src": "images/trees/prunus-mume/prunus-mume-white-flowers.jpg",
         "alt": "prunus mume white flowers"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Prunus",
+    "species": "mume",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Peggy Clarke",
+    "synonyms": [],
+    "commonName": "Japanese Apricot",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "prunus-mume-peggy-clarke",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "prunus-mume-peggy-clarke/prunus-mume-peggy-clarke.jpg",
+    "description": "Produces beautiful, double, rose-pink flowers in spring. Yellow and orange autumn leaves.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/prunus/prunus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/prunus-mume-peggy-clarke/prunus-mume-peggy-clarke-flower.jpg",
+        "alt": "prunus mume peggy clarke flower"
+      },
+      {
+        "src": "images/trees/prunus-mume-peggy-clarke/prunus-mume-peggy-clarke-flowers.jpg",
+        "alt": "prunus mume peggy clarke flowers"
       }
     ],
     "links": []
