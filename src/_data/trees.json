@@ -61499,6 +61499,174 @@
   {
     "family": "",
     "genus": "Malus",
+    "species": "",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tom's Gold",
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattgold"
+      }
+    ],
+    "commonName": "Crabapple",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "malus-toms-gold",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "Developed by Matthews Nurseries in Whanganui, New Zealand.",
+    "mainImage": "malus-toms-gold/malus-toms-gold.jpg",
+    "description": "Beautiful gold-yellow fruit with yellow flesh are produced in autumn that birds adore. The crabapples are also great for making jelly. Produces stunning single, white blossoms in spring.",
+    "uses": "attracts-bees, attracts-birds",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "red, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/malus/malus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/malus-toms-gold/malus-toms-gold-flower.jpg",
+        "alt": "malus toms gold flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Malus",
+    "species": "",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Tom's Orange",
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattoran"
+      }
+    ],
+    "commonName": "Crabapple",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "malus-toms-orange",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "Developed by Matthews Nurseries in Whanganui, New Zealand.",
+    "mainImage": "malus-toms-orange/malus-toms-orange.jpg",
+    "description": "Beautiful orange fruit are produced in autumn that birds adore. The crabapples are also great for making jelly. Produces stunning single, white blossoms in spring.",
+    "uses": "attracts-bees, attracts-birds",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "red, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "orange",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/malus/malus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/malus-toms-orange/malus-toms-orange-flower.jpg",
+        "alt": "malus toms orange flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Malus",
     "species": "trilobata",
     "hybrid": "",
     "subspecies": "",
