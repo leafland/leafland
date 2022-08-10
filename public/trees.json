@@ -60007,7 +60007,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Ellerslie",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattweep"
+      }
+    ],
     "commonName": "Crabapple",
     "otherCommonNames": "",
     "nameBreakdown": {
@@ -60025,7 +60035,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Developed by Matthews Nurseries in Whanganui, New Zealand.",
     "mainImage": "malus-ellerslie/malus-ellerslie.jpg",
     "description": "Excellent tree. Red new leaves turn purple-green through summer and then red again in autumn. Dark-red buds open to soft-crimson flowers in spring, followed by small, red crabapples in autumn.",
     "uses": "attracts-bees, attracts-birds",
@@ -60519,6 +60529,15 @@
         "variety": "",
         "form": "",
         "cultivar": "Mattfru"
+      },
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Jellie King"
       }
     ],
     "commonName": "Crabapple",
@@ -60538,7 +60557,7 @@
     "subspeciesNativeRange": "",
     "varietyNativeRange": "",
     "formNativeRange": "",
-    "cultivarOrigin": "",
+    "cultivarOrigin": "Developed by Matthews Nurseries in Whanganui, New Zealand.",
     "mainImage": "malus-jelly-king/malus-jelly-king.jpeg",
     "description": "Upright, compact tree. In mid-spring, becomes covered with large, fragrant, pure-white blossoms over a long period. Huge crops of medium-sized, pink-red crabapples follow in autumn. Excellent street tree. Resistant to disease. Self-fertile.",
     "uses": "attracts-bees, attracts-birds",
@@ -60873,6 +60892,90 @@
     "treeShape": "images/icons/tree-shapes/malus/malus-general.svg",
     "relatedTrees": "",
     "images": [],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Malus",
+    "species": "",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Pearlie Emma",
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattpink"
+      }
+    ],
+    "commonName": "Crabapple",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "malus-pearlie-emma",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "Developed by Matthews Nurseries in Whanganui, New Zealand.",
+    "mainImage": "malus-pearlie-emma/malus-pearlie-emma.jpg",
+    "description": "Red-yellow crabapples produced in autumn. Beautiful pink-white flowers in spring.",
+    "uses": "attracts-bees, attracts-birds",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white, pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "red, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/malus/malus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/malus-pearlie-emma/malus-pearlie-emma-fruit.jpg",
+        "alt": "malus pearlie emma fruit"
+      }
+    ],
     "links": []
   },
   {
