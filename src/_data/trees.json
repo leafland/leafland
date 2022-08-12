@@ -58759,6 +58759,85 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Freyberg",
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "domestica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Freyburg"
+      }
+    ],
+    "commonName": "Apple",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "rose family, a family of mostly deciduous (but some evergreen), flowering herbs, shrubs, and trees. <a href='https://en.wikipedia.org/wiki/Rosaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Rosaceae</i></a>.",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "malus-domestica-freyberg",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "malus-domestica-freyberg/malus-domestica-freyberg.jpg",
+    "description": "Produces sweet and freshing, golden-green apples in autumn. Pink buds open to white flowers in spring. <i>Malus domestica</i> 'Freyberg' is a cross between <a href='/trees/malus-domestica-golden-delicious/'><i>Malus domestica</i> 'Golden Delicious'</a> and <a href='https://www.orangepippin.com/varieties/apples/coxs-orange-pippin' target='_blank' rel='noopener noreferrer'><i>Malus domestica</i> 'Cox's Orange Pippin'</a>.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "reproduction": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/apple/apple-general.svg",
+    "relatedTrees": "",
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "Rosaceae",
+    "genus": "Malus",
+    "species": "domestica",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Fuji",
     "synonyms": [],
     "commonName": "Apple",
