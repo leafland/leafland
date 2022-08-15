@@ -48811,6 +48811,92 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Martini",
+    "synonyms": [],
+    "commonName": "Mānuka",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "leptospermum-scoparium-martini",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "leptospermum-scoparium-martini/leptospermum-scoparium-martini.jpg",
+    "description": "Produces single, pink-white flowers in spring.",
+    "uses": "hedging-and-screening, small-garden, attracts-bees",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "reproduction": "",
+    "height": "2m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/leptospermum/leptospermum-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/leptospermum-scoparium-martini/leptospermum-scoparium-martini-buds.jpg",
+        "alt": "leptospermum scoparium martini buds"
+      },
+      {
+        "src": "images/trees/leptospermum-scoparium-martini/leptospermum-scoparium-martini-flower.jpg",
+        "alt": "leptospermum scoparium martini flower"
+      },
+      {
+        "src": "images/trees/leptospermum-scoparium-martini/leptospermum-scoparium-martini-flowers.jpg",
+        "alt": "leptospermum scoparium martini flowers"
+      },
+      {
+        "src": "images/trees/leptospermum-scoparium-martini/leptospermum-scoparium-martini-new-flower.jpg",
+        "alt": "leptospermum scoparium martini new flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Leptospermum",
+    "species": "scoparium",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Red Damask",
     "synonyms": [],
     "commonName": "Mānuka",
