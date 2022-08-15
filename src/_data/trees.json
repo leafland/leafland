@@ -49116,6 +49116,85 @@
   },
   {
     "family": "",
+    "genus": "Leptospermum",
+    "species": "scoparium",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Wiri Shelly",
+    "synonyms": [
+      {
+        "genus": "Leptospermum",
+        "species": "scoparium",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Wiri Shelley"
+      }
+    ],
+    "commonName": "Mānuka",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "leptospermum-scoparium-wiri-shelly",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "leptospermum-scoparium-wiri-shelly/leptospermum-scoparium-wiri-shelly.jpg",
+    "description": "Produces beautiful single, light-pink flowers in spring.",
+    "uses": "hedging-and-screening, attracts-bees, small-garden",
+    "tolerates": "coastal, windy",
+    "soilType": "dry-soils",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "reproduction": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/leptospermum/leptospermum-general.svg",
+    "relatedTrees": "",
+    "images": [],
+    "links": []
+  },
+  {
+    "family": "",
     "genus": "Libocedrus",
     "species": "plumosa",
     "hybrid": "",
