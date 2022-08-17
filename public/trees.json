@@ -23121,6 +23121,114 @@
     "subspecies": "",
     "variety": "texensis",
     "form": "",
+    "cultivar": "Oklahoma",
+    "synonyms": [],
+    "commonName": "Texas Redbud",
+    "otherCommonNames": "Oklahoma Redbud",
+    "nameBreakdown": {
+      "family": "legume, pea, or bean family, a family of flowering trees, shrubs, and herbaceous plants. <a href='https://en.wikipedia.org/wiki/Fabaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Fabaceae</i></a>.",
+      "genus": "<i>cercis</i>, derived from the Greek noun κερκίς (<i>kerkís</i>, 'weaver's shuttle') which was applied by Theophrastus (c. 371 - c. 287 BC) to <i>Cercis siliquastrum</i>, in reference to the shape of the seedpods of species in this genus resembling that of a weaver's shuttle. Commonly known as redbud, a genus of deciduous large shrubs and small trees. <a href='https://en.wikipedia.org/wiki/Cercis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis</i></a>.",
+      "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States. <a href='https://en.wikipedia.org/wiki/Cercis_canadensis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis canadensis</i></a>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "<i>texēnsis</i> (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to this variety's native geographical location.",
+      "form": ""
+    },
+    "url": "cercis-canadensis-var-texensis-oklahoma",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "cercis-canadensis-var-texensis-oklahoma/cercis-canadensis-var-texensis-oklahoma.jpg",
+    "description": "Round-headed tree with large, handsome, heart-shaped leaves of shining-green. They turn bright-yellow in autumn. A profusion of wine-red, pea-shaped flowers stud the bare branches in spring.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "red"
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/cercis/cercis-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/cercis-canadensis-var-texensis-oklahoma/cercis-canadensis-var-texensis-oklahoma-autumn-foliage.jpg",
+        "alt": "cercis canadensis var texensis oklahoma autumn foliage"
+      },
+      {
+        "src": "images/trees/cercis-canadensis-var-texensis-oklahoma/cercis-canadensis-var-texensis-oklahoma-flowers.jpg",
+        "alt": "cercis canadensis var texensis oklahoma flowers"
+      },
+      {
+        "src": "images/trees/cercis-canadensis-var-texensis-oklahoma/cercis-canadensis-var-texensis-oklahoma-garden.jpg",
+        "alt": "cercis canadensis var texensis oklahoma garden"
+      },
+      {
+        "src": "images/trees/cercis-canadensis-var-texensis-oklahoma/cercis-canadensis-var-texensis-oklahoma-young-tree.jpg",
+        "alt": "cercis canadensis var texensis oklahoma young tree"
+      }
+    ],
+    "links": [
+      "https://www.canadiantreetours.org/species-pages/Eastern_redbud.html",
+      "https://en.wikipedia.org/wiki/Cercis_canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=25782#null",
+      "https://treesandshrubsonline.org/articles/cercis/cercis-canadensis/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280440",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis",
+      "https://selectree.calpoly.edu/tree-detail/312",
+      "http://temperate.theferns.info/viewtropical.php?id=Cercis+canadensis",
+      "https://www.ebben.nl/nl/treeebb/cecanade-cercis-canadensis",
+      "https://biotanz.landcareresearch.co.nz/scientific-names/1c7a5aca-d38c-4b17-80b7-57d1962aaaf5",
+      "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+      "https://www.gardenia.net/plant/cercis-canadensis",
+      "https://species.wikimedia.org/wiki/Cercis_canadensis_var._texensis",
+      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=527243#null",
+      "http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=295726",
+      "https://plants.ces.ncsu.edu/plants/cercis-canadensis-var-texensis/",
+      "https://selectree.calpoly.edu/tree-detail/318",
+      "https://www.havlis.cz/karta.php?kytkaid=898",
+      "https://www.rhs.org.uk/plants/139105/cercis-canadensis-var-texensis/details"
+    ]
+  },
+  {
+    "family": "Fabaceae",
+    "genus": "Cercis",
+    "species": "canadensis",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "texensis",
+    "form": "",
     "cultivar": "Texas White",
     "synonyms": [],
     "commonName": "Texas Redbud",
@@ -49162,8 +49270,8 @@
     "origin": "native",
     "types": "",
     "reproduction": "",
-    "height": "3m",
-    "width": "2m",
+    "height": "2m",
+    "width": "1m",
     "stem": {
       "summer": "",
       "autumn": "",
