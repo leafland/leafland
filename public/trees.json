@@ -58638,6 +58638,90 @@
   {
     "family": "",
     "genus": "Malus",
+    "species": "",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Autumn Gold",
+    "synonyms": [
+      {
+        "genus": "Malus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Mattumn"
+      }
+    ],
+    "commonName": "Crabapple",
+    "otherCommonNames": "",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "malus-autumn-gold",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "malus-autumn-gold/malus-autumn-gold.jpg",
+    "description": "Produces stunning pear-shaped, gold crabapples in autumn. Single, white blossoms in spring. A great cultivar for making jelly.",
+    "uses": "attracts-bees, attracts-birds",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "3m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/malus/malus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/malus-autumn-gold/malus-autumn-gold-flower.jpg",
+        "alt": "malus autumn gold flower"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
+    "genus": "Malus",
     "species": "baccata",
     "hybrid": "",
     "subspecies": "",
