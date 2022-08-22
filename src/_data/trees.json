@@ -34363,6 +34363,100 @@
     "links": []
   },
   {
+    "family": "Cupressaceae",
+    "genus": "Cupressus",
+    "species": "torulosa",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "",
+    "synonyms": [],
+    "commonName": "Himalayan Cypress",
+    "otherCommonNames": "Bhutan Cypress",
+    "nameBreakdown": {
+      "family": "cypress family, a family of coniferous trees found all around the world. <a href='https://en.wikipedia.org/wiki/Cupressaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cupressaceae</i></a>.",
+      "genus": "<i>cupressus</i> (Latin, noun), meaning 'cypress [specifically <i>Cupressus sempervirens</i>]'. Commonly known as cypress, a genus of evergreen conifers native to mainly warm temperate regions in the Northern Hemisphere, including western North America, Central America, northwest Africa, the Middle East, the Himalayas, southern China, and northern Vietnam.",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "cupressus-torulosa",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "cupressus-torulosa/cupressus-torulosa.jpg",
+    "description": "An upright grower with green to blue-green foliage. Good tolerance to cypress canker. Great for shelter belts where trimming is difficult or not possible. Prefers free-draining soil.",
+    "uses": "hedging-and-screening",
+    "tolerates": "windy",
+    "soilType": "",
+    "sunShade": "full-sun, part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "conifer",
+    "reproduction": "",
+    "height": "10m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/cupressus/cupressus-general.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-foliage-cones.jpg",
+        "alt": "cupressus torulosa foliage cones"
+      },
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-mature.jpg",
+        "alt": "cupressus torulosa mature"
+      },
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-mountain.jpg",
+        "alt": "cupressus torulosa mountain"
+      },
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-old.jpg",
+        "alt": "cupressus torulosa old"
+      },
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-park.jpg",
+        "alt": "cupressus torulosa park"
+      },
+      {
+        "src": "images/trees/cupressus-torulosa/cupressus-torulosa-young-trees.jpg",
+        "alt": "cupressus torulosa young-trees"
+      }
+    ],
+    "links": []
+  },
+  {
     "family": "Cyatheaceae",
     "genus": "Cyathea",
     "species": "cunninghamii",
