@@ -90962,8 +90962,8 @@
     "form": "",
     "cultivar": "Camperdownii",
     "synonyms": [],
-    "commonName": "Camperdown Elm",
-    "otherCommonNames": "",
+    "commonName": "Wych Elm",
+    "otherCommonNames": "Camperdown Elm",
     "nameBreakdown": {
       "family": "",
       "genus": "",
@@ -91031,8 +91031,8 @@
     "form": "",
     "cultivar": "Horizontalis",
     "synonyms": [],
-    "commonName": "Horizontal Elm",
-    "otherCommonNames": "Wych Elm",
+    "commonName": "Wych Elm",
+    "otherCommonNames": "Horizontal Elm",
     "nameBreakdown": {
       "family": "",
       "genus": "",
@@ -91125,8 +91125,8 @@
     "form": "",
     "cultivar": "Lutescens",
     "synonyms": [],
-    "commonName": "Golden Elm",
-    "otherCommonNames": "Wych Elm, Golden Wych Elm",
+    "commonName": "Wych Elm",
+    "otherCommonNames": "Golden Elm, Golden Wych Elm",
     "nameBreakdown": {
       "family": "",
       "genus": "",
@@ -91375,7 +91375,7 @@
     "form": "",
     "cultivar": "Wredei",
     "synonyms": [],
-    "commonName": "Golden Elm",
+    "commonName": "Dutch Elm",
     "otherCommonNames": "",
     "nameBreakdown": {
       "family": "",
@@ -91554,7 +91554,17 @@
     "variety": "",
     "form": "",
     "cultivar": "Louis van Houtte",
-    "synonyms": [],
+    "synonyms": [
+      {
+        "genus": "Ulmus",
+        "species": "",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Vanhouttei"
+      }
+    ],
     "commonName": "Golden Elm",
     "otherCommonNames": "",
     "nameBreakdown": {
