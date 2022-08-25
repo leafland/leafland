@@ -70,7 +70,7 @@ main h3 {
 
 #grade-select {
   display: grid;
-  gap: 3rem;
+  /* gap: 3rem; */
 }
 
 .selection-grid {
