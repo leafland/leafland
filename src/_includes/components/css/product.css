@@ -94,6 +94,10 @@ main h3 {
   font-weight: 700;
 }
 
+#in-production-grades {
+  margin-top: 3rem;
+}
+
 #add-product-div {
   display: grid;
   gap: 2rem;
