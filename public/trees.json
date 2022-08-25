@@ -88927,6 +88927,122 @@
   },
   {
     "family": "",
+    "genus": "Styphnolobium",
+    "species": "japonicum",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
+    "cultivar": "Pendula",
+    "synonyms": [
+      {
+        "genus": "Sophora",
+        "species": "japonica",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Pendula"
+      }
+    ],
+    "commonName": "Japanese Pagoda Tree",
+    "otherCommonNames": "Chinese Scholar Tree, Chinese Pagoda Tree",
+    "nameBreakdown": {
+      "family": "",
+      "genus": "",
+      "species": "",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "styphnolobium-japonicum-pendula",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "",
+    "mainImage": "styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula.jpg",
+    "description": "Drooping branches form a beautiful weeping canopy. Foliage is deep-green and oval in shape, giving the tree a feathery look. Sometimes foliage will turn yellow in autumn before falling. Beautiful white flowers are produced in late-summer and sometimes into autumn.",
+    "uses": "street",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "reproduction": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "white",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/styphnolobium/styphnolobium-weeping.svg",
+    "relatedTrees": "",
+    "images": [
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-city.jpg",
+        "alt": "styphnolobium japonicum pendula city"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-flower-close.jpg",
+        "alt": "styphnolobium japonicum pendula flower close"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-flowers.jpg",
+        "alt": "styphnolobium japonicum pendula flowers"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-flowers-foliage.jpg",
+        "alt": "styphnolobium japonicum pendula flowers foliage"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-foliage.jpg",
+        "alt": "styphnolobium japonicum pendula foliage"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-park.jpg",
+        "alt": "styphnolobium japonicum pendula park"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-street.jpg",
+        "alt": "styphnolobium japonicum pendula street"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-trunk.jpg",
+        "alt": "styphnolobium japonicum pendula trunk"
+      },
+      {
+        "src": "images/trees/styphnolobium-japonicum-pendula/styphnolobium-japonicum-pendula-winter.jpg",
+        "alt": "styphnolobium japonicum pendula winter"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "",
     "genus": "Styrax",
     "species": "japonicus",
     "hybrid": "",
