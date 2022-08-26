@@ -22,13 +22,15 @@ main h3 {
   gap: 2rem;
 }
 #collapsing-content {
+  margin-top: 5rem;
   justify-self: center;
   display: grid;
-  grid-template-rows: 1fr;
+  /* grid-template-rows: 1fr; */
   grid-template-columns: 1fr;
-  gap: 2rem;
-  max-width: 80rem;
+  gap: 10rem;
+  max-width: 60rem;
   width: 100%;
+  text-align: center;
 }
 
 #hero {
@@ -90,16 +92,16 @@ main h3 {
 }
 
 #hero-text h1 {
-  color: var(--secondary-background);
+  color: #eee;
   /* text-transform: uppercase; */
   font-weight: 900;
 }
 
 #hero-text .subtitle {
   /* text-transform: uppercase; */
-  background: var(--secondary-background);
+  background: #eee;
   display: inline-block;
-  color: var(--brand-color);
+  color: var(--accent-color);
   border-radius: 8px;
   padding: 4px 8px;
   font-weight: 700;
@@ -107,15 +109,15 @@ main h3 {
 }
 
 #hero .button {
-  color: var(--secondary-background);
-  border-color: var(--secondary-background);
+  color: #eee;
+  border-color: #eee;
   text-align: left;
 }
 
 .split-section {
   /* margin: 5rem 0 5rem 0; */
-  padding: 2rem;
-  background: var(--secondary-background);
+  /* padding: 2rem; */
+  /* background: var(--secondary-background); */
   border-radius: 8px;
   display: grid;
   grid-template-columns: 1fr;
@@ -147,8 +149,8 @@ main h3 {
 .banner-section {
   /* min-height: 400px; */
   display: grid;
-  padding: 2rem;
-  background: var(--secondary-background);
+  /* padding: 2rem; */
+  /* background: var(--secondary-background); */
   width: 100%;
   /* max-width: 80rem; */
   border-radius: 8px;
@@ -163,14 +165,14 @@ main h3 {
 .banner-section-inner .button {
   /* margin-bottom: 2rem; */
   justify-self: center;
-  border-color: var(--primary-text);
-  background: none;
+  border-color: var(--border-color);
+  /* background: none; */
 }
 
 .split-section,
 .banner-section {
   justify-self: center;
-  max-width: 80rem;
+  max-width: 60rem;
   max-height: 40rem;
   height: 100%;
   width: 100%;
@@ -182,15 +184,15 @@ main h3 {
 
 @media (hover: hover) and (pointer: fine) {
   div#hero .button:hover {
-    background: var(--primary-text);
-    border-color: var(--primary-text);
-    color: var(--secondary-background);
+    background: #111;
+    border-color: #111;
+    color: #eee;
   }
 
-  .banner-section-inner .button:hover {
+  /* .banner-section-inner .button:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
+  } */
 }
 
 @media (min-width: 650px) {
@@ -198,13 +200,13 @@ main h3 {
     padding-bottom: 2rem;
   }
 
-  .split-section {
+  /* .split-section {
     grid-template-columns: repeat(2, 1fr);
-  }
+  } */
 
-  main {
+  /* main {
     padding: 0 2rem 2rem 2rem;
-  }
+  } */
 }
 
 /* @media (min-width: 1000px) {
@@ -215,12 +217,12 @@ main h3 {
 } */
 
 @media (min-width: 1200px) {
-  .split-section {
+  /* .split-section {
     grid-template-columns: 1fr;
     padding: 3rem;
-  }
+  } */
 
-  .split-section:last-child {
+  /* .split-section:last-child {
     grid-column-start: 1;
     grid-column-end: 3;
     text-align: center;
@@ -232,19 +234,19 @@ main h3 {
 
   .split-section:last-child img {
     justify-self: center;
-  }
+  } */
 
-  .banner-section {
+  /* .banner-section {
     padding: 3rem;
-  }
+  } */
 
-  .split-section img,
+  /* .split-section img,
   .split-section video {
     justify-self: end;
-  }
+  } */
 
-  #collapsing-content {
+  /* #collapsing-content {
     grid-template-rows: auto auto auto;
     grid-template-columns: auto auto;
-  }
+  } */
 }

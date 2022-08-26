@@ -32,7 +32,7 @@
 
 #close-order-sent {
   cursor: pointer;
-  border-color: var(--primary-text);
+  border-color: var(--border-color);
   align-self: center;
   justify-self: end;
 }

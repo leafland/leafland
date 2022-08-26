@@ -21,8 +21,8 @@ input[type="text"].search {
   overflow: auto;
   height: 30rem;
   width: 100%;
-  border: 2px solid var(--primary-text);
-  border-radius: 8px;
+  /* border: 2px solid var(--primary-text);
+  border-radius: 8px; */
 }
 
 table {
@@ -32,14 +32,14 @@ table {
 
 th {
   text-align: center;
-  padding: 0.5rem 1rem;
-  border-bottom: 2px solid var(--primary-text);
+  /* padding: 0.5rem 1rem; */
+  border-bottom: 2px solid var(--border-color);
   white-space: break-spaces;
   word-break: keep-all;
   font-weight: 900;
 }
 
-tr:first-child th:first-child {
+/* tr:first-child th:first-child {
   border-top-left-radius: 8px;
 }
 
@@ -53,14 +53,14 @@ tr:last-child td:first-child {
 
 tr:last-child td:last-child {
   border-bottom-right-radius: 8px;
-}
+} */
 
-tr:nth-child(even):not(tr:first-child) {
+/* tr:nth-child(even):not(tr:first-child) {
   background: var(--secondary-background);
 }
 tr:nth-child(odd):not(tr:first-child) {
   background: var(--surface1-light);
-}
+} */
 
 tr:first-child {
   height: 5rem;
@@ -89,7 +89,7 @@ th:nth-child(2) {
 }
 
 td {
-  padding: 0.5rem 1rem;
+  /* padding: 0.5rem 1rem; */
   font-weight: 700;
   min-width: 5rem;
   max-width: 5rem;
@@ -110,10 +110,10 @@ input[type="text"].search {
   min-height: 30px;
   padding: 0.5rem 0.75rem;
 }
-.search::placeholder {
+/* .search::placeholder {
   color: #c3ced5;
   text-transform: uppercase;
-}
+} */
 
 #pagination #prev {
   float: left;
@@ -129,7 +129,7 @@ input[type="text"].search {
 #pagination #next,
 #pagination #prev,
 #content .button {
-  border-color: var(--primary-text);
+  border-color: var(--border-color);
 }
 
 #pagination #next:disabled,
@@ -142,9 +142,9 @@ input[type="text"].search {
   margin-top: 1rem;
   margin-bottom: 2rem;
   font-weight: 700;
-  background: var(--secondary-background);
+  /* background: var(--secondary-background);
   border-radius: 8px;
-  padding: 1rem;
+  padding: 1rem; */
 }
 
 #filter-section {
@@ -153,9 +153,9 @@ input[type="text"].search {
   gap: 1rem 3rem;
   flex-wrap: wrap;
   margin-bottom: 3rem;
-  background: var(--secondary-background);
-  padding: 1rem;
-  border-radius: 8px;
+  /* background: var(--secondary-background); */
+  /* padding: 1rem;
+  border-radius: 8px; */
 }
 
 #filter-section div {
@@ -175,12 +175,12 @@ input[type="text"].search {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  div#pagination #next:hover:enabled,
+  /* div#pagination #next:hover:enabled,
   div#pagination #prev:hover:enabled,
   div#content .button:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
+  } */
 
   input[type="checkbox"]:hover,
   label {

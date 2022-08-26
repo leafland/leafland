@@ -35,7 +35,7 @@ main {
   height: 300px;
   border-radius: 8px;
   filter: brightness(0.5);
-  background: var(--secondary-background);
+  background: var(--iamge-background);
 }
 
 .title-link-box {
@@ -49,13 +49,13 @@ main {
 .title-link-box h2 {
   text-align: left;
   font-size: var(--font-size-4);
-  color: var(--secondary-background);
+  color: #eee;
   font-weight: 900;
 }
 
 .title-link-box h3 {
   text-align: left;
-  color: var(--secondary-background);
+  color: #eee;
   /* background: var(--secondary-background);
   border-radius: 8px;
   padding: 0.3rem 0.6rem; */
@@ -68,9 +68,8 @@ main {
 .title-link-box a {
   place-self: start;
   margin-bottom: 1rem;
-  border: 2px solid var(--secondary-background);
-  color: var(--secondary-background);
-  background: none;
+  border: 2px solid #eee;
+  color: #eee;
   transition: all 0.3s var(--default-animation-easing);
   font-size: var(--font-size-2);
 }
@@ -88,8 +87,8 @@ main {
 
 @media (hover: hover) and (pointer: fine) {
   .title-link-box a:hover {
-    color: var(--primary-text);
-    background: var(--secondary-background);
+    color: #111;
+    background: #eee;
   }
 }
 

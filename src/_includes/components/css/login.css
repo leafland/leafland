@@ -23,15 +23,15 @@
   place-self: center;
 }
 
-#login-form-container {
+/* #login-form-container {
   background: var(--secondary-background);
   border-radius: 8px;
   padding: 2rem;
-}
+} */
 
 #close-login {
   cursor: pointer;
-  border-color: var(--primary-text);
+  border-color: var(--border-color);
   align-self: center;
   justify-self: end;
 }
@@ -56,7 +56,7 @@
 
 #login-form input[type="email"] {
   cursor: text;
-  border-color: var(--primary-text);
+  border-color: var(--border-color);
   width: 100%;
   max-width: 300px;
 }
@@ -80,21 +80,27 @@
 
 #log-out,
 #log-in {
-  border-color: var(--primary-text);
-  background: none;
+  border-color: var(--border-color);
+  /* background: none; */
 }
 
 @media (hover: hover) and (pointer: fine) {
-  button#log-out:hover,
+  /* button#log-out:hover,
   input#log-in:hover,
   button#close-login:hover {
     background: var(--primary-text);
     color: var(--secondary-background);
-  }
-  #log-in:hover:disabled {
+  } */
+  /* #log-in:hover:disabled {
     background: none;
     color: var(--primary-text);
     cursor: default;
+  } */
+
+  #log-in:disabled:hover {
+    cursor: default;
+    background: var(--primary-background);
+    color: var(---primary-text);
   }
 }
 

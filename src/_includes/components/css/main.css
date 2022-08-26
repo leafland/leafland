@@ -91,34 +91,39 @@ h6 {
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
     "Helvetica Neue", Arial, sans-serif;
 
-  --accent-color: lch(55%, 74, 139);
   --accent-color: hsl(128, 80%, 33%);
 
-  --brand-color: lch(55%, 74, 139);
   --brand-color: hsl(128, 80%, 33%);
 
-  --primary-text: lch(15%, 29, 142);
-  --primary-text: hsl(128, 80%, 10%);
+  /* --primary-text: hsl(128, 80%, 10%); */
 
-  --primary-background: lch(88%, 9, 148);
-  --primary-background: hsl(128, 20%, 85%);
+  --primary-text: #111;
 
-  --secondary-background: lch(99%, 1, 149);
-  --secondary-background: hsl(128, 20%, 99%);
+  --invert-primary-text: #eee;
 
-  --image-background: lch(88%, 9, 148);
-  --image-background: hsl(128, 20%, 85%);
+  --primary-background: #eee;
 
-  --border-color: lch(88%, 9, 148);
-  --border-color: hsl(128, 20%, 85%);
+  --invert-primary-background: #111;
+  /*   
+  --primary-background: hsl(128, 20%, 99%); */
 
-  --button-background: lch(99%, 1, 149);
-  --button-background: hsl(128, 20%, 99%);
+  --secondary-background: hsl(128, 20%, 85%);
 
-  --button-background-hover: lch(88%, 9, 148);
-  --button-background-hover: hsl(128, 20%, 85%);
+  --image-background: #111;
+
+  --border-color: #111;
+
+  /* --button-background: hsl(128, 20%, 99%); */
+
+  --button-background-hover: #111;
+
+  --button-color-hover: #eee;
 
   --default-animation-easing: cubic-bezier(0.31, 0.87, 0.32, 1);
+
+  --button-animation-easing: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
+
+  --link-animation-easing: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
 
   --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
   --font-size-2: clamp(0.85rem, 0.83rem + 0.24vw, 1rem);
@@ -128,6 +133,32 @@ h6 {
   --font-size-6: clamp(1rem, 1rem + 2vw, 3.5rem);
   --font-size-7: clamp(1.75rem, 1rem + 3vw, 4.5rem);
   /* --font-size-8: clamp(1.5rem, 1rem + 5vw, 5.5rem); */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent-color: hsl(128, 80%, 33%);
+
+    --brand-color: hsl(128, 80%, 33%);
+
+    --primary-text: #eee;
+
+    --invert-primary-text: #111;
+
+    --primary-background: #111;
+
+    --invert-primary-background: #eee;
+
+    --secondary-background: hsl(128, 20%, 85%);
+
+    --image-background: #eee;
+
+    --border-color: #eee;
+
+    --button-background-hover: #eee;
+
+    --button-color-hover: #111;
+  }
 }
 
 @keyframes fadeInAnimation {
@@ -195,12 +226,12 @@ h6 {
 input,
 select,
 textarea {
-  color: var(--primary-text);
-  border: 2px solid var(--primary-text);
+  /* color: #111; */
+  border: 2px solid var(--border-color);
   border-radius: 8px;
   /* font-size: 1rem; */
   font-weight: 700;
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
 }
 
 textarea {
@@ -224,7 +255,7 @@ input[type="checkbox"] {
   accent-color: var(--primary-text);
 }
 
-html {
+/* html {
   scrollbar-color: var(--primary-text) var(--secondary-background);
   scrollbar-width: thin;
 }
@@ -240,7 +271,7 @@ html {
 
 ::-webkit-scrollbar-thumb {
   background-color: var(--primary-text);
-}
+} */
 
 /* MAIN PAGE SECTIONS */
 body {
@@ -344,17 +375,18 @@ textarea {
 iframe {
   border: none;
   border-radius: 8px;
+  background: var(--image-background);
 }
 
 button,
 .button,
 input[type="submit"] {
   border: 2px solid var(--primary-text);
-  font-weight: 900;
+  font-weight: 700;
   padding: 0.3rem 0.6rem;
   text-transform: uppercase;
   background: none;
-  transition: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
+  transition: var(--button-animation-easing);
   cursor: pointer;
   border-radius: 8px;
   opacity: 1;
@@ -364,7 +396,7 @@ input[type="submit"] {
 a {
   text-decoration: none;
   color: var(--primary-text);
-  transition: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
+  transition: var(--link-animation-easing);
 }
 
 h1 {
@@ -404,6 +436,14 @@ input {
   font-family: var(--global-font-family);
 }
 
+details > summary {
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
 #content {
   opacity: 1;
   height: 100%;
@@ -415,7 +455,7 @@ input {
 label {
   display: block;
   /* text-transform: uppercase; */
-  font-weight: 900;
+  font-weight: 700;
 }
 
 /* HEADER AND MENUS */
@@ -424,7 +464,7 @@ header {
   width: 100%;
   height: auto;
   z-index: 3;
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
 }
 
 #header {
@@ -460,7 +500,7 @@ footer {
   /* padding: 1rem; */
 }
 footer p {
-  font-weight: 900;
+  font-weight: 700;
   /* text-transform: uppercase; */
 }
 
@@ -479,8 +519,8 @@ footer p {
   width: 100%;
   display: flex;
   gap: 3rem;
-  background: var(--secondary-background);
-  padding: 2rem;
+  /* background: var(--secondary-background); */
+  /* padding: 2rem; */
   border-radius: 8px;
   flex-wrap: wrap;
 }
@@ -569,26 +609,32 @@ body.main-menu-open {
   input[type="submit"]:hover {
     cursor: pointer;
     background: var(--button-background-hover);
+    color: var(--button-color-hover);
   }
 
   #header-buttons button:hover {
     background: var(--primary-text);
-    color: var(--secondary-background);
-    border-color: var(--primary-text);
+    color: var(--primary-background);
+    border-color: var(--border-color);
   }
   a:hover:not(header a) {
-    color: var(--brand-color);
+    color: var(--accent-color);
+  }
+
+  #desktop-menu button:hover {
+    background: var(--primary-background);
+    color: var(--accent-color);
   }
 
   #content-inner .button:hover,
   #content-grid .button:hover {
     cursor: pointer;
     background-color: var(--primary-text);
-    color: var(--secondary-background);
+    color: var(--primary-background);
   }
 
   #subscribe-form input[type="submit"]:hover {
-    color: var(--secondary-background);
+    color: var(--primary-background);
     background: var(--primary-text);
   }
 
@@ -598,7 +644,6 @@ body.main-menu-open {
 }
 
 @media (min-width: 650px) {
-  main,
   nav#header {
     padding: 2rem;
   }

@@ -46,8 +46,9 @@
 }
 
 .main-menu-list-item {
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
   border-radius: 8px;
+  border: 2px solid var(--primary-text);
   max-height: 400px;
   height: 100%;
 }
@@ -69,13 +70,14 @@
   position: relative;
   grid-auto-flow: column;
   align-items: center;
-  grid-gap: 1rem;
+  grid-gap: 2rem;
   padding: 0;
 }
 
 #desktop-menu li a,
 #desktop-menu li button {
   text-transform: none;
+  font-weight: 700;
 }
 
 #desktop-menu .button,
@@ -95,15 +97,20 @@
   z-index: -1;
   transition: 300ms all 150ms;
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 1rem;
   position: absolute;
   top: 110%;
   left: 0;
-  background: var(--secondary-background);
+  background: var(--primary-background);
+  color: var(--primary-text);
   border-radius: 8px;
   padding: 20px;
   width: 300px;
-  border: 2px solid var(--border-color);
+  border: 2px solid var(--primary-text);
+}
+
+.dropdown-sub-menu a {
+  font-size: var(--font-size-2);
 }
 
 .dropdown-menu-button {
@@ -128,7 +135,7 @@
 #back-button,
 #close-menu {
   cursor: pointer;
-  border-color: var(--primary-text);
+  border-color: var(--border-color);
 }
 
 #back-button {
@@ -204,8 +211,8 @@ li.sub-menu-button button div svg {
 
   #back-button:hover,
   #close-menu:hover {
-    background: var(--primary-text);
-    color: var(--secondary-background);
+    background: var(--button-background-hover);
+    color: var(--button-color-hover);
   }
 
   .dropdown-menu-button:hover + .dropdown-sub-menu,
@@ -216,11 +223,11 @@ li.sub-menu-button button div svg {
   }
 
   .dropdown-menu:hover > .dropdown-menu-button {
-    background: var(--button-background-hover);
+    color: var(--accent-color);
   }
 
   #desktop-menu .button:hover {
-    color: var(--primary-text);
+    color: var(--accent-color);
   }
 }
 
