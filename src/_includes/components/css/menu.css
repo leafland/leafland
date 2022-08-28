@@ -39,7 +39,7 @@
 .main-menu-list {
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 500px));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
   grid-gap: 3rem;
   justify-content: center;
   align-content: start;
@@ -184,7 +184,12 @@
   border: none;
 }
 
-li.sub-menu-button button div {
+#resources-sub-menu-button p,
+#top-trees-sub-menu-button p {
+  text-align: left;
+}
+
+/* li.sub-menu-button button div {
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -200,7 +205,7 @@ li.sub-menu-button button div svg {
 .down-icon {
   width: 25px;
   height: 25px;
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   .main-menu-list .button:hover,
