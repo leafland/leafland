@@ -49,8 +49,8 @@
   /* background: var(--secondary-background); */
   border-radius: 8px;
   border: 2px solid var(--primary-text);
-  max-height: 400px;
-  height: 100%;
+  /* max-height: 400px;
+  height: 100%; */
 }
 
 .main-menu-list-item-link,
