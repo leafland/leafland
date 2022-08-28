@@ -39,9 +39,9 @@ body.stock-table-open #stock-table {
 #stock-table-div {
   overflow: auto;
   width: 100%;
-  border: 2px solid var(--primary-text);
+  /* border: 2px solid var(--primary-text); */
   /* background: var(--secondary-background); */
-  border-radius: 8px;
+  /* border-radius: 8px; */
   height: 100%;
   min-height: 30rem;
 }
