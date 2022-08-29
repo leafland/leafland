@@ -548,12 +548,10 @@ window.addEventListener("orderSent", () => {
   updateOrder();
 });
 
-window.addEventListener("loginUpdated", () => {
-  (async function init() {
-    updateOrder();
-    getOrderFreightData();
-  })();
-});
+(async function init() {
+  updateOrder();
+  getOrderFreightData();
+})();
 
 orderRegion.addEventListener("input", () => {
   updateOrder();

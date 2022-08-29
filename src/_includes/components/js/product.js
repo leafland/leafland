@@ -27,23 +27,21 @@ const productAdded = new Event("productAdded");
 
 let grades = [];
 
-window.addEventListener("loginUpdated", () => {
-  (async function init() {
-    addEventListeners();
+(async function init() {
+  addEventListeners();
 
-    await createTreeImages();
+  await createTreeImages();
 
-    await getProductStockData();
+  await getProductStockData();
 
-    await createStockValues();
+  await createStockValues();
 
-    document.querySelector(
-      "#tree-name-content"
-    ).innerHTML = `${treeBotanicalName.innerHTML}`;
+  document.querySelector(
+    "#tree-name-content"
+  ).innerHTML = `${treeBotanicalName.innerHTML}`;
 
-    await createStockTable();
-  })();
-});
+  await createStockTable();
+})();
 
 async function getProductStockData() {
   let treeName;

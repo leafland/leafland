@@ -53,22 +53,20 @@ if (stockListType === "retail") {
   ];
 }
 
-window.addEventListener("loginUpdated", () => {
-  (async function () {
-    stockData = await fetch(
-      "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
-    )
-      .then((response) => response.json())
-      .catch((error) => {});
+(async function () {
+  stockData = await fetch(
+    "https://api.leafland.co.nz/default/get-stock-data-file?type=list"
+  )
+    .then((response) => response.json())
+    .catch((error) => {});
 
-    await displayData(stockData, stockStart, stockEnd);
+  await displayData(stockData, stockStart, stockEnd);
 
-    stockSearchInput.removeAttribute("disabled");
-    stockSearchInput.addEventListener("input", (e) => {
-      filterData();
-    });
-  })();
-});
+  stockSearchInput.removeAttribute("disabled");
+  stockSearchInput.addEventListener("input", (e) => {
+    filterData();
+  });
+})();
 
 // display passed data in a table
 async function displayData(dataSet, stockStart, stockEnd) {

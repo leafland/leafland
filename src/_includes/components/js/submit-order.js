@@ -275,16 +275,14 @@ async function populateForm() {
   }
 }
 
-window.addEventListener("loginUpdated", () => {
-  (async function () {
-    if (submitOrderTrees.length === 0) {
-      submitForm.style.setProperty("display", "none");
-      emptyMessage.style.setProperty("display", "block");
-    } else {
-      await populateForm();
-    }
-  })();
-});
+(async function () {
+  if (submitOrderTrees.length === 0) {
+    submitForm.style.setProperty("display", "none");
+    emptyMessage.style.setProperty("display", "block");
+  } else {
+    await populateForm();
+  }
+})();
 
 window.addEventListener("storage", (event) => {
   if (event.key === "trees") {

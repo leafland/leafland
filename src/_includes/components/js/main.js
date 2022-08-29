@@ -33,31 +33,29 @@ if (sessionStorage.getItem("trees") === null) {
   sessionStorage.setItem("trees", "[]");
 }
 
-window.addEventListener("loginUpdated", () => {
-  if (
-    localStorage.getItem("loggedIn") === "false" ||
-    localStorage.getItem("loggedIn") === null
-  ) {
-    loggedIn = false;
-    localStorage.setItem("loggedIn", "false");
-  } else {
-    loggedIn = true;
-    localStorage.setItem("loggedIn", "true");
-  }
+if (
+  localStorage.getItem("loggedIn") === "false" ||
+  localStorage.getItem("loggedIn") === null
+) {
+  loggedIn = false;
+  localStorage.setItem("loggedIn", "false");
+} else {
+  loggedIn = true;
+  localStorage.setItem("loggedIn", "true");
+}
 
-  if (loggedIn) {
-    headerStockLink.href = `/wholesale-stock-list/`;
+if (loggedIn) {
+  headerStockLink.href = `/wholesale-stock-list/`;
 
-    menuStockLink.href = `/wholesale-stock-list/`;
+  menuStockLink.href = `/wholesale-stock-list/`;
 
-    document.body.classList.add("loggedIn");
-  } else {
-    headerStockLink.href = `/retail-stock-list/`;
+  document.body.classList.add("loggedIn");
+} else {
+  headerStockLink.href = `/retail-stock-list/`;
 
-    menuStockLink.href = `/retail-stock-list/`;
-    document.body.classList.remove("loggedIn");
-  }
-});
+  menuStockLink.href = `/retail-stock-list/`;
+  document.body.classList.remove("loggedIn");
+}
 
 window.addEventListener("storage", () => {
   if (localStorage.getItem("loggedIn") === "true") {
