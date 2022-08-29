@@ -548,16 +548,6 @@ async function createStockValues() {
     gradeSizesDiv.style.setProperty("margin-top", "0");
   }
 
-  if (inStock === 0) {
-    gradeSizesDiv.innerHTML = ``;
-    let message = document.createElement("p");
-    message.textContent = "Currently out of stock.";
-    message.classList.add("bold-up");
-    gradeSizesDiv.appendChild(message);
-    gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
-    gradeSizesDiv.style.setProperty("margin-top", "0");
-  }
-
   if (totalProductionDates === 0) {
     document
       .querySelector("#production-details")
@@ -568,6 +558,16 @@ async function createStockValues() {
     document
       .querySelector("#available-details")
       .style.setProperty("display", "none");
+  }
+
+  if (inStock === 0) {
+    gradeSizesDiv.innerHTML = ``;
+    let message = document.createElement("p");
+    message.textContent = "Currently out of stock.";
+    message.classList.add("bold-up");
+    gradeSizesDiv.appendChild(message);
+    gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
+    gradeSizesDiv.style.setProperty("margin-top", "0");
   }
 }
 
