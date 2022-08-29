@@ -63,7 +63,7 @@ body.stock-table-open #stock-table {
   border-bottom: 2px solid var(--primary-text);
   white-space: break-spaces;
   word-break: keep-all;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 #stock-table tr:first-child th:first-child {
@@ -117,7 +117,7 @@ body.stock-table-open #stock-table {
 
 #stock-table td {
   padding: 0.5rem 1rem;
-  font-weight: 700;
+  /* font-weight: 700; */
   /* min-width: 5rem;
     max-width: 5rem; */
 }

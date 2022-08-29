@@ -2,7 +2,7 @@
   padding: 8px 16px;
   font-size: var(--font-size-5);
   width: 100%;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 /* input#search::placeholder {
@@ -43,10 +43,10 @@ body.search-loaded #search-results {
 }
 
 #search-results p.empty-message {
-  background: none;
-  padding: 0;
+  /* background: none;
+  padding: 0; */
   justify-self: start;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 700;
 }
 

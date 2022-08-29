@@ -6,10 +6,6 @@ main {
   text-transform: uppercase;
 } */
 
-input[type="text"].search {
-  font-weight: 900;
-}
-
 #content {
   max-width: 80rem;
   display: grid;
@@ -25,6 +21,10 @@ input[type="text"].search {
   border-radius: 8px; */
 }
 
+/* #stock-data td a {
+  font-size: var(--font-size-2);
+} */
+
 table {
   border-spacing: 0px;
   width: 100%;
@@ -36,7 +36,7 @@ th {
   border-bottom: 2px solid var(--border-color);
   white-space: break-spaces;
   word-break: keep-all;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 /* tr:first-child th:first-child {
@@ -90,13 +90,13 @@ th:nth-child(2) {
 
 td {
   /* padding: 0.5rem 1rem; */
-  font-weight: 700;
+  /* font-weight: 700; */
   min-width: 5rem;
   max-width: 5rem;
 }
 
 .message {
-  text-align: center;
+  /* text-align: center; */
   font-weight: 700;
 }
 
@@ -109,6 +109,7 @@ input[type="text"].search {
   width: 100%;
   min-height: 30px;
   padding: 0.5rem 0.75rem;
+  font-weight: 700;
 }
 /* .search::placeholder {
   color: #c3ced5;

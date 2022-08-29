@@ -317,7 +317,7 @@ let doneTypingInterval = 500;
           searchReturnToTopButton.style.setProperty("visibility", "hidden");
           searchResultsInner.innerHTML = ``;
           let emptyMessage = document.createElement("p");
-          emptyMessage.textContent = "No results.";
+          emptyMessage.textContent = "No results found.";
           emptyMessage.classList.add("empty-message");
           searchResultsInner.appendChild(emptyMessage);
 

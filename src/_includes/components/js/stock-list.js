@@ -73,7 +73,7 @@ window.addEventListener("loginUpdated", () => {
 // display passed data in a table
 async function displayData(dataSet, stockStart, stockEnd) {
   if (dataSet.length < 1) {
-    stockDataDiv.innerHTML = `<h2 class="message">No results found</h2>`;
+    stockDataDiv.innerHTML = `<p class="message">No results found.</p>`;
     resultTotals.innerHTML = `Showing 0 to 0 of 0 results`;
     nextButton.disabled = true;
     prevButton.disabled = true;
