@@ -162,8 +162,8 @@
 }
 
 .menu-open .main-menu-list-item {
-  grid-row-start: auto;
-  grid-row-end: auto;
+  /* grid-row-start: auto;
+  grid-row-end: auto; */
   width: 100%;
 }
 
