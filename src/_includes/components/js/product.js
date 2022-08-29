@@ -253,6 +253,7 @@ async function createTreeImages() {
 async function createStockValues() {
   let inStock = 0;
   let totalProductionDates = 0;
+  let totalProductGrades = 0;
 
   if (grades.length !== 0) {
     for (let i = 0; i < grades.length; i++) {
@@ -413,6 +414,8 @@ async function createStockValues() {
             document
               .querySelector("#grade-size-selection")
               .appendChild(gradeDiv);
+
+            totalProductGrades += 1;
           }
 
           for (
@@ -560,6 +563,12 @@ async function createStockValues() {
   if (totalProductionDates === 0) {
     document
       .querySelector("#production-details")
+      .style.setProperty("display", "none");
+  }
+
+  if (totalProductGrades === 0) {
+    document
+      .querySelector("#available-details")
       .style.setProperty("display", "none");
   }
 }
