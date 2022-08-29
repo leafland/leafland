@@ -327,8 +327,8 @@ submitForm.addEventListener("submit", (event) => {
   let orderTotal = document.querySelector("#order-total");
 
   send.textContent = "Submitting...";
-  send.style.setProperty("background", "var(--primary-text");
-  send.style.setProperty("color", "var(--secondary-background");
+  send.style.setProperty("background", "var(--button-background-hover");
+  send.style.setProperty("color", "var(--button-color-hover");
   send.style.setProperty("cursor", "default");
 
   const {
