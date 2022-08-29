@@ -46,7 +46,7 @@ loginForm.addEventListener("submit", (event) => {
 
   (async function () {
     await logIn(event);
-    if (login === "false") {
+    if (login === "false" || login === undefined) {
       returnMessage.textContent = "Invalid email address. Please try again.";
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = false;
