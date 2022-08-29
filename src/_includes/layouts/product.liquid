@@ -1279,33 +1279,5 @@ type: product
 
     </div>
 
-
-    {% if tree.relatedTrees.size > 0 %}
-    <h3 id="related-trees">You may also like</h3>
-
-    <div id="related-trees-section">
-    
-    {% for relatedTree in tree.relatedTrees %}
-
-    <div class="related-tree">
-        <div class="tree-image">
-            <img src="https://leafland.imgix.net/images/trees/{{ relatedTree.mainImage }}?auto=format&w=500&q=75">
-        </div>
-        <div class="tree-content">
-            <div>
-                <h2>{{ relatedTree.botanicalName }}</h2>
-                {% if relatedTree.commonName != '' %}
-                <h3>{{ relatedTree.commonName }}</h3>
-                {% endif %}
-            </div>
-            <a class="button tree-link" href="/trees/{{ relatedTree.url }}/">View Tree</a>
-        </div>
-    </div>
-
-    {% endfor %}
-    
-    </div>
-    {% endif %}
-
 </div>
 

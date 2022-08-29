@@ -767,10 +767,3 @@ if (document.body.contains(document.querySelector("#open-more-links"))) {
 document.querySelector("#close-more-links").addEventListener("click", () => {
   document.body.classList.remove("more-links-open");
 });
-
-// document.querySelector("#open-features").addEventListener("click", () => {
-//   document.body.classList.add("features-open");
-// });
-// document.querySelector("#close-features").addEventListener("click", () => {
-//   document.body.classList.remove("features-open");
-// });

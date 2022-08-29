@@ -21,7 +21,6 @@ closeMenu.addEventListener("click", () => {
 backButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "0");
   backButton.style.setProperty("z-index", "0");
-  // backButton.style.setProperty("transition", "none");
 
   resourcesSubMenu.classList.remove("menu-open");
   resourcesSubMenu.classList.add("menu-closed");
@@ -39,7 +38,6 @@ backButton.addEventListener("click", () => {
 resourcesSubMenuButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
-  // backButton.style.setProperty("transition", "var(--button-animation-easing)");
 
   resourcesSubMenu.classList.add("menu-open");
   resourcesSubMenu.classList.remove("menu-closed");
@@ -57,7 +55,6 @@ resourcesSubMenuButton.addEventListener("click", () => {
 topTreesSubMenuButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
-  // backButton.style.setProperty("transition", "var(--button-animation-easing)");
 
   resourcesSubMenu.classList.remove("menu-open");
   resourcesSubMenu.classList.add("menu-closed");

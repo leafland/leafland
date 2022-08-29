@@ -2,10 +2,6 @@ main {
   margin-top: 5rem;
 }
 
-/* h1 {
-  text-transform: uppercase;
-} */
-
 #content {
   max-width: 80rem;
   display: grid;
@@ -14,7 +10,6 @@ main {
 
 .tree-item {
   text-align: center;
-  /* text-transform: uppercase; */
   display: grid;
   justify-items: start;
   border-radius: 8px;
@@ -56,9 +51,6 @@ main {
 .title-link-box h3 {
   text-align: left;
   color: #eee;
-  /* background: var(--secondary-background);
-  border-radius: 8px;
-  padding: 0.3rem 0.6rem; */
   float: left;
   margin-top: 0.4rem;
   font-size: var(--font-size-2);

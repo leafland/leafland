@@ -1,4 +1,3 @@
-// init document elements
 let stockSearchInput = document.querySelector(".search");
 let nextButton = document.querySelector("#next");
 let prevButton = document.querySelector("#prev");
@@ -20,7 +19,7 @@ if (window.location.href.search("retail") === -1) {
 } else {
   stockListType = "retail";
 }
-// init other variables
+
 var stockData = [];
 let filteredData = [];
 let stockStart = 0;
@@ -68,7 +67,6 @@ if (stockListType === "retail") {
   });
 })();
 
-// display passed data in a table
 async function displayData(dataSet, stockStart, stockEnd) {
   if (dataSet.length < 1) {
     stockDataDiv.innerHTML = `<p class="message">No results found.</p>`;
@@ -81,12 +79,10 @@ async function displayData(dataSet, stockStart, stockEnd) {
     let table = document.createElement("table");
 
     for (let i = stockStart; i < stockEnd + 1; i++) {
-      // if we reach the stockEnd of our dataset, stop iterating
       if (i > dataSet.length - 1) {
         break;
       }
 
-      // on the first iteration, create our heading row. otherwise, create a row with our dataset at i
       if (i === stockStart) {
         let row = document.createElement("tr");
         heading.forEach((item) => {
@@ -149,8 +145,6 @@ function resetStartEnd() {
   stockStart = 0;
   stockEnd = 24;
 }
-
-// init event listeners
 
 nextButton.addEventListener("click", () => {
   stockStart += 25;

@@ -2,10 +2,6 @@ main {
   margin-top: 5rem;
 }
 
-/* h1 {
-  text-transform: uppercase;
-} */
-
 .filter-minus {
   display: none;
 }
@@ -28,19 +24,10 @@ main {
 
 .tree-item {
   text-align: center;
-  /* text-transform: uppercase; */
   display: grid;
   justify-items: start;
   border-radius: 8px;
   height: 300px;
-  opacity: 0;
-  visibility: hidden;
-}
-
-.tree-item-loaded {
-  animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    var(--default-animation-easing);
-  visibility: visible;
 }
 
 .tree-item > * {
@@ -77,10 +64,7 @@ main {
 
 .title-link-box h3 {
   color: #eee;
-  /* background: var(--secondary-background); */
   text-align: left;
-  /* border-radius: 8px;
-  padding: 0.3rem 0.6rem; */
   float: left;
   margin-top: 0.4rem;
   font-size: var(--font-size-2);
@@ -188,35 +172,8 @@ footer label {
   grid-template-columns: 1fr auto;
   align-items: center;
   font-weight: 700;
-  /* text-transform: uppercase; */
-  /* background: var(--secondary-background);
-  padding: 1rem;
-  border-radius: 8px; */
   font-size: var(--font-size-2);
 }
-
-/* summary .info-pill {
-  margin-left: 0.5rem;
-  padding: 0.2rem 0.4rem;
-} */
-
-/* #filter svg {
-  height: 20px;
-  width: 20px;
-}
-
-#filter .right-icon {
-  display: block;
-  transition: transform 0.3s var(--default-animation-easing);
-  width: 25px;
-  height: 25px;
-}
-
-#filter .down-icon {
-  display: none;
-  width: 25px;
-  height: 25px;
-} */
 
 #filter details[open] > summary .filter-minus {
   display: block;
@@ -295,12 +252,6 @@ p#no-products {
   }
 }
 
-/* @media (min-width: 1500px) {
-  div#tree-wrapper {
-    grid-template-columns: repeat(3, 1fr);
-  }
-} */
-
 @media (hover: hover) and (pointer: fine) {
   p#no-products {
     grid-column-start: 1;
@@ -317,9 +268,6 @@ p#no-products {
   #filter .options-group {
     display: grid;
     grid-gap: 1rem;
-    /* padding: 1rem;
-    background: var(--secondary-background);
-    border-radius: 8px; */
     margin-top: 20px;
   }
 
@@ -350,11 +298,6 @@ p#no-products {
     margin-top: 0;
   }
 
-  /* #button-div button:hover:enabled {
-    background: #111;
-    color: var(--secondary-background);
-  } */
-
   .title-link-box a:hover {
     background: #eee;
     color: #111;
@@ -365,9 +308,4 @@ p#no-products {
   #filter details > summary:hover {
     cursor: pointer;
   }
-
-  /* #clear-checkbox-filter:hover:enabled {
-    background: var(--primary-text);
-    color: var(--secondary-background);
-  } */
 }

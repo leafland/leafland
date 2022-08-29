@@ -1,5 +1,4 @@
 let searchInput = document.querySelector("#search");
-// let searchResults = document.querySelector("#search-results");
 let searchResultsInner = document.querySelector("#search-results-inner");
 let openSearch = document.querySelector("#open-search");
 let closeSearch = document.querySelector("#close-search");
@@ -113,7 +112,6 @@ async function search(terms) {
             .replace(/,/g, " ")
             .replace(/-/g, " ")
             .replace(/-x-/g, " ")
-            // .replace(/\s/g, "")
             .replace(/ã/g, "a")
             .replace(/é/g, "e")
             .replace(/ā/g, "a")
@@ -133,7 +131,6 @@ async function search(terms) {
           .replace(/,/g, " ")
           .replace(/-/g, " ")
           .replace(/-x-/g, " ")
-          // .replace(/\s/g, "")
           .replace(/ã/g, "a")
           .replace(/é/g, "e")
           .replace(/ā/g, "a")
@@ -154,7 +151,6 @@ async function search(terms) {
               .replace(/,/g, " ")
               .replace(/-/g, " ")
               .replace(/-x-/g, " ")
-              // .replace(/\s/g, "")
               .replace(/ã/g, "a")
               .replace(/é/g, "e")
               .replace(/ā/g, "a")
@@ -276,8 +272,6 @@ async function displayResults(results) {
 
     resultDiv.appendChild(surfaceContent);
 
-    resultDiv.style.setProperty("--animation-order", `${i % 12}`);
-    resultDiv.classList.add("search-result-loaded");
     searchResultsInner.appendChild(resultDiv);
   }
 }

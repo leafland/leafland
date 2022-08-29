@@ -18,14 +18,12 @@ main h3 {
 
 #content {
   display: grid;
-  /* padding: 1rem; */
   gap: 2rem;
 }
 #collapsing-content {
   margin-top: 5rem;
   justify-self: center;
   display: grid;
-  /* grid-template-rows: 1fr; */
   grid-template-columns: 1fr;
   gap: 10rem;
   max-width: 60rem;
@@ -38,7 +36,6 @@ main h3 {
   height: 750px;
   justify-self: center;
   width: 100vw;
-  /* padding: 2rem; */
   margin-left: -2rem;
   margin-right: -2rem;
 }
@@ -57,7 +54,6 @@ main h3 {
 
 #link-block {
   text-align: center;
-  /* grid-row-start: 3; */
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
@@ -68,7 +64,6 @@ main h3 {
 }
 
 #hero-images {
-  /* display: none; */
   filter: brightness(0.8);
 }
 
@@ -85,20 +80,15 @@ main h3 {
 }
 
 #hero-text {
-  /* color: var(--inverse-text-color); */
   align-self: start;
-  /* grid-row-start: 2; */
-  /* animation: fadeInUp 1s 500ms forwards cubic-bezier(0.31,0.87,0.32,1) */
 }
 
 #hero-text h1 {
   color: #eee;
-  /* text-transform: uppercase; */
   font-weight: 900;
 }
 
 #hero-text .subtitle {
-  /* text-transform: uppercase; */
   background: #eee;
   display: inline-block;
   color: var(--accent-color);
@@ -115,9 +105,6 @@ main h3 {
 }
 
 .split-section {
-  /* margin: 5rem 0 5rem 0; */
-  /* padding: 2rem; */
-  /* background: var(--secondary-background); */
   border-radius: 8px;
   display: grid;
   grid-template-columns: 1fr;
@@ -147,12 +134,8 @@ main h3 {
   max-width: 750px;
 }
 .banner-section {
-  /* min-height: 400px; */
   display: grid;
-  /* padding: 2rem; */
-  /* background: var(--secondary-background); */
   width: 100%;
-  /* max-width: 80rem; */
   border-radius: 8px;
 }
 .banner-section-inner {
@@ -163,10 +146,8 @@ main h3 {
 }
 
 .banner-section-inner .button {
-  /* margin-bottom: 2rem; */
   justify-self: center;
   border-color: var(--border-color);
-  /* background: none; */
 }
 
 .split-section,
@@ -178,75 +159,16 @@ main h3 {
   width: 100%;
 }
 
-/* footer {
-  padding: 1rem;
-} */
-
 @media (hover: hover) and (pointer: fine) {
   div#hero .button:hover {
     background: #111;
     border-color: #111;
     color: #eee;
   }
-
-  /* .banner-section-inner .button:hover {
-    background: var(--primary-text);
-    color: var(--secondary-background);
-  } */
 }
 
 @media (min-width: 650px) {
   footer {
     padding-bottom: 2rem;
   }
-
-  /* .split-section {
-    grid-template-columns: repeat(2, 1fr);
-  } */
-
-  /* main {
-    padding: 0 2rem 2rem 2rem;
-  } */
-}
-
-/* @media (min-width: 1000px) {
-  div#hero,
-  .hero-image {
-    height: 1000px;
-  }
-} */
-
-@media (min-width: 1200px) {
-  /* .split-section {
-    grid-template-columns: 1fr;
-    padding: 3rem;
-  } */
-
-  /* .split-section:last-child {
-    grid-column-start: 1;
-    grid-column-end: 3;
-    text-align: center;
-  }
-
-  .split-section:last-child .split-section-text {
-    justify-self: center;
-  }
-
-  .split-section:last-child img {
-    justify-self: center;
-  } */
-
-  /* .banner-section {
-    padding: 3rem;
-  } */
-
-  /* .split-section img,
-  .split-section video {
-    justify-self: end;
-  } */
-
-  /* #collapsing-content {
-    grid-template-rows: auto auto auto;
-    grid-template-columns: auto auto;
-  } */
 }

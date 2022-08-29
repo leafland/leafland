@@ -5,10 +5,6 @@
   font-weight: 700;
 }
 
-/* input#search::placeholder {
-  text-transform: none;
-} */
-
 #search:disabled {
   opacity: 0.7;
   cursor: default;
@@ -24,7 +20,6 @@
   justify-self: center;
   width: 100%;
   opacity: 0;
-  transition: opacity 0.5s var(--default-animation-easing);
 }
 
 body.search-loaded #search-results {
@@ -43,10 +38,7 @@ body.search-loaded #search-results {
 }
 
 #search-results p.empty-message {
-  /* background: none;
-  padding: 0; */
   justify-self: start;
-  /* text-transform: uppercase; */
   font-weight: 700;
 }
 
@@ -63,12 +55,6 @@ body.search-loaded #search-results {
 .search-result {
   height: 300px;
   display: grid;
-  opacity: 0;
-}
-
-.search-result-loaded {
-  animation: fadeInUp 0.75s forwards calc(var(--animation-order) * 100ms)
-    var(--default-animation-easing);
 }
 
 .search-result > * {
@@ -107,7 +93,6 @@ body.search-loaded #search-results {
   height: 100%;
   width: 100%;
   background: var(--primary-background);
-  /* transition: all 0.5s var(--default-animation-easing); */
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;
@@ -126,14 +111,11 @@ body.search-loaded #search-results {
 }
 
 #search-inner .button {
-  /* color: var(--secondary-background); */
   border-color: #eee;
   color: #eee;
 }
 
 .result-botanical-name {
-  /* text-transform: uppercase; */
-
   font-weight: 900;
   color: #eee;
   line-height: 1.2;
@@ -142,14 +124,9 @@ body.search-loaded #search-results {
 
 .result-common-name {
   color: #eee;
-  /* background: var(--secondary-background);
-  border-radius: 8px;
-  padding: 0.3rem 0.6rem; */
   display: inline-block;
   font-size: var(--font-size-2);
   font-weight: 700;
-  /* text-transform: uppercase; */
-
   margin-top: 0.4rem;
   line-height: 1.2;
 }
@@ -186,12 +163,6 @@ body.search-loaded #search-results {
     color: #111;
     background: #eee;
   }
-
-  /* #search-load-more-div button:hover:enabled,
-  #close-search:hover {
-    background: var(--button-background-hover);
-    color: var(--button-color-hover);
-  } */
 }
 
 @media (min-width: 650px) {
