@@ -32,7 +32,11 @@ loginForm.addEventListener("submit", (event) => {
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = true;
       localStorage.setItem("loggedIn", "true");
-      window.location.reload();
+      if (window.location.pathname === "/retail-stock-list/") {
+        window.location.pathname = "/wholesale-stock-list/";
+      } else {
+        window.location.reload();
+      }
     }
   })();
 });
@@ -49,5 +53,9 @@ closeLogin.addEventListener("click", () => {
 
 logOutButton.addEventListener("click", () => {
   localStorage.setItem("loggedIn", "false");
-  window.location.reload();
+  if (window.location.pathname === "/wholesale-stock-list/") {
+    window.location.pathname = "/retail-stock-list/";
+  } else {
+    window.location.reload();
+  }
 });
