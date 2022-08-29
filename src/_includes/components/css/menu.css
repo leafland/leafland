@@ -39,10 +39,12 @@
 .main-menu-list {
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 500px));
+  grid-template-columns: repeat(auto-fill, minmax(100px, 400px));
   grid-gap: 3rem;
   justify-content: center;
+  max-width: 80rem;
   align-content: start;
+  justify-self: center;
 }
 
 .main-menu-list-item {
