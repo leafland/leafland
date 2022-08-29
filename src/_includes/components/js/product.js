@@ -252,6 +252,7 @@ async function createTreeImages() {
 
 async function createStockValues() {
   let inStock = 0;
+  let totalProductionDates = 0;
 
   if (grades.length !== 0) {
     for (let i = 0; i < grades.length; i++) {
@@ -490,43 +491,49 @@ async function createStockValues() {
               }
             }
           }
-        }
 
-        productionDates.sort((a, b) => {
-          if (a.grade === b.grade) {
-            if (a.dateReady.getTime() > b.dateReady.getTime()) {
-              return 1;
-            } else if (a.dateReady.getTime() < b.dateReady.getTime()) {
-              return -1;
+          if (productionDates.length > 0) {
+            productionDates.sort((a, b) => {
+              if (a.grade === b.grade) {
+                if (a.dateReady.getTime() > b.dateReady.getTime()) {
+                  return 1;
+                } else if (a.dateReady.getTime() < b.dateReady.getTime()) {
+                  return -1;
+                }
+              } else {
+                return 0;
+              }
+            });
+
+            for (let n = 0; n < productionDates.length; n++) {
+              let gradeDiv = document.createElement("div");
+              gradeDiv.classList.add("selection-box");
+
+              let gradeSizeValue = document.createElement("p");
+              gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
+
+              let quantityValue = document.createElement("p");
+              quantityValue.innerHTML = `Quantity In Production: <span class='accent-color'>${productionDates[n].quantity}</span>`;
+
+              let dateReady = document.createElement("p");
+              dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
+                n
+              ].dateReady.toLocaleDateString("en-gb", {
+                year: "numeric",
+                month: "long",
+              })}</span>`;
+
+              gradeDiv.appendChild(gradeSizeValue);
+              gradeDiv.appendChild(quantityValue);
+              gradeDiv.appendChild(dateReady);
+
+              document
+                .querySelector("#in-production-grades")
+                .appendChild(gradeDiv);
+
+              totalProductionDates += 1;
             }
-          } else {
-            return 0;
           }
-        });
-
-        for (let n = 0; n < productionDates.length; n++) {
-          let gradeDiv = document.createElement("div");
-          gradeDiv.classList.add("selection-box");
-
-          let gradeSizeValue = document.createElement("p");
-          gradeSizeValue.innerHTML = `Grade Size: <span class='accent-color'>${grades[i].grade}</span>`;
-
-          let quantityValue = document.createElement("p");
-          quantityValue.innerHTML = `Quantity In Production: <span class='accent-color'>${productionDates[n].quantity}</span>`;
-
-          let dateReady = document.createElement("p");
-          dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
-            n
-          ].dateReady.toLocaleDateString("en-gb", {
-            year: "numeric",
-            month: "long",
-          })}</span>`;
-
-          gradeDiv.appendChild(gradeSizeValue);
-          gradeDiv.appendChild(quantityValue);
-          gradeDiv.appendChild(dateReady);
-
-          document.querySelector("#in-production-grades").appendChild(gradeDiv);
         }
       }
     }
@@ -548,6 +555,12 @@ async function createStockValues() {
     gradeSizesDiv.appendChild(message);
     gradeSizesDiv.style.setProperty("grid-template-columns", "1fr");
     gradeSizesDiv.style.setProperty("margin-top", "0");
+  }
+
+  if (totalProductionDates === 0) {
+    document
+      .querySelector("#production-details")
+      .style.setProperty("display", "none");
   }
 }
 
