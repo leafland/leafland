@@ -321,7 +321,7 @@ h3 {
   height: 25px;
 }
 
-.minus {
+#submit-order-overlay .minus {
   display: none;
 }
 
@@ -330,19 +330,23 @@ h3 {
 }
 
 #submit-order-overlay details[open] > summary .minus {
-  display: block;
+  display: inline-block;
 }
 
 #submit-order-overlay details[closed] > summary .plus {
-  display: block;
+  display: inline-block;
 }
 
 #submit-order-overlay details[closed] > summary .minus {
-  display: minus;
+  display: none;
 }
 
 #submit-order-overlay details p {
   font-size: var(--font-size-2);
+}
+
+#submit-order-overlay details summary p {
+  font-size: var(--font-size-3);
 }
 
 #submit-order-overlay details p:not(:last-child) {

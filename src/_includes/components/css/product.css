@@ -74,13 +74,14 @@ main h3 {
 
 #grade-select {
   display: grid;
-  /* gap: 3rem; */
+  gap: 2rem;
 }
 
 .selection-grid {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(150px, max-content));
+  margin-top: 2rem;
 }
 
 .selection-box {
@@ -98,9 +99,9 @@ main h3 {
   font-weight: 700;
 }
 
-#in-production-grades {
+/* #in-production-grades {
   margin-top: 3rem;
-}
+} */
 
 #add-product-div {
   display: grid;
@@ -133,6 +134,46 @@ main h3 {
 
 #grade-sizes-heading {
   display: inline-block;
+}
+
+#grade-sizes .minus {
+  display: none;
+}
+
+#grade-sizes #available-details[open] > summary .plus {
+  display: none;
+}
+
+#grade-sizes #available-details[open] > summary .minus {
+  display: inline-block;
+}
+
+#grade-sizes #available-details[closed] > summary .plus {
+  display: inline-block;
+}
+
+#grade-sizes #available-details[closed] > summary .minus {
+  display: none;
+}
+
+#grade-sizes #production-details[open] > summary .plus {
+  display: none;
+}
+
+#grade-sizes #production-details[open] > summary .minus {
+  display: inline-block;
+}
+
+#grade-sizes #production-details[closed] > summary .plus {
+  display: inline-block;
+}
+
+#grade-sizes #production-details[closed] > summary .minus {
+  display: none;
+}
+
+#grade-sizes summary p {
+  font-weight: 700;
 }
 
 #stock-values {
@@ -875,10 +916,13 @@ body.loggedIn .retail-price {
   .tree-content a:hover {
     color: var(--primary-text);
     background: var(--secondary-background);
+    transition: var(--link-animation-easing);
   }
 
-  details > summary:hover {
+  #grade-sizes summary p:hover {
     cursor: pointer;
+    color: var(--accent-color);
+    transition: var(--link-animation-easing);
   }
 }
 
