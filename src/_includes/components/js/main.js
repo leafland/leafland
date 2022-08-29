@@ -18,14 +18,8 @@ if (sessionStorage.getItem("submittedOrder") === "true") {
     document.body.classList.remove("order-sent-open");
   });
 
-  // document.querySelector("#top-bar").style.setProperty("display", "grid");
   sessionStorage.setItem("submittedOrder", "false");
-
-  // setTimeout(() => {
-  //   document.querySelector("#top-bar").style.setProperty("display", "none");
-  // }, "3000");
 } else {
-  // document.querySelector("#top-bar").style.setProperty("display", "none");
   document.body.classList.remove("order-sent-open");
 }
 
@@ -39,51 +33,28 @@ if (
 ) {
   loggedIn = false;
   localStorage.setItem("loggedIn", "false");
+
+  headerStockLink.href = `/retail-stock-list/`;
+  menuStockLink.href = `/retail-stock-list/`;
+  document.body.classList.remove("loggedIn");
+
   document.querySelector("#login-form").style.setProperty("display", "block");
   document.querySelector("#login-message").style.setProperty("display", "none");
   document.querySelector("#log-out").style.setProperty("display", "none");
 } else {
   loggedIn = true;
   localStorage.setItem("loggedIn", "true");
+
+  headerStockLink.href = `/wholesale-stock-list/`;
+  menuStockLink.href = `/wholesale-stock-list/`;
+  document.body.classList.add("loggedIn");
+
   document.querySelector("#login-form").style.setProperty("display", "none");
   document
     .querySelector("#login-message")
     .style.setProperty("display", "block");
   document.querySelector("#log-out").style.setProperty("display", "block");
 }
-
-if (loggedIn) {
-  headerStockLink.href = `/wholesale-stock-list/`;
-
-  menuStockLink.href = `/wholesale-stock-list/`;
-
-  document.body.classList.add("loggedIn");
-} else {
-  headerStockLink.href = `/retail-stock-list/`;
-
-  menuStockLink.href = `/retail-stock-list/`;
-  document.body.classList.remove("loggedIn");
-}
-
-window.addEventListener("storage", () => {
-  if (localStorage.getItem("loggedIn") === "true") {
-    loggedIn = true;
-  } else {
-    loggedIn = false;
-  }
-
-  if (loggedIn) {
-    headerStockLink.href = `/wholesale-stock-list/`;
-
-    menuStockLink.href = `/wholesale-stock-list/`;
-    document.body.classList.add("loggedIn");
-  } else {
-    headerStockLink.href = `/retail-stock-list/`;
-
-    menuStockLink.href = `/retail-stock-list/`;
-    document.body.classList.remove("loggedIn");
-  }
-});
 
 document
   .querySelector("#subscribe-form")
