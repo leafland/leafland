@@ -80,7 +80,7 @@ main h3 {
 .selection-grid {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(150px, max-content));
+  grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
   margin-top: 2rem;
 }
 
@@ -932,11 +932,11 @@ body.loggedIn .retail-price {
   }
 }
 
-@media (min-width: 400px) {
+/* @media (min-width: 400px) {
   .selection-grid {
     grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
   }
-}
+} */
 
 @media (min-width: 500px) {
   #add-product-div {
