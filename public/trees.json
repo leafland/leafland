@@ -19217,7 +19217,20 @@
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "images": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-sayaka/camellia-sasanqua-paradise-sayaka-flower.jpg",
+        "alt": "camellia sasanqua paradise sayaka flower"
+      },
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-sayaka/camellia-sasanqua-paradise-sayaka-flowers.jpg",
+        "alt": "camellia sasanqua paradise sayaka flowers"
+      },
+      {
+        "src": "images/trees/camellia-sasanqua-paradise-sayaka/camellia-sasanqua-paradise-sayaka-single-flower.jpg",
+        "alt": "camellia sasanqua paradise sayaka single flower"
+      }
+    ],
     "links": [
       "https://camellia.iflora.cn/Cutivars/Detail?latin=Paradise%20Sayaka",
       "https://en.wikipedia.org/wiki/Camellia_sasanqua",
@@ -19236,178 +19249,6 @@
       "https://www.gardenia.net/plant-variety/camellias-sasanqua",
       "https://www.rhs.org.uk/plants/238522/camellia-sasanqua-paradise-sayaka-parsay/details",
       "http://paradiseplants.com.au/Plants/Plant.aspx?plant_id=668"
-    ]
-  },
-  {
-    "family": "Theaceae",
-    "genus": "Camellia",
-    "species": "sasanqua",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Plantation Pink",
-    "synonyms": [],
-    "commonName": "Camellia",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia. <a href='https://en.wikipedia.org/wiki/Theaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Theaceae</i></a>.",
-      "genus": "<i>camellia</i> (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia. <a href='https://en.wikipedia.org/wiki/Camellia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i></a>.",
-      "species": "<i>sasanqua</i>, named by Carl Peter Thunberg (1743 - 1828) and derived from the Japanese noun <i>sazanka</i> which is the Japanese name for <i>Camellia sasanqua</i>. This species is native to China and Japan. <a href='https://en.wikipedia.org/wiki/Camellia_sasanqua' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia sasanqua</i></a>.",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "camellia-sasanqua-plantation-pink",
-    "speciesNativeRange": "",
-    "hybridOrigin": "",
-    "subspeciesNativeRange": "",
-    "varietyNativeRange": "",
-    "formNativeRange": "",
-    "cultivarOrigin": "",
-    "mainImage": "camellia-sasanqua-plantation-pink/camellia-sasanqua-plantation-pink.jpg",
-    "description": "Vigorous and fast-growing. An upright grower with masses of large, sweet-scented, single to semi-double, soft-pink flowers with a wonderful boss of golden-yellow stamens. The blooms are produced over a fairly long period from early-autumn to early-winter.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "reproduction": "",
-    "height": "4m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink",
-      "winter": "pink",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "images": [],
-    "links": [
-      "https://camellia.iflora.cn/Cutivars/Detail?latin=Plantation%20Pink",
-      "https://en.wikipedia.org/wiki/Camellia_sasanqua",
-      "https://species.wikimedia.org/wiki/Camellia_sasanqua",
-      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506118#null",
-      "https://treesandshrubsonline.org/articles/camellia/camellia-sasanqua/",
-      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287336",
-      "https://www.vdberk.co.uk/trees/camellia-sasanqua/",
-      "https://plants.ces.ncsu.edu/plants/camellia-sasanqua/",
-      "https://landscapeplants.oregonstate.edu/plants/camellia-sasanqua",
-      "http://temperate.theferns.info/viewtropical.php?id=Camellia+sasanqua",
-      "https://www.nzpcn.org.nz/flora/species/camellia-sasanqua/",
-      "https://www.nzflora.info/factsheet/Taxon/Camellia-sasanqua.html",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/1cafa8f0-e598-4810-a8f2-e28af297027e",
-      "https://www.rhs.org.uk/plants/2865/camellia-sasanqua-thunb/details",
-      "https://www.gardenia.net/plant-variety/camellias-sasanqua",
-      "https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/camellia-sasanqua-plantation-pink/",
-      "https://www.gardenia.net/plant/camellia-sasanqua-plantation-pink",
-      "https://www.rhs.org.uk/plants/94548/i-camellia-sasanqua-i-plantation-pink/details"
-    ]
-  },
-  {
-    "family": "Theaceae",
-    "genus": "Camellia",
-    "species": "sasanqua",
-    "hybrid": "",
-    "subspecies": "",
-    "variety": "",
-    "form": "",
-    "cultivar": "Rainbow",
-    "synonyms": [],
-    "commonName": "Camellia",
-    "otherCommonNames": "",
-    "nameBreakdown": {
-      "family": "tea family, a family of flowering trees and shrubs. Most but not all species are native to China and East Asia. <a href='https://en.wikipedia.org/wiki/Theaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Theaceae</i></a>.",
-      "genus": "<i>camellia</i> (Latinised), named by Carl Linnaeus (1707 - 1778) after the botanist Georg Joseph Kamel (1661 - 1706), who worked in the Philippines and described a species of camellia. Commonly known as camellia, a genus of flowering plants native to eastern and southern Asia. <a href='https://en.wikipedia.org/wiki/Camellia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia</i></a>.",
-      "species": "<i>sasanqua</i>, named by Carl Peter Thunberg (1743 - 1828) and derived from the Japanese noun <i>sazanka</i> which is the Japanese name for <i>Camellia sasanqua</i>. This species is native to China and Japan. <a href='https://en.wikipedia.org/wiki/Camellia_sasanqua' target='_blank' rel='noopener noreferrer'>Learn more about <i>Camellia sasanqua</i></a>.",
-      "hybrid": "",
-      "subspecies": "",
-      "variety": "",
-      "form": ""
-    },
-    "url": "camellia-sasanqua-rainbow",
-    "speciesNativeRange": "",
-    "hybridOrigin": "",
-    "subspeciesNativeRange": "",
-    "varietyNativeRange": "",
-    "formNativeRange": "",
-    "cultivarOrigin": "",
-    "mainImage": "camellia-sasanqua-rainbow/camellia-sasanqua-rainbow.jpg",
-    "description": "Has a strong, upright habit. Exceptional tolerance to the cold weather with fragrant flowers. Smaller flowers, but produced in large quantities. White, red-tinted buds open to white flowers flushed with pink in autumn and winter.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "reproduction": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "pink, white",
-      "winter": "pink, white",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "images": [],
-    "links": [
-      "https://camellia.iflora.cn/Cutivars/Detail?latin=Rainbow",
-      "https://en.wikipedia.org/wiki/Camellia_sasanqua",
-      "https://species.wikimedia.org/wiki/Camellia_sasanqua",
-      "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=506118#null",
-      "https://treesandshrubsonline.org/articles/camellia/camellia-sasanqua/",
-      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287336",
-      "https://www.vdberk.co.uk/trees/camellia-sasanqua/",
-      "https://plants.ces.ncsu.edu/plants/camellia-sasanqua/",
-      "https://landscapeplants.oregonstate.edu/plants/camellia-sasanqua",
-      "http://temperate.theferns.info/viewtropical.php?id=Camellia+sasanqua",
-      "https://www.nzpcn.org.nz/flora/species/camellia-sasanqua/",
-      "https://www.nzflora.info/factsheet/Taxon/Camellia-sasanqua.html",
-      "https://biotanz.landcareresearch.co.nz/scientific-names/1cafa8f0-e598-4810-a8f2-e28af297027e",
-      "https://www.rhs.org.uk/plants/2865/camellia-sasanqua-thunb/details",
-      "https://www.gardenia.net/plant-variety/camellias-sasanqua",
-      "https://www.rhs.org.uk/plants/28532/i-camellia-sasanqua-i-rainbow/details"
     ]
   },
   {
@@ -19724,7 +19565,16 @@
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "images": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-spring-festival/camellia-spring-festival-hedge.jpg",
+        "alt":"camellia spring festival hedge"
+      },
+      {
+        "src": "images/trees/camellia-spring-festival/camellia-spring-festival-pot.jpg",
+        "alt":"camellia spring festival pot"
+      }
+    ],
     "links": [
       "https://camellia.iflora.cn/Cutivars/Detail?latin=Spring%20Festival",
       "https://www.rhs.org.uk/plants/92881/camellia-spring-festival-(cuspidata-hybrid)/details",
