@@ -88,29 +88,13 @@
 
     {% endif %}
 
-    {% comment %} <link rel='preconnect' href="https://bat.bing.com">
-    <link rel='dns-prefetch' href="https://bat.bing.com">
-    <link rel='preconnect' href="https://www.google-analytics.com">
-    <link rel='dns-prefetch' href="https://www.google-analytics.com"> {% endcomment %}
-
     <link rel='preconnect' href="https://leafland.imgix.net">
     <link rel='dns-prefetch' href="https://leafland.imgix.net">
 
-
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=500&q=75">
-    {% elsif type == 'tree-finder' %}
-      {% for tree in trees %}
-        {% if forloop.index0 < 3 %}
-          <link rel="preload" as="image" href="https://leafland.imgix.net/images/trees/{{ tree.mainImage }}?auto=format&w=400&q=75">
-        {% else %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
+      <link rel="preload" as="image" href="https://leafland.imgix.net/images/trees/{{ mainImage }}?auto=format&w=700&q=75">
     {% elsif type == 'index' %}
-
-      <link rel="preload" as="image" href="https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=2000,q-75,pr-true,f-auto" imagesrcset="https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=600&q=75 600w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=900&q=75 900w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=1200&q=75 1200w, https://leafland.imgix.net/images/home/prunus-yedoensis-awanui-massey-university.jpg?auto=format&w=1500&q=75 1500w" imagesizes="100vw">
-
+      <link rel="preload" as="image" href="https://leafland.imgix.net/images/home/tree-planting-estate.jpg?auto=format&w=2000&q-75">
     {% endif %}
 
     <style>
@@ -391,43 +375,7 @@
 
     {% include "components/_more-links.liquid"%}
 
-    {% comment %} {% include "components/_product-features.liquid"%} {% endcomment %}
-
     {% endif %}
-
-
-    {% comment %} <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207729468-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "UA-207729468-1");
-    </script>
-
-    <script>
-      (function (w, d, t, r, u) {
-        var f, n, i;
-        (w[u] = w[u] || []),
-          (f = function () {
-            var o = { ti: "148003737" };
-            (o.q = w[u]), (w[u] = new UET(o)), w[u].push("pageLoad");
-          }),
-          (n = d.createElement(t)),
-          (n.src = r),
-          (n.async = 1),
-          (n.onload = n.onreadystatechange =
-            function () {
-              var s = this.readyState;
-              (s && s !== "loaded" && s !== "complete") ||
-                (f(), (n.onload = n.onreadystatechange = null));
-            }),
-          (i = d.getElementsByTagName(t)[0]),
-          i.parentNode.insertBefore(n, i);
-      })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
-    </script> {% endcomment %}
 
   </body>
 

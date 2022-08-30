@@ -163,7 +163,7 @@ async function updateOrder() {
       rightDiv.classList.add("order-product-right");
 
       let itemImage = document.createElement("img");
-      itemImage.src = `https://leafland.imgix.net/images/trees/${tree.mainImage}?auto=format&w=500&q=75`;
+      itemImage.src = `https://leafland.imgix.net/images/trees/${tree.mainImage}?auto=format&w=700&q=75`;
       itemImage.width = "300";
       itemImage.height = "300";
       itemImage.loading = "lazy";
