@@ -92,19 +92,6 @@ type: product
         {% endif %}
     </div>
 
-    {% comment %} <div id="heading-buttons">
-
-        <a href="#order" class="button">Order Tree</a>
-    <a href="#taxonomy" class="button">Taxonomy</a>
-
-        {% if tree.relatedTrees.size > 0 %}
-
-        <a href="#related-trees" class="button">Related Trees</a>
-
-        {% endif %} 
-
-    </div> {% endcomment %}
-
     <div id="grid-content">
 
         <div id="grid-content-left">
@@ -113,15 +100,11 @@ type: product
 
                 <button id="image-left-button">
 
-                    {% comment %} <img src="https://leafland.imgix.net/images/icons/interface/left.svg" class="left-icon" width="40" height="40"> {% endcomment %}
-
                     <span>-</span>
 
                 </button>
 
                 <button id="image-right-button">
-
-                    {% comment %} <img src="https://leafland.imgix.net/images/icons/interface/right.svg" class="right-icon" width="40" height="40"> {% endcomment %}
 
                     <span>+</span>
 
@@ -162,12 +145,6 @@ type: product
             <div id="tree-info">
 
                 <div id="tree-info-description-icons">
-
-                    {% comment %} {% if commonName != '' %}
-                    <h3 id="tree-info-heading">{{ botanicalName }} ({{ commonName }})</h3>
-                    {% else %}
-                    <h3 id="tree-info-heading">{{ botanicalName }}</h3>
-                    {% endif %} {% endcomment %}
 
                     <p class="tree-description">{{ description }}</p>
 
@@ -307,8 +284,6 @@ type: product
                         {% endif %}
 
                     </div>
-
-                    {% comment %} <button id="open-features">View Features Table</button> {% endcomment %}
 
                 </div>
 
@@ -831,8 +806,6 @@ type: product
 
     <div id="information-section">
         <div id="taxonomy-section">
-
-            {% comment %} <h3 id="taxonomy">Taxonomy</h3> {% endcomment %}
 
             <div id="taxonomy-inner">
 
