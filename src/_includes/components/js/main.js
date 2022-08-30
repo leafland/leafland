@@ -27,49 +27,33 @@ if (sessionStorage.getItem("trees") === null) {
   sessionStorage.setItem("trees", "[]");
 }
 
-let bulkLogoutComplete = false;
-
-if (sessionStorage.getItem("bulkLogoutComplete") === "true") {
-  bulkLogoutComplete = true;
-}
-
-if (bulkLogoutComplete) {
-  if (
-    sessionStorage.getItem("loggedIn") === "false" ||
-    sessionStorage.getItem("loggedIn") === null
-  ) {
-    loggedIn = false;
-    sessionStorage.setItem("loggedIn", "false");
-
-    headerStockLink.href = `/retail-stock-list/`;
-    menuStockLink.href = `/retail-stock-list/`;
-    document.body.classList.remove("loggedIn");
-
-    document.querySelector("#login-form").style.setProperty("display", "block");
-    document
-      .querySelector("#login-message")
-      .style.setProperty("display", "none");
-    document.querySelector("#log-out").style.setProperty("display", "none");
-  } else {
-    loggedIn = true;
-    sessionStorage.setItem("loggedIn", "true");
-
-    headerStockLink.href = `/wholesale-stock-list/`;
-    menuStockLink.href = `/wholesale-stock-list/`;
-    document.body.classList.add("loggedIn");
-
-    document.querySelector("#login-form").style.setProperty("display", "none");
-    document
-      .querySelector("#login-message")
-      .style.setProperty("display", "block");
-    document.querySelector("#log-out").style.setProperty("display", "block");
-  }
-} else {
+if (
+  sessionStorage.getItem("loggedIn") === "false" ||
+  sessionStorage.getItem("loggedIn") === null
+) {
   loggedIn = false;
   sessionStorage.setItem("loggedIn", "false");
-  bulkLogoutComplete = true;
-  sessionStorage.setItem("bulkLogoutComplete", "true");
-  window.location.reload();
+
+  headerStockLink.href = `/retail-stock-list/`;
+  menuStockLink.href = `/retail-stock-list/`;
+  document.body.classList.remove("loggedIn");
+
+  document.querySelector("#login-form").style.setProperty("display", "block");
+  document.querySelector("#login-message").style.setProperty("display", "none");
+  document.querySelector("#log-out").style.setProperty("display", "none");
+} else {
+  loggedIn = true;
+  sessionStorage.setItem("loggedIn", "true");
+
+  headerStockLink.href = `/wholesale-stock-list/`;
+  menuStockLink.href = `/wholesale-stock-list/`;
+  document.body.classList.add("loggedIn");
+
+  document.querySelector("#login-form").style.setProperty("display", "none");
+  document
+    .querySelector("#login-message")
+    .style.setProperty("display", "block");
+  document.querySelector("#log-out").style.setProperty("display", "block");
 }
 
 document
