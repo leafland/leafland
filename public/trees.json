@@ -19568,11 +19568,11 @@
     "images": [
       {
         "src": "images/trees/camellia-spring-festival/camellia-spring-festival-hedge.jpg",
-        "alt":"camellia spring festival hedge"
+        "alt": "camellia spring festival hedge"
       },
       {
         "src": "images/trees/camellia-spring-festival/camellia-spring-festival-pot.jpg",
-        "alt":"camellia spring festival pot"
+        "alt": "camellia spring festival pot"
       }
     ],
     "links": [
@@ -64528,8 +64528,28 @@
     "treeShape": "images/icons/tree-shapes/michelia/michelia-general.svg",
     "images": [
       {
+        "src": "images/trees/michelia-inspiration/michelia-inspiration-flower.jpg",
+        "alt": "michelia inspiration flower"
+      },
+      {
+        "src": "images/trees/michelia-inspiration/michelia-inspiration-row.jpg",
+        "alt": "michelia inspiration row"
+      },
+      {
         "src": "images/trees/michelia-inspiration/michelia-inspiration-foliage.jpeg",
         "alt": "michelia inspiration foliage"
+      },
+      {
+        "src": "images/trees/michelia-inspiration/michelia-inspiration-flowering.jpg",
+        "alt": "michelia inspiration flowering"
+      },
+      {
+        "src": "images/trees/michelia-inspiration/michelia-inspiration-buds.jpg",
+        "alt": "michelia inspiration buds"
+      },
+      {
+        "src": "images/trees/michelia-inspiration/michelia-inspiration-flowers.jpg",
+        "alt": "michelia inspiration flowers"
       },
       {
         "src": "images/trees/michelia-inspiration/michelia-inspiration-tree.jpg",
