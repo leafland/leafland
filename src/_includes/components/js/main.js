@@ -1,6 +1,7 @@
 let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
+let treeData = [];
 
 const orderSent = new Event("orderSent");
 
@@ -55,6 +56,13 @@ if (
     .style.setProperty("display", "block");
   document.querySelector("#log-out").style.setProperty("display", "block");
 }
+
+(async function () {
+  treeData = await fetch(`/public/trees.json`)
+    .then((response) => response.json())
+    .then((data) => data)
+    .catch((error) => {});
+})();
 
 document
   .querySelector("#subscribe-form")

@@ -4,7 +4,6 @@ let openSearch = document.querySelector("#open-search");
 let closeSearch = document.querySelector("#close-search");
 let searchLoadMoreButton = document.querySelector("#search-load-more");
 let searchReturnToTopButton = document.querySelector("#search-return-to-top");
-let searchData = [];
 let searchResults = [];
 let start = 0;
 let end = 11;
@@ -12,13 +11,6 @@ let end = 11;
 function resetStartEnd() {
   start = 0;
   end = 11;
-}
-
-async function getSearchData() {
-  searchData = await fetch(`/public/trees.json`)
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
 }
 
 async function search(terms) {
@@ -37,74 +29,74 @@ async function search(terms) {
     let toleratesValue = "";
     let typesValue = "";
     let compareValue = "";
-    for (let i = 0; i < searchData.length; i++) {
+    for (let i = 0; i < treeData.length; i++) {
       usesValue = "";
       toleratesValue = "";
       typesValue = "";
       compareValue = "";
-      if (searchData[i].uses.search("hedging-screening") !== -1) {
+      if (treeData[i].uses.search("hedging-screening") !== -1) {
         usesValue = `${usesValue} hedging hedge hedges hedged `;
       }
-      if (searchData[i].uses.search("birds-bees") !== -1) {
+      if (treeData[i].uses.search("birds-bees") !== -1) {
         usesValue = `${usesValue} bird birds bees bee `;
       }
-      if (searchData[i].uses.search("driveways-avenues") !== -1) {
+      if (treeData[i].uses.search("driveways-avenues") !== -1) {
         usesValue = `${usesValue} driveway driveways avenue avenues `;
       }
-      if (searchData[i].uses.search("paddocks-shade") !== -1) {
+      if (treeData[i].uses.search("paddocks-shade") !== -1) {
         usesValue = `${usesValue} paddocks paddock field farm shade shading `;
       }
-      if (searchData[i].uses.search("pleaching") !== -1) {
+      if (treeData[i].uses.search("pleaching") !== -1) {
         usesValue = `${usesValue} pleaching pleached pleach `;
       }
-      if (searchData[i].uses.search("small-garden") !== -1) {
+      if (treeData[i].uses.search("small-garden") !== -1) {
         usesValue = `${usesValue} small `;
       }
-      if (searchData[i].uses.search("street") !== -1) {
+      if (treeData[i].uses.search("street") !== -1) {
         usesValue = `${usesValue} street `;
       }
-      if (searchData[i].uses.search("topiary") !== -1) {
+      if (treeData[i].uses.search("topiary") !== -1) {
         usesValue = `${usesValue} topiary topiaried ball `;
       }
-      if (searchData[i].uses.search("narrow-spaces") !== -1) {
+      if (treeData[i].uses.search("narrow-spaces") !== -1) {
         usesValue = `${usesValue} narrow restricted thin `;
       }
-      if (searchData[i].uses.search("attracts-birds") !== -1) {
+      if (treeData[i].uses.search("attracts-birds") !== -1) {
         usesValue = `${usesValue} attracts birds bird `;
       }
-      if (searchData[i].uses.search("attracts-bees") !== -1) {
+      if (treeData[i].uses.search("attracts-bees") !== -1) {
         usesValue = `${usesValue} attracts bees bee `;
       }
 
-      if (searchData[i].tolerates.search("dry") !== -1) {
+      if (treeData[i].tolerates.search("dry") !== -1) {
         toleratesValue = `${toleratesValue} dry hot drought `;
       }
-      if (searchData[i].tolerates.search("coastal") !== -1) {
+      if (treeData[i].tolerates.search("coastal") !== -1) {
         toleratesValue = `${toleratesValue} coastal coast beach sea seaside `;
       }
-      if (searchData[i].tolerates.search("wet") !== -1) {
+      if (treeData[i].tolerates.search("wet") !== -1) {
         toleratesValue = `${toleratesValue} wet damp moist sodden flood `;
       }
-      if (searchData[i].tolerates.search("windy") !== -1) {
+      if (treeData[i].tolerates.search("windy") !== -1) {
         toleratesValue = `${toleratesValue} windy wind gale exposed `;
       }
-      if (searchData[i].tolerates.search("clay") !== -1) {
+      if (treeData[i].tolerates.search("clay") !== -1) {
         toleratesValue = `${toleratesValue} clay heavy `;
       }
 
-      if (searchData[i].types.search("conifer") !== -1) {
+      if (treeData[i].types.search("conifer") !== -1) {
         typesValue = `${typesValue} conifer coniferous `;
       }
-      if (searchData[i].types.search("edible") !== -1) {
+      if (treeData[i].types.search("edible") !== -1) {
         typesValue = `${typesValue} edible fruit nut `;
       }
-      if (searchData[i].types.search("weeping") !== -1) {
+      if (treeData[i].types.search("weeping") !== -1) {
         typesValue = `${typesValue} weeping pendula pendulum drooping `;
       }
 
-      for (let j = 0; j < searchData[i].synonyms.length; j++) {
+      for (let j = 0; j < treeData[i].synonyms.length; j++) {
         compareValue +=
-          `${searchData[i].synonyms[j].genus} ${searchData[i].synonyms[j].species} ${searchData[i].synonyms[j].hybrid} ${searchData[i].synonyms[j].subspecies} ${searchData[i].synonyms[j].variety} ${searchData[i].synonyms[j].form} ${searchData[i].synonyms[j].cultivar}`
+          `${treeData[i].synonyms[j].genus} ${treeData[i].synonyms[j].species} ${treeData[i].synonyms[j].hybrid} ${treeData[i].synonyms[j].subspecies} ${treeData[i].synonyms[j].variety} ${treeData[i].synonyms[j].form} ${treeData[i].synonyms[j].cultivar}`
             .replace(/'/g, "")
             .replace(/"/g, "")
             .replace(/\(/g, "")
@@ -123,7 +115,7 @@ async function search(terms) {
       }
 
       compareValue +=
-        `${searchData[i].genus} ${searchData[i].species} ${searchData[i].hybrid} ${searchData[i].subspecies} ${searchData[i].variety} ${searchData[i].form} ${searchData[i].cultivar} ${searchData[i].commonName} ${searchData[i].otherCommonNames} ${searchData[i].winterFoliage} ${searchData[i].origin} ${searchData[i].soilType} ${searchData[i].uses} ${searchData[i].sunShade} ${searchData[i].tolerates} ${searchData[i].types} ${searchData[i].stem.summer} ${searchData[i].stem.autumn} ${searchData[i].stem.winter} ${searchData[i].stem.spring} ${searchData[i].flowers.summer} ${searchData[i].flowers.autumn} ${searchData[i].flowers.winter} ${searchData[i].flowers.spring} ${searchData[i].foliage.summer} ${searchData[i].foliage.autumn} ${searchData[i].foliage.winter} ${searchData[i].foliage.spring} ${searchData[i].fruit.summer} ${searchData[i].fruit.autumn} ${searchData[i].fruit.winter} ${searchData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
+        `${treeData[i].genus} ${treeData[i].species} ${treeData[i].hybrid} ${treeData[i].subspecies} ${treeData[i].variety} ${treeData[i].form} ${treeData[i].cultivar} ${treeData[i].commonName} ${treeData[i].otherCommonNames} ${treeData[i].winterFoliage} ${treeData[i].origin} ${treeData[i].soilType} ${treeData[i].uses} ${treeData[i].sunShade} ${treeData[i].tolerates} ${treeData[i].types} ${treeData[i].stem.summer} ${treeData[i].stem.autumn} ${treeData[i].stem.winter} ${treeData[i].stem.spring} ${treeData[i].flowers.summer} ${treeData[i].flowers.autumn} ${treeData[i].flowers.winter} ${treeData[i].flowers.spring} ${treeData[i].foliage.summer} ${treeData[i].foliage.autumn} ${treeData[i].foliage.winter} ${treeData[i].foliage.spring} ${treeData[i].fruit.summer} ${treeData[i].fruit.autumn} ${treeData[i].fruit.winter} ${treeData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
           .replace(/'/g, "")
           .replace(/"/g, "")
           .replace(/\(/g, "")
@@ -169,7 +161,7 @@ async function search(terms) {
       }
 
       if (add) {
-        searchResults.push(searchData[i]);
+        searchResults.push(treeData[i]);
       }
     }
   } else {
@@ -281,7 +273,6 @@ let doneTypingInterval = 500;
 
 (async function init() {
   searchInput.disabled = true;
-  await getSearchData();
 
   searchInput.disabled = false;
 

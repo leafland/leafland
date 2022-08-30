@@ -75,8 +75,6 @@ if (filterSettings.empty === false) {
   clearSelectFilter.disabled = true;
 }
 
-let treeFinderData = [];
-
 let buttonDiv = document.querySelector("#button-div");
 let loadMoreButton = document.querySelector("#load-more");
 let returnToTopButton = document.querySelector("#return-to-top");
@@ -84,7 +82,6 @@ let returnToTopButton = document.querySelector("#return-to-top");
 let filteredData = [];
 
 (async function () {
-  await getTreeFinderData();
   filterSettings.uses.forEach((value) => {
     treeFilter.push(value);
   });
@@ -135,21 +132,9 @@ let filteredData = [];
       history.scrollRestoration = "manual";
     }
     treeWrapper.innerHTML = "";
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
   }
 })();
-
-async function getTreeFinderData() {
-  treeFinderData = await fetch(`/public/trees.json`)
-    .then((response) => response.json())
-    .then((data) => data)
-    .catch((error) => {});
-}
 
 async function populatePage(
   treeFinderStart,
@@ -523,12 +508,7 @@ document.querySelector("select").addEventListener("input", (event) => {
   sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
 
   (async function () {
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
   })();
 
   treeWrapper.style.setProperty("opacity", "1");
@@ -616,12 +596,7 @@ inputsArray.forEach((input) => {
 
     sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
     (async function () {
-      await populatePage(
-        treeFinderStart,
-        treeFinderEnd,
-        treeFinderData,
-        treeFilter
-      );
+      await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
     })();
 
     treeWrapper.style.setProperty("opacity", "1");
@@ -678,12 +653,7 @@ clearCheckboxFilter.addEventListener("click", () => {
   resetStartEnd();
   treeWrapper.innerHTML = "";
   (async function () {
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
   })();
 
   treeWrapper.style.setProperty("opacity", "1");
@@ -724,12 +694,7 @@ clearSelectFilter.addEventListener("click", () => {
   resetStartEnd();
   treeWrapper.innerHTML = "";
   (async function () {
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
   })();
 
   treeWrapper.style.setProperty("opacity", "1");
@@ -740,12 +705,7 @@ loadMoreButton.addEventListener("click", () => {
   treeFinderEnd += 12;
 
   (async function () {
-    await populatePage(
-      treeFinderStart,
-      treeFinderEnd,
-      treeFinderData,
-      treeFilter
-    );
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
   })();
 });
 
