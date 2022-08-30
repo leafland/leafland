@@ -457,6 +457,11 @@ body.main-menu-open {
   bottom: 0;
 }
 
+body.stock-table-open,
+body.lightbox-open {
+  overflow-y: hidden;
+}
+
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,
   .button:hover,
