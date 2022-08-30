@@ -18,7 +18,7 @@
       },
       {
         "botanicalName": "<i>Amelanchier canadensis</i>",
-        "commonName": "Canadian Serviceberry, Shadbush",
+        "commonName": "Canadian Serviceberry",
         "url": "amelanchier-canadensis",
         "mainImage": "amelanchier-canadensis/amelanchier-canadensis.jpg"
       },
@@ -42,7 +42,7 @@
       },
       {
         "botanicalName": "<i>Nyssa sylvatica</i>",
-        "commonName": "Black Tupelo, Black Gum",
+        "commonName": "Black Tupelo",
         "url": "nyssa-sylvatica",
         "mainImage": "nyssa-sylvatica/nyssa-sylvatica.jpg"
       },
@@ -60,7 +60,7 @@
       },
       {
         "botanicalName": "<i>Quercus palustris</i>",
-        "commonName": "Pin Oak, Swamp Spanish Oak",
+        "commonName": "Pin Oak",
         "url": "quercus-palustris",
         "mainImage": "quercus-palustris/quercus-palustris.jpg"
       },
@@ -85,7 +85,7 @@
     "trees": [
       {
         "botanicalName": "<i>Albizia julibrissin</i> 'Red Silk'",
-        "commonName": "Persian Silk Tree, Pink Silk Tree",
+        "commonName": "Persian Silk Tree",
         "url": "albizia-julibrissin-red-silk",
         "mainImage": "albizia-julibrissin-red-silk/albizia-julibrissin-red-silk.jpg"
       },
@@ -224,7 +224,7 @@
       },
       {
         "botanicalName": "<i>Quercus palustris</i>",
-        "commonName": "Pin Oak, Swamp Spanish Oak",
+        "commonName": "Pin Oak",
         "url": "quercus-palustris",
         "mainImage": "quercus-palustris/quercus-palustris.jpg"
       },
@@ -243,7 +243,7 @@
     "trees": [
       {
         "botanicalName": "<i>Alnus jorullensis</i>",
-        "commonName": "Mexican Alder, Evergreen Alder",
+        "commonName": "Evergreen Alder",
         "url": "alnus-jorullensis",
         "mainImage": "alnus-jorullensis/alnus-jorullensis.jpg"
       },
@@ -279,7 +279,7 @@
       },
       {
         "botanicalName": "<i>Griselinia littoralis</i> 'Broadway Mint'",
-        "commonName": "Kāpuka, Pāpāuma, Broadleaf",
+        "commonName": "Kāpuka",
         "url": "griselinia-littoralis-broadway-mint",
         "mainImage": "griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint.jpeg"
       },
@@ -297,7 +297,7 @@
       },
       {
         "botanicalName": "<i>Pittosporum tenuifolium</i> 'Wrinkle Blue'",
-        "commonName": "Kōhūhū, Black Matipo",
+        "commonName": "Kōhūhū",
         "url": "pittosporum-tenuifolium-wrinkle-blue",
         "mainImage": "pittosporum-tenuifolium-wrinkle-blue/pittosporum-tenuifolium-wrinkle-blue.jpg"
       },
@@ -370,7 +370,7 @@
       },
       {
         "botanicalName": "<i>Picea pungens</i> 'Baby Blue'",
-        "commonName": "Colorado Spruce, Blue Spruce",
+        "commonName": "Colorado Spruce",
         "url": "picea-pungens-baby-blue",
         "mainImage": "picea-pungens-baby-blue/picea-pungens-baby-blue.jpg"
       },
@@ -480,13 +480,13 @@
     "trees": [
       {
         "botanicalName": "<i>Alectryon excelsus</i> subsp. <i>excelsus</i>",
-        "commonName": "Tītoki, New Zealand Oak",
+        "commonName": "Tītoki",
         "url": "alectryon-excelsus-subsp-excelsus",
         "mainImage": "alectryon-excelsus-subsp-excelsus/alectryon-excelsus-subsp-excelsus.jpg"
       },
       {
         "botanicalName": "<i>Alnus jorullensis</i>",
-        "commonName": "Mexican Alder, Evergreen Alder",
+        "commonName": "Evergreen Alder",
         "url": "alnus-jorullensis",
         "mainImage": "alnus-jorullensis/alnus-jorullensis.jpg"
       },
@@ -522,7 +522,7 @@
       },
       {
         "botanicalName": "<i>Photinia</i> x <i>fraseri</i> 'Red Robin'",
-        "commonName": "Red Tip Photinia, Christmas Berry",
+        "commonName": "Red Tip Photinia",
         "url": "photinia-x-fraseri-red-robin",
         "mainImage": "photinia-x-fraseri-red-robin/photinia-x-fraseri-red-robin.jpg"
       },
@@ -540,13 +540,13 @@
       },
       {
         "botanicalName": "<i>Quercus ilex</i>",
-        "commonName": "Evergreen Oak, Holm Oak",
+        "commonName": "Evergreen Oak",
         "url": "quercus-ilex",
         "mainImage": "quercus-ilex/quercus-ilex.jpg"
       },
       {
         "botanicalName": "<i>Tilia cordata</i>",
-        "commonName": "Small-leaved Lime, Little-leaf Linden",
+        "commonName": "Small-leaved Linden",
         "url": "tilia-cordata",
         "mainImage": "tilia-cordata/tilia-cordata.jpg"
       }
@@ -577,7 +577,7 @@
       },
       {
         "botanicalName": "<i>Griselinia littoralis</i> 'Gecko Green'",
-        "commonName": "Kāpuka, Pāpāuma, Broadleaf",
+        "commonName": "Kāpuka",
         "url": "griselinia-littoralis-gecko-green",
         "mainImage": "griselinia-littoralis-gecko-green/griselinia-littoralis-gecko-green.jpeg"
       },
@@ -601,19 +601,19 @@
       },
       {
         "botanicalName": "<i>Nandina domestica</i> 'Fire Power'",
-        "commonName": "Nandina, Heavenly Bamboo, Sacred Bamboo",
+        "commonName": "Nandina",
         "url": "nandina-domestica-fire-power",
         "mainImage": "nandina-domestica-fire-power/nandina-domestica-fire-power.jpg"
       },
       {
         "botanicalName": "<i>Pittosporum tenuifolium</i> 'Hedgehog'",
-        "commonName": "Kōhūhū, Black Matipo",
+        "commonName": "Kōhūhū",
         "url": "pittosporum-tenuifolium-hedgehog",
         "mainImage": "pittosporum-tenuifolium-hedgehog/pittosporum-tenuifolium-hedgehog.jpeg"
       },
       {
         "botanicalName": "<i>Pseudopanax lessonii</i> 'Cyril Watson'",
-        "commonName": "Houpara, Coastal Five Finger",
+        "commonName": "Houpara",
         "url": "pseudopanax-lessonii-cyril-watson",
         "mainImage": "pseudopanax-lessonii-cyril-watson/pseudopanax-lessonii-cyril-watson.jpg"
       },
@@ -644,7 +644,7 @@
       },
       {
         "botanicalName": "<i>Acer campestre</i>",
-        "commonName": "Field Maple, Hedge Maple",
+        "commonName": "Field Maple",
         "url": "acer-campestre",
         "mainImage": "acer-campestre/acer-campestre.jpg"
       },
@@ -723,7 +723,7 @@
       },
       {
         "botanicalName": "<i>Alectryon excelsus</i> subsp. <i>excelsus</i>",
-        "commonName": "Tītoki, New Zealand Oak",
+        "commonName": "Tītoki",
         "url": "alectryon-excelsus-subsp-excelsus",
         "mainImage": "alectryon-excelsus-subsp-excelsus/alectryon-excelsus-subsp-excelsus.jpg"
       },
@@ -735,7 +735,7 @@
       },
       {
         "botanicalName": "<i>Feijoa sellowiana</i> 'Apollo'",
-        "commonName": "Feijoa, Pineapple Guava",
+        "commonName": "Feijoa",
         "url": "feijoa-sellowiana-apollo",
         "mainImage": "feijoa-sellowiana-apollo/feijoa-sellowiana-apollo.jpg"
       },
@@ -747,7 +747,7 @@
       },
       {
         "botanicalName": "<i>Laurus nobilis</i>",
-        "commonName": "Sweet Bay, Bay Laurel",
+        "commonName": "Bay Laurel",
         "url": "laurus-nobilis",
         "mainImage": "laurus-nobilis/laurus-nobilis.jpg"
       },
@@ -759,13 +759,13 @@
       },
       {
         "botanicalName": "<i>Michelia gracipes</i>",
-        "commonName": "",
+        "commonName": "Michelia",
         "url": "michelia-gracipes",
         "mainImage": "michelia-gracipes/michelia-gracipes.jpeg"
       },
       {
         "botanicalName": "<i>Podocarpus macrophyllus</i>",
-        "commonName": "Yew Pine, Fern Pine",
+        "commonName": "Yew Pine",
         "url": "podocarpus-macrophyllus",
         "mainImage": "podocarpus-macrophyllus/podocarpus-macrophyllus.jpg"
       },
@@ -777,7 +777,7 @@
       },
       {
         "botanicalName": "<i>Quercus ilex</i>",
-        "commonName": "Evergreen Oak, Holm Oak",
+        "commonName": "Evergreen Oak",
         "url": "quercus-ilex",
         "mainImage": "quercus-ilex/quercus-ilex.jpg"
       },
