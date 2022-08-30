@@ -19568,11 +19568,11 @@
     "images": [
       {
         "src": "images/trees/camellia-spring-festival/camellia-spring-festival-hedge.jpg",
-        "alt":"camellia spring festival hedge"
+        "alt": "camellia spring festival hedge"
       },
       {
         "src": "images/trees/camellia-spring-festival/camellia-spring-festival-pot.jpg",
-        "alt":"camellia spring festival pot"
+        "alt": "camellia spring festival pot"
       }
     ],
     "links": [
@@ -22665,7 +22665,7 @@
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States. <a href='https://en.wikipedia.org/wiki/Cercis_canadensis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis canadensis</i></a>.",
       "hybrid": "",
       "subspecies": "",
-      "variety": "<i>texēnsis</i> (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to this variety's native geographical location.",
+      "variety": "<i>texēnsis</i> (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to this variety's native geographical location. <a href='https://plants.ces.ncsu.edu/plants/cercis-canadensis-var-texensis/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis canadensis</i> var. <i>texensis</i></a>.",
       "form": ""
     },
     "url": "cercis-canadensis-var-texensis-oklahoma",
@@ -22772,7 +22772,7 @@
       "species": "<i>canadēnsis</i> (Latin, adjective), meaning 'Canadian, of or relating to Canada', in reference to this species' native geographical location. When this species was named, the specific epithet was used to refer to a region of north-eastern America, partly in Canada, but mostly in the United States. <a href='https://en.wikipedia.org/wiki/Cercis_canadensis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis canadensis</i></a>.",
       "hybrid": "",
       "subspecies": "",
-      "variety": "<i>texēnsis</i> (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to this variety's native geographical location.",
+      "variety": "<i>texēnsis</i> (Latin, adjective), meaning 'Texan, of or relating to the state of Texas in the United States', in reference to this variety's native geographical location. <a href='https://plants.ces.ncsu.edu/plants/cercis-canadensis-var-texensis/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cercis canadensis</i> var. <i>texensis</i></a>.",
       "form": ""
     },
     "url": "cercis-canadensis-var-texensis-texas-white",
@@ -30151,7 +30151,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>nuttallii</i> (Latinised), named by American self-trained artist, naturalist, and ornithologist John James Audubon (1785 - 1851) for his friend Thomas Nuttall (1786 - 1859), an English botanist and zoologist who was the first to describe this species while staying at Fort Vancouver in the autumn of 1834.",
+      "species": "<i>nuttallii</i> (Latinised), named by American self-trained artist, naturalist, and ornithologist John James Audubon (1785 - 1851) for his friend Thomas Nuttall (1786 - 1859), an English botanist and zoologist who was the first to describe this species while staying at Fort Vancouver in the autumn of 1834. <a href='https://en.wikipedia.org/wiki/Cornus_nuttallii' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus nuttallii</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30238,7 +30238,7 @@
     "nameBreakdown": {
       "family": "a family of flowering trees, shrubs, and herbs native to northern temperate regions and tropical Asia. <a href='https://en.wikipedia.org/wiki/Cornaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornaceae</i></a>.",
       "genus": "<i>cornus</i> (Latin, noun), meaning 'dogwood', originally referring to <i>Cornus mas</i>. The generic name could also be derived from the Latin noun <i>cornūs</i> (horn, power, strength), in reference to the high strength, density, and hardness of the wood of species in this genus. Commonly known as dogwood, a genus of flowering plants that are native throughout much of temperate and boreal Eurasia and North America, with China, Japan, and the southeastern United States being particularly rich in native species. <a href='https://en.wikipedia.org/wiki/Cornus' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus</i></a>.",
-      "species": "<i>sēricea</i> (Latin, adjective), meaning 'silky, silken', in reference to the fine hairs present on the upper leaf surfaces and young stems of this species.",
+      "species": "<i>sēricea</i> (Latin, adjective), meaning 'silky, silken', in reference to the fine hairs present on the upper leaf surfaces and young stems of this species. <a href='https://en.wikipedia.org/wiki/Cornus_sericea' target='_blank' rel='noopener noreferrer'>Learn more about <i>Cornus sericea</i></a>.",
       "hybrid": "",
       "subspecies": "",
       "variety": "",
@@ -30321,16 +30321,16 @@
         "subspecies": "",
         "variety": "",
         "form": "",
-        "cultivar": ""
+        "cultivar": "Cheesemanii"
       }
     ],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>cheesemanii</i> (Latinised), named after New Zealand botanist Thomas Frederick Cheeseman (1845 - 1923).",
+      "hybrid": "<i>cheesemanii</i> (Latinised), named after New Zealand botanist Thomas Frederick Cheeseman (1845 - 1923). <a href='https://biotanz.landcareresearch.co.nz/scientific-names/b0b4c387-a9c3-45d5-a4eb-74bdca5bd89e' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>cheesemanii</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30391,33 +30391,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Bronze King",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Bronze King"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Bronze King"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30483,33 +30464,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Emerald and Jade",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Emerald and Jade"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Emerald and Jade"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30575,33 +30537,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Frosted Chocolate",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Frosted Chocolate"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Frosted Chocolate"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30667,33 +30610,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Geenty's Ghost",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Ghost"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Ghost"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30763,33 +30687,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Geenty's Giant",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Giant"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Giant"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30855,33 +30760,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Geenty's Green",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Green"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Geenty's Green"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -30959,33 +30845,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Mangatangi",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Mangatangi"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Mangatangi"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -31051,33 +30918,14 @@
     "variety": "",
     "form": "",
     "cultivar": "Phantom",
-    "synonyms": [
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "cheesemanii",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Phantom"
-      },
-      {
-        "genus": "Corokia",
-        "species": "",
-        "hybrid": "budcotonea",
-        "subspecies": "",
-        "variety": "",
-        "form": "",
-        "cultivar": "Phantom"
-      }
-    ],
+    "synonyms": [],
     "commonName": "Korokio",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti.",
-      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti.",
+      "family": "a family of flowering shrubs and small trees native to eastern Australia, New Zealand, Lord Howe Island, New Caledonia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Argophyllaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Argophyllaceae</i></a>.",
+      "genus": "<i>corokia</i>, derived from the Te Reo Māori noun <i>korokio</i>, the name of this species in Te Reo Māori. A genus of flowering shrubs and small trees with divaricating branches native to New Zealand, Australia, and Rapa Iti. <a href='https://en.wikipedia.org/wiki/Corokia' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i></a>.",
       "species": "",
-      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species.",
+      "hybrid": "<i>virgāta</i> (Latin, adjective), meaning 'made of twigs, twiggy', in reference to the long, thin stems of this hybrid species. <a href='https://www.aucklandbotanicgardens.co.nz/plants-for-auckland/plants/corokia-x-virgata/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corokia</i> x <i>virgata</i></a>.",
       "subspecies": "",
       "variety": "",
       "form": ""
@@ -44334,7 +44182,7 @@
     "links": []
   },
   {
-    "family": "",
+    "family": "Pittosporaceae",
     "genus": "Hymenosporum",
     "species": "flavum",
     "hybrid": "",
@@ -44346,7 +44194,7 @@
     "commonName": "Australian Frangipani",
     "otherCommonNames": "",
     "nameBreakdown": {
-      "family": "",
+      "family": "a family of trees, shrubs, and lianas native to temperate climates of the Afrotropical, Indomalayan, Oceanian, and Australasian realms. <a href='https://en.wikipedia.org/wiki/Pittosporaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Pittosporaceae</i></a>.",
       "genus": "",
       "species": "",
       "hybrid": "",
