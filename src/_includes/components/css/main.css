@@ -538,7 +538,7 @@ body.main-menu-open {
     color: var(--primary-background);
     border-color: var(--border-color);
   }
-  a:hover:not(header a) {
+  a:hover {
     color: var(--accent-color);
   }
 
