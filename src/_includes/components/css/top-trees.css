@@ -62,7 +62,6 @@ main {
   margin-bottom: 1rem;
   border: 2px solid #eee;
   color: #eee;
-  transition: all 0.3s var(--default-animation-easing);
   font-size: var(--font-size-2);
 }
 

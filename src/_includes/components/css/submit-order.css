@@ -249,19 +249,6 @@
   font-size: var(--font-size-3);
 }
 
-#submit-grid-content-right .right-icon {
-  display: block;
-  transition: transform 0.3s var(--default-animation-easing);
-  width: 25px;
-  height: 25px;
-}
-
-#submit-grid-content-right .down-icon {
-  display: none;
-  width: 25px;
-  height: 25px;
-}
-
 #submit-order-overlay .minus {
   display: none;
 }
@@ -316,7 +303,6 @@
   #submit-order-overlay details > summary:hover {
     cursor: pointer;
     color: var(--accent-color);
-    transition: var(--link-animation-easing);
   }
 
   .checkbox-field label {

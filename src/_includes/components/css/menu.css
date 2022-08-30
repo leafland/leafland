@@ -88,11 +88,10 @@
   opacity: 0;
   visibility: hidden;
   z-index: -1;
-  transition: 300ms all 150ms;
   display: grid;
   grid-gap: 1rem;
   position: absolute;
-  top: 110%;
+  top: 100%;
   left: 0;
   background: var(--primary-background);
   color: var(--primary-text);
@@ -143,7 +142,6 @@
 #back-button {
   opacity: 0;
   z-index: 0;
-  transition: none;
 }
 
 .menu-closed .main-menu-list-item {
