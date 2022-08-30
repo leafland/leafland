@@ -517,7 +517,7 @@ body.order-sent-open,
 body.submit-order-open,
 body.main-menu-open {
   position: fixed;
-  overflow-y: scroll;
+  overflow-y: hidden;
   top: 0;
   left: 0;
   right: 0;
