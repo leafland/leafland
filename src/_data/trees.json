@@ -437,6 +437,10 @@
         "alt": "acacia melanoxylon bark"
       },
       {
+        "src": "images/trees/acacia-melanoxylon/acacia-melanoxylon-driveway.jpg",
+        "alt": "acacia melanoxylon driveway"
+      },
+      {
         "src": "images/trees/acacia-melanoxylon/acacia-melanoxylon-flowering.jpg",
         "alt": "acacia melanoxylon flowering"
       },
@@ -17949,7 +17953,12 @@
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/camellia/camellia-general.svg",
-    "images": [],
+    "images": [
+      {
+        "src": "images/trees/camellia-japonica-debutante/camellia-japonica-debutante-flowers.jpg",
+        "alt": "camellia japonica debutante flowers"
+      }
+    ],
     "links": [
       "https://camellia.iflora.cn/Cutivars/Detail?latin=Debutante",
       "https://en.wikipedia.org/wiki/Camellia_japonica",
