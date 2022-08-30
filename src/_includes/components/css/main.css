@@ -81,12 +81,6 @@ select {
 
   --button-color-hover: #eee;
 
-  --default-animation-easing: cubic-bezier(0.31, 0.87, 0.32, 1);
-
-  --button-animation-easing: all 0.4s cubic-bezier(0.31, 0.87, 0.32, 1);
-
-  --link-animation-easing: all 0.25s cubic-bezier(0.31, 0.87, 0.32, 1);
-
   --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
   --font-size-2: clamp(0.85rem, 0.83rem + 0.24vw, 1rem);
   --font-size-3: clamp(1rem, 1rem + 0.5vw, 1.25rem);
@@ -119,64 +113,6 @@ select {
     --button-background-hover: #eee;
 
     --button-color-hover: #111;
-  }
-}
-
-@keyframes fadeInAnimation {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes fadeInLeft {
-  from {
-    opacity: 0;
-    transform: translate3d(-100%, 0, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes zoomIn {
-  from {
-    opacity: 0;
-    transform: scale3d(0.3, 0.3, 0.3);
-  }
-
-  to {
-    opacity: 1;
-    transform: scale3d(1, 1, 1);
-  }
-}
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, -100%, 0);
-    transform: translate3d(0, -100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes fadeInUp {
-  from {
-    transform: scale(1) translate3d(0, 75%, 0);
-    opacity: 0;
-  }
-  to {
-    transform: scale(1) translate3d(0, 0, 0);
-    opacity: 1;
   }
 }
 
