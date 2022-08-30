@@ -27,12 +27,12 @@ loginForm.addEventListener("submit", (event) => {
       returnMessage.textContent = "Invalid email address. Please try again.";
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = false;
-      localStorage.setItem("loggedIn", "false");
+      sessionStorage.setItem("loggedIn", "false");
     } else {
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = true;
-      localStorage.setItem("loggedIn", "true");
-      localStorage.setItem(
+      sessionStorage.setItem("loggedIn", "true");
+      sessionStorage.setItem(
         "loginEmail",
         `${event.target[0].value.toLowerCase()}`
       );
@@ -56,7 +56,7 @@ closeLogin.addEventListener("click", () => {
 });
 
 logOutButton.addEventListener("click", () => {
-  localStorage.setItem("loggedIn", "false");
+  sessionStorage.setItem("loggedIn", "false");
   if (window.location.pathname === "/wholesale-stock-list/") {
     window.location.pathname = "/retail-stock-list/";
   } else {

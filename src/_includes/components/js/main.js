@@ -29,17 +29,17 @@ if (sessionStorage.getItem("trees") === null) {
 
 let bulkLogoutComplete = false;
 
-if (localStorage.getItem("bulkLogoutComplete") === "true") {
+if (sessionStorage.getItem("bulkLogoutComplete") === "true") {
   bulkLogoutComplete = true;
 }
 
 if (bulkLogoutComplete) {
   if (
-    localStorage.getItem("loggedIn") === "false" ||
-    localStorage.getItem("loggedIn") === null
+    sessionStorage.getItem("loggedIn") === "false" ||
+    sessionStorage.getItem("loggedIn") === null
   ) {
     loggedIn = false;
-    localStorage.setItem("loggedIn", "false");
+    sessionStorage.setItem("loggedIn", "false");
 
     headerStockLink.href = `/retail-stock-list/`;
     menuStockLink.href = `/retail-stock-list/`;
@@ -52,7 +52,7 @@ if (bulkLogoutComplete) {
     document.querySelector("#log-out").style.setProperty("display", "none");
   } else {
     loggedIn = true;
-    localStorage.setItem("loggedIn", "true");
+    sessionStorage.setItem("loggedIn", "true");
 
     headerStockLink.href = `/wholesale-stock-list/`;
     menuStockLink.href = `/wholesale-stock-list/`;
@@ -66,9 +66,9 @@ if (bulkLogoutComplete) {
   }
 } else {
   loggedIn = false;
-  localStorage.setItem("loggedIn", "false");
+  sessionStorage.setItem("loggedIn", "false");
   bulkLogoutComplete = true;
-  localStorage.setItem("bulkLogoutComplete", "true");
+  sessionStorage.setItem("bulkLogoutComplete", "true");
   window.location.reload();
 }
 
