@@ -32,6 +32,10 @@ loginForm.addEventListener("submit", (event) => {
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = true;
       localStorage.setItem("loggedIn", "true");
+      localStorage.setItem(
+        "loginEmail",
+        `${event.target[0].value.toLowerCase()}`
+      );
       if (window.location.pathname === "/retail-stock-list/") {
         window.location.pathname = "/wholesale-stock-list/";
       } else {
