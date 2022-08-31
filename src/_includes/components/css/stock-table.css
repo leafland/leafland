@@ -17,6 +17,15 @@
   overflow-y: auto;
 }
 
+#stock-table-inner {
+  max-width: 80rem;
+  display: grid;
+  gap: 5rem;
+  height: 100%;
+  margin: auto;
+  width: 100%;
+}
+
 body.stock-table-open #stock-table {
   opacity: 1;
   z-index: 8;
@@ -26,7 +35,6 @@ body.stock-table-open #stock-table {
 #stock-table-close {
   cursor: pointer;
   border-color: var(--border-color);
-  align-self: end;
 }
 
 #open-stock-table {
@@ -41,41 +49,27 @@ body.stock-table-open #stock-table {
   min-height: 30rem;
 }
 
-#stock-table-tree-name {
-  font-weight: 900;
-  font-size: var(--font-size-4);
-}
-
-#stock-table table {
+#stock-table-inner table {
   border-spacing: 0px;
   width: 100%;
+  text-align: left;
 }
 
-#stock-table th {
-  text-align: center;
-  padding: 0.5rem 1rem;
+#stock-table-inner th {
   white-space: break-spaces;
   word-break: keep-all;
   font-weight: 700;
+  padding-right: 2rem;
 }
 
-#stock-table tr:first-child {
-  height: 5rem;
+#stock-table-inner tr:first-child {
   position: sticky;
   top: 0;
   background: var(--primary-background);
 }
 
-#stock-table tr:not(tr:first-child) {
+#stock-table-inner tr:not(tr:first-child) {
   height: 4rem;
-}
-
-#stock-table tr td {
-  text-align: center;
-}
-
-#stock-table td {
-  padding: 0.5rem 1rem;
 }
 
 #info-section {
@@ -85,4 +79,149 @@ body.stock-table-open #stock-table {
 
 #info-section p {
   font-size: var(--font-size-2);
+}
+
+#grade-sizes {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: start;
+  grid-gap: 2rem;
+}
+
+#grade-sizes-heading {
+  display: inline-block;
+}
+
+#grade-sizes .minus {
+  display: none;
+}
+
+#grade-sizes #available-details[open] > summary .plus {
+  display: none;
+}
+
+#grade-sizes #available-details[open] > summary .minus {
+  display: inline-block;
+}
+
+#grade-sizes #available-details[closed] > summary .plus {
+  display: inline-block;
+}
+
+#grade-sizes #available-details[closed] > summary .minus {
+  display: none;
+}
+
+#grade-sizes #production-details[open] > summary .plus {
+  display: none;
+}
+
+#grade-sizes #production-details[open] > summary .minus {
+  display: inline-block;
+}
+
+#grade-sizes #production-details[closed] > summary .plus {
+  display: inline-block;
+}
+
+#grade-sizes #production-details[closed] > summary .minus {
+  display: none;
+}
+
+#grade-sizes summary p {
+  font-weight: 700;
+  font-size: var(--font-size-4);
+}
+
+#grade-select {
+  display: grid;
+  gap: 2rem;
+}
+
+#grade-select input {
+  width: 100px;
+}
+
+#grade-select button {
+  align-self: end;
+  max-width: 15rem;
+}
+
+#grade-select select,
+#grade-select input,
+#grade-select button {
+  height: 40px;
+}
+
+.selection-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
+  margin-top: 2rem;
+}
+
+.selection-box {
+  border-radius: 8px;
+  border: 2px solid var(--primary-text);
+  padding: 1rem;
+  font-weight: 700;
+  display: grid;
+  grid-gap: 0.5rem;
+  height: 100%;
+}
+
+.selection-box p {
+  font-size: var(--font-size-2);
+  font-weight: 700;
+}
+
+#add-product-div {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+}
+
+#stock-values {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+#stock-values p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-weight: 700;
+}
+
+.stock-value {
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 20px 10px 20px 10px;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  height: 100%;
+}
+
+.stock-value p {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.stock-value a {
+  white-space: nowrap;
+}
+
+.stock-value-title {
+  font-weight: 700;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #grade-sizes summary p:hover {
+    cursor: pointer;
+    color: var(--accent-color);
+  }
 }

@@ -1,24 +1,66 @@
 <div id="stock-table">
 
-    <button id="stock-table-close">Close</button>
+    <div id="top-buttons-block">
 
-    <div><p id="stock-table-tree-name">Pricing and stock numbers for <span id="tree-name-content"></span></p></div>
+        <button id="stock-table-open-order">Open Order</button>
 
-    <p>All prices exclude GST.</p>
+        <button id="stock-table-close">Close</button>
 
-    <div id="stock-table-div"></div>
+    </div>
 
-    <div id="info-section">
+    <div id='stock-table-inner'>
 
-        <p>The <b>grade size</b> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
+        {% comment %} <div><p id="stock-table-tree-name">Pricing and available stock for <span id="tree-name-content"></span></p></div> {% endcomment %}
 
-        <p>The <b>height</b> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree. Some grades have height ranges as the heights of the individual trees vary.</p>
+        <div id="info-section">
 
-        <p>The <b>standard height</b> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted).</p>
+            <p>All prices exclude GST.</p>
 
-        <p>Grades that are <b>in production</b> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
+            <p>The <b>grade size</b> is the size of the bag/pot the tree is in. This is measured in either litres or pints per bag.</p>
 
-        <p>Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated.</p>
+            <p>The <b>height</b> is the overall height of the tree from the top of the pot/bag (bottom of the trunk) to the top of the tree. Some grades have height ranges as the heights of the individual trees vary.</p>
+
+            <p>The <b>standard height</b> is the height of the clear trunk from the bottom of the trunk to the graft or the first branch (if it is not grafted).</p>
+
+            <p>Grades that are <b>in production</b> are not yet ready for sale. You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Enquire if interested.</p>
+
+            <p>Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated.</p>
+
+        </div>
+
+        <div id="grade-sizes">
+
+            <div id="grade-select">
+
+                <details id="available-details">
+
+                    <summary>
+                    
+                        <p>Order grades available now <span class='plus'>+</span><span class='minus'>-</span></p>
+
+                    </summary>
+
+                    <div id="grade-size-selection" class="selection-grid"></div>
+
+                </details>
+
+                <details id="production-details">
+
+                    <summary>
+                    
+                        <p>View grades in production <span class='plus'>+</span><span class='minus'>-</span></p>
+
+                    </summary>
+
+                    <div id="in-production-grades" class="selection-grid"></div>
+
+                </details>
+
+            </div>
+
+        </div>
+
+        <div id="stock-table-div"></div>
 
     </div>
 

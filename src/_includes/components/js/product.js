@@ -36,10 +36,6 @@ let grades = [];
 
   await createStockValues();
 
-  document.querySelector(
-    "#tree-name-content"
-  ).innerHTML = `${treeBotanicalName.innerHTML}`;
-
   await createStockTable();
 })();
 
@@ -744,3 +740,10 @@ if (document.body.contains(document.querySelector("#open-more-links"))) {
 document.querySelector("#close-more-links").addEventListener("click", () => {
   document.body.classList.remove("more-links-open");
 });
+
+document
+  .querySelector("#stock-table-open-order")
+  .addEventListener("click", () => {
+    document.body.classList.remove("stock-table-open");
+    document.body.classList.add("order-open");
+  });

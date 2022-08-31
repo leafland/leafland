@@ -7,6 +7,7 @@ main {
   display: grid;
   justify-self: center;
   width: 100%;
+  gap: 3rem;
 }
 
 #stock-data {
@@ -18,17 +19,17 @@ main {
 table {
   border-spacing: 0px;
   width: 100%;
+  text-align: left;
 }
 
 th {
-  text-align: center;
   white-space: break-spaces;
   word-break: keep-all;
   font-weight: 700;
+  padding-right: 2rem;
 }
 
 tr:first-child {
-  height: 5rem;
   position: sticky;
   top: 0;
   background: var(--primary-background);
@@ -38,24 +39,15 @@ tr:not(tr:first-child) {
   height: 4rem;
 }
 
-tr td {
-  text-align: center;
-}
-
-tr td:nth-child(1),
-tr td:nth-child(2) {
-  text-align: left;
-}
-
 th:nth-child(1),
 th:nth-child(2) {
-  text-align: left;
   min-width: 15rem;
 }
 
 td {
   min-width: 5rem;
   max-width: 5rem;
+  padding-right: 2rem;
 }
 
 .message {
@@ -63,10 +55,10 @@ td {
 }
 
 .search-section {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  position: relative;
+  display: grid;
+  gap: 1rem;
 }
+
 input[type="text"].search {
   width: 100%;
   min-height: 30px;
@@ -98,8 +90,6 @@ input[type="text"].search {
 }
 
 #result-totals {
-  margin-top: 1rem;
-  margin-bottom: 2rem;
   font-weight: 700;
 }
 
@@ -108,7 +98,6 @@ input[type="text"].search {
   align-items: center;
   gap: 1rem 3rem;
   flex-wrap: wrap;
-  margin-bottom: 3rem;
 }
 
 #filter-section div {
@@ -118,13 +107,17 @@ input[type="text"].search {
 }
 
 #info-section {
-  margin-top: 3rem;
   display: grid;
   gap: 1rem;
 }
 
 #info-section p {
   font-size: var(--font-size-2);
+}
+
+#bottom-div {
+  display: grid;
+  gap: 2rem;
 }
 
 @media (hover: hover) and (pointer: fine) {

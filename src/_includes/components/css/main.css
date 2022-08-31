@@ -267,9 +267,9 @@ a {
   color: var(--primary-text);
 }
 
-h1 {
+/* h1 {
   margin-bottom: 1rem;
-}
+} */
 
 button:disabled,
 input:disabled,
