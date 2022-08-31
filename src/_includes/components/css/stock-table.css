@@ -204,6 +204,10 @@ body.stock-table-open #stock-table {
   font-weight: 700;
 }
 
+#stock-table-details {
+  overflow-x: hidden;
+}
+
 @media (hover: hover) and (pointer: fine) {
   #grade-sizes summary p:hover {
     cursor: pointer;
