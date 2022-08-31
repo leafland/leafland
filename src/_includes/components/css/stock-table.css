@@ -208,6 +208,10 @@ body.stock-table-open #stock-table {
   overflow-x: hidden;
 }
 
+#in-production-grades .button {
+  width: max-content;
+}
+
 @media (hover: hover) and (pointer: fine) {
   #grade-sizes summary p:hover {
     cursor: pointer;

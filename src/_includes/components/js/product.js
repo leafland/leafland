@@ -498,9 +498,22 @@ async function createStockValues() {
                 month: "long",
               })}</span>`;
 
+              let orderNow = document.createElement("a");
+              orderNow.href = `mailto:sales@leafland.co.nz?subject=Tree Pre-order&body=Hi team,%0D%0A%0D%0AI would like to place a pre-order for ${
+                grades[i].grade
+              } ${treeBotanicalName.textContent}, ready in ${productionDates[
+                n
+              ].dateReady.toLocaleDateString("en-gb", {
+                year: "numeric",
+                month: "long",
+              })}.`;
+              orderNow.textContent = "Pre-order";
+              orderNow.classList.add("button");
+
               gradeDiv.appendChild(gradeSizeValue);
               gradeDiv.appendChild(quantityValue);
               gradeDiv.appendChild(dateReady);
+              gradeDiv.appendChild(orderNow);
 
               document
                 .querySelector("#in-production-grades")
