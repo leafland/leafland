@@ -458,7 +458,8 @@ body.main-menu-open {
 }
 
 body.stock-table-open,
-body.lightbox-open {
+body.lightbox-open,
+body.more-links-open {
   overflow-y: hidden;
 }
 
