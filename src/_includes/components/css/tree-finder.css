@@ -191,13 +191,13 @@ footer label {
 }
 
 .filter-icon {
-  width: 30px;
-  height: 30px;
+  width: 2rem;
+  height: 2rem;
 }
 
 .tree-color {
-  width: 30px;
-  height: 30px;
+  width: 1.5rem;
+  height: 1.5rem;
   border-radius: 50%;
   border: 1px solid var(--border-color);
   display: inline-block;

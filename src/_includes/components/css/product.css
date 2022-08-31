@@ -332,8 +332,8 @@ main h3 {
 
 .tree-icon {
   border: none;
-  width: 40px;
-  height: 40px;
+  width: 2.5rem;
+  height: 2.5rem;
 }
 
 #tree-icons {
@@ -359,8 +359,8 @@ main h3 {
 }
 
 .tree-color {
-  width: 20px;
-  height: 20px;
+  width: 1.5rem;
+  height: 1.5rem;
   border-radius: 50%;
   border: 1px solid var(--border-color);
   display: inline-block;
@@ -679,7 +679,7 @@ body.loggedIn .retail-price {
 }
 
 #features-table tr:not(tr:first-child) {
-  height: 3rem;
+  height: 4rem;
 }
 
 #features-table th {
@@ -690,17 +690,11 @@ body.loggedIn .retail-price {
   padding-left: 1rem;
 }
 
-#features-table tr:first-child th {
-  border-bottom: 2px solid var(--primary-text);
-}
-
 #features-table tr:not(tr:nth-child(1)) th {
-  padding: 0 0.5rem 0 0;
   position: sticky;
   top: 0;
   left: 0;
   background: var(--primary-background);
-  border-right: 2px solid var(--primary-text);
 }
 
 .color-list {
