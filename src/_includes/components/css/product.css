@@ -2,10 +2,6 @@ main {
   margin-top: 5rem;
 }
 
-#content {
-  gap: 3rem;
-}
-
 main h3 {
   margin-top: -3rem;
   padding-top: 3rem;
@@ -15,6 +11,7 @@ main h3 {
   max-width: 80rem;
   display: grid;
   justify-self: center;
+  gap: 5rem;
 }
 
 #top-bar {
@@ -219,11 +216,6 @@ main h3 {
   display: grid;
   gap: 2rem;
   grid-template-columns: 1fr;
-  margin-top: 2rem;
-  border-bottom: 2px solid var(--border-color);
-  padding-bottom: 2rem;
-  border-top: 2px solid var(--border-color);
-  padding-top: 2rem;
 }
 
 #grid-content-left {
@@ -638,7 +630,6 @@ body.loggedIn .retail-price {
 }
 
 #information-section {
-  margin-top: 2rem;
   display: grid;
   gap: 2rem;
   grid-template-columns: 1fr;
@@ -652,10 +643,6 @@ body.loggedIn .retail-price {
 #taxonomy-section {
   display: grid;
   gap: 2rem;
-  border-bottom: 2px solid var(--border-color);
-  padding-bottom: 2rem;
-  border-top: 2px solid var(--border-color);
-  padding-top: 2rem;
 }
 
 #taxonomy-inner {
