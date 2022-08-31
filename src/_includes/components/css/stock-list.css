@@ -22,7 +22,6 @@ table {
 
 th {
   text-align: center;
-  border-bottom: 2px solid var(--border-color);
   white-space: break-spaces;
   word-break: keep-all;
   font-weight: 700;
