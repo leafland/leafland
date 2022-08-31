@@ -58,7 +58,7 @@ main h1 {
 
 #grid-content {
   display: grid;
-  gap: 2rem;
+  gap: 5rem 2rem;
   grid-template-columns: 1fr;
 }
 
