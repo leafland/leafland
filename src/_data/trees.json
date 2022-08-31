@@ -31011,7 +31011,7 @@
     "formNativeRange": "",
     "cultivarOrigin": "",
     "mainImage": "corylus-avellana-barcelona/corylus-avellana-barcelona.jpg",
-    "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.rhsplants.co.uk/plants/_/hazelnut-butler/classid.2000036823/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Butler'</a>, <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/merveille-de-bowillier/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Merveille de Bowillier'</a>, and <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/tonda-di-giffoni/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Tonda di Giffoni'</a>.",
+    "description": "A vigorous grower and good producer of large nuts. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.rhsplants.co.uk/plants/_/hazelnut-butler/classid.2000036823/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Butler'</a>, <a href='/trees/corylus-avellana-merveille-de-bollwiller/'><i>Corylus avellana</i> 'Merveille de Bollwiller'</a>, and <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/tonda-di-giffoni/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Tonda di Giffoni'</a>. Hazelnut trees prefer mild summers and cool winters and need protection from wind and high summer temperatures. Ideal temperatures are an anual average of 12°C to 16°C, maximum of 35°C to 36°C, and a minimum of -8°C to -10°C. Ideal annual rainfall is 800mm to 1000mm, spread evenly throughout the growing season. Irrigation will be needed for areas that experience prolonged dry periods from late-spring to mid-summer, especially if the soil is free-draining (sandy or stony).",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -31063,6 +31063,98 @@
     "subspecies": "",
     "variety": "",
     "form": "",
+    "cultivar": "Merveille de Bollwiller",
+    "synonyms": [
+      {
+        "genus": "Corylus",
+        "species": "avellana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Hall's Giant"
+      },
+      {
+        "genus": "Corylus",
+        "species": "avellana",
+        "hybrid": "",
+        "subspecies": "",
+        "variety": "",
+        "form": "",
+        "cultivar": "Merveille de Bowillier"
+      }
+    ],
+    "commonName": "Hazelnut",
+    "otherCommonNames": "Common Hazel",
+    "nameBreakdown": {
+      "family": "birch family, a family of mostly Northern Hemisphere deciduous trees and shrubs. <a href='https://en.wikipedia.org/wiki/Betulaceae' target='_blank' rel='noopener noreferrer'>Learn more about <i>Betulaceae</i></a>.",
+      "genus": "<i>corylus</i> (Latin, adjective), meaning 'a hazel or filbert shrub'. This genus name may also be derived from the Greek noun κόρυς (<i>kórus</i>, 'helmet'), in reference to the hard husk that covers the nut. Commonly known as hazel, a genus of deciduous trees and large shrubs native to the temperate Northern Hemisphere. <a href='https://en.wikipedia.org/wiki/Hazel' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corylus</i></a>.",
+      "species": "<i>avellana</i>, derived from the town of Avella, Italy where cultivation of this species was abundant. <a href='https://en.wikipedia.org/wiki/Corylus_avellana' target='_blank' rel='noopener noreferrer'>Learn more about <i>Corylus avellana</i></a>.",
+      "hybrid": "",
+      "subspecies": "",
+      "variety": "",
+      "form": ""
+    },
+    "url": "corylus-avellana-merveille-de-bollwiller",
+    "speciesNativeRange": "",
+    "hybridOrigin": "",
+    "subspeciesNativeRange": "",
+    "varietyNativeRange": "",
+    "formNativeRange": "",
+    "cultivarOrigin": "Originated in 1788 as a seedling selection by C. G. Bultner in Halle, Germany.",
+    "mainImage": "corylus-avellana-merveille-de-bollwiller/corylus-avellana-merveille-de-bollwiller.jpg",
+    "description": "Produces large, quality nuts on a vigorous growing tree. Harvest red-orange to brown nuts in late-summer to early-autumn. A useful pollinator for other hazelnut cultivars like <a href='/trees/corylus-avellana-barcelona/'><i>Corylus avellana</i> 'Barcelona'</a> and <a href='/trees/corylus-avellana-whiteheart/'><i>Corylus avellana</i> 'Whiteheart'</a>. Hazelnut trees prefer mild summers and cool winters and need protection from wind and high summer temperatures. Ideal temperatures are an anual average of 12°C to 16°C, maximum of 35°C to 36°C, and a minimum of -8°C to -10°C. Ideal annual rainfall is 800mm to 1000mm, spread evenly throughout the growing season. Irrigation will be needed for areas that experience prolonged dry periods from late-spring to mid-summer, especially if the soil is free-draining (sandy or stony).",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "reproduction": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, orange, brown",
+      "autumn": "red, orange, brown",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "images/icons/tree-shapes/hazelnut/hazelnut-general.svg",
+    "images": [
+      {
+        "src": "images/trees/corylus-avellana-merveille-de-bollwiller/corylus-avellana-merveille-de-bollwiller-on-tree.jpg",
+        "alt": "corylus avellana merveille de bollwiller on tree"
+      }
+    ],
+    "links": []
+  },
+  {
+    "family": "Betulaceae",
+    "genus": "Corylus",
+    "species": "avellana",
+    "hybrid": "",
+    "subspecies": "",
+    "variety": "",
+    "form": "",
     "cultivar": "Whiteheart",
     "synonyms": [],
     "commonName": "Hazelnut",
@@ -31084,7 +31176,7 @@
     "formNativeRange": "",
     "cultivarOrigin": "",
     "mainImage": "corylus-avellana-whiteheart/corylus-avellana-whiteheart.jpg",
-    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/alexandra/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Alexandra'</a>, <i>Corylus avellana</i> 'Auckland No. 2', and <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/merveille-de-bowillier/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Merveille de Bowillier'</a>.",
+    "description": "Produces good crops of small, round nuts that are used mainly for processing. Harvest red-orange to brown nuts in late-summer to early-autumn. Pollinators include <a href='https://www.waimeanurseries.co.nz/our-products/nut-trees/hazelnuts/alexandra/' target='_blank' rel='noopener noreferrer'><i>Corylus avellana</i> 'Alexandra'</a>, <i>Corylus avellana</i> 'Auckland No. 2', and <a href='/trees/corylus-avellana-merveille-de-bollwiller/'><i>Corylus avellana</i> 'Merveille de Bollwiller'</a>. Hazelnut trees prefer mild summers and cool winters and need protection from wind and high summer temperatures. Ideal temperatures are an anual average of 12°C to 16°C, maximum of 35°C to 36°C, and a minimum of -8°C to -10°C. Ideal annual rainfall is 800mm to 1000mm, spread evenly throughout the growing season. Irrigation will be needed for areas that experience prolonged dry periods from late-spring to mid-summer, especially if the soil is free-draining (sandy or stony).",
     "uses": "",
     "tolerates": "",
     "soilType": "",
