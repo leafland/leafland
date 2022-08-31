@@ -16,8 +16,8 @@ main h1 {
 #top-bar {
   padding: 1rem;
   text-align: center;
-  background: var(--invert-primary-background);
-  color: var(--invert-primary-text);
+  background: var(--primary-background);
+  color: var(--primary-text);
   font-weight: 700;
   position: fixed;
   left: 0;
