@@ -21,7 +21,7 @@
   max-width: 80rem;
   display: grid;
   gap: 5rem;
-  margin: auto;
+  margin: 0 auto 0 auto;
   width: 100%;
 }
 
@@ -160,6 +160,13 @@ body.stock-table-open #stock-table {
   font-weight: 700;
 }
 
+#grade-size-selection,
+#order-grades {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
+}
+
 #add-product-div {
   display: grid;
   gap: 2rem;
@@ -210,6 +217,13 @@ body.stock-table-open #stock-table {
 
 #in-production-grades .button {
   width: max-content;
+}
+
+.button-active {
+  pointer-events: none;
+  background: var(--button-background-hover);
+  color: var(--button-color-hover);
+  cursor: default;
 }
 
 @media (hover: hover) and (pointer: fine) {
