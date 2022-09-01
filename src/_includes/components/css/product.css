@@ -358,7 +358,7 @@ body.lightbox-open #image-lightbox {
 
 #tree-shape-image {
   border: none;
-  max-height: 20rem;
+  max-height: 15rem;
   grid-column-start: 1;
   grid-row-start: 2;
 }
