@@ -526,12 +526,22 @@ async function createStockValues() {
       }
     }
 
-    if (document.querySelector("#grade-size-selection").innerHTML === "") {
+    if (
+      document.querySelector("#grade-size-selection").innerHTML === "" &&
+      document.querySelector("#in-production-grades").innerHTML === ""
+    ) {
+      document.querySelector("#grade-sizes").innerHTML =
+        "<p class='title'>Currently out of stock.</p>";
+      document
+        .querySelector("#order-grades")
+        .style.setProperty("display", "none");
+    } else if (
+      document.querySelector("#grade-size-selection").innerHTML === ""
+    ) {
       document
         .querySelector("#in-stock-grades")
         .style.setProperty("display", "none");
     }
-
     if (document.querySelector("#in-production-grades").innerHTML === "") {
       document
         .querySelector("#in-production-div")
