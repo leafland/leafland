@@ -41,7 +41,7 @@ body.stock-table-open #stock-table {
   max-width: max-content;
   font-size: var(--font-size-3);
 }
-
+/* 
 #stock-table-div {
   overflow: auto;
   width: 100%;
@@ -71,7 +71,7 @@ body.stock-table-open #stock-table {
 
 #stock-table-inner tr:not(tr:first-child) {
   height: 4rem;
-}
+} */
 
 #info-section {
   display: grid;
@@ -89,11 +89,11 @@ body.stock-table-open #stock-table {
   grid-gap: 2rem;
 }
 
-#grade-sizes-heading {
+/* #grade-sizes-heading {
   display: inline-block;
-}
+} */
 
-#grade-sizes .minus {
+/* #grade-sizes .minus {
   display: none;
 }
 
@@ -116,7 +116,7 @@ body.stock-table-open #stock-table {
 #grade-sizes summary p {
   font-weight: 700;
   font-size: var(--font-size-4);
-}
+} */
 
 #grade-select {
   display: grid;
@@ -138,11 +138,16 @@ body.stock-table-open #stock-table {
   height: 40px;
 }
 
+#grade-select p.title {
+  font-weight: 700;
+  font-size: var(--font-size-4);
+}
+
 .selection-grid {
-  display: grid;
+  display: flex;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
   margin-top: 2rem;
+  flex-wrap: wrap;
 }
 
 .selection-box {
@@ -160,11 +165,15 @@ body.stock-table-open #stock-table {
   font-weight: 700;
 }
 
-#grade-size-selection,
-#order-grades {
+.selection-box .button {
+  margin-top: 1rem;
+}
+
+#grade-size-selection {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
+  grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
+  margin-top: 2rem;
 }
 
 #add-product-div {
@@ -172,7 +181,7 @@ body.stock-table-open #stock-table {
   gap: 2rem;
   grid-template-columns: 1fr;
 }
-
+/* 
 #stock-values {
   display: flex;
   flex-wrap: wrap;
@@ -213,17 +222,15 @@ body.stock-table-open #stock-table {
 
 #stock-table-details {
   overflow-x: hidden;
-}
+} */
 
 #in-production-grades .button {
   width: max-content;
 }
 
 .button-active {
-  pointer-events: none;
   background: var(--button-background-hover);
   color: var(--button-color-hover);
-  cursor: default;
 }
 
 @media (hover: hover) and (pointer: fine) {
