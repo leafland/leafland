@@ -41,37 +41,6 @@ body.stock-table-open #stock-table {
   max-width: max-content;
   font-size: var(--font-size-3);
 }
-/* 
-#stock-table-div {
-  overflow: auto;
-  width: 100%;
-  height: 100%;
-  max-height: 30rem;
-  margin-top: 2rem;
-}
-
-#stock-table-inner table {
-  border-spacing: 0px;
-  width: 100%;
-  text-align: left;
-}
-
-#stock-table-inner th {
-  white-space: break-spaces;
-  word-break: keep-all;
-  font-weight: 700;
-  padding-right: 2rem;
-}
-
-#stock-table-inner tr:first-child {
-  position: sticky;
-  top: 0;
-  background: var(--primary-background);
-}
-
-#stock-table-inner tr:not(tr:first-child) {
-  height: 4rem;
-} */
 
 #info-section {
   display: grid;
@@ -88,35 +57,6 @@ body.stock-table-open #stock-table {
   align-items: start;
   grid-gap: 2rem;
 }
-
-/* #grade-sizes-heading {
-  display: inline-block;
-} */
-
-/* #grade-sizes .minus {
-  display: none;
-}
-
-#grade-sizes details[open] > summary .plus {
-  display: none;
-}
-
-#grade-sizes details[open] > summary .minus {
-  display: inline-block;
-}
-
-#grade-sizes details[closed] > summary .plus {
-  display: inline-block;
-}
-
-#grade-sizes details[closed] > summary .minus {
-  display: none;
-}
-
-#grade-sizes summary p {
-  font-weight: 700;
-  font-size: var(--font-size-4);
-} */
 
 #grade-select {
   display: grid;
@@ -138,7 +78,7 @@ body.stock-table-open #stock-table {
   height: 40px;
 }
 
-#grade-select p.title {
+p.title {
   font-weight: 700;
   font-size: var(--font-size-4);
 }
@@ -181,48 +121,6 @@ body.stock-table-open #stock-table {
   gap: 2rem;
   grid-template-columns: 1fr;
 }
-/* 
-#stock-values {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  align-items: center;
-}
-
-#stock-values p {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  font-weight: 700;
-}
-
-.stock-value {
-  border: 2px solid var(--border-color);
-  border-radius: 8px;
-  padding: 20px 10px 20px 10px;
-  margin-right: 0.5rem;
-  margin-top: 0.5rem;
-  height: 100%;
-}
-
-.stock-value p {
-  display: inline-block;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-}
-
-.stock-value a {
-  white-space: nowrap;
-}
-
-.stock-value-title {
-  font-weight: 700;
-}
-
-#stock-table-details {
-  overflow-x: hidden;
-} */
 
 #in-production-grades .button {
   width: max-content;
