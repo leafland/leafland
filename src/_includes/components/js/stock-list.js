@@ -98,7 +98,7 @@ async function displayData(dataSet, stockStart, stockEnd) {
           if (j !== 4 && j !== 5) {
             let cell = document.createElement("td");
 
-            cell.textContent = dataSet[i][j];
+            cell.textContent = dataSet[i][j].replaceAll('"', "");
 
             row.append(cell);
           }
@@ -108,7 +108,7 @@ async function displayData(dataSet, stockStart, stockEnd) {
           if (j !== 4) {
             let cell = document.createElement("td");
 
-            cell.textContent = dataSet[i][j];
+            cell.textContent = dataSet[i][j].replaceAll('"', "");
 
             row.append(cell);
           }
