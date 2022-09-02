@@ -19,8 +19,6 @@ let thumbImages = document.querySelectorAll(".thumb-image");
 let productImage = "";
 let maximumQuantityReached = false;
 
-// let stockTableDiv = document.querySelector("#stock-table-div");
-
 let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
@@ -67,6 +65,7 @@ async function getProductStockData() {
         .replace(/\//g, " ")
         .replace(/ /g, "-") ===
       treeBotanicalName.textContent
+        .replace("Prunus dulcis", "Almond")
         .replace("Malus domestica", "Apple")
         .replace("Prunus armeniaca", "Apricot")
         .replace("Persea americana", "Avocado")
@@ -524,8 +523,6 @@ async function createStockValues() {
         gradeDiv.appendChild(orderNow);
 
         document.querySelector("#in-production-grades").appendChild(gradeDiv);
-
-        // totalProductionDates += 1;
       }
     }
 
@@ -541,8 +538,8 @@ async function createStockValues() {
         .style.setProperty("display", "none");
     }
   } else {
-    document.querySelector("#grade-sizes").textContent =
-      "Currently out of stock.";
+    document.querySelector("#grade-sizes").innerHTML =
+      "<p class='title'>Currently out of stock.</p>";
     document
       .querySelector("#order-grades")
       .style.setProperty("display", "none");
