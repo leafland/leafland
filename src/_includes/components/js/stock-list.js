@@ -53,9 +53,7 @@ if (stockListType === "retail") {
 }
 
 (async function () {
-  stockData = await fetch(
-    "https://api.leafland.co.nz/default/get-stock-data-file"
-  )
+  stockData = await fetch("/public/stock-data.json")
     .then((response) => response.json())
     .catch((error) => {});
 
