@@ -93,24 +93,41 @@ async function displayData(dataSet, stockStart, stockEnd) {
 
       let row = document.createElement("tr");
 
-      if (stockListType === "retail") {
-        for (let j = 0; j < 10; j++) {
-          if (j !== 4 && j !== 5) {
-            let cell = document.createElement("td");
+      for (let j = 0; j < 10; j++) {
+        if (j === 0) {
+          let cell = document.createElement("td");
+          let link = document.createElement("a");
 
+          treeData.forEach((tree) => {
+            if (tree.code === dataSet[i][13]) {
+              link.href = `/trees/${tree.url}/`;
+              link.textContent = dataSet[i][j].replaceAll('"', "");
+            }
+          });
+          if (link) {
+            cell.append(link);
+          } else {
             cell.textContent = dataSet[i][j].replaceAll('"', "");
-
-            row.append(cell);
           }
-        }
-      } else {
-        for (let j = 0; j < 10; j++) {
-          if (j !== 4) {
-            let cell = document.createElement("td");
 
-            cell.textContent = dataSet[i][j].replaceAll('"', "");
+          row.append(cell);
+        } else {
+          if (stockListType === "retail") {
+            if (j !== 4 && j !== 5) {
+              let cell = document.createElement("td");
 
-            row.append(cell);
+              cell.textContent = dataSet[i][j].replaceAll('"', "");
+
+              row.append(cell);
+            }
+          } else {
+            if (j !== 4) {
+              let cell = document.createElement("td");
+
+              cell.textContent = dataSet[i][j].replaceAll('"', "");
+
+              row.append(cell);
+            }
           }
         }
       }
