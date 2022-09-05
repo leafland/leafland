@@ -102,9 +102,11 @@ async function displayData(dataSet, stockStart, stockEnd) {
             if (tree.code === dataSet[i][13]) {
               link.href = `/trees/${tree.url}/`;
               link.textContent = dataSet[i][j].replaceAll('"', "");
+            } else {
+              link.href = "n/a";
             }
           });
-          if (link) {
+          if (link.href !== "n/a") {
             cell.append(link);
           } else {
             cell.textContent = dataSet[i][j].replaceAll('"', "");
