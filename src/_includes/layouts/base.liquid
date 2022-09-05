@@ -345,7 +345,11 @@
 
   </head>
 
-  <body>
+  {% if type == 'product' %}
+    <body data-code='{{ code }}'>
+  {% else %}
+    <body>
+  {% endif %}
 
     {% include "components/_header.liquid"%}
 

@@ -41,79 +41,7 @@ async function getProductStockData() {
     .then((response) => response.json())
     .catch((error) => {});
 
-  stockData = stockData.filter(
-    (row) =>
-      row[0]
-        .trim()
-        .replace(/ã/g, "a")
-        .replace(/é/g, "e")
-        .replace(/ā/g, "a")
-        .replace(/ē/g, "e")
-        .replace(/ī/g, "i")
-        .replace(/ō/g, "o")
-        .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/\./g, "")
-        .replace(/ var /g, " ")
-        .replace(/ x /g, " ")
-        .replace(/\(/g, "")
-        .replace(/\)/g, "")
-        .replace(/\\/g, " ")
-        .replace(/\//g, " ")
-        .replace(/ /g, "-") ===
-      treeBotanicalName.textContent
-        .replace("Prunus dulcis", "Almond")
-        .replace("Malus domestica", "Apple")
-        .replace("Prunus armeniaca", "Apricot")
-        .replace("Persea americana", "Avocado")
-        .replace("Prunus avium", "Cherry")
-        .replace("Citrus x paradisi", "Citrus grapefruit")
-        .replace("Citrus x limon", "Citrus lemon")
-        .replace("Citrus x meyeri", "Citrus lemon Meyer")
-        .replace("Citrus limon x reticulata", "Citrus Lemonade")
-        .replace("Citrus x latifolia", "Citrus lime")
-        .replace("Citrus reticulata", "Citrus mandarin")
-        .replace("Citrus x sinensis", "Citrus orange")
-        .replace("Feijoa sellowiana", "Feijoa")
-        .replace("Ficus carica", "Fig")
-        .replace("Alectryon excelsus subsp. excelsus", "Alectryon excelsus")
-        .replace("Psidium cattleyanum var. cattleyanum", "Guava Red Cherry")
-        .replace("Corylus avellana", "Hazelnut")
-        .replace("Juglans regia '", "Walnut '")
-        .replace("Eriobotrya japonica 'Golden Orb'", "Loquat Golden Orb")
-        .replace("Eriobotrya japonica", "Loquat japonica")
-        .replace("Macadamia integrifolia x tetraphylla", "Macadamia")
-        .replace("Prunus persica var. nectarina", "Nectarine")
-        .replace("Olea europaea", "Olive")
-        .replace("Prunus persica 'Healy's'", "Peacherine Healy's")
-        .replace("Prunus persica", "Peach")
-        .replace("Pyrus pyrifolia", "Pear")
-        .replace("Pyrus communis", "Pear")
-        .replace("Prunus salicina", "Plum")
-        .replace("Prunus domestica", "Plum")
-        .replace("Cydonia oblonga", "Quince")
-        .replace("Metrosideros x sub-tomentosa", "Metrosideros")
-        .replace("Metrosideros excelsa x umbellata", "Metrosideros")
-        .trim()
-        .replace(/ã/g, "a")
-        .replace(/é/g, "e")
-        .replace(/ā/g, "a")
-        .replace(/ē/g, "e")
-        .replace(/ī/g, "i")
-        .replace(/ō/g, "o")
-        .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .replace(/\./g, "")
-        .replace(/ var /g, " ")
-        .replace(/ x /g, " ")
-        .replace(/\(/g, "")
-        .replace(/\)/g, "")
-        .replace(/\\/g, " ")
-        .replace(/\//g, " ")
-        .replace(/ /g, "-")
-  );
+  stockData = stockData.filter((row) => row[13] === document.body.dataset.code);
 }
 
 async function createTreeImages() {
@@ -422,7 +350,7 @@ async function createStockValues() {
         }
       }
 
-      for (let k = 14; k < stockData[i].length; k++) {
+      for (let k = 15; k < stockData[i].length; k++) {
         let exists = (element) => stockData[i][k].includes(element);
 
         if (months.some(exists)) {
@@ -430,7 +358,10 @@ async function createStockValues() {
           let compareDate = new Date(stockData[i][k]);
 
           let counter = 0;
-          if (compareDate.getTime() > currentDate.getTime()) {
+          if (
+            compareDate.getTime() > currentDate.getTime() &&
+            stockData[i][k - 1] !== ""
+          ) {
             for (let j = 0; j < productionDates.length; j++) {
               if (
                 productionDates[j].dateReady.getTime() ===
@@ -530,17 +461,15 @@ async function createStockValues() {
     ) {
       document.querySelector("#grade-sizes").innerHTML =
         "<p class='title'>Currently out of stock.</p>";
-      document
-        .querySelector("#order-grades")
-        .style.setProperty("display", "none");
     } else if (
       document.querySelector("#grade-size-selection").innerHTML === ""
     ) {
       document
         .querySelector("#in-stock-grades")
         .style.setProperty("display", "none");
-    }
-    if (document.querySelector("#in-production-grades").innerHTML === "") {
+    } else if (
+      document.querySelector("#in-production-grades").innerHTML === ""
+    ) {
       document
         .querySelector("#in-production-div")
         .style.setProperty("display", "none");
@@ -548,9 +477,6 @@ async function createStockValues() {
   } else {
     document.querySelector("#grade-sizes").innerHTML =
       "<p class='title'>Currently out of stock.</p>";
-    document
-      .querySelector("#order-grades")
-      .style.setProperty("display", "none");
   }
 }
 
