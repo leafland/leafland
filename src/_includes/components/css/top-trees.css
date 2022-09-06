@@ -30,7 +30,7 @@ main {
   height: 300px;
   border-radius: 8px;
   filter: brightness(0.5);
-  background: var(--image-background);
+  background: var(--image-background-color);
 }
 
 .title-link-box {

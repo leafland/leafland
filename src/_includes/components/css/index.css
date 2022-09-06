@@ -76,7 +76,7 @@ main h3 {
   width: 100%;
   height: 750px;
   filter: brightness(0.7);
-  background: var(--image-background);
+  background: var(--image-background-color);
 }
 
 #hero-text {

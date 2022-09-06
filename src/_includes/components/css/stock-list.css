@@ -32,7 +32,7 @@ th {
 tr:first-child {
   position: sticky;
   top: 0;
-  background: var(--primary-background);
+  background: var(--background-color);
 }
 
 tr:not(tr:first-child) {

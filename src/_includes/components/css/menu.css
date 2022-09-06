@@ -9,7 +9,7 @@
   bottom: 0;
   height: 100%;
   width: 100%;
-  background: var(--primary-background);
+  background: var(--background-color);
   display: grid;
   overflow-x: hidden;
   overflow-y: auto;
@@ -43,7 +43,7 @@
 
 .main-menu-list-item {
   border-radius: 8px;
-  border: 2px solid var(--primary-text);
+  border: 2px solid var(--text-color);
 }
 
 .main-menu-list-item-link,
@@ -93,12 +93,12 @@
   position: absolute;
   top: 100%;
   left: 0;
-  background: var(--primary-background);
-  color: var(--primary-text);
+  background: var(--background-color);
+  color: var(--text-color);
   border-radius: 8px;
   padding: 20px;
   width: 300px;
-  border: 2px solid var(--primary-text);
+  border: 2px solid var(--text-color);
 }
 
 .dropdown-sub-menu a {
@@ -185,8 +185,8 @@
 
   #back-button:hover,
   #close-menu:hover {
-    background: var(--button-background-hover);
-    color: var(--button-color-hover);
+    background: var(--button-background-color-hover);
+    color: var(--button-text-color-hover);
   }
 
   .dropdown-menu-button:hover + .dropdown-sub-menu,

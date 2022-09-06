@@ -49,7 +49,7 @@ body.search-loaded #search-results {
   height: 300px;
   object-fit: cover;
   filter: brightness(0.5);
-  background: var(--image-background);
+  background: var(--image-background-color);
 }
 
 .search-result {
@@ -92,7 +92,7 @@ body.search-loaded #search-results {
   bottom: 0;
   height: 100%;
   width: 100%;
-  background: var(--primary-background);
+  background: var(--background-color);
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;

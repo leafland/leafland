@@ -9,7 +9,7 @@
   bottom: 0;
   height: 100%;
   width: 100%;
-  background: var(--primary-background);
+  background: var(--background-color);
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;

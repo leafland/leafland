@@ -9,7 +9,7 @@
   bottom: 0;
   height: 100%;
   width: 100%;
-  background: var(--primary-background);
+  background: var(--background-color);
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 3rem;
@@ -77,8 +77,8 @@
 @media (hover: hover) and (pointer: fine) {
   button#log-in:disabled:hover {
     cursor: default;
-    background: var(--primary-background);
-    color: var(---primary-text);
+    background: var(--background-color);
+    color: var(---text-color);
   }
 }
 
