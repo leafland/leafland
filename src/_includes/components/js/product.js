@@ -37,11 +37,15 @@ let stockData = [];
 })();
 
 async function getProductStockData() {
-  stockData = await fetch("/public/stock-data.json")
+  stockData = await fetch(
+    "https://sheets.googleapis.com/v4/spreadsheets/1MjWaC2gSJykzoEwj0CvGBjdQF-U4Yu1c4F-tVMU44NQ/values/Sheet1!A2:ZZ9999?key=AIzaSyCRZYs44jejbsBovgiExFgyJBOq0Vkd5uw"
+  )
     .then((response) => response.json())
     .catch((error) => {});
 
-  stockData = stockData.filter((row) => row[13] === document.body.dataset.code);
+  stockData = stockData.values.filter(
+    (row) => row[13] === document.body.dataset.code
+  );
 }
 
 async function createTreeImages() {

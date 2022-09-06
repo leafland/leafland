@@ -53,11 +53,13 @@ if (stockListType === "retail") {
 }
 
 (async function () {
-  stockData = await fetch("/public/stock-data.json")
+  stockData = await fetch(
+    "https://sheets.googleapis.com/v4/spreadsheets/1MjWaC2gSJykzoEwj0CvGBjdQF-U4Yu1c4F-tVMU44NQ/values/Sheet1!A2:ZZ9999?key=AIzaSyCRZYs44jejbsBovgiExFgyJBOq0Vkd5uw"
+  )
     .then((response) => response.json())
     .catch((error) => {});
 
-  await displayData(stockData, stockStart, stockEnd);
+  await displayData(stockData.values, stockStart, stockEnd);
 
   stockSearchInput.removeAttribute("disabled");
   stockSearchInput.addEventListener("input", (e) => {
