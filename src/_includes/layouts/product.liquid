@@ -813,9 +813,9 @@ type: product
 
             {% if tree.family.size > 0 %}
                         <section class="taxonomy-section">
-                        {% if tree.nameBreakdown.family.size > 0 %}
+                        {% if tree.taxonomyInformation.family.size > 0 %}
                             <h3>Family:</h3>
-                            <p><span><i>{{ tree.family }}</i></span>, {{tree.nameBreakdown.family}}</p>
+                            <p><span><i>{{ tree.family }}</i></span>, {{tree.taxonomyInformation.family}}</p>
                             {% else %}
                                 <h3>Family:</h3>
                                 <p><span><i>{{ tree.family }}</i></span></p>
@@ -826,9 +826,9 @@ type: product
 
                     {% if tree.genus.size > 0 %}
                         <section class="taxonomy-section">
-                        {% if tree.nameBreakdown.genus.size > 0 %}
+                        {% if tree.taxonomyInformation.genus.size > 0 %}
                                 <h3>Genus:</h3>
-                                <p><span><i>{{ tree.genus }}</i></span>, {{tree.nameBreakdown.genus}}</p>
+                                <p><span><i>{{ tree.genus }}</i></span>, {{tree.taxonomyInformation.genus}}</p>
                             {% else %}
                                 <h3>Genus:</h3>
                                 <p><span><i>{{ tree.genus }}</i></span></p>
@@ -839,11 +839,11 @@ type: product
                     {% if tree.species.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Species:</h3>
-                        {% if tree.nameBreakdown.species.size > 0 %}
+                        {% if tree.taxonomyInformation.species.size > 0 %}
 
                             
 
-                                <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></span>, {{tree.nameBreakdown.species}}</p>
+                                <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></span>, {{tree.taxonomyInformation.species}}</p>
 
                             
 
@@ -860,14 +860,6 @@ type: product
                     {% endif %}
 
 
-                    {% if speciesNativeRange.size > 0 %}
-                        <section class="taxonomy-section">
-                        <h3>Species Native Range:</h3>
-                        <p>{{speciesNativeRange}}</p>
-                        </section>
-                    {% endif %}
-
-
                     {% if tree.hybrid.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Hybrid Species:</h3>
@@ -877,11 +869,11 @@ type: product
 
                         {% assign newText = text | join: '</i> x <i>' %}
 
-                            {% if tree.nameBreakdown.hybrid.size > 0 %}
+                            {% if tree.taxonomyInformation.hybrid.size > 0 %}
 
                             
 
-                                <p><span><i>{{ tree.genus }}</i> <i>{{ newText }}</i></span>, {{tree.nameBreakdown.hybrid}}</p>
+                                <p><span><i>{{ tree.genus }}</i> <i>{{ newText }}</i></span>, {{tree.taxonomyInformation.hybrid}}</p>
 
                             
 
@@ -897,11 +889,11 @@ type: product
 
                         {% else %}
 
-                            {% if tree.nameBreakdown.hybrid.size > 0 %}
+                            {% if tree.taxonomyInformation.hybrid.size > 0 %}
 
                                 
 
-                                    <p><span><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></span>, {{tree.nameBreakdown.hybrid}}</p>
+                                    <p><span><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></span>, {{tree.taxonomyInformation.hybrid}}</p>
 
                                 
 
@@ -920,22 +912,14 @@ type: product
                     {% endif %}
 
 
-                    {% if hybridOrigin.size > 0 %}
-                    <section class="taxonomy-section">
-                    <h3>Hybrid Species Origin:</h3>
-                    <p>{{hybridOrigin}}</p>
-                    </section>
-                    {% endif %}
-
-
                     {% if tree.subspecies.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Subspecies:</h3>
-                        {% if tree.nameBreakdown.subspecies.size > 0 %}
+                        {% if tree.taxonomyInformation.subspecies.size > 0 %}
 
                         
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></span>, {{tree.nameBreakdown.subspecies}}</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></span>, {{tree.taxonomyInformation.subspecies}}</p>
 
                         
 
@@ -952,22 +936,14 @@ type: product
                     {% endif %}
 
 
-                    {% if subspeciesNativeRange.size > 0 %}
-                    <section class="taxonomy-section">
-                    <h3>Subspecies Native Range:</h3>
-                    <p>{{subspeciesNativeRange}}</p>
-                    </section>
-                    {% endif %}
-
-
                     {% if tree.variety.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Variety:</h3>
-                        {% if tree.nameBreakdown.variety.size > 0 %}
+                        {% if tree.taxonomyInformation.variety.size > 0 %}
 
                         
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></span>, {{tree.nameBreakdown.variety}}</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></span>, {{tree.taxonomyInformation.variety}}</p>
 
                         
 
@@ -984,22 +960,14 @@ type: product
                     {% endif %}
 
 
-                    {% if varietyNativeRange.size > 0 %}
-                    <section class="taxonomy-section">
-                    <h3>Variety Native Range:</h3>
-                    <p>{{varietyNativeRange}}</p>
-                    </section>
-                    {% endif %}
-
-
                     {% if tree.form.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Form:</h3>
-                        {% if tree.nameBreakdown.form.size > 0 %}
+                        {% if tree.taxonomyInformation.form.size > 0 %}
 
                         
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></span>, {{tree.nameBreakdown.form}}</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></span>, {{tree.taxonomyInformation.form}}</p>
 
                         
 
@@ -1015,30 +983,22 @@ type: product
                     </section>
                     {% endif %}
 
-
-                    {% if formNativeRange.size > 0 %}
-                    <section class="taxonomy-section">
-                    <h3>Form Native Range:</h3>
-                    <p>{{formNativeRange}}</p>
-                    </section>
-                    {% endif %}
-
-
                     {% if tree.cultivar.size > 0 %}
                         <section class="taxonomy-section">
                         <h3>Cultivar:</h3>
+                        {% if tree.taxonomyInformation.cultivar.size > 0 %}
 
                             {% if tree.form.size > 0 %}
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% elsif tree.variety.size > 0 %}
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% elsif tree.subspecies.size > 0 %}
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% elsif tree.hybrid.size > 0 %}
 
@@ -1048,32 +1008,59 @@ type: product
 
                             {% assign newText = text | join: '</i> x <i>' %}
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ newText }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% else %}
 
-                            <p><span><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% endif %}
 
                             {% else %}
 
-                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></span> '{{ tree.cultivar }}'</p>
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</span>, {{tree.taxonomyInformation.cultivar}}</p>
 
                             {% endif %}
 
-                    
+                        {% else %}
+
+                            {% if tree.form.size > 0 %}
+
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> f. <i>{{ tree.form }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% elsif tree.variety.size > 0 %}
+
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> var. <i>{{ tree.variety }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% elsif tree.subspecies.size > 0 %}
+
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> subsp. <i>{{ tree.subspecies }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% elsif tree.hybrid.size > 0 %}
+
+                            {% if tree.hybrid contains ' x ' %}
+
+                            {% assign text = tree.hybrid | split: ' x ' %}
+
+                            {% assign newText = text | join: '</i> x <i>' %}
+
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ newText }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% else %}
+
+                            <p><span><i>{{ tree.genus }}</i> x <i>{{ tree.hybrid }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% endif %}
+
+                            {% else %}
+
+                            <p><span><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i> '{{ tree.cultivar }}'</span></p>
+
+                            {% endif %}
+
+                        {% endif %}
                         </section>
                     {% endif %}
-
-
-                    {% if cultivarOrigin.size > 0 %}
-                    <section class="taxonomy-section">
-                    <h3>Cultivar Origin:</h3>
-                    <p>{{cultivarOrigin}}</p>
-                    </section>
-                    {% endif %}
-                
 
                     {% if tree.synonyms.size > 0 %}
                     <section class="taxonomy-section">
@@ -1089,15 +1076,15 @@ type: product
 
                             {% if item.form.size > 0 %}
 
-                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> f. <i>{{ item.form }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> f. <i>{{ item.form }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                             {% elsif item.variety.size > 0 %}
 
-                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> var. <i>{{ item.variety }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> var. <i>{{ item.variety }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                             {% elsif item.subspecies.size > 0 %}
 
-                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> subsp. <i>{{ item.subspecies }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> subsp. <i>{{ item.subspecies }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                             {% elsif item.hybrid.size > 0 %}
 
@@ -1107,11 +1094,11 @@ type: product
 
                             {% assign newText = text | join: '</i> x <i>' %}
 
-                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ newText }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                            {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ newText }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                             {% else %}
 
-                            {% capture newItem %}<span><i>{{ item.genus }}</i> x <i>{{ item.hybrid }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                            {% capture newItem %}<span><i>{{ item.genus }}</i> x <i>{{ item.hybrid }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                             {% endif %}
 
@@ -1119,11 +1106,11 @@ type: product
 
                                 {% if item.species.size > 0 %}
 
-                                {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                                {% capture newItem %}<span><i>{{ item.genus }}</i> <i>{{ item.species }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                                 {% else %}
 
-                                {% capture newItem %}<span><i>{{ item.genus }}</i></span> '{{ item.cultivar }}'{% endcapture %}
+                                {% capture newItem %}<span><i>{{ item.genus }}</i> '{{ item.cultivar }}'</span>{% endcapture %}
 
                                 {% endif %}
 
