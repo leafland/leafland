@@ -1720,7 +1720,14 @@
     },
     "fruit": { "summer": "", "autumn": "", "winter": "", "spring": "" },
     "treeShape": "images/icons/tree-shapes/acer-negundo/acer-negundo-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "60L",
+        "src": "images/trees/acer-negundo-var-violaceum/grades/acer-negundo-var-violaceum-60L-grade.jpeg",
+        "alt": "acer negundo var violaceum 60L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/acer-negundo-var-violaceum/acer-negundo-var-violaceum-autumn-foliage.jpg",
@@ -43492,7 +43499,14 @@
     },
     "fruit": { "summer": "", "autumn": "", "winter": "", "spring": "" },
     "treeShape": "images/icons/tree-shapes/magnolia/magnolia-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "35L",
+        "src": "images/trees/magnolia-cameo/grades/magnolia-cameo-35L-grade.jpeg",
+        "alt": "magnolia cameo 35L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/magnolia-cameo/magnolia-cameo-flower-opening.jpeg",
@@ -51950,7 +51964,14 @@
       "spring": "brown, black"
     },
     "treeShape": "images/icons/tree-shapes/melicope/melicope-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "35L",
+        "src": "images/trees/melicope-ternata/grades/melicope-ternata-35L-grade.jpeg",
+        "alt": "melicope ternata 35L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/melicope-ternata/melicope-ternata-foliage.jpg",
@@ -64449,7 +64470,14 @@
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/plum/plum-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "45L",
+        "src": "images/trees/prunus-salicina-billington/grades/prunus-salicina-billington-45L-grade.jpeg",
+        "alt": "prunus salicina billington 45L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/prunus-salicina-billington/prunus-salicina-billington-basket.jpg",
@@ -67838,7 +67866,14 @@
     },
     "fruit": { "summer": "", "autumn": "", "winter": "", "spring": "" },
     "treeShape": "images/icons/tree-shapes/pseudopanax/pseudopanax-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "25L",
+        "src": "images/trees/pseudopanax-lessonii-cyril-watson/grades/pseudopanax-lessonii-cyril-watson-25L-grade.jpeg",
+        "alt": "pseudopanax lessonii cyril watson 25L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/pseudopanax-lessonii-cyril-watson/pseudopanax-lessonii-cyril-watson-foliage.jpeg",
@@ -74483,7 +74518,14 @@
     },
     "fruit": { "summer": "", "autumn": "", "winter": "", "spring": "" },
     "treeShape": "images/icons/tree-shapes/trachycarpus/trachycarpus-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "25L",
+        "src": "images/trees/trachycarpus-fortunei/grades/trachycarpus-fortunei-25L-grade.jpeg",
+        "alt": "trachycarpus fortunei 25L grade",
+        "dateTaken": "September 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/trachycarpus-fortunei/trachycarpus-fortunei-foliage.jpeg",
