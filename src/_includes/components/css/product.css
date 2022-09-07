@@ -570,25 +570,19 @@ body.loggedIn .retail-price {
 
 .taxonomy-section {
   display: grid;
-  gap: 0.75rem;
+  gap: 1rem;
   height: 100%;
   width: 100%;
   grid-template-rows: auto 1fr;
 }
 
 .taxonomy-section h3 {
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-4);
   font-weight: 700;
 }
 
 .taxonomy-section p span {
   font-weight: 600;
-}
-
-.taxonomy-section p {
-  border: 2px solid var(--border-color);
-  padding: 1rem;
-  border-radius: 8px;
 }
 
 @media (min-width: 300px) {
