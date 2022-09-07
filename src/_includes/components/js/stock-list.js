@@ -85,6 +85,13 @@ if (stockListType === "retail") {
     document.querySelector("#download-stock-list").href = url;
     document.querySelector("#download-stock-list").download =
       "leafland-stock-list.csv";
+
+    document
+      .querySelector("#download-stock-list")
+      .style.setProperty("pointer-events", "auto");
+    document
+      .querySelector("#download-stock-list")
+      .style.setProperty("opacity", "1");
   }
 })();
 
