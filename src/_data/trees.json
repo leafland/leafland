@@ -11165,7 +11165,14 @@
       "spring": ""
     },
     "treeShape": "images/icons/tree-shapes/aristotelia/aristotelia-general.svg",
-    "gradeImages": [],
+    "gradeImages": [
+      {
+        "grade": "P28",
+        "src": "images/trees/aristotelia-serrata/grades/aristotelia-serrata-P28-grade.jpg",
+        "alt": "aristotelia serrata P28 grade",
+        "dateTaken": "June 2022"
+      }
+    ],
     "images": [
       {
         "src": "images/trees/aristotelia-serrata/aristotelia-serrata-berries.jpg",
