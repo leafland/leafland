@@ -125,6 +125,10 @@ input[type="text"].search {
   text-decoration: underline;
 }
 
+#download-stock-list {
+  width: max-content;
+}
+
 @media (hover: hover) and (pointer: fine) {
   input[type="checkbox"]:hover,
   label {

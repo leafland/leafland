@@ -65,6 +65,27 @@ if (stockListType === "retail") {
   stockSearchInput.addEventListener("input", (e) => {
     filterData();
   });
+
+  if (stockListType === "wholesale") {
+    var csv = "";
+    csv += `"Botanical Name","Common Name","Grade","$R","$W","Height","Standard Height","Ready","In Production"\r\n`;
+    for (let j = 0; j < stockData.values.length; j++) {
+      for (let i = 0; i < 10; i++) {
+        if (i !== 4) {
+          stockData.values[j][i] = '"' + stockData.values[j][i] + '"';
+          csv += stockData.values[j][i] + ",";
+        }
+      }
+      csv += "\r\n";
+    }
+
+    var myBlob = new Blob([csv], { type: "text/csv" });
+
+    var url = window.URL.createObjectURL(myBlob);
+    document.querySelector("#download-stock-list").href = url;
+    document.querySelector("#download-stock-list").download =
+      "leafland-stock-list.csv";
+  }
 })();
 
 async function displayData(dataSet, stockStart, stockEnd) {
