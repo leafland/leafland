@@ -27,6 +27,11 @@ let grades = [];
 let stockData = [];
 
 (async function init() {
+  if (document.querySelector("#grade-size-images").firstElementChild) {
+    document
+      .querySelector("#grade-size-image-div")
+      .style.setProperty("display", "grid");
+  }
   addEventListeners();
 
   await createTreeImages();

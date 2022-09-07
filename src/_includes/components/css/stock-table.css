@@ -121,7 +121,7 @@ p.title {
 }
 
 #grade-size-image-div {
-  display: grid;
+  display: none;
   gap: 2rem;
 }
 
