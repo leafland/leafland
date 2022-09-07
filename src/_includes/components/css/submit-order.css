@@ -288,13 +288,6 @@
   gap: 2rem;
 }
 
-#top-buttons-block {
-  justify-content: end;
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
 @media (hover: hover) and (pointer: fine) {
   #submit-order-overlay .common-name:hover {
     color: var(--accent-color);

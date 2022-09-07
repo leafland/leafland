@@ -14,12 +14,12 @@
   overflow-x: hidden;
   overflow-y: auto;
   padding: 1rem;
+  grid-template-rows: auto 1fr;
+  gap: 2rem;
 }
 
 #main-menu-inner {
   display: grid;
-  grid-template-rows: auto auto auto;
-  grid-gap: 2rem;
 }
 
 #main-menu-items {

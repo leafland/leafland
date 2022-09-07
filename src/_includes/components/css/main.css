@@ -423,6 +423,13 @@ footer p {
   grid-template-rows: 1fr auto;
 }
 
+#top-buttons-block {
+  justify-content: end;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 body.search-open #search-overlay,
 body.login-open #login-overlay,
 body.order-open #order-overlay,
