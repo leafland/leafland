@@ -22,11 +22,8 @@ backButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "0");
   backButton.style.setProperty("z-index", "0");
 
-  resourcesSubMenu.classList.remove("menu-open");
   resourcesSubMenu.classList.add("menu-closed");
-  topTreesSubMenu.classList.remove("menu-open");
   topTreesSubMenu.classList.add("menu-closed");
-  mainMenu.classList.add("menu-open");
   mainMenu.classList.remove("menu-closed");
 
   document.querySelector("#main-menu-overlay").scroll({
@@ -39,11 +36,8 @@ resourcesSubMenuButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
 
-  resourcesSubMenu.classList.add("menu-open");
   resourcesSubMenu.classList.remove("menu-closed");
-  topTreesSubMenu.classList.remove("menu-open");
   topTreesSubMenu.classList.add("menu-closed");
-  mainMenu.classList.remove("menu-open");
   mainMenu.classList.add("menu-closed");
 
   document.querySelector("#main-menu-overlay").scroll({
@@ -56,11 +50,8 @@ topTreesSubMenuButton.addEventListener("click", () => {
   backButton.style.setProperty("opacity", "1");
   backButton.style.setProperty("z-index", "9");
 
-  resourcesSubMenu.classList.remove("menu-open");
   resourcesSubMenu.classList.add("menu-closed");
-  topTreesSubMenu.classList.add("menu-open");
   topTreesSubMenu.classList.remove("menu-closed");
-  mainMenu.classList.remove("menu-open");
   mainMenu.classList.add("menu-closed");
 
   document.querySelector("#main-menu-overlay").scroll({
