@@ -14,115 +14,97 @@ function resetStartEnd() {
 }
 
 async function search(terms) {
-  terms = terms.split(" ");
+  searchResults = [];
 
-  for (let i = 0; i < terms.length; i++) {
-    if (terms[i] === "" || terms[i].length === 0) {
-      terms.splice(i, 1);
-      i--;
+  terms = terms.toLowerCase().split(" ");
+
+  searchResults = treeData.filter((tree) => {
+    let count = 0;
+    let searchString =
+      tree.genus +
+      " " +
+      tree.species +
+      " " +
+      tree.hybrid +
+      " " +
+      tree.subspecies +
+      " " +
+      tree.variety +
+      " " +
+      tree.form +
+      " " +
+      tree.cultivar +
+      " " +
+      tree.commonName +
+      " " +
+      tree.otherCommonNames +
+      " " +
+      tree.origin +
+      " " +
+      tree.uses +
+      " " +
+      tree.tolerates +
+      " " +
+      tree.soilType +
+      " " +
+      tree.sunShade +
+      " " +
+      tree.winterFoliage +
+      " " +
+      tree.types +
+      " " +
+      tree.stem.summer +
+      " " +
+      tree.stem.autumn +
+      " " +
+      tree.stem.winter +
+      " " +
+      tree.stem.spring +
+      " " +
+      tree.flowers.summer +
+      " " +
+      tree.flowers.autumn +
+      " " +
+      tree.flowers.winter +
+      " " +
+      tree.flowers.spring +
+      " " +
+      tree.foliage.summer +
+      " " +
+      tree.foliage.autumn +
+      " " +
+      tree.foliage.winter +
+      " " +
+      tree.foliage.spring +
+      " " +
+      tree.fruit.summer +
+      " " +
+      tree.fruit.autumn +
+      " " +
+      tree.fruit.winter +
+      " " +
+      tree.fruit.spring;
+
+    for (let j = 0; j < tree.synonyms.length; j++) {
+      searchString +=
+        tree.synonyms[j].genus +
+        " " +
+        tree.synonyms[j].species +
+        " " +
+        tree.synonyms[j].hybrid +
+        " " +
+        tree.synonyms[j].subspecies +
+        " " +
+        tree.synonyms[j].variety +
+        " " +
+        tree.synonyms[j].form +
+        " " +
+        tree.synonyms[j].cultivar;
     }
-  }
 
-  if (terms.length > 0) {
-    searchResults = [];
-    let usesValue = "";
-    let toleratesValue = "";
-    let typesValue = "";
-    let compareValue = "";
-    for (let i = 0; i < treeData.length; i++) {
-      usesValue = "";
-      toleratesValue = "";
-      typesValue = "";
-      compareValue = "";
-      if (treeData[i].uses.search("hedging-screening") !== -1) {
-        usesValue = `${usesValue} hedging hedge hedges hedged `;
-      }
-      if (treeData[i].uses.search("birds-bees") !== -1) {
-        usesValue = `${usesValue} bird birds bees bee `;
-      }
-      if (treeData[i].uses.search("driveways-avenues") !== -1) {
-        usesValue = `${usesValue} driveway driveways avenue avenues `;
-      }
-      if (treeData[i].uses.search("paddocks-shade") !== -1) {
-        usesValue = `${usesValue} paddocks paddock field farm shade shading `;
-      }
-      if (treeData[i].uses.search("pleaching") !== -1) {
-        usesValue = `${usesValue} pleaching pleached pleach `;
-      }
-      if (treeData[i].uses.search("small-garden") !== -1) {
-        usesValue = `${usesValue} small `;
-      }
-      if (treeData[i].uses.search("street") !== -1) {
-        usesValue = `${usesValue} street `;
-      }
-      if (treeData[i].uses.search("topiary") !== -1) {
-        usesValue = `${usesValue} topiary topiaried ball `;
-      }
-      if (treeData[i].uses.search("narrow-spaces") !== -1) {
-        usesValue = `${usesValue} narrow restricted thin `;
-      }
-      if (treeData[i].uses.search("attracts-birds") !== -1) {
-        usesValue = `${usesValue} attracts birds bird `;
-      }
-      if (treeData[i].uses.search("attracts-bees") !== -1) {
-        usesValue = `${usesValue} attracts bees bee `;
-      }
-
-      if (treeData[i].tolerates.search("dry") !== -1) {
-        toleratesValue = `${toleratesValue} dry hot drought `;
-      }
-      if (treeData[i].tolerates.search("coastal") !== -1) {
-        toleratesValue = `${toleratesValue} coastal coast beach sea seaside `;
-      }
-      if (treeData[i].tolerates.search("wet") !== -1) {
-        toleratesValue = `${toleratesValue} wet damp moist sodden flood `;
-      }
-      if (treeData[i].tolerates.search("windy") !== -1) {
-        toleratesValue = `${toleratesValue} windy wind gale exposed `;
-      }
-      if (treeData[i].tolerates.search("clay") !== -1) {
-        toleratesValue = `${toleratesValue} clay heavy `;
-      }
-
-      if (treeData[i].types.search("conifer") !== -1) {
-        typesValue = `${typesValue} conifer coniferous `;
-      }
-      if (treeData[i].types.search("edible") !== -1) {
-        typesValue = `${typesValue} edible fruit nut `;
-      }
-      if (treeData[i].types.search("weeping") !== -1) {
-        typesValue = `${typesValue} weeping pendula pendulum drooping `;
-      }
-
-      for (let j = 0; j < treeData[i].synonyms.length; j++) {
-        compareValue +=
-          `${treeData[i].synonyms[j].genus} ${treeData[i].synonyms[j].species} ${treeData[i].synonyms[j].hybrid} ${treeData[i].synonyms[j].subspecies} ${treeData[i].synonyms[j].variety} ${treeData[i].synonyms[j].form} ${treeData[i].synonyms[j].cultivar}`
-            .replace(/'/g, "")
-            .replace(/"/g, "")
-            .replace(/\(/g, "")
-            .replace(/\)/g, "")
-            .replace(/,/g, " ")
-            .replace(/-/g, " ")
-            .replace(/-x-/g, " ")
-            .replace(/ã/g, "a")
-            .replace(/é/g, "e")
-            .replace(/ā/g, "a")
-            .replace(/ē/g, "e")
-            .replace(/ī/g, "i")
-            .replace(/ō/g, "o")
-            .replace(/ū/g, "u")
-            .toLowerCase();
-      }
-
-      compareValue +=
-        `${treeData[i].genus} ${treeData[i].species} ${treeData[i].hybrid} ${treeData[i].subspecies} ${treeData[i].variety} ${treeData[i].form} ${treeData[i].cultivar} ${treeData[i].commonName} ${treeData[i].otherCommonNames} ${treeData[i].winterFoliage} ${treeData[i].origin} ${treeData[i].soilType} ${treeData[i].uses} ${treeData[i].sunShade} ${treeData[i].tolerates} ${treeData[i].types} ${treeData[i].stem.summer} ${treeData[i].stem.autumn} ${treeData[i].stem.winter} ${treeData[i].stem.spring} ${treeData[i].flowers.summer} ${treeData[i].flowers.autumn} ${treeData[i].flowers.winter} ${treeData[i].flowers.spring} ${treeData[i].foliage.summer} ${treeData[i].foliage.autumn} ${treeData[i].foliage.winter} ${treeData[i].foliage.spring} ${treeData[i].fruit.summer} ${treeData[i].fruit.autumn} ${treeData[i].fruit.winter} ${treeData[i].fruit.spring} ${typesValue} ${usesValue} ${toleratesValue}`
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .replace(/\(/g, "")
-          .replace(/\)/g, "")
-          .replace(/,/g, " ")
-          .replace(/-/g, " ")
-          .replace(/-x-/g, " ")
+    for (let i = 0; i < terms.length; i++) {
+      if (
+        searchString
           .replace(/ã/g, "a")
           .replace(/é/g, "e")
           .replace(/ā/g, "a")
@@ -130,43 +112,15 @@ async function search(terms) {
           .replace(/ī/g, "i")
           .replace(/ō/g, "o")
           .replace(/ū/g, "u")
-          .toLowerCase();
-
-      for (let j = 0; j < terms.length; j++) {
-        if (
-          compareValue.search(
-            terms[j]
-              .replace(/'/g, "")
-              .replace(/"/g, "")
-              .replace(/\(/g, "")
-              .replace(/\)/g, "")
-              .replace(/,/g, " ")
-              .replace(/-/g, " ")
-              .replace(/-x-/g, " ")
-              .replace(/ã/g, "a")
-              .replace(/é/g, "e")
-              .replace(/ā/g, "a")
-              .replace(/ē/g, "e")
-              .replace(/ī/g, "i")
-              .replace(/ō/g, "o")
-              .replace(/ū/g, "u")
-              .toLowerCase()
-          ) !== -1
-        ) {
-          add = true;
-        } else {
-          add = false;
-          break;
-        }
-      }
-
-      if (add) {
-        searchResults.push(treeData[i]);
+          .toLowerCase()
+          .includes(terms[i])
+      ) {
+        count += 1;
       }
     }
-  } else {
-    searchResults = [];
-  }
+
+    return count === terms.length;
+  });
 }
 
 async function displayResults(results) {
