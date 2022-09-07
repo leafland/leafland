@@ -629,7 +629,7 @@ function addEventListeners() {
 
       document.querySelector(
         "#date-taken-div"
-      ).innerHTML = `<span id="date-taken" style="font-weight:600">Date Taken: ${info[2]}</span>`;
+      ).innerHTML = `<span id="date-taken" style="font-weight:600">${info[3]} in ${info[2]}</span>`;
     })
   );
 }
