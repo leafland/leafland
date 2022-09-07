@@ -10,13 +10,27 @@
 
     <div id='stock-table-inner'>
 
-        {% comment %} <div><p id="stock-table-tree-name">Pricing and available stock for <span id="tree-name-content"></span></p></div> {% endcomment %}
-
         <div id="info-section">
 
             <p>You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated.</p>
 
         </div>
+
+        {% if tree.gradeImages.size > 0 %}
+        <div id="grade-size-image-div">
+
+            <p class='title'>To view grade photos, select a grade:</p>
+
+            <div id="grade-size-images">
+
+                {% for gradeImage in tree.gradeImages %}
+                <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}">{{ gradeImage.grade }}</button>
+                {% endfor %}
+
+            </div>
+
+        </div>
+        {% endif %}
 
         <div id="grade-sizes">
 

@@ -67,17 +67,6 @@ body.stock-table-open #stock-table {
   width: 100px;
 }
 
-#grade-select button {
-  align-self: end;
-  max-width: 15rem;
-}
-
-#grade-select select,
-#grade-select input,
-#grade-select button {
-  height: 40px;
-}
-
 p.title {
   font-weight: 700;
   font-size: var(--font-size-4);
@@ -129,6 +118,17 @@ p.title {
 .button-active {
   background: var(--button-background-color-hover);
   color: var(--button-text-color-hover);
+}
+
+#grade-size-image-div {
+  display: grid;
+  gap: 2rem;
+}
+
+#grade-size-images {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
 }
 
 @media (hover: hover) and (pointer: fine) {

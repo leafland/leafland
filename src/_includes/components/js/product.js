@@ -49,13 +49,14 @@ async function getProductStockData() {
 }
 
 async function createTreeImages() {
-  imageLightBoxClose.addEventListener("click", () => {
-    document.body.classList.remove("lightbox-open");
-  });
-
   let mainImg = document.querySelector(".main-img");
   productImage = mainImg.src.split("images/trees/")[1].split("?")[0];
   mainImg.addEventListener("click", () => {
+    document.querySelector("#date-taken-div").innerHTML = "";
+    document
+      .querySelector("#date-taken-div")
+      .style.setProperty("display", "none");
+
     imageLightboxInner.innerHTML = `<img src='${
       mainImg.src.split("?")[0]
     }?auto=format&w=1500&q=75' height="1500" width="1500" alt="${
@@ -85,6 +86,11 @@ async function createTreeImages() {
         }, 500);
 
         mainImage.addEventListener("click", () => {
+          document.querySelector("#date-taken-div").innerHTML = "";
+          document
+            .querySelector("#date-taken-div")
+            .style.setProperty("display", "none");
+
           imageLightboxInner.innerHTML = `<img src="${
             thumbImage.src.split("?")[0]
           }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
@@ -118,6 +124,11 @@ async function createTreeImages() {
           mainImage.style.setProperty("visibility", "visible");
 
           mainImage.addEventListener("click", () => {
+            document.querySelector("#date-taken-div").innerHTML = "";
+            document
+              .querySelector("#date-taken-div")
+              .style.setProperty("display", "none");
+
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
             }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
@@ -152,6 +163,11 @@ async function createTreeImages() {
           mainImage.style.setProperty("visibility", "visible");
 
           mainImage.addEventListener("click", () => {
+            document.querySelector("#date-taken-div").innerHTML = "";
+            document
+              .querySelector("#date-taken-div")
+              .style.setProperty("display", "none");
+
             imageLightboxInner.innerHTML = `<img src="${
               thumbImage.src.split("?")[0]
             }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
@@ -593,4 +609,27 @@ function addEventListeners() {
       document.body.classList.remove("stock-table-open");
       document.body.classList.add("order-open");
     });
+
+  imageLightBoxClose.addEventListener("click", () => {
+    document.body.classList.remove("lightbox-open");
+  });
+
+  document.querySelectorAll(".grade-image-button").forEach((gradeImage) =>
+    gradeImage.addEventListener("click", () => {
+      document.querySelector("#date-taken-div").innerHTML = "";
+      document
+        .querySelector("#date-taken-div")
+        .style.setProperty("display", "inline-block");
+
+      let info = gradeImage.dataset.info.split("&");
+
+      imageLightboxInner.innerHTML = `<img src='https://leafland.imgix.net/${info[0]}?auto=format&w=1500&q=75' height="1500" width="1500" alt="${info[1]}">`;
+      document.body.classList.add("lightbox-open");
+      imageLightbox.style.setProperty("z-index", "9");
+
+      document.querySelector(
+        "#date-taken-div"
+      ).innerHTML = `<span id="date-taken" style="font-weight:600">Date Taken: ${info[2]}</span>`;
+    })
+  );
 }
