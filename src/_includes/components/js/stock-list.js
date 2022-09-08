@@ -20,7 +20,7 @@ if (window.location.href.search("retail") === -1) {
   stockListType = "retail";
 }
 
-var stockData = [];
+var rawData = [];
 let filteredData = [];
 let stockStart = 0;
 let stockEnd = 24;
@@ -53,27 +53,27 @@ if (stockListType === "retail") {
 }
 
 (async function () {
-  stockData = await fetch(
+  rawData = await fetch(
     "https://sheets.googleapis.com/v4/spreadsheets/1MjWaC2gSJykzoEwj0CvGBjdQF-U4Yu1c4F-tVMU44NQ/values/Sheet1!A2:ZZ9999?key=AIzaSyCRZYs44jejbsBovgiExFgyJBOq0Vkd5uw"
   )
     .then((response) => response.json())
     .catch((error) => {});
 
-  await displayData(stockData.values, stockStart, stockEnd);
+  await displayData(rawData.values, stockStart, stockEnd);
 
   stockSearchInput.removeAttribute("disabled");
   stockSearchInput.addEventListener("input", (e) => {
-    filterData();
+    filterData(rawData.values);
   });
 
   if (stockListType === "wholesale") {
     var csv = "";
     csv += `"Botanical Name","Common Name","Grade","$R","$W","Height","Standard Height","Ready","In Production"\r\n`;
-    for (let j = 0; j < stockData.values.length; j++) {
+    for (let j = 0; j < rawData.values.length; j++) {
       for (let i = 0; i < 10; i++) {
         if (i !== 4) {
-          stockData.values[j][i] = '"' + stockData.values[j][i] + '"';
-          csv += stockData.values[j][i] + ",";
+          rawData.values[j][i] = '"' + rawData.values[j][i] + '"';
+          csv += rawData.values[j][i] + ",";
         }
       }
       csv += "\r\n";
@@ -198,7 +198,7 @@ nextButton.addEventListener("click", () => {
   if (filteredData.length > 1) {
     displayData(filteredData, stockStart, stockEnd);
   } else {
-    displayData(stockData, stockStart, stockEnd);
+    displayData(rawData.values, stockStart, stockEnd);
   }
 });
 
@@ -213,11 +213,11 @@ prevButton.addEventListener("click", () => {
   if (filteredData.length > 1) {
     displayData(filteredData, stockStart, stockEnd);
   } else {
-    displayData(stockData, stockStart, stockEnd);
+    displayData(rawData.values, stockStart, stockEnd);
   }
 });
 
-function filterData() {
+function filterData(stockData) {
   filteredData = [];
 
   let compareArray = compareValue.split(",");
@@ -238,7 +238,7 @@ function filterData() {
     hideFound === false
   ) {
     resetStartEnd();
-    displayData(stockData, stockStart, stockEnd);
+    displayData(rawData.values, stockStart, stockEnd);
   } else {
     if (stockSearchInput.value.length === 0) {
       for (let j = 0; j < stockData.length; j++) {
@@ -358,7 +358,7 @@ hideOutOfStock.addEventListener("input", () => {
   if (filterSemiEvergreen.checked === true) {
     compareValue += "semi-evergreen,";
   }
-  filterData();
+  filterData(rawData.values);
 });
 
 filterEdible.addEventListener("input", () => {
@@ -387,7 +387,7 @@ filterEdible.addEventListener("input", () => {
     compareValue += "semi-evergreen,";
   }
 
-  filterData();
+  filterData(rawData.values);
 });
 
 filterNative.addEventListener("input", () => {
@@ -416,7 +416,7 @@ filterNative.addEventListener("input", () => {
     compareValue += "semi-evergreen,";
   }
 
-  filterData();
+  filterData(rawData.values);
 });
 
 filterDeciduous.addEventListener("input", () => {
@@ -447,7 +447,7 @@ filterDeciduous.addEventListener("input", () => {
     compareValue += "semi-evergreen,";
   }
 
-  filterData();
+  filterData(rawData.values);
 });
 
 filterEvergreen.addEventListener("input", () => {
@@ -478,7 +478,7 @@ filterEvergreen.addEventListener("input", () => {
     compareValue += "semi-evergreen,";
   }
 
-  filterData();
+  filterData(rawData.values);
 });
 
 filterSemiEvergreen.addEventListener("input", () => {
@@ -509,5 +509,5 @@ filterSemiEvergreen.addEventListener("input", () => {
     compareValue += "evergreen,";
   }
 
-  filterData();
+  filterData(rawData.values);
 });
