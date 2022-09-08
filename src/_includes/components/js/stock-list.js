@@ -67,18 +67,12 @@ if (stockListType === "retail") {
   });
 
   if (stockListType === "wholesale") {
-    let csvData = await fetch(
-      "https://sheets.googleapis.com/v4/spreadsheets/1MjWaC2gSJykzoEwj0CvGBjdQF-U4Yu1c4F-tVMU44NQ/values/Sheet1!A2:ZZ9999?key=AIzaSyCRZYs44jejbsBovgiExFgyJBOq0Vkd5uw"
-    )
-      .then((response) => response.json())
-      .catch((error) => {});
     var csv = "";
     csv += `"Botanical Name","Common Name","Grade","$R","$W","Height","Standard Height","Ready","In Production"\r\n`;
-    for (let j = 0; j < csvData.values.length; j++) {
+    for (let j = 0; j < rawData.values.length; j++) {
       for (let i = 0; i < 10; i++) {
         if (i !== 4) {
-          csvData.values[j][i] = '"' + csvData.values[j][i] + '"';
-          csv += csvData.values[j][i] + ",";
+          csv += '"' + rawData.values[j][i] + '"' + ",";
         }
       }
       csv += "\r\n";
