@@ -18,14 +18,14 @@
 
         <div id="grade-size-image-div">
 
-            <p class='title'>To view grade photos, select a grade:</p>
+            <p class='title'>View grade photos:</p>
 
             <div id="grade-size-images">
 
                 {% for gradeImage in tree.gradeImages %}
 
                 {% if gradeImage.dateTaken.size > 0 %}
-                <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">{{ gradeImage.grade }}</button>
+                <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">View {{ gradeImage.grade }}</button>
                 {% endif %}
 
                 {% endfor %}
@@ -39,7 +39,7 @@
             <div id="grade-select">
                     
                     <div id="in-stock-grades">
-                        <p class='title'>To order, select a grade size:</p>
+                        <p class='title'>Order grades:</p>
 
                         <div id="grade-size-selection"></div>
 

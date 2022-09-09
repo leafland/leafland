@@ -210,7 +210,8 @@ async function createStockValues() {
       if (stockData[i][8] !== "0" && stockData[i][8] !== null) {
         if (stockData[i][2] !== previousGrade) {
           let button = document.createElement("button");
-          button.textContent = stockData[i][2];
+          button.textContent = "Order " + stockData[i][2];
+          button.dataset.grade = stockData[i][2];
 
           button.addEventListener("click", () => {
             document.querySelector("#order-grades").innerHTML = "";
@@ -226,7 +227,7 @@ async function createStockValues() {
 
               for (let j = 0; j < stockData.length; j++) {
                 if (
-                  stockData[j][2] === button.textContent &&
+                  stockData[j][2] === button.dataset.grade &&
                   stockData[j][8] !== "0" &&
                   stockData[j][8] !== null
                 ) {
@@ -466,7 +467,7 @@ async function createStockValues() {
             month: "long",
           }
         )}`;
-        orderNow.textContent = "Pre-order";
+        orderNow.textContent = "Pre-order " + productionDates[n].grade;
         orderNow.classList.add("button");
 
         gradeDiv.appendChild(gradeValue);
