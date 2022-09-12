@@ -62,11 +62,9 @@ async function createTreeImages() {
       .querySelector("#date-taken-div")
       .style.setProperty("display", "none");
 
-    imageLightboxInner.innerHTML = `<img src='${
-      mainImg.src.split("?")[0]
-    }?auto=format&w=1500&q=75' height="1500" width="1500" alt="${
-      mainImg.alt
-    }">`;
+    imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+      mainImg.src.split(".com/")[1]
+    }' height="1500" width="1500" alt="${mainImg.alt}">`;
     document.body.classList.add("lightbox-open");
   });
 
@@ -81,9 +79,9 @@ async function createTreeImages() {
         mainImage.style.setProperty("opacity", "0");
         mainImage.style.setProperty("visibility", "hidden");
         setTimeout(() => {
-          mainImage.innerHTML = `<img src="${
-            thumbImage.src.split("?")[0]
-          }?auto=format&w=700&q=75" height="700" width="700" alt="${
+          mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+            thumbImage.src.split(".com/")[1]
+          }" height="700" width="700" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -96,11 +94,9 @@ async function createTreeImages() {
             .querySelector("#date-taken-div")
             .style.setProperty("display", "none");
 
-          imageLightboxInner.innerHTML = `<img src="${
-            thumbImage.src.split("?")[0]
-          }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
-            thumbImage.alt
-          }">`;
+          imageLightboxInner.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+            thumbImage.src.split(".com/")[1]
+          }" height="1500" width="1500" alt="${thumbImage.alt}">`;
           document.body.classList.add("lightbox-open");
         });
       }
@@ -120,9 +116,9 @@ async function createTreeImages() {
         mainImage.style.setProperty("visibility", "hidden");
 
         setTimeout(() => {
-          mainImage.innerHTML = `<img src="${
-            thumbImage.src.split("?")[0]
-          }?auto=format&w=700&q=75" height="700" width="700" alt="${
+          mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+            thumbImage.src.split(".com/")[1]
+          }" height="700" width="700" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -134,11 +130,9 @@ async function createTreeImages() {
               .querySelector("#date-taken-div")
               .style.setProperty("display", "none");
 
-            imageLightboxInner.innerHTML = `<img src="${
-              thumbImage.src.split("?")[0]
-            }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
-              thumbImage.alt
-            }">`;
+            imageLightboxInner.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+              thumbImage.src.split(".com/")[1]
+            }" height="1500" width="1500" alt="${thumbImage.alt}">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);
@@ -159,9 +153,9 @@ async function createTreeImages() {
         mainImage.style.setProperty("visibility", "hidden");
 
         setTimeout(() => {
-          mainImage.innerHTML = `<img src="${
-            thumbImage.src.split("?")[0]
-          }?auto=format&w=700&q=75" height="700" width="700" alt="${
+          mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+            thumbImage.src.split(".com/")[1]
+          }" height="700" width="700" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
@@ -173,11 +167,9 @@ async function createTreeImages() {
               .querySelector("#date-taken-div")
               .style.setProperty("display", "none");
 
-            imageLightboxInner.innerHTML = `<img src="${
-              thumbImage.src.split("?")[0]
-            }?auto=format&w=1500&q=75" height="1500" width="1500" alt="${
-              thumbImage.alt
-            }">`;
+            imageLightboxInner.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/${
+              thumbImage.src.split(".com/")[1]
+            }" height="1500" width="1500" alt="${thumbImage.alt}">`;
             document.body.classList.add("lightbox-open");
           });
         }, 500);
@@ -629,7 +621,7 @@ function addEventListeners() {
 
       let info = gradeImage.dataset.info.split("&");
 
-      imageLightboxInner.innerHTML = `<img src='https://leafland.imgix.net/${info[0]}?auto=format&w=1500&q=75' height="1500" width="1500" alt="${info[1]}">`;
+      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/${info[0]}' height="1500" width="1500" alt="${info[1]}">`;
       document.body.classList.add("lightbox-open");
       imageLightbox.style.setProperty("z-index", "9");
 
