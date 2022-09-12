@@ -273,7 +273,7 @@ async function createStockValues() {
 
                   quantityValue.innerHTML = `Quantity Ready: <span class='accent-color'>${stockData[j][8]}</span>`;
 
-                  wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${stockData[j][4]}.00+GST (Wholesale)</span>`;
+                  wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${stockData[j][5]}.00+GST (Wholesale)</span>`;
 
                   retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${stockData[j][3]}.00+GST (Retail)</span>`;
 
@@ -313,7 +313,7 @@ async function createStockValues() {
                   gradeButton.dataset.standardHeight =
                     stockData[j][7] === "" ? "None" : stockData[j][7];
                   gradeButton.dataset.quantity = stockData[j][8];
-                  gradeButton.dataset.wholesalePrice = stockData[j][4];
+                  gradeButton.dataset.wholesalePrice = stockData[j][5];
                   gradeButton.dataset.retailPrice = stockData[j][3];
 
                   gradeButton.addEventListener("click", () => {
