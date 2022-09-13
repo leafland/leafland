@@ -23,6 +23,8 @@ let productTrees = JSON.parse(sessionStorage.getItem("trees"));
 
 const productAdded = new Event("productAdded");
 
+let mainImg = document.querySelector(".main-img");
+
 let grades = [];
 let stockData = [];
 
@@ -54,7 +56,6 @@ async function getProductStockData() {
 }
 
 async function createTreeImages() {
-  let mainImg = document.querySelector(".main-img");
   productImage = mainImg.src.split("files.leafland.co.nz/")[1];
   mainImg.addEventListener("click", () => {
     document.querySelector("#date-taken-div").innerHTML = "";
@@ -182,7 +183,7 @@ async function createStockValues() {
   let productionDates = [];
 
   if (stockData.length > 0) {
-    let previousGrade = "";
+    let orderPreviousGrade = "";
     let months = [
       "Jan",
       "Feb",
@@ -200,7 +201,7 @@ async function createStockValues() {
 
     for (let i = 0; i < stockData.length; i++) {
       if (stockData[i][8] !== "0" && stockData[i][8] !== null) {
-        if (stockData[i][2] !== previousGrade) {
+        if (stockData[i][2] !== orderPreviousGrade) {
           let button = document.createElement("button");
           button.textContent = "Order " + stockData[i][2];
           button.dataset.grade = stockData[i][2];
@@ -208,14 +209,14 @@ async function createStockValues() {
           button.addEventListener("click", () => {
             document.querySelector("#order-grades").innerHTML = "";
 
-            if (!button.classList.contains("button-active")) {
-              if (document.querySelector(".button-active")) {
+            if (!button.classList.contains("order-button-active")) {
+              if (document.querySelector(".order-button-active")) {
                 document
-                  .querySelector(".button-active")
-                  .classList.remove("button-active");
+                  .querySelector(".order-button-active")
+                  .classList.remove("order-button-active");
               }
 
-              button.classList.add("button-active");
+              button.classList.add("order-button-active");
 
               for (let j = 0; j < stockData.length; j++) {
                 if (
@@ -359,12 +360,12 @@ async function createStockValues() {
                 }
               }
             } else {
-              button.classList.remove("button-active");
+              button.classList.remove("order-button-active");
             }
           });
 
           document.querySelector("#grade-size-selection").appendChild(button);
-          previousGrade = stockData[i][2];
+          orderPreviousGrade = stockData[i][2];
         }
       }
 
@@ -419,63 +420,105 @@ async function createStockValues() {
         }
       });
 
+      let productionPreviousGrade = "";
+
       for (let n = 0; n < productionDates.length; n++) {
-        let gradeDiv = document.createElement("div");
-        gradeDiv.classList.add("selection-box");
+        if (productionDates[n].grade !== productionPreviousGrade) {
+          let button = document.createElement("button");
+          button.textContent = "Pre-order " + productionDates[n].grade;
+          button.dataset.grade = productionDates[n].grade;
 
-        let gradeValue = document.createElement("p");
-        gradeValue.innerHTML = `Grade Size: <span class='accent-color'>${productionDates[n].grade}</span>`;
+          button.addEventListener("click", () => {
+            document.querySelector("#in-production-grades").innerHTML = "";
 
-        let quantityValue = document.createElement("p");
-        quantityValue.innerHTML = `Quantity In Production: <span class='accent-color'>${productionDates[n].quantity}</span>`;
+            if (!button.classList.contains("preorder-button-active")) {
+              if (document.querySelector(".preorder-button-active")) {
+                document
+                  .querySelector(".preorder-button-active")
+                  .classList.remove("preorder-button-active");
+              }
 
-        let wholesalePriceValue = document.createElement("p");
-        wholesalePriceValue.classList.add("wholesale-price");
-        wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${productionDates[n].wholesalePrice}.00+GST (Wholesale)</span>`;
+              button.classList.add("preorder-button-active");
 
-        let retailPriceValue = document.createElement("p");
-        retailPriceValue.classList.add("retail-price");
-        retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${productionDates[n].retailPrice}.00+GST (Retail)</span>`;
+              for (let j = 0; j < productionDates.length; j++) {
+                if (
+                  productionDates[j].grade === button.dataset.grade &&
+                  productionDates[j].quantity !== "0" &&
+                  productionDates[j].quantity !== null
+                ) {
+                  let gradeDiv = document.createElement("div");
+                  gradeDiv.classList.add("selection-box");
 
-        let dateReady = document.createElement("p");
-        dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
-          n
-        ].dateReady.toLocaleDateString("en-gb", {
-          year: "numeric",
-          month: "long",
-        })}</span>`;
+                  let gradeValue = document.createElement("p");
+                  gradeValue.innerHTML = `Grade Size: <span class='accent-color'>${productionDates[j].grade}</span>`;
 
-        let orderNow = document.createElement("a");
-        orderNow.href = `mailto:sales@leafland.co.nz?subject=Tree Pre-order&body=Hi team,%0D%0A%0D%0AI would like to place a pre-order for:%0D%0A%0D%0ATree: ${
-          treeBotanicalName.textContent
-        }%0D%0AGrade: ${productionDates[n].grade}%0D%0APrice per tree: ${
-          loggedIn
-            ? productionDates[n].wholesalePrice + ".00+GST (Wholesale)"
-            : productionDates[n].retailPrice + ".00+GST (Retail)"
-        }%0D%0ADate Ready: ${productionDates[n].dateReady.toLocaleDateString(
-          "en-gb",
-          {
-            year: "numeric",
-            month: "long",
-          }
-        )}`;
-        orderNow.textContent = "Pre-order " + productionDates[n].grade;
-        orderNow.classList.add("button");
+                  let quantityValue = document.createElement("p");
+                  quantityValue.innerHTML = `Quantity In Production: <span class='accent-color'>${productionDates[j].quantity}</span>`;
 
-        gradeDiv.appendChild(gradeValue);
-        gradeDiv.appendChild(quantityValue);
-        gradeDiv.appendChild(wholesalePriceValue);
-        gradeDiv.appendChild(retailPriceValue);
-        gradeDiv.appendChild(dateReady);
-        gradeDiv.appendChild(orderNow);
+                  let wholesalePriceValue = document.createElement("p");
+                  wholesalePriceValue.classList.add("wholesale-price");
+                  wholesalePriceValue.innerHTML = `Price per tree: <span class='accent-color'>${productionDates[j].wholesalePrice}.00+GST (Wholesale)</span>`;
 
-        document.querySelector("#in-production-grades").appendChild(gradeDiv);
+                  let retailPriceValue = document.createElement("p");
+                  retailPriceValue.classList.add("retail-price");
+                  retailPriceValue.innerHTML = `Price per tree: <span class='accent-color'>${productionDates[j].retailPrice}.00+GST (Retail)</span>`;
+
+                  let dateReady = document.createElement("p");
+                  dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
+                    n
+                  ].dateReady.toLocaleDateString("en-gb", {
+                    year: "numeric",
+                    month: "long",
+                  })}</span>`;
+
+                  let orderNow = document.createElement("a");
+                  orderNow.href = `mailto:sales@leafland.co.nz?subject=Tree Pre-order&body=Hi team,%0D%0A%0D%0AI would like to place a pre-order for:%0D%0A%0D%0ATree: ${
+                    treeBotanicalName.textContent
+                  }%0D%0AGrade: ${
+                    productionDates[j].grade
+                  }%0D%0APrice per tree: ${
+                    loggedIn
+                      ? productionDates[j].wholesalePrice +
+                        ".00+GST (Wholesale)"
+                      : productionDates[j].retailPrice + ".00+GST (Retail)"
+                  }%0D%0ADate Ready: ${productionDates[
+                    n
+                  ].dateReady.toLocaleDateString("en-gb", {
+                    year: "numeric",
+                    month: "long",
+                  })}`;
+                  orderNow.textContent =
+                    "Pre-order " + productionDates[j].grade;
+                  orderNow.classList.add("button");
+
+                  gradeDiv.appendChild(gradeValue);
+                  gradeDiv.appendChild(quantityValue);
+                  gradeDiv.appendChild(wholesalePriceValue);
+                  gradeDiv.appendChild(retailPriceValue);
+                  gradeDiv.appendChild(dateReady);
+                  gradeDiv.appendChild(orderNow);
+
+                  document
+                    .querySelector("#in-production-grades")
+                    .appendChild(gradeDiv);
+                }
+              }
+            } else {
+              button.classList.remove("preorder-button-active");
+            }
+          });
+
+          document
+            .querySelector("#in-production-selection")
+            .appendChild(button);
+          productionPreviousGrade = productionDates[n].grade;
+        }
       }
     }
 
     if (
       document.querySelector("#grade-size-selection").innerHTML === "" &&
-      document.querySelector("#in-production-grades").innerHTML === ""
+      document.querySelector("#in-production-selection").innerHTML === ""
     ) {
       document.querySelector("#grade-sizes").innerHTML =
         "<p class='title'>Currently out of stock.</p>";
@@ -486,7 +529,7 @@ async function createStockValues() {
         .querySelector("#in-stock-grades")
         .style.setProperty("display", "none");
     } else if (
-      document.querySelector("#in-production-grades").innerHTML === ""
+      document.querySelector("#in-production-selection").innerHTML === ""
     ) {
       document
         .querySelector("#in-production-div")
@@ -612,7 +655,7 @@ function addEventListeners() {
     document.body.classList.remove("lightbox-open");
   });
 
-  document.querySelectorAll(".grade-image-button").forEach((gradeImage) =>
+  document.querySelectorAll(".grade-size-div").forEach((gradeImage) =>
     gradeImage.addEventListener("click", () => {
       document.querySelector("#date-taken-div").innerHTML = "";
       document

@@ -48,7 +48,7 @@ body.stock-table-open #stock-table {
 }
 
 #info-section p {
-  font-size: var(--font-size-2);
+  font-size: var(--font-size-1);
 }
 
 #grade-sizes {
@@ -98,11 +98,18 @@ p.title {
   margin-top: 1rem;
 }
 
-#grade-size-selection {
+#grade-size-selection,
+#in-production-selection {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
   margin-top: 2rem;
+}
+
+#grade-size-selection button,
+#in-production-selection button {
+  height: 50px;
+  width: max-content;
 }
 
 #add-product-div {
@@ -115,7 +122,8 @@ p.title {
   width: max-content;
 }
 
-.button-active {
+.order-button-active,
+.preorder-button-active {
   background: var(--button-background-color-hover);
   color: var(--button-text-color-hover);
 }
@@ -128,12 +136,35 @@ p.title {
 #grade-size-images {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
+  grid-template-columns: repeat(auto-fit, minmax(150px, max-content));
+}
+
+.grade-size-image {
+  height: 150px;
+  width: 150px;
+  border-radius: 8px;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+.grade-size-div {
+  display: grid;
+}
+
+.grade-size-div > * {
+  grid-area: 1 / -1;
+}
+
+.grade-size-grade {
+  z-index: 2;
+  padding: 0.5rem;
+  display: grid;
+  align-items: end;
+  font-weight: 600;
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #grade-sizes summary p:hover {
+  .grade-size-div:hover {
     cursor: pointer;
-    color: var(--accent-color);
   }
 }

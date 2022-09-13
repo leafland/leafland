@@ -10,22 +10,23 @@
 
     <div id='stock-table-inner'>
 
-        <div id="info-section">
-
-            <p>You can place a pre-order for a 50% deposit and we will hold the stock until it is ready. Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated. Grade photos are indicative only and do not necessarily reflect the final product.</p>
-
-        </div>
-
         <div id="grade-size-image-div">
 
-            <p class='title'>View grade photos:</p>
+            {% comment %} <p class='title'>View grade photos:</p> {% endcomment %}
 
             <div id="grade-size-images">
 
                 {% for gradeImage in tree.gradeImages %}
 
                 {% if gradeImage.dateTaken.size > 0 %}
-                <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">View {{ gradeImage.grade }}</button>
+                {% comment %} <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">View {{ gradeImage.grade }}</button> {% endcomment %}
+
+                <div class="grade-size-div" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">
+
+                    <span class="grade-size-grade">View {{gradeImage.grade}}</span>
+                    <img data-grade="{{gradeImage.grade}}" class="grade-size-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=300/https://files.leafland.co.nz/{{ gradeImage.src }}" height="300" width="300" alt="{{ gradeImage.alt }}">
+
+                </div>
                 {% endif %}
 
                 {% endfor %}
@@ -39,7 +40,7 @@
             <div id="grade-select">
                     
                     <div id="in-stock-grades">
-                        <p class='title'>Order grades:</p>
+                        {% comment %} <p class='title'>Order grades:</p> {% endcomment %}
 
                         <div id="grade-size-selection"></div>
 
@@ -47,12 +48,20 @@
                     </div>
 
                     <div id="in-production-div">
-                        <p class='title'>Pre-order grades:</p>
+                        {% comment %} <p class='title'>Pre-order grades:</p> {% endcomment %}
+
+                        <div id="in-production-selection"></div>
 
                         <div id="in-production-grades" class="selection-grid"></div>
                     </div>
 
             </div>
+
+        </div>
+
+        <div id="info-section">
+
+            <p">All pre-orders require a 50% deposit to be paid immediately. Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated. Grade photos are indicative only and do not necessarily reflect the final product.</p>
 
         </div>
 
