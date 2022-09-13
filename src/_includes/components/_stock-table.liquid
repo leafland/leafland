@@ -12,14 +12,11 @@
 
         <div id="grade-size-image-div">
 
-            {% comment %} <p class='title'>View grade photos:</p> {% endcomment %}
-
             <div id="grade-size-images">
 
                 {% for gradeImage in tree.gradeImages %}
 
                 {% if gradeImage.dateTaken.size > 0 %}
-                {% comment %} <button class="grade-image-button" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">View {{ gradeImage.grade }}</button> {% endcomment %}
 
                 <div class="grade-size-div" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">
 
@@ -40,7 +37,6 @@
             <div id="grade-select">
                     
                     <div id="in-stock-grades">
-                        {% comment %} <p class='title'>Order grades:</p> {% endcomment %}
 
                         <div id="grade-size-selection"></div>
 
@@ -48,7 +44,6 @@
                     </div>
 
                     <div id="in-production-div">
-                        {% comment %} <p class='title'>Pre-order grades:</p> {% endcomment %}
 
                         <div id="in-production-selection"></div>
 

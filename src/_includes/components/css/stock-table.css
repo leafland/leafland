@@ -101,9 +101,16 @@ p.title {
 #grade-size-selection,
 #in-production-selection {
   display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
+  gap: 2rem;
   margin-top: 2rem;
+}
+
+#grade-size-selection {
+  grid-template-columns: repeat(auto-fit, minmax(100px, max-content));
+}
+
+#in-production-selection {
+  grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
 }
 
 #grade-size-selection button,
