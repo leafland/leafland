@@ -465,7 +465,7 @@ async function createStockValues() {
 
                   let dateReady = document.createElement("p");
                   dateReady.innerHTML = `Date Ready: <span class='accent-color'>${productionDates[
-                    n
+                    j
                   ].dateReady.toLocaleDateString("en-gb", {
                     year: "numeric",
                     month: "long",
