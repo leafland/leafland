@@ -92,9 +92,9 @@
     <link rel='dns-prefetch' href="https://leafland.co.nz/cdn-cgi/image">
 
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/images/trees/{{ mainImage }}">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/{{ mainImage }}">
     {% elsif type == 'index' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=2000/https://leafland.sgp1.cdn.digitaloceanspaces.com/images/home/tree-planting-estate.jpg">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=2000/https://https://files.leafland.co.nz/tree-planting-estate.jpg">
     {% endif %}
 
     <style>
@@ -309,7 +309,7 @@
               }
             ],
 
-            "image": "https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://leafland.sgp1.cdn.digitaloceanspaces.com/images/trees/{{ mainImage }}",
+            "image": "https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/{{ mainImage }}",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {

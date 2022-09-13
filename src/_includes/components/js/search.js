@@ -200,7 +200,7 @@ async function displayResults(results) {
     let imageDiv = document.createElement("div");
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/images/trees/${results[i].mainImage}`;
+    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${results[i].mainImage}`;
     resultImage.width = "700";
     resultImage.height = "700";
     resultImage.loading = "lazy";

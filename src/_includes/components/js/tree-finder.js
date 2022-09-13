@@ -429,7 +429,7 @@ async function populatePage(
 
         let treeImage = document.createElement("img");
 
-        treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://leafland.sgp1.cdn.digitaloceanspaces.com/images/trees/${treeDataSubset[i].mainImage}`;
+        treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${treeDataSubset[i].mainImage}`;
         treeImage.width = "700";
         treeImage.height = "700";
         treeImage.alt = treeDataSubset[i].url.replace(/-/g, " ");
