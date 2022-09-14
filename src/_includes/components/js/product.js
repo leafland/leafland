@@ -188,6 +188,7 @@ async function createTreeImages() {
 
 async function createStockValues() {
   if (stockData.length > 0) {
+    let preOrderRow;
     for (let i = 0; i < stockData.length; i++) {
       if (parseInt(stockData[i][8]) !== 0 || parseInt(stockData[i][9]) !== 0) {
         let row = document.createElement("tr");
@@ -216,6 +217,16 @@ async function createStockValues() {
 
           cell.append(button);
           row.append(cell);
+
+          if (preOrderRow) {
+            document
+              .querySelector("#order-grades-table-inner")
+              .insertBefore(row, preOrderRow);
+          } else {
+            document
+              .querySelector("#order-grades-table-inner")
+              .insertAdjacentElement("afterbegin", row);
+          }
         } else if (stockData[i][9] > 0) {
           let cell = document.createElement("td");
 
@@ -232,6 +243,14 @@ async function createStockValues() {
 
           cell.append(orderNow);
           row.append(cell);
+
+          document
+            .querySelector("#order-grades-table-inner")
+            .insertAdjacentElement("beforeend", row);
+
+          if (!preOrderRow) {
+            preOrderRow = row;
+          }
         }
 
         for (let j = 0; j < stockData[i].length; j++) {
@@ -252,8 +271,6 @@ async function createStockValues() {
             }
           }
         }
-
-        document.querySelector("#order-grades-table-inner").appendChild(row);
       }
     }
   } else {
