@@ -124,6 +124,12 @@ tbody tr td:first-child {
   background: var(--background-color);
 }
 
+thead tr {
+  position: sticky;
+  top: 0;
+  background: var(--background-color);
+}
+
 @media (hover: hover) and (pointer: fine) {
   .grade-size-div:hover {
     cursor: pointer;
