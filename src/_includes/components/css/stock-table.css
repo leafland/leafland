@@ -130,6 +130,10 @@ thead tr {
   background: var(--background-color);
 }
 
+p.title {
+  font-weight: 600;
+}
+
 @media (hover: hover) and (pointer: fine) {
   .grade-size-div:hover {
     cursor: pointer;

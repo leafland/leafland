@@ -188,7 +188,9 @@ async function createTreeImages() {
 
 async function createStockValues() {
   if (stockData.length > 0) {
-    let preOrderRow;
+    let preOrderRow = null;
+    let previousRow = null;
+
     for (let i = 0; i < stockData.length; i++) {
       if (parseInt(stockData[i][8]) !== 0 || parseInt(stockData[i][9]) !== 0) {
         let row = document.createElement("tr");
@@ -223,9 +225,15 @@ async function createStockValues() {
               .querySelector("#order-grades-table-inner")
               .insertBefore(row, preOrderRow);
           } else {
-            document
-              .querySelector("#order-grades-table-inner")
-              .insertAdjacentElement("afterbegin", row);
+            if (previousRow) {
+              previousRow.after(row);
+            } else {
+              document
+                .querySelector("#order-grades-table-inner")
+                .insertAdjacentElement("afterbegin", row);
+            }
+
+            previousRow = row;
           }
         } else if (stockData[i][9] > 0) {
           let cell = document.createElement("td");
@@ -272,6 +280,11 @@ async function createStockValues() {
           }
         }
       }
+    }
+
+    if (document.querySelector("#order-grades-table-inner").innerHTML === "") {
+      document.querySelector("#grade-sizes").innerHTML =
+        "<p class='title'>Currently out of stock.</p>";
     }
   } else {
     document.querySelector("#grade-sizes").innerHTML =
