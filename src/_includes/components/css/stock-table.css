@@ -56,7 +56,8 @@ body.stock-table-open #stock-table {
   grid-template-columns: 1fr;
   align-items: start;
   grid-gap: 2rem;
-  overflow-x: auto;
+  overflow: auto;
+  max-height: 30rem;
 }
 
 #grade-size-image-div {
