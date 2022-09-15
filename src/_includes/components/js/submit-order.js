@@ -1,5 +1,4 @@
 const submitForm = document.querySelector(".submit-form");
-const treesField = document.querySelector("#trees");
 const send = document.querySelector(".send-order");
 const treesDisplay = document.querySelector("#form-trees");
 let gridContentRight = document.querySelector("#grid-content-right");
@@ -12,6 +11,7 @@ let total;
 let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
+let freightPriceEmail = "";
 
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
@@ -39,7 +39,7 @@ async function populateForm() {
   totalWholesaleCost = sessionStorage.getItem("totalWholesaleCost");
   loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
   treesDisplay.innerHTML = "";
-  treesField.value = "";
+
   let title = document.createElement("p");
   title.classList.add("form-trees-title");
   title.textContent = "Trees:";
@@ -64,6 +64,21 @@ async function populateForm() {
 
     let formTree = document.createElement("div");
     formTree.classList.add("form-tree");
+
+    formTree.dataset.botanicalName = tree.botanicalName;
+    formTree.dataset.commonName = tree.commonName;
+    formTree.dataset.grade = tree.grade;
+
+    tree.averageHeight === ""
+      ? (formTree.dataset.averageHeight = "N/A")
+      : (formTree.dataset.averageHeight = tree.averageHeight);
+    tree.standardHeight === ""
+      ? (formTree.dataset.standardHeight = "N/A")
+      : (formTree.dataset.standardHeight = tree.standardHeight);
+
+    formTree.dataset.quantity = tree.quantity;
+    formTree.dataset.retailPrice = tree.retailPrice;
+    formTree.dataset.wholesalePrice = tree.wholesalePrice;
 
     let formTreeLeft = document.createElement("div");
     formTreeLeft.classList.add("form-tree-left");
@@ -160,62 +175,17 @@ async function populateForm() {
       if (freightPriceValue === "P.O.A") {
         poaGrade = true;
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
-
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
-          tree.botanicalName
-        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
-          tree.averageHeight.toLowerCase() === "n/a"
-            ? tree.averageHeight
-            : tree.averageHeight + "m"
-        }</b></td> <td><b>${
-          tree.standardHeight.toLowerCase() === "none"
-            ? tree.standardHeight
-            : tree.standardHeight + "m"
-        }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
-          loggedIn
-            ? tree.wholesalePrice + ".00+GST (Wholesale)"
-            : tree.retailPrice + ".00+GST (Retail)"
-        }</b></td> <td><b>P.O.A</b><td> </tr>`;
+        freightPriceEmail = "P.O.A";
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
-
-        treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
-          tree.botanicalName
-        } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
-          tree.averageHeight.toLowerCase() === "n/a"
-            ? tree.averageHeight
-            : tree.averageHeight + "m"
-        }</b></td> <td><b>${
-          tree.standardHeight.toLowerCase() === "none"
-            ? tree.standardHeight
-            : tree.standardHeight + "m"
-        }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
-          loggedIn
-            ? tree.wholesalePrice + ".00+GST (Wholesale)"
-            : tree.retailPrice + ".00+GST (Retail)"
-        }</b></td> <td><b>${freightPriceValue}+GST</b></td> </tr>`;
+        freightPriceEmail = freightPriceValue;
 
         totalFreight +=
           parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
       }
     } else {
       freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
-
-      treesField.value += `<tr style="padding-bottom:3px;margin-bottom:3px;border-bottom:2px solid #000"><td><b>${
-        tree.botanicalName
-      } (${tree.commonName})</b></td> <td><b>${tree.grade}</b></td> <td><b>${
-        tree.averageHeight.toLowerCase() === "n/a"
-          ? tree.averageHeight
-          : tree.averageHeight + "m"
-      }</b></td> <td><b>${
-        tree.standardHeight.toLowerCase() === "none"
-          ? tree.standardHeight
-          : tree.standardHeight + "m"
-      }</b></td> <td><b>${tree.quantity}</b></td> <td><b>${
-        loggedIn
-          ? tree.wholesalePrice + ".00+GST (Wholesale)"
-          : tree.retailPrice + ".00+GST (Retail)"
-      }</b></td> <td><b>N/A</b></td> </tr>`;
+      freightPriceEmail = "N/A";
     }
   });
 
@@ -322,6 +292,73 @@ region.addEventListener("input", () => {
 
 submitForm.addEventListener("submit", (event) => {
   event.preventDefault();
+
+  let treeEmailData = "";
+  document.querySelectorAll(".form-tree").forEach((child) => {
+    treeEmailData += `
+    
+    <tr>
+
+          <td>
+
+            <b>${child.dataset.botanicalName}</b>
+
+            <b>(${child.dataset.commonName})</b>
+
+          </td>
+          
+          <td>
+            
+            <b>${child.dataset.grade}</b>
+
+          </td>
+          
+          <td>
+
+            <b>${
+              child.dataset.averageHeight.toLowerCase() === "n/a"
+                ? child.dataset.averageHeight
+                : child.dataset.averageHeight + "m"
+            }</b>
+
+          </td>
+          
+          <td>
+          
+          <b>${
+            child.dataset.standardHeight.toLowerCase() === "none"
+              ? child.dataset.standardHeight
+              : child.dataset.standardHeight + "m"
+          }</b>
+          </td>
+          
+          <td>
+
+          <b>${child.dataset.quantity}</b>
+          
+          </td>
+          
+          <td>
+
+          <b>${
+            loggedIn
+              ? child.dataset.wholesalePrice + ".00+GST (Wholesale)"
+              : child.dataset.retailPrice + ".00+GST (Retail)"
+          }</b>
+          
+          </td>
+          
+          <td>
+
+          <b>${freightPriceEmail}</b>
+          
+          </td>
+          
+      </tr>
+    
+    `;
+  });
+
   let freightTotal = document.querySelector("#freight-total");
   let treeTotal = document.querySelector("#tree-total");
   let orderTotal = document.querySelector("#order-total");
@@ -339,7 +376,6 @@ submitForm.addEventListener("submit", (event) => {
     townCity,
     returningCustomer,
     notes,
-    trees,
   } = event.target;
 
   const internalBody = JSON.stringify({
@@ -362,9 +398,7 @@ submitForm.addEventListener("submit", (event) => {
       townCity.value
     }</p><h2>NOTES</h2><p>${
       notes.value !== "" ? notes.value : "No notes"
-    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${
-      trees.value
-    }</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
+    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${treeEmailData}</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
       .replace(/Freight Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")} (Region: <b>${
       region.value
@@ -393,9 +427,7 @@ submitForm.addEventListener("submit", (event) => {
       streetAddress.value
     }</p><p>${townCity.value}</p><h2>NOTES</h2><p>${
       notes.value !== "" ? notes.value : "No notes"
-    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${
-      trees.value
-    }</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
+    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${treeEmailData}</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
       .replace(/Freight Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")} (Region: <b>${
       region.value

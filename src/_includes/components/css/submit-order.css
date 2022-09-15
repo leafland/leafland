@@ -27,7 +27,7 @@
 #submit-order-inner {
   height: 100%;
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 3rem;
   margin: auto;
   width: 100%;
   max-width: 80rem;
@@ -44,7 +44,7 @@
 
 #submit-grid-content {
   display: grid;
-  gap: 1rem;
+  gap: 3rem;
   grid-template-columns: 1fr;
   justify-items: center;
 }
