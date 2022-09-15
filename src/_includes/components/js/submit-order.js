@@ -342,41 +342,99 @@ submitForm.addEventListener("submit", (event) => {
     trees,
   } = event.target;
 
-  const endpoint = "https://api.leafland.co.nz/default/send-order-email";
-
-  const body = JSON.stringify({
-    name: name.value,
-    email: email.value,
-    phone: phone.value,
-    streetAddress: streetAddress.value,
-    townCity: townCity.value,
-    returningCustomer: returningCustomer.value,
-    notes: notes.value,
-    trees: trees.value,
-    freightRegion: region.value,
-    freightTotal: freightTotal.innerHTML
+  const internalBody = JSON.stringify({
+    from_email: "administrator@leafland.co.nz",
+    from_name: "Admin | Leafland",
+    to_email: "sales@leafland.co.nz",
+    to_name: "Sales | Leafland",
+    reply_to_email: email.value,
+    reply_to_name: name.value,
+    subject: "Order from " + name.value,
+    text: "",
+    headers: {},
+    html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Order from ${
+      returningCustomer.value === "No"
+        ? name.value + " (New Customer)"
+        : name.value + " (Returning Customer)"
+    }</h1><h2>CONTACT AND DELIVERY DETAILS</h2><p>${name.value}</p><p>${
+      email.value
+    }</p><p>${phone.value}</p><p>${streetAddress.value}</p><p>${
+      townCity.value
+    }</p><h2>NOTES</h2><p>${
+      notes.value !== "" ? notes.value : "No notes"
+    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${
+      trees.value
+    }</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
       .replace(/Freight Total: <span class="accent-color">/, "")
-      .replace(/<\/span>/, ""),
-    treeTotal: treeTotal.innerHTML
+      .replace(/<\/span>/, "")} (Region: <b>${
+      region.value
+    }</b>)</p><p><b>TREE TOTAL:</b> ${treeTotal.innerHTML
       .replace(/Tree Total: <span class="accent-color">/, "")
-      .replace(/<\/span>/, ""),
-    orderTotal: orderTotal.innerHTML
+      .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
       .replace(/Order Total: <span class="accent-color">/, "")
-      .replace(/<\/span>/, ""),
+      .replace(/<\/span>/, "")}</p></body></html>`,
   });
-  const requestOptions = {
+
+  const externalBody = JSON.stringify({
+    from_email: "administrator@leafland.co.nz",
+    from_name: "Admin | Leafland",
+    to_email: email.value,
+    to_name: name.value,
+    reply_to_email: "sales@leafland.co.nz",
+    reply_to_name: "Sales | Leafland",
+    subject: "Thanks for your order!",
+    text: "",
+    headers: {},
+    html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Thanks for your order ${
+      name.value
+    }!</h1><p>We are currently processing your order and will be in touch regarding payment and delivery.</p><h2>CONTACT AND DELIVERY DETAILS</h2><p>${
+      name.value
+    }</p><p>${email.value}</p><p>${phone.value}</p><p>${
+      streetAddress.value
+    }</p><p>${townCity.value}</p><h2>NOTES</h2><p>${
+      notes.value !== "" ? notes.value : "No notes"
+    }</p><h2>TREES</h2><table><tr><th>NAME</th><th>GRADE</th><th>HEIGHT</th><th>STANDARD HEIGHT</th><th>QUANTITY</th><th>PRICE PER TREE</th><th>FREIGHT PER TREE</th></tr>${
+      trees.value
+    }</table><h2>TOTALS</h2><p><b>FREIGHT TOTAL:</b> ${freightTotal.innerHTML
+      .replace(/Freight Total: <span class="accent-color">/, "")
+      .replace(/<\/span>/, "")} (Region: <b>${
+      region.value
+    }</b>)</p><p><b>TREE TOTAL:</b> ${treeTotal.innerHTML
+      .replace(/Tree Total: <span class="accent-color">/, "")
+      .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
+      .replace(/Order Total: <span class="accent-color">/, "")
+      .replace(/<\/span>/, "")}</p></body></html>`,
+  });
+
+  const internalRequestOptions = {
     method: "POST",
-    body,
+    body: internalBody,
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
+    },
+  };
+
+  const externalRequestOptions = {
+    method: "POST",
+    body: externalBody,
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
+    },
   };
 
   (async function () {
-    await fetch(endpoint, requestOptions)
+    await fetch(
+      "https://webapi.inboxroad.com/api/v1/messages/",
+      internalRequestOptions
+    )
       .then((response) => {})
       .catch((error) => {});
 
     await fetch(
-      "https://api.leafland.co.nz/default/send-confirmed-order-email",
-      requestOptions
+      "https://webapi.inboxroad.com/api/v1/messages/",
+      externalRequestOptions
     )
       .then((response) => {})
       .catch((error) => {});
