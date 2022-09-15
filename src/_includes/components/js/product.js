@@ -243,8 +243,8 @@ async function createStockValues() {
             treeBotanicalName.textContent
           }%0D%0AGrade: ${stockData[i][2]}%0D%0APrice per tree: ${
             loggedIn
-              ? stockData[i][3] + ".00+GST (Wholesale)"
-              : stockData[i][5] + ".00+GST (Retail)"
+              ? stockData[i][5] + ".00+GST (Wholesale)"
+              : stockData[i][3] + ".00+GST (Retail)"
           }`;
           orderNow.textContent = "Pre-order " + stockData[i][2];
           orderNow.classList.add("button");
