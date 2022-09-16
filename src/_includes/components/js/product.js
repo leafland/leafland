@@ -398,13 +398,6 @@ function addEventListeners() {
     document.body.classList.remove("more-links-open");
   });
 
-  document
-    .querySelector("#stock-table-open-order")
-    .addEventListener("click", () => {
-      document.body.classList.remove("stock-table-open");
-      document.body.classList.add("order-open");
-    });
-
   imageLightBoxClose.addEventListener("click", () => {
     document.body.classList.remove("lightbox-open");
   });
