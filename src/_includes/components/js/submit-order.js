@@ -70,10 +70,10 @@ async function populateForm() {
     formTree.dataset.grade = tree.grade;
 
     tree.averageHeight === ""
-      ? (formTree.dataset.averageHeight = "N/A")
+      ? (formTree.dataset.averageHeight = "-")
       : (formTree.dataset.averageHeight = tree.averageHeight);
     tree.standardHeight === ""
-      ? (formTree.dataset.standardHeight = "N/A")
+      ? (formTree.dataset.standardHeight = "-")
       : (formTree.dataset.standardHeight = tree.standardHeight);
 
     formTree.dataset.quantity = tree.quantity;
@@ -114,15 +114,17 @@ async function populateForm() {
 
     let averageHeight = document.createElement("p");
     averageHeight.innerHTML = `Height: <span class="accent-color">${
-      tree.averageHeight.toLowerCase() === "n/a"
-        ? tree.averageHeight
+      tree.averageHeight.toLowerCase() === "n/a" ||
+      tree.averageHeight.toLowerCase() === ""
+        ? "-"
         : tree.averageHeight + "<span class='lowercase'>m</span>"
     }</span>`;
 
     let standardHeight = document.createElement("p");
     standardHeight.innerHTML = `Standard Height: <span class="accent-color">${
-      tree.standardHeight.toLowerCase() === "none"
-        ? tree.standardHeight
+      tree.standardHeight.toLowerCase() === "none" ||
+      tree.standardHeight.toLowerCase() === ""
+        ? "-"
         : tree.standardHeight + "<span class='lowercase'>m</span>"
     }</span>`;
 
@@ -184,8 +186,8 @@ async function populateForm() {
           parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
       }
     } else {
-      freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
-      freightPriceEmail = "N/A";
+      freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">-</span></p>`;
+      freightPriceEmail = "-";
     }
   });
 
@@ -231,7 +233,7 @@ async function populateForm() {
 
     treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}.00+GST</span>`;
   } else {
-    freightTotal.innerHTML = `Freight Total: <span class="accent-color">N/A</span>`;
+    freightTotal.innerHTML = `Freight Total: <span class="accent-color">-</span>`;
 
     treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseInt(
       total,

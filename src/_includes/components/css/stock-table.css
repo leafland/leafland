@@ -39,7 +39,7 @@ body.stock-table-open #stock-table {
 #open-stock-table {
   border-color: var(--border-color);
   max-width: max-content;
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-4);
 }
 
 #info-section {

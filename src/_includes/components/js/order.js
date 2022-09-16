@@ -196,8 +196,9 @@ async function updateOrder() {
 
       let itemAverageHeight = document.createElement("p");
       itemAverageHeight.innerHTML = `Height: <span class="accent-color">${
-        tree.averageHeight.toLowerCase() === "n/a"
-          ? tree.averageHeight
+        tree.averageHeight.toLowerCase() === "n/a" ||
+        tree.averageHeight.toLowerCase() === ""
+          ? "-"
           : tree.averageHeight + "<span class='lowercase'>m</span>"
       }</span>`;
 
@@ -208,7 +209,7 @@ async function updateOrder() {
           tree.standardHeight + "<span class='lowercase'>m</span>"
         }</span>`;
       } else {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${tree.standardHeight}</span>`;
+        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">-</span>`;
       }
 
       let itemPrice = document.createElement("p");
@@ -238,7 +239,7 @@ async function updateOrder() {
             parseFloat(freightPriceValue.slice(1));
         }
       } else {
-        freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">N/A</span></p>`;
+        freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">-</span></p>`;
       }
 
       let itemQuantity = document.createElement("input");

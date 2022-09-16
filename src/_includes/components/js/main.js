@@ -1,4 +1,3 @@
-let headerStockLink = document.querySelector("#header-stock-link");
 let menuStockLink = document.querySelector("#menu-stock-link");
 let loggedIn = false;
 let treeData = [];
@@ -35,7 +34,6 @@ if (
   loggedIn = false;
   sessionStorage.setItem("loggedIn", "false");
 
-  headerStockLink.href = `/retail-stock-list/`;
   menuStockLink.href = `/retail-stock-list/`;
   document.body.classList.remove("loggedIn");
 
@@ -46,7 +44,6 @@ if (
   loggedIn = true;
   sessionStorage.setItem("loggedIn", "true");
 
-  headerStockLink.href = `/wholesale-stock-list/`;
   menuStockLink.href = `/wholesale-stock-list/`;
   document.body.classList.add("loggedIn");
 

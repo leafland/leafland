@@ -424,10 +424,19 @@ footer p {
 }
 
 #top-buttons-block {
-  justify-content: end;
   display: flex;
   gap: 1rem;
+  width: 100%;
+  align-items: center;
   flex-wrap: wrap;
+}
+
+#top-buttons-block p {
+  font-weight: 700;
+  line-height: 1;
+  font-size: var(--font-size-4);
+  flex-grow: 2;
+  text-transform: uppercase;
 }
 
 body.search-open #search-overlay,

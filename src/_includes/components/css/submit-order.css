@@ -2,7 +2,10 @@
 #submit-order-back {
   cursor: pointer;
   border-color: var(--border-color);
-  align-self: center;
+}
+
+#submit-order-back {
+  justify-self: end;
 }
 
 #submit-order-overlay {

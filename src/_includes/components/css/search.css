@@ -77,8 +77,6 @@ body.search-loaded #search-results {
 #close-search {
   cursor: pointer;
   border-color: var(--border-color);
-  align-self: center;
-  justify-self: end;
 }
 
 #search-overlay {

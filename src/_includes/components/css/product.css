@@ -539,8 +539,6 @@ body.loggedIn .retail-price {
 #close-more-links {
   cursor: pointer;
   border-color: var(--border-color);
-  align-self: center;
-  justify-self: end;
 }
 
 #open-more-links {

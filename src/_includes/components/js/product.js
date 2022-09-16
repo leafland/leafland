@@ -266,13 +266,16 @@ async function createStockValues() {
             let cell = document.createElement("td");
             if (stockListType === "retail") {
               if (j !== 5) {
-                cell.textContent = stockData[i][j].replaceAll('"', "");
-
+                stockData[i][j].replaceAll('"', "") === ""
+                  ? (cell.textContent = "-")
+                  : (cell.textContent = stockData[i][j].replaceAll('"', ""));
                 row.append(cell);
               }
             } else {
               if (j !== 3) {
-                cell.textContent = stockData[i][j].replaceAll('"', "");
+                stockData[i][j].replaceAll('"', "") === ""
+                  ? (cell.textContent = "-")
+                  : (cell.textContent = stockData[i][j].replaceAll('"', ""));
 
                 row.append(cell);
               }
