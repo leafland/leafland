@@ -465,3 +465,14 @@ submitOrder.addEventListener("click", () => {
   document.body.classList.remove("order-open");
   document.body.classList.add("submit-order-open");
 });
+
+if (document.body.dataset.code) {
+  document
+    .querySelector("#stock-table-back")
+    .style.setProperty("display", "inline-block");
+
+  document.querySelector("#stock-table-back").addEventListener("click", () => {
+    document.body.classList.remove("order-open");
+    document.body.classList.add("stock-table-open");
+  });
+}
