@@ -48,6 +48,8 @@ if (loggedIn) {
   await getProductStockData();
 
   await createStockValues();
+
+  document.querySelector("#grade-sizes").style.setProperty("display", "grid");
 })();
 
 async function getProductStockData() {

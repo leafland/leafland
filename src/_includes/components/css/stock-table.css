@@ -52,12 +52,14 @@ body.stock-table-open #stock-table {
 }
 
 #grade-sizes {
-  display: grid;
+  display: none;
   grid-template-columns: 1fr;
   align-items: start;
   grid-gap: 2rem;
   overflow: auto;
   max-height: 30rem;
+  height: 100%;
+  width: 100%;
 }
 
 #grade-size-image-div {
