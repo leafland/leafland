@@ -320,8 +320,10 @@ submitForm.addEventListener("submit", (event) => {
           <td>
 
             <b>${
-              child.dataset.averageHeight.toLowerCase() === "n/a"
-                ? child.dataset.averageHeight
+              child.dataset.averageHeight.toLowerCase() === "n/a" ||
+              child.dataset.averageHeight.toLowerCase() === "" ||
+              child.dataset.averageHeight.toLowerCase() === "-"
+                ? "-"
                 : child.dataset.averageHeight + "m"
             }</b>
 
@@ -330,8 +332,10 @@ submitForm.addEventListener("submit", (event) => {
           <td>
           
           <b>${
-            child.dataset.standardHeight.toLowerCase() === "none"
-              ? child.dataset.standardHeight
+            child.dataset.standardHeight.toLowerCase() === "none" ||
+            child.dataset.standardHeight.toLowerCase() === "" ||
+            child.dataset.standardHeight.toLowerCase() === "-"
+              ? "-"
               : child.dataset.standardHeight + "m"
           }</b>
           </td>
