@@ -115,7 +115,8 @@ async function populateForm() {
     let averageHeight = document.createElement("p");
     averageHeight.innerHTML = `Height: <span class="accent-color">${
       tree.averageHeight.toLowerCase() === "n/a" ||
-      tree.averageHeight.toLowerCase() === ""
+      tree.averageHeight.toLowerCase() === "" ||
+      tree.averageHeight.toLowerCase() === "-"
         ? "-"
         : tree.averageHeight + "<span class='lowercase'>m</span>"
     }</span>`;
@@ -123,7 +124,8 @@ async function populateForm() {
     let standardHeight = document.createElement("p");
     standardHeight.innerHTML = `Standard Height: <span class="accent-color">${
       tree.standardHeight.toLowerCase() === "none" ||
-      tree.standardHeight.toLowerCase() === ""
+      tree.standardHeight.toLowerCase() === "" ||
+      tree.standardHeight.toLowerCase() === "-"
         ? "-"
         : tree.standardHeight + "<span class='lowercase'>m</span>"
     }</span>`;
