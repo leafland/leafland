@@ -390,16 +390,6 @@ function addEventListeners() {
     document.body.classList.remove("stock-table-open");
   });
 
-  if (document.body.contains(document.querySelector("#open-more-links"))) {
-    document.querySelector("#open-more-links").addEventListener("click", () => {
-      document.body.classList.add("more-links-open");
-    });
-  }
-
-  document.querySelector("#close-more-links").addEventListener("click", () => {
-    document.body.classList.remove("more-links-open");
-  });
-
   imageLightBoxClose.addEventListener("click", () => {
     document.body.classList.remove("lightbox-open");
   });

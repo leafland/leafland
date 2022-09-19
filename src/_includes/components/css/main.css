@@ -444,8 +444,7 @@ body.login-open #login-overlay,
 body.order-open #order-overlay,
 body.order-sent-open #order-sent-overlay,
 body.submit-order-open #submit-order-overlay,
-body.main-menu-open #main-menu-overlay,
-body.more-links-open #more-links-overlay {
+body.main-menu-open #main-menu-overlay {
   opacity: 1;
   z-index: 8;
   visibility: visible;
@@ -466,8 +465,7 @@ body.main-menu-open {
 }
 
 body.stock-table-open,
-body.lightbox-open,
-body.more-links-open {
+body.lightbox-open {
   overflow-y: hidden;
 }
 
