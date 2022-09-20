@@ -222,7 +222,6 @@ main h1 {
   width: 1.5rem;
   height: 1.5rem;
   border-radius: 50%;
-  border: 1px solid var(--border-color);
   display: inline-block;
 }
 
@@ -324,8 +323,6 @@ body.lightbox-open #image-lightbox {
 }
 
 #image-lightbox-close {
-  cursor: pointer;
-  border-color: var(--border-color);
   align-self: center;
   justify-self: end;
 }

@@ -1,9 +1,3 @@
-#close-submit-order,
-#submit-order-back {
-  cursor: pointer;
-  border-color: var(--border-color);
-}
-
 #submit-order-back {
   justify-self: end;
 }

@@ -63,21 +63,21 @@ select {
 
   --brand-color: hsl(128, 80%, 33%);
 
-  --text-color: #111;
+  --text-color: #eee;
 
-  --invert-text-color: #eee;
+  --invert-text-color: #111;
 
-  --background-color: #eee;
+  --background-color: #111;
 
-  --invert-background-color: #111;
+  --invert-background-color: #eee;
 
-  --image-background-color: #111;
+  --image-background-color: #eee;
 
-  --border-color: #111;
+  --border-color: #eee;
 
-  --button-background-color-hover: #111;
+  --button-background-color-hover: #eee;
 
-  --button-text-color-hover: #eee;
+  --button-text-color-hover: #111;
 
   --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
   --font-size-2: clamp(0.85rem, 0.83rem + 0.24vw, 1rem);
@@ -86,30 +86,6 @@ select {
   --font-size-5: clamp(1.25rem, 1rem + 1.5vw, 2.5rem);
   --font-size-6: clamp(1rem, 1rem + 2vw, 3.5rem);
   --font-size-7: clamp(1.75rem, 1rem + 3vw, 4.5rem);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --accent-color: hsl(128, 80%, 33%);
-
-    --brand-color: hsl(128, 80%, 33%);
-
-    --text-color: #eee;
-
-    --invert-text-color: #111;
-
-    --background-color: #111;
-
-    --invert-background-color: #eee;
-
-    --image-background-color: #eee;
-
-    --border-color: #eee;
-
-    --button-background-color-hover: #eee;
-
-    --button-text-color-hover: #111;
-  }
 }
 
 .accent-color {
@@ -467,6 +443,12 @@ body.main-menu-open {
 body.stock-table-open,
 body.lightbox-open {
   overflow-y: hidden;
+}
+
+.utility-button {
+  border: none;
+  font-size: var(--font-size-3);
+  cursor: pointer;
 }
 
 @media (hover: hover) and (pointer: fine) {

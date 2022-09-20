@@ -31,11 +31,6 @@ body.stock-table-open #stock-table {
   visibility: visible;
 }
 
-#stock-table-close {
-  cursor: pointer;
-  border-color: var(--border-color);
-}
-
 #open-stock-table {
   border-color: var(--border-color);
   max-width: max-content;

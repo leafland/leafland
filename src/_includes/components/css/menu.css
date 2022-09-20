@@ -51,11 +51,7 @@
 
 #header-buttons button {
   font-size: var(--font-size-3);
-}
-
-#close-menu {
-  cursor: pointer;
-  border-color: var(--border-color);
+  border: none;
 }
 
 @media (hover: hover) and (pointer: fine) {

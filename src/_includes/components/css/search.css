@@ -74,11 +74,6 @@ body.search-loaded #search-results {
   place-self: start;
 }
 
-#close-search {
-  cursor: pointer;
-  border-color: var(--border-color);
-}
-
 #search-overlay {
   opacity: 0;
   visibility: hidden;

@@ -142,11 +142,6 @@
   font-weight: 700;
 }
 
-#close-order {
-  cursor: pointer;
-  border-color: var(--border-color);
-}
-
 #submit-order {
   justify-self: center;
   border-color: var(--border-color);

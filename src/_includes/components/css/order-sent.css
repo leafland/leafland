@@ -28,7 +28,5 @@
 }
 
 #close-order-sent {
-  cursor: pointer;
-  border-color: var(--border-color);
-  justify-self: end
+  justify-self: end;
 }
