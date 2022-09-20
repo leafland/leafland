@@ -59,13 +59,22 @@ if (filterSettings.empty === false) {
     ) {
       inputsArray[i].checked = true;
 
-      document.querySelector(
-        `#${inputsArray[i].dataset.category}`
-      ).textContent =
-        parseInt(
-          document.querySelector(`#${inputsArray[i].dataset.category}`)
-            .textContent
-        ) + 1;
+      if (
+        document.querySelector(`#${inputsArray[i].dataset.category}`)
+          .textContent === ""
+      ) {
+        document.querySelector(
+          `#${inputsArray[i].dataset.category}`
+        ).textContent = "1";
+      } else {
+        document.querySelector(
+          `#${inputsArray[i].dataset.category}`
+        ).textContent =
+          parseInt(
+            document.querySelector(`#${inputsArray[i].dataset.category}`)
+              .textContent
+          ) + 1;
+      }
     } else {
       inputsArray[i].checked = false;
     }
@@ -132,7 +141,9 @@ let filteredData = [];
       history.scrollRestoration = "manual";
     }
     treeWrapper.innerHTML = "";
-    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
+    window.addEventListener("dataLoaded", async () => {
+      await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
+    });
   }
 })();
 
@@ -540,20 +551,20 @@ inputsArray.forEach((input) => {
       foliageColour: [],
     };
 
-    document.querySelector("#uses").textContent = "0";
-    document.querySelector("#tolerates").textContent = "0";
-    document.querySelector("#types").textContent = "0";
-    document.querySelector("#winterFoliage").textContent = "0";
-    document.querySelector("#origin").textContent = "0";
-    document.querySelector("#soilType").textContent = "0";
-    document.querySelector("#sunAndShade").textContent = "0";
-    document.querySelector("#height").textContent = "0";
-    document.querySelector("#width").textContent = "0";
-    document.querySelector("#fruitingSeason").textContent = "0";
-    document.querySelector("#floweringSeason").textContent = "0";
-    document.querySelector("#flowerColour").textContent = "0";
-    document.querySelector("#autumnColour").textContent = "0";
-    document.querySelector("#foliageColour").textContent = "0";
+    document.querySelector("#uses").textContent = "";
+    document.querySelector("#tolerates").textContent = "";
+    document.querySelector("#types").textContent = "";
+    document.querySelector("#winterFoliage").textContent = "";
+    document.querySelector("#origin").textContent = "";
+    document.querySelector("#soilType").textContent = "";
+    document.querySelector("#sunAndShade").textContent = "";
+    document.querySelector("#height").textContent = "";
+    document.querySelector("#width").textContent = "";
+    document.querySelector("#fruitingSeason").textContent = "";
+    document.querySelector("#floweringSeason").textContent = "";
+    document.querySelector("#flowerColour").textContent = "";
+    document.querySelector("#autumnColour").textContent = "";
+    document.querySelector("#foliageColour").textContent = "";
 
     inputsArray.forEach((filterInput) => {
       if (filterInput.checked === true) {
@@ -576,11 +587,22 @@ inputsArray.forEach((input) => {
           widthsArray.push(filterInput.value);
         }
 
-        document.querySelector(`#${filterInput.dataset.category}`).textContent =
-          parseInt(
-            document.querySelector(`#${filterInput.dataset.category}`)
-              .textContent
-          ) + 1;
+        if (
+          document.querySelector(`#${filterInput.dataset.category}`)
+            .textContent === ""
+        ) {
+          document.querySelector(
+            `#${filterInput.dataset.category}`
+          ).textContent = "1";
+        } else {
+          document.querySelector(
+            `#${filterInput.dataset.category}`
+          ).textContent =
+            parseInt(
+              document.querySelector(`#${filterInput.dataset.category}`)
+                .textContent
+            ) + 1;
+        }
       }
     });
 
@@ -617,20 +639,20 @@ clearCheckboxFilter.addEventListener("click", () => {
 
   clearCheckboxFilter.disabled = true;
 
-  document.querySelector("#uses").textContent = "0";
-  document.querySelector("#tolerates").textContent = "0";
-  document.querySelector("#types").textContent = "0";
-  document.querySelector("#winterFoliage").textContent = "0";
-  document.querySelector("#origin").textContent = "0";
-  document.querySelector("#soilType").textContent = "0";
-  document.querySelector("#sunAndShade").textContent = "0";
-  document.querySelector("#height").textContent = "0";
-  document.querySelector("#width").textContent = "0";
-  document.querySelector("#fruitingSeason").textContent = "0";
-  document.querySelector("#floweringSeason").textContent = "0";
-  document.querySelector("#flowerColour").textContent = "0";
-  document.querySelector("#autumnColour").textContent = "0";
-  document.querySelector("#foliageColour").textContent = "0";
+  document.querySelector("#uses").textContent = "";
+  document.querySelector("#tolerates").textContent = "";
+  document.querySelector("#types").textContent = "";
+  document.querySelector("#winterFoliage").textContent = "";
+  document.querySelector("#origin").textContent = "";
+  document.querySelector("#soilType").textContent = "";
+  document.querySelector("#sunAndShade").textContent = "";
+  document.querySelector("#height").textContent = "";
+  document.querySelector("#width").textContent = "";
+  document.querySelector("#fruitingSeason").textContent = "";
+  document.querySelector("#floweringSeason").textContent = "";
+  document.querySelector("#flowerColour").textContent = "";
+  document.querySelector("#autumnColour").textContent = "";
+  document.querySelector("#foliageColour").textContent = "";
 
   filterSettings = {
     empty: true,

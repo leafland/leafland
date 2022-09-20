@@ -3,6 +3,7 @@ let loggedIn = false;
 let treeData = [];
 
 const orderSent = new Event("orderSent");
+const dataLoaded = new Event("dataLoaded");
 
 if (sessionStorage.getItem("submittedOrder") === "true") {
   if (history.scrollRestoration) {
@@ -59,6 +60,7 @@ if (
     .then((response) => response.json())
     .then((data) => data)
     .catch((error) => {});
+  window.dispatchEvent(dataLoaded);
 })();
 
 document

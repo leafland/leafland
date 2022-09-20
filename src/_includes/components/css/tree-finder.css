@@ -194,7 +194,21 @@ footer label {
   height: 2rem;
 }
 
-.tree-color {
+.filter-group {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+}
+
+.filter-name {
+  grid-row-start: 1;
+}
+
+.filter-value {
+  grid-row-start: 1;
+}
+
+.filter .tree-color {
   width: 1.5rem;
   height: 1.5rem;
   border-radius: 50%;
