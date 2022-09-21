@@ -1,0 +1,715 @@
+<div id="filter-overlay">
+
+    <div id="top-buttons-block">
+
+        <p>Filter</p>
+
+        <button id="close-filter" class="utility-button">Close</button>
+
+    </div>
+
+    <div id='filter-inner'>
+
+        <div id="filter">
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Uses</span></span>
+
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="attracts-birds" value="attracts-birds">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/attracts-birds.svg">
+                        <label for="attracts-birds">Attracts Birds</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="attracts-bees" value="attracts-bees">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/attracts-bees.svg">
+                        <label for="attracts-bees">Attracts Bees</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="driveways-and-avenues" value="driveways-and-avenues">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/driveways-and-avenues.svg">
+                        <label for="driveways-and-avenues">Driveways and Avenues</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="hedging-and-screening" value="hedging-and-screening">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/hedging-and-screening.svg">
+                        <label for="hedging-and-screening">Hedging and Screening</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="narrow-sites" value="narrow-sites">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/narrow-sites.svg">
+                        <label for="narrow-sites">Narrow Sites</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="paddocks" value="paddocks">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/paddocks.svg">
+                        <label for="paddocks">Paddocks</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="pleaching" value="pleaching">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/pleaching.svg">
+                        <label for="pleaching">Pleaching</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="small-garden" value="small-garden">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/small-garden.svg">
+                        <label for="small-garden">Small Garden</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="shade" value="shade">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/shade.svg">
+                        <label for="shade">Shade</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="street" value="street">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/street.svg">
+                        <label for="street">Street</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="uses" type="checkbox" id="topiary" value="topiary">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/topiary.svg">
+                        <label for="topiary">Topiary</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Tolerates</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="coastal" value="coastal">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/coastal.svg">
+                        <label for="coastal">Coastal Sites</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="drought" value="drought">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/drought.svg">
+                        <label for="drought">Drought</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="heavy-frosts" value="heavy-frosts">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/heavy-frosts.svg">
+                        <label for="heavy-frosts">Heavy Frosts</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="heavy-rainfall" value="heavy-rainfall">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/heavy-rainfall.svg">
+                        <label for="heavy-rainfall">Heavy Rainfall</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="light-frosts" value="light-frosts">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/light-frosts.svg">
+                        <label for="light-frosts">Light Frosts</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="tolerates" type="checkbox" id="windy" value="windy">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/windy.svg">
+                        <label for="windy">Windy Sites</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Types</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="conifer" value="conifer">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/conifer.svg">
+                        <label for="conifer">Conifer</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="edible" value="edible">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/edible.svg">
+                        <label for="edible">Edible</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="ornamental-bark" value="ornamental-bark">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/ornamental-bark.svg">
+                        <label for="ornamental-bark">Ornamental Bark</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="toxic-to-animals" value="toxic-to-animals">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/toxic-to-animals.svg">
+                        <label for="toxic-to-animals">Toxic To Animals</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="upright" value="upright">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/upright.svg">
+                        <label for="upright">Upright</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="types" type="checkbox" id="weeping" value="weeping">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/weeping.svg">
+                        <label for="weeping">Weeping</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Winter Foliage</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="winterFoliage" type="checkbox" id="deciduous" value="deciduous">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/deciduous.svg">
+                        <label for="deciduous">Deciduous</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="winterFoliage" type="checkbox" id="evergreen" value="evergreen">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/evergreen.svg">
+                        <label for="evergreen">Evergreen</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="winterFoliage" type="checkbox" id="semi-evergreen" value="semi-evergreen">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/semi-evergreen.svg">
+                        <label for="semi-evergreen">Semi-Evergreen</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+            
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Origin</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="origin" type="checkbox" id="exotic" value="exotic">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/exotic.svg">
+                        <label for="exotic">Exotic</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="origin" type="checkbox" id="native" value="native">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/native.svg">
+                        <label for="native">Native</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+            
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Soil Type</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="clay-soils" value="clay-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/clay-soils.svg">
+                        <label for="clay-soils">Clay Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="dry-soils" value="dry-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/dry-soils.svg">
+                        <label for="dry-soils">Dry Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="peat-soils" value="peat-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/peat-soils.svg">
+                        <label for="peat-soils">Peat Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="poor-draining-soils" value="poor-draining-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/poor-draining-soils.svg">
+                        <label for="poor-draining-soils">Poor Draining Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="pumice-soils" value="pumice-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/pumice-soils.svg">
+                        <label for="pumice-soils">Pumice Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="rocky-soils" value="rocky-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/rocky-soils.svg">
+                        <label for="rocky-soils">Rocky Soils</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="soilType" type="checkbox" id="sandy-soils" value="sandy-soils">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/sandy-soils.svg">
+                        <label for="sandy-soils">Sandy Soils</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+            
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Sun and Shade</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="sunAndShade" type="checkbox" id="full-sun" value="full-sun">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/full-sun.svg">
+                        <label for="full-sun">Full Sun</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="sunAndShade" type="checkbox" id="full-shade" value="full-shade">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/full-shade.svg">
+                        <label for="full-shade">Full Shade</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="sunAndShade" type="checkbox" id="part-shade" value="part-shade">
+                        <img loading="lazy" class="filter-icon" src="https://files.leafland.co.nz/icons/part-shade.svg">
+                        <label for="part-shade">Part Shade</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Height</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="0.5m-h" value="0.5m-h">
+                        <label for="0.5m-h">0.5m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="1m-h" value="1m-h">
+                        <label for="1m-h">1m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="2m-h" value="2m-h">
+                        <label for="2m-h">2m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="3m-h" value="3m-h">
+                        <label for="3m-h">3m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="4m-h" value="4m-h">
+                        <label for="4m-h">4m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="5m-h" value="5m-h">
+                        <label for="5m-h">5m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="6m-h" value="6m-h">
+                        <label for="6m-h">6m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="7m-h" value="7m-h">
+                        <label for="7m-h">7m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="8m-h" value="8m-h">
+                        <label for="8m-h">8m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="9m-h" value="9m-h">
+                        <label for="9m-h">9m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="height" type="checkbox" id="10m-h" value="10m-h">
+                        <label for="10m-h">10m</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Width</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="0.5m-w" value="0.5m-w">
+                        <label for="0.5m-w">0.5m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="1m-w" value="1m-w">
+                        <label for="1m-w">1m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="2m-w" value="2m-w">
+                        <label for="2m-w">2m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="3m-w" value="3m-w">
+                        <label for="3m-w">3m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="4m-w" value="4m-w">
+                        <label for="4m-w">4m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="5m-w" value="5m-w">
+                        <label for="5m-w">5m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="6m-w" value="6m-w">
+                        <label for="6m-w">6m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="7m-w" value="7m-w">
+                        <label for="7m-w">7m</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="width" type="checkbox" id="8m-w" value="8m-w">
+                        <label for="8m-w">8m</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Fruiting Season</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="fruitingSeason" type="checkbox" id="summer-fs" value="summer-fs">
+                        <label for="summer-fs">Summer</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="fruitingSeason" type="checkbox" id="autumn-fs" value="autumn-fs">
+                        <label for="autumn-fs">Autumn</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="fruitingSeason" type="checkbox" id="winter-fs" value="winter-fs">
+                        <label for="winter-fs">Winter</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="fruitingSeason" type="checkbox" id="spring-fs" value="spring-fs">
+                        <label for="spring-fs">Spring</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Flowering Season</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="floweringSeason" type="checkbox" id="summer-fls" value="summer-fls">
+                        <label for="summer-fls">Summer</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="floweringSeason" type="checkbox" id="autumn-fls" value="autumn-fls">
+                        <label for="autumn-fls">Autumn</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="floweringSeason" type="checkbox" id="winter-fls" value="winter-fls">
+                        <label for="winter-fls">Winter</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="floweringSeason" type="checkbox" id="spring-fls" value="spring-fls">
+                        <label for="spring-fls">Spring</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Flower Colour</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="blue-fc" value="blue-fc">
+                        <span class="tree-color blue"></span>
+                        <label for="blue-fc">Blue</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="grey-fc" value="grey-fc">
+                        <span class="tree-color grey"></span>
+                        <label for="grey-fc">Grey</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="red-fc" value="red-fc">
+                        <span class="tree-color red"></span>
+                        <label for="red-fc">Red</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="orange-fc" value="orange-fc">
+                        <span class="tree-color orange"></span>
+                        <label for="orange-fc">Orange</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="yellow-fc" value="yellow-fc">
+                        <span class="tree-color yellow"></span>
+                        <label for="yellow-fc">Yellow</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="purple-fc" value="purple-fc">
+                        <span class="tree-color purple"></span>
+                        <label for="purple-fc">Purple</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="pink-fc" value="pink-fc">
+                        <span class="tree-color pink"></span>
+                        <label for="pink-fc">Pink</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="green-fc" value="green-fc">
+                        <span class="tree-color green"></span>
+                        <label for="green-fc">Green</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="flowerColour" type="checkbox" id="white-fc" value="white-fc">
+                        <span class="tree-color white"></span>
+                        <label for="white-fc">White</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Autumn Colour</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="autumnColour" type="checkbox" id="red-ac" value="red-ac">
+                        <span class="tree-color red"></span>
+                        <label for="red-ac">Red</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="autumnColour" type="checkbox" id="orange-ac" value="orange-ac">
+                        <span class="tree-color orange"></span>
+                        <label for="orange-ac">Orange</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="autumnColour" type="checkbox" id="yellow-ac" value="yellow-ac">
+                        <span class="tree-color yellow"></span>
+                        <label for="yellow-ac">Yellow</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="autumnColour" type="checkbox" id="purple-ac" value="purple-ac">
+                        <span class="tree-color purple"></span>
+                        <label for="purple-ac">Purple</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+            <details class="checkbox-group">
+
+                <summary>
+                
+                    <span class="filter-group"><span class="filter-name">Foliage Colour</span></span>
+                
+                </summary>
+
+                <div class="options-group">
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="blue-flc" value="blue-flc">
+                        <span class="tree-color blue"></span>
+                        <label for="blue-flc">Blue</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="grey-flc" value="grey-flc">
+                        <span class="tree-color grey"></span>
+                        <label for="grey-flc">Grey</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="red-flc" value="red-flc">
+                        <span class="tree-color red"></span>
+                        <label for="red-flc">Red</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="orange-flc" value="orange-flc">
+                        <span class="tree-color orange"></span>
+                        <label for="orange-flc">Orange</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="yellow-flc" value="yellow-flc">
+                        <span class="tree-color yellow"></span>
+                        <label for="yellow-flc">Yellow</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="purple-flc" value="purple-flc">
+                        <span class="tree-color purple"></span>
+                        <label for="purple-flc">Purple</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="pink-flc" value="pink-flc">
+                        <span class="tree-color pink"></span>
+                        <label for="pink-flc">Pink</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="green-flc" value="green-flc">
+                        <span class="tree-color green"></span>
+                        <label for="green-flc">Green</label>
+                    </div>
+
+                    <div class="options-group-option">
+                        <input class="filter-input" data-category="foliageColour" type="checkbox" id="white-flc" value="white-flc">
+                        <span class="tree-color white"></span>
+                        <label for="white-flc">White</label>
+                    </div>
+
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</div>
