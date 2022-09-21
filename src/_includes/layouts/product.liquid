@@ -97,18 +97,6 @@ type: product
         <div id="grid-content-left">
 
             <div id="main-image">
-
-                <button id="image-left-button">
-
-                    <span>-</span>
-
-                </button>
-
-                <button id="image-right-button">
-
-                    <span>+</span>
-
-                </button>
             
                 <div id="main-image-inner">
                 
@@ -122,7 +110,7 @@ type: product
 
                 <div class="image">
 
-                    <img data-position="{% increment position %}" class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ mainImage }}" width="75" height="75" alt="{{ url | replace: '-', ' ' }}">
+                    <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ mainImage }}" width="75" height="75" alt="{{ url | replace: '-', ' ' }}">
 
                 </div>
 
@@ -130,7 +118,7 @@ type: product
                 
                 <div class="image">
 
-                    <img data-position="{% increment position %}" class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ image.alt }}" >
+                    <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ image.alt }}" >
                     
                 </div>
 

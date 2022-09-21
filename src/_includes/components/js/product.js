@@ -11,9 +11,6 @@ let imageLightbox = document.querySelector("#image-lightbox");
 let imageLightboxInner = document.querySelector("#image-lightbox-div");
 let imageLightBoxClose = document.querySelector("#image-lightbox-close");
 
-let imageLeftButton = document.querySelector("#image-left-button");
-let imageRightButton = document.querySelector("#image-right-button");
-let imagePosition = 0;
 let thumbImages = document.querySelectorAll(".thumb-image");
 
 let productImage = "";
@@ -80,7 +77,6 @@ async function createTreeImages() {
 
   thumbImages.forEach((thumbImage) => {
     thumbImage.addEventListener("click", (e) => {
-      imagePosition = parseInt(thumbImage.dataset.position);
       e.preventDefault();
 
       mainImg = document.querySelector(".main-img");
@@ -109,80 +105,6 @@ async function createTreeImages() {
           }" height="1500" width="1500" alt="${thumbImage.alt}">`;
           document.body.classList.add("lightbox-open");
         });
-      }
-    });
-  });
-
-  imageLeftButton.addEventListener("click", () => {
-    if (imagePosition <= 0) {
-      imagePosition = parseInt(thumbImages.length) - 1;
-    } else {
-      imagePosition--;
-    }
-
-    thumbImages.forEach((thumbImage) => {
-      if (parseInt(thumbImage.dataset.position) === imagePosition) {
-        mainImage.style.setProperty("opacity", "0");
-        mainImage.style.setProperty("visibility", "hidden");
-
-        setTimeout(() => {
-          mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${
-            thumbImage.src.split("files.leafland.co.nz/")[1]
-          }" height="700" width="700" alt="${
-            thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
-          mainImage.style.setProperty("opacity", "1");
-          mainImage.style.setProperty("visibility", "visible");
-
-          mainImage.addEventListener("click", () => {
-            document.querySelector("#date-taken-div").innerHTML = "";
-            document
-              .querySelector("#date-taken-div")
-              .style.setProperty("display", "none");
-
-            imageLightboxInner.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
-              thumbImage.src.split("files.leafland.co.nz/")[1]
-            }" height="1500" width="1500" alt="${thumbImage.alt}">`;
-            document.body.classList.add("lightbox-open");
-          });
-        }, 500);
-      }
-    });
-  });
-
-  imageRightButton.addEventListener("click", () => {
-    if (imagePosition >= thumbImages.length - 1) {
-      imagePosition = 0;
-    } else {
-      imagePosition++;
-    }
-
-    thumbImages.forEach((thumbImage) => {
-      if (parseInt(thumbImage.dataset.position) === imagePosition) {
-        mainImage.style.setProperty("opacity", "0");
-        mainImage.style.setProperty("visibility", "hidden");
-
-        setTimeout(() => {
-          mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${
-            thumbImage.src.split("files.leafland.co.nz/")[1]
-          }" height="700" width="700" alt="${
-            thumbImage.alt
-          }" class="main-img" style="opacity: 1;">`;
-          mainImage.style.setProperty("opacity", "1");
-          mainImage.style.setProperty("visibility", "visible");
-
-          mainImage.addEventListener("click", () => {
-            document.querySelector("#date-taken-div").innerHTML = "";
-            document
-              .querySelector("#date-taken-div")
-              .style.setProperty("display", "none");
-
-            imageLightboxInner.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
-              thumbImage.src.split("files.leafland.co.nz/")[1]
-            }" height="1500" width="1500" alt="${thumbImage.alt}">`;
-            document.body.classList.add("lightbox-open");
-          });
-        }, 500);
       }
     });
   });
