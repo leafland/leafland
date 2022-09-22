@@ -1,8 +1,12 @@
 #search {
   padding: 8px 16px;
   font-size: var(--font-size-3);
-  width: 250px;
+  width: 100%;
   font-weight: 700;
+}
+
+#search-section {
+  position: relative;
 }
 
 #search:disabled {
@@ -14,20 +18,23 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
-  overflow-y: auto;
-  max-height: 20rem;
   padding-right: 1rem;
+  height: max-content;
 }
 
 #search-results {
   display: none;
   position: absolute;
+  left: 0;
+  right: 0;
   gap: 1rem;
-  background: var(--background-color);
+  background: var(--invert-background-color);
   z-index: 1;
   padding: 1rem;
   border-radius: 8px;
-  width: 250px;
+  margin-top: 1rem;
+  height: 20rem;
+  overflow-y: auto;
 }
 
 body.search-loaded #search-results {
@@ -37,6 +44,7 @@ body.search-loaded #search-results {
 #search-results p.empty-message {
   justify-self: start;
   font-weight: 700;
+  color: var(--invert-text-color);
 }
 
 #search-results img {
@@ -51,6 +59,7 @@ body.search-loaded #search-results {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 1rem;
+  height: max-content;
 }
 
 .surface-content {
@@ -80,29 +89,17 @@ body.search-loaded #search-results {
 
 .result-botanical-name {
   font-weight: 700;
-  color: var(--text-color);
+  color: var(--invert-text-color);
   line-height: 1.2;
   font-size: var(--font-size-2);
 }
 
 .result-common-name {
-  color: var(--text-color);
+  color: var(--invert-text-color);
   display: inline-block;
   font-size: var(--font-size-1);
   font-weight: 500;
   line-height: 1.2;
-}
-
-#search-load-more-div {
-  display: grid;
-  place-content: start;
-  gap: 1rem;
-}
-
-#search-load-more-div button {
-  border-color: var(--border-color);
-  grid-row-start: 1;
-  font-size: var(--font-size-2);
 }
 
 @media (hover: hover) and (pointer: fine) {

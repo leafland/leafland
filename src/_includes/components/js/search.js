@@ -1,8 +1,5 @@
 let searchInput = document.querySelector("#search");
 let searchResultsInner = document.querySelector("#search-results-inner");
-let openSearch = document.querySelector("#open-search");
-let closeSearch = document.querySelector("#close-search");
-
 let searchResults = [];
 
 async function search(terms) {
@@ -212,32 +209,35 @@ let doneTypingInterval = 500;
   searchInput.disabled = false;
 
   searchInput.addEventListener("keyup", (event) => {
-    clearTimeout(typingTimer);
     searchResultsInner.innerHTML = ``;
 
-    typingTimer = setTimeout(() => {
-      (async function () {
-        await search(event.target.value);
+    clearTimeout(typingTimer);
+    if (event.target.value.length > 0) {
+      typingTimer = setTimeout(() => {
+        (async function () {
+          await search(event.target.value);
 
-        if (searchResults.length > 0) {
-          searchResultsInner.innerHTML = ``;
-          await displayResults(searchResults);
-          document.body.classList.add("search-loaded");
-        } else {
-          searchResultsInner.innerHTML = ``;
-          let emptyMessage = document.createElement("p");
-          emptyMessage.textContent = "No results found.";
-          emptyMessage.classList.add("empty-message");
-          searchResultsInner.appendChild(emptyMessage);
+          if (searchResults.length > 0) {
+            searchResultsInner.innerHTML = ``;
+            await displayResults(searchResults);
+            document.body.classList.add("search-loaded");
+          } else {
+            searchResultsInner.innerHTML = ``;
+            let emptyMessage = document.createElement("p");
+            emptyMessage.textContent = "No results found.";
+            emptyMessage.classList.add("empty-message");
+            searchResultsInner.appendChild(emptyMessage);
 
-          document.body.classList.add("search-loaded");
-        }
-      })();
-    }, doneTypingInterval);
+            document.body.classList.add("search-loaded");
+          }
+        })();
+      }, doneTypingInterval);
+    } else {
+      document.body.classList.remove("search-loaded");
+    }
   });
 })();
 
-closeSearch.addEventListener("click", () => {
+searchInput.addEventListener("search", () => {
   document.body.classList.remove("search-loaded");
-  searchInput.value = "";
 });
