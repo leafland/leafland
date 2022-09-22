@@ -1,7 +1,7 @@
 #search {
   padding: 8px 16px;
   font-size: var(--font-size-3);
-  width: 20rem;
+  width: 250px;
   font-weight: 700;
 }
 
@@ -27,7 +27,7 @@
   z-index: 1;
   padding: 1rem;
   border-radius: 8px;
-  width: 20rem;
+  width: 250px;
 }
 
 body.search-loaded #search-results {
