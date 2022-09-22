@@ -64,14 +64,14 @@ main {
 }
 
 .title-link-box h2 {
-  color: #eee;
+  color: var(--text-color);
   text-align: left;
   font-size: var(--font-size-4);
   font-weight: 900;
 }
 
 .title-link-box h3 {
-  color: #eee;
+  color: var(--text-color);
   text-align: left;
   float: left;
   margin-top: 0.4rem;
@@ -82,8 +82,8 @@ main {
 .title-link-box a {
   place-self: start;
   margin-bottom: 1rem;
-  border: 2px solid #eee;
-  color: #eee;
+  border: 2px solid var(--text-color);
+  color: var(--text-color);
   font-size: var(--font-size-2);
 }
 
@@ -335,7 +335,7 @@ p#no-products {
   }
 
   .title-link-box a:hover {
-    background: #eee;
+    background: var(--text-color);
     color: #111;
   }
 

@@ -84,12 +84,12 @@ main h3 {
 }
 
 #hero-text h1 {
-  color: #eee;
+  color: var(--text-color);
   font-weight: 900;
 }
 
 #hero-text .subtitle {
-  background: #eee;
+  background: var(--text-color);
   display: inline-block;
   color: var(--accent-color);
   border-radius: 8px;
@@ -99,8 +99,8 @@ main h3 {
 }
 
 #hero .button {
-  color: #eee;
-  border-color: #eee;
+  color: var(--text-color);
+  border-color: var(--text-color);
   text-align: left;
 }
 
@@ -163,7 +163,7 @@ main h3 {
   div#hero .button:hover {
     background: #111;
     border-color: #111;
-    color: #eee;
+    color: var(--text-color);
   }
 }
 

@@ -2,16 +2,8 @@ let searchInput = document.querySelector("#search");
 let searchResultsInner = document.querySelector("#search-results-inner");
 let openSearch = document.querySelector("#open-search");
 let closeSearch = document.querySelector("#close-search");
-let searchLoadMoreButton = document.querySelector("#search-load-more");
-let searchReturnToTopButton = document.querySelector("#search-return-to-top");
-let searchResults = [];
-let start = 0;
-let end = 11;
 
-function resetStartEnd() {
-  start = 0;
-  end = 11;
-}
+let searchResults = [];
 
 async function search(terms) {
   searchResults = [];
@@ -124,16 +116,7 @@ async function search(terms) {
 }
 
 async function displayResults(results) {
-  if (end >= results.length - 1) {
-    searchLoadMoreButton.disabled = true;
-  } else {
-    searchLoadMoreButton.disabled = false;
-  }
-  for (let i = start; i < end + 1; i++) {
-    if (i > results.length - 1) {
-      break;
-    }
-
+  for (let i = 0; i < results.length; i++) {
     let resultDiv = document.createElement("div");
     resultDiv.classList.add("search-result");
 
@@ -151,8 +134,6 @@ async function displayResults(results) {
 
     let resultLink = document.createElement("a");
     resultLink.href = `/trees/${results[i].url}/`;
-    resultLink.classList.add("button");
-    resultLink.textContent = "View Tree";
 
     if (results[i].cultivar !== "") {
       if (results[i].form !== "") {
@@ -200,9 +181,9 @@ async function displayResults(results) {
     let imageDiv = document.createElement("div");
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${results[i].mainImage}`;
-    resultImage.width = "700";
-    resultImage.height = "700";
+    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/${results[i].mainImage}`;
+    resultImage.width = "50";
+    resultImage.height = "50";
     resultImage.loading = "lazy";
     resultImage.alt = `${results[i].url.replace(/-/g, " ")}`;
 
@@ -212,7 +193,7 @@ async function displayResults(results) {
 
     resultDiv.appendChild(imageDiv);
 
-    surfaceContent.appendChild(titleDiv);
+    resultLink.appendChild(titleDiv);
 
     surfaceContent.appendChild(resultLink);
 
@@ -232,28 +213,17 @@ let doneTypingInterval = 500;
 
   searchInput.addEventListener("keyup", (event) => {
     clearTimeout(typingTimer);
-    searchLoadMoreButton.style.setProperty("visibility", "hidden");
-    searchReturnToTopButton.style.setProperty("visibility", "hidden");
     searchResultsInner.innerHTML = ``;
-    document.body.classList.remove("search-loaded");
 
     typingTimer = setTimeout(() => {
       (async function () {
         await search(event.target.value);
 
         if (searchResults.length > 0) {
-          searchLoadMoreButton.style.setProperty("visibility", "hidden");
-          searchReturnToTopButton.style.setProperty("visibility", "hidden");
           searchResultsInner.innerHTML = ``;
-
-          resetStartEnd();
           await displayResults(searchResults);
-          searchLoadMoreButton.style.setProperty("visibility", "visible");
-          searchReturnToTopButton.style.setProperty("visibility", "visible");
           document.body.classList.add("search-loaded");
         } else {
-          searchLoadMoreButton.style.setProperty("visibility", "hidden");
-          searchReturnToTopButton.style.setProperty("visibility", "hidden");
           searchResultsInner.innerHTML = ``;
           let emptyMessage = document.createElement("p");
           emptyMessage.textContent = "No results found.";
@@ -267,22 +237,7 @@ let doneTypingInterval = 500;
   });
 })();
 
-openSearch.addEventListener("click", () => {
-  document.body.classList.add("search-open");
-});
-
 closeSearch.addEventListener("click", () => {
-  document.body.classList.remove("search-open");
   document.body.classList.remove("search-loaded");
   searchInput.value = "";
-});
-
-searchLoadMoreButton.addEventListener("click", () => {
-  start += 12;
-  end += 12;
-  displayResults(searchResults);
-});
-
-searchReturnToTopButton.addEventListener("click", () => {
-  document.querySelector("#search-overlay").scroll({ top: 0, left: 0 });
 });

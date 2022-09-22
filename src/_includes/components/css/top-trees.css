@@ -44,13 +44,13 @@ main {
 .title-link-box h2 {
   text-align: left;
   font-size: var(--font-size-4);
-  color: #eee;
+  color: var(--text-color);
   font-weight: 900;
 }
 
 .title-link-box h3 {
   text-align: left;
-  color: #eee;
+  color: var(--text-color);
   float: left;
   margin-top: 0.4rem;
   font-size: var(--font-size-2);
@@ -60,8 +60,8 @@ main {
 .title-link-box a {
   place-self: start;
   margin-bottom: 1rem;
-  border: 2px solid #eee;
-  color: #eee;
+  border: 2px solid var(--text-color);
+  color: var(--text-color);
   font-size: var(--font-size-2);
 }
 
@@ -79,7 +79,7 @@ main {
 @media (hover: hover) and (pointer: fine) {
   .title-link-box a:hover {
     color: #111;
-    background: #eee;
+    background: var(--text-color);
   }
 }
 

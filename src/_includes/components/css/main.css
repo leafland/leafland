@@ -28,10 +28,10 @@
   margin: 0;
 }
 
-html,
+/* html,
 body {
   height: 100%;
-}
+} */
 
 body {
   line-height: 1.5;
@@ -293,6 +293,9 @@ header {
   width: 100%;
   height: auto;
   z-index: 3;
+  position: sticky;
+  top: 0;
+  background: var(--background-color);
 }
 
 #header {
@@ -308,7 +311,7 @@ header {
 #header-buttons {
   display: flex;
   justify-self: end;
-  gap: 1rem;
+  gap: 0.5rem;
   flex-wrap: wrap;
 }
 
@@ -414,7 +417,6 @@ footer p {
   text-transform: uppercase;
 }
 
-body.search-open #search-overlay,
 body.login-open #login-overlay,
 body.order-open #order-overlay,
 body.order-sent-open #order-sent-overlay,
@@ -425,21 +427,21 @@ body.filter-open #filter-overlay {
   z-index: 8;
   visibility: visible;
 }
-
-body.search-open,
-body.login-open,
-body.order-open,
-body.order-sent-open,
-body.submit-order-open,
-body.main-menu-open {
+/* 
+ {
   position: fixed;
   overflow-y: hidden;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-}
+} */
 
+body.login-open,
+body.order-open,
+body.order-sent-open,
+body.submit-order-open,
+body.main-menu-open,
 body.stock-table-open,
 body.lightbox-open,
 body.filter-open {
@@ -493,9 +495,9 @@ body.filter-open {
 }
 
 @media (min-width: 650px) {
-  nav#header {
+  /* nav#header {
     padding: 2rem;
-  }
+  } */
 
   #email-signup input[type="text"],
   #email-signup input[type="email"] {

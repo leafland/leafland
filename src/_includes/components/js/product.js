@@ -87,7 +87,7 @@ async function createTreeImages() {
         setTimeout(() => {
           mainImage.innerHTML = `<img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${
             thumbImage.src.split("files.leafland.co.nz/")[1]
-          }" height="700" width="700" alt="${
+          }" height="${mainImg.height}" width="700" alt="${
             thumbImage.alt
           }" class="main-img" style="opacity: 1;">`;
           mainImage.style.setProperty("opacity", "1");
