@@ -95,7 +95,7 @@ select {
 input,
 select,
 textarea {
-  border: 2px solid var(--border-color);
+  border: none;
   border-radius: 8px;
   font-weight: 700;
 }
