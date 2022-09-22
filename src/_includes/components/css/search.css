@@ -102,11 +102,7 @@ body.search-loaded #search-results {
 #search-load-more-div button {
   border-color: var(--border-color);
   grid-row-start: 1;
-}
-
-#search-load-more-div button:disabled {
-  opacity: 0.7;
-  cursor: default;
+  font-size: var(--font-size-2);
 }
 
 @media (hover: hover) and (pointer: fine) {
