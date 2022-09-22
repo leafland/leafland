@@ -15,7 +15,7 @@
   grid-template-columns: 1fr;
   grid-gap: 1rem;
   overflow-y: auto;
-  max-height: 30rem;
+  max-height: 20rem;
   padding-right: 1rem;
 }
 
