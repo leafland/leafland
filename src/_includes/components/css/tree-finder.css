@@ -171,6 +171,7 @@ p#no-products {
   grid-gap: 3rem;
   margin: auto;
   width: 100%;
+  max-width: 80rem;
 }
 
 p#no-products {
