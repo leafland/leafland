@@ -528,7 +528,8 @@ body.filter-open {
 
 @media (min-width: 900px) {
   #header {
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: auto auto 1fr;
+    gap: 2rem;
   }
   #search-section {
     grid-row-start: 1;
@@ -550,6 +551,15 @@ body.filter-open {
 
   #footer-links p:last-child {
     text-align: right;
+  }
+  #header {
+    gap: 4rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  #header {
+    gap: 7rem;
   }
 }
 
