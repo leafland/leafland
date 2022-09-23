@@ -272,6 +272,8 @@ body.lightbox-open #image-lightbox {
   height: 100%;
   place-content: center;
   overflow: hidden;
+  max-width: 80rem;
+  justify-self: center;
 }
 
 #image-lightbox-div img {

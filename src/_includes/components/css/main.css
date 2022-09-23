@@ -423,6 +423,8 @@ footer p {
   width: 100%;
   align-items: center;
   flex-wrap: wrap;
+  max-width: 80rem;
+  justify-self: center;
 }
 
 #top-buttons-block p {

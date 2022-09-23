@@ -18,8 +18,8 @@
 }
 
 #login-inner {
-  max-width: 50rem;
-  place-self: center;
+  max-width: 80rem;
+  justify-self: center;
 }
 
 #close-login {

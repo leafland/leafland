@@ -20,6 +20,9 @@
 
 #main-menu-inner {
   display: grid;
+  max-width: 80rem;
+  justify-self: center;
+  width: 100%;
 }
 
 #main-menu-items {
