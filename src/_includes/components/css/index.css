@@ -26,9 +26,8 @@ main h3 {
   display: grid;
   grid-template-columns: 1fr;
   gap: 10rem;
-  max-width: 60rem;
+  max-width: 80rem;
   width: 100%;
-  text-align: center;
 }
 
 #hero {
@@ -115,46 +114,41 @@ main h3 {
 }
 
 .split-section img {
-  max-height: 300px;
-  max-width: 750px;
+  max-height: 750px;
+  max-width: 80rem;
   object-fit: cover;
   border-radius: 8px;
-  justify-self: center;
+  justify-self: start;
 }
 
 .split-section video {
-  justify-self: center;
+  justify-self: start;
+  max-width: 80rem;
 }
 
 .split-section-text {
   justify-self: start;
 }
 
-.split-section video {
-  max-width: 750px;
-}
 .banner-section {
   display: grid;
+  justify-content: start;
   width: 100%;
   border-radius: 8px;
 }
 .banner-section-inner {
   margin: auto;
-  text-align: center;
   display: grid;
   grid-gap: 3rem;
 }
 
 .banner-section-inner .button {
-  justify-self: center;
+  width: max-content;
   border-color: var(--border-color);
 }
 
 .split-section,
 .banner-section {
-  justify-self: center;
-  max-width: 60rem;
-  max-height: 40rem;
   height: 100%;
   width: 100%;
 }
