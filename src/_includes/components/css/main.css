@@ -314,26 +314,25 @@ header {
 }
 
 #header {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem;
+  gap: 1rem;
   opacity: 1;
   max-width: 80rem;
   width: 100%;
   justify-self: center;
+  grid-template-columns: 1fr;
 }
 
 #header-buttons {
   display: flex;
-  justify-self: end;
   gap: 0.5rem;
   flex-wrap: wrap;
+  justify-self: start;
 }
 
 .logo {
-  height: 75px;
+  height: 50px;
   width: auto;
 }
 
@@ -444,15 +443,6 @@ body.filter-open #filter-overlay {
   z-index: 8;
   visibility: visible;
 }
-/* 
- {
-  position: fixed;
-  overflow-y: hidden;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-} */
 
 body.login-open,
 body.order-open,
@@ -512,13 +502,40 @@ body.filter-open {
 }
 
 @media (min-width: 650px) {
-  /* nav#header {
-    padding: 2rem;
-  } */
-
   #email-signup input[type="text"],
   #email-signup input[type="email"] {
     width: 100%;
+  }
+
+  #header {
+    grid-template-columns: auto 1fr;
+  }
+  #header a,
+  #header-buttons {
+    grid-row-start: 1;
+  }
+  #header-buttons {
+    justify-self: start;
+  }
+  #search-section {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+  .logo {
+    height: 75px;
+  }
+}
+
+@media (min-width: 900px) {
+  #header {
+    grid-template-columns: auto 1fr auto;
+  }
+  #search-section {
+    grid-row-start: 1;
+    grid-column-start: 3;
+  }
+  #header-buttons {
+    justify-self: center;
   }
 }
 

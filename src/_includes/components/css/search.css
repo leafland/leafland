@@ -7,11 +7,7 @@
 
 #search-section {
   position: relative;
-}
-
-#search:disabled {
-  opacity: 0.7;
-  cursor: default;
+  width: 100%;
 }
 
 #search-results-inner {
