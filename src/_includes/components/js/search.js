@@ -205,6 +205,7 @@ let doneTypingInterval = 500;
 
 (async function init() {
   searchInput.addEventListener("keyup", (event) => {
+    document.body.classList.remove("search-loaded");
     searchResultsInner.innerHTML = ``;
 
     clearTimeout(typingTimer);
