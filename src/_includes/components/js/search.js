@@ -101,6 +101,7 @@ async function search(terms) {
           .replace(/ī/g, "i")
           .replace(/ō/g, "o")
           .replace(/ū/g, "u")
+          .replace(/ä/g, "a")
           .toLowerCase()
           .includes(terms[i])
       ) {
