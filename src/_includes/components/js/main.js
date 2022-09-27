@@ -6,10 +6,6 @@ const orderSent = new Event("orderSent");
 const dataLoaded = new Event("dataLoaded");
 
 if (sessionStorage.getItem("submittedOrder") === "true") {
-  if (history.scrollRestoration) {
-    history.scrollRestoration = "manual";
-  }
-
   sessionStorage.setItem("trees", "[]");
   window.dispatchEvent(orderSent);
 
