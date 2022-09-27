@@ -217,7 +217,6 @@ function createClearButton(filterInput) {
       history.scrollRestoration = "manual";
     }
 
-    treeWrapper.innerHTML = "";
     window.addEventListener("dataLoaded", async () => {
       await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
     });
@@ -279,6 +278,10 @@ function createClearButton(filterInput) {
     });
 
     document.querySelector("#clear-filter-buttons").appendChild(clearAll);
+  } else {
+    window.addEventListener("dataLoaded", async () => {
+      await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
+    });
   }
 })();
 
