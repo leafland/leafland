@@ -7,6 +7,12 @@ type: product
 
     <div id="tree-name-block">
 
+        {% if commonName != '' %}
+        <h2 class="tree-common-name">{{ commonName }}</h2>
+        {% else %}
+        <h2 class="tree-common-name" style="display:none"></h2>
+        {% endif %}
+
         {% if tree.cultivar.size > 0 %}
 
             {% if tree.form.size > 0 %}
@@ -83,12 +89,6 @@ type: product
 
         <h1 class="tree-botanical-name"><i>{{ tree.genus }}</i> <i>{{ tree.species }}</i></h1>
 
-        {% endif %}
-
-        {% if commonName != '' %}
-        <h2 class="tree-common-name">{{ commonName }}</h2>
-        {% else %}
-        <h2 class="tree-common-name" style="display:none"></h2>
         {% endif %}
     </div>
 

@@ -2,10 +2,6 @@ main {
   margin-top: 5rem;
 }
 
-main h1 {
-  margin-bottom: 1rem;
-}
-
 #content {
   max-width: 80rem;
   display: grid;
@@ -26,6 +22,11 @@ main h1 {
   z-index: 9999;
 }
 
+#tree-name-block {
+  display: grid;
+  gap: 0.5rem;
+}
+
 .tree-botanical-name {
   font-size: var(--font-size-7);
   font-weight: 900;
@@ -35,6 +36,11 @@ main h1 {
   font-size: var(--font-size-4);
   display: inline-block;
   font-weight: 700;
+  background: var(--invert-background-color);
+  color: var(--invert-text-color);
+  width: max-content;
+  padding: 0.3rem 0.6rem;
+  border-radius: 8px;
 }
 
 #tree-info-description-icons {
