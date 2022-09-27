@@ -105,44 +105,45 @@ function createClearButton(filterInput) {
   clearFilter.dataset.value = filterInput.value;
 
   if (filterInput.value.includes("-fc")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Flowers";
+      " Flowers</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-flc")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Foliage";
+      " Foliage</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-ac")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Autumn Foliage";
+      " Autumn Foliage</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-fs")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Fruiting";
+      " Fruiting</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-fls")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Flowering";
+      " Flowering</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-h")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " High";
+      " High</span> <span class='clear-button'></span>";
   } else if (filterInput.value.includes("-w")) {
-    clearFilter.textContent =
-      "Clear " +
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
       document.querySelector(`label[for="${filterInput.value}"]`).textContent +
-      " Wide";
+      " Wide</span> <span class='clear-button'></span>";
   } else {
-    clearFilter.textContent =
-      "Clear " +
-      document.querySelector(`label[for="${filterInput.value}"]`).textContent;
+    clearFilter.innerHTML =
+      "<span class='clear-text'>" +
+      document.querySelector(`label[for="${filterInput.value}"]`).textContent +
+      "</span> <span class='clear-button'></span>";
   }
 
   clearFilter.addEventListener("click", () => {
@@ -229,7 +230,8 @@ function createClearButton(filterInput) {
 
     let clearAll = document.createElement("button");
     clearAll.id = "clear-all";
-    clearAll.textContent = "Clear All";
+    clearAll.innerHTML =
+      "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
 
     clearAll.addEventListener("click", () => {
       document.querySelector("#clear-filter-buttons").innerHTML = "";
@@ -690,7 +692,8 @@ document.body.querySelector("#close-filter").addEventListener("click", () => {
     if (treeFilter.length > 0) {
       let clearAll = document.createElement("button");
       clearAll.id = "clear-all";
-      clearAll.textContent = "Clear All";
+      clearAll.innerHTML =
+        "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
 
       clearAll.addEventListener("click", () => {
         document.querySelector("#clear-filter-buttons").innerHTML = "";
