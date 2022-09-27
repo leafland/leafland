@@ -621,122 +621,6 @@ document.querySelectorAll(".options-group-option").forEach((option) => {
       option.querySelector(".filter-input").checked = true;
       option.classList.add("option-selected");
     }
-    treeWrapper.style.setProperty("opacity", "0");
-    filteredData = [];
-    treeFilter = [];
-    heightsArray = [];
-    widthsArray = [];
-    resetStartEnd();
-    filterSettings = {
-      empty: true,
-      uses: [],
-      tolerates: [],
-      types: [],
-      winterFoliage: [],
-      origin: [],
-      soilType: [],
-      sunAndShade: [],
-      height: [],
-      width: [],
-      fruitingSeason: [],
-      floweringSeason: [],
-      flowerColour: [],
-      autumnColour: [],
-      foliageColour: [],
-    };
-
-    document.querySelector("#clear-filter-buttons").innerHTML = "";
-
-    inputsArray.forEach((filterInput) => {
-      if (filterInput.checked === true) {
-        treeFilter.push(filterInput.value);
-
-        if (
-          !filterSettings[`${filterInput.dataset.category}`].includes(
-            filterInput.value
-          )
-        ) {
-          filterSettings[`${filterInput.dataset.category}`].push(
-            filterInput.value
-          );
-          filterSettings.empty = false;
-        }
-
-        if (filterInput.value.search("-h") !== -1) {
-          heightsArray.push(filterInput.value);
-        } else if (filterInput.value.search("-w") !== -1) {
-          widthsArray.push(filterInput.value);
-        }
-
-        createClearButton(filterInput);
-      }
-    });
-
-    treeWrapper.innerHTML = "";
-
-    sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
-    (async function () {
-      await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
-
-      if (treeFilter.length > 0) {
-        let clearAll = document.createElement("button");
-        clearAll.id = "clear-all";
-        clearAll.textContent = "Clear All";
-
-        clearAll.addEventListener("click", () => {
-          document.querySelector("#clear-filter-buttons").innerHTML = "";
-          treeWrapper.style.setProperty("opacity", "0");
-          filteredData = [];
-          treeFilter = [];
-          heightsArray = [];
-          widthsArray = [];
-          inputsArray.forEach((filterInput) => {
-            if (filterInput.checked === true) {
-              filterInput.checked = false;
-              filterInput.parentNode.classList.remove("option-selected");
-            }
-          });
-
-          filterSettings = {
-            empty: true,
-            uses: [],
-            tolerates: [],
-            types: [],
-            winterFoliage: [],
-            origin: [],
-            soilType: [],
-            sunAndShade: [],
-            height: [],
-            width: [],
-            fruitingSeason: [],
-            floweringSeason: [],
-            flowerColour: [],
-            autumnColour: [],
-            foliageColour: [],
-          };
-          sessionStorage.setItem(
-            "filterSettings",
-            JSON.stringify(filterSettings)
-          );
-          resetStartEnd();
-          treeWrapper.innerHTML = "";
-          (async function () {
-            await populatePage(
-              treeFinderStart,
-              treeFinderEnd,
-              treeData,
-              treeFilter
-            );
-          })();
-
-          treeWrapper.style.setProperty("opacity", "1");
-        });
-
-        document.querySelector("#clear-filter-buttons").appendChild(clearAll);
-      }
-    })();
-
-    treeWrapper.style.setProperty("opacity", "1");
   });
 });
 
@@ -744,5 +628,117 @@ document.body.querySelector("#open-filter").addEventListener("click", () => {
   document.body.classList.add("filter-open");
 });
 document.body.querySelector("#close-filter").addEventListener("click", () => {
+  filteredData = [];
+  treeFilter = [];
+  heightsArray = [];
+  widthsArray = [];
+  resetStartEnd();
+  filterSettings = {
+    empty: true,
+    uses: [],
+    tolerates: [],
+    types: [],
+    winterFoliage: [],
+    origin: [],
+    soilType: [],
+    sunAndShade: [],
+    height: [],
+    width: [],
+    fruitingSeason: [],
+    floweringSeason: [],
+    flowerColour: [],
+    autumnColour: [],
+    foliageColour: [],
+  };
+
+  document.querySelector("#clear-filter-buttons").innerHTML = "";
+
+  inputsArray.forEach((filterInput) => {
+    if (filterInput.checked === true) {
+      treeFilter.push(filterInput.value);
+
+      if (
+        !filterSettings[`${filterInput.dataset.category}`].includes(
+          filterInput.value
+        )
+      ) {
+        filterSettings[`${filterInput.dataset.category}`].push(
+          filterInput.value
+        );
+        filterSettings.empty = false;
+      }
+
+      if (filterInput.value.search("-h") !== -1) {
+        heightsArray.push(filterInput.value);
+      } else if (filterInput.value.search("-w") !== -1) {
+        widthsArray.push(filterInput.value);
+      }
+
+      createClearButton(filterInput);
+    }
+  });
+
+  treeWrapper.innerHTML = "";
+
+  sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
+  (async function () {
+    await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
+
+    if (treeFilter.length > 0) {
+      let clearAll = document.createElement("button");
+      clearAll.id = "clear-all";
+      clearAll.textContent = "Clear All";
+
+      clearAll.addEventListener("click", () => {
+        document.querySelector("#clear-filter-buttons").innerHTML = "";
+
+        filteredData = [];
+        treeFilter = [];
+        heightsArray = [];
+        widthsArray = [];
+        inputsArray.forEach((filterInput) => {
+          if (filterInput.checked === true) {
+            filterInput.checked = false;
+            filterInput.parentNode.classList.remove("option-selected");
+          }
+        });
+
+        filterSettings = {
+          empty: true,
+          uses: [],
+          tolerates: [],
+          types: [],
+          winterFoliage: [],
+          origin: [],
+          soilType: [],
+          sunAndShade: [],
+          height: [],
+          width: [],
+          fruitingSeason: [],
+          floweringSeason: [],
+          flowerColour: [],
+          autumnColour: [],
+          foliageColour: [],
+        };
+        sessionStorage.setItem(
+          "filterSettings",
+          JSON.stringify(filterSettings)
+        );
+        resetStartEnd();
+        treeWrapper.innerHTML = "";
+        (async function () {
+          await populatePage(
+            treeFinderStart,
+            treeFinderEnd,
+            treeData,
+            treeFilter
+          );
+        })();
+      });
+
+      document.querySelector("#clear-filter-buttons").appendChild(clearAll);
+    }
+  })();
+
   document.body.classList.remove("filter-open");
 });
