@@ -206,6 +206,9 @@ let doneTypingInterval = 500;
 
 (async function init() {
   searchInput.addEventListener("keyup", (event) => {
+    document
+      .querySelector("#search-results")
+      .scroll({ top: 0, behavior: "auto" });
     document.body.classList.remove("search-loaded");
     searchResultsInner.innerHTML = ``;
 

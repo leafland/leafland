@@ -81,7 +81,7 @@ body.search-loaded #search-results {
 
 .result-title {
   display: grid;
-  gap: 0.5rem;
+  gap: 0.25rem;
 }
 
 .result-botanical-name {
