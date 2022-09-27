@@ -33,13 +33,13 @@ main {
 }
 
 .tree-common-name {
-  font-size: var(--font-size-4);
+  font-size: var(--font-size-3);
   display: inline-block;
   font-weight: 700;
   background: var(--invert-background-color);
   color: var(--invert-text-color);
   width: max-content;
-  padding: 0.3rem 0.6rem;
+  padding: 0.4rem 0.8rem;
   border-radius: 8px;
 }
 
