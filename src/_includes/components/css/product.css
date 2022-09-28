@@ -129,7 +129,7 @@ main {
   border-radius: 8px;
 }
 
-.icon-div {
+/* .icon-div {
   display: grid;
   grid-template-columns: 1fr auto;
 }
@@ -168,7 +168,7 @@ main {
   align-content: start;
   position: relative;
   margin-top: 3rem;
-}
+} */
 
 #color-section {
   display: flex;
@@ -495,6 +495,23 @@ body.loggedIn .retail-price {
 
 .taxonomy-section p span {
   font-weight: 600;
+}
+
+#more-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+#more-info p {
+  font-size: var(--font-size-1);
+  display: inline-block;
+  font-weight: 700;
+  background: var(--invert-background-color);
+  color: var(--invert-text-color);
+  width: max-content;
+  padding: 0.2rem 0.4rem;
+  border-radius: 8px;
 }
 
 @media (min-width: 300px) {

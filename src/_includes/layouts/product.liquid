@@ -90,7 +90,99 @@ type: product
 
                     </div>
 
-                    <div id="tree-icons">
+                    <div id="more-info">
+
+                        {% if origin != "" and origin.length > 0 %}
+
+                            <p>{{ origin | capitalize }}</p>
+
+                        {% endif %}
+
+                        {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+                            <p>{{ winterFoliage | capitalize }}</p>
+
+                        {% endif %}
+
+                        {% if types != "" and types.length > 0 %}
+
+                            {% assign typesArray = types | split: ', ' %}
+
+                            {% for item in typesArray %}
+
+                                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if tolerates != "" and tolerates.length > 0 %}
+
+                            {% assign toleratesArray = tolerates | split: ', ' %}
+
+                            {% for item in toleratesArray %}
+
+                                {% if item == 'drought' or item == 'heavy-rainfall' or item == 'light-frosts' or item == 'heavy-frosts' %}
+
+                                    <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                                {% else %}
+
+                                    <p>{{ item | replace: '-', ' ' | capitalize }} sites</p>
+
+                                {% endif %}
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if soilType != "" and soilType.length > 0 %}
+
+                            {% assign soilArray = soilType | split: ', ' %}
+
+                            {% for item in soilArray %}
+
+                                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if sunShade != "" and sunShade.length > 0 %}
+
+                            {% assign sunArray = sunShade | split: ', ' %}
+
+                            {% for item in sunArray %}
+
+                                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                        {% if uses != "" and uses.length > 0 %}
+
+                            {% assign usesArray = uses | split: ', ' %}
+
+                            {% for item in usesArray %}
+
+                                {% if item contains '-' %}
+
+                                    <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                                {% else %}
+
+                                    <p>{{ item | capitalize }}</p>
+
+                                {% endif %}
+
+                            {% endfor %}
+
+                        {% endif %}
+
+                    </div>
+
+                    {% comment %} <div id="tree-icons">
 
                         {% if origin != "" and origin.length > 0 %}
 
@@ -225,7 +317,7 @@ type: product
 
                         {% endif %}
 
-                    </div>
+                    </div> {% endcomment %}
 
                 </div>
 
