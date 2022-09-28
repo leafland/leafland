@@ -104,10 +104,14 @@
 
 .order-common-name {
   text-align: left;
-  font-size: var(--font-size-2);
-  color: var(--text-color);
+  font-size: var(--font-size-1);
+  color: var(--invert-text-color);
   display: inline-block;
   font-weight: 700;
+  padding: 0.2rem 0.4rem;
+  border-radius: 8px;
+  width: max-content;
+  background: var(--invert-background-color);
 }
 
 .order-product input {
@@ -178,12 +182,12 @@
   margin-top: 2rem;
 }
 
-@media (hover: hover) and (pointer: fine) {
+/* @media (hover: hover) and (pointer: fine) {
   .order-common-name:hover {
     color: var(--accent-color);
     cursor: pointer;
   }
-}
+} */
 
 @media (min-width: 600px) {
   div#order-inner ul {

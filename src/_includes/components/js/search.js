@@ -128,45 +128,7 @@ async function displayResults(results) {
     resultLink.href = `/trees/${results[i].url}/`;
     resultLink.classList.add("search-result");
 
-    if (results[i].cultivar !== "") {
-      if (results[i].form !== "") {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> f. <i>${results[i].form}</i> '${results[i].cultivar}'`;
-      } else if (results[i].variety !== "") {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> var. <i>${results[i].variety}</i> '${results[i].cultivar}'`;
-      } else if (results[i].subspecies !== "") {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i> '${results[i].cultivar}'`;
-      } else if (results[i].hybrid !== "") {
-        if (results[i].hybrid.search(" x ") !== -1) {
-          let text = results[i].hybrid.split(" x ");
-          let newText = text.join("</i> x <i>");
-          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i> '${results[i].cultivar}'`;
-        } else {
-          resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i> '${results[i].cultivar}'`;
-        }
-      } else {
-        if (results[i].species !== "") {
-          resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> '${results[i].cultivar}'`;
-        } else {
-          resultTitle.innerHTML = `<i>${results[i].genus}</i> '${results[i].cultivar}'`;
-        }
-      }
-    } else if (results[i].form !== "") {
-      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> f. <i>${results[i].form}</i>`;
-    } else if (results[i].variety !== "") {
-      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> var. <i>${results[i].variety}</i>`;
-    } else if (results[i].subspecies !== "") {
-      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i> subsp. <i>${results[i].subspecies}</i>`;
-    } else if (results[i].hybrid !== "") {
-      if (results[i].hybrid.search(" x ") !== -1) {
-        let text = results[i].hybrid.split(" x ");
-        let newText = text.join("</i> x <i>");
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${newText}</i>`;
-      } else {
-        resultTitle.innerHTML = `<i>${results[i].genus}</i> x <i>${results[i].hybrid}</i>`;
-      }
-    } else {
-      resultTitle.innerHTML = `<i>${results[i].genus}</i> <i>${results[i].species}</i>`;
-    }
+    resultTitle.innerHTML = `${results[i].fullName}`;
 
     resultSubtitle.innerHTML = `${results[i].commonName}`;
 

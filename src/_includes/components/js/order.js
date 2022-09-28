@@ -178,7 +178,6 @@ async function updateOrder() {
 
       let nameDiv = document.createElement("div");
       nameDiv.classList.add("order-product-name");
-      nameDiv.appendChild(itemBotanicalName);
 
       if (tree.commonName !== "") {
         let itemCommonName = document.createElement("a");
@@ -187,6 +186,8 @@ async function updateOrder() {
         itemCommonName.classList.add("order-common-name");
         nameDiv.appendChild(itemCommonName);
       }
+
+      nameDiv.appendChild(itemBotanicalName);
 
       let itemDiv = document.createElement("div");
       itemDiv.classList.add("order-item-details");
