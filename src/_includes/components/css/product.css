@@ -75,13 +75,13 @@ main {
   margin-top: 2rem;
 }
 
-.reproduction {
-  grid-column-start: 1;
-  grid-column-end: 2;
+#extra-info {
+  display: grid;
+  gap: 0.5rem;
 }
 
-.reproduction span {
-  font-weight: 700;
+.extra-info span {
+  font-weight: 600;
 }
 
 #grid-content-left {
