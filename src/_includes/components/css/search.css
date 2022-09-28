@@ -13,8 +13,7 @@
 #search-results-inner {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 1rem;
-  padding-right: 1rem;
+  grid-gap: 0.5rem;
   height: max-content;
 }
 
@@ -26,7 +25,7 @@
   gap: 1rem;
   background: var(--invert-background-color);
   z-index: 1;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 8px;
   margin-top: 1rem;
   height: max-content;
@@ -56,12 +55,13 @@ body.search-loaded #search-results {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 1rem;
-  height: max-content;
-}
-
-.surface-content {
-  display: grid;
   align-items: center;
+  height: max-content;
+  max-width: max-content;
+  width: 100%;
+  color: var(--invert-text-color);
+  padding: 0.75rem;
+  border-radius: 8px;
 }
 
 #search-inner {
@@ -86,13 +86,11 @@ body.search-loaded #search-results {
 
 .result-botanical-name {
   font-weight: 700;
-  color: var(--invert-text-color);
   line-height: 1.2;
   font-size: var(--font-size-2);
 }
 
 .result-common-name {
-  color: var(--invert-text-color);
   display: inline-block;
   font-size: var(--font-size-1);
   font-weight: 500;
@@ -104,7 +102,8 @@ body.search-loaded #search-results {
     cursor: text;
   }
 
-  .surface-content a:hover > .result-title p {
-    color: var(--accent-color);
+  .search-result:hover {
+    background: var(--background-color);
+    color: var(--text-color);
   }
 }

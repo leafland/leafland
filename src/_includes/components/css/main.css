@@ -513,10 +513,7 @@ body.filter-open {
   #header {
     grid-template-columns: auto 1fr;
   }
-  #header a,
-  #header-buttons {
-    grid-row-start: 1;
-  }
+
   #header-buttons {
     justify-self: start;
   }

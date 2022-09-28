@@ -2,7 +2,7 @@ let treeWrapper = document.querySelector("#tree-wrapper");
 let content = document.querySelector("#content");
 
 let treeFinderStart = 0;
-let treeFinderEnd = 11;
+let treeFinderEnd = 23;
 
 let imageDataSubset = [];
 let inputsArray = document.querySelectorAll(".filter-input");
@@ -510,20 +510,12 @@ async function populatePage(
 
     for (let i = 0; i < treeDataSubset.length; i++) {
       if (!(treeDataSubset[i] === undefined || treeDataSubset[i] === null)) {
-        let treeItem = document.createElement("div");
-        treeItem.classList.add("tree-item");
-
         let treeUrl = document.createElement("a");
         treeUrl.href = `/trees/${treeDataSubset[i].url}/`;
-        treeUrl.textContent = "View Tree";
-        treeUrl.classList.add("tree-link");
-        treeUrl.classList.add("button");
+        treeUrl.classList.add("tree-item");
 
         let treeTitle = document.createElement("h2");
         let treeSubtitle = document.createElement("h3");
-
-        let container = document.createElement("div");
-        container.classList.add("title-link-box");
 
         let titleContainer = document.createElement("div");
         titleContainer.classList.add("title-container");
@@ -572,25 +564,19 @@ async function populatePage(
         titleContainer.appendChild(treeTitle);
         titleContainer.appendChild(treeSubtitle);
 
-        container.appendChild(titleContainer);
-        container.appendChild(treeUrl);
-
-        let imageDiv = document.createElement("div");
-        imageDiv.classList.add("tree-image");
-
         let treeImage = document.createElement("img");
 
-        treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${treeDataSubset[i].mainImage}`;
-        treeImage.width = "700";
-        treeImage.height = "700";
+        treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/${treeDataSubset[i].mainImage}`;
+        treeImage.width = "150";
+        treeImage.height = "150";
+        treeImage.loading = "lazy";
         treeImage.alt = treeDataSubset[i].url.replace(/-/g, " ");
 
-        imageDiv.appendChild(treeImage);
-        treeItem.appendChild(imageDiv);
+        treeUrl.appendChild(treeImage);
 
-        treeItem.appendChild(container);
+        treeUrl.appendChild(titleContainer);
 
-        treeWrapper.appendChild(treeItem);
+        treeWrapper.appendChild(treeUrl);
       }
     }
   }
@@ -598,12 +584,12 @@ async function populatePage(
 
 function resetStartEnd() {
   treeFinderStart = 0;
-  treeFinderEnd = 11;
+  treeFinderEnd = 23;
 }
 
 loadMoreButton.addEventListener("click", () => {
-  treeFinderStart += 12;
-  treeFinderEnd += 12;
+  treeFinderStart += 24;
+  treeFinderEnd += 24;
 
   (async function () {
     await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);

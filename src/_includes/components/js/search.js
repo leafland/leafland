@@ -115,12 +115,6 @@ async function search(terms) {
 
 async function displayResults(results) {
   for (let i = 0; i < results.length; i++) {
-    let resultDiv = document.createElement("div");
-    resultDiv.classList.add("search-result");
-
-    let surfaceContent = document.createElement("div");
-    surfaceContent.classList.add("surface-content");
-
     let titleDiv = document.createElement("div");
     titleDiv.classList.add("result-title");
 
@@ -132,6 +126,7 @@ async function displayResults(results) {
 
     let resultLink = document.createElement("a");
     resultLink.href = `/trees/${results[i].url}/`;
+    resultLink.classList.add("search-result");
 
     if (results[i].cultivar !== "") {
       if (results[i].form !== "") {
@@ -174,9 +169,8 @@ async function displayResults(results) {
     }
 
     resultSubtitle.innerHTML = `${results[i].commonName}`;
-    titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
-    let imageDiv = document.createElement("div");
+    titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let resultImage = document.createElement("img");
     resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/${results[i].mainImage}`;
@@ -187,17 +181,11 @@ async function displayResults(results) {
 
     titleDiv.insertAdjacentElement("afterbegin", resultTitle);
 
-    imageDiv.insertAdjacentElement("afterbegin", resultImage);
-
-    resultDiv.appendChild(imageDiv);
+    resultLink.appendChild(resultImage);
 
     resultLink.appendChild(titleDiv);
 
-    surfaceContent.appendChild(resultLink);
-
-    resultDiv.appendChild(surfaceContent);
-
-    searchResultsInner.appendChild(resultDiv);
+    searchResultsInner.appendChild(resultLink);
   }
 }
 
