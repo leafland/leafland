@@ -15,6 +15,7 @@
   grid-template-columns: 1fr;
   grid-gap: 0.5rem;
   height: max-content;
+  width: 100%;
 }
 
 #search-results {
@@ -57,7 +58,6 @@ body.search-loaded #search-results {
   gap: 1rem;
   align-items: center;
   height: max-content;
-  max-width: max-content;
   width: 100%;
   color: var(--invert-text-color);
   padding: 0.75rem;
