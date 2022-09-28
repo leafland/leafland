@@ -43,8 +43,10 @@
 
 .main-menu-list-item-link {
   display: grid;
-  width: max-content;
+  width: 100%;
   text-transform: none;
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 .main-menu-list-item-link p {
@@ -59,8 +61,8 @@
 
 @media (hover: hover) and (pointer: fine) {
   .main-menu-list-item-link:hover {
-    color: var(--brand-color);
-    background: none;
+    background: var(--invert-background-color);
+    color: var(--invert-text-color);
   }
 }
 
