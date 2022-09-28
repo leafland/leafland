@@ -75,6 +75,8 @@ select {
 
   --border-color: #eee;
 
+  --invert-border-color: #111;
+
   --button-background-color-hover: #eee;
 
   --button-text-color-hover: #111;

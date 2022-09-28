@@ -97,12 +97,17 @@
 #submit-order-overlay .form-tree-right {
   grid-row-start: 1;
   grid-column-start: 1;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: center;
 }
 
 #submit-order-overlay .form-tree img {
   border-radius: 8px;
   background: var(--image-background-color);
-  height: 250px;
+  height: 75px;
+  width: 75px;
   object-fit: cover;
 }
 
@@ -115,26 +120,23 @@
   margin-bottom: 0;
 }
 
-#submit-order-overlay .common-name {
+#submit-order-overlay .form-tree p.common-name {
   text-align: left;
-  font-size: var(--font-size-2);
+  font-size: var(--font-size-1);
   color: var(--text-color);
   display: inline-block;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 #submit-order-overlay .form-tree p.botanical-name {
   line-height: 1.2;
-  font-weight: 900;
-}
-
-#submit-order-overlay .form-tree p.botanical-name a {
-  font-size: var(--font-size-4);
+  font-weight: 700;
+  font-size: var(--font-size-2);
 }
 
 #submit-order-overlay .tree-info {
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   flex-direction: column;
 }
 
@@ -215,8 +217,6 @@
 }
 
 #submit-order-overlay .tree-name {
-  grid-column-start: 1;
-  grid-column-end: 2;
   display: flex;
   gap: 0.25rem;
   flex-direction: column;
@@ -286,10 +286,6 @@
 }
 
 @media (hover: hover) and (pointer: fine) {
-  #submit-order-overlay .common-name:hover {
-    color: var(--accent-color);
-  }
-
   #submit-order-overlay details > summary:hover {
     cursor: pointer;
     color: var(--accent-color);

@@ -86,20 +86,14 @@ async function populateForm() {
     let treeNameDiv = document.createElement("div");
     treeNameDiv.classList.add("tree-name");
 
-    let treeUrlBotanical = document.createElement("a");
-    treeUrlBotanical.href = tree.url;
-    treeUrlBotanical.innerHTML = tree.botanicalName;
-
     let botanicalName = document.createElement("p");
+    botanicalName.innerHTML = tree.botanicalName;
     botanicalName.classList.add("botanical-name");
-
-    botanicalName.appendChild(treeUrlBotanical);
 
     treeNameDiv.appendChild(botanicalName);
 
     if (tree.commonName !== "") {
-      let treeUrlCommon = document.createElement("a");
-      treeUrlCommon.href = tree.url;
+      let treeUrlCommon = document.createElement("p");
       treeUrlCommon.textContent = tree.commonName;
       treeUrlCommon.classList.add("common-name");
 
@@ -155,7 +149,9 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${tree.mainImage}`;
+    treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/${tree.mainImage}`;
+    treeImage.width = "150";
+    treeImage.height = "150";
     treeImage.alt = `${tree.url
       .replace(/\/trees\//g, "")
       .replace(/\//g, "")
@@ -163,8 +159,8 @@ async function populateForm() {
     treeImage.loading = "lazy";
 
     formTreeRight.appendChild(treeImage);
+    formTreeRight.appendChild(treeNameDiv);
 
-    formTree.appendChild(treeNameDiv);
     formTree.appendChild(formTreeLeft);
     formTree.appendChild(formTreeRight);
 

@@ -163,9 +163,9 @@ async function updateOrder() {
       rightDiv.classList.add("order-product-right");
 
       let itemImage = document.createElement("img");
-      itemImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/${tree.mainImage}`;
-      itemImage.width = "300";
-      itemImage.height = "300";
+      itemImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/${tree.mainImage}`;
+      itemImage.width = "150";
+      itemImage.height = "150";
       itemImage.loading = "lazy";
       itemImage.alt = `${tree.url
         .replace(/\/trees\//g, "")
@@ -179,14 +179,14 @@ async function updateOrder() {
       let nameDiv = document.createElement("div");
       nameDiv.classList.add("order-product-name");
 
+      nameDiv.appendChild(itemBotanicalName);
+
       if (tree.commonName !== "") {
         let itemCommonName = document.createElement("p");
         itemCommonName.textContent = tree.commonName;
         itemCommonName.classList.add("order-common-name");
         nameDiv.appendChild(itemCommonName);
       }
-
-      nameDiv.appendChild(itemBotanicalName);
 
       let itemDiv = document.createElement("div");
       itemDiv.classList.add("order-item-details");
@@ -405,8 +405,8 @@ async function updateOrder() {
       leftDiv.appendChild(removeItem);
 
       rightDiv.appendChild(itemImage);
+      rightDiv.appendChild(nameDiv);
 
-      listItem.appendChild(nameDiv);
       listItem.appendChild(leftDiv);
       listItem.appendChild(rightDiv);
 

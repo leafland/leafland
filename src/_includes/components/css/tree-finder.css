@@ -118,7 +118,7 @@ main h1 {
   gap: 1rem;
 }
 
-input[type="checkbox"] {
+#filter-overlay input[type="checkbox"] {
   appearance: none;
   -webkit-appearance: none;
   opacity: 0;
