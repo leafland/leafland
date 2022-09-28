@@ -173,16 +173,15 @@ async function updateOrder() {
         .replace(/-/g, " ")}`;
 
       let itemBotanicalName = document.createElement("p");
-      itemBotanicalName.innerHTML = `<a href='${tree.url}'>${tree.botanicalName}</a>`;
+      itemBotanicalName.innerHTML = tree.botanicalName;
       itemBotanicalName.classList.add("order-botanical-name");
 
       let nameDiv = document.createElement("div");
       nameDiv.classList.add("order-product-name");
 
       if (tree.commonName !== "") {
-        let itemCommonName = document.createElement("a");
-        itemCommonName.href = `${tree.url}`;
-        itemCommonName.textContent = `${tree.commonName}`;
+        let itemCommonName = document.createElement("p");
+        itemCommonName.textContent = tree.commonName;
         itemCommonName.classList.add("order-common-name");
         nameDiv.appendChild(itemCommonName);
       }

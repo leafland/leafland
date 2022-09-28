@@ -96,13 +96,10 @@
 .order-product p.order-botanical-name {
   line-height: 1.2;
   font-weight: 900;
-}
-
-.order-botanical-name a {
   font-size: var(--font-size-4);
 }
 
-.order-common-name {
+.order-product p.order-common-name {
   text-align: left;
   font-size: var(--font-size-1);
   color: var(--invert-text-color);
@@ -181,13 +178,6 @@
   font-weight: 700;
   margin-top: 2rem;
 }
-
-/* @media (hover: hover) and (pointer: fine) {
-  .order-common-name:hover {
-    color: var(--accent-color);
-    cursor: pointer;
-  }
-} */
 
 @media (min-width: 600px) {
   div#order-inner ul {
