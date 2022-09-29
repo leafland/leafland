@@ -56,7 +56,6 @@ main {
   grid-template-columns: auto 1fr;
   gap: 1rem;
   padding: 1rem;
-  border-radius: 8px;
 }
 
 .tree-item img {
@@ -93,7 +92,6 @@ main h1 {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: 1fr;
-  opacity: 1;
 }
 
 #button-div {
@@ -330,11 +328,6 @@ p#no-products {
     background: var(--invert-background-color);
     color: var(--invert-text-color);
     cursor: pointer;
-  }
-
-  .title-link-box a:hover {
-    background: var(--text-color);
-    color: #111;
   }
 
   main input:hover,

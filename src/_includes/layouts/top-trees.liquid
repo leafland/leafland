@@ -11,11 +11,9 @@ type: top-trees
     
     {% for tree in topTrees.trees %}
 
-    <div class="tree-item">
+    <a class="tree-item" href="/trees/{{ tree.url }}/">
     
-        <div class="tree-image"><img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/{{ tree.mainImage }}" width="700" height="700" alt="{{ tree.url | replace: '-', ' ' }}">
-        
-        </div>
+        <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/{{ tree.mainImage }}" width="150" height="150" alt="{{ tree.url | replace: '-', ' ' }}">
         
         <div class="title-link-box">
         
@@ -30,12 +28,10 @@ type: top-trees
                 {% endif %}
             
             </div>
-            
-            <a href="/trees/{{ tree.url }}/" class="tree-link button">View Tree</a>
         
         </div>
     
-    </div>
+    </a>
 
     {% endfor %}
     
