@@ -75,23 +75,15 @@ main {
 #grid-content-left {
   display: grid;
   grid-template-rows: auto 1fr;
+  max-width: max-content;
 }
 
-#main-image {
-  width: 100%;
-  cursor: pointer;
-  background: var(--image-background-color);
+#grid-content-left .main-img {
   border-radius: 16px;
-  position: relative;
-  display: grid;
-}
-
-#main-image-inner {
-  width: 100%;
-}
-
-#main-image-inner img {
-  border-radius: 16px;
+  max-height: 500px;
+  object-fit: contain;
+  justify-self: start;
+  max-width: max-content;
 }
 
 .images {
@@ -374,6 +366,12 @@ body.loggedIn .retail-price {
   border-radius: 8px;
 }
 
+@media (hover: hover) and (pointer: fine) {
+  #grid-content-left img:hover {
+    cursor: pointer;
+  }
+}
+
 @media (min-width: 500px) {
   #add-product-div {
     grid-template-columns: auto 1fr;
@@ -404,7 +402,10 @@ body.loggedIn .retail-price {
 
 @media (min-width: 1000px) {
   div#grid-content {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto 1fr;
+  }
+  #grid-content-left .main-img {
+    max-width: 500px;
   }
 }
 

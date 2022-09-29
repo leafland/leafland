@@ -4,7 +4,6 @@ let gradeSizesDiv = document.querySelector("#grade-sizes");
 let treeBotanicalName = document.querySelector(".tree-botanical-name");
 let treeCommonName = document.querySelector(".tree-common-name");
 let images = document.querySelector(".images");
-let mainImage = document.querySelector("#main-image-inner");
 
 let treeAttributes = document.querySelector("#tree-attributes");
 let imageLightbox = document.querySelector("#image-lightbox");
