@@ -402,7 +402,7 @@ body.loggedIn .retail-price {
 
 @media (min-width: 1000px) {
   div#grid-content {
-    grid-template-columns: auto 1fr;
+    grid-template-columns: max-content 1fr;
   }
   #grid-content-left .main-img {
     max-width: 500px;
