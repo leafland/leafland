@@ -1,4 +1,3 @@
-let colorSection = document.querySelector("#color-section");
 let gradeSizesDiv = document.querySelector("#grade-sizes");
 
 let treeBotanicalName = document.querySelector(".tree-botanical-name");

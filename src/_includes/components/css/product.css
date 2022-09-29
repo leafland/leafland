@@ -6,7 +6,7 @@ main {
   max-width: 80rem;
   display: grid;
   justify-self: center;
-  gap: 3rem;
+  gap: 5rem;
 }
 
 #top-bar {
@@ -48,19 +48,13 @@ main {
 #grid-content-right {
   overflow-x: hidden;
   height: max-content;
+  max-width: 800px;
 }
 
 #grid-content {
   display: grid;
   gap: 5rem 2rem;
   grid-template-columns: 1fr;
-}
-
-#grid-content-middle {
-  display: grid;
-  gap: 2rem;
-  grid-template-columns: 1fr;
-  margin-top: 2rem;
 }
 
 #extra-info {
@@ -76,6 +70,7 @@ main {
   display: grid;
   grid-template-rows: auto 1fr;
   max-width: max-content;
+  max-height: max-content;
 }
 
 #grid-content-left .main-img {
@@ -372,55 +367,17 @@ body.loggedIn .retail-price {
   }
 }
 
-@media (min-width: 500px) {
-  #add-product-div {
-    grid-template-columns: auto 1fr;
-  }
-}
-
-@media (min-width: 650px) {
-  #color-section {
-    grid-column-start: 1;
-    grid-column-end: 3;
-  }
-}
-
 @media (min-width: 800px) {
-  div#related-trees {
-    grid-template-columns: repeat(2, 1fr);
-  }
   #taxonomy-inner {
     grid-template-columns: 1fr 1fr;
   }
 }
 
-@media (min-width: 1000px) {
-  div#stock-information {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media (min-width: 1000px) {
-  div#grid-content {
-    grid-template-columns: max-content 1fr;
-  }
+@media (min-width: 1100px) {
   #grid-content-left .main-img {
     max-width: 500px;
   }
-}
-
-@media (min-width: 1200px) {
-  #grid-content-middle {
-    grid-template-columns: 1fr 300px;
-  }
-
-  .reproduction {
-    grid-column-end: 3;
-  }
-}
-
-@media (min-width: 1350px) {
-  div#related-trees {
-    grid-template-columns: repeat(3, 1fr);
+  div#grid-content {
+    grid-template-columns: auto auto;
   }
 }
