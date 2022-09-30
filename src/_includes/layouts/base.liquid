@@ -88,6 +88,11 @@
 
     {% endif %}
 
+    {% if type == 'product' or type == 'stock-list' %}
+    <link rel='preconnect' href="https://sheets.googleapis.com">
+    <link rel='dns-prefetch' href="https://sheets.googleapis.com">
+    {% endif %}
+
     {% if type == 'product' %}
       <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}">
     {% elsif type == 'index' %}
