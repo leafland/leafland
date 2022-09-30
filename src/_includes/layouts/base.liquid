@@ -88,11 +88,8 @@
 
     {% endif %}
 
-    <link rel='preconnect' href="https://leafland.co.nz/cdn-cgi/image">
-    <link rel='dns-prefetch' href="https://leafland.co.nz/cdn-cgi/image">
-
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/{{ mainImage }}">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}">
     {% elsif type == 'index' %}
       <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=2000/https://files.leafland.co.nz/tree-planting-estate.jpg">
     {% endif %}

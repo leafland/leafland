@@ -68,40 +68,29 @@ main {
 
 #grid-content-left {
   display: grid;
-  grid-template-rows: auto 1fr;
-  max-width: max-content;
-  max-height: max-content;
+  grid-template-rows: 1fr;
 }
 
 #grid-content-left .main-img {
   border-radius: 16px;
-  max-height: 500px;
-  object-fit: contain;
-  justify-self: start;
-  max-width: max-content;
+  object-fit: cover;
+  height: 100%;
 }
 
 .images {
-  margin-top: 1rem;
   display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fill, 50px);
-  grid-template-rows: repeat(auto-fit, 50px);
+  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fill, 75px);
+  grid-template-rows: repeat(auto-fit, 75px);
 }
 
-.image {
-  background: var(--image-background-color);
-  border-radius: 8px;
-  width: 50px;
-  height: 50px;
-}
-
-.images .image img {
+.thumb-image {
   object-fit: cover;
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   cursor: pointer;
   border-radius: 8px;
+  background: var(--image-background-color);
 }
 
 /* .icon-div {
@@ -361,23 +350,14 @@ body.loggedIn .retail-price {
   border-radius: 8px;
 }
 
-@media (hover: hover) and (pointer: fine) {
-  #grid-content-left img:hover {
-    cursor: pointer;
-  }
-}
-
 @media (min-width: 800px) {
   #taxonomy-inner {
     grid-template-columns: 1fr 1fr;
   }
 }
 
-@media (min-width: 1100px) {
-  #grid-content-left .main-img {
-    max-width: 500px;
-  }
+@media (min-width: 1000px) {
   div#grid-content {
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
   }
 }

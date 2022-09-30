@@ -21,27 +21,7 @@ type: product
 
         <div id="grid-content-left">
                 
-            <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=700/https://files.leafland.co.nz/{{ mainImage }}" height="700" width="700" alt="{{ url | replace: '-', ' ' }}" loading="eager" class="main-img">
-
-            <div class="images">
-
-                <div class="image">
-
-                    <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ mainImage }}" width="75" height="75" alt="{{ url | replace: '-', ' ' }}">
-
-                </div>
-
-                {% for image in tree.images %}
-                
-                <div class="image">
-
-                    <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ image.alt }}" >
-                    
-                </div>
-
-                {% endfor %}
-
-            </div>
+            <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}" height="1000" width="1000" alt="{{ url | replace: '-', ' ' }}" loading="eager" class="main-img">
 
         </div>
 
@@ -682,6 +662,18 @@ type: product
             </div>
 
         </div>
+
+    </div>
+
+    <div class="images">
+
+        <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/{{ mainImage }}" width="75" height="75" alt="{{ url | replace: '-', ' ' }}">
+
+        {% for image in tree.images %}
+
+        <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ image.alt }}" >
+
+        {% endfor %}
 
     </div>
 

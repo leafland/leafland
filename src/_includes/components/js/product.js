@@ -38,7 +38,7 @@ if (loggedIn) {
   }
   addEventListeners();
 
-  await createTreeImages();
+  productImage = mainImg.src.split("files.leafland.co.nz/")[1];
 
   await getProductStockData();
 
@@ -57,30 +57,6 @@ async function getProductStockData() {
   stockData = stockData.values.filter(
     (row) => row[13] === document.body.dataset.code
   );
-}
-
-async function createTreeImages() {
-  productImage = mainImg.src.split("files.leafland.co.nz/")[1];
-  mainImg.addEventListener("click", () => {
-    document.querySelector("#date-taken-div").innerHTML = "";
-    document
-      .querySelector("#date-taken-div")
-      .style.setProperty("display", "none");
-
-    imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
-      mainImg.src.split("files.leafland.co.nz/")[1]
-    }' height="1500" width="1500" alt="${mainImg.alt}">`;
-    document.body.classList.add("lightbox-open");
-  });
-
-  thumbImages.forEach((thumbImage) => {
-    thumbImage.addEventListener("click", (e) => {
-      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
-        thumbImage.src.split("files.leafland.co.nz/")[1]
-      }' height="1500" width="1500" alt="${thumbImage.alt}">`;
-      document.body.classList.add("lightbox-open");
-    });
-  });
 }
 
 async function createStockValues() {
@@ -287,6 +263,15 @@ function addEventListeners() {
 
   imageLightBoxClose.addEventListener("click", () => {
     document.body.classList.remove("lightbox-open");
+  });
+
+  thumbImages.forEach((thumbImage) => {
+    thumbImage.addEventListener("click", (e) => {
+      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
+        thumbImage.src.split("files.leafland.co.nz/")[1]
+      }' height="1500" width="1500" alt="${thumbImage.alt}">`;
+      document.body.classList.add("lightbox-open");
+    });
   });
 
   document.querySelectorAll(".grade-size-div").forEach((gradeImage) =>
