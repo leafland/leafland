@@ -267,9 +267,9 @@ function addEventListeners() {
 
   thumbImages.forEach((thumbImage) => {
     thumbImage.addEventListener("click", (e) => {
-      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/${
+      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=2000/https://files.leafland.co.nz/${
         thumbImage.src.split("files.leafland.co.nz/")[1]
-      }' height="1500" width="1500" alt="${thumbImage.alt}">`;
+      }' height="2000" width="2000" alt="${thumbImage.alt}">`;
       document.body.classList.add("lightbox-open");
     });
   });
