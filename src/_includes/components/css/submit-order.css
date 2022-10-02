@@ -73,11 +73,6 @@
   grid-template-columns: 1fr;
 }
 
-#submit-order-overlay h3 {
-  margin-bottom: 2rem;
-  font-weight: 900;
-}
-
 #empty-message {
   display: none;
   margin-top: 2rem;

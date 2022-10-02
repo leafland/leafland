@@ -434,7 +434,6 @@ footer p {
   line-height: 1;
   font-size: var(--font-size-4);
   flex-grow: 2;
-  text-transform: uppercase;
 }
 
 body.login-open #login-overlay,
