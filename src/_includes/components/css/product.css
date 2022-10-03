@@ -90,7 +90,6 @@ main {
   height: 75px;
   cursor: pointer;
   border-radius: 8px;
-  background: var(--image-background-color);
 }
 
 /* .icon-div {
