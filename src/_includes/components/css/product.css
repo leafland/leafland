@@ -239,7 +239,6 @@ body.lightbox-open #image-lightbox {
 }
 
 #image-lightbox-div img {
-  background: var(--image-background-color);
   max-height: 85vh;
   max-width: 85vw;
   border-radius: 16px;
