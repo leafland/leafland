@@ -350,6 +350,18 @@ body.loggedIn .retail-price {
   border-radius: 8px;
 }
 
+#next-prev {
+  grid-template-columns: auto auto;
+  width: max-content;
+  gap: 0.5rem;
+}
+
+#image-lightbox-prev,
+#image-lightbox-next {
+  grid-row-start: 1;
+  width: max-content;
+}
+
 @media (min-width: 800px) {
   #taxonomy-inner {
     grid-template-columns: 1fr 1fr;
