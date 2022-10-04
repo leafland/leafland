@@ -212,6 +212,20 @@ main {
   background: #000000;
 }
 
+.thumb-image-div {
+  display: grid;
+  place-self: center;
+  place-items: center;
+}
+
+.thumb-image-div > * {
+  grid-area: 1 / 1;
+}
+
+.thumb-image-full {
+  z-index: -1;
+}
+
 #image-lightbox {
   opacity: 0;
   position: fixed;
