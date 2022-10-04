@@ -135,7 +135,7 @@ async function displayResults(results) {
     titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=75/https://files.leafland.co.nz/${results[i].mainImage}`;
+    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=75/https://files.leafland.co.nz/${results[i].mainImage}`;
     resultImage.width = "50";
     resultImage.height = "50";
     resultImage.loading = "lazy";

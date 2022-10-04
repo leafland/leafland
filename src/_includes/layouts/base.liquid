@@ -94,9 +94,9 @@
     {% endif %}
 
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}">
     {% elsif type == 'index' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=2000/https://files.leafland.co.nz/tree-planting-estate.jpg">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=2000/https://files.leafland.co.nz/tree-planting-estate.jpg">
     {% endif %}
 
     <style>
@@ -287,7 +287,7 @@
               }
             ],
 
-            "image": "https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=1500/https://files.leafland.co.nz/{{ mainImage }}",
+            "image": "https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1500/https://files.leafland.co.nz/{{ mainImage }}",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {

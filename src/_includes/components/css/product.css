@@ -71,10 +71,19 @@ main {
   grid-template-rows: 1fr;
 }
 
-#grid-content-left .main-img {
+#grid-content-left > * {
+  grid-area: 1 / 1;
+}
+
+#grid-content-left .main-img,
+#grid-content-left .main-img-low {
   border-radius: 16px;
   object-fit: cover;
   height: 100%;
+}
+
+#grid-content-left .main-img-low {
+  z-index: 1;
 }
 
 .images {
@@ -229,18 +238,25 @@ body.lightbox-open #image-lightbox {
 
 #image-lightbox-div {
   display: grid;
-  width: 100%;
-  height: 100%;
-  place-content: center;
-  overflow: hidden;
-  max-width: 80rem;
-  justify-self: center;
+  place-self: center;
+  place-items: center;
+}
+
+#image-lightbox-div > * {
+  grid-area: 1 / 1;
 }
 
 #image-lightbox-div img {
-  max-height: 85vh;
-  max-width: 85vw;
   border-radius: 16px;
+  object-fit: cover;
+  max-height: 80vh;
+  max-width: 80vw;
+  width: 100%;
+  height: 100%;
+}
+
+#image-lightbox-div img#lightbox-image-low {
+  z-index: 1;
 }
 
 #image-lightbox-close {

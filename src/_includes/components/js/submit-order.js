@@ -149,7 +149,7 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,quality=75,width=150/https://files.leafland.co.nz/${tree.mainImage}`;
+    treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/${tree.mainImage}`;
     treeImage.width = "150";
     treeImage.height = "150";
     treeImage.alt = `${tree.url
