@@ -28,6 +28,8 @@ async function search(terms) {
       " " +
       tree.otherCommonNames +
       " " +
+      tree.synonyms +
+      " " +
       tree.origin +
       " " +
       tree.uses +
@@ -73,23 +75,6 @@ async function search(terms) {
       tree.fruit.winter +
       " " +
       tree.fruit.spring;
-
-    for (let j = 0; j < tree.synonyms.length; j++) {
-      searchString +=
-        tree.synonyms[j].genus +
-        " " +
-        tree.synonyms[j].species +
-        " " +
-        tree.synonyms[j].hybrid +
-        " " +
-        tree.synonyms[j].subspecies +
-        " " +
-        tree.synonyms[j].variety +
-        " " +
-        tree.synonyms[j].form +
-        " " +
-        tree.synonyms[j].cultivar;
-    }
 
     for (let i = 0; i < terms.length; i++) {
       if (
