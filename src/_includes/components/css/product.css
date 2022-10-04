@@ -93,7 +93,22 @@ main {
   grid-template-rows: repeat(auto-fit, 75px);
 }
 
-.thumb-image {
+.thumb-image-div {
+  display: grid;
+  place-self: center;
+  place-items: center;
+}
+
+.thumb-image-div > * {
+  grid-area: 1 / 1;
+}
+
+.thumb-image-full {
+  z-index: -1;
+}
+
+.thumb-image,
+.thumb-image-low {
   object-fit: cover;
   width: 75px;
   height: 75px;
@@ -210,20 +225,6 @@ main {
 }
 .black {
   background: #000000;
-}
-
-.thumb-image-div {
-  display: grid;
-  place-self: center;
-  place-items: center;
-}
-
-.thumb-image-div > * {
-  grid-area: 1 / 1;
-}
-
-.thumb-image-full {
-  z-index: -1;
 }
 
 #image-lightbox {
