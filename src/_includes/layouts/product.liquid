@@ -686,9 +686,11 @@ type: product
         </div>
 
         {% for image in tree.images %}
+
+        {% assign imageInfo = image | split: "&" %}
         <div class="thumb-image-div">
-            <img class="thumb-image-low" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=1,width=50,blur=5/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ url | replace: '-', ' ' }}" id="thumb-image-low-{{forloop.index}}" loading="eager">
-            <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/{{ image.src }}" width="75" height="75" alt="{{ image.alt }}" class="thumb-image-full" onload="document.querySelector('#thumb-image-low-{{forloop.index}}').style.setProperty('display','none')" loading="lazy">
+            <img class="thumb-image-low" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=1,width=50,blur=5/https://files.leafland.co.nz/{{ imageInfo[0] }}" width="75" height="75" alt="{{ imageInfo[1] }}" id="thumb-image-low-{{forloop.index}}" loading="eager">
+            <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/{{ imageInfo[0] }}" width="75" height="75" alt="{{ imageInfo[1] }}" class="thumb-image-full" onload="document.querySelector('#thumb-image-low-{{forloop.index}}').style.setProperty('display','none')" loading="lazy">
         </div>
         {% endfor %}
 
