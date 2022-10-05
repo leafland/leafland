@@ -62,5 +62,41 @@ if (
 document
   .querySelector("#subscribe-form")
   .addEventListener("submit", (event) => {
+    event.preventDefault();
     document.querySelector("#subscribe").value = "Subscribing...";
+
+    const externalBody = JSON.stringify({
+      from_email: "administrator@leafland.co.nz",
+      from_name: "Admin | Leafland",
+      to_email: "joshua@leafland.co.nz",
+      to_name: "Joshua | Leafland",
+      reply_to_email: "administrator@leafland.co.nz",
+      reply_to_name: "Admin | Leafland",
+      subject: "New Subscriber",
+      text: "",
+      headers: {},
+      html: `<!DOCTYPE html><html><head><body>Name: ${event.target.firstName.value}, Email: ${event.target.email.value}</body></html>`,
+    });
+
+    const externalRequestOptions = {
+      method: "POST",
+      body: externalBody,
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
+      },
+    };
+
+    (async function () {
+      await fetch(
+        "https://webapi.inboxroad.com/api/v1/messages/",
+        externalRequestOptions
+      )
+        .then((response) => {
+          document.querySelector(
+            "#email-signup"
+          ).innerHTML = `<p>Thanks for subscribing!</p>`;
+        })
+        .catch((error) => {});
+    })();
   });

@@ -4,29 +4,29 @@
 
             <div id="email-signup">
 
-                <form action="https://www.getdrip.com/forms/544863991/submissions" method="post" data-drip-embedded-form="544863991" id="subscribe-form">
-                    <p class="paragraph-title" data-drip-attribute="description">Subscribe for weekly inspiration and product lists!</p>
+                <form id="subscribe-form">
+                    <p class="paragraph-title">Subscribe for weekly inspiration and product lists!</p>
 
                     <div id="signup-form-inner">
 
                         <div>
-                            <label for="drip-first-name">First Name</label>
-                            <input type="text" id="drip-first-name" name="fields[first_name]" value="">
+                            <label for="firstName">First Name</label>
+                            <input type="text" id="firstName" name="firstName" value="">
                         </div>
 
                         <div>
-                            <label for="drip-email">Email Address</label>
-                            <input type="email" id="drip-email" name="fields[email]" value="">
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email" value="">
                         </div>
 
 
-                        <div style="display: none;" aria-hidden="true">
+                        {% comment %} <div style="display: none;" aria-hidden="true">
                             <label for="website">Website</label>
                             <input type="text" id="website" name="website" tabindex="-1" autocomplete="false" value="">
                         </div>
-                        <input type="hidden" name="tags[]" id="tags_" value="weekly-product-list" tabindex="-1">
+                        <input type="hidden" name="tags[]" id="tags_" value="weekly-product-list" tabindex="-1"> {% endcomment %}
 
-                        <input type="submit" value="Subscribe" data-drip-attribute="sign-up-button" id="subscribe">
+                        <input type="submit" value="Subscribe" id="subscribe">
 
                     </div>
                 </form>
