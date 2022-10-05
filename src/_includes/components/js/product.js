@@ -409,10 +409,23 @@ function addEventListeners() {
       document
         .querySelector("#date-taken-div")
         .style.setProperty("display", "inline-block");
+      lightboxImage = document.querySelector("#lightbox-image");
+      lightboxImageLow = document.querySelector("#lightbox-image-low");
+      lightboxImage.src = "";
+      lightboxImageLow.src = "";
+      lightboxImageLow.style.setProperty("display", "inline-block");
+      lightboxImage.style.setProperty("display", "none");
 
       let info = gradeImage.dataset.info.split("&");
 
-      imageLightboxInner.innerHTML = `<img src='https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1500/https://files.leafland.co.nz/${info[0]}' height="1500" width="1500" alt="${info[1]}">`;
+      lightboxImageLow.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=1,width=1500,blur=100/https://files.leafland.co.nz/${info[0]}`;
+
+      lightboxImageLow.alt = info[1];
+
+      lightboxImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1500/https://files.leafland.co.nz/${info[0]}`;
+
+      lightboxImage.alt = info[1];
+
       document.body.classList.add("lightbox-open");
       imageLightbox.style.setProperty("z-index", "9");
 

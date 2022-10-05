@@ -16,12 +16,14 @@
 
                 {% for gradeImage in tree.gradeImages %}
 
-                {% if gradeImage.dateTaken.size > 0 %}
+                {% assign gradeInfo = gradeImage | split: "&" %}
 
-                <div class="grade-size-div" data-info="{{ gradeImage.src }}&{{ gradeImage.alt }}&{{ gradeImage.dateTaken }}&{{gradeImage.grade}}">
+                {% if gradeInfo[3] != "NONE" %}
 
-                    <span class="grade-size-grade">View {{gradeImage.grade}}</span>
-                    <img data-grade="{{gradeImage.grade}}" class="grade-size-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=300/https://files.leafland.co.nz/{{ gradeImage.src }}" height="300" width="300" alt="{{ gradeImage.alt }}">
+                <div class="grade-size-div" data-info="{{ gradeInfo[1] }}&{{ gradeInfo[2] }}&{{ gradeInfo[3] }}&{{gradeInfo[0]}}">
+
+                    <span class="grade-size-grade">View {{gradeInfo[0]}}</span>
+                    <img data-grade="{{gradeInfo[0]}}" class="grade-size-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=300/https://files.leafland.co.nz/{{ gradeInfo[1] }}" height="300" width="300" alt="{{ gradeInfo[3] }}">
 
                 </div>
                 {% endif %}
