@@ -1,0 +1,59 @@
+---
+layout: layouts/base.liquid
+type: product-list
+---
+
+<div id="content">
+
+    <h1>{{ title }}</h1>
+
+    <div id="tree-wrapper">
+    
+        {% for tree in productLists.trees %}
+
+        <div class="tree-item">
+
+            <div class="title-container">
+                
+                <h2>{{ tree.botanicalName }}</h2>
+                
+                <h3>{{ tree.commonName }}</h3>
+                
+            </div>
+
+            <p>{{ tree.description }}</p>
+
+            <div class="stock-div">
+                {% for stock in tree.stock %}
+                <p>{{ stock }}</p>
+                {% endfor %}
+            </div>
+            
+            {% if tree.url != 'NONE' %}
+            <a href="/trees/{{ tree.url }}/" class="button">Order Now</a>
+            {% endif %}
+
+            <div class="image-div">
+
+                {% for image in tree.images %}
+
+                    {% assign imageData = image | split: "&" %}
+
+                    <div class="image-group">
+                        <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=750/https://files.leafland.co.nz/{{ imageData[0] }}" width="750" height="750">
+                        {% if imageData[1] != 'NONE' %}
+                        <span class="image-group-text">{{ imageData[1] }}</span>
+                        {% endif %}
+                    </div>
+
+                {% endfor %}
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+    
+    </div>
+
+</div>

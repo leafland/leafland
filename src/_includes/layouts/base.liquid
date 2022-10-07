@@ -4,6 +4,9 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="{{ description | escape }}"/>
+    {% if type == 'product-list' %}
+    <meta name="robots" content="noindex"/>
+    {% endif %}
 
     {% if type == "index" %}
     
@@ -151,6 +154,16 @@
       {% include "components/css/submit-order.min.css" %}
       {% include "components/css/search.min.css" %}
       {% include "components/css/top-trees.min.css" %}
+
+      {% elsif type == 'product-list' %}
+      {% include "components/css/main.min.css" %}
+      {% include "components/css/login.min.css" %}
+      {% include "components/css/menu.min.css" %}
+      {% include "components/css/order.min.css" %}
+      {% include "components/css/order-sent.min.css" %}
+      {% include "components/css/submit-order.min.css" %}
+      {% include "components/css/search.min.css" %}
+      {% include "components/css/product-lists.min.css" %}
 
     {% elsif type == 'stock-list' %}
       {% include "components/css/main.min.css" %}
@@ -399,6 +412,14 @@
 {% include "components/js/search.min.js" %}
 
     {% elsif type == 'top-trees' %}
+{% include "components/js/main.min.js" %}
+{% include "components/js/login.min.js" %}
+{% include "components/js/menu.min.js" %}
+{% include "components/js/order.min.js" %}
+{% include "components/js/submit-order.min.js" %}
+{% include "components/js/search.min.js" %}
+
+{% elsif type == 'product-list' %}
 {% include "components/js/main.min.js" %}
 {% include "components/js/login.min.js" %}
 {% include "components/js/menu.min.js" %}

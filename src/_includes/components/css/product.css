@@ -301,21 +301,6 @@ body.lightbox-open #image-lightbox {
   width: max-content;
 }
 
-.wholesale-price {
-  display: none;
-}
-
-.retail-price {
-  display: block;
-}
-
-body.loggedIn .wholesale-price {
-  display: block;
-}
-body.loggedIn .retail-price {
-  display: none;
-}
-
 .tree-image {
   width: 100%;
   height: 100%;

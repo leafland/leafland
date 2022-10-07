@@ -464,6 +464,21 @@ body.filter-open {
   cursor: pointer;
 }
 
+.wholesale-price {
+  display: none;
+}
+
+.retail-price {
+  display: inline-block;
+}
+
+body.loggedIn .wholesale-price {
+  display: inline-block;
+}
+body.loggedIn .retail-price {
+  display: none;
+}
+
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,
   .button:hover,
