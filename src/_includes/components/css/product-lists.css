@@ -37,14 +37,7 @@ main {
 
 .tree-item h2 {
   text-align: left;
-  font-weight: 700;
-}
-
-.tree-item h3 {
-  text-align: left;
-  float: left;
-  margin-top: 0.4rem;
-  font-weight: 500;
+  font-weight: 900;
 }
 
 #tree-wrapper {
@@ -55,6 +48,22 @@ main {
 
 .bold {
   font-weight: 700;
+}
+
+.title-container {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.title-container p {
+  font-size: var(--font-size-2);
+  display: inline-block;
+  font-weight: 700;
+  background: var(--invert-background-color);
+  color: var(--invert-text-color);
+  width: max-content;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
 }
 
 @media (hover: hover) and (pointer: fine) {

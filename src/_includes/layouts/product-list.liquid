@@ -5,8 +5,10 @@ type: product-list
 
 <div id="content">
 
-    <p>{{ date }}</p>
-    <h1>Product List</h1>
+    <div class="title-container">
+        <p>{{ date }}</p>
+        <h1>Product List</h1>
+    </div>
 
     <div id="tree-wrapper">
     
@@ -15,10 +17,10 @@ type: product-list
         <div class="tree-item">
 
             <div class="title-container">
+
+                <p>{{ tree.commonName }}</p>
                 
                 <h2>{{ tree.botanicalName }}</h2>
-                
-                <h3>{{ tree.commonName }}</h3>
                 
             </div>
 
