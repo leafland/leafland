@@ -29,6 +29,7 @@ main {
 .image-group {
   display: grid;
   gap: 0.5rem;
+  height:max-content
 }
 
 .image-group-text {
