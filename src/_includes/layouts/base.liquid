@@ -14,76 +14,7 @@
 
     {% elsif type == "product"%}
 
-      {% if tree.cultivar.size > 0 %}
-
-            {% if tree.form.size > 0 %}
-
-            <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-            {% elsif tree.variety.size > 0 %}
-
-            <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-            {% elsif tree.subspecies.size > 0 %}
-
-            <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-            {% elsif tree.hybrid.size > 0 %}
-
-            {% if tree.hybrid contains ' x ' %}
-
-            <title>{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-            {% else %}
-
-            <title>{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-            {% endif %}
-
-            {% else %}
-
-              {% if tree.species.size > 0 %}
-
-              <title>{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-
-              {% else %}
-
-              <title>{{ tree.genus }} '{{ tree.cultivar }}' | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-              {% endif %}
-
-            {% endif %}
-
-        {% elsif tree.form.size > 0 %}
-
-        <title>{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-        {% elsif tree.variety.size > 0 %}
-
-        <title>{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-        {% elsif tree.subspecies.size > 0 %}
-
-        <title>{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-        {% elsif tree.hybrid.size > 0 %}
-
-        {% if tree.hybrid contains ' x ' %}
-
-        <title>{{ tree.genus }} {{ tree.hybrid }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-        {% else %}
-
-        <title>{{ tree.genus }} x {{ tree.hybrid }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-        {% endif %}
-
-        {% else %}
-
-        <title>{{ tree.genus }} {{ tree.species }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
-
-      {% endif %}
+    <title>{{ tree.fullName | strip_html }} | {{ tree.commonName }} - Leafland Tree Nursery | Buy Trees Online | Quality Specimen Trees</title>
 
     {% else %}
     
@@ -187,73 +118,7 @@
           {
             "@context": "https://schema.org/",
             "@type": "Product",
-            {% if tree.cultivar.size > 0 %}
-
-              {% if tree.form.size > 0 %}
-
-              "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-
-              {% elsif tree.variety.size > 0 %}
-
-              "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-
-              {% elsif tree.subspecies.size > 0 %}
-
-              "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-              {% elsif tree.hybrid.size > 0 %}
-
-              {% if tree.hybrid contains ' x ' %}
-
-              "name": "{{ tree.genus }} {{ tree.hybrid }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-
-              {% else %}
-
-              "name": "{{ tree.genus }} x {{ tree.hybrid }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-
-              {% endif %}
-
-              {% else %}
-
-                {% if tree.species.size > 0 %}
-
-                "name": "{{ tree.genus }} {{ tree.species }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-
-                {% else %}
-
-                "name": "{{ tree.genus }} '{{ tree.cultivar }}' | {{ tree.commonName }}",
-                {% endif %}
-
-              {% endif %}
-
-            {% elsif tree.form.size > 0 %}
-
-            "name": "{{ tree.genus }} {{ tree.species }} f. {{ tree.form }} | {{ tree.commonName }}",
-
-            {% elsif tree.variety.size > 0 %}
-
-            "name": "{{ tree.genus }} {{ tree.species }} var. {{ tree.variety }}  | {{ tree.commonName }}",
-
-            {% elsif tree.subspecies.size > 0 %}
-
-            "name": "{{ tree.genus }} {{ tree.species }} subsp. {{ tree.subspecies }} | {{ tree.commonName }}",
-
-            {% elsif tree.hybrid.size > 0 %}
-
-            {% if tree.hybrid contains ' x ' %}
-
-            "name": "{{ tree.genus }} {{ tree.hybrid }} | {{ tree.commonName }}",
-
-            {% else %}
-
-            "name": "{{ tree.genus }} x {{ tree.hybrid }} | {{ tree.commonName }}",
-
-            {% endif %}
-
-            {% else %}
-
-            "name": "{{ tree.genus }} {{ tree.species }} | {{ tree.commonName }}",
-
-          {% endif %}
+            "name": "{{ tree.fullName | strip_html }} | {{ tree.commonName }}",
 
           {% assign min = 10 %}
           {% assign max = 100 %}
