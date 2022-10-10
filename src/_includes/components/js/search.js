@@ -87,8 +87,10 @@ async function search(terms) {
           .replace(/ō/g, "o")
           .replace(/ū/g, "u")
           .replace(/ä/g, "a")
+          .replace(/'/g, "")
+          .replace(/"/g, "")
           .toLowerCase()
-          .includes(terms[i])
+          .includes(terms[i].replace(/'/g, "").replace(/"/g, ""))
       ) {
         count += 1;
       }
