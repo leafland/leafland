@@ -58,9 +58,9 @@ select {
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
     "Helvetica Neue", Arial, sans-serif;
 
-  --accent-color: hsl(128, 80%, 33%);
+  --accent-color: #119723;
 
-  --brand-color: hsl(128, 80%, 33%);
+  --brand-color: #119723;
 
   --text-color: #eee;
 
