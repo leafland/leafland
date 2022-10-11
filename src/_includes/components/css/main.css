@@ -430,9 +430,11 @@ footer p {
 }
 
 #footer-links {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr;
-  grid-gap: 1rem;
+  grid-gap: 2rem 7rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 #footer-links p {
@@ -582,10 +584,6 @@ body.loggedIn .retail-price {
 }
 
 @media (min-width: 1050px) {
-  div#footer-links {
-    grid-template-columns: repeat(3, auto);
-  }
-
   #footer-links p:first-child {
     text-align: left;
   }
