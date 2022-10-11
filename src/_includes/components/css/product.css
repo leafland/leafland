@@ -9,19 +9,6 @@ main {
   gap: 5rem;
 }
 
-#top-bar {
-  padding: 1rem;
-  text-align: center;
-  background: var(--background-color);
-  color: var(--text-color);
-  font-weight: 700;
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  z-index: 9999;
-}
-
 .tree-botanical-name {
   font-size: var(--font-size-7);
   font-weight: 900;
