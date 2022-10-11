@@ -430,15 +430,13 @@ footer p {
 }
 
 #footer-links {
-  display: flex;
+  display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 2rem 7rem;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  grid-gap: 3rem;
 }
 
 #footer-links p {
-  text-align: center;
+  text-align: left;
   font-size: var(--font-size-3);
 }
 
@@ -584,13 +582,6 @@ body.loggedIn .retail-price {
 }
 
 @media (min-width: 1050px) {
-  #footer-links p:first-child {
-    text-align: left;
-  }
-
-  #footer-links p:last-child {
-    text-align: right;
-  }
   #header {
     gap: 4rem;
   }
@@ -599,6 +590,24 @@ body.loggedIn .retail-price {
 @media (min-width: 1200px) {
   #header {
     gap: 7rem;
+  }
+}
+
+@media (min-width: 1250px) {
+  div#footer-links {
+    grid-template-columns: repeat(4, auto);
+  }
+
+  #footer-links p {
+    text-align: center;
+  }
+
+  #footer-links p:first-child {
+    text-align: left;
+  }
+
+  #footer-links p:last-child {
+    text-align: right;
   }
 }
 
