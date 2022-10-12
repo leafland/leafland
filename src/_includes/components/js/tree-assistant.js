@@ -47,7 +47,7 @@ document.querySelector("#start-assistant").addEventListener("click", () => {
 
   document.querySelector("#assistant-counter").style.setProperty("display", "grid");
 
-  assistantQuestions.innerHTML = `<h2>Would you like a native or exotic tree?</h2>`;
+  assistantQuestions.innerHTML = `<h2>Should your tree be <span class="accent-color">native</span> or <span class="accent-color">exotic</span>?</h2>`;
 
   document.querySelector("#assistant-origin").style.setProperty("display", "grid");
 });
@@ -60,7 +60,7 @@ document.querySelector("#origin-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>Would type of winter foliage should your tree have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What type of <span class="accent-color">winter foliage</span> should your tree have?</h2>`;
 
   document.querySelector("#assistant-winterFoliage").style.setProperty("display", "grid");
 });
@@ -73,7 +73,7 @@ document.querySelector("#winterFoliage-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What climate condition(s) does the planting site have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What <span class="accent-color">climatic condition(s)</span> does your planting site have?</h2>`;
 
   document.querySelector("#assistant-tolerates").style.setProperty("display", "grid");
 });
@@ -86,7 +86,7 @@ document.querySelector("#tolerates-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What soil type(s) does the planting site have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What <span class="accent-color">soil type(s)</span> does your planting site have?</h2>`;
 
   document.querySelector("#assistant-soilType").style.setProperty("display", "grid");
 });
@@ -99,7 +99,7 @@ document.querySelector("#soilType-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>How tall do you want the tree to grow?</h2><p>You can select multiple heights to see more tree options if you don't need the tree to grow to an exact height.</p>`;
+  assistantQuestions.innerHTML = `<h2>How <span class="accent-color">tall</span> should your tree grow?</h2><p>You can select multiple heights to see more tree options if you don't need the tree to grow to an exact height.</p>`;
 
   document.querySelector("#assistant-height").style.setProperty("display", "grid");
 });
@@ -112,7 +112,7 @@ document.querySelector("#height-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>How wide do you want the tree to grow?</h2><p>You can select multiple widths to see more tree options if you don't need the tree to grow to an exact width.</p>`;
+  assistantQuestions.innerHTML = `<h2>How <span class="accent-color">wide</span> should your tree grow?</h2><p>You can select multiple widths to see more tree options if you don't need the tree to grow to an exact width.</p>`;
 
   document.querySelector("#assistant-width").style.setProperty("display", "grid");
 });
@@ -125,7 +125,7 @@ document.querySelector("#width-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What specific uses do you have for the tree?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What specific <span class="accent-color">uses</span> do you have for your tree?</h2>`;
 
   document.querySelector("#assistant-uses").style.setProperty("display", "grid");
 });
@@ -138,7 +138,7 @@ document.querySelector("#uses-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What types?</h2>`;
+  assistantQuestions.innerHTML = `<h2>Are there any specific <span class="accent-color">types</span> you want your tree to be?</h2>`;
 
   document.querySelector("#assistant-types").style.setProperty("display", "grid");
 });
@@ -151,7 +151,7 @@ document.querySelector("#types-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>How much sun does the planting site get?</h2>`;
+  assistantQuestions.innerHTML = `<h2>How much <span class="accent-color">sun</span> does your planting site get?</h2>`;
 
   document.querySelector("#assistant-sunAndShade").style.setProperty("display", "grid");
 });
@@ -164,7 +164,7 @@ document.querySelector("#sunAndShade-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>When do you want the tree to fruit?</h2>`;
+  assistantQuestions.innerHTML = `<h2>When should your tree <span class="accent-color">fruit</span>?</h2>`;
 
   document.querySelector("#assistant-fruitingSeason").style.setProperty("display", "grid");
 });
@@ -177,7 +177,7 @@ document.querySelector("#fruitingSeason-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>When do you want the tree to flower?</h2>`;
+  assistantQuestions.innerHTML = `<h2>When should your tree <span class="accent-color">flower</span>?</h2>`;
 
   document.querySelector("#assistant-floweringSeason").style.setProperty("display", "grid");
 });
@@ -190,7 +190,7 @@ document.querySelector("#floweringSeason-next").addEventListener("click", () => 
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What colour flowers do you want the tree to have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What <span class="accent-color">flower colour</span> should your tree have?</h2>`;
 
   document.querySelector("#assistant-flowerColour").style.setProperty("display", "grid");
 });
@@ -203,7 +203,7 @@ document.querySelector("#flowerColour-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What autumn foliage colour do you want the tree to have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What <span class="accent-color">autumn foliage colour</span> should your tree have?</h2>`;
 
   document.querySelector("#assistant-autumnColour").style.setProperty("display", "grid");
 });
@@ -216,7 +216,7 @@ document.querySelector("#autumnColour-next").addEventListener("click", () => {
   filterTreeData();
   treeOptionCount.textContent = filteredTrees.length;
 
-  assistantQuestions.innerHTML = `<h2>What foliage colour do you want the tree to have?</h2>`;
+  assistantQuestions.innerHTML = `<h2>What <span class="accent-color">foliage colour</span> should your tree have?</h2>`;
 
   document.querySelector("#assistant-foliageColour").style.setProperty("display", "grid");
 });
@@ -230,7 +230,7 @@ document.querySelector("#foliageColour-next").addEventListener("click", () => {
 
   document.querySelector("#assistant-counter").style.setProperty("display", "none");
 
-  assistantQuestions.innerHTML = `<h2>Here are tree options that could work for you.</h2>`;
+  assistantQuestions.innerHTML = `<h2>Here are the tree options that could work for you.</h2>`;
 
   assistantResults.style.setProperty("display", "grid");
 

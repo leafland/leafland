@@ -176,6 +176,10 @@ p#no-products {
   gap: 2rem;
 }
 
+#assistant-counter {
+  font-weight: 600;
+}
+
 .assistant-options-div {
   gap: 3rem;
 }
