@@ -184,6 +184,16 @@ p#no-products {
   gap: 3rem;
 }
 
+.assistant-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+#start-again {
+  width: max-content;
+}
+
 @media (min-width: 650px) {
   .title-link-box {
     padding: 2rem;

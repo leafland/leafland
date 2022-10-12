@@ -84,6 +84,17 @@ document.querySelector("#winterFoliage-next").addEventListener("click", () => {
   document.querySelector("#assistant-tolerates").style.setProperty("display", "grid");
 });
 
+document.querySelector("#tolerates-back").addEventListener("click", () => {
+  addFilterInputs("tolerates");
+
+  document.querySelector("#assistant-tolerates").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-winterFoliage").style.setProperty("display", "grid");
+});
+
 document.querySelector("#tolerates-next").addEventListener("click", () => {
   addFilterInputs("tolerates");
 
@@ -93,6 +104,17 @@ document.querySelector("#tolerates-next").addEventListener("click", () => {
   treeOptionCount.textContent = filteredTrees.length;
 
   document.querySelector("#assistant-soilType").style.setProperty("display", "grid");
+});
+
+document.querySelector("#soilType-back").addEventListener("click", () => {
+  addFilterInputs("soilType");
+
+  document.querySelector("#assistant-soilType").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-tolerates").style.setProperty("display", "grid");
 });
 
 document.querySelector("#soilType-next").addEventListener("click", () => {
@@ -106,6 +128,17 @@ document.querySelector("#soilType-next").addEventListener("click", () => {
   document.querySelector("#assistant-height").style.setProperty("display", "grid");
 });
 
+document.querySelector("#height-back").addEventListener("click", () => {
+  addFilterInputs("height");
+
+  document.querySelector("#assistant-height").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-soilType").style.setProperty("display", "grid");
+});
+
 document.querySelector("#height-next").addEventListener("click", () => {
   addFilterInputs("height");
 
@@ -115,6 +148,17 @@ document.querySelector("#height-next").addEventListener("click", () => {
   treeOptionCount.textContent = filteredTrees.length;
 
   document.querySelector("#assistant-width").style.setProperty("display", "grid");
+});
+
+document.querySelector("#width-back").addEventListener("click", () => {
+  addFilterInputs("width");
+
+  document.querySelector("#assistant-width").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-height").style.setProperty("display", "grid");
 });
 
 document.querySelector("#width-next").addEventListener("click", () => {
@@ -128,6 +172,17 @@ document.querySelector("#width-next").addEventListener("click", () => {
   document.querySelector("#assistant-uses").style.setProperty("display", "grid");
 });
 
+document.querySelector("#uses-back").addEventListener("click", () => {
+  addFilterInputs("uses");
+
+  document.querySelector("#assistant-uses").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-width").style.setProperty("display", "grid");
+});
+
 document.querySelector("#uses-next").addEventListener("click", () => {
   addFilterInputs("uses");
 
@@ -137,6 +192,19 @@ document.querySelector("#uses-next").addEventListener("click", () => {
   treeOptionCount.textContent = filteredTrees.length;
 
   document.querySelector("#assistant-types").style.setProperty("display", "grid");
+});
+
+document.querySelector("#types-back").addEventListener("click", () => {
+  addFilterInputs("types");
+
+  document.querySelector("#assistant-types").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  assistantQuestions.innerHTML = ``;
+
+  document.querySelector("#assistant-uses").style.setProperty("display", "grid");
 });
 
 document.querySelector("#types-next").addEventListener("click", () => {
@@ -152,6 +220,17 @@ document.querySelector("#types-next").addEventListener("click", () => {
   document.querySelector("#assistant-sunAndShade").style.setProperty("display", "grid");
 });
 
+document.querySelector("#sunAndShade-back").addEventListener("click", () => {
+  addFilterInputs("sunAndShade");
+
+  document.querySelector("#assistant-sunAndShade").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-types").style.setProperty("display", "grid");
+});
+
 document.querySelector("#sunAndShade-next").addEventListener("click", () => {
   addFilterInputs("sunAndShade");
 
@@ -161,6 +240,17 @@ document.querySelector("#sunAndShade-next").addEventListener("click", () => {
   treeOptionCount.textContent = filteredTrees.length;
 
   document.querySelector("#assistant-fruitingSeason").style.setProperty("display", "grid");
+});
+
+document.querySelector("#fruitingSeason-back").addEventListener("click", () => {
+  addFilterInputs("fruitingSeason");
+
+  document.querySelector("#assistant-fruitingSeason").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-sunAndShade").style.setProperty("display", "grid");
 });
 
 document.querySelector("#fruitingSeason-next").addEventListener("click", () => {
@@ -174,6 +264,17 @@ document.querySelector("#fruitingSeason-next").addEventListener("click", () => {
   document.querySelector("#assistant-floweringSeason").style.setProperty("display", "grid");
 });
 
+document.querySelector("#floweringSeason-back").addEventListener("click", () => {
+  addFilterInputs("floweringSeason");
+
+  document.querySelector("#assistant-floweringSeason").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-fruitingSeason").style.setProperty("display", "grid");
+});
+
 document.querySelector("#floweringSeason-next").addEventListener("click", () => {
   addFilterInputs("floweringSeason");
 
@@ -183,6 +284,17 @@ document.querySelector("#floweringSeason-next").addEventListener("click", () => 
   treeOptionCount.textContent = filteredTrees.length;
 
   document.querySelector("#assistant-flowerColour").style.setProperty("display", "grid");
+});
+
+document.querySelector("#flowerColour-back").addEventListener("click", () => {
+  addFilterInputs("flowerColour");
+
+  document.querySelector("#assistant-flowerColour").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-floweringSeason").style.setProperty("display", "grid");
 });
 
 document.querySelector("#flowerColour-next").addEventListener("click", () => {
@@ -196,6 +308,17 @@ document.querySelector("#flowerColour-next").addEventListener("click", () => {
   document.querySelector("#assistant-autumnColour").style.setProperty("display", "grid");
 });
 
+document.querySelector("#autumnColour-back").addEventListener("click", () => {
+  addFilterInputs("autumnColour");
+
+  document.querySelector("#assistant-autumnColour").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-flowerColour").style.setProperty("display", "grid");
+});
+
 document.querySelector("#autumnColour-next").addEventListener("click", () => {
   addFilterInputs("autumnColour");
 
@@ -207,6 +330,17 @@ document.querySelector("#autumnColour-next").addEventListener("click", () => {
   document.querySelector("#assistant-foliageColour").style.setProperty("display", "grid");
 });
 
+document.querySelector("#foliageColour-back").addEventListener("click", () => {
+  addFilterInputs("foliageColour");
+
+  document.querySelector("#assistant-foliageColour").style.setProperty("display", "none");
+
+  filterTreeData();
+  treeOptionCount.textContent = filteredTrees.length;
+
+  document.querySelector("#assistant-autumnColour").style.setProperty("display", "grid");
+});
+
 document.querySelector("#foliageColour-next").addEventListener("click", () => {
   addFilterInputs("foliageColour");
 
@@ -216,7 +350,28 @@ document.querySelector("#foliageColour-next").addEventListener("click", () => {
 
   document.querySelector("#assistant-counter").style.setProperty("display", "none");
 
-  assistantQuestions.innerHTML = `<h2>Here are the tree options that could work for you.</h2>`;
+  assistantQuestions.innerHTML = `<h2>Here are the tree options that could work for you.</h2><button id="start-again">Start Again</button>`;
+
+  document.querySelector("#start-again").addEventListener("click", () => {
+    document.querySelectorAll(".options-group-option").forEach((option) => {
+      if (option.querySelector(".filter-input").checked === true) {
+        option.querySelector(".filter-input").checked = false;
+        option.classList.remove("option-selected");
+      }
+      addFilterInputs(option.dataset.group);
+    });
+
+    filterTreeData();
+    treeOptionCount.textContent = filteredTrees.length;
+
+    assistantQuestions.style.setProperty("display", "none");
+
+    assistantResults.style.setProperty("display", "none");
+
+    document.querySelector("#assistant-counter").style.setProperty("display", "grid");
+
+    document.querySelector("#assistant-origin").style.setProperty("display", "grid");
+  });
 
   assistantQuestions.style.setProperty("display", "grid");
 
