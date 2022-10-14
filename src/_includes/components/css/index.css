@@ -44,7 +44,7 @@ main h3 {
 }
 
 #surface-content {
-  z-index: 2;
+  z-index: 1;
   padding: 2rem;
   display: grid;
   place-content: center;
