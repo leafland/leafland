@@ -11,7 +11,6 @@ let total;
 let freightTotal = document.querySelector("#freight-total");
 let treeTotal = document.querySelector("#tree-total");
 let orderTotal = document.querySelector("#order-total");
-let freightPriceEmail = "";
 
 loggedIn ? (total = totalWholesaleCost) : (total = totalRetailCost);
 
@@ -173,16 +172,13 @@ async function populateForm() {
       if (freightPriceValue === "P.O.A") {
         poaGrade = true;
         freightPrice.innerHTML = `<p class="freight-price" data-freight-price="P.O.A">Freight per tree: <span class="accent-color">P.O.A</span></p>`;
-        freightPriceEmail = "P.O.A";
       } else {
         freightPrice.innerHTML = `<p class="freight-price" data-freight-price="${freightPriceValue}">Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
-        freightPriceEmail = freightPriceValue;
 
         totalFreight += parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
       }
     } else {
       freightPrice.innerHTML = `<p class="freight-price" data-freight-price="-">Freight per tree: <span class="accent-color">-</span></p>`;
-      freightPriceEmail = "-";
     }
   });
 
