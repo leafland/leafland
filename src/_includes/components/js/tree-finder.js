@@ -34,11 +34,7 @@ if (sessionStorage.getItem("filterSettings")) {
 
 if (filterSettings.empty === false) {
   for (let i = 0; i < inputsArray.length; i++) {
-    if (
-      filterSettings[`${inputsArray[i].dataset.category}`].includes(
-        inputsArray[i].value
-      )
-    ) {
+    if (filterSettings[`${inputsArray[i].dataset.category}`].includes(inputsArray[i].value)) {
       inputsArray[i].checked = true;
       inputsArray[i].parentNode.classList.add("option-selected");
     } else {
@@ -147,13 +143,9 @@ function createClearButton(filterInput) {
   }
 
   clearFilter.addEventListener("click", () => {
-    document.querySelector(
-      `#${CSS.escape(clearFilter.dataset.value)}`
-    ).checked = false;
+    document.querySelector(`#${CSS.escape(clearFilter.dataset.value)}`).checked = false;
 
-    document
-      .querySelector(`#${CSS.escape(clearFilter.dataset.value)}`)
-      .parentNode.classList.remove("option-selected");
+    document.querySelector(`#${CSS.escape(clearFilter.dataset.value)}`).parentNode.classList.remove("option-selected");
 
     clearFilter.style.setProperty("display", "none");
 
@@ -183,9 +175,7 @@ function createClearButton(filterInput) {
 
     for (let i = 0; i < inputsArray.length; i++) {
       if (inputsArray[i].checked === true) {
-        filterSettings[`${inputsArray[i].dataset.category}`].push(
-          inputsArray[i].value
-        );
+        filterSettings[`${inputsArray[i].dataset.category}`].push(inputsArray[i].value);
 
         filterSettings.empty = false;
       }
@@ -230,8 +220,7 @@ function createClearButton(filterInput) {
 
     let clearAll = document.createElement("button");
     clearAll.id = "clear-all";
-    clearAll.innerHTML =
-      "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
+    clearAll.innerHTML = "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
 
     clearAll.addEventListener("click", () => {
       document.querySelector("#clear-filter-buttons").innerHTML = "";
@@ -268,12 +257,7 @@ function createClearButton(filterInput) {
       resetStartEnd();
       treeWrapper.innerHTML = "";
       (async function () {
-        await populatePage(
-          treeFinderStart,
-          treeFinderEnd,
-          treeData,
-          treeFilter
-        );
+        await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
       })();
 
       treeWrapper.style.setProperty("opacity", "1");
@@ -287,12 +271,7 @@ function createClearButton(filterInput) {
   }
 })();
 
-async function populatePage(
-  treeFinderStart,
-  treeFinderEnd,
-  trees,
-  treeFilter = []
-) {
+async function populatePage(treeFinderStart, treeFinderEnd, trees, treeFilter = []) {
   let add = false;
   let treeDataSubset = [];
 
@@ -610,14 +589,8 @@ document.body.querySelector("#close-filter").addEventListener("click", () => {
     if (filterInput.checked === true) {
       treeFilter.push(filterInput.value);
 
-      if (
-        !filterSettings[`${filterInput.dataset.category}`].includes(
-          filterInput.value
-        )
-      ) {
-        filterSettings[`${filterInput.dataset.category}`].push(
-          filterInput.value
-        );
+      if (!filterSettings[`${filterInput.dataset.category}`].includes(filterInput.value)) {
+        filterSettings[`${filterInput.dataset.category}`].push(filterInput.value);
         filterSettings.empty = false;
       }
 
@@ -640,8 +613,7 @@ document.body.querySelector("#close-filter").addEventListener("click", () => {
     if (treeFilter.length > 0) {
       let clearAll = document.createElement("button");
       clearAll.id = "clear-all";
-      clearAll.innerHTML =
-        "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
+      clearAll.innerHTML = "<span class='clear-text'>Clear All Filters</span> <span class='clear-button'></span>";
 
       clearAll.addEventListener("click", () => {
         document.querySelector("#clear-filter-buttons").innerHTML = "";
@@ -674,19 +646,11 @@ document.body.querySelector("#close-filter").addEventListener("click", () => {
           autumnColour: [],
           foliageColour: [],
         };
-        sessionStorage.setItem(
-          "filterSettings",
-          JSON.stringify(filterSettings)
-        );
+        sessionStorage.setItem("filterSettings", JSON.stringify(filterSettings));
         resetStartEnd();
         treeWrapper.innerHTML = "";
         (async function () {
-          await populatePage(
-            treeFinderStart,
-            treeFinderEnd,
-            treeData,
-            treeFilter
-          );
+          await populatePage(treeFinderStart, treeFinderEnd, treeData, treeFilter);
         })();
       });
 
