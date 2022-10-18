@@ -57,30 +57,25 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
   event.preventDefault();
   document.querySelector("#subscribe").value = "Subscribing...";
 
-  const externalBody = JSON.stringify({
-    from_email: "administrator@leafland.co.nz",
-    from_name: "Admin | Leafland",
-    to_email: "joshua@leafland.co.nz",
-    to_name: "Joshua | Leafland",
-    reply_to_email: "administrator@leafland.co.nz",
-    reply_to_name: "Admin | Leafland",
+  const subscribeExternalBody = JSON.stringify({
+    fromAddress: "administrator@leafland.co.nz",
+    fromName: "Admin | Leafland",
+    toAddress: "joshua@leafland.co.nz",
+    replyToAddress: "administrator@leafland.co.nz",
+    replyToName: "Admin | Leafland",
     subject: "New Subscriber",
-    text: "",
-    headers: {},
     html: `<!DOCTYPE html><html><head><body>Name: ${event.target.firstName.value}, Email: ${event.target.email.value}</body></html>`,
+    isOpenTracked: false,
   });
 
-  const externalRequestOptions = {
+  const subscribeExternalRequestOptions = {
     method: "POST",
-    body: externalBody,
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
-    },
+    mode: "no-cors",
+    body: subscribeExternalBody,
   };
 
   (async function () {
-    await fetch("https://webapi.inboxroad.com/api/v1/messages/", externalRequestOptions)
+    await fetch("https://subscribe.leafland.co.nz", subscribeExternalRequestOptions)
       .then((response) => {
         document.querySelector("#email-signup").innerHTML = `<p>Thanks for subscribing!</p>`;
       })
