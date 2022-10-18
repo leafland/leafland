@@ -356,15 +356,12 @@ submitForm.addEventListener("submit", (event) => {
   const { name, email, phone, streetAddress, townCity, returningCustomer, notes } = event.target;
 
   const internalBody = JSON.stringify({
-    from_email: "administrator@leafland.co.nz",
-    from_name: "Admin | Leafland",
-    to_email: "sales@leafland.co.nz",
-    to_name: "Sales | Leafland",
-    reply_to_email: email.value,
-    reply_to_name: name.value,
+    fromAddress: "administrator@leafland.co.nz",
+    fromName: "Admin | Leafland",
+    toAddress: "sales@leafland.co.nz",
+    replyToAddress: email.value,
+    replyToName: name.value,
     subject: "Order from " + name.value,
-    text: "",
-    headers: {},
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Order from ${
       returningCustomer.value === "No" ? name.value + " (New Customer)" : name.value + " (Returning Customer)"
     }</h1><h2>CONTACT AND DELIVERY DETAILS</h2><p>${name.value}</p><p>${email.value}</p><p>${phone.value}</p><p>${
@@ -378,18 +375,16 @@ submitForm.addEventListener("submit", (event) => {
       .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
       .replace(/Order Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")}</p></body></html>`,
+    isOpenTracked: false,
   });
 
   const externalBody = JSON.stringify({
-    from_email: "administrator@leafland.co.nz",
-    from_name: "Admin | Leafland",
-    to_email: email.value,
-    to_name: name.value,
-    reply_to_email: "sales@leafland.co.nz",
-    reply_to_name: "Sales | Leafland",
+    fromAddress: "administrator@leafland.co.nz",
+    fromName: "Admin | Leafland",
+    toAddress: email.value,
+    replyToAddress: "sales@leafland.co.nz",
+    replyToName: "Sales | Leafland",
     subject: "Thanks for your order!",
-    text: "",
-    headers: {},
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Thanks for your order ${
       name.value
     }!</h1><p>We are currently processing your order and will be in touch regarding payment and delivery.</p><h2>CONTACT AND DELIVERY DETAILS</h2><p>${
@@ -405,32 +400,27 @@ submitForm.addEventListener("submit", (event) => {
       .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
       .replace(/Order Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")}</p></body></html>`,
+    isOpenTracked: false,
   });
 
   const internalRequestOptions = {
     method: "POST",
+    mode: "no-cors",
     body: internalBody,
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
-    },
   };
 
   const externalRequestOptions = {
     method: "POST",
+    mode: "no-cors",
     body: externalBody,
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: "Basic d69ea932fb83d1b4cd9482a45d14ddf2a431b1f6",
-    },
   };
 
   (async function () {
-    await fetch("https://webapi.inboxroad.com/api/v1/messages/", internalRequestOptions)
+    await fetch("https://internal-order.leafland.co.nz", internalRequestOptions)
       .then((response) => {})
       .catch((error) => {});
 
-    await fetch("https://webapi.inboxroad.com/api/v1/messages/", externalRequestOptions)
+    await fetch("https://external-order.leafland.co.nz", externalRequestOptions)
       .then((response) => {})
       .catch((error) => {});
 
