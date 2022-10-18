@@ -1,7 +1,4 @@
 let stockSearchInput = document.querySelector(".search");
-let nextButton = document.querySelector("#next");
-let prevButton = document.querySelector("#prev");
-let resultTotals = document.querySelector("#result-totals");
 let stockDataDiv = document.querySelector("#stock-data");
 
 let hideOutOfStock = document.querySelector("#hide-out-of-stock");
@@ -22,8 +19,6 @@ if (window.location.href.search("retail") === -1) {
 
 var rawData = [];
 let filteredData = [];
-let stockStart = 0;
-let stockEnd = 24;
 
 let heading = [];
 
@@ -59,11 +54,19 @@ if (stockListType === "retail") {
     .then((response) => response.json())
     .catch((error) => {});
 
-  await displayData(rawData.values, stockStart, stockEnd);
+  await displayData(rawData.values);
 
   stockSearchInput.removeAttribute("disabled");
-  stockSearchInput.addEventListener("input", (e) => {
-    filterData(rawData.values);
+
+  let listTypingTimer;
+  let listDoneTypingInterval = 500;
+
+  stockSearchInput.addEventListener("input", (event) => {
+    clearTimeout(listTypingTimer);
+
+    listTypingTimer = setTimeout(() => {
+      filterData(rawData.values);
+    }, listDoneTypingInterval);
   });
 
   if (stockListType === "wholesale") {
@@ -82,35 +85,27 @@ if (stockListType === "retail") {
 
     var url = window.URL.createObjectURL(myBlob);
     document.querySelector("#download-stock-list").href = url;
-    document.querySelector("#download-stock-list").download =
-      "leafland-stock-list.csv";
+    document.querySelector("#download-stock-list").download = "leafland-stock-list.csv";
 
-    document
-      .querySelector("#download-stock-list")
-      .style.setProperty("pointer-events", "auto");
-    document
-      .querySelector("#download-stock-list")
-      .style.setProperty("opacity", "1");
+    document.querySelector("#download-stock-list").style.setProperty("pointer-events", "auto");
+    document.querySelector("#download-stock-list").style.setProperty("opacity", "1");
   }
 })();
 
-async function displayData(dataSet, stockStart, stockEnd) {
+async function displayData(dataSet) {
   if (dataSet.length < 1) {
     stockDataDiv.innerHTML = `<p class="message">No results found.</p>`;
-    resultTotals.innerHTML = `Showing 0 to 0 of 0 results`;
-    nextButton.disabled = true;
-    prevButton.disabled = true;
   } else {
     stockDataDiv.innerHTML = "";
 
     let table = document.createElement("table");
 
-    for (let i = stockStart; i < stockEnd + 1; i++) {
+    for (let i = 0; i < dataSet.length; i++) {
       if (i > dataSet.length - 1) {
         break;
       }
 
-      if (i === stockStart) {
+      if (i === 0) {
         let row = document.createElement("tr");
         heading.forEach((item) => {
           let cell = document.createElement("th");
@@ -165,56 +160,8 @@ async function displayData(dataSet, stockStart, stockEnd) {
     }
 
     stockDataDiv.append(table);
-    resultTotals.innerHTML = `Showing ${stockStart + 1} to ${
-      stockEnd > dataSet.length ? dataSet.length : stockEnd + 1
-    } of ${dataSet.length} results`;
-  }
-
-  if (stockStart === 0) {
-    prevButton.disabled = true;
-  } else {
-    prevButton.disabled = false;
-  }
-
-  if (dataSet.length !== 0) {
-    if (stockEnd >= dataSet.length - 1) {
-      nextButton.disabled = true;
-    } else {
-      nextButton.disabled = false;
-    }
   }
 }
-
-function resetStartEnd() {
-  stockStart = 0;
-  stockEnd = 24;
-}
-
-nextButton.addEventListener("click", () => {
-  stockStart += 25;
-  stockEnd += 25;
-
-  if (filteredData.length > 1) {
-    displayData(filteredData, stockStart, stockEnd);
-  } else {
-    displayData(rawData.values, stockStart, stockEnd);
-  }
-});
-
-prevButton.addEventListener("click", () => {
-  stockStart -= 25;
-  stockEnd -= 25;
-
-  if (stockStart < 0 || stockEnd < 0) {
-    resetStartEnd();
-  }
-
-  if (filteredData.length > 1) {
-    displayData(filteredData, stockStart, stockEnd);
-  } else {
-    displayData(rawData.values, stockStart, stockEnd);
-  }
-});
 
 function filterData(stockData) {
   filteredData = [];
@@ -231,13 +178,8 @@ function filterData(stockData) {
 
   compareArray.pop();
 
-  if (
-    stockSearchInput.value.length === 0 &&
-    compareArray.length === 0 &&
-    hideFound === false
-  ) {
-    resetStartEnd();
-    displayData(rawData.values, stockStart, stockEnd);
+  if (stockSearchInput.value.length === 0 && compareArray.length === 0 && hideFound === false) {
+    displayData(rawData.values);
   } else {
     if (stockSearchInput.value.length === 0) {
       for (let j = 0; j < stockData.length; j++) {
@@ -245,10 +187,7 @@ function filterData(stockData) {
           if (stockData[j][12].toLowerCase().search(compareArray[i]) !== -1) {
             if (i === compareArray.length - 1) {
               if (hideFound) {
-                if (
-                  parseInt(stockData[j][8]) > 0 ||
-                  parseInt(stockData[j][9]) > 0
-                ) {
+                if (parseInt(stockData[j][8]) > 0 || parseInt(stockData[j][9]) > 0) {
                   filteredData.push(stockData[j]);
                 }
               } else {
@@ -286,9 +225,7 @@ function filterData(stockData) {
       stockData.forEach((data) => {
         if (data[0] != undefined) {
           if (
-            data[0]
-              .toLowerCase()
-              .includes(stockSearchInput.value.toLowerCase()) ||
+            data[0].toLowerCase().includes(stockSearchInput.value.toLowerCase()) ||
             data[1].toLowerCase().includes(stockSearchInput.value.toLowerCase())
           ) {
             if (hideFound) {
@@ -307,12 +244,8 @@ function filterData(stockData) {
           if (
             data[12].toLowerCase().search(compareArray[i]) !== -1 &&
             data[0] != undefined &&
-            (data[0]
-              .toLowerCase()
-              .includes(stockSearchInput.value.toLowerCase()) ||
-              data[1]
-                .toLowerCase()
-                .includes(stockSearchInput.value.toLowerCase()))
+            (data[0].toLowerCase().includes(stockSearchInput.value.toLowerCase()) ||
+              data[1].toLowerCase().includes(stockSearchInput.value.toLowerCase()))
           ) {
             if (i === compareArray.length - 1) {
               if (hideFound) {
@@ -331,8 +264,8 @@ function filterData(stockData) {
         }
       });
     }
-    resetStartEnd();
-    displayData(filteredData, stockStart, stockEnd);
+
+    displayData(filteredData);
   }
 }
 
