@@ -14,8 +14,8 @@
             "grade": "25L",
             "height": "1m",
             "standardHeight": "-",
-            "retailPrice": "<span class='special'>$96+GST</span> $80+GST (Retail)",
-            "wholesalePrice": "<span class='special'>$77+GST</span> $64+GST (Wholesale)",
+            "retailPrice": "<span class='special'>$96+GST</span> $80+GST",
+            "wholesalePrice": "<span class='special'>$77+GST</span> $64+GST",
             "ready": "250",
             "inProduction": "0"
           },
@@ -23,8 +23,8 @@
             "grade": "35L",
             "height": "1.6m",
             "standardHeight": "-",
-            "retailPrice": "<span class='special'>$100+GST</span> $88+GST (Retail)",
-            "wholesalePrice": "<span class='special'>$125+GST</span> $110+GST (Wholesale)",
+            "retailPrice": "<span class='special'>$100+GST</span> $88+GST",
+            "wholesalePrice": "<span class='special'>$125+GST</span> $110+GST",
             "ready": "250",
             "inProduction": "0"
           },
@@ -32,8 +32,8 @@
             "grade": "45L",
             "height": "1.5m",
             "standardHeight": "-",
-            "retailPrice": "<span class='special'>$135+GST</span> $112+GST (Retail)",
-            "wholesalePrice": "<span class='special'>$169+GST</span> $140+GST (Wholesale)",
+            "retailPrice": "<span class='special'>$135+GST</span> $112+GST",
+            "wholesalePrice": "<span class='special'>$169+GST</span> $140+GST",
             "ready": "350",
             "inProduction": "0"
           }
@@ -54,8 +54,8 @@
             "grade": "6L",
             "height": "0.6m",
             "standardHeight": "-",
-            "retailPrice": "<span class='special'>$90+GST</span> $70+GST (Retail)",
-            "wholesalePrice": "<span class='special'>$72+GST</span> $56+GST (Wholesale)",
+            "retailPrice": "<span class='special'>$90+GST</span> $70+GST",
+            "wholesalePrice": "<span class='special'>$72+GST</span> $56+GST",
             "ready": "100",
             "inProduction": "0"
           }
@@ -75,8 +75,8 @@
             "grade": "35L",
             "height": "2.3m",
             "standardHeight": "-",
-            "retailPrice": "$125+GST (Retail)",
-            "wholesalePrice": "$100+GST (Wholesale)",
+            "retailPrice": "$125+GST",
+            "wholesalePrice": "$100+GST",
             "ready": "60",
             "inProduction": "0"
           }
@@ -96,8 +96,8 @@
             "grade": "45L",
             "height": "2.5m",
             "standardHeight": "-",
-            "retailPrice": "$169+GST (Retail)",
-            "wholesalePrice": "$135+GST (Wholesale)",
+            "retailPrice": "$169+GST",
+            "wholesalePrice": "$135+GST",
             "ready": "80",
             "inProduction": "0"
           }
@@ -117,8 +117,8 @@
             "grade": "35L",
             "height": "2.3m",
             "standardHeight": "-",
-            "retailPrice": "$125+GST (Retail)",
-            "wholesalePrice": "$100+GST (Wholesale)",
+            "retailPrice": "$125+GST",
+            "wholesalePrice": "$100+GST",
             "ready": "16",
             "inProduction": "0"
           }
