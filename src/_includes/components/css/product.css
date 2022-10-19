@@ -104,47 +104,6 @@ main {
   border-radius: 8px;
 }
 
-/* .icon-div {
-  display: grid;
-  grid-template-columns: 1fr auto;
-}
-
-.tooltip {
-  opacity: 0;
-  position: absolute;
-  top: -50px;
-  left: 0;
-  z-index: -1;
-  display: inline-block;
-  border-radius: 4px;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.tooltip::first-letter {
-  text-transform: uppercase;
-}
-
-.tree-icon:hover + .tooltip {
-  opacity: 1;
-  z-index: 1;
-}
-
-.tree-icon {
-  border: none;
-  width: 2.5rem;
-  height: 2.5rem;
-}
-
-#tree-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  align-content: start;
-  position: relative;
-  margin-top: 3rem;
-} */
-
 #color-section {
   display: flex;
   gap: 2rem;
