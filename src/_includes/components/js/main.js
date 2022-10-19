@@ -74,7 +74,27 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
     body: subscribeExternalBody,
   };
 
+  const newContactExternalBody = JSON.stringify({
+    emailAddress: event.target.email.value,
+    customProps: {
+      firstName: event.target.firstName.value,
+      name: event.target.firstName.value,
+      group: "retail",
+    },
+    groups: ["63505e05ba58556251082c42"],
+  });
+
+  const newContactExternalRequestOptions = {
+    method: "POST",
+    mode: "no-cors",
+    body: newContactExternalBody,
+  };
+
   (async function () {
+    await fetch("https://update-contacts.leafland.co.nz", newContactExternalRequestOptions)
+      .then((response) => {})
+      .catch((error) => {});
+
     await fetch("https://subscribe.leafland.co.nz", subscribeExternalRequestOptions)
       .then((response) => {
         document.querySelector("#email-signup").innerHTML = `<p>Thanks for subscribing!</p>`;
