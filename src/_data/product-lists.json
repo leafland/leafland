@@ -1,93 +1,131 @@
 [
   {
-    "title": "Product List | 13th October 2022",
-    "date": "13th October 2022",
-    "url": "13-10-2022",
+    "title": "Product List | 20th October 2022",
+    "date": "20th October 2022",
+    "url": "20-10-2022",
     "trees": [
       {
-        "botanicalName": "<i>Acer</i> <i>palmatum</i> 'Scolopendrifolium Atropurpureum'",
-        "commonName": "Japanese Maple",
-        "url": "acer-palmatum-scolopendrifolium-atropurpureum",
-        "description": "New leaves emerge purple-red before fading to purple-green in summer. Autumn leaves are red-orange. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai. <i>Acer palmatum</i> is native to Japan, Korea, China, eastern Mongolia, and southeast Russia. <a href='https://en.wikipedia.org/wiki/Acer_palmatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer palmatum</i></a>. <i>Acer</i> <i>palmatum</i> 'Scolopendrifolium Atropurpureum' was developed in 1893 by Fritz Graf von Schwerin (1856 - 1934) in Trebbin, Germany.",
+        "botanicalName": "<i>Prunus</i> <i>lusitanica</i>",
+        "commonName": "Portugal Laurel",
+        "url": "prunus-lusitanica",
+        "description": "Native to Spain and Portugal. This tree forms a pyramidal shape with dark-green leaves. Panicles of scented, white flowers during summer. An excellent subject to prune into any shape, form, and size.",
         "stock": [
-          "<span class='bold'>15x 80L</span> at about <span class='bold'>2.3m</span> for <span class='bold wholesale-price'>$270+GST (Wholesale)</span><span class='bold retail-price'>$338+GST (Retail)</span> each"
+          {
+            "grade": "25L",
+            "height": "1m",
+            "standardHeight": "-",
+            "retailPrice": "<span class='special'>$96+GST</span> $80+GST (Retail)",
+            "wholesalePrice": "<span class='special'>$77+GST</span> $64+GST (Wholesale)",
+            "ready": "250",
+            "inProduction": "0"
+          },
+          {
+            "grade": "35L",
+            "height": "1.6m",
+            "standardHeight": "-",
+            "retailPrice": "<span class='special'>$100+GST</span> $88+GST (Retail)",
+            "wholesalePrice": "<span class='special'>$125+GST</span> $110+GST (Wholesale)",
+            "ready": "250",
+            "inProduction": "0"
+          },
+          {
+            "grade": "45L",
+            "height": "1.5m",
+            "standardHeight": "-",
+            "retailPrice": "<span class='special'>$135+GST</span> $112+GST (Retail)",
+            "wholesalePrice": "<span class='special'>$169+GST</span> $140+GST (Wholesale)",
+            "ready": "350",
+            "inProduction": "0"
+          }
         ],
         "images": [
-          "acer-palmatum-scolopendrifolium-atropurpureum/grades/acer-palmatum-scolopendrifolium-atropurpureum-80L-grade.jpeg&80L Grade",
-          "acer-palmatum-scolopendrifolium-atropurpureum/acer-palmatum-scolopendrifolium-atropurpureum.jpg&NONE"
+          "prunus-lusitanica/grades/prunus-lusitanica-25L-grade.jpeg&25L Grade",
+          "prunus-lusitanica/grades/prunus-lusitanica-35L-grade.jpeg&35L Grade",
+          "prunus-lusitanica/grades/prunus-lusitanica-45L-grade.jpeg&45L Grade"
         ]
       },
       {
-        "botanicalName": "<i>Ficus</i> <i>carica</i> 'Mrs Williams'",
+        "botanicalName": "<i>Rhopalostylis</i> <i>sapida</i>",
+        "commonName": "Nīkau",
+        "url": "rhopalostylis-sapida",
+        "description": "Elegant, graceful, and slow-growing palm. Grows best in a shady, sheltered spot in moist soil, but will grow out in the open (the leaves won't be as lush). Looks best planted in groups. Frost tender.",
+        "stock": [
+          {
+            "grade": "6L",
+            "height": "0.6m",
+            "standardHeight": "-",
+            "retailPrice": "<span class='special'>$90+GST</span> $70+GST (Retail)",
+            "wholesalePrice": "<span class='special'>$72+GST</span> $56+GST (Wholesale)",
+            "ready": "100",
+            "inProduction": "0"
+          }
+        ],
+        "images": [
+          "rhopalostylis-sapida/grades/rhopalostylis-sapida-6L-grade.jpeg&6L Grade",
+          "rhopalostylis-sapida/rhopalostylis-sapida-city.jpg&NONE"
+        ]
+      },
+      {
+        "botanicalName": "<i>Ficus</i> <i>carica</i> 'French Sugar'",
         "commonName": "Fig",
-        "url": "ficus-carica-mrs-williams",
-        "description": "Dark-purple to red-skinned fruit with a deep-carmine flesh when ripe. Fruit ripens in early to mid-autumn. Excellent variety fresh or for drying. Self-fertile, but produces more fruit when planted with another fig variety.",
+        "url": "ficus-carica-french-sugar",
+        "description": "Produces fruit with green-brown skin and sweet amber-pink flesh. Light first crop in summer with second main crop in autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
         "stock": [
-          "<span class='bold'>30x 35L</span> at about <span class='bold'>1.8m</span> for <span class='bold wholesale-price'>$100+GST (Wholesale)</span><span class='bold retail-price'>$125+GST (Retail)</span> each",
-          "<span class='bold'>15x 45L</span> at about <span class='bold'>2.2m</span> for <span class='bold wholesale-price'>$135+GST (Wholesale)</span><span class='bold retail-price'>$169+GST (Retail)</span> each"
+          {
+            "grade": "35L",
+            "height": "2.3m",
+            "standardHeight": "-",
+            "retailPrice": "$125+GST (Retail)",
+            "wholesalePrice": "$100+GST (Wholesale)",
+            "ready": "60",
+            "inProduction": "0"
+          }
         ],
         "images": [
-          "ficus-carica-mrs-williams/grades/ficus-carica-mrs-williams-35L-grade.jpeg&35L Grade",
-          "ficus-carica-mrs-williams/ficus-carica-mrs-williams.jpg&NONE"
+          "ficus-carica-french-sugar/grades/ficus-carica-french-sugar-35L-grade.jpeg&35L Grade",
+          "ficus-carica-french-sugar/ficus-carica-french-sugar-fruit.jpg&NONE"
         ]
       },
       {
-        "botanicalName": "<i>Acer</i> <i>palmatum</i> 'Osakazuki'",
-        "commonName": "Japanese Maple",
-        "url": "acer-palmatum-osakazuki",
-        "description": "New leaves emerge green-orange before changing to green in summer. Autumn leaves are crimson-red. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. However, is more leaf scorch resistant than most Japanese maples, and is more tolerate of wind and drought. Cold hardy and great for bonsai. <i>Acer palmatum</i> is native to Japan, Korea, China, eastern Mongolia, and southeast Russia. <a href='https://en.wikipedia.org/wiki/Acer_palmatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer palmatum</i></a>. <i>Acer</i> <i>palmatum</i> 'Osakazuki' was developed in Japan in 1882.",
+        "botanicalName": "<i>Gleditsia</i> <i>triacanthos</i> var. <i>inermis</i> 'Skyline'",
+        "commonName": "Honey Locust",
+        "url": "gleditsia-triacanthos-var-inermis-skyline",
+        "description": "Upright form with a straight trunk and a compact-branching structure. Excellent shade or specimen tree where space is limited. Golden autumn leaves in autumn over a long period. Withstands heat, cold, and drought. Good street tree. Small, green-yellow flowers in mid to late-spring. Does not produce thorns.",
         "stock": [
-          "<span class='bold'>55x 45L</span> at about <span class='bold'>2m</span> for <span class='bold wholesale-price'>$135+GST (Wholesale)</span><span class='bold retail-price'>$169+GST (Retail)</span> each"
+          {
+            "grade": "45L",
+            "height": "2.5m",
+            "standardHeight": "-",
+            "retailPrice": "$169+GST (Retail)",
+            "wholesalePrice": "$135+GST (Wholesale)",
+            "ready": "80",
+            "inProduction": "0"
+          }
         ],
         "images": [
-          "acer-palmatum-osakazuki/grades/acer-palmatum-osakazuki-45L-grade.jpeg&45L Grade",
-          "acer-palmatum-osakazuki/acer-palmatum-osakazuki.jpg&NONE",
-          "acer-palmatum-osakazuki/acer-palmatum-osakazuki-autumn-colours.jpg&NONE"
+          "gleditsia-triacanthos-var-inermis-skyline/grades/gleditsia-triacanthos-var-inermis-skyline-45L-grade.jpeg&45L Grade",
+          "gleditsia-triacanthos-var-inermis-skyline/gleditsia-triacanthos-var-inermis-skyline-street.jpg&NONE"
         ]
       },
       {
-        "botanicalName": "<i>Acer</i> <i>palmatum</i> 'Burgundy Lace'",
-        "commonName": "Japanese Maple",
-        "url": "acer-palmatum-burgundy-lace",
-        "description": "American cultivar with deeply-divided leaves like lace. Burgundy-wine leaves through summer turn scarlet in autumn. A spreading shade tree that is great for smaller gardens. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai. <i>Acer palmatum</i> is native to Japan, Korea, China, eastern Mongolia, and southeast Russia. <a href='https://en.wikipedia.org/wiki/Acer_palmatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer palmatum</i></a>. <i>Acer</i> <i>palmatum</i> 'Burgundy Lace' was raised in the United States before 1958.",
+        "botanicalName": "<i>Ficus</i> <i>carica</i> 'Ventura'",
+        "commonName": "Fig",
+        "url": "ficus-carica-ventura",
+        "description": "A compact grower that produces large, long-necked figs with green skin and red inner flesh. Performs well in cooler climates. Fruit ripens in late-autumn. Self-fertile, but produces more fruit when planted with another fig variety.",
         "stock": [
-          "<span class='bold'>10x 35L</span> at about <span class='bold'>2m</span> for <span class='bold wholesale-price'>$100+GST (Wholesale)</span><span class='bold retail-price'>$125+GST (Retail)</span> each",
-          "<span class='bold'>15x 45L</span> at about <span class='bold'>2.2m</span> for <span class='bold wholesale-price'>$135+GST (Wholesale)</span><span class='bold retail-price'>$169+GST (Retail)</span> each"
+          {
+            "grade": "35L",
+            "height": "2.3m",
+            "standardHeight": "-",
+            "retailPrice": "$125+GST (Retail)",
+            "wholesalePrice": "$100+GST (Wholesale)",
+            "ready": "16",
+            "inProduction": "0"
+          }
         ],
         "images": [
-          "acer-palmatum-burgundy-lace/grades/acer-palmatum-burgundy-lace-45L-grade.jpeg&45L Grade",
-          "acer-palmatum-burgundy-lace/acer-palmatum-burgundy-lace.jpg&NONE",
-          "acer-palmatum-burgundy-lace/acer-palmatum-burgundy-lace-purple-foliage.jpeg&NONE"
-        ]
-      },
-      {
-        "botanicalName": "<i>Acer</i> <i>palmatum</i> 'Scolopendrifolium'",
-        "commonName": "Japanese Maple",
-        "url": "acer-palmatum-scolopendrifolium",
-        "description": "Has bright-green leaves that are distinctively long and drooping. A tall and elegant grower. Autumn leaves are apricot and orange coloured. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai. <i>Acer palmatum</i> is native to Japan, Korea, China, eastern Mongolia, and southeast Russia. <a href='https://en.wikipedia.org/wiki/Acer_palmatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer palmatum</i></a>.",
-        "stock": [
-          "<span class='bold'>20x 35L</span> at about <span class='bold'>1.7m</span> for <span class='bold wholesale-price'>$100+GST (Wholesale)</span><span class='bold retail-price'>$125+GST (Retail)</span> each",
-          "<span class='bold'>50x 60L</span> at about <span class='bold'>2.2m</span> for <span class='bold wholesale-price'>$180+GST (Wholesale)</span><span class='bold retail-price'>$225+GST (Retail)</span> each",
-          "<span class='bold'>10x 80L</span> at about <span class='bold'>2.2m</span> for <span class='bold wholesale-price'>$270+GST (Wholesale)</span><span class='bold retail-price'>$338+GST (Retail)</span> each"
-        ],
-        "images": [
-          "acer-palmatum-scolopendrifolium/grades/acer-palmatum-scolopendrifolium-60L-grade.jpeg&60L Grade",
-          "acer-palmatum-scolopendrifolium/acer-palmatum-scolopendrifolium.jpg&NONE",
-          "acer-palmatum-scolopendrifolium/acer-palmatum-scolopendrifolium-autumn-tree.jpg&NONE"
-        ]
-      },
-      {
-        "botanicalName": "<i>Aesculus</i> x <i>neglecta</i> 'Erythroblastos'",
-        "commonName": "Caroline Horse Chestnut",
-        "url": "aesculus-x-neglecta-erythroblastos",
-        "description": "Amazing new leaves of pink-orange that age to cream-green through spring and green through summer. Slow-growing tree. Protect from strong winds. In spring, pale-yellow flowers with a red base are borne in erect panicles. Orange and yellow autumn leaves. Seldom produces nuts. <i>Aesculus</i> x <i>neglecta</i> 'Erythroblastos' is a hybrid between <a href='https://www.rhs.org.uk/plants/579/aesculus-flava/details' target='_blank' rel='noopener noreferrer'><i>Aesculus flava</i></a> (syn. <a href='https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/aesculus/octandra.htm' target='_blank' rel='noopener noreferrer'><i>Aesculus octandra</i></a>) and <a href='https://plants.ces.ncsu.edu/plants/aesculus-sylvatica/' target='_blank' rel='noopener noreferrer'><i>Aesculus sylvatica</i></a>. <i>Aesculus</i> x <i>neglecta</i> 'Erythroblastos' was first distributed by Späth's nurseries in Germany before 1935.",
-        "stock": [
-          "<span class='bold'>10x 25L</span> at about <span class='bold'>1.5m</span> for <span class='bold wholesale-price'>$77+GST (Wholesale)</span><span class='bold retail-price'>$96+GST (Retail)</span> each"
-        ],
-        "images": [
-          "aesculus-x-neglecta-erythroblastos/grades/aesculus-x-neglecta-erythroblastos-25L-grade.jpeg&25L Grade",
-          "aesculus-x-neglecta-erythroblastos/aesculus-x-neglecta-erythroblastos-green-leaf-form.jpg&NONE",
-          "aesculus-x-neglecta-erythroblastos/aesculus-x-neglecta-erythroblastos-pink-new-growth.jpg&NONE"
+          "ficus-carica-ventura/grades/ficus-carica-ventura-35L-grade.jpeg&35L Grade",
+          "ficus-carica-ventura/ficus-carica-ventura-fruit.jpg&NONE"
         ]
       }
     ]
