@@ -246,28 +246,6 @@
         ]
       },
       {
-        "botanicalName": "<i>Acer</i> <i>palmatum</i> 'Scolopendrifolium'",
-        "commonName": "Japanese Maple",
-        "url": "acer-palmatum-scolopendrifolium",
-        "description": "Has bright-green leaves that are distinctively long and drooping. A tall and elegant grower. Autumn leaves are apricot and orange coloured. Prefers moist, well-drained soils. May suffer leaf scorch from excess sun, wind, and drought. Cold hardy and great for bonsai. <i>Acer palmatum</i> is native to Japan, Korea, China, eastern Mongolia, and southeast Russia. <a href='https://en.wikipedia.org/wiki/Acer_palmatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Acer palmatum</i></a>.",
-        "stock": [
-          {
-            "grade": "60L",
-            "height": "2.2m",
-            "standardHeight": "-",
-            "retailPrice": "$225+GST",
-            "wholesalePrice": "$180+GST",
-            "ready": "50",
-            "inProduction": "0"
-          }
-        ],
-        "images": [
-          "acer-palmatum-scolopendrifolium/grades/acer-palmatum-scolopendrifolium-60L-grade.jpg&60L Grade",
-          "acer-palmatum-scolopendrifolium/acer-palmatum-scolopendrifolium.jpg&NONE",
-          "acer-palmatum-scolopendrifolium/acer-palmatum-scolopendrifolium-autumn-tree.jpg&NONE"
-        ]
-      },
-      {
         "botanicalName": "<i>Taxodium</i> <i>distichum</i>",
         "commonName": "Swamp Cypress",
         "url": "taxodium-distichum",
