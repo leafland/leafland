@@ -25,7 +25,21 @@
     {% endif %}
 
     {% if type == 'product' %}
-      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ mainImage }}">
+    {% for image in tree.images %}
+
+    {% if forloop.index == 1 %}
+
+    {% assign imageInfo = image | split: "&" %}
+    <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ imageInfo[0] }}">
+
+    {% else %}
+
+    {% break %}
+
+    {% endif %}
+
+    {% endfor %}
+
     {% elsif type == 'index' %}
       <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=2000/https://files.leafland.co.nz/tree-planting-estate.jpg">
     {% endif %}

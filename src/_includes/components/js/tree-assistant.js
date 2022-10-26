@@ -397,7 +397,9 @@ document.querySelector("#foliageColour-next").addEventListener("click", () => {
 
       let treeImage = document.createElement("img");
 
-      treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/${filteredTrees[i].mainImage}`;
+      treeImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/${
+        filteredTrees[i].images[0].split("&")[0]
+      }`;
       treeImage.width = "150";
       treeImage.height = "150";
       treeImage.loading = "lazy";

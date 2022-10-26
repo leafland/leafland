@@ -69,10 +69,9 @@ function updateOrderTotal() {
       }
     }
   } else {
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(
-      total,
-      10
-    ).toFixed(2)}+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(total, 10).toFixed(
+      2
+    )}+GST (excluding freight)</span>`;
   }
 }
 
@@ -196,8 +195,7 @@ async function updateOrder() {
 
       let itemAverageHeight = document.createElement("p");
       itemAverageHeight.innerHTML = `Height: <span class="accent-color">${
-        tree.averageHeight.toLowerCase() === "n/a" ||
-        tree.averageHeight.toLowerCase() === ""
+        tree.averageHeight.toLowerCase() === "n/a" || tree.averageHeight.toLowerCase() === ""
           ? "-"
           : tree.averageHeight + "<span class='lowercase'>m</span>"
       }</span>`;
@@ -234,9 +232,7 @@ async function updateOrder() {
         } else {
           freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
 
-          orderTotalFreight +=
-            parseInt(tree.quantity, 10) *
-            parseFloat(freightPriceValue.slice(1));
+          orderTotalFreight += parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
         }
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">-</span></p>`;
@@ -265,10 +261,7 @@ async function updateOrder() {
           if (orderTrees[i].botanicalName === tree.botanicalName) {
             if (orderTrees[i].grade === itemQuantity.dataset.grade) {
               if (orderTrees[i].averageHeight === itemQuantity.dataset.height) {
-                if (
-                  orderTrees[i].standardHeight ===
-                  itemQuantity.dataset.standardHeight
-                ) {
+                if (orderTrees[i].standardHeight === itemQuantity.dataset.standardHeight) {
                   orderTrees[i].quantity = itemQuantity.value;
                   break;
                 }
@@ -282,12 +275,8 @@ async function updateOrder() {
         orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
-          totalRetailCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].retailPrice.slice(1), 10);
+          totalWholesaleCost += orderTrees[i].quantity * parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
+          totalRetailCost += orderTrees[i].quantity * parseInt(orderTrees[i].retailPrice.slice(1), 10);
 
           freightPriceValue = "";
           if (
@@ -312,9 +301,7 @@ async function updateOrder() {
           ) {
             if (freightPriceValue === "P.O.A") {
             } else {
-              orderTotalFreight +=
-                parseInt(orderTrees[i].quantity, 10) *
-                parseFloat(freightPriceValue.slice(1));
+              orderTotalFreight += parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1));
             }
           } else {
           }
@@ -335,10 +322,7 @@ async function updateOrder() {
           if (orderTrees[i].botanicalName === tree.botanicalName) {
             if (orderTrees[i].grade === itemQuantity.dataset.grade) {
               if (orderTrees[i].averageHeight === itemQuantity.dataset.height) {
-                if (
-                  orderTrees[i].standardHeight ===
-                  itemQuantity.dataset.standardHeight
-                ) {
+                if (orderTrees[i].standardHeight === itemQuantity.dataset.standardHeight) {
                   orderTrees.splice(i, 1);
                   break;
                 }
@@ -352,12 +336,8 @@ async function updateOrder() {
         orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
-          totalRetailCost +=
-            orderTrees[i].quantity *
-            parseInt(orderTrees[i].retailPrice.slice(1), 10);
+          totalWholesaleCost += orderTrees[i].quantity * parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
+          totalRetailCost += orderTrees[i].quantity * parseInt(orderTrees[i].retailPrice.slice(1), 10);
 
           freightPriceValue = "";
           if (
@@ -382,9 +362,7 @@ async function updateOrder() {
           ) {
             if (freightPriceValue === "P.O.A") {
             } else {
-              orderTotalFreight +=
-                parseInt(orderTrees[i].quantity, 10) *
-                parseFloat(freightPriceValue.slice(1));
+              orderTotalFreight += parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1));
             }
           } else {
           }
@@ -426,10 +404,7 @@ async function updateOrder() {
 function updateStorage() {
   sessionStorage.setItem("trees", JSON.stringify(orderTrees));
   sessionStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
-  sessionStorage.setItem(
-    "totalWholesaleCost",
-    JSON.stringify(totalWholesaleCost)
-  );
+  sessionStorage.setItem("totalWholesaleCost", JSON.stringify(totalWholesaleCost));
 }
 
 openOrder.addEventListener("click", () => {
@@ -439,9 +414,7 @@ closeOrder.addEventListener("click", () => {
   document.body.classList.remove("order-open");
 });
 window.addEventListener("storage", () => {
-  sessionStorage.getItem("loggedIn") === "true"
-    ? (loggedIn = true)
-    : (loggedIn = false);
+  sessionStorage.getItem("loggedIn") === "true" ? (loggedIn = true) : (loggedIn = false);
   updateOrder();
 });
 window.addEventListener("productAdded", () => {
@@ -467,9 +440,7 @@ submitOrder.addEventListener("click", () => {
 });
 
 if (document.body.dataset.code) {
-  document
-    .querySelector("#stock-table-back")
-    .style.setProperty("display", "inline-block");
+  document.querySelector("#stock-table-back").style.setProperty("display", "inline-block");
 
   document.querySelector("#stock-table-back").addEventListener("click", () => {
     document.body.classList.remove("order-open");
