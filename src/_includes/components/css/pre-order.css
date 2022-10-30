@@ -1,0 +1,42 @@
+#pre-order-overlay {
+  opacity: 0;
+  position: fixed;
+  z-index: -1;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--background-color);
+  visibility: hidden;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 2rem;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+#pre-order-inner {
+  max-width: 80rem;
+  display: grid;
+  gap: 2rem;
+  margin: 0 auto 0 auto;
+  width: 100%;
+}
+
+.pre-order-heading {
+  font-weight: 700;
+}
+
+#pre-grid-content {
+  display: grid;
+  gap: 2rem;
+}
+
+#pre-grid-content p {
+  display: grid;
+  gap: 0.5rem;
+  width: max-content;
+  max-width: 80rem;
+}

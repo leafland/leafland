@@ -1,0 +1,63 @@
+<div id="pre-order-overlay">
+
+    <div id="top-buttons-block">
+
+        <p>Pre-order</p>
+
+        <button id="pre-order-back" class="utility-button">Back</button>
+
+        <button id="pre-order-close" class="utility-button">Close</button>
+
+    </div>
+
+    <div id="pre-order-inner">
+
+        <p class="pre-order-heading">Pre-order for <span id="pre-order-title"></span></p>
+
+        <form id="pre-grid-content" class="pre-form">
+
+                    <p>
+                        <label for="preOrderQuantity">Quantity:</label>
+                        <input type="number" id="pre-order-quantity" name="preOrderQuantity" value='1' min="1" max="9999" inputmode='numeric'>
+                    </p>
+
+                    <p>
+                        <label for="name">Full Name</label>
+                        <input type="text" name="name" required />
+                    </p>
+
+                    <p>
+                        <label for="email">Email</label>
+                        <input type="email" name="email" required />
+                    </p>
+
+                    <p>
+                        <label for="phone">Phone</label>
+                        <input type="tel" name="phone" required />
+                    </p>
+
+                    <p>
+                        <label for="streetAddress">Street Address</label>
+                        <input type="text" id="street-address" name="streetAddress" required />
+                    </p>
+
+                    <p>
+                        <label for="townCity">Town/City</label>
+                        <input type="text" id="town-city" name="townCity" required />
+                    </p>
+
+                    <p>
+                        <label for="notes">Notes and Delivery Instructions (Optional)</label>
+                        <textarea id="notes" name="notes" cols="35" rows="10"></textarea>
+                    </p>
+
+                    <p id='message-paragraph'>
+                        <button type="submit" id="send-pre-order">Submit Pre-order</button>
+                    </p>
+
+        </form>
+
+
+    </div>
+
+</div>

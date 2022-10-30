@@ -26,12 +26,6 @@
   width: 100%;
 }
 
-body.stock-table-open #stock-table {
-  opacity: 1;
-  z-index: 8;
-  visibility: visible;
-}
-
 #open-stock-table {
   border-color: var(--border-color);
   max-width: max-content;

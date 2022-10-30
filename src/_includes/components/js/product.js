@@ -105,14 +105,68 @@ async function createStockValues() {
         } else if (stockData[i][9] > 0) {
           let cell = document.createElement("td");
 
-          let orderNow = document.createElement("a");
-          orderNow.href = `mailto:sales@leafland.co.nz?subject=Tree Pre-order&body=Hi team,%0D%0A%0D%0AI would like to place a pre-order for:%0D%0A%0D%0ATree: ${
-            treeBotanicalName.textContent
-          }%0D%0AGrade: ${stockData[i][2]}%0D%0APrice per tree: ${
-            loggedIn ? stockData[i][5] + ".00+GST (Wholesale)" : stockData[i][3] + ".00+GST (Retail)"
-          }`;
+          let orderNow = document.createElement("button");
           orderNow.textContent = "Pre-order";
-          orderNow.classList.add("button");
+
+          orderNow.addEventListener("click", () => {
+            document.querySelector("#pre-order-title").innerHTML = stockData[i][2] + " " + treeBotanicalName.innerHTML;
+            document.querySelector(
+              "#message-paragraph"
+            ).innerHTML = `<button type="submit" id="send-pre-order">Submit Pre-order</button>`;
+            document.body.classList.add("pre-order-open");
+            document.body.classList.remove("stock-table-open");
+            document.querySelector("#pre-order-quantity").max = stockData[i][9];
+
+            document.querySelector("#pre-order-quantity").addEventListener("change", () => {
+              if (parseInt(document.querySelector("#pre-order-quantity").value) < 1) {
+                document.querySelector("#pre-order-quantity").value = 1;
+              } else if (parseInt(document.querySelector("#pre-order-quantity").value) > stockData[i][9]) {
+                document.querySelector("#pre-order-quantity").value = stockData[i][9];
+              }
+            });
+
+            document.querySelector("#pre-grid-content").addEventListener("submit", (event) => {
+              event.preventDefault();
+              document.querySelector("#send-pre-order").textContent = "Submitting...";
+
+              const { name, email, phone, streetAddress, townCity, notes, preOrderQuantity } = event.target;
+
+              const internalBody = JSON.stringify({
+                fromAddress: "administrator@leafland.co.nz",
+                fromName: "Admin | Leafland",
+                toAddress: "sales@leafland.co.nz",
+                replyToAddress: email.value,
+                replyToName: name.value,
+                subject: "Pre-order from " + name.value,
+                html: `Hi team,<br><br>I would like to place a pre-order for:<br><br>Tree: ${
+                  treeBotanicalName.textContent
+                }<br>Grade: ${stockData[i][2]}<br>Price per tree: ${
+                  loggedIn ? stockData[i][5] + ".00+GST (Wholesale)" : stockData[i][3] + ".00+GST (Retail)"
+                }<br>Quantity: ${preOrderQuantity.value}<br><br><br>Name: ${name.value}<br>Email: ${
+                  email.value
+                }<br>Phone: ${phone.value}<br>Street Address: ${streetAddress.value}<br>Town/City: ${
+                  townCity.value
+                }<br>Notes: ${notes.value}`,
+                isOpenTracked: false,
+              });
+
+              const internalRequestOptions = {
+                method: "POST",
+                mode: "no-cors",
+                body: internalBody,
+              };
+
+              (async function () {
+                await fetch("https://internal-order.leafland.co.nz", internalRequestOptions)
+                  .then((response) => {
+                    document.querySelector(
+                      "#message-paragraph"
+                    ).innerHTML = `<p>Thanks for your pre-order! We will be in touch to confirm your pre-order. Payment is done via internet banking and we will email through an invoice for the 50% deposit.</p>`;
+                  })
+                  .catch((error) => {});
+              })();
+            });
+          });
 
           cell.append(orderNow);
           row.append(cell);
@@ -243,6 +297,15 @@ function addEventListeners() {
 
   document.querySelector("#stock-table-close").addEventListener("click", () => {
     document.body.classList.remove("stock-table-open");
+  });
+
+  document.querySelector("#pre-order-close").addEventListener("click", () => {
+    document.body.classList.remove("pre-order-open");
+  });
+
+  document.querySelector("#pre-order-back").addEventListener("click", () => {
+    document.body.classList.remove("pre-order-open");
+    document.body.classList.add("stock-table-open");
   });
 
   imageLightBoxClose.addEventListener("click", () => {
