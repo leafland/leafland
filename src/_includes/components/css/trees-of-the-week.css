@@ -72,6 +72,10 @@ main {
   text-decoration: line-through;
 }
 
+.special-text {
+  color: #e22525;
+}
+
 table {
   border-spacing: 0px;
   width: 100%;
