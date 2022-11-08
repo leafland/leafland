@@ -79,6 +79,7 @@ async function search(terms) {
     for (let i = 0; i < terms.length; i++) {
       if (
         searchString
+          .toLowerCase()
           .replace(/ã/g, "a")
           .replace(/é/g, "e")
           .replace(/ā/g, "a")
@@ -89,7 +90,6 @@ async function search(terms) {
           .replace(/ä/g, "a")
           .replace(/'/g, "")
           .replace(/"/g, "")
-          .toLowerCase()
           .includes(terms[i].replace(/'/g, "").replace(/"/g, ""))
       ) {
         count += 1;
