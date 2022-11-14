@@ -788,5 +788,84 @@
         "mainImage": "syzygium-australe-resilience/syzygium-australe-resilience.jpg"
       }
     ]
+  },
+  {
+    "title": "Top Trees for Christmas",
+    "url": "christmas",
+    "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
+    "trees": [
+      {
+        "botanicalName": "<i>Abies</i> <i>concolor</i>",
+        "commonName": "White Fir",
+        "url": "abies-concolor",
+        "mainImage": "abies-concolor/abies-concolor.jpeg"
+      },
+      {
+        "botanicalName": "<i>Cedrus</i> <i>atlantica</i> 'Glauca'",
+        "commonName": "Atlas Cedar",
+        "url": "cedrus-atlantica-glauca",
+        "mainImage": "cedrus-atlantica-glauca/cedrus-atlantica-glauca.jpg"
+      },
+      {
+        "botanicalName": "<i>Cedrus</i> <i>deodara</i>",
+        "commonName": "Himalayan Cedar",
+        "url": "cedrus-deodara",
+        "mainImage": "cedrus-deodara/cedrus-deodara.jpg"
+      },
+      {
+        "botanicalName": "<i>Cupressus</i> <i>arizonica</i> var. <i>glabra</i> 'Blue Ice'",
+        "commonName": "Smooth Arizona Cypress",
+        "url": "cupressus-arizonica-var-glabra-blue-ice",
+        "mainImage": "cupressus-arizonica-var-glabra-blue-ice/cupressus-arizonica-var-glabra-blue-ice.jpg"
+      },
+      {
+        "botanicalName": "<i>Cupressus</i> <i>cashmeriana</i>",
+        "commonName": "Kashmir Cypress",
+        "url": "cupressus-cashmeriana",
+        "mainImage": "cupressus-cashmeriana/cupressus-cashmeriana.jpg"
+      },
+      {
+        "botanicalName": "<i>Picea</i> <i>abies</i>",
+        "commonName": "Norway Spruce",
+        "url": "picea-abies",
+        "mainImage": "picea-abies/picea-abies.jpg"
+      },
+      {
+        "botanicalName": "<i>Picea</i> <i>pungens</i> 'Baby Blue'",
+        "commonName": "Colorado Spruce",
+        "url": "picea-pungens-baby-blue",
+        "mainImage": "picea-pungens-baby-blue/picea-pungens-baby-blue.jpg"
+      },
+      {
+        "botanicalName": "<i>Picea</i> <i>pungens</i> 'Glauca'",
+        "commonName": "Colorado Spruce",
+        "url": "picea-pungens-glauca",
+        "mainImage": "picea-pungens-glauca/picea-pungens-glauca.jpg"
+      },
+      {
+        "botanicalName": "<i>Picea</i> <i>smithiana</i>",
+        "commonName": "Morinda Spruce",
+        "url": "picea-smithiana",
+        "mainImage": "picea-smithiana/picea-smithiana.jpg"
+      },
+      {
+        "botanicalName": "<i>Sequoia</i> <i>sempervirens</i> 'Korbel'",
+        "commonName": "California Redwood",
+        "url": "sequoia-sempervirens-korbel",
+        "mainImage": "sequoia-sempervirens-korbel/sequoia-sempervirens-korbel.jpg"
+      },
+      {
+        "botanicalName": "<i>Thuja</i> <i>occidentalis</i> 'Pyramidalis'",
+        "commonName": "Northern White Cedar",
+        "url": "thuja-occidentalis-pyramidalis",
+        "mainImage": "thuja-occidentalis-pyramidalis/thuja-occidentalis-pyramidalis.jpg"
+      },
+      {
+        "botanicalName": "<i>Thuja</i> <i>occidentalis</i> 'Smaragd'",
+        "commonName": "Northern White Cedar",
+        "url": "thuja-occidentalis-smaragd",
+        "mainImage": "thuja-occidentalis-smaragd/thuja-occidentalis-smaragd.jpg"
+      }
+    ]
   }
 ]
