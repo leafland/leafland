@@ -32,6 +32,8 @@
     {% assign imageInfo = image | split: "&" %}
     <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ imageInfo[0] }}">
 
+    {% break %}
+
     {% else %}
 
     {% break %}
