@@ -89,16 +89,6 @@ main h3 {
   font-weight: 900;
 }
 
-#hero-text .subtitle {
-  background: var(--invert-background-color);
-  display: inline-block;
-  color: var(--invert-text-color);
-  border-radius: 8px;
-  padding: 4px 8px;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
 #hero .button {
   color: var(--text-color);
   border-color: var(--text-color);
