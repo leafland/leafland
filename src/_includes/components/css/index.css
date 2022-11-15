@@ -88,9 +88,9 @@ main h3 {
 }
 
 #hero-text .subtitle {
-  background: var(--text-color);
+  background: var(--invert-background-color);
   display: inline-block;
-  color: var(--accent-color);
+  color: var(--invert-text-color);
   border-radius: 8px;
   padding: 4px 8px;
   font-weight: 700;
