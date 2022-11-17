@@ -10,19 +10,7 @@ async function search(terms) {
   searchResults = treeData.filter((tree) => {
     let count = 0;
     let searchString =
-      tree.genus +
-      " " +
-      tree.species +
-      " " +
-      tree.hybrid +
-      " " +
-      tree.subspecies +
-      " " +
-      tree.variety +
-      " " +
-      tree.form +
-      " " +
-      tree.cultivar +
+      tree.fullName +
       " " +
       tree.commonName +
       " " +
