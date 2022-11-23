@@ -153,7 +153,7 @@
 /trees/fig-panache/ /trees/ficus-carica-panache/ 301
 /trees/fig-sweet-black/ /trees/ficus-carica-sweet-black/ 301
 /trees/fig-ventura/ /trees/ficus-carica-ventura/ 301
-/trees/alectryon-excelsus-titoki-new-zealand-oak/ /trees/alectryon-excelsus-var-excelsus/ 301
+/trees/alectryon-excelsus-titoki-new-zealand-oak/ /trees/alectryon-excelsus/ 301
 /trees/guava-red-cherry/ /trees/psidium-cattleyanum-var-cattleyanum/ 301
 /trees/hazelnut-barcelona/ /trees/corylus-avellana-barcelona/ 301
 /trees/hazelnut-whiteheart/ /trees/corylus-avellana-whiteheart/ 301
@@ -342,8 +342,8 @@
 /trees/albizia-julibrissin-red-silk-persian-silk-tree-pink-silk-tree/ /trees/albizia-julibrissin-red-silk/ 301
 /trees/albizia-julibrissin-rosea-persian-silk-tree-pink-silk-tree/ /trees/albizia-julibrissin-rosea/ 301
 /trees/albizia-julibrissin-summer-chocolate-persian-silk-tree-pink-silk-tree/ /trees/albizia-julibrissin-summer-chocolate/ 301
-/trees/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/ /trees/alectryon-excelsus-subsp-excelsus/ 301
-/trees/alectryon-excelsus-var-excelsus/ /trees/alectryon-excelsus-subsp-excelsus/ 301
+/trees/alectryon-excelsus-var-excelsus-titoki-new-zealand-oak/ /trees/alectryon-excelsus/ 301
+/trees/alectryon-excelsus-var-excelsus/ /trees/alectryon-excelsus/ 301
 /trees/alnus-cordata-italian-alder/ /trees/alnus-cordata/ 301
 /trees/alnus-glutinosa-black-alder/ /trees/alnus-glutinosa/ 301
 /trees/alnus-glutinosa-imperialis-black-alder/ /trees/alnus-glutinosa-imperialis/ 301
@@ -1293,3 +1293,4 @@
 /trees/michelia-princess-star-bright/ /trees/magnolia-princess-star-bright/ 301
 /trees/michelia-touch-of-pink/ /trees/magnolia-touch-of-pink/ 301
 /trees/nyssa-sylvatica-var-biflora/ /trees/nyssa-biflora/ 301
+/trees/alectryon-excelsus-subsp-excelsus/ /trees/alectryon-excelsus/ 301
