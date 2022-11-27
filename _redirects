@@ -1099,11 +1099,11 @@
 /trees/prunus-serrulata-shirotae-japanese-cherry/ /trees/prunus-serrulata-shirotae/ 301
 /trees/prunus-serrulata-tai-haku-japanese-cherry/ /trees/prunus-serrulata-tai-haku/ 301
 /trees/prunus-serrulata-ukon-japanese-cherry/ /trees/prunus-serrulata-ukon/ 301
-/trees/prunus-subhirtella-autumnalis-rosea-higan-cherry/ /trees/prunus-subhirtella-autumnalis-rosea/ 301
-/trees/prunus-subhirtella-falling-snow-higan-cherry/ /trees/prunus-subhirtella-falling-snow/ 301
-/trees/prunus-subhirtella-peggy-wilson-higan-cherry/ /trees/prunus-subhirtella-peggy-wilson/ 301
-/trees/prunus-subhirtella-pendula-rosea-higan-cherry/ /trees/prunus-subhirtella-pendula-rosea/ 301
-/trees/prunus-subhirtella-southern-gem-higan-cherry/ /trees/prunus-subhirtella-southern-gem/ 301
+/trees/prunus-subhirtella-autumnalis-rosea-higan-cherry/ /trees/prunus-x-subhirtella-autumnalis-rosea/ 301
+/trees/prunus-subhirtella-falling-snow-higan-cherry/ /trees/prunus-x-subhirtella-falling-snow/ 301
+/trees/prunus-subhirtella-peggy-wilson-higan-cherry/ /trees/prunus-x-subhirtella-peggy-wilson/ 301
+/trees/prunus-subhirtella-pendula-rosea-higan-cherry/ /trees/prunus-x-subhirtella-pendula-rosea/ 301
+/trees/prunus-subhirtella-southern-gem-higan-cherry/ /trees/prunus-x-subhirtella-southern-gem/ 301
 /trees/prunus-persica-var-nectarina-button-bright-nectarine/ /trees/prunus-persica-var-nectarina-button-bright/ 301
 /trees/prunus-persica-var-nectarina-goldmine-nectarine/ /trees/prunus-persica-var-nectarina-goldmine/ 301
 /trees/prunus-persica-var-nectarina-mabel-nectarine/ /trees/prunus-persica-var-nectarina-mabel/ 301
@@ -1298,3 +1298,8 @@
 /trees/prunus-campanulata-okame/ /trees/prunus-x-incam-okame/ 301
 /trees/prunus-campanulata-jims-delight/ /trees/prunus-x-incam-jims-delight/ 301
 /trees/prunus-domestica-luisa/ /trees/prunus-salicina-luisa/ 301
+/trees/prunus-subhirtella-autumnalis-rosea/ /trees/prunus-x-subhirtella-autumnalis-rosea/ 301
+/trees/prunus-subhirtella-falling-snow/ /trees/prunus-x-subhirtella-falling-snow/ 301
+/trees/prunus-subhirtella-peggy-wilson/ /trees/prunus-x-subhirtella-peggy-wilson/ 301
+/trees/prunus-subhirtella-pendula-rosea/ /trees/prunus-x-subhirtella-pendula-rosea/ 301
+/trees/prunus-subhirtella-southern-gem/ /trees/prunus-x-subhirtella-southern-gem/ 301
