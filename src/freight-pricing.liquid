@@ -1,0 +1,34 @@
+---
+layout: layouts/base.liquid
+title: Freight Pricing
+type: freight-pricing
+description: Leafland is the home of quality specimen trees. We stock a wide range of big trees and large grade trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.
+---
+
+<div id="content">
+
+    <h1>Freight Pricing</h1>
+
+    <p>All prices are per tree and exclude GST. Each region has a minimum freight charge.</p>
+
+    <div id="freight-data">
+        <table>
+
+            <tr>
+                <th>Region</th>
+                <th>Grade Size</th>
+                <th>Price</th>
+            </tr>
+
+            {% for array in freight %}
+            <tr>
+                <td>{{ array[0] }}</td>
+                <td>{{ array[1] }}</td>
+                <td>{{ array[2] }}</td>
+            </tr>
+            {% endfor %}
+
+        </table>
+    </div>
+
+</div>
