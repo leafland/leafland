@@ -30,7 +30,7 @@
     {% if forloop.index == 1 %}
 
     {% assign imageInfo = image | split: "&" %}
-    <link rel="preload" as="image" href="https://images.leafland.co.nz/rs,s:1000/q:75/o:auto/?image=https://files.leafland.co.nz/{{ imageInfo[0] }}">
+    <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ imageInfo[0] }}">
 
     {% break %}
 
@@ -43,7 +43,7 @@
     {% endfor %}
 
     {% elsif type == 'index' %}
-      <link rel="preload" as="image" href="https://images.leafland.co.nz/rs,s:2000/q:75/o:auto/?image=https://files.leafland.co.nz/metrosideros-excelsa/metrosideros-excelsa-beach.jpg">
+      <link rel="preload" as="image" href="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=2000/https://files.leafland.co.nz/metrosideros-excelsa/metrosideros-excelsa-beach.jpg">
     {% endif %}
 
     <style>
@@ -199,7 +199,7 @@
               }
             ],
 
-            "image": "https://images.leafland.co.nz/rs,s:1500/q:75/o:auto/?image=https://files.leafland.co.nz/{{ mainImage }}",
+            "image": "https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1500/https://files.leafland.co.nz/{{ mainImage }}",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {
