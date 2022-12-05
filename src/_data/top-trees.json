@@ -138,10 +138,10 @@
         "mainImage": "metrosideros-excelsa/metrosideros-excelsa.jpg"
       },
       {
-        "botanicalName": "<i>Michelia figo</i>",
+        "botanicalName": "<i>magnolia figo</i>",
         "commonName": "Port Wine Magnolia",
-        "url": "michelia-figo",
-        "mainImage": "michelia-figo/michelia-figo.jpeg"
+        "url": "magnolia-figo",
+        "mainImage": "magnolia-figo/magnolia-figo.jpeg"
       },
       {
         "botanicalName": "<i>Prunus serrulata</i> 'Shimidsu-sakura'",
@@ -284,10 +284,10 @@
         "mainImage": "griselinia-littoralis-broadway-mint/griselinia-littoralis-broadway-mint.jpeg"
       },
       {
-        "botanicalName": "<i>Michelia</i> 'Fairy White'",
+        "botanicalName": "<i>magnolia</i> 'Fairy White'",
         "commonName": "Fairy Magnolia",
-        "url": "michelia-fairy-white",
-        "mainImage": "michelia-fairy-white/michelia-fairy-white.jpeg"
+        "url": "magnolia-fairy-white",
+        "mainImage": "magnolia-fairy-white/magnolia-fairy-white.jpeg"
       },
       {
         "botanicalName": "<i>Olea europaea</i> 'El Greco'",
@@ -479,10 +479,10 @@
     "description": "Leafland is the home of quality specimen trees. We stock a wide range of trees including native trees, fruit trees, hedging trees, and flowering trees. Buy trees online now! We provide New Zealand with quality specimen trees and deliver all over the country.",
     "trees": [
       {
-        "botanicalName": "<i>Alectryon excelsus</i> subsp. <i>excelsus</i>",
+        "botanicalName": "<i>Alectryon excelsus</i>",
         "commonName": "Tītoki",
-        "url": "alectryon-excelsus-subsp-excelsus",
-        "mainImage": "alectryon-excelsus-subsp-excelsus/alectryon-excelsus-subsp-excelsus.jpg"
+        "url": "alectryon-excelsus",
+        "mainImage": "alectryon-excelsus/alectryon-excelsus.jpg"
       },
       {
         "botanicalName": "<i>Alnus jorullensis</i>",
@@ -509,10 +509,10 @@
         "mainImage": "malus-ioensis-plena/malus-ioensis-plena.jpg"
       },
       {
-        "botanicalName": "<i>Michelia</i> 'Fairy Cream'",
+        "botanicalName": "<i>magnolia</i> 'Fairy Cream'",
         "commonName": "Fairy Magnolia",
-        "url": "michelia-fairy-cream",
-        "mainImage": "michelia-fairy-cream/michelia-fairy-cream.jpeg"
+        "url": "magnolia-fairy-cream",
+        "mainImage": "magnolia-fairy-cream/magnolia-fairy-cream.jpeg"
       },
       {
         "botanicalName": "<i>Olea europaea</i> 'El Greco'",
@@ -722,10 +722,10 @@
         "mainImage": "acer-platanoides-globosum/acer-platanoides-globosum.jpg"
       },
       {
-        "botanicalName": "<i>Alectryon excelsus</i> subsp. <i>excelsus</i>",
+        "botanicalName": "<i>Alectryon excelsus</i>",
         "commonName": "Tītoki",
-        "url": "alectryon-excelsus-subsp-excelsus",
-        "mainImage": "alectryon-excelsus-subsp-excelsus/alectryon-excelsus-subsp-excelsus.jpg"
+        "url": "alectryon-excelsus",
+        "mainImage": "alectryon-excelsus/alectryon-excelsus.jpg"
       },
       {
         "botanicalName": "<i>Elaeagnus</i> x <i>submacrophylla</i>",
@@ -758,10 +758,10 @@
         "mainImage": "liquidambar-styraciflua-gumball/liquidambar-styraciflua-gumball.jpeg"
       },
       {
-        "botanicalName": "<i>Michelia gracipes</i>",
-        "commonName": "Michelia",
-        "url": "michelia-gracipes",
-        "mainImage": "michelia-gracipes/michelia-gracipes.jpeg"
+        "botanicalName": "<i>Michelia 'Gracipes'</i>",
+        "commonName": "Magnolia",
+        "url": "magnolia-laevifolia-gracipes",
+        "mainImage": "magnolia-laevifolia-gracipes/magnolia-laevifolia-gracipes.jpeg"
       },
       {
         "botanicalName": "<i>Podocarpus macrophyllus</i>",
