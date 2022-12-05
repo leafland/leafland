@@ -91,10 +91,6 @@ main {
   grid-area: 1 / 1;
 }
 
-.thumb-image-full {
-  z-index: -1;
-}
-
 .thumb-image,
 .thumb-image-low {
   object-fit: cover;

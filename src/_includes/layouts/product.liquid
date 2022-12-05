@@ -26,8 +26,7 @@ type: product
             {% if forloop.index == 1 %}
 
             {% assign imageInfo = image | split: "&" %}
-                <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=10,width=100,blur=10/https://files.leafland.co.nz/{{ imageInfo[0] }}" height="1000" width="1000" alt="{{ imageInfo[1] }}" loading="eager" class="main-img-low">
-                <img src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=1000/https://files.leafland.co.nz/{{ imageInfo[0] }}" height="1000" width="1000" alt="{{ imageInfo[1] }}" loading="eager" class="main-img" style="display:none" onload="document.querySelector('.main-img-low').style.setProperty('opacity','0');this.style.setProperty('display','inline-block')">
+                <img src="https://img.imageboss.me/leafland/width/1000/quality:75/{{ imageInfo[0] }}" height="1000" width="1000" alt="{{ imageInfo[1] }}" loading="eager" class="main-img">
 
             {% else %}
 
@@ -560,8 +559,7 @@ type: product
 
         {% assign imageInfo = image | split: "&" %}
         <div class="thumb-image-div">
-            <img class="thumb-image-low" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=1,width=50,blur=5/https://files.leafland.co.nz/{{ imageInfo[0] }}" width="75" height="75" alt="{{ imageInfo[1] }}" id="thumb-image-low-{{forloop.index}}" loading="eager">
-            <img class="thumb-image" src="https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=150/https://files.leafland.co.nz/{{ imageInfo[0] }}" width="75" height="75" alt="{{ imageInfo[1] }}" class="thumb-image-full" onload="document.querySelector('#thumb-image-low-{{forloop.index}}').style.setProperty('display','none')" loading="lazy">
+            <img class="thumb-image" src="https://img.imageboss.me/leafland/width/150/quality:75/{{ imageInfo[0] }}" width="75" height="75" alt="{{ imageInfo[1] }}" class="thumb-image"  loading="lazy" data-url="{{ imageInfo[0] }}">
         </div>
         {% endfor %}
 

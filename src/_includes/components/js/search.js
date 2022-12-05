@@ -112,9 +112,7 @@ async function displayResults(results) {
     titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://leafland.co.nz/cdn-cgi/image/format=auto,metadata=none,quality=75,width=75/https://files.leafland.co.nz/${
-      results[i].images[0].split("&")[0]
-    }`;
+    resultImage.src = `https://img.imageboss.me/leafland/width/75/quality:75/${results[i].images[0].split("&")[0]}`;
     resultImage.width = "50";
     resultImage.height = "50";
     resultImage.loading = "lazy";
