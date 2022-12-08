@@ -125,7 +125,7 @@ async function displayData(dataSet) {
           treeData.forEach((tree) => {
             if (tree.code === dataSet[i][13]) {
               link.href = `/trees/${tree.url}/`;
-              link.textContent = dataSet[i][j].replaceAll('"', "");
+              link.innerHTML = tree.fullName;
             }
           });
           if (link.textContent !== "") {
