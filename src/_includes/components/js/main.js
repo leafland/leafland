@@ -57,23 +57,6 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
   event.preventDefault();
   document.querySelector("#subscribe").value = "Subscribing...";
 
-  const subscribeExternalBody = JSON.stringify({
-    fromAddress: "administrator@leafland.co.nz",
-    fromName: "Admin | Leafland",
-    toAddress: "joshua@leafland.co.nz",
-    replyToAddress: "administrator@leafland.co.nz",
-    replyToName: "Admin | Leafland",
-    subject: "New Subscriber",
-    html: `<!DOCTYPE html><html><head><body>Name: ${event.target.firstName.value}, Email: ${event.target.email.value}</body></html>`,
-    isOpenTracked: false,
-  });
-
-  const subscribeExternalRequestOptions = {
-    method: "POST",
-    mode: "no-cors",
-    body: subscribeExternalBody,
-  };
-
   const newContactExternalBody = JSON.stringify({
     email_address: event.target.email.value,
     status: "subscribed",
@@ -90,11 +73,7 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
   };
 
   (async function () {
-    await fetch("https://test.leafland.co.nz", newContactExternalRequestOptions)
-      .then((response) => {})
-      .catch((error) => {});
-
-    await fetch("https://subscribe.leafland.co.nz", subscribeExternalRequestOptions)
+    await fetch("https://update-contacts.leafland.co.nz", newContactExternalRequestOptions)
       .then((response) => {
         document.querySelector("#email-signup").innerHTML = `<p>Thanks for subscribing!</p>`;
       })
