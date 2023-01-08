@@ -75,13 +75,12 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
   };
 
   const newContactExternalBody = JSON.stringify({
-    emailAddress: event.target.email.value,
-    customProps: {
-      firstName: event.target.firstName.value,
-      name: event.target.firstName.value,
-      group: "retail",
+    email_address: event.target.email.value,
+    status: "subscribed",
+    merge_fields: {
+      FNAME: event.target.firstName.value,
     },
-    groups: ["63505e05ba58556251082c42"],
+    tags: ["retail"],
   });
 
   const newContactExternalRequestOptions = {
@@ -91,7 +90,7 @@ document.querySelector("#subscribe-form").addEventListener("submit", (event) => 
   };
 
   (async function () {
-    await fetch("https://update-contacts.leafland.co.nz", newContactExternalRequestOptions)
+    await fetch("https://test.leafland.co.nz", newContactExternalRequestOptions)
       .then((response) => {})
       .catch((error) => {});
 
