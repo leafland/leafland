@@ -9,13 +9,18 @@ main {
   gap: 5rem;
 }
 
+#tree-name-block {
+  display: grid;
+  gap: 0.5rem;
+}
+
 .tree-botanical-name {
   font-size: var(--font-size-7);
   font-weight: 900;
 }
 
 .tree-common-name {
-  font-size: var(--font-size-2);
+  font-size: var(--font-size-3);
   display: inline-block;
   font-weight: 700;
   background: var(--invert-background-color);
