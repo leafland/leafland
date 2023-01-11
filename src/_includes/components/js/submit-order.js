@@ -146,7 +146,7 @@ async function populateForm() {
     formTreeRight.classList.add("form-tree-right");
 
     let treeImage = document.createElement("img");
-    treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75/${tree.mainImage}`;
+    treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75,format:auto/${tree.mainImage}`;
     treeImage.width = "150";
     treeImage.height = "150";
     treeImage.alt = `${tree.url

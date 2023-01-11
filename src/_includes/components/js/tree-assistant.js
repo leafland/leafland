@@ -397,7 +397,7 @@ document.querySelector("#foliageColour-next").addEventListener("click", () => {
 
       let treeImage = document.createElement("img");
 
-      treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75/${
+      treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75,format:auto/${
         filteredTrees[i].images[0].split("&")[0]
       }`;
       treeImage.width = "150";
