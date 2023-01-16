@@ -539,10 +539,10 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-cappadocicum-aureum/acer-cappadocicum-aureum.jpg&acer cappadocicum aureum",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-autumn-foliage.jpg&acer cappadocicum aureum autumn foliage",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-new-foliage.jpg&acer cappadocicum aureum new foliage",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-forest.jpg&acer cappadocicum aureum forest",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-park.jpg&acer cappadocicum aureum park"
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-1.jpg&acer cappadocicum aureum",
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-2.jpg&acer cappadocicum aureum",
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-3.jpg&acer cappadocicum aureum",
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-4.jpg&acer cappadocicum aureum"
     ],
     "gradeImages": []
   },
@@ -590,12 +590,12 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum.jpg&acer cappadocicum rubrum",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-autumn-form.jpg&acer cappadocicum rubrum autumn form",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-foliage.jpeg&acer cappadocicum rubrum foliage",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-new-foliage.jpeg&acer cappadocicum rubrum new foliage",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-autumn-foliage.jpg&acer cappadocicum rubrum autumn foliage",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-summer.jpg&acer cappadocicum rubrum summer",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-new-growth.jpg&acer cappadocicum rubrum new growth"
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-1.jpg&acer cappadocicum rubrum",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-2.jpg&acer cappadocicum rubrum",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-3.jpeg&acer cappadocicum rubrum",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-4.jpeg&acer cappadocicum rubrum",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-5.jpg&acer cappadocicum rubrum",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-6.jpg&acer cappadocicum rubrum"
     ],
     "gradeImages": []
   },
