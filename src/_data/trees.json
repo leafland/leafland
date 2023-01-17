@@ -99,14 +99,14 @@
     "treeShape": "acacia/acacia-general.svg",
     "images": [
       "acacia-baileyana-purpurea/acacia-baileyana-purpurea.jpg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-1.jpg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-2.jpeg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-3.jpg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-4.jpeg",
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-2.jpg",
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-3.jpeg",
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-4.jpg",
       "acacia-baileyana-purpurea/acacia-baileyana-purpurea-5.jpeg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-6.jpg",
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-6.jpeg",
       "acacia-baileyana-purpurea/acacia-baileyana-purpurea-7.jpg",
-      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-8.jpg"
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-8.jpg",
+      "acacia-baileyana-purpurea/acacia-baileyana-purpurea-9.jpg"
     ],
     "gradeImages": []
   },
@@ -154,8 +154,8 @@
     "treeShape": "acacia/acacia-general.svg",
     "images": [
       "acacia-floribunda/acacia-floribunda.jpg",
-      "acacia-floribunda/acacia-floribunda-1.jpg",
-      "acacia-floribunda/acacia-floribunda-2.jpg"
+      "acacia-floribunda/acacia-floribunda-2.jpg",
+      "acacia-floribunda/acacia-floribunda-3.jpg"
     ],
     "gradeImages": []
   },
@@ -203,11 +203,11 @@
     "treeShape": "acacia/acacia-weeping.svg",
     "images": [
       "acacia-howittii/acacia-howittii.jpg",
-      "acacia-howittii/acacia-howittii-1.jpg",
       "acacia-howittii/acacia-howittii-2.jpg",
       "acacia-howittii/acacia-howittii-3.jpg",
       "acacia-howittii/acacia-howittii-4.jpg",
-      "acacia-howittii/acacia-howittii-5.jpg"
+      "acacia-howittii/acacia-howittii-5.jpg",
+      "acacia-howittii/acacia-howittii-6.jpg"
     ],
     "gradeImages": ["25L&acacia-howittii/grades/acacia-howittii-25L-grade.jpeg&acacia-howittii 25L grade&June 2022"]
   },
@@ -255,7 +255,6 @@
     "treeShape": "acacia/acacia-large.svg",
     "images": [
       "acacia-melanoxylon/acacia-melanoxylon.jpg",
-      "acacia-melanoxylon/acacia-melanoxylon-1.jpg",
       "acacia-melanoxylon/acacia-melanoxylon-2.jpg",
       "acacia-melanoxylon/acacia-melanoxylon-3.jpg",
       "acacia-melanoxylon/acacia-melanoxylon-4.jpg",
@@ -264,10 +263,11 @@
       "acacia-melanoxylon/acacia-melanoxylon-7.jpg",
       "acacia-melanoxylon/acacia-melanoxylon-8.jpg",
       "acacia-melanoxylon/acacia-melanoxylon-9.jpg",
-      "acacia-melanoxylon/acacia-melanoxylon-10.jpeg",
-      "acacia-melanoxylon/acacia-melanoxylon-11.jpg",
+      "acacia-melanoxylon/acacia-melanoxylon-10.jpg",
+      "acacia-melanoxylon/acacia-melanoxylon-11.jpeg",
       "acacia-melanoxylon/acacia-melanoxylon-12.jpg",
-      "acacia-melanoxylon/acacia-melanoxylon-13.jpg"
+      "acacia-melanoxylon/acacia-melanoxylon-13.jpg",
+      "acacia-melanoxylon/acacia-melanoxylon-14.jpg"
     ],
     "gradeImages": []
   },
@@ -315,14 +315,14 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-buergerianum/acer-buergerianum.jpg",
-      "acer-buergerianum/acer-buergerianum-1.jpg",
       "acer-buergerianum/acer-buergerianum-2.jpg",
       "acer-buergerianum/acer-buergerianum-3.jpg",
       "acer-buergerianum/acer-buergerianum-4.jpg",
       "acer-buergerianum/acer-buergerianum-5.jpeg",
       "acer-buergerianum/acer-buergerianum-6.jpg",
       "acer-buergerianum/acer-buergerianum-7.jpg",
-      "acer-buergerianum/acer-buergerianum-8.jpg"
+      "acer-buergerianum/acer-buergerianum-8.jpg",
+      "acer-buergerianum/acer-buergerianum-9.jpg"
     ],
     "gradeImages": []
   },
@@ -370,11 +370,11 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-campbellii-gwavas/acer-campbellii-gwavas.jpg",
-      "acer-campbellii-gwavas/acer-campbellii-gwavas-1.jpg",
       "acer-campbellii-gwavas/acer-campbellii-gwavas-2.jpg",
       "acer-campbellii-gwavas/acer-campbellii-gwavas-3.jpg",
       "acer-campbellii-gwavas/acer-campbellii-gwavas-4.jpg",
-      "acer-campbellii-gwavas/acer-campbellii-gwavas-5.jpg"
+      "acer-campbellii-gwavas/acer-campbellii-gwavas-5.jpg",
+      "acer-campbellii-gwavas/acer-campbellii-gwavas-6.jpg"
     ],
     "gradeImages": []
   },
@@ -422,7 +422,6 @@
     "treeShape": "acer/acer-large.svg",
     "images": [
       "acer-campestre/acer-campestre.jpg",
-      "acer-campestre/acer-campestre-1.jpg",
       "acer-campestre/acer-campestre-2.jpg",
       "acer-campestre/acer-campestre-3.jpg",
       "acer-campestre/acer-campestre-4.jpg",
@@ -437,7 +436,8 @@
       "acer-campestre/acer-campestre-13.jpg",
       "acer-campestre/acer-campestre-14.jpg",
       "acer-campestre/acer-campestre-15.jpg",
-      "acer-campestre/acer-campestre-16.jpg"
+      "acer-campestre/acer-campestre-16.jpg",
+      "acer-campestre/acer-campestre-17.jpg"
     ],
     "gradeImages": []
   },
@@ -485,13 +485,13 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-capillipes/acer-capillipes.jpg",
-      "acer-capillipes/acer-capillipes-1.jpg",
       "acer-capillipes/acer-capillipes-2.jpg",
       "acer-capillipes/acer-capillipes-3.jpg",
       "acer-capillipes/acer-capillipes-4.jpg",
       "acer-capillipes/acer-capillipes-5.jpg",
       "acer-capillipes/acer-capillipes-6.jpg",
-      "acer-capillipes/acer-capillipes-7.jpg"
+      "acer-capillipes/acer-capillipes-7.jpg",
+      "acer-capillipes/acer-capillipes-8.jpg"
     ],
     "gradeImages": []
   },
@@ -539,10 +539,10 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-cappadocicum-aureum/acer-cappadocicum-aureum.jpg",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-1.jpg",
       "acer-cappadocicum-aureum/acer-cappadocicum-aureum-2.jpg",
       "acer-cappadocicum-aureum/acer-cappadocicum-aureum-3.jpg",
-      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-4.jpg"
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-4.jpg",
+      "acer-cappadocicum-aureum/acer-cappadocicum-aureum-5.jpg"
     ],
     "gradeImages": []
   },
@@ -590,12 +590,12 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum.jpg",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-1.jpg",
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-2.jpg",
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-3.jpeg",
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-4.jpeg",
       "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-5.jpg",
-      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-6.jpg"
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-6.jpg",
+      "acer-cappadocicum-rubrum/acer-cappadocicum-rubrum-7.jpg"
     ],
     "gradeImages": []
   },
@@ -643,8 +643,8 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-caudatifolium-summer-surprise/acer-caudatifolium-summer-surprise.jpg",
-      "acer-caudatifolium-summer-surprise/acer-caudatifolium-summer-surprise-1.jpg",
-      "acer-caudatifolium-summer-surprise/acer-caudatifolium-summer-surprise-2.jpg"
+      "acer-caudatifolium-summer-surprise/acer-caudatifolium-summer-surprise-2.jpg",
+      "acer-caudatifolium-summer-surprise/acer-caudatifolium-summer-surprise-3.jpg"
     ],
     "gradeImages": []
   },
@@ -692,13 +692,13 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-davidii/acer-davidii.jpg",
-      "acer-davidii/acer-davidii-1.jpg",
       "acer-davidii/acer-davidii-2.jpg",
       "acer-davidii/acer-davidii-3.jpg",
       "acer-davidii/acer-davidii-4.jpg",
       "acer-davidii/acer-davidii-5.jpg",
       "acer-davidii/acer-davidii-6.jpg",
-      "acer-davidii/acer-davidii-7.jpg"
+      "acer-davidii/acer-davidii-7.jpg",
+      "acer-davidii/acer-davidii-8.jpg"
     ],
     "gradeImages": []
   },
@@ -744,7 +744,7 @@
       "spring": ""
     },
     "treeShape": "acer/acer-general.svg",
-    "images": ["acer-gracefield/acer-gracefield.jpeg", "acer-gracefield/acer-gracefield-1.jpg"],
+    "images": ["acer-gracefield/acer-gracefield.jpeg", "acer-gracefield/acer-gracefield-2.jpg"],
     "gradeImages": []
   },
   {
@@ -791,15 +791,14 @@
     "treeShape": "acer/acer-general.svg",
     "images": [
       "acer-griseum/acer-griseum.jpg",
-      "acer-griseum/acer-griseum-1.jpg",
       "acer-griseum/acer-griseum-2.jpg",
       "acer-griseum/acer-griseum-3.jpg",
       "acer-griseum/acer-griseum-4.jpg",
       "acer-griseum/acer-griseum-5.jpg",
       "acer-griseum/acer-griseum-6.jpg",
       "acer-griseum/acer-griseum-7.jpg",
-      "acer-griseum/acer-griseum-8-foliage.jpeg",
-      "acer-griseum/acer-griseum-9.jpg",
+      "acer-griseum/acer-griseum-8.jpg",
+      "acer-griseum/acer-griseum-9.jpeg",
       "acer-griseum/acer-griseum-10.jpg",
       "acer-griseum/acer-griseum-11.jpg",
       "acer-griseum/acer-griseum-12.jpg",
@@ -809,7 +808,8 @@
       "acer-griseum/acer-griseum-16.jpg",
       "acer-griseum/acer-griseum-17.jpg",
       "acer-griseum/acer-griseum-18.jpg",
-      "acer-griseum/acer-griseum-19.jpg"
+      "acer-griseum/acer-griseum-19.jpg",
+      "acer-griseum/acer-griseum-20.jpg"
     ],
     "gradeImages": []
   },
