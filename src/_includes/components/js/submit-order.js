@@ -356,11 +356,15 @@ submitForm.addEventListener("submit", (event) => {
   const { name, email, phone, streetAddress, townCity, returningCustomer, notes } = event.target;
 
   const internalBody = JSON.stringify({
-    fromAddress: "administrator@leafland.co.nz",
-    fromName: "Admin | Leafland",
-    toAddress: "sales@leafland.co.nz",
-    replyToAddress: email.value,
-    replyToName: name.value,
+    from_email: "administrator@leafland.co.nz",
+    from_name: "Admin | Leafland",
+    to: [
+      {
+        email: "sales@leafland.co.nz",
+      },
+    ],
+    // replyToAddress: email.value,
+    // replyToName: name.value,
     subject: "Order from " + name.value,
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Order from ${
       returningCustomer.value === "No" ? name.value + " (New Customer)" : name.value + " (Returning Customer)"
@@ -375,15 +379,20 @@ submitForm.addEventListener("submit", (event) => {
       .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
       .replace(/Order Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")}</p></body></html>`,
-    isOpenTracked: false,
+    track_opens: false,
+    track_clicks: false,
   });
 
   const externalBody = JSON.stringify({
-    fromAddress: "administrator@leafland.co.nz",
-    fromName: "Admin | Leafland",
-    toAddress: email.value,
-    replyToAddress: "sales@leafland.co.nz",
-    replyToName: "Sales | Leafland",
+    from_email: "administrator@leafland.co.nz",
+    from_name: "Admin | Leafland",
+    to: [
+      {
+        email: email.value,
+      },
+    ],
+    // replyToAddress: "sales@leafland.co.nz",
+    // replyToName: "Sales | Leafland",
     subject: "Thanks for your order!",
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Thanks for your order ${
       name.value
@@ -400,7 +409,8 @@ submitForm.addEventListener("submit", (event) => {
       .replace(/<\/span>/, "")}</p><p><b>ORDER TOTAL:</b> ${orderTotal.innerHTML
       .replace(/Order Total: <span class="accent-color">/, "")
       .replace(/<\/span>/, "")}</p></body></html>`,
-    isOpenTracked: false,
+    track_opens: false,
+    track_clicks: false,
   });
 
   const internalRequestOptions = {
