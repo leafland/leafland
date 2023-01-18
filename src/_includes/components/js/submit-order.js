@@ -357,7 +357,7 @@ submitForm.addEventListener("submit", (event) => {
 
   const internalBody = JSON.stringify({
     from_email: "administrator@leafland.co.nz",
-    from_name: "Admin | Leafland",
+    from_name: "Leafland Admin",
     to: [
       {
         email: "sales@leafland.co.nz",
@@ -384,8 +384,8 @@ submitForm.addEventListener("submit", (event) => {
   });
 
   const externalBody = JSON.stringify({
-    from_email: "administrator@leafland.co.nz",
-    from_name: "Admin | Leafland",
+    from_email: "sales@leafland.co.nz",
+    from_name: "Leafland Sales",
     to: [
       {
         email: email.value,
