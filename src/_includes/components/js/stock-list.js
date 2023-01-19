@@ -115,48 +115,50 @@ async function displayData(dataSet) {
         table.append(row);
       }
 
-      let row = document.createElement("tr");
+      if (!dataSet[i][0].includes("?")) {
+        let row = document.createElement("tr");
 
-      for (let j = 0; j < 10; j++) {
-        if (j === 0) {
-          let cell = document.createElement("td");
-          let link = document.createElement("a");
+        for (let j = 0; j < 10; j++) {
+          if (j === 0) {
+            let cell = document.createElement("td");
+            let link = document.createElement("a");
 
-          treeData.forEach((tree) => {
-            if (tree.code === dataSet[i][13]) {
-              link.href = `/trees/${tree.url}/`;
-              link.innerHTML = tree.fullName;
-            }
-          });
-          if (link.textContent !== "") {
-            cell.append(link);
-          } else {
-            cell.textContent = dataSet[i][j].replaceAll('"', "");
-          }
-
-          row.append(cell);
-        } else {
-          if (stockListType === "retail") {
-            if (j !== 4 && j !== 5) {
-              let cell = document.createElement("td");
-
+            treeData.forEach((tree) => {
+              if (tree.code === dataSet[i][13]) {
+                link.href = `/trees/${tree.url}/`;
+                link.innerHTML = tree.fullName;
+              }
+            });
+            if (link.textContent !== "") {
+              cell.append(link);
+            } else {
               cell.textContent = dataSet[i][j].replaceAll('"', "");
-
-              row.append(cell);
             }
+
+            row.append(cell);
           } else {
-            if (j !== 4) {
-              let cell = document.createElement("td");
+            if (stockListType === "retail") {
+              if (j !== 4 && j !== 5) {
+                let cell = document.createElement("td");
 
-              cell.textContent = dataSet[i][j].replaceAll('"', "");
+                cell.textContent = dataSet[i][j].replaceAll('"', "");
 
-              row.append(cell);
+                row.append(cell);
+              }
+            } else {
+              if (j !== 4) {
+                let cell = document.createElement("td");
+
+                cell.textContent = dataSet[i][j].replaceAll('"', "");
+
+                row.append(cell);
+              }
             }
           }
         }
-      }
 
-      table.append(row);
+        table.append(row);
+      }
     }
 
     stockDataDiv.append(table);
