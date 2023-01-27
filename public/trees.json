@@ -11709,7 +11709,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITLIMSUB",
+    "code": "CITAURSUB",
     "fullName": "<i>Citrus</i> x <i>aurantiifolia</i> 'Sublime'",
     "commonName": "Key Lime",
     "otherCommonNames": "",
@@ -11758,7 +11758,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITLIMBEA",
+    "code": "CITLATBEA",
     "fullName": "<i>Citrus</i> x <i>latifolia</i> 'Bearss'",
     "commonName": "Persian Lime",
     "otherCommonNames": "Tahiti Lime",
@@ -11806,7 +11806,7 @@
     ]
   },
   {
-    "code": "CITLIMTAH",
+    "code": "CITLATTAH",
     "fullName": "<i>Citrus</i> x <i>latifolia</i> 'Tahitian'",
     "commonName": "Persian Lime",
     "otherCommonNames": "Tahiti Lime",
