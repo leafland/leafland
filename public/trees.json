@@ -1167,7 +1167,7 @@
       "spring": ""
     },
     "treeShape": "acer-palmatum/acer-palmatum-general.svg",
-    "images": ["", "-2"],
+    "images": ["-1", "-2"],
     "gradeImages": []
   },
   {
@@ -1260,7 +1260,7 @@
       "spring": ""
     },
     "treeShape": "acer-palmatum/acer-palmatum-general.svg",
-    "images": ["", "-2", "-3", "-4", "-5"],
+    "images": ["-1", "-2", "-3", "-4", "-5"],
     "gradeImages": [
       "45L&acer-palmatum-burgundy-lace/grades/acer-palmatum-burgundy-lace-45L-grade.jpg&acer-palmatum-burgundy-lace 45L grade&October 2022"
     ]
