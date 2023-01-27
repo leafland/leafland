@@ -15706,7 +15706,7 @@
     "gradeImages": []
   },
   {
-    "code": "HAZBAR",
+    "code": "CORAVEBAR",
     "fullName": "<i>Corylus avellana</i> 'Barcelona'",
     "commonName": "Hazelnut",
     "otherCommonNames": "Common Hazel",
@@ -15754,7 +15754,7 @@
     "gradeImages": []
   },
   {
-    "code": "HAZMERDEBOL",
+    "code": "CORAVEMERDEBOL",
     "fullName": "<i>Corylus avellana</i> 'Merveille de Bollwiller'",
     "commonName": "Hazelnut",
     "otherCommonNames": "Common Hazel",
@@ -15802,7 +15802,7 @@
     "gradeImages": []
   },
   {
-    "code": "HAZWHI",
+    "code": "CORAVEWHI",
     "fullName": "<i>Corylus avellana</i> 'Whiteheart'",
     "commonName": "Hazelnut",
     "otherCommonNames": "Common Hazel",
