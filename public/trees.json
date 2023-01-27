@@ -12477,6 +12477,53 @@
     "gradeImages": []
   },
   {
+    "code": "CITSINFUK",
+    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Fukumoto'",
+    "commonName": "Orange",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "citrus-x-sinensis-fukumoto",
+    "description": "Sweet, juicy, seedless fruit with a strong red-orange tinge to the rind. Excellent flavour, ripening in late-winter. Grow in full-sun. Scented white flowers throughout summer. Self-fertile. <a href='https://www.rhs.org.uk/plants/55274/citrus-sinensis/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>sinensis</i></a> is evergreen, a hybrid between <a href='https://www.rhs.org.uk/plants/136064/citrus-reticulata-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus reticulata</i></a> and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+maxima' target='_blank' rel='noopener noreferrer'><i>Citrus maxima</i></a>, and native to China, India, and Myanmar. <a href='https://en.wikipedia.org/wiki/Citrus_%C3%97_sinensis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>sinensis</i></a>. <i>Citrus</i> x <i>sinensis</i> 'Fukumoto' is believed to be a naturally occurring mutation of a <a href='/trees/citrus-x-sinensis-washington-navel/'><i>Citrus</i> x <i>sinensis</i> 'Washington Navel'</a> tree that was found in the 1960s in the garden of S. Fukumoto in Kokawa (Kokawa-Cho), Naga District, Wakayama Prefecture, Japan. The tree was donated to an American doctor named W. P. Bitters in 1983. Bitters selected this tree from a display of Japanese citrus trees and then brought <i>Citrus</i> x <i>sinensis</i> 'Fukumoto' to the United States Department of Agriculture quarantine facility in Glenn Dale, Maryland, United States. The tree spent a few years in quarantine before being released in September 1986.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "orange, red",
+      "spring": ""
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["citrus-x-sinensis-fukumoto/citrus-x-sinensis-fukumoto.jpg"],
+    "gradeImages": [
+      "45L&citrus-x-sinensis-fukumoto/grades/citrus-x-sinensis-fukumoto-45L-grade.jpg&citrus x sinensis fukumoto 45L grade&August 2022"
+    ]
+  },
+  {
     "code": "CITSINPARNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Parent Navel'",
     "commonName": "Orange",
@@ -12523,53 +12570,6 @@
       "citrus-x-sinensis-parent-navel/citrus-x-sinensis-parent-navel-2.jpg"
     ],
     "gradeImages": []
-  },
-  {
-    "code": "CITSINFUK",
-    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Fukumoto'",
-    "commonName": "Orange",
-    "otherCommonNames": "",
-    "synonyms": "",
-    "url": "citrus-x-sinensis-fukumoto",
-    "description": "Sweet, juicy, seedless fruit with a strong red-orange tinge to the rind. Excellent flavour, ripening in late-winter. Grow in full-sun. Scented white flowers throughout summer. Self-fertile. <a href='https://www.rhs.org.uk/plants/55274/citrus-sinensis/details' target='_blank' rel='noopener noreferrer'><i>Citrus</i> x <i>sinensis</i></a> is evergreen, a hybrid between <a href='https://www.rhs.org.uk/plants/136064/citrus-reticulata-(f)/details' target='_blank' rel='noopener noreferrer'><i>Citrus reticulata</i></a> and <a href='https://tropical.theferns.info/viewtropical.php?id=Citrus+maxima' target='_blank' rel='noopener noreferrer'><i>Citrus maxima</i></a>, and native to China, India, and Myanmar. <a href='https://en.wikipedia.org/wiki/Citrus_%C3%97_sinensis' target='_blank' rel='noopener noreferrer'>Learn more about <i>Citrus</i> x <i>sinensis</i></a>. <i>Citrus</i> x <i>sinensis</i> 'Fukumoto' is believed to be a naturally occurring mutation of a <a href='/trees/citrus-x-sinensis-washington-navel/'><i>Citrus</i> x <i>sinensis</i> 'Washington Navel'</a> tree that was found in the 1960s in the garden of S. Fukumoto in Kokawa (Kokawa-Cho), Naga District, Wakayama Prefecture, Japan. The tree was donated to an American doctor named W. P. Bitters in 1983. Bitters selected this tree from a display of Japanese citrus trees and then brought <i>Citrus</i> x <i>sinensis</i> 'Fukumoto' to the United States Department of Agriculture quarantine facility in Glenn Dale, Maryland, United States. The tree spent a few years in quarantine before being released in September 1986.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "orange, red",
-      "spring": ""
-    },
-    "treeShape": "citrus/citrus-general.svg",
-    "images": ["citrus-x-sinensis-fukumoto/citrus-x-sinensis-fukumoto.jpg"],
-    "gradeImages": [
-      "45L&citrus-x-sinensis-fukumoto/grades/citrus-x-sinensis-fukumoto-45L-grade.jpg&citrus x sinensis fukumoto 45L grade&August 2022"
-    ]
   },
   {
     "code": "CITSINVAL",
