@@ -507,9 +507,7 @@ async function populatePage(treeFinderStart, treeFinderEnd, trees, treeFilter = 
 
         let treeImage = document.createElement("img");
 
-        treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75,format:auto/${
-          treeDataSubset[i].images[0].split("&")[0]
-        }`;
+        treeImage.src = `https://img.imageboss.me/leafland/width/150/quality:75,format:auto/${treeDataSubset[i].url}/${treeDataSubset[i].url}${treeDataSubset[i].images[0]}.jpg`;
         treeImage.width = "150";
         treeImage.height = "150";
         treeImage.loading = "lazy";
