@@ -25,7 +25,7 @@ type: product
 
             {% if forloop.index == 1 %}
 
-                <img src="https://img.imageboss.me/leafland/width/1000/quality:75,format:auto/{{ image }}" height="1000" width="1000" alt="{{ tree.url | replace: '-', ' ' }}" loading="eager" class="main-img">
+                <img src="https://img.imageboss.me/leafland/width/1000/quality:75,format:auto/{{tree.url}}/{{tree.url}}{{ image }}.jpg" height="1000" width="1000" alt="{{ tree.url | replace: '-', ' ' }}" loading="eager" class="main-img">
 
             {% else %}
 
@@ -537,7 +537,7 @@ type: product
         {% for image in tree.images %}
 
         <div class="thumb-image-div">
-            <img class="thumb-image" src="https://img.imageboss.me/leafland/width/150/quality:75,format:auto/{{ image }}" width="75" height="75" alt="{{ tree.url | replace: '-', ' ' }}" class="thumb-image"  loading="lazy" data-url="{{ image }}">
+            <img class="thumb-image" src="https://img.imageboss.me/leafland/width/150/quality:75,format:auto/{{tree.url}}/{{tree.url}}{{ image }}.jpg" width="75" height="75" alt="{{ tree.url | replace: '-', ' ' }}" class="thumb-image"  loading="lazy" data-url="{{tree.url}}/{{tree.url}}{{ image }}.jpg">
         </div>
         {% endfor %}
 

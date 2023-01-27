@@ -363,8 +363,6 @@ submitForm.addEventListener("submit", (event) => {
         email: "sales@leafland.co.nz",
       },
     ],
-    // replyToAddress: email.value,
-    // replyToName: name.value,
     subject: "Order from " + name.value,
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Order from ${
       returningCustomer.value === "No" ? name.value + " (New Customer)" : name.value + " (Returning Customer)"
@@ -391,8 +389,6 @@ submitForm.addEventListener("submit", (event) => {
         email: email.value,
       },
     ],
-    // replyToAddress: "sales@leafland.co.nz",
-    // replyToName: "Sales | Leafland",
     subject: "Thanks for your order!",
     html: `<!DOCTYPE html><html><head><style>body{word-break:break-word} h2{margin-top: 50px} td,th{border:2px solid #000;padding:10px} table{border-collapse: collapse;}</style></head><body><h1>Thanks for your order ${
       name.value

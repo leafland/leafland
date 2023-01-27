@@ -38,7 +38,7 @@ if (loggedIn) {
   }
   addEventListeners();
 
-  productImage = mainImg.src.split("files.leafland.co.nz/")[1];
+  productImage = mainImg.src.split("auto/")[1];
 
   await getProductStockData();
 

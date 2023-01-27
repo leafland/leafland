@@ -30,7 +30,7 @@
     {% if forloop.index == 1 %}
 
     {% assign imageInfo = image | split: "&" %}
-    <link rel="preload" as="image" href="https://img.imageboss.me/leafland/width/1000/quality:75,format:auto/{{ imageInfo[0] }}">
+    <link rel="preload" as="image" href="https://img.imageboss.me/leafland/width/1000/quality:75,format:auto/{{tree.url}}/{{tree.url}}{{ imageInfo[0] }}.jpg">
 
     {% break %}
 
