@@ -12089,7 +12089,7 @@
     ]
   },
   {
-    "code": "CITGRAGOLSPE",
+    "code": "CITPARGOLSPE",
     "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Golden Special'",
     "commonName": "Grapefruit",
     "otherCommonNames": "",
@@ -12138,7 +12138,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITGRASTARUB",
+    "code": "CITPARSTARUB",
     "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Star Ruby'",
     "commonName": "Grapefruit",
     "otherCommonNames": "",
@@ -12188,7 +12188,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITMANENC",
+    "code": "CITRETENC",
     "fullName": "<i>Citrus reticulata</i> 'Encore'",
     "commonName": "Mandarin",
     "otherCommonNames": "",
@@ -12236,7 +12236,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITMANMIH",
+    "code": "CITRETMIH",
     "fullName": "<i>Citrus reticulata</i> 'Miho'",
     "commonName": "Mandarin",
     "otherCommonNames": "",
@@ -12284,7 +12284,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITMANOKI",
+    "code": "CITRETOKI",
     "fullName": "<i>Citrus reticulata</i> 'Okitsu'",
     "commonName": "Mandarin",
     "otherCommonNames": "",
@@ -12333,7 +12333,7 @@
     "gradeImages": []
   },
   {
-    "code": "CITMANSAT",
+    "code": "CITRETSAT",
     "fullName": "<i>Citrus reticulata</i> 'Satsuma'",
     "commonName": "Mandarin",
     "otherCommonNames": "",
