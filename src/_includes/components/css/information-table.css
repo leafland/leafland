@@ -10,7 +10,7 @@ main {
   gap: 3rem;
 }
 
-#freight-data {
+.information-table {
   overflow: auto;
   height: 30rem;
   width: 100%;
