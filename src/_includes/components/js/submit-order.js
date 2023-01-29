@@ -379,6 +379,9 @@ submitForm.addEventListener("submit", (event) => {
       .replace(/<\/span>/, "")}</p></body></html>`,
     track_opens: false,
     track_clicks: false,
+    headers: {
+      "Reply-To": email.value,
+    },
   });
 
   const externalBody = JSON.stringify({
