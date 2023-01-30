@@ -48,9 +48,7 @@ if (loggedIn) {
 })();
 
 async function getProductStockData() {
-  stockData = await fetch(
-    "https://sheets.googleapis.com/v4/spreadsheets/1MjWaC2gSJykzoEwj0CvGBjdQF-U4Yu1c4F-tVMU44NQ/values/Sheet1!A2:ZZ9999?key=AIzaSyCRZYs44jejbsBovgiExFgyJBOq0Vkd5uw"
-  )
+  stockData = await fetch("https://get-stock-data.leafland.co.nz/")
     .then((response) => response.json())
     .catch((error) => {});
 
