@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("_headers");
+  eleventyConfig.addPassthroughCopy({ "src/_data": "public" });
 
   return {
     dir: {
