@@ -318,14 +318,82 @@ main {
   width: max-content;
 }
 
+#similar-trees-inner {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+#similar-trees-title {
+  margin-bottom: 3rem;
+}
+
+.tree-item {
+  text-align: center;
+  display: grid;
+  justify-items: start;
+  align-items: center;
+  border-radius: 8px;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.tree-item img {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  background: var(--image-background-color);
+}
+
+.tree-item h2 {
+  text-align: left;
+  font-size: var(--font-size-3);
+  font-weight: 700;
+}
+
+.tree-item h3 {
+  text-align: left;
+  float: left;
+  margin-top: 0.4rem;
+  font-size: var(--font-size-1);
+  font-weight: 500;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .tree-item:hover {
+    background: var(--invert-background-color);
+    color: var(--invert-text-color);
+  }
+}
+
 @media (min-width: 800px) {
   #taxonomy-inner {
     grid-template-columns: 1fr 1fr;
+  }
+
+  div#similar-trees-inner {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .tree-item img {
+    width: 75px;
+    height: 75px;
   }
 }
 
 @media (min-width: 1000px) {
   div#grid-content {
     grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1200px) {
+  div#similar-trees-inner {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .tree-item img {
+    width: 100px;
+    height: 100px;
   }
 }
