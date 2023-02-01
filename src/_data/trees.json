@@ -4503,8 +4503,8 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
-    "height": "7m",
-    "width": "5m",
+    "height": "8m",
+    "width": "6m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -4596,8 +4596,8 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "toxic-to-animals",
-    "height": "7m",
-    "width": "5m",
+    "height": "8m",
+    "width": "6m",
     "stem": {
       "summer": "",
       "autumn": "",
