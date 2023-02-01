@@ -3206,7 +3206,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
+    "height": "8m",
     "width": "6m",
     "stem": {
       "summer": "",
@@ -3252,7 +3252,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
+    "height": "8m",
     "width": "6m",
     "stem": {
       "summer": "",
@@ -3298,7 +3298,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
+    "height": "8m",
     "width": "4m",
     "stem": {
       "summer": "",
@@ -3344,8 +3344,8 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "7m",
-    "width": "5m",
+    "height": "8m",
+    "width": "6m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -3437,8 +3437,8 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "7m",
-    "width": "5m",
+    "height": "8m",
+    "width": "6m",
     "stem": {
       "summer": "",
       "autumn": "",
