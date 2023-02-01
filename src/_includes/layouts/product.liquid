@@ -551,25 +551,36 @@ type: product
 
             <div id="similar-trees-inner">
             
-            {% for item in tree.similarTrees %}
+            {% for code in tree.similarTrees %}
 
-            <a class="tree-item" href="" data-code="{{ item }}">
+                {% for treeItem in trees %}
+
+                    {% if code == treeItem.code %}
+
+                    <a class="tree-item" href="/trees/{{ treeItem.url }}/">
             
-                <img src="" width="150" height="150" alt="">
-                
-                <div class="title-link-box">
-                
-                    <div class="title-container">
-                    
-                        <h2></h2>
+                        <img src="https://img.imageboss.me/leafland/width/150/quality:75,format:auto/{{ treeItem.url }}/{{ treeItem.url }}{{ treeItem.images[0] }}.jpg" width="150" height="150" alt="{{ treeItem.url | replace: '-', ' '}}">
                         
-                        <h3></h3>
+                        <div class="title-link-box">
+                        
+                            <div class="title-container">
+                            
+                                <h2>{{ treeItem.fullName }}</h2>
+                                
+                                <h3>{{ treeItem.commonName }}</h3>
+                            
+                            </div>
+                        
+                        </div>
                     
-                    </div>
-                
-                </div>
-            
-            </a>
+                    </a>
+
+                    {% break %}
+
+                    {% endif %}
+
+
+                {% endfor %}
 
             {% endfor %}
 

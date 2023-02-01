@@ -45,8 +45,6 @@ if (loggedIn) {
   await createStockValues();
 
   document.querySelector("#grade-sizes").style.setProperty("display", "grid");
-
-  createSimilarTrees();
 })();
 
 async function getProductStockData() {
@@ -282,27 +280,6 @@ function addTreeToSessionStorage(
   sessionStorage.setItem("trees", JSON.stringify(productTrees));
   sessionStorage.setItem("totalRetailCost", JSON.stringify(totalRetailCost));
   sessionStorage.setItem("totalWholesaleCost", JSON.stringify(totalWholesaleCost));
-}
-
-function createSimilarTrees() {
-  document.querySelectorAll(".tree-item").forEach((treeItem) => {
-    for (let i = 0; i < treeData.length; i++) {
-      if (treeData[i].code === treeItem.dataset.code) {
-        treeItem.href = `/trees/${treeData[i].url}/`;
-
-        treeItem.querySelector(
-          "img"
-        ).src = `https://img.imageboss.me/leafland/width/150/quality:75,format:auto/${treeData[i].url}/${treeData[i].url}${treeData[i].images[0]}.jpg`;
-
-        treeItem.querySelector("img").alt = treeData[i].url.replaceAll("-", " ");
-
-        treeItem.querySelector("h2").innerHTML = treeData[i].fullName;
-
-        treeItem.querySelector("h3").textContent = treeData[i].commonName;
-        break;
-      }
-    }
-  });
 }
 
 function addEventListeners() {
