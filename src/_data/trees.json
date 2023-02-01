@@ -4135,8 +4135,8 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
-    "width": "8m",
+    "height": "8m",
+    "width": "6m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -4181,7 +4181,7 @@
     "winterFoliage": "deciduous",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
+    "height": "8m",
     "width": "6m",
     "stem": {
       "summer": "",
