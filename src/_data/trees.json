@@ -30594,52 +30594,6 @@
     "similarTrees": []
   },
   {
-    "code": "MALDOMROYGALGRASMI",
-    "fullName": "<i>Malus domestica</i> 'Royal Gala/Granny Smith'",
-    "commonName": "Apple",
-    "otherCommonNames": "",
-    "synonyms": "",
-    "url": "malus-domestica-royal-gala-granny-smith",
-    "description": "Double apple. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a> and <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a> for descriptions. First image is of <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>, second is of <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>. <i>Malus domestica</i> is deciduous and native to Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Uzbekistan, and China. <a href='https://treesandshrubsonline.org/articles/malus/malus-domestica/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Malus domestica</i></a>.",
-    "uses": "attracts-bees",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "edible",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": "pink, white"
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "red, green",
-      "autumn": "red, green",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "apple/apple-general.svg",
-    "images": ["", "-2", "-3"],
-    "gradeImages": [],
-    "similarTrees": []
-  },
-  {
     "code": "MALDOMROYGALGOLDEL",
     "fullName": "<i>Malus domestica</i> 'Royal Gala/Golden Delicious'",
     "commonName": "Apple",
@@ -30682,6 +30636,52 @@
     },
     "treeShape": "apple/apple-general.svg",
     "images": ["", "-2"],
+    "gradeImages": [],
+    "similarTrees": []
+  },
+  {
+    "code": "MALDOMROYGALGRASMI",
+    "fullName": "<i>Malus domestica</i> 'Royal Gala/Granny Smith'",
+    "commonName": "Apple",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "malus-domestica-royal-gala-granny-smith",
+    "description": "Double apple. Pink buds open to white flowers in spring. See <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a> and <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a> for descriptions. First image is of <a href='/trees/malus-domestica-royal-gala/'><i>Malus domestica</i> 'Royal Gala'</a>, second is of <a href='/trees/malus-domestica-granny-smith/'><i>Malus domestica</i> 'Granny Smith'</a>. <i>Malus domestica</i> is deciduous and native to Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Uzbekistan, and China. <a href='https://treesandshrubsonline.org/articles/malus/malus-domestica/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Malus domestica</i></a>.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red, green",
+      "autumn": "red, green",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "apple/apple-general.svg",
+    "images": ["", "-2", "-3"],
     "gradeImages": [],
     "similarTrees": []
   },
