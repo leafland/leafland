@@ -5565,8 +5565,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "conifer",
-    "height": "10m",
-    "width": "5m",
+    "height": "8m",
+    "width": "4m",
     "stem": {
       "summer": "",
       "autumn": "",
