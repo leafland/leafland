@@ -6908,8 +6908,8 @@
     "winterFoliage": "semi-evergreen",
     "origin": "exotic",
     "types": "",
-    "height": "10m",
-    "width": "6m",
+    "height": "8m",
+    "width": "5m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -7190,7 +7190,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
-    "height": "2m",
+    "height": "3m",
     "width": "2m",
     "stem": {
       "summer": "",
@@ -7468,7 +7468,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
-    "height": "2m",
+    "height": "3m",
     "width": "2m",
     "stem": {
       "summer": "",
