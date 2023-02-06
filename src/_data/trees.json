@@ -7561,7 +7561,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
-    "height": "2m",
+    "height": "3m",
     "width": "2m",
     "stem": {
       "summer": "",
@@ -7746,7 +7746,7 @@
     "origin": "exotic",
     "types": "",
     "height": "2m",
-    "width": "1.5m",
+    "width": "1m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -8438,7 +8438,7 @@
     "origin": "exotic",
     "types": "",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -8578,7 +8578,7 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "",
-    "height": "2m",
+    "height": "3m",
     "width": "2m",
     "stem": {
       "summer": "",
@@ -8809,7 +8809,7 @@
     "origin": "exotic",
     "types": "",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
