@@ -10960,8 +10960,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "4m",
-    "width": "3m",
+    "height": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11052,8 +11052,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "2m",
-    "width": "1m",
+    "height": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11098,8 +11098,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "4m",
-    "width": "3m",
+    "height": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
