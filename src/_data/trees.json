@@ -10869,7 +10869,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -10915,7 +10915,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11098,8 +11098,8 @@
     "winterFoliage": "evergreen",
     "origin": "exotic",
     "types": "edible",
-    "height": "2m",
-    "width": "2m",
+    "height": "4m",
+    "width": "3m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11145,7 +11145,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11330,7 +11330,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11376,7 +11376,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "3m",
+    "width": "2m",
     "stem": {
       "summer": "",
       "autumn": "",
