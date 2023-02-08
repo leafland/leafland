@@ -501,14 +501,14 @@ body.loggedIn .retail-price {
   display: none;
 }
 
-#whatsapp-link {
+/* #whatsapp-link {
   position: fixed;
   bottom: 15px;
   right: 15px;
   z-index: 1;
   width: 60px;
   height: 60px;
-}
+} */
 
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,
