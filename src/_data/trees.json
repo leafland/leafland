@@ -22012,52 +22012,6 @@
     "similarTrees": []
   },
   {
-    "code": "KUNERI",
-    "fullName": "<i>Kunzea ericoides</i>",
-    "commonName": "Kānuka",
-    "otherCommonNames": "White Tea-tree",
-    "synonyms": "",
-    "url": "kunzea-ericoides",
-    "description": "Small, narrow, dark-green, aromatic, soft leaves and sprays of white flowers glisten on the bushes in early-summer. Very tough, tolerating frosts, drought, and poor soils. Excellent for screening or sheltering more tender plants. Attracts bees. <i>Kunzea ericoides</i> is evergreen and native to New Zealand. <a href='https://www.nzpcn.org.nz/flora/species/kunzea-ericoides/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Kunzea ericoides</i></a>.",
-    "uses": "hedging-and-screening, attracts-bees",
-    "tolerates": "windy, drought, light-frosts",
-    "soilType": "dry",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "native",
-    "types": "",
-    "height": "4m",
-    "width": "3m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "white",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "kunzea/kunzea-general.svg",
-    "images": ["", "-2", "-3", "-4", "-5"],
-    "gradeImages": [],
-    "similarTrees": []
-  },
-  {
     "code": "KUNROB",
     "fullName": "<i>Kunzea robusta</i>",
     "commonName": "Kānuka",
