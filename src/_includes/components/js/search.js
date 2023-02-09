@@ -5,79 +5,75 @@ let searchResults = [];
 async function search(terms) {
   searchResults = [];
 
-  terms = terms.toLowerCase().split(" ");
-
   searchResults = treeData.filter((tree) => {
     let count = 0;
 
-    for (let i = 0; i < terms.length; i++) {
-      if (
-        tree.fullName
-          .toLowerCase()
-          .replace(/ã/g, "a")
-          .replace(/ā/g, "a")
-          .replace(/ä/g, "a")
-          .replace(/é/g, "e")
-          .replace(/ê/g, "e")
-          .replace(/ē/g, "e")
-          .replace(/è/g, "e")
-          .replace(/ī/g, "i")
-          .replace(/ō/g, "o")
-          .replace(/ū/g, "u")
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
-        tree.commonName
-          .toLowerCase()
-          .replace(/ã/g, "a")
-          .replace(/ā/g, "a")
-          .replace(/ä/g, "a")
-          .replace(/é/g, "e")
-          .replace(/ê/g, "e")
-          .replace(/ē/g, "e")
-          .replace(/è/g, "e")
-          .replace(/ī/g, "i")
-          .replace(/ō/g, "o")
-          .replace(/ū/g, "u")
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
-        tree.otherCommonNames
-          .toLowerCase()
-          .replace(/ã/g, "a")
-          .replace(/ā/g, "a")
-          .replace(/ä/g, "a")
-          .replace(/é/g, "e")
-          .replace(/ê/g, "e")
-          .replace(/ē/g, "e")
-          .replace(/è/g, "e")
-          .replace(/ī/g, "i")
-          .replace(/ō/g, "o")
-          .replace(/ū/g, "u")
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
-        tree.synonyms
-          .toLowerCase()
-          .replace(/ã/g, "a")
-          .replace(/ā/g, "a")
-          .replace(/ä/g, "a")
-          .replace(/é/g, "e")
-          .replace(/ê/g, "e")
-          .replace(/ē/g, "e")
-          .replace(/è/g, "e")
-          .replace(/ī/g, "i")
-          .replace(/ō/g, "o")
-          .replace(/ū/g, "u")
-          .replace(/'/g, "")
-          .replace(/"/g, "")
-          .includes(terms[i].replace(/'/g, "").replace(/"/g, ""))
-      ) {
-        count += 1;
-      }
+    if (
+      tree.fullName
+        .toLowerCase()
+        .replace(/ã/g, "a")
+        .replace(/ā/g, "a")
+        .replace(/ä/g, "a")
+        .replace(/é/g, "e")
+        .replace(/ê/g, "e")
+        .replace(/ē/g, "e")
+        .replace(/è/g, "e")
+        .replace(/ī/g, "i")
+        .replace(/ō/g, "o")
+        .replace(/ū/g, "u")
+        .replace(/'/g, "")
+        .replace(/"/g, "")
+        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+      tree.commonName
+        .toLowerCase()
+        .replace(/ã/g, "a")
+        .replace(/ā/g, "a")
+        .replace(/ä/g, "a")
+        .replace(/é/g, "e")
+        .replace(/ê/g, "e")
+        .replace(/ē/g, "e")
+        .replace(/è/g, "e")
+        .replace(/ī/g, "i")
+        .replace(/ō/g, "o")
+        .replace(/ū/g, "u")
+        .replace(/'/g, "")
+        .replace(/"/g, "")
+        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+      tree.otherCommonNames
+        .toLowerCase()
+        .replace(/ã/g, "a")
+        .replace(/ā/g, "a")
+        .replace(/ä/g, "a")
+        .replace(/é/g, "e")
+        .replace(/ê/g, "e")
+        .replace(/ē/g, "e")
+        .replace(/è/g, "e")
+        .replace(/ī/g, "i")
+        .replace(/ō/g, "o")
+        .replace(/ū/g, "u")
+        .replace(/'/g, "")
+        .replace(/"/g, "")
+        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+      tree.synonyms
+        .toLowerCase()
+        .replace(/ã/g, "a")
+        .replace(/ā/g, "a")
+        .replace(/ä/g, "a")
+        .replace(/é/g, "e")
+        .replace(/ê/g, "e")
+        .replace(/ē/g, "e")
+        .replace(/è/g, "e")
+        .replace(/ī/g, "i")
+        .replace(/ō/g, "o")
+        .replace(/ū/g, "u")
+        .replace(/'/g, "")
+        .replace(/"/g, "")
+        .includes(terms.replace(/'/g, "").replace(/"/g, ""))
+    ) {
+      count += 1;
     }
 
-    return count === terms.length;
+    return count > 0;
   });
 }
 
