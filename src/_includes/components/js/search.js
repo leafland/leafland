@@ -9,64 +9,55 @@ async function search(terms) {
 
   searchResults = treeData.filter((tree) => {
     let count = 0;
-    let searchString =
-      tree.fullName +
-      " " +
-      tree.commonName +
-      " " +
-      tree.otherCommonNames +
-      " " +
-      tree.synonyms +
-      " " +
-      tree.origin +
-      " " +
-      tree.uses +
-      " " +
-      tree.tolerates +
-      " " +
-      tree.soilType +
-      " " +
-      tree.sunShade +
-      " " +
-      tree.winterFoliage +
-      " " +
-      tree.types +
-      " " +
-      tree.stem.summer +
-      " " +
-      tree.stem.autumn +
-      " " +
-      tree.stem.winter +
-      " " +
-      tree.stem.spring +
-      " " +
-      tree.flowers.summer +
-      " " +
-      tree.flowers.autumn +
-      " " +
-      tree.flowers.winter +
-      " " +
-      tree.flowers.spring +
-      " " +
-      tree.foliage.summer +
-      " " +
-      tree.foliage.autumn +
-      " " +
-      tree.foliage.winter +
-      " " +
-      tree.foliage.spring +
-      " " +
-      tree.fruit.summer +
-      " " +
-      tree.fruit.autumn +
-      " " +
-      tree.fruit.winter +
-      " " +
-      tree.fruit.spring;
 
     for (let i = 0; i < terms.length; i++) {
       if (
-        searchString
+        tree.fullName
+          .toLowerCase()
+          .replace(/ã/g, "a")
+          .replace(/ā/g, "a")
+          .replace(/ä/g, "a")
+          .replace(/é/g, "e")
+          .replace(/ê/g, "e")
+          .replace(/ē/g, "e")
+          .replace(/è/g, "e")
+          .replace(/ī/g, "i")
+          .replace(/ō/g, "o")
+          .replace(/ū/g, "u")
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
+        tree.commonName
+          .toLowerCase()
+          .replace(/ã/g, "a")
+          .replace(/ā/g, "a")
+          .replace(/ä/g, "a")
+          .replace(/é/g, "e")
+          .replace(/ê/g, "e")
+          .replace(/ē/g, "e")
+          .replace(/è/g, "e")
+          .replace(/ī/g, "i")
+          .replace(/ō/g, "o")
+          .replace(/ū/g, "u")
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
+        tree.otherCommonNames
+          .toLowerCase()
+          .replace(/ã/g, "a")
+          .replace(/ā/g, "a")
+          .replace(/ä/g, "a")
+          .replace(/é/g, "e")
+          .replace(/ê/g, "e")
+          .replace(/ē/g, "e")
+          .replace(/è/g, "e")
+          .replace(/ī/g, "i")
+          .replace(/ō/g, "o")
+          .replace(/ū/g, "u")
+          .replace(/'/g, "")
+          .replace(/"/g, "")
+          .includes(terms[i].replace(/'/g, "").replace(/"/g, "")) ||
+        tree.synonyms
           .toLowerCase()
           .replace(/ã/g, "a")
           .replace(/ā/g, "a")
