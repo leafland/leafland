@@ -21,9 +21,11 @@ async function search(terms) {
         .replace(/ī/g, "i")
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+        .replaceAll("'", "")
+        .replaceAll('"', "")
+        .replaceAll("<i>", "")
+        .replaceAll("</i>", "")
+        .includes(terms.replaceAll("'", "").replaceAll('"', "").toLowerCase()) ||
       tree.commonName
         .toLowerCase()
         .replace(/ã/g, "a")
@@ -36,9 +38,9 @@ async function search(terms) {
         .replace(/ī/g, "i")
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+        .replaceAll("'", "")
+        .replaceAll('"', "")
+        .includes(terms.replaceAll("'", "").replaceAll('"', "").toLowerCase()) ||
       tree.otherCommonNames
         .toLowerCase()
         .replace(/ã/g, "a")
@@ -51,9 +53,9 @@ async function search(terms) {
         .replace(/ī/g, "i")
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .includes(terms.replace(/'/g, "").replace(/"/g, "")) ||
+        .replaceAll("'", "")
+        .replaceAll('"', "")
+        .includes(terms.replaceAll("'", "").replaceAll('"', "").toLowerCase()) ||
       tree.synonyms
         .toLowerCase()
         .replace(/ã/g, "a")
@@ -66,9 +68,9 @@ async function search(terms) {
         .replace(/ī/g, "i")
         .replace(/ō/g, "o")
         .replace(/ū/g, "u")
-        .replace(/'/g, "")
-        .replace(/"/g, "")
-        .includes(terms.replace(/'/g, "").replace(/"/g, ""))
+        .replaceAll("'", "")
+        .replaceAll('"', "")
+        .includes(terms.replaceAll("'", "").replaceAll('"', "").toLowerCase())
     ) {
       count += 1;
     }
