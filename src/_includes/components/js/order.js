@@ -48,28 +48,28 @@ function updateOrderTotal() {
     orderRegion.value !== "Pickup"
   ) {
     if (orderPoaGrade) {
-      if (orderTotalFreight <= parseInt(orderMinimumCharge.slice(1), 10)) {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${
-          parseInt(total, 10) + parseInt(orderMinimumCharge.slice(1), 10)
-        }+GST (includes minimum freight charge, excluding freight for P.O.A grades)</span>`;
+      if (parseInt(orderTotalFreight) <= parseInt(orderMinimumCharge.slice(1))) {
+        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
+          parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))
+        ).toFixed(2)}+GST (includes minimum freight charge, excluding freight for P.O.A grades)</span>`;
       } else {
         totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseInt(total, 10) + orderTotalFreight
+          parseFloat(total) + parseFloat(orderTotalFreight)
         ).toFixed(2)}+GST (excluding freight for P.O.A grades)</span>`;
       }
     } else {
-      if (orderTotalFreight <= parseInt(orderMinimumCharge.slice(1), 10)) {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${
-          parseInt(total, 10) + parseInt(orderMinimumCharge.slice(1), 10)
-        }+GST (includes minimum freight charge)</span>`;
+      if (parseInt(orderTotalFreight) <= parseInt(orderMinimumCharge.slice(1))) {
+        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
+          parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))
+        ).toFixed(2)}+GST (includes minimum freight charge)</span>`;
       } else {
         totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseInt(total, 10) + orderTotalFreight
+          parseFloat(total) + parseFloat(orderTotalFreight)
         ).toFixed(2)}+GST (including freight)</span>`;
       }
     }
   } else {
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseInt(total, 10).toFixed(
+    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseFloat(total).toFixed(
       2
     )}+GST (excluding freight)</span>`;
   }
@@ -232,7 +232,7 @@ async function updateOrder() {
         } else {
           freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
 
-          orderTotalFreight += parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
+          orderTotalFreight += parseInt(tree.quantity) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
         }
       } else {
         freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">-</span></p>`;
@@ -275,8 +275,8 @@ async function updateOrder() {
         orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost += orderTrees[i].quantity * parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
-          totalRetailCost += orderTrees[i].quantity * parseInt(orderTrees[i].retailPrice.slice(1), 10);
+          totalWholesaleCost += orderTrees[i].quantity * parseFloat(orderTrees[i].wholesalePrice.slice(1)).toFixed(2);
+          totalRetailCost += orderTrees[i].quantity * parseFloat(orderTrees[i].retailPrice.slice(1)).toFixed(2);
 
           freightPriceValue = "";
           if (
@@ -301,7 +301,7 @@ async function updateOrder() {
           ) {
             if (freightPriceValue === "P.O.A") {
             } else {
-              orderTotalFreight += parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1));
+              orderTotalFreight += parseInt(orderTrees[i].quantity) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
             }
           } else {
           }
@@ -336,8 +336,9 @@ async function updateOrder() {
         orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost += orderTrees[i].quantity * parseInt(orderTrees[i].wholesalePrice.slice(1), 10);
-          totalRetailCost += orderTrees[i].quantity * parseInt(orderTrees[i].retailPrice.slice(1), 10);
+          totalWholesaleCost +=
+            orderTrees[i].quantity * parseFloat(orderTrees[i].wholesalePrice.slice(1), 10).toFixed(2);
+          totalRetailCost += orderTrees[i].quantity * parseFloat(orderTrees[i].retailPrice.slice(1), 10).toFixed(2);
 
           freightPriceValue = "";
           if (
@@ -362,7 +363,8 @@ async function updateOrder() {
           ) {
             if (freightPriceValue === "P.O.A") {
             } else {
-              orderTotalFreight += parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1));
+              orderTotalFreight +=
+                parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
             }
           } else {
           }

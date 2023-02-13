@@ -175,7 +175,7 @@ async function populateForm() {
       } else {
         freightPrice.innerHTML = `<p class="freight-price" data-freight-price="${freightPriceValue}">Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
 
-        totalFreight += parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1));
+        totalFreight += (parseInt(tree.quantity, 10) * parseFloat(freightPriceValue.slice(1))).toFixed(2);
       }
     } else {
       freightPrice.innerHTML = `<p class="freight-price" data-freight-price="-">Freight per tree: <span class="accent-color">-</span></p>`;
@@ -189,40 +189,46 @@ async function populateForm() {
     region.value !== "Pickup"
   ) {
     if (poaGrade) {
-      if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (minimum freight charge, excluding freight for P.O.A grades)</span>`;
+      if (parseInt(totalFreight) <= parseInt(minimumCharge.slice(1), 10)) {
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${parseFloat(
+          minimumCharge.slice(1)
+        ).toFixed(2)}+GST (minimum freight charge, excluding freight for P.O.A grades)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${parseFloat(totalFreight).toFixed(
           2
         )}+GST (excluding freight for P.O.A grades)</span>`;
       }
 
       orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
         freightTotal.textContent.search("(minimum freight charge)") !== -1
-          ? (parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)).toFixed(2)
-          : (parseInt(total, 10) + totalFreight).toFixed(2)
+          ? (parseFloat(total) + parseFloat(minimumCharge.slice(1))).toFixed(2)
+          : (parseFloat(total) + parseFloat(totalFreight)).toFixed(2)
       }+GST (excluding freight for P.O.A grades)</span>`;
     } else {
-      if (totalFreight <= parseInt(minimumCharge.slice(1), 10)) {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">${minimumCharge}+GST (minimum freight charge)</span>`;
+      if (parseInt(totalFreight) <= parseInt(minimumCharge.slice(1), 10)) {
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${parseFloat(
+          minimumCharge.slice(1)
+        ).toFixed(2)}+GST (minimum freight charge)</span>`;
       } else {
-        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${totalFreight.toFixed(2)}+GST</span>`;
+        freightTotal.innerHTML = `Freight Total: <span class="accent-color">$${parseFloat(totalFreight).toFixed(
+          2
+        )}+GST</span>`;
       }
 
       orderTotal.innerHTML = `Order Total: <span class="accent-color">$${
         freightTotal.textContent.search("(minimum freight charge)") !== -1
-          ? (parseInt(total, 10) + parseInt(minimumCharge.slice(1), 10)).toFixed(2)
-          : (parseInt(total, 10) + totalFreight).toFixed(2)
+          ? (parseFloat(total) + parseFloat(minimumCharge.slice(1))).toFixed(2)
+          : (parseFloat(total) + parseFloat(totalFreight)).toFixed(2)
       }+GST</span>`;
     }
 
-    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}+GST</span>`;
+    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseFloat(total).toFixed(2)}+GST</span>`;
   } else {
     freightTotal.innerHTML = `Freight Total: <span class="accent-color">-</span>`;
 
-    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseInt(total, 10).toFixed(2)}+GST</span>`;
+    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${parseFloat(total).toFixed(2)}+GST</span>`;
 
-    orderTotal.innerHTML = `Order Total: <span class="accent-color">$${parseInt(total, 10).toFixed(2)}+GST</span>`;
+    orderTotal.innerHTML = `Order Total: <span class="accent-color">$${parseFloat(total).toFixed(2)}+GST</span>`;
   }
 }
 
