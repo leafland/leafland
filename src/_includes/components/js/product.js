@@ -52,7 +52,13 @@ async function getProductStockData() {
     .then((response) => response.json())
     .catch((error) => {});
 
-  stockData = stockData.values.filter((row) => row[13] === document.body.dataset.code);
+  stockData = stockData.values.filter((row) => {
+    let compare = "";
+    if (row[13]) {
+      compare = row[13].split(" ")[0];
+    }
+    return compare === document.body.dataset.code;
+  });
 }
 
 async function createStockValues() {
