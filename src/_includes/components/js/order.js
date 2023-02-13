@@ -213,9 +213,9 @@ async function updateOrder() {
       let itemPrice = document.createElement("p");
 
       if (loggedIn) {
-        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.wholesalePrice}.00+GST (Wholesale)</span>`;
+        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.wholesalePrice}+GST (Wholesale)</span>`;
       } else {
-        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.retailPrice}.00+GST (Retail)</span>`;
+        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.retailPrice}+GST (Retail)</span>`;
       }
 
       let freightPrice = document.createElement("p");

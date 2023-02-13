@@ -145,7 +145,7 @@ async function createStockValues() {
                 html: `Hi team,<br><br>I would like to place a pre-order for:<br><br>Tree: ${
                   treeBotanicalName.textContent
                 }<br>Grade: ${stockData[i][2]}<br>Price per tree: ${
-                  loggedIn ? stockData[i][5] + ".00+GST (Wholesale)" : stockData[i][3] + ".00+GST (Retail)"
+                  loggedIn ? stockData[i][5] + "+GST (Wholesale)" : stockData[i][3] + "+GST (Retail)"
                 }<br>Quantity: ${preOrderQuantity.value}<br><br><br>Name: ${name.value}<br>Email: ${
                   email.value
                 }<br>Phone: ${phone.value}<br>Street Address: ${streetAddress.value}<br>Town/City: ${

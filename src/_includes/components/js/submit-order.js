@@ -128,7 +128,7 @@ async function populateForm() {
 
     let price = document.createElement("p");
     price.innerHTML = `Price per tree: <span class="accent-color">${
-      loggedIn ? tree.wholesalePrice + ".00+GST (Wholesale)" : tree.retailPrice + ".00+GST (Retail)"
+      loggedIn ? tree.wholesalePrice + "+GST (Wholesale)" : tree.retailPrice + "+GST (Retail)"
     }</span>`;
 
     let freightPrice = document.createElement("p");
@@ -216,7 +216,7 @@ async function populateForm() {
       }+GST</span>`;
     }
 
-    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}.00+GST</span>`;
+    treeTotal.innerHTML = `Tree Total: <span class="accent-color">$${total}+GST</span>`;
   } else {
     freightTotal.innerHTML = `Freight Total: <span class="accent-color">-</span>`;
 
@@ -326,9 +326,7 @@ submitForm.addEventListener("submit", (event) => {
           <td>
 
           <b>${
-            loggedIn
-              ? child.dataset.wholesalePrice + ".00+GST (Wholesale)"
-              : child.dataset.retailPrice + ".00+GST (Retail)"
+            loggedIn ? child.dataset.wholesalePrice + "+GST (Wholesale)" : child.dataset.retailPrice + "+GST (Retail)"
           }</b>
           
           </td>
