@@ -25,7 +25,7 @@
     {% if forloop.index == 1 %}
 
     {% assign imageInfo = image | split: "&" %}
-    <link rel="preload" as="image" href="https://ik.imagekit.io/leafland/tr:w-1000/{{tree.url}}/{{tree.url}}{{ imageInfo[0] }}.jpg">
+    <link rel="preload" as="image" href="https://files.leafland.co.nz/tr:w-1000/{{tree.url}}/{{tree.url}}{{ imageInfo[0] }}.jpg">
 
     {% break %}
 
@@ -38,102 +38,102 @@
     {% endfor %}
 
     {% elsif type == 'index' %}
-      <link rel="preload" as="image" href="https://ik.imagekit.io/leafland/tr:w-2000/metrosideros-excelsa/metrosideros-excelsa-2.jpg">
+      <link rel="preload" as="image" href="https://files.leafland.co.nz/tr:w-2000/metrosideros-excelsa/metrosideros-excelsa-2.jpg">
     {% endif %}
 
     <style>
     {% if type == "product" %}
 
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/stock-table.min.css" %}
-      {% include "components/css/pre-order.min.css" %}
-      {% include "components/css/product.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/stock-table.css" %}
+      {% include "components/css/pre-order.css" %}
+      {% include "components/css/product.css" %}
 
     {% elsif type == "tree-finder" %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/tree-finder.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/tree-finder.css" %}
 
     {% elsif type == "tree-assistant" %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/tree-assistant.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/tree-assistant.css" %}
 
     {% elsif type == 'index' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/index.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/index.css" %}
 
     {% elsif type == 'page' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/page.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/page.css" %}
 
     {% elsif type == 'information-table' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/information-table.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/information-table.css" %}
 
     {% elsif type == 'top-trees' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/top-trees.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/top-trees.css" %}
 
       {% elsif type == 'trees-of-the-week' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/trees-of-the-week.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/trees-of-the-week.css" %}
 
     {% elsif type == 'stock-list' %}
-      {% include "components/css/main.min.css" %}
-      {% include "components/css/login.min.css" %}
-      {% include "components/css/menu.min.css" %}
-      {% include "components/css/order.min.css" %}
-      {% include "components/css/order-sent.min.css" %}
-      {% include "components/css/submit-order.min.css" %}
-      {% include "components/css/search.min.css" %}
-      {% include "components/css/stock-list.min.css" %}
+      {% include "components/css/main.css" %}
+      {% include "components/css/login.css" %}
+      {% include "components/css/menu.css" %}
+      {% include "components/css/order.css" %}
+      {% include "components/css/order-sent.css" %}
+      {% include "components/css/submit-order.css" %}
+      {% include "components/css/search.css" %}
+      {% include "components/css/stock-list.css" %}
 
     {% endif %}
     </style>
@@ -194,7 +194,7 @@
               }
             ],
 
-            "image": "https://ik.imagekit.io/leafland/tr:w-75/{{ mainImage }}",
+            "image": "https://files.leafland.co.nz/tr:w-75/{{ mainImage }}",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {
@@ -278,87 +278,87 @@
 
     {% endif %}
 
-    {% comment %} <a href="https://wa.me/message/LQJCKF5RQGBTD1" target="_blank" id='whatsapp-link'><img src="https://ik.imagekit.io/leafland/whatsapp-icon.svg" width="60" height="60"></a> {% endcomment %}
+    {% comment %} <a href="https://wa.me/message/LQJCKF5RQGBTD1" target="_blank" id='whatsapp-link'><img src="https://files.leafland.co.nz/whatsapp-icon.svg" width="60" height="60"></a> {% endcomment %}
 
   </body>
 
 <script>
   {% if type == "product" %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 {% include "components/js/product.js" %}
 
     {% elsif type == "tree-finder" %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
-{% include "components/js/tree-finder.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
+{% include "components/js/tree-finder.js" %}
 
 {% elsif type == "tree-assistant" %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 {% include "components/js/tree-assistant.js" %}
 
 
     {% elsif type == 'index' %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 
     {% elsif type == 'page' %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 
     {% elsif type == 'information-table' %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 
     {% elsif type == 'top-trees' %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 
 {% elsif type == 'trees-of-the-week' %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
 
     {% elsif type == 'stock-list' %}
-{% include "components/js/main.min.js" %}
-{% include "components/js/login.min.js" %}
-{% include "components/js/menu.min.js" %}
-{% include "components/js/order.min.js" %}
-{% include "components/js/submit-order.min.js" %}
-{% include "components/js/search.min.js" %}
-{% include "components/js/stock-list.min.js" %}
+{% include "components/js/main.js" %}
+{% include "components/js/login.js" %}
+{% include "components/js/menu.js" %}
+{% include "components/js/order.js" %}
+{% include "components/js/submit-order.js" %}
+{% include "components/js/search.js" %}
+{% include "components/js/stock-list.js" %}
 
     {% endif %}
     

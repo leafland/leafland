@@ -1,67 +1,73 @@
 <div id="stock-table">
 
-    <div id="top-buttons-block">
+        <div id="top-buttons-block">
 
-        <p>Order Trees</p>
+          <p>Order Trees</p>
 
-        <button id="stock-table-close" class="utility-button">Close</button>
+          <button id="stock-table-close" class="utility-button">Close</button>
 
-    </div>
+        </div>
 
-    <div id='stock-table-inner'>
+        <div id='stock-table-inner'>
 
-        <div id="grade-size-image-div">
+          <div id="grade-size-image-div">
 
             <div id="grade-size-images">
 
-                {% for gradeImage in tree.gradeImages %}
+              {% for gradeImage in tree.gradeImages %}
 
                 {% assign gradeInfo = gradeImage | split: "&" %}
 
                 {% if gradeInfo[3] != "NONE" %}
 
-                <div class="grade-size-div" data-info="{{ gradeInfo[1] }}&{{ gradeInfo[2] }}&{{ gradeInfo[3] }}&{{gradeInfo[0]}}">
+                  <div class="grade-size-div" data-info="{{ gradeInfo[1] }}&{{ gradeInfo[2] }}&{{ gradeInfo[3] }}&{{gradeInfo[0]}}">
 
-                    <span class="grade-size-grade">View {{gradeInfo[0]}}</span>
-                    <img data-grade="{{gradeInfo[0]}}" class="grade-size-image" src="https://ik.imagekit.io/leafland/tr:w-300/{{ gradeInfo[1] }}" height="300" width="300" alt="{{ gradeInfo[3] }}">
+                    <span class="grade-size-grade">View {{ gradeInfo[0] }}</span>
+                    <img
+                      data-grade="{{gradeInfo[0]}}"
+                      class="grade-size-image"
+                      src="https://files.leafland.co.nz/tr:w-300/{{ gradeInfo[1] }}"
+                      height="300"
+                      width="300"
+                      alt="{{ gradeInfo[3] }}">
 
-                </div>
+                  </div>
                 {% endif %}
 
-                {% endfor %}
-                
+              {% endfor %}
+
             </div>
 
-        </div>
+          </div>
 
-        <div id="grade-sizes">
+          <div id="grade-sizes">
 
             <table id="order-grades-table">
 
-                <thead>
-                    <tr>
-                        <th></th>
-                        <th>Grade</th>
-                        <th id="grade-price">$Retail</th>
-                        <th>Height (m)</th>
-                        <th>Standard Height (m)</th>
-                        <th>Ready</th>
-                        <th>In Production</th>
-                    </tr>
-                </thead>
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Grade</th>
+                  <th id="grade-price">$Retail</th>
+                  <th>Height (m)</th>
+                  <th>Standard Height (m)</th>
+                  <th>Ready</th>
+                  <th>In Production</th>
+                </tr>
+              </thead>
 
-                <tbody id="order-grades-table-inner"></tbody>
+              <tbody id="order-grades-table-inner"></tbody>
 
             </table>
 
-        </div>
+          </div>
 
-        <div id="info-section">
+          <div id="info-section">
 
             <p>All prices exclude GST. All pre-orders require a 50% deposit to be paid immediately. Pre-order grades are usually ready to be picked up or shipped in 1 to 6 months. Pre-order grades are not guaranteed to be the height listed when ready. Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated. Grade photos are indicative only and do not necessarily reflect the final product. The standard height is the height of the clear trunk from the bottom of the trunk up to the graft. If a tree has no standard height, it has branches starting from near the bottom of the trunk.</p>
 
+          </div>
+
         </div>
 
-    </div>
-
-</div>
+      </div>

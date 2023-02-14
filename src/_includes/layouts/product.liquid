@@ -5,590 +5,621 @@ type: product
 
 <div id="content">
 
-    <div id="tree-name-block">
+  <div id="tree-name-block">
 
-        <h1 class="tree-botanical-name">{{ tree.fullName }}</h1>
+    <h1 class="tree-botanical-name">{{ tree.fullName }}</h1>
 
-        {% if commonName != '' %}
-        <h2 class="tree-common-name">{{ commonName }}</h2>
+    {% if commonName != '' %}
+      <h2 class="tree-common-name">{{ commonName }}</h2>
+    {% else %}
+      <h2 class="tree-common-name" style="display:none"></h2>
+    {% endif %}
+
+  </div>
+
+  <div id="grid-content">
+
+    <div id="grid-content-left">
+
+      {% for image in tree.images %}
+
+        {% if forloop.index == 1 %}
+
+          <img
+            src="https://files.leafland.co.nz/tr:w-1000/{{tree.url}}/{{tree.url}}{{ image }}.jpg"
+            height="1000"
+            width="1000"
+            alt="{{ tree.url | replace: '-', ' ' }}"
+            loading="eager"
+            class="main-img">
+
         {% else %}
-        <h2 class="tree-common-name" style="display:none"></h2>
+
+          {% break %}
+
         {% endif %}
+
+      {% endfor %}
 
     </div>
 
-    <div id="grid-content">
+    <div id="grid-content-right">
 
-        <div id="grid-content-left">
+      <div id="tree-info">
 
-            {% for image in tree.images %}
+        <div id="tree-info-description-icons">
 
-            {% if forloop.index == 1 %}
+          <button id="open-stock-table">Order trees</button>
 
-                <img src="https://ik.imagekit.io/leafland/tr:w-1000/{{tree.url}}/{{tree.url}}{{ image }}.jpg" height="1000" width="1000" alt="{{ tree.url | replace: '-', ' ' }}" loading="eager" class="main-img">
+          <p class="tree-description">{{ description }}</p>
 
-            {% else %}
+          <div id="extra-info">
 
-            {% break %}
-
+            {% if commonName.size > 0 %}
+              <div>
+                <p class="extra-info">
+                  <span>Common Name(s):</span>
+                  {{ commonName }}{% if otherCommonNames.size > 0 %}, {{ otherCommonNames }}{% endif %}
+                </p>
+              </div>
             {% endif %}
 
-            {% endfor %}
+            {% if tree.synonyms.size > 0 %}
+              <div>
+                <p class="extra-info">
+                  <span>Synonym(s):</span>
+                  {{ tree.synonyms }}</p>
+              </div>
+            {% endif %}
 
-        </div>
+            <div id="height-shape-div">
 
-        <div id="grid-content-right">
+              <div>
 
-            <div id="tree-info">
+                <p class="extra-info">
+                  <span>10 Year Height:</span>
+                  {{ tree.height }}</p>
+                <p class="extra-info">
+                  <span>10 Year Width:</span>
+                  {{ tree.width }}</p>
 
-                <div id="tree-info-description-icons">
+              </div>
 
-                    <button id="open-stock-table">Order trees</button>
+              <img
+                id="tree-shape-image"
+                src="https://files.leafland.co.nz/{{ treeShape }}"
+                width="100"
+                height="100"
+                alt="tree shape">
 
-                    <p class="tree-description">{{ description }}</p>
+            </div>
 
-                    <div id="extra-info">
-                        
-                        {% if commonName.size > 0 %}
-                        <div>
-                           <p class="extra-info"><span>Common Name(s):</span> {{ commonName }}{% if otherCommonNames.size > 0 %}, {{ otherCommonNames }}{% endif %}</p>
-                        </div>
-                        {% endif %}
+            <div id="colors-div">
 
-                        {% if tree.synonyms.size > 0 %}
-                        <div>
-                           <p class="extra-info"><span>Synonym(s):</span> {{ tree.synonyms }}</p>
-                        </div>
-                        {% endif %}
+              {% if tree.stem.summer.size > 0 %}
 
-                        <div id="height-shape-div">
+                <div class='color-div'>
 
-                            <div>
+                  <p class="extra-info">Summer Stem:</p>
 
-                                <p class="extra-info"><span>10 Year Height:</span> {{tree.height}}</p>
-                                <p class="extra-info"><span>10 Year Width:</span> {{tree.width}}</p>
+                  <div class="color-spans">
 
-                            </div>
+                    {% assign stemArray = tree.stem.summer | split: ', ' %}
 
-                            <img id="tree-shape-image" src="https://ik.imagekit.io/leafland/{{ treeShape }}" width="100" height="100" alt="tree shape">
+                    {% for color in stemArray %}
 
-                        </div>
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
 
-                        <div id="colors-div">
+                    {% endfor %}
 
-                            {% if tree.stem.summer.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Summer Stem:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.stem.summer | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.stem.autumn.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Autumn Stem:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.stem.autumn | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.stem.winter.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Winter Stem:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.stem.winter | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.stem.spring.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Spring Stem:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.stem.spring | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.foliage.summer.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Summer Foliage:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.foliage.summer | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.foliage.autumn.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Autumn Foliage:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.foliage.autumn | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.foliage.winter.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Winter Foliage:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.foliage.winter | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.foliage.spring.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Spring Foliage:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.foliage.spring | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.flowers.summer.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Summer Flowers:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.flowers.summer | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.flowers.autumn.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Autumn Flowers:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.flowers.autumn | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.flowers.winter.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Winter Flowers:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.flowers.winter | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.flowers.spring.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Spring Flowers:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.flowers.spring | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.fruit.summer.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Summer Fruit:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.fruit.summer | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.fruit.autumn.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Autumn Fruit:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.fruit.autumn | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.fruit.winter.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Winter Fruit:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.fruit.winter | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                            {% if tree.fruit.spring.size > 0 %}
-
-                            <div class='color-div'>
-
-                                <p class="extra-info">Spring Fruit:</p>
-
-                                <div class="color-spans">
-
-                                    {% assign stemArray = tree.fruit.spring | split: ', '%}
-
-                                    {% for color in stemArray %}
-
-                                        <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
-
-                                    {% endfor %}
-
-                                </div>
-
-                            </div>
-
-                            {% endif %}
-
-                        </div>
-
-                    </div>
-
-                    <div id="more-info">
-
-                        {% if origin != "" and origin.length > 0 %}
-
-                            <p>{{ origin | capitalize }}</p>
-
-                        {% endif %}
-
-                        {% if winterFoliage != "" and winterFoliage.length > 0 %}
-
-                            <p>{{ winterFoliage | capitalize }}</p>
-
-                        {% endif %}
-
-                        {% if types != "" and types.length > 0 %}
-
-                            {% assign typesArray = types | split: ', ' %}
-
-                            {% for item in typesArray %}
-
-                                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                        {% if tolerates != "" and tolerates.length > 0 %}
-
-                            {% assign toleratesArray = tolerates | split: ', ' %}
-
-                            {% for item in toleratesArray %}
-
-                                {% if item == 'drought' or item == 'heavy-rainfall' or item == 'light-frosts' or item == 'heavy-frosts' %}
-
-                                    <p>{{ item | replace: '-', ' ' | capitalize }}</p>
-
-                                {% else %}
-
-                                    <p>{{ item | replace: '-', ' ' | capitalize }} sites</p>
-
-                                {% endif %}
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                        {% if soilType != "" and soilType.length > 0 %}
-
-                            {% assign soilArray = soilType | split: ', ' %}
-
-                            {% for item in soilArray %}
-
-                                <p>{{ item | replace: '-', ' ' | capitalize }} soils</p>
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                        {% if sunShade != "" and sunShade.length > 0 %}
-
-                            {% assign sunArray = sunShade | split: ', ' %}
-
-                            {% for item in sunArray %}
-
-                                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                        {% if uses != "" and uses.length > 0 %}
-
-                            {% assign usesArray = uses | split: ', ' %}
-
-                            {% for item in usesArray %}
-
-                                {% if item contains '-' %}
-
-                                    <p>{{ item | replace: '-', ' ' | capitalize }}</p>
-
-                                {% else %}
-
-                                    <p>{{ item | capitalize }}</p>
-
-                                {% endif %}
-
-                            {% endfor %}
-
-                        {% endif %}
-
-                    </div>
+                  </div>
 
                 </div>
 
+              {% endif %}
+
+              {% if tree.stem.autumn.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Autumn Stem:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.stem.autumn | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.stem.winter.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Winter Stem:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.stem.winter | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.stem.spring.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Spring Stem:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.stem.spring | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.foliage.summer.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Summer Foliage:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.foliage.summer | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.foliage.autumn.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Autumn Foliage:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.foliage.autumn | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.foliage.winter.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Winter Foliage:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.foliage.winter | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.foliage.spring.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Spring Foliage:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.foliage.spring | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.flowers.summer.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Summer Flowers:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.flowers.summer | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.flowers.autumn.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Autumn Flowers:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.flowers.autumn | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.flowers.winter.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Winter Flowers:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.flowers.winter | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.flowers.spring.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Spring Flowers:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.flowers.spring | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.fruit.summer.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Summer Fruit:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.fruit.summer | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.fruit.autumn.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Autumn Fruit:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.fruit.autumn | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.fruit.winter.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Winter Fruit:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.fruit.winter | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
+              {% if tree.fruit.spring.size > 0 %}
+
+                <div class='color-div'>
+
+                  <p class="extra-info">Spring Fruit:</p>
+
+                  <div class="color-spans">
+
+                    {% assign stemArray = tree.fruit.spring | split: ', ' %}
+
+                    {% for color in stemArray %}
+
+                      <span class="tree-color {{color}}" title="{{color | capitalize}}"></span>
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+
+              {% endif %}
+
             </div>
 
+          </div>
+
+          <div id="more-info">
+
+            {% if origin != "" and origin.length > 0 %}
+
+              <p>{{ origin | capitalize }}</p>
+
+            {% endif %}
+
+            {% if winterFoliage != "" and winterFoliage.length > 0 %}
+
+              <p>{{ winterFoliage | capitalize }}</p>
+
+            {% endif %}
+
+            {% if types != "" and types.length > 0 %}
+
+              {% assign typesArray = types | split: ', ' %}
+
+              {% for item in typesArray %}
+
+                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+              {% endfor %}
+
+            {% endif %}
+
+            {% if tolerates != "" and tolerates.length > 0 %}
+
+              {% assign toleratesArray = tolerates | split: ', ' %}
+
+              {% for item in toleratesArray %}
+
+                {% if item == 'drought' or item == 'heavy-rainfall' or item == 'light-frosts' or item == 'heavy-frosts' %}
+
+                  <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                {% else %}
+
+                  <p>{{ item | replace: '-', ' ' | capitalize }} sites</p>
+
+                {% endif %}
+
+              {% endfor %}
+
+            {% endif %}
+
+            {% if soilType != "" and soilType.length > 0 %}
+
+              {% assign soilArray = soilType | split: ', ' %}
+
+              {% for item in soilArray %}
+
+                <p>{{ item | replace: '-', ' ' | capitalize }} soils</p>
+
+              {% endfor %}
+
+            {% endif %}
+
+            {% if sunShade != "" and sunShade.length > 0 %}
+
+              {% assign sunArray = sunShade | split: ', ' %}
+
+              {% for item in sunArray %}
+
+                <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+              {% endfor %}
+
+            {% endif %}
+
+            {% if uses != "" and uses.length > 0 %}
+
+              {% assign usesArray = uses | split: ', ' %}
+
+              {% for item in usesArray %}
+
+                {% if item contains '-' %}
+
+                  <p>{{ item | replace: '-', ' ' | capitalize }}</p>
+
+                {% else %}
+
+                  <p>{{ item | capitalize }}</p>
+
+                {% endif %}
+
+              {% endfor %}
+
+            {% endif %}
+
+          </div>
+
         </div>
+
+      </div>
 
     </div>
 
-    <div class="images">
+  </div>
 
-        {% for image in tree.images %}
+  <div class="images">
 
-        <div class="thumb-image-div">
-            <img class="thumb-image" src="https://ik.imagekit.io/leafland/tr:w-150/{{tree.url}}/{{tree.url}}{{ image }}.jpg" width="75" height="75" alt="{{ tree.url | replace: '-', ' ' }}" class="thumb-image" loading="lazy" data-url="{{tree.url}}/{{tree.url}}{{ image }}.jpg">
-        </div>
-        {% endfor %}
+    {% for image in tree.images %}
 
-    </div>
+      <div class="thumb-image-div">
+        <img
+          class="thumb-image"
+          src="https://files.leafland.co.nz/tr:w-150/{{tree.url}}/{{tree.url}}{{ image }}.jpg"
+          width="75"
+          height="75"
+          alt="{{ tree.url | replace: '-', ' ' }}"
+          class="thumb-image"
+          loading="lazy"
+          data-url="{{tree.url}}/{{tree.url}}{{ image }}.jpg">
+      </div>
+    {% endfor %}
 
-    {% if tree.similarTrees.size > 0 %}
+  </div>
+
+  {% if tree.similarTrees.size > 0 %}
 
     <div id="similar-trees-wrapper">
 
-        <h3 id="similar-trees-title">Similar Trees</h3>
+      <h3 id="similar-trees-title">Similar Trees</h3>
 
-            <div id="similar-trees-inner">
-            
-            {% for code in tree.similarTrees %}
+      <div id="similar-trees-inner">
 
-                {% for treeItem in trees %}
+        {% for code in tree.similarTrees %}
 
-                    {% if code == treeItem.code %}
+          {% for treeItem in trees %}
 
-                    <a class="tree-item" href="/trees/{{ treeItem.url }}/">
-            
-                        <img src="https://ik.imagekit.io/leafland/tr:w-150/{{ treeItem.url }}/{{ treeItem.url }}{{ treeItem.images[0] }}.jpg" width="150" height="150" alt="{{ treeItem.url | replace: '-', ' '}}">
-                        
-                        <div class="title-link-box">
-                        
-                            <div class="title-container">
-                            
-                                <h2>{{ treeItem.fullName }}</h2>
-                                
-                                <h3>{{ treeItem.commonName }}</h3>
-                            
-                            </div>
-                        
-                        </div>
-                    
-                    </a>
+            {% if code == treeItem.code %}
 
-                    {% break %}
+              <a class="tree-item" href="/trees/{{ treeItem.url }}/">
 
-                    {% endif %}
+                <img
+                  src="https://files.leafland.co.nz/tr:w-150/{{ treeItem.url }}/{{ treeItem.url }}{{ treeItem.images[0] }}.jpg"
+                  width="150"
+                  height="150"
+                  alt="{{ treeItem.url | replace: '-', ' '}}">
+
+                <div class="title-link-box">
+
+                  <div class="title-container">
+
+                    <h2>{{ treeItem.fullName }}</h2>
+
+                    <h3>{{ treeItem.commonName }}</h3>
+
+                  </div>
+
+                </div>
+
+              </a>
+
+              {% break %}
+
+            {% endif %}
 
 
-                {% endfor %}
+          {% endfor %}
 
-            {% endfor %}
+        {% endfor %}
 
-            </div>
-    
+      </div>
+
     </div>
 
-    {% endif %}
+  {% endif %}
 
 </div>
-

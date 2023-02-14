@@ -397,7 +397,7 @@ document.querySelector("#foliageColour-next").addEventListener("click", () => {
 
       let treeImage = document.createElement("img");
 
-      treeImage.src = `https://ik.imagekit.io/leafland/tr:w-150/${filteredTrees[i].url}/${filteredTrees[i].url}${filteredTrees[i].images[0]}.jpg`;
+      treeImage.src = `https://files.leafland.co.nz/tr:w-150/${filteredTrees[i].url}/${filteredTrees[i].url}${filteredTrees[i].images[0]}.jpg`;
       treeImage.width = "150";
       treeImage.height = "150";
       treeImage.loading = "lazy";

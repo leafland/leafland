@@ -327,7 +327,7 @@ function addEventListeners() {
       document.querySelector("#date-taken-div").style.setProperty("display", "none");
       document.querySelector("#date-taken-div").innerHTML = "";
 
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${thumbImages[i].dataset.url}`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[i].dataset.url}`;
 
       lightboxImage.alt = thumbImages[i].alt;
 
@@ -342,7 +342,7 @@ function addEventListeners() {
     lightboxImage.src = "";
 
     if (parseInt(lightboxImage.dataset.position) === 0) {
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
         thumbImages[thumbImages.length - 1].dataset.url
       }`;
 
@@ -350,7 +350,7 @@ function addEventListeners() {
 
       lightboxImage.dataset.position = thumbImages.length - 1;
     } else {
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
         thumbImages[parseInt(lightboxImage.dataset.position) - 1].dataset.url
       }`;
 
@@ -365,13 +365,13 @@ function addEventListeners() {
     lightboxImage.src = "";
 
     if (parseInt(lightboxImage.dataset.position) === thumbImages.length - 1) {
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${thumbImages[0].dataset.url}`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[0].dataset.url}`;
 
       lightboxImage.alt = thumbImages[0].alt;
 
       lightboxImage.dataset.position = 0;
     } else {
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
         thumbImages[parseInt(lightboxImage.dataset.position) + 1].dataset.url
       }`;
 
@@ -390,7 +390,7 @@ function addEventListeners() {
 
       let info = gradeImage.dataset.info.split("&");
 
-      lightboxImage.src = `https://ik.imagekit.io/leafland/tr:w-1500/${info[0]}`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${info[0]}`;
 
       lightboxImage.alt = info[1];
 
