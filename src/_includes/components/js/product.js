@@ -33,9 +33,7 @@ if (loggedIn) {
 }
 
 (async function init() {
-  if (document.querySelector("#grade-size-images").firstElementChild) {
-    document.querySelector("#grade-size-image-div").style.setProperty("display", "grid");
-  }
+
   addEventListeners();
 
   productImage = mainImg.src.split("1000/")[1];
@@ -380,26 +378,4 @@ function addEventListeners() {
       lightboxImage.dataset.position = parseInt(lightboxImage.dataset.position) + 1;
     }
   });
-
-  document.querySelectorAll(".grade-size-div").forEach((gradeImage) =>
-    gradeImage.addEventListener("click", () => {
-      document.querySelector("#date-taken-div").innerHTML = "";
-      document.querySelector("#date-taken-div").style.setProperty("display", "inline-block");
-      lightboxImage = document.querySelector("#lightbox-image");
-      lightboxImage.src = "";
-
-      let info = gradeImage.dataset.info.split("&");
-
-      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${info[0]}`;
-
-      lightboxImage.alt = info[1];
-
-      document.body.classList.add("lightbox-open");
-      imageLightbox.style.setProperty("z-index", "9");
-
-      document.querySelector(
-        "#date-taken-div"
-      ).innerHTML = `<span id="date-taken" style="font-weight:600">${info[3]} in ${info[2]}</span>`;
-    })
-  );
 }
