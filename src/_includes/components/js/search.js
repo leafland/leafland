@@ -101,7 +101,7 @@ async function displayResults(results) {
     titleDiv.insertAdjacentElement("afterbegin", resultSubtitle);
 
     let resultImage = document.createElement("img");
-    resultImage.src = `https://img.imageboss.me/leafland/width/75/quality:75,format:auto/${results[i].url}/${results[i].url}${results[i].images[0]}.jpg`;
+    resultImage.src = `https://ik.imagekit.io/leafland/tr:w-75/${results[i].url}/${results[i].url}${results[i].images[0]}.jpg`;
     resultImage.width = "50";
     resultImage.height = "50";
     resultImage.loading = "lazy";

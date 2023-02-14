@@ -25,7 +25,7 @@ type: product
 
             {% if forloop.index == 1 %}
 
-                <img src="https://img.imageboss.me/leafland/width/1000/quality:75,format:auto/{{tree.url}}/{{tree.url}}{{ image }}.jpg" height="1000" width="1000" alt="{{ tree.url | replace: '-', ' ' }}" loading="eager" class="main-img">
+                <img src="https://ik.imagekit.io/leafland/tr:w-1000/{{tree.url}}/{{tree.url}}{{ image }}.jpg" height="1000" width="1000" alt="{{ tree.url | replace: '-', ' ' }}" loading="eager" class="main-img">
 
             {% else %}
 
@@ -537,7 +537,7 @@ type: product
         {% for image in tree.images %}
 
         <div class="thumb-image-div">
-            <img class="thumb-image" src="https://img.imageboss.me/leafland/width/150/quality:75,format:auto/{{tree.url}}/{{tree.url}}{{ image }}.jpg" width="75" height="75" alt="{{ tree.url | replace: '-', ' ' }}" class="thumb-image" loading="lazy" data-url="{{tree.url}}/{{tree.url}}{{ image }}.jpg">
+            <img class="thumb-image" src="https://ik.imagekit.io/leafland/tr:w-150/{{tree.url}}/{{tree.url}}{{ image }}.jpg" width="75" height="75" alt="{{ tree.url | replace: '-', ' ' }}" class="thumb-image" loading="lazy" data-url="{{tree.url}}/{{tree.url}}{{ image }}.jpg">
         </div>
         {% endfor %}
 
@@ -559,7 +559,7 @@ type: product
 
                     <a class="tree-item" href="/trees/{{ treeItem.url }}/">
             
-                        <img src="https://img.imageboss.me/leafland/width/150/quality:75,format:auto/{{ treeItem.url }}/{{ treeItem.url }}{{ treeItem.images[0] }}.jpg" width="150" height="150" alt="{{ treeItem.url | replace: '-', ' '}}">
+                        <img src="https://ik.imagekit.io/leafland/tr:w-150/{{ treeItem.url }}/{{ treeItem.url }}{{ treeItem.images[0] }}.jpg" width="150" height="150" alt="{{ treeItem.url | replace: '-', ' '}}">
                         
                         <div class="title-link-box">
                         
