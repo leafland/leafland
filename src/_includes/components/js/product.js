@@ -38,7 +38,7 @@ if (loggedIn) {
   }
   addEventListeners();
 
-  productImage = mainImg.src.split("auto/")[1];
+  productImage = mainImg.src.split("1000/")[1];
 
   await getProductStockData();
 
