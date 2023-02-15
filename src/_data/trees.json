@@ -87,7 +87,7 @@
     },
     "treeShape": "acacia/acacia-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7", "-8", "-9"],
-    "similarTrees": ["MALECH"]
+    "similarTrees": ["ACEPALBLO", "CERCANFORPAN", "LEPNITCOPSHE", "MALECH"]
   },
   {
     "code": "ACAFLO",
@@ -132,7 +132,7 @@
     },
     "treeShape": "acacia/acacia-general.svg",
     "images": ["", "-2", "-3"],
-    "similarTrees": []
+    "similarTrees": ["AGOFLE", "CERCHISPRSNO", "HYMFLA"]
   },
   {
     "code": "ACAHOW",
@@ -177,7 +177,7 @@
     },
     "treeShape": "acacia/acacia-weeping.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6"],
-    "similarTrees": []
+    "similarTrees": ["CERCANRUBFAL", "CORFLOPEN", "PARPERPEN"]
   },
   {
     "code": "ACAMEL",
@@ -222,7 +222,7 @@
     },
     "treeShape": "acacia/acacia-large.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7", "-8", "-9", "-10", "-11", "-12", "-13", "-14"],
-    "similarTrees": []
+    "similarTrees": ["ALEEXC", "BETNIG", "TAXDIS"]
   },
   {
     "code": "ACEBUE",
