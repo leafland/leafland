@@ -267,7 +267,7 @@
     },
     "treeShape": "acer/acer-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7", "-8", "-9"],
-    "similarTrees": []
+    "similarTrees": ["ACEPAL", "MALTRI", "NYSSYL"]
   },
   {
     "code": "ACECAMGWA",
