@@ -322,8 +322,6 @@ function addEventListeners() {
       lightboxImage.src = "";
 
       document.querySelector("#next-prev").style.setProperty("display", "grid");
-      document.querySelector("#date-taken-div").style.setProperty("display", "none");
-      document.querySelector("#date-taken-div").innerHTML = "";
 
       lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[i].dataset.url}`;
 
