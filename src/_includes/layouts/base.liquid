@@ -149,6 +149,7 @@
             "@type": "Product",
             "name": "{{ tree.fullName | strip_html }} | {{ tree.commonName }}",
 
+          {% comment %}
           {% assign min = 10 %}
           {% assign max = 100 %}
           {% assign diff = max | minus: min %}
@@ -193,13 +194,13 @@
                   }
               }
             ],
-
-            "image": "https://files.leafland.co.nz/tr:w-75/{{ mainImage }}",
+          {% endcomment %}
+            "image": "https://files.leafland.co.nz/tr:w-1000/{{tree.url}}/{{tree.url}}{{ imageInfo[0] }}.jpg",
             "description": "{{ description | escape}}",
             "url":"https://leafland.co.nz/trees/{{ url }}/",
             "brand": {
               "@type": "Organization",
-              "name": "Leafland",
+              "name": "Leafland Limited",
               "logo": {
                 "@type": "ImageObject",
                 "url": "https://leafland.co.nz/public/assets/logo/leafland-logo.svg"
