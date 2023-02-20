@@ -7,694 +7,1115 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
 
 <div id="content">
 
-    <div id="assistant-content">
-
-        <div id="assistant-questions">
-            <h1>Welcome to Leafland's Tree Assistant</h1>
-            <p>We will ask a series of questions to help narrow down potential options for your next tree. To skip any of the questions, don't select an option and just press 'next'.</p>
-        </div>
-
-        <div id="assistant-start-buttons">
-            <button id="start-assistant">Begin</button>
-        </div>
-
-        <div id="assistant-results" style="display:none"></div>
-
-        <div id="assistant-options">
-
-            <div id="assistant-origin" class="assistant-options-div" style="display:none">
-
-                <h2>Should your tree be <span class="accent-color">native</span> or <span class="accent-color">exotic</span>?</h2>
-
-                <div id="origin-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='origin'>
-                        <input class="filter-input" type="checkbox" id="exotic" value="exotic">
-                        <label for="exotic">Exotic</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='origin'>
-                        <input class="filter-input" type="checkbox" id="native" value="native">
-                        <label for="native">Native</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-origin-buttons" class="assistant-buttons">
-                    <button id="origin-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-winterFoliage" class="assistant-options-div" style="display:none">
-
-                <h2>What type of <span class="accent-color">winter foliage</span> should your tree have?</h2>
-
-                <div id="winterFoliage-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='winterFoliage'>
-                        <input class="filter-input" type="checkbox" id="deciduous" value="deciduous">
-                        <label for="deciduous">Deciduous</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='winterFoliage'>
-                        <input class="filter-input" type="checkbox" id="evergreen" value="evergreen">
-                        <label for="evergreen">Evergreen</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='winterFoliage'>
-                        <input class="filter-input" type="checkbox" id="semi-evergreen" value="semi-evergreen">
-                        <label for="semi-evergreen">Semi-Evergreen</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-winterFoliage-buttons" class="assistant-buttons">
-                    <button id="winterFoliage-back">Back</button>
-                    <button id="winterFoliage-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-tolerates" class="assistant-options-div" style="display:none">
-
-                <h2>What <span class="accent-color">climatic condition(s)</span> does your planting site have?</h2>
-
-                <div id="tolerates-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="coastal" value="coastal">
-                        <label for="coastal">Coastal</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="drought" value="drought">
-                        <label for="drought">Drought</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="heavy-frosts" value="heavy-frosts">
-                        <label for="heavy-frosts">Heavy Frosts</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="heavy-rainfall" value="heavy-rainfall">
-                        <label for="heavy-rainfall">Heavy Rainfall</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="light-frosts" value="light-frosts">
-                        <label for="light-frosts">Light Frosts</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='tolerates'>
-                        <input class="filter-input" type="checkbox" id="windy" value="windy">
-                        <label for="windy">Windy</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-tolerates-buttons" class="assistant-buttons">
-                    <button id="tolerates-back">Back</button>
-                    <button id="tolerates-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-soilType" class="assistant-options-div" style="display:none">
-
-                <h2>What <span class="accent-color">soil type(s)</span> does your planting site have?</h2>
-
-                <div id="soilType-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="clay-soils" value="clay-soils">
-                        <label for="clay-soils">Clay Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="dry-soils" value="dry-soils">
-                        <label for="dry-soils">Dry Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="peat-soils" value="peat-soils">
-                        <label for="peat-soils">Peat Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="pumice-soils" value="pumice-soils">
-                        <label for="pumice-soils">Pumice Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="rocky-soils" value="rocky-soils">
-                        <label for="rocky-soils">Rocky Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="sandy-soils" value="sandy-soils">
-                        <label for="sandy-soils">Sandy Soils</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='soilType'>
-                        <input class="filter-input" type="checkbox" id="wet-soils" value="wet-soils">
-                        <label for="wet-soils">Wet Soils</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-soilType-buttons" class="assistant-buttons">
-                    <button id="soilType-back">Back</button>
-                    <button id="soilType-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-height" class="assistant-options-div" style="display:none">
-
-                <h2>How <span class="accent-color">tall</span> should your tree grow?</h2><p>You can select multiple heights to see more tree options if you don't need the tree to grow to an exact height.</p>
-
-                <div id="height-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="0.5m-h" value="0.5m">
-                        <label for="0.5m-h">0.5m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="1m-h" value="1m">
-                        <label for="1m-h">1m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="2m-h" value="2m">
-                        <label for="2m-h">2m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="3m-h" value="3m">
-                        <label for="3m-h">3m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="4m-h" value="4m">
-                        <label for="4m-h">4m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="5m-h" value="5m">
-                        <label for="5m-h">5m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="6m-h" value="6m">
-                        <label for="6m-h">6m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="7m-h" value="7m">
-                        <label for="7m-h">7m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="8m-h" value="8m">
-                        <label for="8m-h">8m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="9m-h" value="9m">
-                        <label for="9m-h">9m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='height'>
-                        <input class="filter-input" type="checkbox" id="10m-h" value="10m">
-                        <label for="10m-h">10m</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-height-buttons" class="assistant-buttons">
-                    <button id="height-back">Back</button>
-                    <button id="height-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-width" class="assistant-options-div" style="display:none">
-
-                <h2>How <span class="accent-color">wide</span> should your tree grow?</h2><p>You can select multiple widths to see more tree options if you don't need the tree to grow to an exact width.</p>
-
-                <div  id="width-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="0.5m-w" value="0.5m">
-                        <label for="0.5m-w">0.5m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="1m-w" value="1m">
-                        <label for="1m-w">1m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="2m-w" value="2m">
-                        <label for="2m-w">2m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="3m-w" value="3m">
-                        <label for="3m-w">3m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="4m-w" value="4m">
-                        <label for="4m-w">4m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="5m-w" value="5m">
-                        <label for="5m-w">5m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="6m-w" value="6m">
-                        <label for="6m-w">6m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="7m-w" value="7m">
-                        <label for="7m-w">7m</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='width'>
-                        <input class="filter-input" type="checkbox" id="8m-w" value="8m">
-                        <label for="8m-w">8m</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-width-buttons" class="assistant-buttons">
-                    <button id="width-back">Back</button>
-                    <button id="width-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-uses" class="assistant-options-div" style="display:none">
-
-                <h2>What specific <span class="accent-color">uses</span> do you have for your tree?</h2>
-
-                <div id="uses-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="attracts-birds" value="attracts-birds">
-                        <label for="attracts-birds">Attracts Birds</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="attracts-bees" value="attracts-bees">
-                        <label for="attracts-bees">Attracts Bees</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="driveways-and-avenues" value="driveways-and-avenues">
-                        <label for="driveways-and-avenues">Driveways and Avenues</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="hedging-and-screening" value="hedging-and-screening">
-                        <label for="hedging-and-screening">Hedging and Screening</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="narrow-sites" value="narrow-sites">
-                        <label for="narrow-sites">Narrow Sites</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="paddocks" value="paddocks">
-                        <label for="paddocks">Paddocks</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="pleaching" value="pleaching">
-                        <label for="pleaching">Pleaching</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="small-garden" value="small-garden">
-                        <label for="small-garden">Small Garden</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="shade" value="shade">
-                        <label for="shade">Shade</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="street" value="street">
-                        <label for="street">Street</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='uses'>
-                        <input class="filter-input" type="checkbox" id="topiary" value="topiary">
-                        <label for="topiary">Topiary</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-uses-buttons" class="assistant-buttons">
-                    <button id="uses-back">Back</button>
-                    <button id="uses-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-types" class="assistant-options-div" style="display:none">
-
-                <h2>Are there any specific <span class="accent-color">types</span> you want your tree to be?</h2>
-
-                <div id="types-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='types'>
-                        <input class="filter-input" type="checkbox" id="conifer" value="conifer">
-                        <label for="conifer">Conifer</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='types'>
-                        <input class="filter-input" type="checkbox" id="edible" value="edible">
-                        <label for="edible">Edible</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='types'>
-                        <input class="filter-input" type="checkbox" id="ornamental-bark" value="ornamental-bark">
-                        <label for="ornamental-bark">Ornamental Bark</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='types'>
-                        <input class="filter-input" type="checkbox" id="upright" value="upright">
-                        <label for="upright">Upright</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='types'>
-                        <input class="filter-input" type="checkbox" id="weeping" value="weeping">
-                        <label for="weeping">Weeping</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-types-buttons" class="assistant-buttons">
-                    <button id="types-back">Back</button>
-                    <button id="types-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-sunAndShade" class="assistant-options-div" style="display:none">
-
-                <h2>How much <span class="accent-color">sun</span> does your planting site get?</h2>
-
-                <div id="sunAndShade-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='sunAndShade'>
-                        <input class="filter-input" type="checkbox" id="full-sun" value="full-sun">
-                        <label for="full-sun">Full Sun</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='sunAndShade'>
-                        <input class="filter-input" type="checkbox" id="full-shade" value="full-shade">
-                        <label for="full-shade">Full Shade</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='sunAndShade'>
-                        <input class="filter-input" type="checkbox" id="part-shade" value="part-shade">
-                        <label for="part-shade">Part Shade</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-sunAndShade-buttons" class="assistant-buttons">
-                    <button id="sunAndShade-back">Back</button>
-                    <button id="sunAndShade-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-fruitingSeason" class="assistant-options-div" style="display:none">
-
-                <h2>When should your tree <span class="accent-color">fruit</span>?</h2>
-
-                <div id="fruitingSeason-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='fruitingSeason'>
-                        <input class="filter-input" type="checkbox" id="summer-fs" value="summer">
-                        <label for="summer-fs">Summer</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='fruitingSeason'>
-                        <input class="filter-input" type="checkbox" id="autumn-fs" value="autumn">
-                        <label for="autumn-fs">Autumn</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='fruitingSeason'>
-                        <input class="filter-input" type="checkbox" id="winter-fs" value="winter">
-                        <label for="winter-fs">Winter</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='fruitingSeason'>
-                        <input class="filter-input" type="checkbox" id="spring-fs" value="spring">
-                        <label for="spring-fs">Spring</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-fruitingSeason-buttons" class="assistant-buttons">
-                    <button id="fruitingSeason-back">Back</button>
-                    <button id="fruitingSeason-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-floweringSeason" class="assistant-options-div" style="display:none">
-
-                <h2>When should your tree <span class="accent-color">flower</span>?</h2>
-
-                <div id="floweringSeason-options-group"  class="options-group">
-
-                    <div class="options-group-option" data-group='floweringSeason'>
-                        <input class="filter-input" type="checkbox" id="summer-fls" value="summer">
-                        <label for="summer-fls">Summer</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='floweringSeason'>
-                        <input class="filter-input" type="checkbox" id="autumn-fls" value="autumn">
-                        <label for="autumn-fls">Autumn</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='floweringSeason'>
-                        <input class="filter-input" type="checkbox" id="winter-fls" value="winter">
-                        <label for="winter-fls">Winter</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='floweringSeason'>
-                        <input class="filter-input" type="checkbox" id="spring-fls" value="spring">
-                        <label for="spring-fls">Spring</label>
-                    </div>
-
-                </div>
-                <div id="assistant-floweringSeason-buttons" class="assistant-buttons">
-                    <button id="floweringSeason-back">Back</button>
-                    <button id="floweringSeason-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-flowerColour" class="assistant-options-div" style="display:none">
-
-                <h2>What <span class="accent-color">flower colour</span> should your tree have?</h2>
-
-                <div id="flowerColour-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="blue-fc" value="blue">
-                        <span class="tree-color blue"></span>
-                        <label for="blue-fc">Blue</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="grey-fc" value="grey">
-                        <span class="tree-color grey"></span>
-                        <label for="grey-fc">Grey</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="red-fc" value="red">
-                        <span class="tree-color red"></span>
-                        <label for="red-fc">Red</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="orange-fc" value="orange">
-                        <span class="tree-color orange"></span>
-                        <label for="orange-fc">Orange</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="yellow-fc" value="yellow">
-                        <span class="tree-color yellow"></span>
-                        <label for="yellow-fc">Yellow</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="purple-fc" value="purple">
-                        <span class="tree-color purple"></span>
-                        <label for="purple-fc">Purple</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="pink-fc" value="pink">
-                        <span class="tree-color pink"></span>
-                        <label for="pink-fc">Pink</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="green-fc" value="green">
-                        <span class="tree-color green"></span>
-                        <label for="green-fc">Green</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='flowerColour'>
-                        <input class="filter-input" type="checkbox" id="white-fc" value="white">
-                        <span class="tree-color white"></span>
-                        <label for="white-fc">White</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-flowerColour-buttons" class="assistant-buttons">
-                    <button id="flowerColour-back">Back</button>
-                    <button id="flowerColour-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-autumnColour" class="assistant-options-div" style="display:none">
-
-                <h2>What <span class="accent-color">autumn foliage colour</span> should your tree have?</h2>
-
-                <div id="autumnColour-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='autumnColour'>
-                        <input class="filter-input" type="checkbox" id="red-ac" value="red">
-                        <span class="tree-color red"></span>
-                        <label for="red-ac">Red</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='autumnColour'>
-                        <input class="filter-input" type="checkbox" id="orange-ac" value="orange">
-                        <span class="tree-color orange"></span>
-                        <label for="orange-ac">Orange</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='autumnColour'>
-                        <input class="filter-input" type="checkbox" id="yellow-ac" value="yellow">
-                        <span class="tree-color yellow"></span>
-                        <label for="yellow-ac">Yellow</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='autumnColour'>
-                        <input class="filter-input" type="checkbox" id="purple-ac" value="purple">
-                        <span class="tree-color purple"></span>
-                        <label for="purple-ac">Purple</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-autumnColour-buttons" class="assistant-buttons">
-                    <button id="autumnColour-back">Back</button>
-                    <button id="autumnColour-next">Next</button>
-                </div>
-
-            </div>
-
-            <div id="assistant-foliageColour" class="assistant-options-div" style="display:none">
-
-                <h2>What <span class="accent-color">foliage colour</span> should your tree have?</h2>
-
-                <div id="foliageColour-options-group" class="options-group">
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="blue-flc" value="blue">
-                        <span class="tree-color blue"></span>
-                        <label for="blue-flc">Blue</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="grey-flc" value="grey">
-                        <span class="tree-color grey"></span>
-                        <label for="grey-flc">Grey</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="red-flc" value="red">
-                        <span class="tree-color red"></span>
-                        <label for="red-flc">Red</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="orange-flc" value="orange">
-                        <span class="tree-color orange"></span>
-                        <label for="orange-flc">Orange</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="yellow-flc" value="yellow">
-                        <span class="tree-color yellow"></span>
-                        <label for="yellow-flc">Yellow</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="purple-flc" value="purple">
-                        <span class="tree-color purple"></span>
-                        <label for="purple-flc">Purple</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="pink-flc" value="pink">
-                        <span class="tree-color pink"></span>
-                        <label for="pink-flc">Pink</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="green-flc" value="green">
-                        <span class="tree-color green"></span>
-                        <label for="green-flc">Green</label>
-                    </div>
-
-                    <div class="options-group-option" data-group='foliageColour'>
-                        <input class="filter-input" type="checkbox" id="white-flc" value="white">
-                        <span class="tree-color white"></span>
-                        <label for="white-flc">White</label>
-                    </div>
-
-                </div>
-
-                <div id="assistant-foliageColour-buttons" class="assistant-buttons">
-                    <button id="foliageColour-back">Back</button>
-                    <button id="foliageColour-next">Finish</button>
-                </div>
-
-            </div>
+  <div id="assistant-content">
+
+    <div id="assistant-questions">
+      <h1>Welcome to Leafland's Tree Assistant</h1>
+      <p>We will ask a series of questions to help narrow down potential options for your next tree. To skip any of the questions, don't select an option and just press 'next'.</p>
+    </div>
+
+    <div id="assistant-start-buttons">
+      <button id="start-assistant">Begin</button>
+    </div>
+
+    <div id="assistant-results" style="display:none"></div>
+
+    <div id="assistant-options">
+
+      <div
+        id="assistant-origin"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>Should your tree be
+          <span class="accent-color">native</span>
+          or
+          <span class="accent-color">exotic</span>?</h2>
+
+        <div id="origin-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='origin'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="exotic"
+              value="exotic">
+            <label for="exotic">Exotic</label>
+          </div>
+
+          <div class="options-group-option" data-group='origin'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="native"
+              value="native">
+            <label for="native">Native</label>
+          </div>
 
         </div>
 
-        <div id="assistant-counter" style="display:none">
+        <div id="assistant-origin-buttons" class="assistant-buttons">
+          <button id="origin-next">Next</button>
+        </div>
 
-            <p>Total number of tree options: <span id="tree-option-count"></span></p>
+      </div>
+
+      <div
+        id="assistant-winterFoliage"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What type of
+          <span class="accent-color">winter foliage</span>
+          should your tree have?</h2>
+
+        <div id="winterFoliage-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='winterFoliage'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="deciduous"
+              value="deciduous">
+            <label for="deciduous">Deciduous</label>
+          </div>
+
+          <div class="options-group-option" data-group='winterFoliage'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="evergreen"
+              value="evergreen">
+            <label for="evergreen">Evergreen</label>
+          </div>
+
+          <div class="options-group-option" data-group='winterFoliage'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="semi-evergreen"
+              value="semi-evergreen">
+            <label for="semi-evergreen">Semi-Evergreen</label>
+          </div>
 
         </div>
+
+        <div id="assistant-winterFoliage-buttons" class="assistant-buttons">
+          <button id="winterFoliage-back">Back</button>
+          <button id="winterFoliage-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-tolerates"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What
+          <span class="accent-color">climatic condition(s)</span>
+          does your planting site have?</h2>
+
+        <div id="tolerates-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="coastal"
+              value="coastal">
+            <label for="coastal">Coastal</label>
+          </div>
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="drought"
+              value="drought">
+            <label for="drought">Drought</label>
+          </div>
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="heavy-frosts"
+              value="heavy-frosts">
+            <label for="heavy-frosts">Heavy Frosts</label>
+          </div>
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="heavy-rainfall"
+              value="heavy-rainfall">
+            <label for="heavy-rainfall">Heavy Rainfall</label>
+          </div>
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="light-frosts"
+              value="light-frosts">
+            <label for="light-frosts">Light Frosts</label>
+          </div>
+
+          <div class="options-group-option" data-group='tolerates'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="windy"
+              value="windy">
+            <label for="windy">Windy</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-tolerates-buttons" class="assistant-buttons">
+          <button id="tolerates-back">Back</button>
+          <button id="tolerates-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-soilType"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What
+          <span class="accent-color">soil type(s)</span>
+          does your planting site have?</h2>
+
+        <div id="soilType-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="clay"
+              value="clay">
+            <label for="clay">Clay Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="dry"
+              value="dry">
+            <label for="dry">Dry Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="peat"
+              value="peat">
+            <label for="peat">Peat Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="pumice"
+              value="pumice">
+            <label for="pumice">Pumice Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="rocky"
+              value="rocky">
+            <label for="rocky">Rocky Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="sandy"
+              value="sandy">
+            <label for="sandy">Sandy Soils</label>
+          </div>
+
+          <div class="options-group-option" data-group='soilType'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="wet"
+              value="wet">
+            <label for="wet">Wet Soils</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-soilType-buttons" class="assistant-buttons">
+          <button id="soilType-back">Back</button>
+          <button id="soilType-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-height"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>How
+          <span class="accent-color">tall</span>
+          should your tree grow?</h2>
+        <p>You can select multiple heights to see more tree options if you don't need the tree to grow to an exact height.</p>
+
+        <div id="height-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="0.5m-h"
+              value="0.5m">
+            <label for="0.5m-h">0.5m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="1m-h"
+              value="1m">
+            <label for="1m-h">1m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="2m-h"
+              value="2m">
+            <label for="2m-h">2m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="3m-h"
+              value="3m">
+            <label for="3m-h">3m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="4m-h"
+              value="4m">
+            <label for="4m-h">4m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="5m-h"
+              value="5m">
+            <label for="5m-h">5m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="6m-h"
+              value="6m">
+            <label for="6m-h">6m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="7m-h"
+              value="7m">
+            <label for="7m-h">7m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="8m-h"
+              value="8m">
+            <label for="8m-h">8m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="9m-h"
+              value="9m">
+            <label for="9m-h">9m</label>
+          </div>
+
+          <div class="options-group-option" data-group='height'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="10m-h"
+              value="10m">
+            <label for="10m-h">10m</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-height-buttons" class="assistant-buttons">
+          <button id="height-back">Back</button>
+          <button id="height-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-width"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>How
+          <span class="accent-color">wide</span>
+          should your tree grow?</h2>
+        <p>You can select multiple widths to see more tree options if you don't need the tree to grow to an exact width.</p>
+
+        <div id="width-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="0.5m-w"
+              value="0.5m">
+            <label for="0.5m-w">0.5m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="1m-w"
+              value="1m">
+            <label for="1m-w">1m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="2m-w"
+              value="2m">
+            <label for="2m-w">2m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="3m-w"
+              value="3m">
+            <label for="3m-w">3m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="4m-w"
+              value="4m">
+            <label for="4m-w">4m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="5m-w"
+              value="5m">
+            <label for="5m-w">5m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="6m-w"
+              value="6m">
+            <label for="6m-w">6m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="7m-w"
+              value="7m">
+            <label for="7m-w">7m</label>
+          </div>
+
+          <div class="options-group-option" data-group='width'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="8m-w"
+              value="8m">
+            <label for="8m-w">8m</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-width-buttons" class="assistant-buttons">
+          <button id="width-back">Back</button>
+          <button id="width-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-uses"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What specific
+          <span class="accent-color">uses</span>
+          do you have for your tree?</h2>
+
+        <div id="uses-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="attracts-birds"
+              value="attracts-birds">
+            <label for="attracts-birds">Attracts Birds</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="attracts-bees"
+              value="attracts-bees">
+            <label for="attracts-bees">Attracts Bees</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="driveways-and-avenues"
+              value="driveways-and-avenues">
+            <label for="driveways-and-avenues">Driveways and Avenues</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="hedging-and-screening"
+              value="hedging-and-screening">
+            <label for="hedging-and-screening">Hedging and Screening</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="narrow-sites"
+              value="narrow-sites">
+            <label for="narrow-sites">Narrow Sites</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="paddocks"
+              value="paddocks">
+            <label for="paddocks">Paddocks</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="pleaching"
+              value="pleaching">
+            <label for="pleaching">Pleaching</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="small-garden"
+              value="small-garden">
+            <label for="small-garden">Small Garden</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="shade"
+              value="shade">
+            <label for="shade">Shade</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="street"
+              value="street">
+            <label for="street">Street</label>
+          </div>
+
+          <div class="options-group-option" data-group='uses'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="topiary"
+              value="topiary">
+            <label for="topiary">Topiary</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-uses-buttons" class="assistant-buttons">
+          <button id="uses-back">Back</button>
+          <button id="uses-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-types"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>Are there any specific
+          <span class="accent-color">types</span>
+          you want your tree to be?</h2>
+
+        <div id="types-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='types'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="conifer"
+              value="conifer">
+            <label for="conifer">Conifer</label>
+          </div>
+
+          <div class="options-group-option" data-group='types'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="edible"
+              value="edible">
+            <label for="edible">Edible</label>
+          </div>
+
+          <div class="options-group-option" data-group='types'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="ornamental-bark"
+              value="ornamental-bark">
+            <label for="ornamental-bark">Ornamental Bark</label>
+          </div>
+
+          <div class="options-group-option" data-group='types'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="upright"
+              value="upright">
+            <label for="upright">Upright</label>
+          </div>
+
+          <div class="options-group-option" data-group='types'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="weeping"
+              value="weeping">
+            <label for="weeping">Weeping</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-types-buttons" class="assistant-buttons">
+          <button id="types-back">Back</button>
+          <button id="types-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-sunAndShade"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>How much
+          <span class="accent-color">sun</span>
+          does your planting site get?</h2>
+
+        <div id="sunAndShade-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='sunAndShade'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="full-sun"
+              value="full-sun">
+            <label for="full-sun">Full Sun</label>
+          </div>
+
+          <div class="options-group-option" data-group='sunAndShade'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="full-shade"
+              value="full-shade">
+            <label for="full-shade">Full Shade</label>
+          </div>
+
+          <div class="options-group-option" data-group='sunAndShade'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="part-shade"
+              value="part-shade">
+            <label for="part-shade">Part Shade</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-sunAndShade-buttons" class="assistant-buttons">
+          <button id="sunAndShade-back">Back</button>
+          <button id="sunAndShade-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-fruitingSeason"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>When should your tree
+          <span class="accent-color">fruit</span>?</h2>
+
+        <div id="fruitingSeason-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='fruitingSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="summer-fs"
+              value="summer">
+            <label for="summer-fs">Summer</label>
+          </div>
+
+          <div class="options-group-option" data-group='fruitingSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="autumn-fs"
+              value="autumn">
+            <label for="autumn-fs">Autumn</label>
+          </div>
+
+          <div class="options-group-option" data-group='fruitingSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="winter-fs"
+              value="winter">
+            <label for="winter-fs">Winter</label>
+          </div>
+
+          <div class="options-group-option" data-group='fruitingSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="spring-fs"
+              value="spring">
+            <label for="spring-fs">Spring</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-fruitingSeason-buttons" class="assistant-buttons">
+          <button id="fruitingSeason-back">Back</button>
+          <button id="fruitingSeason-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-floweringSeason"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>When should your tree
+          <span class="accent-color">flower</span>?</h2>
+
+        <div id="floweringSeason-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='floweringSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="summer-fls"
+              value="summer">
+            <label for="summer-fls">Summer</label>
+          </div>
+
+          <div class="options-group-option" data-group='floweringSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="autumn-fls"
+              value="autumn">
+            <label for="autumn-fls">Autumn</label>
+          </div>
+
+          <div class="options-group-option" data-group='floweringSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="winter-fls"
+              value="winter">
+            <label for="winter-fls">Winter</label>
+          </div>
+
+          <div class="options-group-option" data-group='floweringSeason'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="spring-fls"
+              value="spring">
+            <label for="spring-fls">Spring</label>
+          </div>
+
+        </div>
+        <div id="assistant-floweringSeason-buttons" class="assistant-buttons">
+          <button id="floweringSeason-back">Back</button>
+          <button id="floweringSeason-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-flowerColour"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What
+          <span class="accent-color">flower colour</span>
+          should your tree have?</h2>
+
+        <div id="flowerColour-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="blue-fc"
+              value="blue">
+            <span class="tree-color blue"></span>
+            <label for="blue-fc">Blue</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="grey-fc"
+              value="grey">
+            <span class="tree-color grey"></span>
+            <label for="grey-fc">Grey</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="red-fc"
+              value="red">
+            <span class="tree-color red"></span>
+            <label for="red-fc">Red</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="orange-fc"
+              value="orange">
+            <span class="tree-color orange"></span>
+            <label for="orange-fc">Orange</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="yellow-fc"
+              value="yellow">
+            <span class="tree-color yellow"></span>
+            <label for="yellow-fc">Yellow</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="purple-fc"
+              value="purple">
+            <span class="tree-color purple"></span>
+            <label for="purple-fc">Purple</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="pink-fc"
+              value="pink">
+            <span class="tree-color pink"></span>
+            <label for="pink-fc">Pink</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="green-fc"
+              value="green">
+            <span class="tree-color green"></span>
+            <label for="green-fc">Green</label>
+          </div>
+
+          <div class="options-group-option" data-group='flowerColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="white-fc"
+              value="white">
+            <span class="tree-color white"></span>
+            <label for="white-fc">White</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-flowerColour-buttons" class="assistant-buttons">
+          <button id="flowerColour-back">Back</button>
+          <button id="flowerColour-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-autumnColour"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What
+          <span class="accent-color">autumn foliage colour</span>
+          should your tree have?</h2>
+
+        <div id="autumnColour-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='autumnColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="red-ac"
+              value="red">
+            <span class="tree-color red"></span>
+            <label for="red-ac">Red</label>
+          </div>
+
+          <div class="options-group-option" data-group='autumnColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="orange-ac"
+              value="orange">
+            <span class="tree-color orange"></span>
+            <label for="orange-ac">Orange</label>
+          </div>
+
+          <div class="options-group-option" data-group='autumnColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="yellow-ac"
+              value="yellow">
+            <span class="tree-color yellow"></span>
+            <label for="yellow-ac">Yellow</label>
+          </div>
+
+          <div class="options-group-option" data-group='autumnColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="purple-ac"
+              value="purple">
+            <span class="tree-color purple"></span>
+            <label for="purple-ac">Purple</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-autumnColour-buttons" class="assistant-buttons">
+          <button id="autumnColour-back">Back</button>
+          <button id="autumnColour-next">Next</button>
+        </div>
+
+      </div>
+
+      <div
+        id="assistant-foliageColour"
+        class="assistant-options-div"
+        style="display:none">
+
+        <h2>What
+          <span class="accent-color">foliage colour</span>
+          should your tree have?</h2>
+
+        <div id="foliageColour-options-group" class="options-group">
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="blue-flc"
+              value="blue">
+            <span class="tree-color blue"></span>
+            <label for="blue-flc">Blue</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="grey-flc"
+              value="grey">
+            <span class="tree-color grey"></span>
+            <label for="grey-flc">Grey</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="red-flc"
+              value="red">
+            <span class="tree-color red"></span>
+            <label for="red-flc">Red</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="orange-flc"
+              value="orange">
+            <span class="tree-color orange"></span>
+            <label for="orange-flc">Orange</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="yellow-flc"
+              value="yellow">
+            <span class="tree-color yellow"></span>
+            <label for="yellow-flc">Yellow</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="purple-flc"
+              value="purple">
+            <span class="tree-color purple"></span>
+            <label for="purple-flc">Purple</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="pink-flc"
+              value="pink">
+            <span class="tree-color pink"></span>
+            <label for="pink-flc">Pink</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="green-flc"
+              value="green">
+            <span class="tree-color green"></span>
+            <label for="green-flc">Green</label>
+          </div>
+
+          <div class="options-group-option" data-group='foliageColour'>
+            <input
+              class="filter-input"
+              type="checkbox"
+              id="white-flc"
+              value="white">
+            <span class="tree-color white"></span>
+            <label for="white-flc">White</label>
+          </div>
+
+        </div>
+
+        <div id="assistant-foliageColour-buttons" class="assistant-buttons">
+          <button id="foliageColour-back">Back</button>
+          <button id="foliageColour-next">Finish</button>
+        </div>
+
+      </div>
 
     </div>
+
+    <div id="assistant-counter" style="display:none">
+
+      <p>Total number of tree options:
+        <span id="tree-option-count"></span>
+      </p>
+
+    </div>
+
+  </div>
 
 </div>
