@@ -120,11 +120,13 @@ async function displayData(dataSet) {
           if (j === 0) {
             let cell = document.createElement("td");
             let link = document.createElement("a");
-
+            
             treeData.forEach((tree) => {
-              if (tree.code === dataSet[i][13].split(" ")[0]) {
-                link.href = `/trees/${tree.url}/`;
-                link.innerHTML = tree.fullName;
+              if(dataSet[i][13] && dataSet[i][13] !== ""){
+                if (tree.code === dataSet[i][13].split(" ")[0]) {
+                  link.href = `/trees/${tree.url}/`;
+                  link.innerHTML = tree.fullName;
+                }
               }
             });
             if (link.textContent !== "") {
