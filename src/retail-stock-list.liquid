@@ -8,74 +8,106 @@ description: Leafland is the home of quality specimen trees. We stock a wide ran
 
 <div id="content">
 
-    <h1>Retail Stock List</h1>
+  <h1>Retail Stock List</h1>
 
-    <div id="info-section">
+  <div id="info-section">
 
-        <p>All prices exclude GST.</p>
+    <p>All prices exclude GST.</p>
 
-        <p>Grades that are <b>in production</b> are not yet ready for sale. You can place a pre-order via email for a 50% deposit and we will hold the stock until it is ready.</p>
+    <p>Grades that are
+      <b>in production</b>
+      are not yet ready for sale. You can place a pre-order via email for a 50% deposit and we will hold the stock until it is ready.</p>
 
-        <p>Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated.</p>
+    <p>Prices subject to change without notice. Actual stock quantity may differ. Every care is taken to accurately record heights but due to slightly different growth rates and other natural variables that can occur within and to a species, variety, or cultivar, the actual height of the final product may differ from what is stated.</p>
 
-        <p>If you are a wholesale customer and want to view wholesale pricing, request a login below.</p>
+    <p>If you are a wholesale customer and want to view wholesale pricing, request a login below.</p>
 
-        <a style="width:max-content" class="button" href="mailto:joshua@leafland.co.nz?subject=New Wholesale Login">Request Wholesale Login</a>
+    <a
+      style="width:max-content"
+      class="button"
+      href="mailto:joshua@leafland.co.nz?subject=New Wholesale Login">Request Wholesale Login</a>
+
+    <a
+      class='button'
+      id="download-stock-list"
+      style="pointer-events:none;opacity:0.7">Download Stock List</a>
+
+  </div>
+
+  <div class="search-section">
+
+    <input
+      type="text"
+      class="search"
+      placeholder="Search trees..."
+      disabled />
+
+    <div id='filter-section'>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="hide-out-of-stock"
+          name="hide-out-of-stock">
+        <label for="hide-out-of-stock">Hide out of stock</label>
+
+      </div>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="filter-deciduous"
+          name="filter-deciduous">
+        <label for="filter-deciduous">Deciduous</label>
+
+      </div>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="filter-evergreen"
+          name="filter-evergreen">
+        <label for="filter-evergreen">Evergreen</label>
+
+      </div>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="filter-semi-evergreen"
+          name="filter-semi-evergreen">
+        <label for="filter-semi-evergreen">Semi-evergreen</label>
+
+      </div>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="filter-edible"
+          name="filter-edible">
+        <label for="filter-edible">Edible</label>
+
+      </div>
+
+      <div>
+
+        <input
+          type="checkbox"
+          id="filter-native"
+          name="filter-native">
+        <label for="filter-native">Native</label>
+
+      </div>
 
     </div>
 
-    <div class="search-section">
+  </div>
 
-        <input type="text" class="search" placeholder="Search trees..." disabled/>
-
-        <div id='filter-section'>
-
-            <div>
-
-                <input type="checkbox" id="hide-out-of-stock" name="hide-out-of-stock">
-                <label for="hide-out-of-stock">Hide out of stock</label>
-
-            </div>
-
-            <div>
-
-                <input type="checkbox" id="filter-deciduous" name="filter-deciduous">
-                <label for="filter-deciduous">Deciduous</label>
-
-            </div>
-
-            <div>
-
-                <input type="checkbox" id="filter-evergreen" name="filter-evergreen">
-                <label for="filter-evergreen">Evergreen</label>
-
-            </div>
-
-            <div>
-
-                <input type="checkbox" id="filter-semi-evergreen" name="filter-semi-evergreen">
-                <label for="filter-semi-evergreen">Semi-evergreen</label>
-
-            </div>
-
-            <div>
-
-                <input type="checkbox" id="filter-edible" name="filter-edible">
-                <label for="filter-edible">Edible</label>
-
-            </div>
-
-            <div>
-
-                <input type="checkbox" id="filter-native" name="filter-native">
-                <label for="filter-native">Native</label>
-
-            </div>
-
-        </div>
-
-    </div>
-
-    <div id="stock-data"></div>
+  <div id="stock-data"></div>
 
 </div>

@@ -58,27 +58,39 @@ if (stockListType === "retail") {
     }, listDoneTypingInterval);
   });
 
+  let csv = "";
+
   if (stockListType === "wholesale") {
-    let csv = "";
     csv += `"Botanical Name","Common Name","Grade","$R","$W","Height","Standard Height","Ready","In Production"\r\n`;
-    for (let j = 0; j < rawData.values.length; j++) {
+  } else {
+    csv += `"Botanical Name","Common Name","Grade","$R","Height","Standard Height","Ready","In Production"\r\n`;
+  }
+
+  for (let j = 0; j < rawData.values.length; j++) {
+    if (!rawData.values[j][0].includes("?")) {
       for (let i = 0; i < 10; i++) {
-        if (i !== 4) {
-          csv += '"' + rawData.values[j][i] + '"' + ",";
+        if (stockListType === "wholesale") {
+          if (i !== 4) {
+            csv += '"' + rawData.values[j][i] + '"' + ",";
+          }
+        } else {
+          if (i !== 4 && i !== 5) {
+            csv += '"' + rawData.values[j][i] + '"' + ",";
+          }
         }
       }
       csv += "\r\n";
     }
-
-    let myBlob = new Blob([csv], { type: "text/csv" });
-
-    let url = window.URL.createObjectURL(myBlob);
-    document.querySelector("#download-stock-list").href = url;
-    document.querySelector("#download-stock-list").download = "leafland-stock-list.csv";
-
-    document.querySelector("#download-stock-list").style.setProperty("pointer-events", "auto");
-    document.querySelector("#download-stock-list").style.setProperty("opacity", "1");
   }
+
+  let myBlob = new Blob([csv], { type: "text/csv" });
+
+  let url = window.URL.createObjectURL(myBlob);
+  document.querySelector("#download-stock-list").href = url;
+  document.querySelector("#download-stock-list").download = "leafland-stock-list.csv";
+
+  document.querySelector("#download-stock-list").style.setProperty("pointer-events", "auto");
+  document.querySelector("#download-stock-list").style.setProperty("opacity", "1");
 })();
 
 async function displayData(dataSet) {
