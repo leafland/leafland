@@ -61,9 +61,9 @@ if (stockListType === "retail") {
   let csv = "";
 
   if (stockListType === "wholesale") {
-    csv += `"Botanical Name","Common Name","Grade","$R","$W","Height","Standard Height","Ready","In Production"\r\n`;
+    csv += `"Botanical Name","Common Name","Grade","$Retail","$Wholesale","Height","Standard Height","Ready","In Production"\r\n`;
   } else {
-    csv += `"Botanical Name","Common Name","Grade","$R","Height","Standard Height","Ready","In Production"\r\n`;
+    csv += `"Botanical Name","Common Name","Grade","$Retail","Height","Standard Height","Ready","In Production"\r\n`;
   }
 
   for (let j = 0; j < rawData.values.length; j++) {
