@@ -24,7 +24,7 @@
   left: 0;
   right: 0;
   gap: 1rem;
-  background: var(--invert-background-color);
+  background: var(--background-color);
   z-index: 1;
   padding: 0.5rem;
   border-radius: 8px;
@@ -32,6 +32,7 @@
   height: max-content;
   max-height: 20rem;
   overflow-y: auto;
+  border: 2px solid var(--border-color);
 }
 
 body.search-loaded #search-results {
@@ -59,7 +60,7 @@ body.search-loaded #search-results {
   align-items: center;
   height: max-content;
   width: 100%;
-  color: var(--invert-text-color);
+  color: var(--text-color);
   padding: 0.75rem;
   border-radius: 8px;
 }
@@ -103,7 +104,7 @@ body.search-loaded #search-results {
   }
 
   .search-result:hover {
-    background: var(--background-color);
+    background: var(--accent-color);
     color: var(--text-color);
   }
 }

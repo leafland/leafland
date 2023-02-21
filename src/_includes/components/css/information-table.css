@@ -39,10 +39,10 @@ tr:not(tr:first-child) {
   height: 4rem;
 }
 
-th:nth-child(1),
+/* th:nth-child(1),
 th:nth-child(2) {
   min-width: 15rem;
-}
+} */
 
 td {
   min-width: 5rem;

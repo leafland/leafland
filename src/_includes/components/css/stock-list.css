@@ -39,15 +39,26 @@ tr:not(tr:first-child) {
   height: 4rem;
 }
 
-th:nth-child(1),
+/* th:nth-child(1),
 th:nth-child(2) {
   min-width: 15rem;
-}
+} */
 
 td {
   min-width: 5rem;
   max-width: max-content;
   padding-right: 2rem;
+}
+
+tr:not(tr:first-child) td:nth-child(1){
+    max-width:15rem
+}
+
+tr:not(tr:first-child) td:nth-child(2){
+  text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width:5rem
 }
 
 .message {

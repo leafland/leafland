@@ -85,13 +85,13 @@ main h3 {
 }
 
 #hero-text h1 {
-  color: var(--text-color);
+  color: var(--invert-text-color);
   font-weight: 900;
 }
 
 #hero .button {
-  color: var(--text-color);
-  border-color: var(--text-color);
+  color: var(--invert-text-color);
+  border-color: var(--invert-border-color);
   text-align: left;
 }
 
@@ -147,8 +147,8 @@ main h3 {
 
 @media (hover: hover) and (pointer: fine) {
   div#hero .button:hover {
-    background: #111;
-    border-color: #111;
+    background: var(--accent-color);
+    border-color: var(--accent-color);
     color: var(--text-color);
   }
 }

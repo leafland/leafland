@@ -43,7 +43,7 @@
 
 .main-menu-list-item-link {
   display: grid;
-  width: 100%;
+  width: max-content;
   text-transform: none;
   padding: 1rem;
   border-radius: 8px;
@@ -55,14 +55,15 @@
 }
 
 #header-buttons button {
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-4);
   border: none;
+  /* border-bottom: 2px solid var(--invert-border-color); */
 }
 
 @media (hover: hover) and (pointer: fine) {
   .main-menu-list-item-link:hover {
-    background: var(--invert-background-color);
-    color: var(--invert-text-color);
+    background: var(--accent-color);
+    color: var(--text-color);
   }
 }
 

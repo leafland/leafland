@@ -38,7 +38,7 @@ main {
   text-align: left;
   float: left;
   margin-top: 0.4rem;
-  font-size: var(--font-size-1);
+  font-size: var(--font-size-2);
   font-weight: 500;
 }
 
@@ -153,8 +153,8 @@ p#no-products {
 }
 
 .option-selected {
-  background: var(--invert-background-color);
-  color: var(--invert-text-color);
+  background: var(--accent-color);
+  color: var(--text-color);
 }
 
 #assistant-content input[type="checkbox"] {
@@ -226,22 +226,18 @@ p#no-products {
 }
 
 @media (hover: hover) and (pointer: fine) {
-  label:hover {
-    cursor: pointer;
-  }
-
   .options-group > div:hover {
-    background: var(--invert-background-color);
-    color: var(--invert-text-color);
+    background: var(--accent-color);
+    color: var(--text-color);
     cursor: pointer;
   }
 
-  main input:hover,
-  main label:hover {
+  #content input:hover,
+  #content label:hover {
     cursor: pointer;
   }
   .tree-item:hover {
-    background: var(--invert-background-color);
-    color: var(--invert-text-color);
+    background: var(--accent-color);
+    color: var(--text-color);
   }
 }

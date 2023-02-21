@@ -22,11 +22,6 @@
   justify-self: center;
 }
 
-#close-login {
-  cursor: pointer;
-  border-color: var(--border-color);
-}
-
 #login-form {
   visibility: visible;
   margin-bottom: 2rem;

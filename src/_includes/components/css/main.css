@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-display: block;
   font-family: Inter;
   font-style: normal;
@@ -14,6 +14,24 @@
   font-weight: 1 999;
   src: url(/public/assets/fonts/Inter-italic.woff2) format("woff2 supports variations"),
     url(/public/assets/fonts/Inter-italic.woff2) format("woff2-variations");
+} */
+
+@font-face {
+  font-display: block;
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 1 999;
+  src: url(/public/assets/fonts/Figtree.woff2) format("woff2 supports variations"),
+    url(/public/assets/fonts/Figtree.woff2) format("woff2-variations");
+}
+
+@font-face {
+  font-display: block;
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 1 999;
+  src: url(/public/assets/fonts/Figtree-italic.woff2) format("woff2 supports variations"),
+    url(/public/assets/fonts/Figtree-italic.woff2) format("woff2-variations");
 }
 
 *,
@@ -47,30 +65,40 @@ select {
 }
 
 :root {
-  --global-font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
-    Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  --global-font-family: Figtree, Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 
-  --accent-color: #119723;
+  /* --accent-color: #92cb4b; */
 
-  --brand-color: #119723;
+  /* --accent-color: #7fcd68; */
 
-  --text-color: #eee;
+  /* --accent-color: #2ab653; */
 
-  --invert-text-color: #111;
+  /* --accent-color: #8ee86d; */
 
-  --background-color: #111;
+  /* --accent-color: #baeb7f; */
 
-  --invert-background-color: #eee;
+  /* --accent-color: #4cca3d; */
 
-  --image-background-color: #eee;
+  --accent-color: #73bf44;
 
-  --border-color: #eee;
+  --text-color: #111;
 
-  --invert-border-color: #111;
+  --invert-text-color: #eee;
 
-  --button-background-color-hover: #eee;
+  --background-color: #eee;
 
-  --button-text-color-hover: #111;
+  --invert-background-color: #111;
+
+  --image-background-color: var(--accent-color);
+
+  --border-color: #111;
+
+  --invert-border-color: #eee;
+
+  --button-background-color-hover: var(--accent-color);
+
+  --button-text-color-hover: var(--text-color);
 
   --font-size-1: clamp(0.7rem, 0.66rem + 0.2vw, 0.8rem);
   --font-size-2: clamp(0.85rem, 0.83rem + 0.24vw, 1rem);
@@ -82,7 +110,7 @@ select {
 }
 
 .accent-color {
-  color: var(--brand-color);
+  color: var(--accent-color);
 }
 
 input,
@@ -121,6 +149,7 @@ body {
   color: var(--text-color);
   background: var(--background-color);
   word-break: break-word;
+  accent-color: var(--accent-color);
 }
 
 body > footer {
@@ -218,7 +247,6 @@ input[type="submit"] {
   border: 2px solid var(--text-color);
   font-weight: 700;
   padding: 0.3rem 0.6rem;
-  text-transform: uppercase;
   background: none;
   cursor: pointer;
   border-radius: 8px;
@@ -452,6 +480,7 @@ footer p {
   line-height: 1;
   font-size: var(--font-size-4);
   flex-grow: 2;
+  text-decoration: underline;
 }
 
 body.login-open #login-overlay,
@@ -482,7 +511,7 @@ body.pre-order-open {
 
 .utility-button {
   border: none;
-  font-size: var(--font-size-3);
+  font-size: var(--font-size-4);
   cursor: pointer;
 }
 
@@ -515,13 +544,13 @@ body.loggedIn .retail-price {
   .button:hover,
   input[type="submit"]:hover {
     cursor: pointer;
-    background: var(--button-background-color-hover);
+    background: var(--accent-color);
     color: var(--button-text-color-hover);
   }
 
   #header-buttons button:hover {
-    background: var(--text-color);
-    color: var(--background-color);
+    background: var(--accent-color);
+    color: var(--text-color);
     border-color: var(--border-color);
   }
   a:hover {
@@ -529,20 +558,20 @@ body.loggedIn .retail-price {
   }
 
   #desktop-menu button:hover {
-    background: var(--background-color);
-    color: var(--accent-color);
+    background: var(--accent-color);
+    color: var(--text-color);
   }
 
   #content-inner .button:hover,
   #content-grid .button:hover {
     cursor: pointer;
-    background-color: var(--text-color);
-    color: var(--background-color);
+    background-color: var(--accent-color);
+    color: var(--text-color);
   }
 
   #subscribe-form input[type="submit"]:hover {
-    color: var(--background-color);
-    background: var(--text-color);
+    color: var(--text-color);
+    background: var(--accent-color);
   }
 
   input[type="checkbox"]:hover {
@@ -603,9 +632,9 @@ body.loggedIn .retail-price {
     grid-template-columns: repeat(3, auto);
   }
 
-  #footer-links p {
+  /* #footer-links p {
     text-align: center;
-  }
+  } */
 }
 
 @media (min-width: 1350px) {

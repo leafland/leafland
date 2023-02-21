@@ -49,29 +49,27 @@ function updateOrderTotal() {
   ) {
     if (orderPoaGrade) {
       if (parseInt(orderTotalFreight) <= parseInt(orderMinimumCharge.slice(1))) {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))
-        ).toFixed(2)}+GST (includes minimum freight charge, excluding freight for P.O.A grades)</span>`;
+        totalCostText.innerHTML = `Total: <span>$${(parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))).toFixed(
+          2
+        )}+GST (includes minimum freight charge, excluding freight for P.O.A grades)</span>`;
       } else {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseFloat(total) + parseFloat(orderTotalFreight)
-        ).toFixed(2)}+GST (excluding freight for P.O.A grades)</span>`;
+        totalCostText.innerHTML = `Total: <span>$${(parseFloat(total) + parseFloat(orderTotalFreight)).toFixed(
+          2
+        )}+GST (excluding freight for P.O.A grades)</span>`;
       }
     } else {
       if (parseInt(orderTotalFreight) <= parseInt(orderMinimumCharge.slice(1))) {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))
-        ).toFixed(2)}+GST (includes minimum freight charge)</span>`;
+        totalCostText.innerHTML = `Total: <span>$${(parseFloat(total) + parseFloat(orderMinimumCharge.slice(1))).toFixed(
+          2
+        )}+GST (includes minimum freight charge)</span>`;
       } else {
-        totalCostText.innerHTML = `Total: <span class="accent-color">$${(
-          parseFloat(total) + parseFloat(orderTotalFreight)
-        ).toFixed(2)}+GST (including freight)</span>`;
+        totalCostText.innerHTML = `Total: <span>$${(parseFloat(total) + parseFloat(orderTotalFreight)).toFixed(
+          2
+        )}+GST (including freight)</span>`;
       }
     }
   } else {
-    totalCostText.innerHTML = `Total: <span class="accent-color">$${parseFloat(total).toFixed(
-      2
-    )}+GST (excluding freight)</span>`;
+    totalCostText.innerHTML = `Total: <span>$${parseFloat(total).toFixed(2)}+GST (excluding freight)</span>`;
   }
 }
 
@@ -191,10 +189,10 @@ async function updateOrder() {
       itemDiv.classList.add("order-item-details");
 
       let itemGrade = document.createElement("p");
-      itemGrade.innerHTML = `Grade Size: <span class="accent-color">${tree.grade}</span>`;
+      itemGrade.innerHTML = `Grade Size: <span>${tree.grade}</span>`;
 
       let itemAverageHeight = document.createElement("p");
-      itemAverageHeight.innerHTML = `Height: <span class="accent-color">${
+      itemAverageHeight.innerHTML = `Height: <span>${
         tree.averageHeight.toLowerCase() === "n/a" || tree.averageHeight.toLowerCase() === ""
           ? "-"
           : tree.averageHeight + "<span class='lowercase'>m</span>"
@@ -203,19 +201,17 @@ async function updateOrder() {
       let itemStandardHeight = document.createElement("p");
 
       if (tree.standardHeight.match(/\d+/g) !== null) {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">${
-          tree.standardHeight + "<span class='lowercase'>m</span>"
-        }</span>`;
+        itemStandardHeight.innerHTML = `Standard Height: <span>${tree.standardHeight + "<span class='lowercase'>m</span>"}</span>`;
       } else {
-        itemStandardHeight.innerHTML = `Standard Height: <span class="accent-color">-</span>`;
+        itemStandardHeight.innerHTML = `Standard Height: <span>-</span>`;
       }
 
       let itemPrice = document.createElement("p");
 
       if (loggedIn) {
-        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.wholesalePrice}+GST (Wholesale)</span>`;
+        itemPrice.innerHTML = `Price per tree: <span>${tree.wholesalePrice}+GST (Wholesale)</span>`;
       } else {
-        itemPrice.innerHTML = `Price per tree: <span class="accent-color">${tree.retailPrice}+GST (Retail)</span>`;
+        itemPrice.innerHTML = `Price per tree: <span>${tree.retailPrice}+GST (Retail)</span>`;
       }
 
       let freightPrice = document.createElement("p");
@@ -228,14 +224,14 @@ async function updateOrder() {
       ) {
         if (freightPriceValue === "P.O.A") {
           orderPoaGrade = true;
-          freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">P.O.A</span></p>`;
+          freightPrice.innerHTML = `<p>Freight per tree: <span>P.O.A</span></p>`;
         } else {
-          freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">${freightPriceValue}+GST</span></p>`;
+          freightPrice.innerHTML = `<p>Freight per tree: <span>${freightPriceValue}+GST</span></p>`;
 
           orderTotalFreight += parseInt(tree.quantity) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
         }
       } else {
-        freightPrice.innerHTML = `<p>Freight per tree: <span class="accent-color">-</span></p>`;
+        freightPrice.innerHTML = `<p>Freight per tree: <span>-</span></p>`;
       }
 
       let itemQuantity = document.createElement("input");
@@ -336,8 +332,7 @@ async function updateOrder() {
         orderTotalFreight = 0;
 
         for (i = 0; i < orderTrees.length; i++) {
-          totalWholesaleCost +=
-            orderTrees[i].quantity * parseFloat(orderTrees[i].wholesalePrice.slice(1), 10).toFixed(2);
+          totalWholesaleCost += orderTrees[i].quantity * parseFloat(orderTrees[i].wholesalePrice.slice(1), 10).toFixed(2);
           totalRetailCost += orderTrees[i].quantity * parseFloat(orderTrees[i].retailPrice.slice(1), 10).toFixed(2);
 
           freightPriceValue = "";
@@ -363,8 +358,7 @@ async function updateOrder() {
           ) {
             if (freightPriceValue === "P.O.A") {
             } else {
-              orderTotalFreight +=
-                parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
+              orderTotalFreight += parseInt(orderTrees[i].quantity, 10) * parseFloat(freightPriceValue.slice(1)).toFixed(2);
             }
           } else {
           }

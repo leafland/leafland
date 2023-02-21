@@ -144,9 +144,9 @@
 
 #submit-order {
   justify-self: center;
-  border-color: var(--invert-border-color);
-  color: var(--invert-text-color);
-  background: var(--invert-background-color);
+  border-color: var(--border-color);
+  color: var(--text-color);
+  /* background: var(--invert-background-color); */
 }
 
 #submit-order.disabled {
@@ -160,11 +160,11 @@
   display: grid;
   gap: 1rem;
   padding: 2rem;
-  color: var(--invert-text-color);
-  background: var(--invert-background-color);
+  /* color: var(--invert-text-color); */
+  background: var(--background-color);
   border-radius: 8px;
-
   width: 100%;
+  border: 2px solid var(--border-color);
   justify-self: center;
   justify-content: center;
 }
@@ -196,6 +196,6 @@
 @media (hover: hover) and (pointer: fine) {
   #submit-order:hover {
     color: var(--text-color);
-    background: var(--background-color);
+    background: var(--accent-color);
   }
 }

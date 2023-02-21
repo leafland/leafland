@@ -23,16 +23,7 @@ let filteredData = [];
 let heading = [];
 
 if (stockListType === "retail") {
-  heading = [
-    "Botanical Name",
-    "Common Name",
-    "Grade",
-    "$Retail",
-    "Height (m)",
-    "Standard Height (m)",
-    "Ready",
-    "In Production",
-  ];
+  heading = ["Botanical Name", "Common Name", "Grade", "$Retail", "Height (m)", "Standard Height (m)", "Ready", "In Production"];
 } else {
   heading = [
     "Botanical Name",
@@ -113,22 +104,21 @@ async function displayData(dataSet) {
         table.append(row);
       }
 
-      if (!dataSet[i][0].includes("?")) {
+      if (!dataSet[i][0].includes("?") && dataSet[i][13]) {
         let row = document.createElement("tr");
 
         for (let j = 0; j < 10; j++) {
           if (j === 0) {
             let cell = document.createElement("td");
             let link = document.createElement("a");
-            
+
             treeData.forEach((tree) => {
-              if(dataSet[i][13] && dataSet[i][13] !== ""){
-                if (tree.code === dataSet[i][13].split(" ")[0]) {
-                  link.href = `/trees/${tree.url}/`;
-                  link.innerHTML = tree.fullName;
-                }
+              if (dataSet[i][13].includes(tree.code)) {
+                link.href = `/trees/${tree.url}/`;
+                link.innerHTML = tree.fullName;
               }
             });
+
             if (link.textContent !== "") {
               cell.append(link);
             } else {

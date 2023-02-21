@@ -37,7 +37,7 @@ main {
   text-align: left;
   float: left;
   margin-top: 0.4rem;
-  font-size: var(--font-size-1);
+  font-size: var(--font-size-2);
   font-weight: 500;
 }
 
@@ -50,8 +50,8 @@ main {
 
 @media (hover: hover) and (pointer: fine) {
   .tree-item:hover {
-    background: var(--invert-background-color);
-    color: var(--invert-text-color);
+    background: var(--accent-color);
+    color: var(--text-color);
   }
 }
 
