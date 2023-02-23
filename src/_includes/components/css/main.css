@@ -130,6 +130,7 @@ input[type="text"],
 input[type="tel"],
 input[type="email"] {
   padding: 0.4rem;
+  background: #fff;
 }
 
 input[type="text"]::placeholder {

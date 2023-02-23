@@ -3,6 +3,7 @@
   font-size: var(--font-size-3);
   width: 100%;
   font-weight: 700;
+  background: #fff;
 }
 
 #search-section {
