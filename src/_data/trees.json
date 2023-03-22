@@ -5614,6 +5614,51 @@
     "similarTrees": []
   },
   {
+    "code": "BAMMUL",
+    "fullName": "<i>Bambusa Multiplexa Wang Tsai</i>",
+    "commonName": "Willowy Bamboo",
+    "otherCommonNames": "Chinese Goddess Bamboo, Bamboo",
+    "synonyms": "",
+    "url": "bambusa-multiplexa-wang-tsai",
+    "description": "<i>Bambusa Multiplexa Wang Tsai</i> is a clump bamboo with graceful surving green to orange-brown stems and dark green tufted foliage. Dense and upright grower. Awesome for privacy and screening. Grows on a wide range of soils, expect extereme wet or dry, and will toleratre moderate forest and coastal condtions but should be protected while its establishing.",
+    "uses": "hedging-and-screening, small-garden",
+    "tolerates": "coastal, Hardy",
+    "soilType": "clay",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "1.5m",
+    "stem": {
+      "summer": "green, brown",
+      "autumn": "green, brown",
+      "winter": "green, brown",
+      "spring": "green, brown"
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "drepanostachyum/drepanostachyum-general.svg",
+    "images": ["-1"],
+    "similarTrees": ["DREFAL"]
+  },
+  {
     "code": "BANINT",
     "fullName": "<i>Banksia integrifolia</i>",
     "commonName": "Coastal Banksia",
