@@ -44853,51 +44853,6 @@
     "similarTrees": []
   },
   {
-    "code": "ULMGLALUT",
-    "fullName": "<i>Ulmus glabra</i> 'Lutescens'",
-    "commonName": "Wych Elm",
-    "otherCommonNames": "Scotch Elm, Golden Elm, Golden Wych Elm",
-    "synonyms": "",
-    "url": "ulmus-glabra-lutescens",
-    "description": "This beautiful tree has a unique growth habit, starting off vase-shaped before maturing to form a broadly-round crown. The leaves of <i>Ulmus glabra</i> 'Lutescens' emerge yellow in the spring season before changing to green-yellow in the summer. When planted in full sun, <i>Ulmus glabra</i> 'Lutescens' can achieve better yellow coloring during the summer. The leaves then turn yellow again in the autumn season, adding to the ornamental value of <i>Ulmus glabra</i> 'Lutescens'. <i>Ulmus glabra</i> is deciduous and native to most of Europe. <a href='https://treesandshrubsonline.org/articles/ulmus/ulmus-glabra/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Ulmus glabra</i></a>. <i>Ulmus glabra</i> 'Lutescens' was found in the early 19th century near York, England by W. Pontey of Pontey's nursery in Kirkheaton, Huddersfield, England.",
-    "uses": "paddocks, shade",
-    "tolerates": "windy",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "deciduous",
-    "origin": "exotic",
-    "types": "",
-    "height": "6m",
-    "width": "5m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green, yellow",
-      "autumn": "yellow",
-      "winter": "",
-      "spring": "yellow"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "ulmus/ulmus-general.svg",
-    "images": ["", "-2", "-3", "-4", "-5", "-6", "-7"],
-    "similarTrees": []
-  },
-  {
     "code": "ULMGLAPEN",
     "fullName": "<i>Ulmus glabra</i> 'Pendula'",
     "commonName": "Wych Elm",
