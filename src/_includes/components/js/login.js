@@ -13,7 +13,9 @@ async function logIn(event) {
     .then((response) => response.json())
     .catch((error) => {});
 
-  if (emails.includes(event.target[0].value.toLowerCase())) {
+  let emailString = emails.join(" ,").toLowerCase();
+
+  if (emailString.includes(event.target[0].value.toLowerCase())) {
     login = true;
   }
 }
@@ -32,10 +34,7 @@ loginForm.addEventListener("submit", (event) => {
       document.querySelector("#log-in").value = "Log in";
       document.querySelector("#log-in").disabled = true;
       sessionStorage.setItem("loggedIn", "true");
-      sessionStorage.setItem(
-        "loginEmail",
-        `${event.target[0].value.toLowerCase()}`
-      );
+      sessionStorage.setItem("loginEmail", `${event.target[0].value.toLowerCase()}`);
       if (window.location.pathname === "/retail-stock-list/") {
         window.location.pathname = "/wholesale-stock-list/";
       } else {
