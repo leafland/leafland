@@ -18066,7 +18066,7 @@
     "synonyms": "",
     "url": "ficus-tuffy",
     "description": "Ficus Tuffy is an evergreen shrub grown for its lush attractive foliage and rapid growth. Leaves are are glossy light green, eventually turning dark green as the plant matures. The Foliage is dense and lush, providing the perfect hedging and screening option. Ficus Tuffy thrives in full sun or partial shade on a well drained site. It will tolerate moderate winds. Grows to around 3m tall and 2m wide, the perfect tree for a small garden, providing perfect privacy with its lush dense foliage.",
-    "uses": "topairy,screening,hedging",
+    "uses": "street, hedging-and-screening, topiary",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -18100,7 +18100,7 @@
       "spring": ""
     },
     "treeShape": "griselinia/griselinia-general.svg",
-    "images": ["", "-2", "-3", "-4"],
+    "images": ["", "-2", "-3", "-4", "-5"],
     "similarTrees": []
   },
   {
