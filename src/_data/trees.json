@@ -33611,6 +33611,50 @@
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7"]
   },
   {
+    "code": "PERAMEREE",
+    "fullName": "<i>Persea americana</i> 'Reed'",
+    "commonName": "Avocado",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "persea-americana-reed",
+    "description": "<i>Persea americana</i> 'Reed' produces a tasty cannon ball fruit, maturing from february through June. It is typically harvested from late summer to early spring. Predominantly self-fertile, although cross pollination with fuerte or bacon will produce a heavier crop <a href='/trees/persea-americana-bacon/'><i>Persea americana</i> 'Reed' is an upright and vigorous grower, growing to around 5m in height.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "5m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "treeShape": "avocado/avocado-general.svg",
+    "images": []
+  },
+  {
     "code": "PHESQU",
     "fullName": "<i>Phebalium squameum</i>",
     "commonName": "Satinwood",
