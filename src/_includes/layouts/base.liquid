@@ -250,6 +250,12 @@
     <main>
       {{ content }}
 
+      {% if type == 'product' %}
+
+    {% include "components/_stock-table.liquid"%}
+
+    {% endif %}
+
       {% include "components/_footer.liquid"%}
     </main>
     
@@ -267,8 +273,6 @@
 
     {% include "components/_image-lightbox.liquid"%}
 
-    {% include "components/_stock-table.liquid"%}
-
     {% include "components/_pre-order.liquid"%}
 
     {% endif %}
@@ -279,7 +283,7 @@
 
     {% endif %}
 
-    {% comment %} <a href="https://wa.me/message/LQJCKF5RQGBTD1" target="_blank" id='whatsapp-link'><img src="https://files.leafland.co.nz/whatsapp-icon.svg" width="60" height="60"></a> {% endcomment %}
+    <a href="#" id='cart-icon'><img src="https://files.leafland.co.nz/cart-icon-newest.svg" width="80" height="80"></a>
 
   </body>
 

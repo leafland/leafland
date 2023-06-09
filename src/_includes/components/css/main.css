@@ -491,7 +491,6 @@ body.order-sent-open #order-sent-overlay,
 body.submit-order-open #submit-order-overlay,
 body.main-menu-open #main-menu-overlay,
 body.filter-open #filter-overlay,
-body.stock-table-open #stock-table,
 body.pre-order-open #pre-order-overlay,
 body.lightbox-open #image-lightbox {
   opacity: 1;
@@ -504,7 +503,6 @@ body.order-open,
 body.order-sent-open,
 body.submit-order-open,
 body.main-menu-open,
-body.stock-table-open,
 body.lightbox-open,
 body.filter-open,
 body.pre-order-open {
@@ -532,14 +530,14 @@ body.loggedIn .retail-price {
   display: none;
 }
 
-/* #whatsapp-link {
+#cart-icon {
   position: fixed;
-  bottom: 15px;
-  right: 15px;
+  bottom: 20px;
+  right: 20px;
   z-index: 1;
-  width: 60px;
-  height: 60px;
-} */
+  width: 80px;
+  height: 80px;
+}
 
 @media (hover: hover) and (pointer: fine) {
   button:hover:enabled,

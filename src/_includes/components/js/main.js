@@ -53,6 +53,11 @@ if (sessionStorage.getItem("loggedIn") === "false" || sessionStorage.getItem("lo
   window.dispatchEvent(dataLoaded);
 })();
 
+document.querySelector("#cart-icon").addEventListener("click", (event) => {
+  event.preventDefault();
+  document.body.classList.add("order-open");
+});
+
 document.querySelector("#subscribe-form").addEventListener("submit", (event) => {
   event.preventDefault();
   document.querySelector("#subscribe").value = "Subscribing...";

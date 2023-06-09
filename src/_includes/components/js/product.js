@@ -33,7 +33,6 @@ if (loggedIn) {
 }
 
 (async function init() {
-
   addEventListeners();
 
   productImage = mainImg.src.split("1000/")[1];
@@ -112,9 +111,7 @@ async function createStockValues() {
 
           orderNow.addEventListener("click", () => {
             document.querySelector("#pre-order-title").innerHTML = stockData[i][2] + " " + treeBotanicalName.innerHTML;
-            document.querySelector(
-              "#message-paragraph"
-            ).innerHTML = `<button type="submit" id="send-pre-order">Submit Pre-order</button>`;
+            document.querySelector("#message-paragraph").innerHTML = `<button type="submit" id="send-pre-order">Submit Pre-order</button>`;
             document.body.classList.add("pre-order-open");
             document.body.classList.remove("stock-table-open");
             document.querySelector("#pre-order-quantity").max = stockData[i][9];
@@ -140,15 +137,13 @@ async function createStockValues() {
                 replyToAddress: email.value,
                 replyToName: name.value,
                 subject: "Pre-order from " + name.value,
-                html: `Hi team,<br><br>I would like to place a pre-order for:<br><br>Tree: ${
-                  treeBotanicalName.textContent
-                }<br>Grade: ${stockData[i][2]}<br>Price per tree: ${
-                  loggedIn ? stockData[i][5] + "+GST (Wholesale)" : stockData[i][3] + "+GST (Retail)"
-                }<br>Quantity: ${preOrderQuantity.value}<br><br><br>Name: ${name.value}<br>Email: ${
-                  email.value
-                }<br>Phone: ${phone.value}<br>Street Address: ${streetAddress.value}<br>Town/City: ${
-                  townCity.value
-                }<br>Notes: ${notes.value}`,
+                html: `Hi team,<br><br>I would like to place a pre-order for:<br><br>Tree: ${treeBotanicalName.textContent}<br>Grade: ${
+                  stockData[i][2]
+                }<br>Price per tree: ${loggedIn ? stockData[i][5] + "+GST (Wholesale)" : stockData[i][3] + "+GST (Retail)"}<br>Quantity: ${
+                  preOrderQuantity.value
+                }<br><br><br>Name: ${name.value}<br>Email: ${email.value}<br>Phone: ${phone.value}<br>Street Address: ${
+                  streetAddress.value
+                }<br>Town/City: ${townCity.value}<br>Notes: ${notes.value}`,
                 isOpenTracked: false,
               });
 
@@ -212,15 +207,7 @@ async function createStockValues() {
   }
 }
 
-function addTreeToSessionStorage(
-  grade,
-  averageHeight,
-  quantity,
-  maxQuantity,
-  standardHeight,
-  retailPrice,
-  wholesalePrice
-) {
+function addTreeToSessionStorage(grade, averageHeight, quantity, maxQuantity, standardHeight, retailPrice, wholesalePrice) {
   productTrees = JSON.parse(sessionStorage.getItem("trees"));
   let totalRetailCost = 0;
   let totalWholesaleCost = 0;
@@ -293,13 +280,13 @@ function addEventListeners() {
     }
   });
 
-  document.querySelector("#open-stock-table").addEventListener("click", () => {
-    document.body.classList.add("stock-table-open");
-  });
+  // document.querySelector("#open-stock-table").addEventListener("click", () => {
+  //   document.body.classList.add("stock-table-open");
+  // });
 
-  document.querySelector("#stock-table-close").addEventListener("click", () => {
-    document.body.classList.remove("stock-table-open");
-  });
+  // document.querySelector("#stock-table-close").addEventListener("click", () => {
+  //   document.body.classList.remove("stock-table-open");
+  // });
 
   document.querySelector("#pre-order-close").addEventListener("click", () => {
     document.body.classList.remove("pre-order-open");
@@ -338,17 +325,13 @@ function addEventListeners() {
     lightboxImage.src = "";
 
     if (parseInt(lightboxImage.dataset.position) === 0) {
-      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
-        thumbImages[thumbImages.length - 1].dataset.url
-      }`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[thumbImages.length - 1].dataset.url}`;
 
       lightboxImage.alt = thumbImages[thumbImages.length - 1].alt;
 
       lightboxImage.dataset.position = thumbImages.length - 1;
     } else {
-      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
-        thumbImages[parseInt(lightboxImage.dataset.position) - 1].dataset.url
-      }`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[parseInt(lightboxImage.dataset.position) - 1].dataset.url}`;
 
       lightboxImage.alt = thumbImages[parseInt(lightboxImage.dataset.position) - 1].alt;
 
@@ -367,9 +350,7 @@ function addEventListeners() {
 
       lightboxImage.dataset.position = 0;
     } else {
-      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${
-        thumbImages[parseInt(lightboxImage.dataset.position) + 1].dataset.url
-      }`;
+      lightboxImage.src = `https://files.leafland.co.nz/tr:w-1500/${thumbImages[parseInt(lightboxImage.dataset.position) + 1].dataset.url}`;
 
       lightboxImage.alt = thumbImages[parseInt(lightboxImage.dataset.position) + 1].alt;
 
