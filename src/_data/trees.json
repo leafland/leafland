@@ -10474,7 +10474,52 @@
     "images": ["", "-2", "-3"]
   },
   {
-    "code": "CITPARGOLSPE",
+    "code": "CITPARCUTRED",
+    "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Cutlers Red'",
+    "commonName": "Grapefruit",
+    "otherCommonNames": "",
+    "synonyms": "<i>Citrus</i> x <i>aurantium</i> 'Cutlers red'",
+    "url": "citrus-x-paradisi-cutlers-red",
+    "description": "<i>Citrus</i> x <i>paradisi</i> 'Cutlers Red' has large, deep orange, sweet, juicy fruit with just a little zing. The rind is thick. The fruit ripens July to November. Works best in a sunny position with  well drained fertile soil. Water well during hot dry summer periods.Ideal for screening or hedging. Evergreen.(3m wide by 3m tall after 10 years)",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "yellow",
+      "spring": "yellow"
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["", "", ""],
+    "similarTrees": []
+  },
+  {
+    "code": "CITPARCUTRED",
     "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Golden Special'",
     "commonName": "Grapefruit",
     "otherCommonNames": "",
