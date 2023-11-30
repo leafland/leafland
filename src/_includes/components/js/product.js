@@ -133,7 +133,7 @@ async function createStockValues() {
               const internalBody = JSON.stringify({
                 fromAddress: "administrator@leafland.co.nz",
                 fromName: "Admin | Leafland",
-                toAddress: "sales@leafland.co.nz",
+                toAddress: "joshua@leafland.co.nz",
                 replyToAddress: email.value,
                 replyToName: name.value,
                 subject: "Pre-order from " + name.value,
