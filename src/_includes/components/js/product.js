@@ -135,7 +135,7 @@ async function createStockValues() {
                 from_name: "Admin | Leafland",
                 to: [
                   {
-                    email: "joshua@leafland.co.nz",
+                    email: "sales@leafland.co.nz",
                   },
                 ],
                 subject: "Pre-order from " + name.value,
