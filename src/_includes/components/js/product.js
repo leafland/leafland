@@ -131,11 +131,13 @@ async function createStockValues() {
               const { name, email, phone, streetAddress, townCity, notes, preOrderQuantity } = event.target;
 
               const internalBody = JSON.stringify({
-                fromAddress: "administrator@leafland.co.nz",
-                fromName: "Admin | Leafland",
-                toAddress: "joshua@leafland.co.nz",
-                replyToAddress: email.value,
-                replyToName: name.value,
+                from_email: "administrator@leafland.co.nz",
+                from_name: "Admin | Leafland",
+                to: [
+                  {
+                    email: "joshua@leafland.co.nz",
+                  },
+                ],
                 subject: "Pre-order from " + name.value,
                 html: `Hi team,<br><br>I would like to place a pre-order for:<br><br>Tree: ${treeBotanicalName.textContent}<br>Grade: ${
                   stockData[i][2]
@@ -144,7 +146,11 @@ async function createStockValues() {
                 }<br><br><br>Name: ${name.value}<br>Email: ${email.value}<br>Phone: ${phone.value}<br>Street Address: ${
                   streetAddress.value
                 }<br>Town/City: ${townCity.value}<br>Notes: ${notes.value}`,
-                isOpenTracked: false,
+                track_opens: false,
+                track_clicks: false,
+                headers: {
+                  "Reply-To": email.value,
+                },
               });
 
               const internalRequestOptions = {
