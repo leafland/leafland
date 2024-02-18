@@ -2399,7 +2399,7 @@
     "fullName": "<i>Acer palmatum</i> 'Pixie'",
     "commonName": "Japanese Maple",
     "otherCommonNames": "",
-    "synonyms": "<i>Acer palmatum</i> 'Emperor 1', <i>Acer palmatum</i> 'Emperor One', <i>Acer palmatum</i> 'Wolff'",
+    "synonyms": "",
     "url": "acer-palmatum-pixie",
     "description": "A miniature counterpart to the Japanese Maple <i>Acer palmatum</i> 'Bloodgood', and a captivating red leaf dwarf maple. Resembling <i>Acer palmatum</i> 'Bloodgood', its bright red spring leaves evolve into a deep red hue throughout summer, conculding with a vibrant scarlet display in autumn. <i>Acer palmatum</i> 'Pixie' boasts a compact size, making it ideal for full sun to part shade. It thrives in sheltered spots, requiring protection from intense afternoon sun and hot, dry coastal winds. Plant in fertile, moist, and well-drained soil for optimal growth. <i>Acer palmatum</i> is deciduous and native to Japan, China, eastern Mongolia, and southeast Russia.",
     "uses": "small-garden",
@@ -2436,7 +2436,7 @@
       "spring": ""
     },
     "treeShape": "acer-palmatum/acer-palmatum-general.svg",
-    "images": ["", "-2"]
+    "images": ["", ""]
   },
   {
     "code": "ACEPALREDEMP",
