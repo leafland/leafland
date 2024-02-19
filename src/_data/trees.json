@@ -6936,7 +6936,7 @@
       "summer": "",
       "autumn": "",
       "winter": "",
-      "spring": "yellow, red"
+      "spring": ""
     },
     "foliage": {
       "summer": "green",
@@ -6952,6 +6952,50 @@
     },
     "treeShape": "pittosporum/pittosporum-low-growing.svg",
     "images": ["", "-2"]
+  },
+  {
+    "code": "BUXSEM",
+    "fullName": "<i>Buxus sempervirens</i>",
+    "commonName": "Common Boxwood",
+    "otherCommonNames": "Common Box, European Box",
+    "synonyms": "",
+    "url": "buxus-sempervirens",
+    "description": "<i>Buxus sempervirens</i> is an evergreen shrub native to Europe, North Africa and West Asia. This versatile shrub is well-suited for both large formal gardens and smaller garden spaces. With its lush green foliage it is ideal for hedging, providing an elegant touch to edges, borders and small boundaries. Often chosen as a popular box hedging selection, it is typically tightly clipped into formal low hedges. Known for its hardiness and forgiving nature.",
+    "uses": "small gardens",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "pittosporum/pittosporum-low-growing.svg",
+    "images": ["", "-2", "-3"]
   },
   {
     "code": "BUXSEMGRABLA",
