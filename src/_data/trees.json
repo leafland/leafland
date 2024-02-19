@@ -37506,6 +37506,51 @@
     "similarTrees": []
   },
   {
+    "code": "PRUAVILAPDAW",
+    "fullName": "<i>Prunus avium</i> 'Lapins/Dawson'",
+    "commonName": "Cherry",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "prunus-avium-lapins-dawson",
+    "description": "Double grafted <i>Prunus avium</i> 'Lapins/Dawson is ideal for a sunny sheltered location with moist soil during the growing season.<i>Prunus avium</i> 'Lapins' yields large black-red fruit with red flesh and a sweet flavour. It serves as a reliable pollinator for other cherry varieties. Harvesting is done during early to mid-summer.<i>Prunus avium</i> 'Dawson' produces black-red fruit with firm red flesh that is ready for harvest in early summer. Both varieties do well in a low-chill environment, making this double grafted cherry ideal for warmer regions.<i>Prunus avium</i> is deciduous and native to Europe.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "orange, red",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "cherry/cherry-general.svg",
+    "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
+  {
     "code": "PRUAVIRAI",
     "fullName": "<i>Prunus avium</i> 'Rainier'",
     "commonName": "Cherry",
