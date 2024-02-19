@@ -11412,6 +11412,50 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": [""]
   },
+   {
+    "code": "CITSINHARLAT",
+    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Harwoods Late'",
+    "commonName": "Orange",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "citrus-x-sinensis-harwoods-late",
+    "description": "<i>Citrus x sinensis</i> 'Harwoods Late' was developed in New Zealand from a <i>Citrus x sinensis</i> 'Valencia' seedling, and it delightfully sweet and juicy, containing few seeds. The fruit ripens from summer through to autumn, and will thrive in a sunny well drained spot, being resistant to temperatures as low as -4C. <i>Citrus x sinensis</i> 'Harwoods Late' is evergreen and needs protecting from moderate to heavy frosts.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "orange",
+      "autumn": "orange",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["", "-2", "-3"]
+  },
   {
     "code": "CITSINPARNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Parent Navel'",
