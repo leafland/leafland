@@ -1320,6 +1320,50 @@
     "treeShape": "acer-palmatum/acer-palmatum-weeping.svg",
     "images": ["", "-2"]
   },
+   {
+    "code": "ACEPALDISCRIPRI",
+    "fullName": "<i>Acer palmatum</i> var. <i>dissectum</i> 'Crimson Princess'",
+    "commonName": "Japanese Maple",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "acer-palmatum-var-dissectum-crimson-princess",
+    "description": "This small slow-growing specimen boasts a weeping habit, creating a captivating mushroom-like display. Noted for retaining it's vibrant red colour throughout the growing season, the leaves start as bright crimson in spring, transition to a deep red purple in summer, and finish in a fiery scarlet hue during autumn. <i>Acer palmatum</i> is deciduous and native to Japan, China, eastern Mongolia, and southeast Russia.",
+    "uses": "small-garden",
+    "tolerates": "light-frosts, heavy-frosts",
+    "soilType": "sandy, clay",
+    "sunShade": "part-shade",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "weeping",
+    "height": "2m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "purple, red",
+      "autumn": "red",
+      "winter": "",
+      "spring": "red"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "acer-palmatum/acer-palmatum-weeping.svg",
+    "images": [""]
+  },
   {
     "code": "ACEPALDISCRIQUE",
     "fullName": "<i>Acer palmatum</i> var. <i>dissectum</i> 'Crimson Queen'",
