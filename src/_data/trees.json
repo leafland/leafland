@@ -8609,6 +8609,51 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
+   {
+    "code": "CAMSASPLAPIN",
+    "fullName": "<i>Camellia sasanqua</i> 'Plantation Pink'",
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "camellia-sasanqua-plantation-pink",
+    "description": "<i>Camellia sasanqua</i> 'Plantation Pink' thrives in moist, well draining soils and a sheltered site with full sun to partial shade. In autumn to early winter, <i>Camellia sasanqua</i> 'Planatation Pink' produces large light pink flowers with a yellow centre. Its leaves are narrow and dark green. An evergreen perfect for hedging, <i>Camellia sasanqua</i> 'Planatation Pink' was grown from the parent plant <i>Camellia sasanqua</i> and originated in Australia by E.G. Waterhouse.",
+    "uses": "hedging-and-screening, attracts-bees, small-gardens",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink",
+      "winter": "pink",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
   {
     "code": "CAMSASSET",
     "fullName": "<i>Camellia sasanqua</i> 'Setsugekka'",
