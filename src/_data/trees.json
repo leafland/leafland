@@ -7936,6 +7936,51 @@
     "similarTrees": []
   },
   {
+    "code": "CAMJAPECC",
+    "fullName": "<i>Camellia japonica</i> 'Ecclefield'",
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "camellia-japonica-ecclefield",
+    "description": "<i>Camellia japonica</i> 'Ecclefield' is a semi-double bloom with chalky white flowers, set against dark green glossy foliage. It flowers from mid-winter to early spring. Plant in a sunny or partly shaded location, in well draining soil. Trim lightly in spring to keep a robust upright form.<i>Camellia japonica</i> is evergreen and native to mainland China, Taiwan, southern Korea, and southwestern Japan.<i>Camellia japonica</i> 'Ecclefield' was released in California in 1969. ",
+    "uses": "hedging-and-screening, attracts-bees, small-gardens",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "white",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2"],
+    "similarTrees": []
+  },
+  {
     "code": "CAMJAPKRABEA",
     "fullName": "<i>Camellia japonica</i> 'Kramer's Beauty'",
     "commonName": "Camellia",
