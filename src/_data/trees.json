@@ -33789,6 +33789,50 @@
     "images": ["", "-2", "-3", "-4", "-5"]
   },
   {
+    "code": "PERAMEFUE",
+    "fullName": "<i>Persea americana</i> 'Fuerte'",
+    "commonName": "Avocado",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "persea-americana-fuerte",
+    "description": "<i>Persea americana</i> 'Fuerte' is known for it's exquisite taste and remarkable cold tolerance. The fruit it easy to peel, bearing well every second year. This B-type avocado not only enhances pollination for A-type varieties (e.g. <i>Persea americana</i> 'Hass'), but also produces pear-shaped fruit from winter till spring. Plant <i>Persea americana</i> 'Fuerte' in a sunny, well-drained location, avoiding wet and compacted soils. Fertilize regularly during spring and summer, and protect the tree from wind during its early years. <i>Persea americana</i> 'Fuerte' is evergreen, and originated from the garden of Alejandro Le Blanc in Atlixco, Mexico.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "6m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "green",
+      "spring": "green"
+    },
+    "treeShape": "avocado/avocado-general.svg",
+    "images": ["", "-2", "-3", "-4"]
+  },
+  {
     "code": "PERAMEHAS",
     "fullName": "<i>Persea americana</i> 'Hass'",
     "commonName": "Avocado",
