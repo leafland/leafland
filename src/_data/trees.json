@@ -33883,7 +33883,7 @@
     "otherCommonNames": "",
     "synonyms": "",
     "url": "persea-americana-reed",
-    "description": "<i>Persea americana</i> 'Reed' produces a tasty cannon ball fruit, maturing from february through June. It is typically harvested from late summer to early spring. Predominantly self-fertile, although cross pollination with fuerte or bacon will produce a heavier crop. Reed' is an upright and vigorous grower, growing to around 5m in height.",
+    "description": "<i>Persea americana</i> 'Reed', discovered in the mid-20th century in Carlsbad, California, within James S. avocado grove, stands out as a premier avocado variety. This cultivar yields large round avocados with a lusciously creamy and buttery texture, free from any strings or fibres. The seed effortlessly seperates from the flesh. Classified as an A flowering type (though self-fertile in warmer climates), benefits from being planted near a B variety such as <i>Persea americana</i> 'Fuerte', <i>Persea americana</i> 'Bacon', or <i>Persea americana</i> 'Zutano'.Fruits from late summer to early winter.",
     "uses": "",
     "tolerates": "",
     "soilType": "",
@@ -33912,13 +33912,13 @@
       "spring": "green"
     },
     "fruit": {
-      "summer": "",
+      "summer": "green",
       "autumn": "green",
       "winter": "green",
-      "spring": "green"
+      "spring": ""
     },
     "treeShape": "avocado/avocado-general.svg",
-    "images": []
+    "images": ["", "-2", "-3"]
   },
   {
     "code": "PHESQU",
