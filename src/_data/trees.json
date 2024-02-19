@@ -3196,6 +3196,51 @@
     "similarTrees": []
   },
   {
+    "code": "ACEPALVILTAR",
+    "fullName": "<i>Acer palmatum</i> 'Villa Taranto'",
+    "commonName": "Japanese Maple",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "acer-palmatum-villa-taranto",
+    "description": "<i>Acer palmatum</i> 'Villa Taranto' presents a compact, mounding structure. It's palmate leaves, with five slender lobes reminiscent of bamboo, unfurl in a reddish-purple shade in spring, shift to green with red undertones in summer, and then transition to a striking golden orange in autumn. The cultivar takes it's name from the Italian garden where it was originally found. <i>Acer palmatum</i> is deciduous and native to Japan, Korea, China, eastern Mongolia, and southeast Russia.",
+    "uses": "small-garden",
+    "tolerates": "light-frosts, heavy-frosts",
+    "soilType": "sandy, clay",
+    "sunShade": "part-shade",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, red",
+      "autumn": "orange, yellow",
+      "winter": "",
+      "spring": "red, purple"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "acer-palmatum/acer-palmatum-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
     "code": "ACEPLA",
     "fullName": "<i>Acer platanoides</i>",
     "commonName": "Norway Maple",
