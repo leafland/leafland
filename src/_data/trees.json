@@ -8430,6 +8430,51 @@
     "similarTrees": []
   },
   {
+    "code": "CAMSASGAYBOR",
+    "fullName": "<i>Camellia sasanqua</i> 'Gay Border'",
+    "commonName": "Camellia",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "camellia-sasanqua-gay-border",
+    "description": "<i>Camellia sasanqua</i> 'Gay Border' produces large fragrant single flowers in autumn and winter, displaying a white to pale pink hue, with rose-red shading on the borders. The glossy dark green leaves with finely serrated edges respond well to pruning, forming an excellent hedge.<i>Camellia sansanqua</i> 'Gay Border' thrives in acidic soil and partial shade, but can also tolerate full sun. It originated in New Zealand by Jack Clark, Auckland, from the parent plant <i>Camellia sasanqua</i>.",
+    "uses": "hedging-and-screening, small-gardens, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "pink",
+      "winter": "pink",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
     "code": "CAMSASMINNOYUK",
     "fullName": "<i>Camellia sasanqua</i> 'Mine-no-yuki'",
     "commonName": "Camellia",
