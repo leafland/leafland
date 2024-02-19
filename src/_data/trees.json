@@ -6909,6 +6909,50 @@
     "treeShape": "brachychiton/brachychiton-large.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7", "-8"]
   },
+   {
+    "code": "BUXGREGEM",
+    "fullName": "<i>Buxus</i> 'Green Gem'",
+    "commonName": "Boxwood",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "buxus-green-gem",
+    "description": "<i>Buxus</i> 'Green Gem' features a natural rounded shape. During spring, the new growth is adorned in a soft lime green hue which transforms into a darker glossy green as it matures. <i>Buxus</i> 'Green Gem' grows well in both sunny and partially shaded enviroments. It has a higher resistance to <i>Buxus</i> blight compared to <i>Buxus sempervirens</i>.",
+    "uses": "small gardens",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "part shade, full sun",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "yellow, red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "buxus-low-growing.svg",
+    "images": ["", "-2"]
+  },
   {
     "code": "BUXSEMGRABLA",
     "fullName": "<i>Buxus sempervirens</i> 'Graham Blandy'",
