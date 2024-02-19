@@ -33920,6 +33920,50 @@
     "treeShape": "avocado/avocado-general.svg",
     "images": ["", "-2", "-3"]
   },
+   {
+    "code": "PERAMEZUT",
+    "fullName": "<i>Persea americana</i> 'Zutano'",
+    "commonName": "Avocado",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "persea-americana-zutano",
+    "description": "Originating in Fallbrook, California in 1926 under R.L. Ruitt's care, <i>Persea americana</i> 'Zutano' produce large fruit in winter and early spring. With a thin shiny skin, they are often used as pollinator trees. While self-fertile in warmer climats, <i>Persea americana</i> is classified as a B flowering type, so planting <i>Persea americana</i> 'Zutano' near a <i>Persea americana</i> 'Reed' or <i>Persea americana</i> 'Hass' enhances fruit production in colder climates. Plant in full sun with well-draining soil, and regularly fertilize in spring and summer. <i>Persea americana</i> 'Zutano' is recognized as one of the more cold-tolerant varieties.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "5m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "green",
+      "spring": "green"
+    },
+    "treeShape": "avocado/avocado-general.svg",
+    "images": ["", "-2"]
+  },
   {
     "code": "PHESQU",
     "fullName": "<i>Phebalium squameum</i>",
