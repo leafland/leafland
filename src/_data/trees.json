@@ -6917,7 +6917,7 @@
     "synonyms": "",
     "url": "buxus-green-gem",
     "description": "<i>Buxus</i> 'Green Gem' features a natural rounded shape. During spring, the new growth is adorned in a soft lime green hue which transforms into a darker glossy green as it matures. <i>Buxus</i> 'Green Gem' grows well in both sunny and partially shaded enviroments. It has a higher resistance to <i>Buxus</i> blight compared to <i>Buxus sempervirens</i>.",
-    "uses": "small gardens",
+    "uses": "small-garden",
     "tolerates": "",
     "soilType": "",
     "sunShade": "part shade, full sun",
@@ -6961,7 +6961,7 @@
     "synonyms": "",
     "url": "buxus-sempervirens",
     "description": "<i>Buxus sempervirens</i> is an evergreen shrub native to Europe, North Africa and West Asia. This versatile shrub is well-suited for both large formal gardens and smaller garden spaces. With its lush green foliage it is ideal for hedging, providing an elegant touch to edges, borders and small boundaries. Often chosen as a popular box hedging selection, it is typically tightly clipped into formal low hedges. Known for its hardiness and forgiving nature.",
-    "uses": "small gardens",
+    "uses": "small-garden",
     "tolerates": "",
     "soilType": "",
     "sunShade": "",
@@ -7040,6 +7040,51 @@
     },
     "treeShape": "buxus/buxus-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6"]
+  },
+   {
+    "code": "CALBETJOH",
+    "fullName": "<i>Callistemon</i> 'Better John'",
+    "commonName": "Bottlebrush",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "callistemon-better-john",
+    "description": "<i>Callistemon</i> 'Better John' is bred from the cultivar <i>Callistemon</i> 'Little John', and native to Australia. It features soft blue-green dense foliage, with a soft and hairy texture and is a very compact low-maintenance plant. With vibrant red bottlebrush flowers in spinrg, it is a perfect choice for low hedging, borders or pots. It will grow best in full or part sun, and well draining soil.",
+    "uses": "attracts-bees, small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun, part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green, blue",
+      "autumn": "green, blue",
+      "winter": "green, blue",
+      "spring": "green, blue"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "callistemon/callistemon-general.svg",
+    "images": ["", "-2"],
+    "similarTrees": []
   },
   {
     "code": "CALCIT",
