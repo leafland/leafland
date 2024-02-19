@@ -11278,6 +11278,51 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
+   {
+    "code": "CITSINBLOORA",
+    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Blood Orange'",
+    "commonName": "Orange",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "citrus-x-sinensis-blood-orange",
+    "description": "<i>Citrus x sinensis</i> 'Blood Orange' fruits from late winter, producing dark red flesh when the days are hot, and the nights are cold. Will tolerate light frosts but thrives in warm temperatures and prefers slightly acidic soil. Fertilize during spring and summer every month with a balanced fertilizer.<i>Citrus x sinensis</i> is evergreen and native to China India and Mynamar.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "orange",
+      "spring": "orange"
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["", "-2"],
+    "similarTrees": []
+  },
   {
     "code": "CITSINCARNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Carter's Navel'",
