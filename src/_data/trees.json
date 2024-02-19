@@ -1544,6 +1544,50 @@
     "images": ["", "-2", "-3", "-4", "-5", "-6"]
   },
   {
+    "code": "ACEPALDISGREMIS",
+    "fullName": "<i>Acer palmatum</i> var. <i>dissectum</i> 'Green Mist'",
+    "commonName": "Japanese Maple",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "acer-palmatum-var-dissectum-green-mist",
+    "description": "<i>Acer palmatum var. dissectum</i> 'Green Mist' has soft pale green dissectum leaves that create a flowing elegant effect. It is slow growing, with a horizontal weeping habit, and thrives in partial shade. In autumn, the leaves display yellow, orange and red hues. <i>Acer palmatum</i> is deciduous and native to Japan, China, eastern Mongolia, and southeast Russia.",
+    "uses": "small-garden",
+    "tolerates": "light-frosts, heavy-frosts",
+    "soilType": "sandy, clay",
+    "sunShade": "part-shade",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "weeping",
+    "height": "2m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, red, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "acer-palmatum/acer-palmatum-weeping.svg",
+    "images": ["", "-2"]
+  },
+  {
     "code": "ACEPALDISINASHI",
     "fullName": "<i>Acer palmatum</i> var. <i>dissectum</i> 'Inaba-shidare'",
     "commonName": "Japanese Maple",
