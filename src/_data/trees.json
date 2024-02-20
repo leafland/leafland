@@ -12038,6 +12038,51 @@
     "images": [""],
     "similarTrees": []
   },
+   {
+    "code": "COPRHA",
+    "fullName": "<i>Coprosma rhamnoides</i>",
+    "commonName": "Mingimingi",
+    "otherCommonNames": "Twiggy Coprosma",
+    "synonyms": "",
+    "url": "coprosma-rhamnoides",
+    "description": "<i>Coprosma rhamnoides</i> is a hardy shrub with very small green leaves in shade, turning purple in full sun, and flowering in mid-spring with cream-coloured flowers. It will thrive in full sun or dry conditions and attracts native birds when fruiting. If you desire hundreds of red/black berries, it is recommended to plant several to improve the chances of having both males and female plants. <i>Coprosma rhamnoides</i> is native to New Zealand.",
+    "uses": "attracts-birds, small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "1.5m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": "red"
+    },
+    "treeShape": "coprosma/coprosma-low-growing.svg",
+    "images": ["","-1","-2","-3","-4","-5","-6"],
+    "similarTrees": []
+  },
   {
     "code": "COPVIR",
     "fullName": "<i>Coprosma virescens</i>",
