@@ -11687,7 +11687,7 @@
     "synonyms": "<i>Clianthus puniceus var. maximus</i>",
     "url": "clianthus-maximus",
     "description": "<i>Clianthus maximus</i> is a small shrub that flowers with clusters of large red flowers that mimic a Kaka Beak, during winter and spring. These showy flowers attract nectar-eating birds. <i>Clianthus maximus</i> can tolerate full sun and part-shade, and will grow in most free-draining soils.<i>Clianthus maximus</i> is native to the North Island of New Zealand.",
-    "uses": "attracts-birds, small-gardens",
+    "uses": "attracts-birds, small-garden",
     "tolerates": "",
     "soilType": "",
     "sunShade": "full-sun, part-shade",
@@ -11722,6 +11722,51 @@
     },
     "treeShape": "sophora/sophora-low-bushy.svg",
     "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
+  {
+    "code": "CLIMAXKAKKIN",
+    "fullName": "<i>Clianthus maximus</i> 'Kaka King'",
+    "commonName": "Kaka Beak",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "clianthus-maximus-kaka-king",
+    "description": "<i>Clianthus maximus</i> 'Kaka King' is an evergreen shrub that has hanging clusters of vibrant red flowers throughout spring and summer, bringing the birds. It thrives in shelter, and both full sun and partial shade. <i>Clianthus maximus</i> 'Kaka King' can withstand light to moderate frosts, and occasional dry spells. It has a more upright form than the parent <i>Clianthus maximus</i>.<i>Clianthus maximus</i> is native to the North Island of New Zealand.",
+    "uses": "attracts-birds, small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun, part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "sophora/sophora-low-bushy.svg",
+    "images": ["", "-2"],
     "similarTrees": []
   },
   {
