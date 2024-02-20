@@ -23508,6 +23508,51 @@
     "similarTrees": []
   },
   {
+    "code": "LEPSCOBLO",
+    "fullName": "<i>Leptospermum scoparium</i> 'Blossom'",
+    "commonName": "Mānuka",
+    "otherCommonNames": "Kahikātoa",
+    "synonyms": "",
+    "url": "leptospermum-scoparium-blossom",
+    "description": "<i>Leptospermum scoparium</i> 'Blossom' produces large, double coral pink flowers during winter and spring. With reddish stems, and small long leaves, it is a bushy grower which is great for small hedges. Prune after it flowers to encourage new growth and another flowering season the following year. <i>Leptospermum scoparium</i> is evergreen and native to New Zealand, and the states of New South Wales, Tasmania, and Victoria in Australia.",
+    "uses": "hedging-and-screening, small-garden, attracts-bees",
+    "tolerates": "coastal, windy",
+    "soilType": "dry",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "2m",
+    "width": "2m",
+    "stem": {
+      "summer": "red",
+      "autumn": "red",
+      "winter": "red",
+      "spring": "red"
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "purple, red",
+      "autumn": "purple, red",
+      "winter": "purple, red",
+      "spring": "purple, red"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "leptospermum/leptospermum-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
     "code": "LEPSCOBURQUE",
     "fullName": "<i>Leptospermum scoparium</i> 'Burgundy Queen'",
     "commonName": "Mānuka",
