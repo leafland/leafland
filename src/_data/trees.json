@@ -25127,6 +25127,51 @@
     "similarTrees": []
   },
   {
+    "code": "MACTM2",
+    "fullName": "<i>Macadamia</i> 'TM2'",
+    "commonName": "Macadamia",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "macadamia-tm2",
+    "description": "A New Zealand-bred <i>Macadamia</i> cultivar that produces large crops of large thick-shelled nuts during spring. It typically take 4-5 years to bear its first fruit, with the nuts maturing over a 7-8 month period. The leaves are small and have few prickles, with fragrant pink flowers blooming over spring and summer. <i>Macadamia</i> 'TM2' requires frost protection as it grows well in warmer regions. Additionally it is toxic to dogs. Partly self-fertile, but for best results plant with another <i>Macadamia</i> variety to allow cross-pollination.",
+    "uses": "",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "5m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "pink",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "brown, green",
+      "spring": "brown, green"
+    },
+    "treeShape": "macadamia/macadamia-general.svg",
+    "images": ["", "-2",],
+    "similarTrees": []
+  },
+  {
     "code": "MAGACUKOBDOR",
     "fullName": "<i>Magnolia acuminata</i> 'Koban Dori'",
     "commonName": "Cucumber Magnolia",
