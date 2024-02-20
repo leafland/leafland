@@ -16929,6 +16929,50 @@
     "treeShape": "elaeagnus/elaeagnus-general.svg",
     "images": ["", "-2", "-3", "-4", "-5"]
   },
+   {
+    "code": "ELAHOO",
+    "fullName": "<i>Elaeocarpus hookerianus</i>",
+    "commonName": "Pokaka",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "elaeocarpus-hookerianus",
+    "description": "<i>Elaeocarpus hookerianus</i> is a cold-tolerant forest tree that thrives in various terrains, from valleys to mountainous areas. It has a distinctive juvenile form, as the branches interlace, with tiny leaves that become large light green leaves in its mature form. <i>Elaeocarpus hookerianus</i> flowers in from late spring to early summer, with delicate white blossoms hanging in small clusters, creating a lacy appearance. This followed by dark purple oval-shaped fruit that are fleshy, resembling an olive. <i>Elaeocarpus hookerianus</i> is native to New Zealand, in both main islands and Stewart Island, named after Sir Joseph Dalton Hooker, a famous botanist.",
+    "uses": "",
+    "tolerates": "light-frosts",
+    "soilType": "",
+    "sunShade": "full-sun, part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "5m",
+    "width": "5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "purple",
+      "autumn": "purple",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "loquat/loquat-general.svg",
+    "images": ["", "-2", "-3", "-4", "-5"]
+  },
   {
     "code": "ERIJAP",
     "fullName": "<i>Eriobotrya japonica</i>",
