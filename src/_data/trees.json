@@ -14820,6 +14820,51 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
+   {
+    "code": "CORMAXPUR",
+    "fullName": "<i>Corylus maxima</i> 'Purpurea'",
+    "commonName": "Purple-leaves Filbert",
+    "otherCommonNames": "",
+    "synonyms": "<i>Corylus maxima</i> 'Atropurpurea', <i>Corylus maxima</i> 'Purple Filbert'",
+    "url": "corylus-maxima-purpurea",
+    "description": "<i>Corylus maxima</i> 'Purpurea' is a deciduous tree native to the Balkans that thrives in chalky soil under partially shaded conditions. Early in spring, well before the leaves emerge, long pink catkins appear. This is followed by edible nuts covered by a long shell. In autumn, it's foliage transforms to a dark plum-purple.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "purple",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "brown"
+    },
+    "treeShape": "pittosporum/pittosporum-low-growing.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
   {
     "code": "CORFIC",
     "fullName": "<i>Corymbia ficifolia</i>",
