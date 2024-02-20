@@ -18098,6 +18098,51 @@
     "similarTrees": []
   },
   {
+    "code": "FEISELANA",
+    "fullName": "<i>Feijoa sellowiana</i> 'Anatoki'",
+    "commonName": "Feijoa",
+    "otherCommonNames": "Pineapple Guava",
+    "synonyms": "<i>Acca sellowiana</i> 'Anatoki'",
+    "url": "feijoa-sellowiana-anatoki",
+    "description": "<i>Feijoa sellowiana</i> 'Anatoki' is an early-season feijoa, fruiting in late-autumn, with fruit that is quite large, round and sweet. Beautiful red flowers from late-spring to mid-summer. Partly self-fertile, so will need planting with a pollinator such as <i>Feijoa sellowiana</i> 'Unique', or <i>Feijoa sellowiana</i> 'Kaiteri'. It has a compact growing habit. <i>Feijoa sellowiana</i> is evergreen and native to the highlands or southern Brazil, eastern Paraguay, Uruguay, northern Argentina, and Colombia. <i>Feijoa sellowiana</i> 'Anatoki' was first bred by Roy Hart in New Zealand (PVR FEI011).",
+    "uses": "hedging-and-screening, attracts-bees",
+    "tolerates": "coastal, windy",
+    "soilType": "clay, wet, dry",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "feijoa/feijoa-general.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
+  {
     "code": "FEISELAPO",
     "fullName": "<i>Feijoa sellowiana</i> 'Apollo'",
     "commonName": "Feijoa",
