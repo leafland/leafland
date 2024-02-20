@@ -11679,6 +11679,51 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
+   {
+    "code": "CLIMAX",
+    "fullName": "<i>Clianthus maximus</i>",
+    "commonName": "Kaka Beak",
+    "otherCommonNames": "",
+    "synonyms": "<i>Clianthus puniceus var. maximus</i>",
+    "url": "clianthus-maximus",
+    "description": "<i>Clianthus maximus</i> is a small shrub that flowers with clusters of large red flowers that mimic a Kaka Beak, during winter and spring. These showy flowers attract nectar-eating birds. <i>Clianthus maximus</i> can tolerate full sun and part-shade, and will grow in most free-draining soils.<i>Clianthus maximus</i> is native to the North Island of New Zealand.",
+    "uses": "attracts-birds, small-gardens",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun, part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "2m",
+    "width": "1.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "sophora/sophora-low-bushy.svg",
+    "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
   {
     "code": "COPAUT",
     "fullName": "<i>Coprosma autumnalis</i>",
