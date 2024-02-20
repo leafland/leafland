@@ -11456,6 +11456,50 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": ["", "-2", "-3"]
   },
+   {
+    "code": "CITSINNEW",
+    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Newhall'",
+    "commonName": "Orange",
+    "otherCommonNames": "",
+    "synonyms": "<i>Citrus x sinensis</i> 'Naveline, <i>Citrus x sinensis</i> 'New Hall'",
+    "url": "citrus-x-sinensis-newhall",
+    "description": "<i>Citrus x sinensis</i> 'Newhall' produces consistent crops of very sweet and juicy fruit. The fruit is oval, with a deep orange rind, and usually seedless. Plant <i>Citrus x sinensis</i> 'Newhall' in full sun, with well-drained fertile soil. This resilient variety can tolerate temperatures as low as -3C, making it suitable for colder climates. Water regularly during hot, dry spells, and fertilize during spring to mid-summer. <i>Citrus x sinensis</i> 'Newhall' originates in California by Paul Hackney of the Newhall Land and Water Company of Piru.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "orange"
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["", "-2", "-3"]
+  },
   {
     "code": "CITSINPARNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Parent Navel'",
