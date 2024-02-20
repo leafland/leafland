@@ -11500,6 +11500,50 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": ["", "-2", "-3"]
   },
+   {
+    "code": "CITSINPOWNAV",
+    "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Powell Navel'",
+    "commonName": "Orange",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "citrus-x-sinensis-powell-navel",
+    "description": "<i>Citrus x sinensis</i> 'Powell Navel' is a late navel variety, celebrated for its excellent flavour, sweetness and juciness. The peel, deeper orange and fine, is easily removable. The fruit has a more elongated shape compared to other navel varieties. As a vigorous tree, there are some thorns on the branches, but the fruit is seedless. The fruit ripens from late winter, holds well on the tree, and stores fine. <i>Citrus x sinensis</i> 'Powell Navel' was first selected in Australia by Clive Neil Powell. It was discovered in an orchard of <i>Citrus x sinensis</i> 'Valencia Late', but is probably a mutation of <i>Citrus x sinensis</i> 'Washington Navel'.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "orange",
+      "spring": "orange"
+    },
+    "treeShape": "citrus/citrus-general.svg",
+    "images": ["", "-2"]
+  },
   {
     "code": "CITSINPARNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Parent Navel'",
