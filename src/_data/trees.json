@@ -17154,6 +17154,51 @@
     "similarTrees": []
   },
   {
+    "code": "EUCGLOGLO",
+    "fullName": "<i>Eucalyptus globulus subsp. globulus</i>",
+    "commonName": "Blue Gum",
+    "otherCommonNames": "Tasmanian Blue Gum, Southern Blue Gum",
+    "synonyms": "<i>Eucalyptus gigantea</i> 'Dehnh', <i>Eucalyptus globulus</i> 'Labill' <i>var. globulus</i>",
+    "url": "eucalyptus-globulus-subsp-globulus",
+    "description": "<i>Eucalyptus globulus subsp. globulus</i> has juvenile leaves that are blue or purple, maturing to be a glossy dark blueish-green. Spring is the peak flowering season, with creamy white flowers, either singly or in clusters on short stalks. It is well suited to high altitudes with good drainage. <i>Eucalyptus globulus subsp. globulus</i> is evergreen and native to the southeastern region of Australia, specifically in areas such as Tasmania, including King Island, and the islands of the Furneaux group, and various districts in southern Victoria.",
+    "uses": "paddock",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "8m",
+    "width": "4m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "blue, green, purple",
+      "autumn": "blue, green, purple",
+      "winter": "blue, green, purple",
+      "spring": "blue, green, purple"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "eucalyptus/eucalyptus-general.svg",
+    "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
+  {
     "code": "EUCJOH",
     "fullName": "<i>Eucalyptus johnstonii</i>",
     "commonName": "Tasmanian Yellow Gum",
