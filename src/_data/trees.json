@@ -5791,15 +5791,60 @@
     "similarTrees": []
   },
   {
-    "code": "BAMMUL",
-    "fullName": "<i>Bambusa Multiplexa Wang Tsai</i>",
+    "code": "BAMGRA",
+    "fullName": "<i>Bambusa gracilis</i>",
+    "commonName": "Fairy Bamboo",
+    "otherCommonNames": "Himalayan Bamboo, Himalayan Weeping Bamboo",
+    "synonyms": "<i>Drepanostachyum falcatum</i>, <i>Bambusa textilis</i> var. <i>gracilis</i>",
+    "url": "bambusa-gracilis",
+    "description": "This bamboo is a dense, clump-forming species that has long, arching canes and light-green foliage. It prefers moist, well-drained soil, and it is advisable to shelter <i>Bambusa gracilis</i> from strong winds to prevent damage. <i>Bambusa gracilis</i> is evergreen and native to Cambodia, Laos, Nepal, Vietnam, and the West Himalayas. <a href='https://temperate.theferns.info/plant/Drepanostachyum+falcatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Drepanostachyum falcatum</i></a>.",
+    "uses": "hedging-and-screening",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "drepanostachyum/drepanostachyum-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
+    "code": "BAMMULWANTSA",
+    "fullName": "<i>Bambusa multiplexa</i> 'Wang Tsai'",
     "commonName": "Willowy Bamboo",
     "otherCommonNames": "Chinese Goddess Bamboo, Bamboo",
     "synonyms": "",
     "url": "bambusa-multiplexa-wang-tsai",
-    "description": "<i>Bambusa Multiplexa Wang Tsai</i> is a clump bamboo with graceful surving green to orange-brown stems and dark green tufted foliage. Dense and upright grower. Awesome for privacy and screening. Grows on a wide range of soils, expect extereme wet or dry, and will toleratre moderate forest and coastal condtions but should be protected while its establishing.",
+    "description": "<i>Bambusa multiplexa</i> 'Wang Tsai' is a clump bamboo with graceful surving green to orange-brown stems and dark green tufted foliage. Dense and upright grower. Awesome for privacy and screening. Grows on a wide range of soils, expect extereme wet or dry, and will toleratre moderate forest and coastal condtions but should be protected while its establishing.",
     "uses": "hedging-and-screening, small-garden",
-    "tolerates": "coastal, Hardy",
+    "tolerates": "coastal-sites",
     "soilType": "clay",
     "sunShade": "",
     "winterFoliage": "evergreen",
@@ -5808,10 +5853,10 @@
     "height": "4m",
     "width": "1.5m",
     "stem": {
-      "summer": "green, brown",
-      "autumn": "green, brown",
-      "winter": "green, brown",
-      "spring": "green, brown"
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
     },
     "flowers": {
       "summer": "",
@@ -16793,51 +16838,6 @@
     },
     "treeShape": "dodonaea/dodonaea-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6"],
-    "similarTrees": []
-  },
-  {
-    "code": "DREFAL",
-    "fullName": "<i>Drepanostachyum falcatum</i>",
-    "commonName": "Fairy Bamboo",
-    "otherCommonNames": "Himalayan Bamboo, Himalayan Weeping Bamboo",
-    "synonyms": "<i>Bambusa gracilis</i>, <i>Bambusa textilis</i> var. <i>gracilis</i>",
-    "url": "drepanostachyum-falcatum",
-    "description": "This bamboo is a dense, clump-forming species that has long, arching canes and light-green foliage. It prefers moist, well-drained soil, and it is advisable to shelter <i>Drepanostachyum falcatum</i> from strong winds to prevent damage. <i>Drepanostachyum falcatum</i> is evergreen and native to Cambodia, Laos, Nepal, Vietnam, and the West Himalayas. <a href='https://temperate.theferns.info/plant/Drepanostachyum+falcatum' target='_blank' rel='noopener noreferrer'>Learn more about <i>Drepanostachyum falcatum</i></a>.",
-    "uses": "hedging-and-screening",
-    "tolerates": "",
-    "soilType": "",
-    "sunShade": "",
-    "winterFoliage": "evergreen",
-    "origin": "exotic",
-    "types": "",
-    "height": "3m",
-    "width": "2m",
-    "stem": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "flowers": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "foliage": {
-      "summer": "green",
-      "autumn": "green",
-      "winter": "green",
-      "spring": "green"
-    },
-    "fruit": {
-      "summer": "",
-      "autumn": "",
-      "winter": "",
-      "spring": ""
-    },
-    "treeShape": "drepanostachyum/drepanostachyum-general.svg",
-    "images": ["", "-2", "-3"],
     "similarTrees": []
   },
   {
