@@ -15043,6 +15043,51 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
+   {
+    "code": "COTCOGPUR",
+    "fullName": "<i>Cotinus coggygria</i> 'Purpurea'",
+    "commonName": "Purple Smoke Tree",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "cotinus-coggygria-purpurea",
+    "description": "<i>Cotinus coggygria</i> 'Purpurea' will flourish in various conditions but thrives best in a well-drained soil under full sun exposure. The soft purple foliage deepens in colour throughout summer, particulary in sunny locations, and in autumn it transitions to a brilliant orange. During mid to late summer, tiny pink flowers grow from the end of a long stalk, looking like a plume of smoke. <i>Cotinus coggygria</i> is deciduous and native to a large area from southern Europe, east across central Asia, and the Himalayans to northern China.",
+    "uses": "",
+    "tolerates": "small-gardens",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "pink",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "purple",
+      "autumn": "orange",
+      "winter": "",
+      "spring": "purple"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "cotinus/cotinus-general.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
   {
     "code": "COTCOGREDSPI",
     "fullName": "<i>Cotinus coggygria</i> 'Red Spirit'",
