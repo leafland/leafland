@@ -21619,6 +21619,51 @@
     "images": [""],
     "similarTrees": []
   },
+   {
+    "code": "HYDPANLIM",
+    "fullName": "<i>Hydrangea paniculata</i> 'Limelight'",
+    "commonName": "Panicle Hydrangea",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "hydrangea-paniculata-limelight",
+    "description": "<i>Hydrangea paniculata</i> 'Limelight' has large conical flower heads, that are stunning in summer and autumn. They begin in a lime green-yellow, transitioning gradually to cream, and then to a rich smokey pink. It is essential to prune in early spring, as it encourages flowers on the new growth. <i>Hydrangea paniculata</i> 'Limelight' will grow in both full sun and partial shade and thrive in humus-rich soils. <i> Hydrangea paniculata</i> is deciduous and native to southern and eastern China, Korea, Japan, and Russia.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "1.5m",
+    "width": "1.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "green, white, pink",
+      "autumn": "green, white, pink",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
   {
     "code": "HYMFLA",
     "fullName": "<i>Hymenosporum flavum</i>",
