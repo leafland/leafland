@@ -1320,7 +1320,7 @@
     "treeShape": "acer-palmatum/acer-palmatum-weeping.svg",
     "images": ["", "-2"]
   },
-   {
+  {
     "code": "ACEPALDISCRIPRI",
     "fullName": "<i>Acer palmatum</i> var. <i>dissectum</i> 'Crimson Princess'",
     "commonName": "Japanese Maple",
@@ -2482,7 +2482,7 @@
     "treeShape": "acer-palmatum/acer-palmatum-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7"]
   },
-   {
+  {
     "code": "ACEPALPIX",
     "fullName": "<i>Acer palmatum</i> 'Pixie'",
     "commonName": "Japanese Maple",
@@ -6954,7 +6954,7 @@
     "treeShape": "brachychiton/brachychiton-large.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6", "-7", "-8"]
   },
-   {
+  {
     "code": "BUXGREGEM",
     "fullName": "<i>Buxus</i> 'Green Gem'",
     "commonName": "Boxwood",
@@ -7086,7 +7086,7 @@
     "treeShape": "buxus/buxus-general.svg",
     "images": ["", "-2", "-3", "-4", "-5", "-6"]
   },
-   {
+  {
     "code": "CALBETJOH",
     "fullName": "<i>Callistemon</i> 'Better John'",
     "commonName": "Bottlebrush",
@@ -8654,7 +8654,7 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
-   {
+  {
     "code": "CAMSASPLAPIN",
     "fullName": "<i>Camellia sasanqua</i> 'Plantation Pink'",
     "commonName": "Camellia",
@@ -11323,7 +11323,7 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
-   {
+  {
     "code": "CITSINBLOORA",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Blood Orange'",
     "commonName": "Orange",
@@ -11457,7 +11457,7 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": [""]
   },
-   {
+  {
     "code": "CITSINHARLAT",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Harwoods Late'",
     "commonName": "Orange",
@@ -11501,7 +11501,7 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": ["", "-2", "-3"]
   },
-   {
+  {
     "code": "CITSINNEW",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Newhall'",
     "commonName": "Orange",
@@ -11545,7 +11545,7 @@
     "treeShape": "citrus/citrus-general.svg",
     "images": ["", "-2", "-3"]
   },
-   {
+  {
     "code": "CITSINPOWNAV",
     "fullName": "<i>Citrus</i> x <i>sinensis</i> 'Powell Navel'",
     "commonName": "Orange",
@@ -11724,7 +11724,7 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
-   {
+  {
     "code": "CLIMAX",
     "fullName": "<i>Clianthus maximus</i>",
     "commonName": "Kaka Beak",
@@ -12083,7 +12083,7 @@
     "images": [""],
     "similarTrees": []
   },
-   {
+  {
     "code": "COPRHA",
     "fullName": "<i>Coprosma rhamnoides</i>",
     "commonName": "Mingimingi",
@@ -12125,7 +12125,7 @@
       "spring": "red"
     },
     "treeShape": "coprosma/coprosma-low-growing.svg",
-    "images": ["","-1","-2","-3","-4","-5","-6"],
+    "images": ["", "-1", "-2", "-3", "-4", "-5", "-6"],
     "similarTrees": []
   },
   {
@@ -14865,7 +14865,7 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
-   {
+  {
     "code": "CORMAXPUR",
     "fullName": "<i>Corylus maxima</i> 'Purpurea'",
     "commonName": "Purple-leaves Filbert",
@@ -15043,7 +15043,7 @@
     "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
-   {
+  {
     "code": "COTCOGPUR",
     "fullName": "<i>Cotinus coggygria</i> 'Purpurea'",
     "commonName": "Purple Smoke Tree",
@@ -16929,7 +16929,7 @@
     "treeShape": "elaeagnus/elaeagnus-general.svg",
     "images": ["", "-2", "-3", "-4", "-5"]
   },
-   {
+  {
     "code": "ELAHOO",
     "fullName": "<i>Elaeocarpus hookerianus</i>",
     "commonName": "Pokaka",
@@ -21619,7 +21619,7 @@
     "images": [""],
     "similarTrees": []
   },
-   {
+  {
     "code": "HYDPANLIM",
     "fullName": "<i>Hydrangea paniculata</i> 'Limelight'",
     "commonName": "Panicle Hydrangea",
@@ -25168,7 +25168,7 @@
       "spring": "brown, green"
     },
     "treeShape": "macadamia/macadamia-general.svg",
-    "images": ["", "-2",],
+    "images": ["", "-2"],
     "similarTrees": []
   },
   {
@@ -34071,7 +34071,7 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
-   {
+  {
     "code": "OLEEURJ2",
     "fullName": "<i>Olea europaea</i> 'J2'",
     "commonName": "Olive",
@@ -34994,7 +34994,7 @@
     "treeShape": "avocado/avocado-general.svg",
     "images": ["", "-2", "-3"]
   },
-   {
+  {
     "code": "PERAMEZUT",
     "fullName": "<i>Persea americana</i> 'Zutano'",
     "commonName": "Avocado",
@@ -38781,7 +38781,7 @@
     ],
     "similarTrees": []
   },
-   {
+  {
     "code": "PRUCERPUD",
     "fullName": "<i>Prunus cerasoides</i> 'Puddum'",
     "commonName": "Himalayan Cherry",
