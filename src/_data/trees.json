@@ -43024,6 +43024,51 @@
     "similarTrees": []
   },
   {
+    "code": "PYRPYRHOS",
+    "fullName": "<i>Pyrus pyrifolia</i> 'Hosui'",
+    "commonName": "Pear",
+    "otherCommonNames": "Asian Pear",
+    "synonyms": "<i>Pyrus betulaefolia</i> 'Hosui'",
+    "url": "pyrus-pyrifolia-hosui",
+    "description": "<i>Pyrus pyrifolia</i> 'Hosui' has golden-brown skin, and is extremely juicy with fine-grain textured flesh, a rich flavour and tastes distinctly of brandy. Partly sel-fertile but will produce more fruit when planted near another Asian Pea, or Bartlett variety. Early spring brings dainty white flowers, and copper bronze foliage, followed by fruit in mid-summer, and finally bright red leaves in autumn. Prune in late spring to early summer to encourage the best crop. <i>Pyrus pyrifolia</i> 'Hosui' will easily grow in fertile well-drained soils and full sun, but will need shelter and protection from frosts. <i>Pyrus pyrifolia</i> is deciduous and native to China.<i> Pyrus pyrifolia</i> 'Hosui' was first developed in the 1970's by the National Horticulture Research Station of Japan.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green, brown",
+      "autumn": "red",
+      "winter": "",
+      "spring": "green, brown"
+    },
+    "fruit": {
+      "summer": "green, brown",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "pear/pear-general.svg",
+    "images": ["", "-2"],
+    "similarTrees": []
+  },
+  {
     "code": "QUEAFA",
     "fullName": "<i>Quercus afares</i>",
     "commonName": "Algerian Oak",
