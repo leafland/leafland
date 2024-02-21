@@ -32588,6 +32588,51 @@
     "similarTrees": []
   },
   {
+    "code": "METCOLTAH",
+    "fullName": "<i>Metrosideros collina</i> 'Tahiti'",
+    "commonName": "Metrosideros",
+    "otherCommonNames": "Dwarf New Zealand Christmas Bush",
+    "synonyms": "<i>Metrosideros vilosa</i> 'Tahiti', <i>Metrosideros kermadecensis</i> 'Tahiti'",
+    "url": "metrosideros-collina-tahiti",
+    "description": "<i>Metrosideros collina</i> 'Tahiti' is a dwarf <i>Metrosideros</i> that has red stems and felted new growth. It flowers red from winter to summer and is a great option for small gardens or pots. <i>Metrosideros collina</i> 'Tahiti' grows best in full sun and well-drained soil but should be protected from frost. Native to French Polynesia, the Cook Islands, and the Pitcairn Islands, <i>Metrosideros collina</i> 'Tahiti' is an evergreen.",
+    "uses": "small-garden",
+    "tolerates": "t",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red",
+      "autumn": "",
+      "winter": "red",
+      "spring": "red"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "choisya/choisya-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
     "code": "METEXC",
     "fullName": "<i>Metrosideros excelsa</i>",
     "commonName": "Pōhutukawa",
