@@ -34071,6 +34071,51 @@
     "images": ["", "-2"],
     "similarTrees": []
   },
+   {
+    "code": "OLEEURJ2",
+    "fullName": "<i>Olea europaea</i> 'J2'",
+    "commonName": "Olive",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "olea-europaea-j2",
+    "description": "<i>Olea europaea</i> 'J2' yields reliable generous amounts of medium-sized fruit during the autumn season. As a compact oliver tree, it features a slender growth habit, making it ideal for small gardens. The fruit is suitable for preserving and eating fresh, maturing to a dark purple colour when ripe. Tolerant of drought, moderate frost, and cooler climates, it is useful for screening but will need some protection from the wind when younger. <i>Olea europaea</i> is native to the Mediterranean through Africa to China.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, grey",
+      "autumn": "green, grey",
+      "winter": "green, grey",
+      "spring": "green, grey"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, red, purple",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "olive/olive-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
   {
     "code": "OLEEURJ5",
     "fullName": "<i>Olea europaea</i> 'J5'",
