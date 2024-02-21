@@ -36878,6 +36878,50 @@
     "images": ["", "-2", "-3", "-4"]
   },
   {
+    "code": "PITTENZEN",
+    "fullName": "<i>Pittosporum tenuifolium</i> 'Zen'",
+    "commonName": "Kōhūhū",
+    "otherCommonNames": "Black Matipo",
+    "synonyms": "",
+    "url": "pittosporum-tenuifolium-zen",
+    "description": "<i>Pittosporum tenuifolium</i> 'Zen' is a fast-growing plant that has lime-green new foliage, changing to a ruby-green with hues of red when matured. Will thrive in both sun and shade, and well drained soil, clipping into a nice hedge or screen. Very exposed coastal sites may cause the new growth to become salt burnt. <i>Pittosporum tenuifolium</i> is evergreen and native to New Zealand. <i>Pittosporum tenuifolium</i> 'Zen' was developed in New Zealand.",
+    "uses": "hedging-and-screening",
+    "tolerates": "coastal, windy",
+    "soilType": "dry",
+    "sunShade": "",
+    "winterFoliage": "evergreen",
+    "origin": "native",
+    "types": "",
+    "height": "3m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green, red",
+      "autumn": "green, red",
+      "winter": "green, red",
+      "spring": "green, red"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "pittosporum/pittosporum-general.svg",
+    "images": ["", "-2"]
+  },
+  {
     "code": "PLAREG",
     "fullName": "<i>Plagianthus regius</i>",
     "commonName": "Mānatu",
