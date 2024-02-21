@@ -46797,13 +46797,58 @@
     "similarTrees": []
   },
   {
-    "code": "VIBOPUROS",
-    "fullName": "<i>Viburnum opulus</i> 'Roseum'",
+    "code": "VIBJAP",
+    "fullName": "<i>Viburnum japonicum</i>'",
+    "commonName": "Japanese Viburnum",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "viburnum-japonicum",
+    "description": "<i>Viburnum japonicum</i> is a small dense shrub with dark green leaves, that become reddish during winter. Fragrant white flower clusters appear during spring and summer, followed by small red berries. Grow in part shade, and shelter from the wind. Appropriate for small hedging and can be maintained in a container or a small garden. <i>Viburnum japonicum</i> is evergreen and native to parts of China, Gageodo Island, the Ryukyu Islands, and Japan.",
+    "uses": "small-garden, attracts-bees, hedging-and-screening",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "part-shade",
+    "winterFoliage": "evergreen",
+    "origin": "exotic",
+    "types": "",
+    "height": "2m",
+    "width": "2m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "green, red",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "viburnum/viburnum-general.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
+  {
+    "code": "VIBOPUSTE",
+    "fullName": "<i>Viburnum opulus</i> 'Sterile'",
     "commonName": "Snowball Tree",
     "otherCommonNames": "Guelder Rose",
-    "synonyms": "<i>Viburnum opulus</i> 'Sterile'",
-    "url": "viburnum-opulus-roseum",
-    "description": "<i>Viburnum opulus</i> 'Roseum' produces large, snowball-shaped flowers that emerge lime-green and mature to a pure-white color. The flowers bloom in mid-spring and are quite striking. <i>Viburnum opulus</i> 'Roseum' is characterized by its robust, upright growth habit and arching branches, which add to its overall ornamental value. The green, maple-like leaves of <i>Viburnum opulus</i> 'Roseum' turn into a beautiful shade of orange and red in the autumn season. It is important to note that <i>Viburnum opulus</i> 'Roseum' does not produce berries. <i>Viburnum opulus</i> is deciduous and native to Europe, Siberia, Turkey, and northern Algeria. <a href='https://treesandshrubsonline.org/articles/viburnum/viburnum-opulus/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Viburnum opulus</i></a>. <i>Viburnum opulus</i> 'Roseum' has been known in European gardens since the 16th century.",
+    "synonyms": "<i>Viburnum opulus</i> 'Roseum'",
+    "url": "viburnum-opulus-sterile",
+    "description": "<i>Viburnum opulus</i> 'Sterile' produces large, snowball-shaped flowers that emerge lime-green and mature to a pure-white color. The flowers bloom in mid-spring and are quite striking. <i>Viburnum opulus</i> 'Sterile' is characterized by its robust, upright growth habit and arching branches, which add to its overall ornamental value. The green, maple-like leaves of <i>Viburnum opulus</i> 'Sterile' turn into a beautiful shade of orange and red in the autumn season. It is important to note that <i>Viburnum opulus</i> 'Sterile' does not produce berries. <i>Viburnum opulus</i> is deciduous and native to Europe, Siberia, Turkey, and northern Algeria. <a href='https://treesandshrubsonline.org/articles/viburnum/viburnum-opulus/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Viburnum opulus</i></a>. <i>Viburnum opulus</i> 'Sterile' has been known in European gardens since the 16th century.",
     "uses": "small-garden",
     "tolerates": "",
     "soilType": "",
