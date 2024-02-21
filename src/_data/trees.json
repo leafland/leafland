@@ -38781,6 +38781,51 @@
     ],
     "similarTrees": []
   },
+   {
+    "code": "PRUCERPUD",
+    "fullName": "<i>Prunus cerasoides</i> 'Puddum'",
+    "commonName": "Himalayan Cherry",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "prunus-cerasoides-puddum",
+    "description": "<i>Prunus cerasoides</i> 'Puddum' is a beautiful upright tree that produces small single pink cluster flowers in late winter, attracting birds and bees. Tui's love the blossoms, as they are nectar laden. Leaves emerge green during spring and summer, but autumn transforms them into orange and yellow, before dropping in the winter. Plant in full sun with well-drained soils.<i>Prunus cerasoides</i> is deciduous and native to Eastern Asia, southern China, northern India, Burma and Thailand.",
+    "uses": "attracts-birds, attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "pink",
+      "spring": "pink"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow, orange",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "prunus/prunus-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
   {
     "code": "PRUCERRHE",
     "fullName": "<i>Prunus cerasus</i> 'Rhexii'",
