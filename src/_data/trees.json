@@ -10965,10 +10965,10 @@
   },
   {
     "code": "CITPARCUTRED",
-    "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Cutlers Red'",
+    "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Cutler's Red'",
     "commonName": "Grapefruit",
     "otherCommonNames": "",
-    "synonyms": "<i>Citrus</i> x <i>aurantium</i> 'Cutlers Red'",
+    "synonyms": "<i>Citrus</i> x <i>aurantium</i> 'Cutler's Red'",
     "url": "citrus-x-paradisi-cutlers-red",
     "description": "Ripening from mid-winter to early-spring, <i>Citrus x paradisi</i> 'Cutler's Red' boasts a large deep orange fruit with a sweet juicy flavour, and a touch of zing. This evergreen plant thrives in sunny locations with fertile, well-drained soil and benefits from adequate watering, especially in hot and dry summers. However, it can withstand temperatures down to -3C. <i>Citrus x paradisi</i> 'Cutler's Red' originated from Kerikeri in the 1970's, from the parent plant <i>Citrus x paradisi</i> that is native to Barbados.",
     "uses": "attracts-bees",
@@ -11005,7 +11005,7 @@
       "spring": "yellow, orange"
     },
     "treeShape": "citrus/citrus-general.svg",
-    "images": ["", "-2"],
+    "images": ["", "-2", "-3"],
     "similarTrees": []
   },
   {
