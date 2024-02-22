@@ -10968,9 +10968,9 @@
     "fullName": "<i>Citrus</i> x <i>paradisi</i> 'Cutlers Red'",
     "commonName": "Grapefruit",
     "otherCommonNames": "",
-    "synonyms": "<i>Citrus</i> x <i>aurantium</i> 'Cutlers red'",
+    "synonyms": "<i>Citrus</i> x <i>aurantium</i> 'Cutlers Red'",
     "url": "citrus-x-paradisi-cutlers-red",
-    "description": "<i>Citrus</i> x <i>paradisi</i> 'Cutlers Red' has large, deep orange, sweet, juicy fruit with just a little zing. The rind is thick. The fruit ripens July to November. Works best in a sunny position with  well drained fertile soil. Water well during hot dry summer periods.Ideal for screening or hedging. Evergreen.(3m wide by 3m tall after 10 years)",
+    "description": "Ripening from mid-winter to early-spring, <i>Citrus x paradisi</i> 'Cutler's Red' boasts a large deep orange fruit with a sweet juicy flavour, and a touch of zing. This evergreen plant thrives in sunny locations with fertile, well-drained soil and benefits from adequate watering, especially in hot and dry summers. However, it can withstand temperatures down to -3C. <i>Citrus x paradisi</i> 'Cutler's Red' originated from Kerikeri in the 1970's, from the parent plant <i>Citrus x paradisi</i> that is native to Barbados.",
     "uses": "attracts-bees",
     "tolerates": "",
     "soilType": "",
@@ -10979,7 +10979,7 @@
     "origin": "exotic",
     "types": "edible",
     "height": "3m",
-    "width": "2m",
+    "width": "3m",
     "stem": {
       "summer": "",
       "autumn": "",
@@ -11001,11 +11001,11 @@
     "fruit": {
       "summer": "",
       "autumn": "",
-      "winter": "yellow",
-      "spring": "yellow"
+      "winter": "yellow, orange",
+      "spring": "yellow, orange"
     },
     "treeShape": "citrus/citrus-general.svg",
-    "images": ["-1"],
+    "images": ["", "-2", "-3", "-4"],
     "similarTrees": []
   },
   {
