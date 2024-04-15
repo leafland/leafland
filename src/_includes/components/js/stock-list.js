@@ -67,19 +67,22 @@ if (stockListType === "retail") {
   }
 
   for (let j = 0; j < rawData.values.length; j++) {
-    if (!rawData.values[j][0].includes("?")) {
-      for (let i = 0; i < 10; i++) {
-        if (stockListType === "wholesale") {
-          if (i !== 4) {
-            csv += '"' + rawData.values[j][i] + '"' + ",";
-          }
-        } else {
-          if (i !== 4 && i !== 5) {
-            csv += '"' + rawData.values[j][i] + '"' + ",";
+    if (rawData.values[j] === undefined || rawData.values[j].length == 0) {
+    } else {
+      if (!rawData.values[j][0].includes("?")) {
+        for (let i = 0; i < 10; i++) {
+          if (stockListType === "wholesale") {
+            if (i !== 4) {
+              csv += '"' + rawData.values[j][i] + '"' + ",";
+            }
+          } else {
+            if (i !== 4 && i !== 5) {
+              csv += '"' + rawData.values[j][i] + '"' + ",";
+            }
           }
         }
+        csv += "\r\n";
       }
-      csv += "\r\n";
     }
   }
 
