@@ -205,6 +205,19 @@ async function createStockValues() {
       }
     }
 
+    document.querySelector("#order-grades-table-header").innerHTML = `
+    <tr>
+      <th></th>
+      <th>Grade</th>
+      <th id="grade-price">$Retail</th>
+      <th>Height (m)</th>
+      <th>Standard Height (m)</th>
+      <th>Ready</th>
+      <th>In Production</th>
+    </tr>
+    `;
+    document.querySelector("#grade-sizes-loading-text").style.setProperty("display", "none");
+
     if (document.querySelector("#order-grades-table-inner").innerHTML === "") {
       document.querySelector("#grade-sizes").innerHTML = "<p class='title'>Currently out of stock.</p>";
     }
