@@ -44350,6 +44350,51 @@
     "similarTrees": []
   },
   {
+    "code": "ROSICE",
+    "fullName": "<i>Rosa</i> 'Iceberg'",
+    "commonName": "Rose",
+    "otherCommonNames": "",
+    "synonyms": "<i>Rosa floribunda</i> ‘Korbin’",
+    "url": "rosa-iceberg",
+    "description": "<i>Rosa</i> 'Iceberg' is a deciduous shrub that produces pure white flowers with occasional pinkish flushes in the bud stage. These blooms appear in clusters during early spring and autumn, especially in cool, damp conditions. While the flowers have a light fragrance, the mid-green leaves complement the simple elegance of the plant. This hardy rose thrives in full sun and prefers fertile, humus-rich, well-drained soil. Known for its resilience, the Iceberg rose can endure freezing temperatures, making it a reliable addition to gardens. It was bred by Kordes in Germany in 1958 as a cross between the Robin Hood hybrid musk (1927) and the Virgo hybrid tea rose (1947), and has won numerous awards for its beauty and hardiness.",
+    "uses": "small-garden",
+    "tolerates": "light-frosts",
+    "soilType": "",
+    "sunShade": "full-sun",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "0.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "white",
+      "autumn": "white",
+      "winter": "",
+      "spring": "white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "viburnum/viburnum-general.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
+  {
     "code": "SALBAB",
     "fullName": "<i>Salix babylonica</i>",
     "commonName": "Weeping Willow",
