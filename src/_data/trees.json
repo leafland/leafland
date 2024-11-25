@@ -21620,6 +21620,51 @@
     "similarTrees": []
   },
   {
+    "code": "HYDMACAGNPAV",
+    "fullName": "<i>Hydrangea macrophylla </i> 'Agnes Pavelli'",
+    "commonName": "Mophead Hydrangea",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "hydrangea-macrophylla-agnes-pavelli",
+    "description": "<i>Hydrangea macrophylla </i> 'Agnes Pavelli' is a deciduous hydrangea grows tall with large, rounded white flower heads that age to green in shade or burgundy in brighter light. For best results, plant in humus-rich soil that retains moisture but doesn't dry out in summer. It thrives in semi-shade and should be protected from direct midday sun. <i>Hydrangea macrophylla </i> is native to Japan, China, Korea, and Southeast Asia.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "part-shade",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "1.5m",
+    "width": "1.5m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "green, white",
+      "autumn": "green, white",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2", "-3", "-4"],
+    "similarTrees": []
+  },
+  {
     "code": "HYDPANLIM",
     "fullName": "<i>Hydrangea paniculata</i> 'Limelight'",
     "commonName": "Panicle Hydrangea",
