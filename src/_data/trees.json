@@ -21665,6 +21665,51 @@
     "similarTrees": []
   },
   {
+    "code": "HYDMACBRI",
+    "fullName": "<i>Hydrangea macrophylla </i> 'Brilliant'",
+    "commonName": "Mophead Hydrangea",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "hydrangea-macrophylla-brilliant",
+    "description": "<i>Hydrangea macrophylla<i/> 'Brilliant' is a deciduous shrub that adds vibrant color to any garden with its large, round clusters of crimson flowers from summer to autumn, which may transition to soft pink as the season progresses. The flowers will turn blue in acidic soils. <i>Hydrangea macrophylla<i/> 'Brilliant' thrives in morning sun or part shade, preferring well-drained, humus-rich soil that doesn't dry out in the summer. It’s an ideal addition to flowering borders or shrubbery, where its striking blooms brighten up the landscape. Hydrangea macrophylla is native to East Asia, bringing a touch of that region's natural beauty to your garden.",
+    "uses": "small-garden",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "part-shade",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "",
+    "height": "1m",
+    "width": "1m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "red, pink",
+      "autumn": "red, pink",
+      "winter": "",
+      "spring": ""
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "green",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "camellia/camellia-general.svg",
+    "images": ["", "-2", "-3", "-4", "-5"],
+    "similarTrees": []
+  },
+  {
     "code": "HYDPANLIM",
     "fullName": "<i>Hydrangea paniculata</i> 'Limelight'",
     "commonName": "Panicle Hydrangea",
