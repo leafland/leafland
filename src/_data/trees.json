@@ -30568,6 +30568,51 @@
     "similarTrees": []
   },
   {
+    "code": "MALDOMGOLDELREDDEL",
+    "fullName": "<i>Malus domestica</i> 'Golden Delicious/Red Delicious'",
+    "commonName": "Apple",
+    "otherCommonNames": "",
+    "synonyms": "",
+    "url": "malus-domestica-golden-delicious-red-delicious",
+    "description": "<i>Malus domestica</i> Golden Delicious and <i>Malus domestica</i> Red Delicious are similar in taste, both offering a sweet, honeyed flavor that is perfect for desserts like pies and cakes, as well as fresh snacking. The two varieties pollinate each other, making for better crops. The fruit starts off green-yellow. When ripe, the apples have a honeyed, very sweet taste. The fruit becomes ripe in late autumn, and the pink buds transform into white flowers during spring. They thrive in full sun, fertile soils, and frost-free conditions.<i <i>Malus domestica</i> is deciduous and native to Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Uzbekistan, and China. <a href='https://treesandshrubsonline.org/articles/malus/malus-domestica/' target='_blank' rel='noopener noreferrer'>Learn more about <i>Malus domestica</i></a>. <i>Malus domestica</i> 'Golden Delicious' was discovered at the Mullins' family farm in Clay County, West Virginia, United States and was first sold in 1914 by Stark Brothers Nurseries in Louisiana, Missouri, United States.",
+    "uses": "attracts-bees",
+    "tolerates": "",
+    "soilType": "",
+    "sunShade": "",
+    "winterFoliage": "deciduous",
+    "origin": "exotic",
+    "types": "edible",
+    "height": "4m",
+    "width": "3m",
+    "stem": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": ""
+    },
+    "flowers": {
+      "summer": "",
+      "autumn": "",
+      "winter": "",
+      "spring": "pink, white"
+    },
+    "foliage": {
+      "summer": "green",
+      "autumn": "yellow",
+      "winter": "",
+      "spring": "green"
+    },
+    "fruit": {
+      "summer": "",
+      "autumn": "green, yellow, red",
+      "winter": "",
+      "spring": ""
+    },
+    "treeShape": "apple/apple-general.svg",
+    "images": ["", "-2", "-3"],
+    "similarTrees": []
+  },
+  {
     "code": "MALDOMGRASMI",
     "fullName": "<i>Malus domestica</i> 'Granny Smith'",
     "commonName": "Apple",
